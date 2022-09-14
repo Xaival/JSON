@@ -3,6 +3,11 @@
 	<title>Filtros registro</title> 
 	<author><name>Xaival</name></author>
 	<entry>
+		<title>Raiz</title>
+		<apps:property name='from' value='o0@0o'/>
+		<apps:property name='label' value='Registros'/>
+	</entry>
+	<entry>
 		<title>1.Cuenta oficial</title>
 		<apps:property name='from' value='@777studios.net OR @marketing.activision.com OR @te.activision.com OR @alienwarearena.com OR @avalanchestudios.se OR @out.avalanchestudios.com OR @bandainamcoent.eu OR @news.bandainamcoent.eu OR @naeu.playblackdesert.com OR @blizzard.com OR @coregames.com OR @manticoregames.com OR @crackwatch.com OR @deadfrontier2.com OR @dotbigbang.com OR @e.ea.com OR @epicgames.com OR help@acct.epicgames.com OR help@epicgames.com OR @unrealengine.com OR @mailer.fanatical.com OR @scalefast.com OR @gaijin.net OR @m.gamehag.com OR @gamehag.com OR support@gamehag.zendesk.com OR @email.games2gether.com OR @email.gog.com OR @gogalaxy.com OR @emails.gothamcityimpostors.com OR @heroesandgenerals.com OR @spellbook.com OR @hirezstudios.com OR @hubs-mail.com OR @humblebundle.com OR @hypixelstudios.com OR @email.instant-gaming.com OR @itch.io OR @keymailer.co OR @login.xsolla.com OR @magic.wizards.com OR @email.mihoyo.com OR @my.games OR @oww.io OR @parallaxgame.com OR @pearlabyss.com OR @email.sonyentertainmentnetwork.com OR @txn-email.playstation.com OR @rawg.io OR @roblox.com OR @rockstargames.com OR support@rockstargames.com OR @sansar.com OR @sega.co.uk OR @xmail.square-enix.com OR @bioware.swtor.com OR @steampowered.com OR @steelseries.com OR @koggames.com OR @cs.ubisoft.com OR @ubi.com OR @2fa.warframe.com OR @activate.warframe.com OR @accounts.wbgames.com OR @accounts.wizards.com OR @thetanarena.com'/>
 		<apps:property name='label' value='Juegos'/>
