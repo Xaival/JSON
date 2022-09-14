@@ -1,5 +1,5 @@
 {
-   "date_update": "14 Sep 2022 02:50 UTC",
+   "date_update": "14 Sep 2022 03:05 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -14,50 +14,6 @@
          "RRSS": {
             "Insta1": "https://www.instagram.com/ale_erikson_larp",
             "Insta2": "https://www.instagram.com/ale_erikson",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAET",
-         "Nombre": "",
-         "NombreRol": "Elin Erikd\u00f6ttir",
-         "Hermandad": "Asgard Koleti\u2019z",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/4KmXN55/Asgard-Koleti-z.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/elin_erikdottir/",
-            "Insta2": "https://www.instagram.com/hola.soy_odiiosa/",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAEQ",
-         "Nombre": "Lucia",
-         "NombreRol": "",
-         "Hermandad": "Draconia",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/VxfHFGG/Draconia.webp",
-         "ImgURL": "",
-         "Descripcion": "Arquera",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
             "Insta3": "",
             "TikTok": "",
             "Twitter": "",
@@ -134,50 +90,6 @@
          }
       },
       {
-         "ID": "AAAAAC",
-         "Nombre": "Nefta Nervo",
-         "NombreRol": "",
-         "Hermandad": "Guardia del Cuervo",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/NYJPfyc/Guardia-del-Cuervo.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAAD",
-         "Nombre": "Antonio M.",
-         "NombreRol": "",
-         "Hermandad": "Hijos de Caronte",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/MPVFzQt/Hijos-de-Caronte.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/sr.equisde",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAAAE",
          "Nombre": "Carlos Ortiz Palomo",
          "NombreRol": "",
@@ -233,50 +145,6 @@
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/alfzmyle",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAAH",
-         "Nombre": "Marco Palmero",
-         "NombreRol": "Neun Smij\u00f6rn",
-         "Hermandad": "Hijos de Caronte",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/MPVFzQt/Hijos-de-Caronte.webp",
-         "ImgURL": "",
-         "Descripcion": "Familia Dragnyl\nPalmero el M\u00e9dico",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/neun_smijorn",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAAI",
-         "Nombre": "",
-         "NombreRol": "Kaus Bowman",
-         "Hermandad": "Hijos de Caronte",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/MPVFzQt/Hijos-de-Caronte.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/kaus_bowman",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
@@ -574,28 +442,6 @@
          }
       },
       {
-         "ID": "AAAAAZ",
-         "Nombre": "",
-         "NombreRol": "Gibraltar El Apacible",
-         "Hermandad": "Midgard",
-         "Casa": "Angrieff",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/gibraltar_elapacible",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAAAV",
          "Nombre": "",
          "NombreRol": "Kirito",
@@ -640,72 +486,6 @@
          }
       },
       {
-         "ID": "AAAABB",
-         "Nombre": "Araceli",
-         "NombreRol": "Ashe",
-         "Hermandad": "Midgard",
-         "Casa": "Greenwood",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/celiipacheco_99",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAABC",
-         "Nombre": "Chechu",
-         "NombreRol": "Cuervo",
-         "Hermandad": "Midgard",
-         "Casa": "Greenwood",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/vintercrow",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAABD",
-         "Nombre": "Israel",
-         "NombreRol": "Gideon",
-         "Hermandad": "Midgard",
-         "Casa": "Greenwood",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/Israelcc.19",
-            "Insta2": "https://www.instagram.com/israel.cc.priv",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAABE",
          "Nombre": "Jesus",
          "NombreRol": "Girion",
@@ -728,50 +508,6 @@
          }
       },
       {
-         "ID": "AAAABF",
-         "Nombre": "Jesus",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "Greenwood",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/josee7657",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAABG",
-         "Nombre": "Jose Beato",
-         "NombreRol": "Wylfo",
-         "Hermandad": "Midgard",
-         "Casa": "Greenwood",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/jose__beato",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAABH",
          "Nombre": "Joselu",
          "NombreRol": "Canuto",
@@ -783,94 +519,6 @@
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/canuto_greenwood",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAABI",
-         "Nombre": "Manolo",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "Greenwood",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/hardgorealucard",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAABJ",
-         "Nombre": "Yerai",
-         "NombreRol": "Einar",
-         "Hermandad": "Midgard",
-         "Casa": "Greenwood",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/Yera7.3",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAEO",
-         "Nombre": "Blanca",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "Ironheim",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/shiro_04_/",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAABK",
-         "Nombre": "Ana Monta\u00f1o",
-         "NombreRol": "Helena",
-         "Hermandad": "Midgard",
-         "Casa": "Marina",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "Astr\u00f3noma, navegante, cirujana.\n3 l\u00ednea de combate.",
-         "Ciudad": "Cadiz",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/aniitamf25",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
@@ -1102,28 +750,6 @@
          }
       },
       {
-         "ID": "AAAABV",
-         "Nombre": "Javi",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "Mormont",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAADI",
          "Nombre": "Javier Velasco Moreno",
          "NombreRol": "Ron",
@@ -1184,50 +810,6 @@
             "TikTok": "https://www.tiktok.com/@eltombola?lang=es",
             "Twitter": "",
             "Facebook": "https://www.facebook.com/profile.php?id=100009453832744",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAACA",
-         "Nombre": "",
-         "NombreRol": "Adhan Claw",
-         "Hermandad": "Midgard",
-         "Casa": "Mormont",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/adhan.claw.de.la.casa.mormont",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAACC",
-         "Nombre": "\u00c1lvaro",
-         "NombreRol": "Alvar Haardrade",
-         "Hermandad": "Midgard",
-         "Casa": "Reed",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/alvarhaardrade",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "https://www.facebook.com/profile.php?id=100004781925710",
             "Youtube": "",
             "Twitch": "",
             "Web": ""
@@ -1366,50 +948,6 @@
          }
       },
       {
-         "ID": "AAAACH",
-         "Nombre": "Alfonso 1",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/nott_ward",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAACI",
-         "Nombre": "Alfonso 2",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAACJ",
          "Nombre": "Alvaro 1",
          "NombreRol": "",
@@ -1468,28 +1006,6 @@
             "Insta2": "https://www.instagram.com/antiescoria_13.r",
             "Insta3": "",
             "TikTok": "https://www.tiktok.com/@unaotakomas?lang=es",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAACO",
-         "Nombre": "Arturo Ortega Flores",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/elkesomaster",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
             "Twitter": "",
             "Facebook": "",
             "Youtube": "",
@@ -1674,50 +1190,6 @@
          }
       },
       {
-         "ID": "AAAACY",
-         "Nombre": "Kali",
-         "NombreRol": "Delvin Demorgan",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "Sevilla",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/delvin_demorgan",
-            "Insta2": "https://www.instagram.com/mahe_sin_n",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADA",
-         "Nombre": "Lucas",
-         "NombreRol": "Lucas Slochtly",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/lucas_slochtly_midgard",
-            "Insta2": "https://www.instagram.com/lucaamaster03",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAADB",
          "Nombre": "Lucia",
          "NombreRol": "Lyanna",
@@ -1762,28 +1234,6 @@
          }
       },
       {
-         "ID": "AAAADE",
-         "Nombre": "Mini Jhonny",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/mini_jhonny_",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAADF",
          "Nombre": "Natalia",
          "NombreRol": "",
@@ -1817,28 +1267,6 @@
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/choco_larp/",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADH",
-         "Nombre": "Raquel",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/yona.s_mad_disaster",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
@@ -1894,138 +1322,6 @@
          }
       },
       {
-         "ID": "AAAADK",
-         "Nombre": "Temno",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADL",
-         "Nombre": "Vilo",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/_vilo__",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADM",
-         "Nombre": "Yuki",
-         "NombreRol": "",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADN",
-         "Nombre": "",
-         "NombreRol": "Oriol",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADO",
-         "Nombre": "Lom Deidad",
-         "NombreRol": "",
-         "Hermandad": "Sentencia",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/PNfQRmX/Sentencia.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/lom_1137/",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADP",
-         "Nombre": "Oscar",
-         "NombreRol": "",
-         "Hermandad": "Sentencia",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/PNfQRmX/Sentencia.webp",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAAEF",
          "Nombre": "",
          "NombreRol": "Adri\u00e1n Arnaiz",
@@ -2059,160 +1355,6 @@
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/halad_lotr/",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAEC",
-         "Nombre": "Alberto Cardona",
-         "NombreRol": "",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/rhaegarhorton/",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADT",
-         "Nombre": "Ale",
-         "NombreRol": "Nagual Lancer",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/centipedex_",
-            "Insta2": "https://www.instagram.com/nagual_dragniel/",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADQ",
-         "Nombre": "Andrea Garc\u00eda (Kumi)",
-         "NombreRol": "",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/garcicoran",
-            "Insta2": "https://www.instagram.com/gartcicoran",
-            "Insta3": "",
-            "TikTok": "https://www.tiktok.com/@garcicoran?lang=es",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAACL",
-         "Nombre": "Angela",
-         "NombreRol": "",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/angela.fdz_",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAEB",
-         "Nombre": "",
-         "NombreRol": "",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAABL",
-         "Nombre": "Antonio",
-         "NombreRol": "Tarek Valarak",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "Capit\u00e1n del recuerdos borrosos.",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/tarek_valarak",
-            "Insta2": "https://www.instagram.com/mago_sempai",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADR",
-         "Nombre": "Arturo Ortega Flores",
-         "NombreRol": "",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/elkesomaster",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
@@ -2400,28 +1542,6 @@
          }
       },
       {
-         "ID": "AAAABW",
-         "Nombre": "Manuel Trocoli",
-         "NombreRol": "Leo Korlen",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/leo_korlen",
-            "Insta2": "https://www.instagram.com/manueltr_04",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAABO",
          "Nombre": "Mario Jarillo Guerrero",
          "NombreRol": "Aron \"de aleroth\" fionn",
@@ -2466,28 +1586,6 @@
          }
       },
       {
-         "ID": "AAAABY",
-         "Nombre": "Milo",
-         "NombreRol": "",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/milo_conrad_",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAADS",
          "Nombre": "Nhoa",
          "NombreRol": "Nhoa Bolton",
@@ -2506,28 +1604,6 @@
             "Facebook": "",
             "Youtube": "",
             "Twitch": "https://www.twitch.tv/nhoabolton",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAABP",
-         "Nombre": "Pablo Casbe",
-         "NombreRol": "",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/pablocasbe30",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
             "Web": ""
          }
       },
@@ -2576,28 +1652,6 @@
          }
       },
       {
-         "ID": "AAAABR",
-         "Nombre": "Samuel Garcia Maldonado",
-         "NombreRol": "Selendar",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/samuel2442_",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAAAX",
          "Nombre": "Sevoia",
          "NombreRol": "John Cor",
@@ -2616,50 +1670,6 @@
             "Facebook": "",
             "Youtube": "",
             "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAADU",
-         "Nombre": "",
-         "NombreRol": "El Oxidado",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/el_oxidado_foamsmith",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAES",
-         "Nombre": "",
-         "NombreRol": "Kuroi Ryuu",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/kuroi_ryuu_/",
-            "Insta2": "https://www.instagram.com/pi_ryuu_/",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "https://www.twitch.tv/kuroi_ryuu_",
             "Web": ""
          }
       }
