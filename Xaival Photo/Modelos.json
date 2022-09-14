@@ -1,5 +1,5 @@
 {
-   "date_update": "14 Sep 2022 02:39 UTC",
+   "date_update": "14 Sep 2022 02:40 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -9,15 +9,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "1999/11/05",
          "Edad": "22",
-         "Insta1": "https://xaival.page.link/Insta-Photo",
-         "Insta2": "https://xaival.page.link/Insta",
-         "Insta3": "",
-         "TikTok": "",
-         "Twitter": "",
-         "Facebook": "",
-         "Youtube": "https://xaival.page.link/Youtube",
-         "Twitch": "https://xaival.page.link/Twitch",
-         "Web": "https://xaival.page.link/RRSS"
+         "RRSS": {
+            "Insta1": "https://xaival.page.link/Insta-Photo",
+            "Insta2": "https://xaival.page.link/Insta",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "https://xaival.page.link/Youtube",
+            "Twitch": "https://xaival.page.link/Twitch",
+            "Web": "https://xaival.page.link/RRSS"
+         }
       },
       {
          "ID": "AAAAAB",
@@ -27,15 +29,17 @@
          "Ciudad": "Huelva",
          "Nacio": "2001/12/05",
          "Edad": "20",
-         "Insta1": "https://www.instagram.com/djsioke/",
-         "Insta2": "https://www.instagram.com/demon0fdisaster/",
-         "Insta3": "https://www.instagram.com/uke.sioke",
-         "TikTok": "https://www.tiktok.com/@uke.sioke?lang=es",
-         "Twitter": "",
-         "Facebook": "https://www.facebook.com/profile.php?id=481258685561305",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/djsioke/",
+            "Insta2": "https://www.instagram.com/demon0fdisaster/",
+            "Insta3": "https://www.instagram.com/uke.sioke",
+            "TikTok": "https://www.tiktok.com/@uke.sioke?lang=es",
+            "Twitter": "",
+            "Facebook": "https://www.facebook.com/profile.php?id=481258685561305",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAC",
@@ -45,15 +49,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "1999/08/31",
          "Edad": "23",
-         "Insta1": "",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "https://www.tiktok.com/@anamariaflp?lang=es",
-         "Twitter": "",
-         "Facebook": "https://www.facebook.com/profile.php?id=100005364061941",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@anamariaflp?lang=es",
+            "Twitter": "",
+            "Facebook": "https://www.facebook.com/profile.php?id=100005364061941",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAD",
@@ -63,15 +69,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "1997/06/11",
          "Edad": "25",
-         "Insta1": "https://www.instagram.com/andrea_mha03",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "https://www.tiktok.com/@andreamha4?lang=es",
-         "Twitter": "",
-         "Facebook": "",
-         "Youtube": "https://www.youtube.com/channel/UCTRH9FgtIy9odCezr0Oud8A",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/andrea_mha03",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@andreamha4?lang=es",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "https://www.youtube.com/channel/UCTRH9FgtIy9odCezr0Oud8A",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAE",
@@ -81,15 +89,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "2000/07/24",
          "Edad": "22",
-         "Insta1": "https://www.instagram.com/beeaaguilar",
-         "Insta2": "https://www.instagram.com/bea_mmexpression",
-         "Insta3": "",
-         "TikTok": "https://www.tiktok.com/@beeaaguilar?lang=es",
-         "Twitter": "",
-         "Facebook": "https://www.facebook.com/profile.php?id=100034291699106",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/beeaaguilar",
+            "Insta2": "https://www.instagram.com/bea_mmexpression",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@beeaaguilar?lang=es",
+            "Twitter": "",
+            "Facebook": "https://www.facebook.com/profile.php?id=100034291699106",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAF",
@@ -99,15 +109,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "2000/11/11",
          "Edad": "21",
-         "Insta1": "https://www.instagram.com/rociiocarbonell",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "https://www.tiktok.com/@rociocarbonell_?lang=es",
-         "Twitter": "",
-         "Facebook": "",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/rociiocarbonell",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@rociocarbonell_?lang=es",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAG",
@@ -117,15 +129,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "2004/02/24",
          "Edad": "18",
-         "Insta1": "https://www.instagram.com/nxrxx.nlc",
-         "Insta2": "https://www.instagram.com/nerea_nlc",
-         "Insta3": "",
-         "TikTok": "https://www.tiktok.com/@nxrxx.nlc?lang=es",
-         "Twitter": "",
-         "Facebook": "",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/nxrxx.nlc",
+            "Insta2": "https://www.instagram.com/nerea_nlc",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@nxrxx.nlc?lang=es",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAH",
@@ -135,15 +149,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "",
          "Edad": "",
-         "Insta1": "https://www.instagram.com/_fail.art_",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "",
-         "Twitter": "",
-         "Facebook": "",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/_fail.art_",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAI",
@@ -153,15 +169,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "2000/09/10",
          "Edad": "22",
-         "Insta1": "https://www.instagram.com/andrelova_",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "",
-         "Twitter": "",
-         "Facebook": "",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/andrelova_",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAJ",
@@ -171,15 +189,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "2003/11/21",
          "Edad": "18",
-         "Insta1": "https://www.instagram.com/andreapovea_",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "",
-         "Twitter": "https://twitter.com/andreapovea_",
-         "Facebook": "https://www.facebook.com/profile.php?id=100005792859704",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": "https://www.modelmanagement.com/es/model/andrea-povea"
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/andreapovea_",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "https://twitter.com/andreapovea_",
+            "Facebook": "https://www.facebook.com/profile.php?id=100005792859704",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": "https://www.modelmanagement.com/es/model/andrea-povea"
+         }
       },
       {
          "ID": "AAAAAK",
@@ -189,15 +209,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "",
          "Edad": "",
-         "Insta1": "https://www.instagram.com/marceloblazquez",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "",
-         "Twitter": "https://twitter.com/blazqu3z",
-         "Facebook": "",
-         "Youtube": "https://www.youtube.com/channel/UC3l6NyByDAEp2sXhIymwL5Q",
-         "Twitch": "https://www.twitch.tv/blazqu3z",
-         "Web": "https://biolinky.co/marceloblazquez"
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/marceloblazquez",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "https://twitter.com/blazqu3z",
+            "Facebook": "",
+            "Youtube": "https://www.youtube.com/channel/UC3l6NyByDAEp2sXhIymwL5Q",
+            "Twitch": "https://www.twitch.tv/blazqu3z",
+            "Web": "https://biolinky.co/marceloblazquez"
+         }
       },
       {
          "ID": "AAAAAL",
@@ -207,15 +229,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "2002/01/28",
          "Edad": "20",
-         "Insta1": "https://www.instagram.com/albasolis20/",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "https://www.tiktok.com/@albasoliss19?lang=es",
-         "Twitter": "",
-         "Facebook": "",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/albasolis20/",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@albasoliss19?lang=es",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAM",
@@ -225,15 +249,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "2003/02/06",
          "Edad": "19",
-         "Insta1": "https://www.instagram.com/alisxfractal/",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "https://www.tiktok.com/@alis.fractal?lang=es",
-         "Twitter": "",
-         "Facebook": "",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/alisxfractal/",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@alis.fractal?lang=es",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       },
       {
          "ID": "AAAAAN",
@@ -243,15 +269,17 @@
          "Ciudad": "Sevilla",
          "Nacio": "2001/08/05",
          "Edad": "21",
-         "Insta1": "https://www.instagram.com/leylaaponce/",
-         "Insta2": "",
-         "Insta3": "",
-         "TikTok": "",
-         "Twitter": "",
-         "Facebook": "https://www.facebook.com/profile.php?id=100021580223150",
-         "Youtube": "",
-         "Twitch": "",
-         "Web": ""
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/leylaaponce/",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "https://www.facebook.com/profile.php?id=100021580223150",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
       }
    ]
 }
