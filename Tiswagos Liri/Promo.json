@@ -1,182 +1,6 @@
 {
-   "date_update": "15 Sep 2022 18:48 UTC",
+   "date_update": "17 Sep 2022 01:41 UTC",
    "values": [
-      {
-         "Nombre": "Hundred Days: simulador de elaboraci\u00f3n de vino",
-         "Informacion": "La elaboraci\u00f3n de vinos podr\u00eda ser tu aventura m\u00e1s grande. Elabora el mejor vino interactuando con el suelo y la naturaleza y lleva tu bodega a la cima. Tu hermoso viaje a las tradiciones vin\u00edcolas comienza ahora.",
-         "Desde": "2022/09/08",
-         "Hasta": "2022/09/15 17:00",
-         "URL": "https://store.epicgames.com/p/hundred-days-winemaking-simulator",
-         "IMG": "https://cdn1.epicgames.com/4d8b727a49144090b103f6b6ba471e71/offer/EGS_HundredDaysWinemakingSimulatorDEMO_BrokenArmsGames_Demo_G1C_00-1920x1080-0ffeb0645f0badb615627b481b4a913e.jpg",
-         "Distribuidora": "Epic Game",
-         "Regresiva": "05:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
-      },
-      {
-         "Nombre": "Paquete de lanzamiento de Epic para Realm Royale Reforged",
-         "Informacion": "\u00a1Regresa Realm Royale con Realm Royale Reforged! Vuelve con este paquete exclusivo de Epic Games durante un tiempo limitado.\nEl paquete de lanzamiento de Epic desbloquea el aspecto de asesino Filo de la muerte, el aspecto Picoserker y la montura Nogard.\n",
-         "Desde": "2022/09/08",
-         "Hasta": "2022/09/15 17:00",
-         "URL": "https://store.epicgames.com/p/realm-royale-reforged",
-         "IMG": "https://cdn1.epicgames.com/offer/5fcf6f3031c547f789e29c18b422ca67/LandscapeOfferIMG-2560x1440_2560x1440-fcac17efbfeba5298a67d3869d9f8dd0",
-         "Distribuidora": "Epic Game",
-         "Regresiva": "05:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
-      },
-      {
-         "Nombre": "1943 by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
-         "Desde": "",
-         "Hasta": "2022/09/16 00:00",
-         "URL": "https://notmessyouself.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "12:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365",
-         "Desde": "",
-         "Hasta": "2022/09/16 00:00",
-         "URL": "https://notmessyouself.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "12:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "The backrooms by Notmessyouself",
-         "Informacion": "Versi\u00f3n alfa 1.1",
-         "Desde": "",
-         "Hasta": "2022/09/16 00:00",
-         "URL": "https://notmessyouself.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
-         "Distribuidora": "Itch io",
-         "Regresiva": "12:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "The backrooms by Notmessyouself",
-         "Informacion": "Versi\u00f3n alfa 1.1",
-         "Desde": "",
-         "Hasta": "2022/09/16 00:00",
-         "URL": "https://buildermanx.itch.io/intergalactic-space-patrol",
-         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
-         "Distribuidora": "Itch io",
-         "Regresiva": "12:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "TRICOSMOS: Cardinals Legacy by LittleMugGames",
-         "Informacion": "TR\u00cdADA DE AVENTURA + EXTRA",
-         "Desde": "",
-         "Hasta": "2022/09/16 00:00",
-         "URL": "https://littlemuggames.itch.io/tricosmos-cardinals-legacy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1Njg4MS85ODIxMTE0LnBuZw==/347x500/zSvGDK.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "12:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "TRICOSMOS: Cardinals Legacy by LittleMugGames",
-         "Informacion": "TR\u00cdADA DE AVENTURA + EXTRA",
-         "Desde": "",
-         "Hasta": "2022/09/16 00:00",
-         "URL": "https://kasperv.itch.io/ball-down-hill",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1Njg4MS85ODIxMTE0LnBuZw==/347x500/zSvGDK.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "12:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "The backrooms by Notmessyouself",
-         "Informacion": "Versi\u00f3n alfa 1.1",
-         "Desde": "",
-         "Hasta": "2022/09/16 00:00",
-         "URL": "https://kasperv.itch.io/ball-down-hill",
-         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
-         "Distribuidora": "Itch io",
-         "Regresiva": "12:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "Sky Lab Defender by KasperV",
-         "Informacion": "Defensor del laboratorio del cielo",
-         "Desde": "",
-         "Hasta": "2022/09/16 00:00",
-         "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "12:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Recovery",
-         "Informacion": "Ashampoo Photo Recovery recupera archivos de imagen borrados o corruptos. Escanee archivos individuales en busca de im\u00e1genes contenidas o unidades de disco completas. Incluso puede recuperar sus fotos de archivos RAW da\u00f1ados o discos formateados. La \u00faltima versi\u00f3n admite la recuperaci\u00f3n de im\u00e1genes incrustadas de documentos corruptos (p. ej., PDF, Word, etc.) y varios formatos de imagen y RAW agregados brindan resultados de b\u00fasqueda a\u00fan mejores. Los nuevos filtros de b\u00fasqueda lo ayudan a administrar mejor grandes cantidades de archivos y le permiten filtrar con precisi\u00f3n sus resultados por formato, tama\u00f1o o resoluci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2022/09/16 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-recovery-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/front_thumb.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Regresiva": "19:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
-      },
-      {
-         "Nombre": "Atlantis Word Processor",
-         "Informacion": "Compacto, de carga r\u00e1pida, pero potente y eficiente, Atlantis Word Processor es el compa\u00f1ero perfecto para una amplia gama de tareas de procesamiento de texto, desde las m\u00e1s sencillas hasta las m\u00e1s complejas. Atlantis tiene todas las funciones que necesitas para crear documentos simples o grandes obras literarias: novelas, ensayos, informes, cartas, diarios, art\u00edculos de prensa, etc.",
-         "Desde": "",
-         "Hasta": "2022/09/16 07:00",
-         "URL": "https://sharewareonsale.com/s/atlantis-word-processor-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/10/Atlantis-occean-mind-141x200.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Regresiva": "19:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
-      },
-      {
-         "Nombre": "ApHeMo",
-         "Informacion": "Supervise y proteja su servidor Apache HTTP",
-         "Desde": "",
-         "Hasta": "2022/09/16 09:00",
-         "URL": "https://www.bitsdujour.com/software/aphemo/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/aphemo-ur4ib.png",
-         "Distribuidora": "BitsDuJour",
-         "Regresiva": "21:11 horas",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "Atlantis Word Processor License Key Free 2022",
-         "Informacion": "Atlantis Word Processor es un software de procesador de textos profesional para Microsoft Windows que est\u00e1 dise\u00f1ado para ayudarlo a crear documentos e informes, hacer libros electr\u00f3nicos, escribir novelas, art\u00edculos y cartas. Con \u00e9l, puede crear f\u00e1cilmente libros electr\u00f3nicos para leer en cualquier dispositivo con solo unos pocos clics del mouse. Adem\u00e1s, Atlantis incluso puede crear copias de seguridad autom\u00e1ticas y peri\u00f3dicas de todos los documentos abiertos.",
-         "Desde": "",
-         "Hasta": "2022/09/16 14:00",
-         "URL": "https://giveaway.tickcoupon.com/atlantis-word-processor-free-key/",
-         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/07/Atlantis-Word-Processor-Giveaway.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "1 d\u00eda 02:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "KC Softwares ApHeMo License Key for Free",
-         "Informacion": "ApHeMo le permite realizar un seguimiento de todas las acciones realizadas en sus servidores Apache HTTP para mejorar la seguridad y la confiabilidad. Mostrar\u00e1 la actividad de los servidores de manera limpia y clara y se le permitir\u00e1 acceder para procesar los registros de Apache para monitorear mejor la actividad y detectar posibles ataques.",
-         "Desde": "",
-         "Hasta": "2022/09/16 14:00",
-         "URL": "https://giveaway.tickcoupon.com/kc-softwares-aphemo-license-code-free/",
-         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/04/kc-softwares-aphemo-screenshot.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "1 d\u00eda 02:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Privacy Protector for Windows 11 License Key Free",
-         "Informacion": "Si necesita una excelente soluci\u00f3n de protecci\u00f3n de la privacidad para Windows 11, Privacy Protector para Windows 11 es la mejor opci\u00f3n. Privacy Protector para Windows 11 ayuda a hacer frente a los problemas de privacidad en este sistema operativo. Existen numerosos servicios en Windows 11 que recopilan datos de usuarios privados de todo tipo posible. Esta herramienta de software ayuda a resolver todos los problemas de privacidad de Windows 11 que violan el derecho de cada usuario a la actividad confidencial en su PC. El programa est\u00e1 orientado tanto para usuarios particulares como para empresas con est\u00e1ndares exclusivos de confidencialidad de datos.",
-         "Desde": "",
-         "Hasta": "2022/09/16 15:00",
-         "URL": "https://giveaway.tickcoupon.com/privacy-protector-for-windows-10-free-key/",
-         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/08/privacy-protector-for-windows-free-license-giveaway.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "1 d\u00eda 03:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "DearMob iPhone Manager License Key Free Giveaway 2022",
          "Informacion": "DearMob iPhone Manager es el primer administrador de iOS del mundo que transfiere datos de iPhone con un m\u00e9todo de encriptaci\u00f3n. Le permite administrar completamente sus datos de iOS. Tiene incorporada la capacidad de transferir fotos, videos y contactos de iPhone con grado de encriptaci\u00f3n militar para evitar fugas de privacidad, respaldar y restaurar datos de iOS en orden de tiempo, y opciones para transferir contenidos de forma selectiva de 2 v\u00edas desde la computadora al iPhone, ya sea un foto, video, m\u00fasica, contacto, mensaje, iTunes U, Podcast, aplicaci\u00f3n, calendario, voz, archivo, etc. Su privacidad no es inmune a las filtraciones, prot\u00e9jala para evitar amenazas con DearMob iPhone Manager.",
@@ -185,8 +9,8 @@
          "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/dearmob-iphone-manager-main-screenshot-2022.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "1 d\u00eda 12:11 horas",
-         "Borde": "border-color: #00ff00;"
+         "Regresiva": "05:19 horas",
+         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
       },
       {
          "Nombre": "550 Gradient Backgrounds",
@@ -196,8 +20,41 @@
          "URL": "https://sharewareonsale.com/s/free-550-gradient-backgrounds-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/02/500-Gradient-Backgrounds-200x133.jpg?1357",
          "Distribuidora": "SharewareOnSale",
-         "Regresiva": "1 d\u00eda 19:11 horas",
-         "Borde": "border-color: #00ff00;"
+         "Regresiva": "12:19 horas",
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
+      },
+      {
+         "Nombre": "WonderFox Video Watermark",
+         "Informacion": "Proteja sus derechos como creador de videos con marcas de agua",
+         "Desde": "",
+         "Hasta": "2022/09/17 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-video-watermark/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-video-watermark-kxdng.png",
+         "Distribuidora": "BitsDuJour",
+         "Regresiva": "14:19 horas",
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
+      },
+      {
+         "Nombre": "WonderFox Video Watermark Free License Key",
+         "Informacion": "Tal vez te tom\u00f3 algunas horas crear un video o clip para compartir en Facebook, Twitter u otras redes sociales, y luego los encontraste en las paredes de extra\u00f1os. \u00bfAlguna vez te has encontrado con lo mismo? Lo que debe hacer ahora es agregar su informaci\u00f3n personal a su clip o video como un mensaje para el espectador de que este clip o video es suyo. WonderFox Video Watermark ayuda a los usuarios a insertar un logotipo en videos y clips para mostrar que son videos y clips con derechos de autor. Al usar Video Watermark, los videos y clips ser\u00e1n verificados y cuando otros usuarios los usen, deben obtener su permiso.",
+         "Desde": "",
+         "Hasta": "2022/09/17 15:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-video-watermark-giveaway/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/05/wonderfox-video-watermark-add-watermark.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Regresiva": "20:19 horas",
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
+      },
+      {
+         "Nombre": "GeekerPDF License Key for Free",
+         "Informacion": "GeekerPDF es una herramienta profesional de edici\u00f3n de PDF que est\u00e1 dise\u00f1ada para modificar/agregar texto, im\u00e1genes, anotaciones, etc., en sus documentos PDF. Con \u00e9l, puede agregar texto e im\u00e1genes en cualquier parte del documento PDF y editar y eliminar contenidos y anotaciones. Adem\u00e1s, tambi\u00e9n tiene la capacidad de fusionar, dividir y cifrar archivos PDF, as\u00ed como agregar marcas de agua y reconocimiento OCR.",
+         "Desde": "",
+         "Hasta": "2022/09/17 15:00",
+         "URL": "https://giveaway.tickcoupon.com/geekersoft-pdf-editor-free-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/08/geekersoft-pdf-editor-giveaway-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Regresiva": "20:19 horas",
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
       },
       {
          "Nombre": "Pink Takes Shape by LezLiz",
@@ -207,7 +64,7 @@
          "URL": "https://lezliz.itch.io/pink-takes-shape",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY5MDk0NC8xMDAwMTcwNS5wbmc=/347x500/nFCbGx.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "2 d\u00edas 11:11 horas",
+         "Regresiva": "1 d\u00eda 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -218,7 +75,7 @@
          "URL": "https://omarchapa85.itch.io/the-trench",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY5MDk0NC8xMDAwMTcwNS5wbmc=/347x500/nFCbGx.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "2 d\u00edas 11:11 horas",
+         "Regresiva": "1 d\u00eda 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -229,7 +86,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-hide-files-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/08/vovsoft-hide-files-giveaway-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "2 d\u00edas 12:11 horas",
+         "Regresiva": "1 d\u00eda 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -240,7 +97,7 @@
          "URL": "https://maestro-cinetik.itch.io/cat-fu-mi",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY4NTIyNi85OTg0OTg0LmdpZg==/347x500/1eRwCK.gif",
          "Distribuidora": "Itch io",
-         "Regresiva": "2 d\u00edas 14:11 horas",
+         "Regresiva": "1 d\u00eda 07:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -251,7 +108,7 @@
          "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Regresiva": "2 d\u00edas 19:11 horas",
+         "Regresiva": "1 d\u00eda 12:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -262,7 +119,7 @@
          "URL": "https://cheapeesoft-games.itch.io/glaurung-es",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjgwNi84MjUxMjk4LnBuZw==/347x500/8vaVyG.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "3 d\u00edas 12:11 horas",
+         "Regresiva": "2 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -273,7 +130,7 @@
          "URL": "https://cheapeesoft-games.itch.io/glaurung",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjU2OC84MjUxMjgxLnBuZw==/347x500/1fOr5c.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "3 d\u00edas 12:11 horas",
+         "Regresiva": "2 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -284,7 +141,7 @@
          "URL": "https://bee-tea.itch.io/coffeeboy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ0MTQyOC84NDE5MTkxLnBuZw==/347x500/fpQcfA.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "4 d\u00edas 11:11 horas",
+         "Regresiva": "3 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -295,7 +152,7 @@
          "URL": "https://giveaway.tickcoupon.com/vov-sticky-notes-license-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2020/07/Vov-Sticky-Notes-Screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "4 d\u00edas 12:11 horas",
+         "Regresiva": "3 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -306,7 +163,7 @@
          "URL": "https://buildermanx.itch.io/spooksmashers",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MzcwNy84MDg3NTc5LnBuZw==/347x500/m7t9P9.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "4 d\u00edas 19:11 horas",
+         "Regresiva": "3 d\u00edas 12:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -317,7 +174,7 @@
          "URL": "https://sharewareonsale.com/s/free-emergency-boot-kit-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/08/boxshot-2-200x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Regresiva": "4 d\u00edas 19:11 horas",
+         "Regresiva": "3 d\u00edas 12:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -328,7 +185,7 @@
          "URL": "https://giveaway.tickcoupon.com/emergency-boot-kit-license-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/08/Emergency-Boot-Kit-Screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "5 d\u00edas 02:11 horas",
+         "Regresiva": "3 d\u00edas 19:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -339,7 +196,7 @@
          "URL": "https://bee-tea.itch.io/rainyday",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "5 d\u00edas 11:11 horas",
+         "Regresiva": "4 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -350,7 +207,7 @@
          "URL": "https://xyxitchio.itch.io/felix-the-toy",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTk3MjQzLzk2OTU3NjUucG5n/347x500/%2FYbgFv.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "5 d\u00edas 18:11 horas",
+         "Regresiva": "4 d\u00edas 11:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -361,7 +218,7 @@
          "URL": "https://zuurix.itch.io/thirty-cycles",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTI3NDU3LzUyNDYxNzIucG5n/347x500/GMsbB%2F.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "6 d\u00edas 09:15 horas",
+         "Regresiva": "5 d\u00edas 02:23 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -372,7 +229,7 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-mbackupper-pro-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/04/aomei-fonetool-professional-free-license-key-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "6 d\u00edas 12:11 horas",
+         "Regresiva": "5 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -383,7 +240,7 @@
          "URL": "https://sharewareonsale.com/s/free-easy-photo-denoise-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/11/box_epd.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Regresiva": "6 d\u00edas 19:11 horas",
+         "Regresiva": "5 d\u00edas 12:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -394,7 +251,7 @@
          "URL": "https://giveaway.tickcoupon.com/softorbits-easy-photo-denoise-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/09/softorbits-easy-photo-denoise-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "7 d\u00edas 02:11 horas",
+         "Regresiva": "5 d\u00edas 19:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -405,7 +262,7 @@
          "URL": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
          "IMG": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-a890c6157dce97993be432cb8338cb79",
          "Distribuidora": "Epic Game",
-         "Regresiva": "7 d\u00edas 05:11 horas",
+         "Regresiva": "5 d\u00edas 22:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -416,7 +273,7 @@
          "URL": "https://store.epicgames.com/p/spirit-of-the-north-f58a66",
          "IMG": "https://cdn1.epicgames.com/spt-assets/177dc72233934ac487abd83b01587086/spirit-of-the-north-offer-mznb7.jpg",
          "Distribuidora": "Epic Game",
-         "Regresiva": "7 d\u00edas 05:11 horas",
+         "Regresiva": "5 d\u00edas 22:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -427,7 +284,29 @@
          "URL": "https://store.epicgames.com/p/the-captain",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheCaptain_Sysiacgames_S1_2560x1440-b58c40c02e67f0e2317a62c4b51d5c9f",
          "Distribuidora": "Epic Game",
-         "Regresiva": "7 d\u00edas 05:11 horas",
+         "Regresiva": "5 d\u00edas 22:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Qiling File Shredder",
+         "Informacion": "Qiling File Shredder puede ayudarlo a borrar datos confidenciales y no utilizados de archivos, carpetas, escritorios, particiones y discos espec\u00edficos para proteger su privacidad.",
+         "Desde": "",
+         "Hasta": "2022/09/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-qiling-file-shredder-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/file_shredder.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Regresiva": "6 d\u00edas 12:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Qiling File Shredder License Key for Free",
+         "Informacion": "Existen muchos m\u00e9todos que pueden ayudarlo a recuperar archivos eliminados de discos duros. Con la herramienta profesional de recuperaci\u00f3n de datos, puede restaurarlos todos. \u00bfC\u00f3mo borrar permanentemente todos los datos de su disco duro? Qiling File Shredder es un poderoso software de eliminaci\u00f3n o trituraci\u00f3n de archivos que puede ayudarlo a borrar datos confidenciales y no utilizados de archivos, carpetas, particiones y discos espec\u00edficos para proteger su privacidad. Esta herramienta eliminar\u00e1 los archivos de forma permanente sin ning\u00fan tipo de recuperaci\u00f3n. Es compatible para trabajar con los sistemas operativos Microsoft Windows.",
+         "Desde": "",
+         "Hasta": "2022/09/23 14:00",
+         "URL": "https://giveaway.tickcoupon.com/qiling-file-shredder-giveaway/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/09/qiling-file-shredder-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Regresiva": "6 d\u00edas 19:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -438,7 +317,7 @@
          "URL": "https://giveaway.tickcoupon.com/itop-vpn-vip-account-license-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/12/itop-vpn-vip-account-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "9 d\u00edas 12:11 horas",
+         "Regresiva": "8 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -449,7 +328,7 @@
          "URL": "https://giveaway.tickcoupon.com/iobit-driver-booster-pro-license-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/12/iobit-driver-booster-pro-9-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "10 d\u00edas 12:11 horas",
+         "Regresiva": "9 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -460,7 +339,7 @@
          "URL": "https://kasperv.itch.io/skylabdefender",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDA2OTM1LzIwMTk3NjgucG5n/347x500/gDD1V4.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "12 d\u00edas 12:11 horas",
+         "Regresiva": "11 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -471,7 +350,7 @@
          "URL": "https://store.epicgames.com/p/ark",
          "IMG": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43.jpg",
          "Distribuidora": "Epic Game",
-         "Regresiva": "14 d\u00edas 05:11 horas",
+         "Regresiva": "12 d\u00edas 22:19 horas",
          "Borde": "border-color: #ff9600;"
       },
       {
@@ -482,7 +361,7 @@
          "URL": "https://store.epicgames.com/p/gloomhaven-92f741",
          "IMG": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
          "Distribuidora": "Epic Game",
-         "Regresiva": "14 d\u00edas 05:11 horas",
+         "Regresiva": "12 d\u00edas 22:19 horas",
          "Borde": "border-color: #ff9600;"
       },
       {
@@ -493,7 +372,7 @@
          "URL": "https://mopegames.itch.io/dayend",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE0MDc4OS82NjE3NDEyLnBuZw==/347x500/KSNwWQ.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 07:11 horas",
+         "Regresiva": "13 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -504,7 +383,7 @@
          "URL": "https://dankoff.itch.io/counter-aim-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE0MDc4OS82NjE3NDEyLnBuZw==/347x500/KSNwWQ.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 07:11 horas",
+         "Regresiva": "13 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -515,7 +394,7 @@
          "URL": "https://dankoff.itch.io/counter-aim",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE0MDc4OS82NjE3NDEyLnBuZw==/347x500/KSNwWQ.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 07:11 horas",
+         "Regresiva": "13 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -526,7 +405,7 @@
          "URL": "https://mopegames.itch.io/themaze",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIyODY2NS83MjAzOTY2LnBuZw==/347x500/TNQVR3.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 07:11 horas",
+         "Regresiva": "13 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -537,7 +416,7 @@
          "URL": "https://mopegames.itch.io/tiamat",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NjQwOC84NTY3NzYyLnBuZw==/347x500/S0DnZa.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 07:11 horas",
+         "Regresiva": "13 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -548,7 +427,7 @@
          "URL": "https://ambientmelancholy.itch.io/omaku",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NjQwOC84NTY3NzYyLnBuZw==/347x500/S0DnZa.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 07:11 horas",
+         "Regresiva": "13 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -559,7 +438,7 @@
          "URL": "https://mopegames.itch.io/zeeworld",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE4MjYwOC82ODk3ODc3LmpwZw==/347x500/ZoKGVp.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 07:11 horas",
+         "Regresiva": "13 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -570,7 +449,7 @@
          "URL": "https://gamedevmkss.itch.io/bloody-mary",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4MzI0MC84NjU5ODcxLnBuZw==/347x500/YKYbTG.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 08:41 horas",
+         "Regresiva": "13 d\u00edas 01:49 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -581,7 +460,7 @@
          "URL": "https://gamedevmkss.itch.io/horror-hotel-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDg1ODY1LzI1NTA4ODAucG5n/347x500/Iv%2BbA%2B.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 08:41 horas",
+         "Regresiva": "13 d\u00edas 01:49 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -592,7 +471,7 @@
          "URL": "https://parttimeindie.itch.io/will-glow-the-wisp",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDg1ODY1LzI1NTA4ODAucG5n/347x500/Iv%2BbA%2B.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 08:41 horas",
+         "Regresiva": "13 d\u00edas 01:49 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -603,7 +482,7 @@
          "URL": "https://gamedevmkss.itch.io/horror-hotel-3",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTI0MjI2LzI3MjI1NzAuanBn/347x500/n79sGH.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 08:41 horas",
+         "Regresiva": "13 d\u00edas 01:49 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -614,7 +493,7 @@
          "URL": "https://ayngames.itch.io/car-hit",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMDQ4OS83Njc4MzgyLnBuZw==/347x500/jLWqzk.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 11:11 horas",
+         "Regresiva": "13 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -625,7 +504,7 @@
          "URL": "https://ayngames.itch.io/cyber-cars-punk-racing-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNzYxMy83NjYyMDIzLnBuZw==/347x500/Rcc%2Fk%2B.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 11:11 horas",
+         "Regresiva": "13 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -636,7 +515,7 @@
          "URL": "https://giveaway.tickcoupon.com/free-license-key-doyourclone-for-mac/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/doyourclone-for-mac-giveaway-license-key-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "14 d\u00edas 12:11 horas",
+         "Regresiva": "13 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -647,7 +526,7 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-photo-enlarger-free-license-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/09/leawo-photo-enlarger-giveaway-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "14 d\u00edas 12:11 horas",
+         "Regresiva": "13 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -658,7 +537,7 @@
          "URL": "https://esterasbros.itch.io/leeward-episode-1",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE2Mjg5OC83ODY0NDUyLnBuZw==/347x500/X8CI6N.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 17:11 horas",
+         "Regresiva": "13 d\u00edas 10:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -669,7 +548,7 @@
          "URL": "https://chrisiscreative.itch.io/hampton-court",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzU0NjgzLzE3NzA5NjEuanBn/347x500/ccStqd.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 18:11 horas",
+         "Regresiva": "13 d\u00edas 11:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -680,7 +559,7 @@
          "URL": "https://theeldritchtomb.itch.io/every-god-will-fall",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTYyODQ2LzU0NjMxODIucG5n/347x500/qqT4TK.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "14 d\u00edas 19:11 horas",
+         "Regresiva": "13 d\u00edas 12:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -691,7 +570,7 @@
          "URL": "https://thatnerdpunk.itch.io/mushman",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY2Nzg0OC85ODQzMzczLmpwZw==/347x500/ssDhej.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 00:11 hora",
+         "Regresiva": "13 d\u00edas 17:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -702,7 +581,7 @@
          "URL": "https://munegames.itch.io/aimguru",
          "IMG": "https://img.itch.zone/aW1nLzQ1ODI1ODIuanBn/347x500/isQFPR.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 07:11 horas",
+         "Regresiva": "14 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -713,7 +592,7 @@
          "URL": "https://munegames.itch.io/forest-stats-for-battle-royale",
          "IMG": "https://img.itch.zone/aW1nLzYyNzE0MDUucG5n/347x500/xafBe0.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 07:11 horas",
+         "Regresiva": "14 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -724,7 +603,7 @@
          "URL": "https://munegames.itch.io/freeze-target",
          "IMG": "https://img.itch.zone/aW1nLzQ1ODg1NTYuanBn/347x500/nCKui9.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 07:11 horas",
+         "Regresiva": "14 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -735,7 +614,7 @@
          "URL": "https://munegames.itch.io/valor-stats",
          "IMG": "https://img.itch.zone/aW1nLzY3MDEzMjQucG5n/347x500/BMW2gn.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 07:11 horas",
+         "Regresiva": "14 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -746,7 +625,7 @@
          "URL": "https://tailor-bird.itch.io/finding-colors",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDcxMTk5LzI0MTI4MzMucG5n/347x500/u5JncX.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 12:10 horas",
+         "Regresiva": "14 d\u00edas 05:18 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -757,7 +636,7 @@
          "URL": "https://happyseed.itch.io/ladder-leap",
          "IMG": "https://img.itch.zone/aW1nLzQ1NjM2MDAucG5n/347x500/G2pe%2Fq.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 18:11 horas",
+         "Regresiva": "14 d\u00edas 11:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -768,7 +647,7 @@
          "URL": "https://yuneek.itch.io/ladder-leap",
          "IMG": "https://img.itch.zone/aW1nLzQ1NjM2MDAucG5n/347x500/G2pe%2Fq.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 18:11 horas",
+         "Regresiva": "14 d\u00edas 11:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -779,7 +658,7 @@
          "URL": "https://happyseed.itch.io/love-connection",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY2ODE1My85ODIxODE0LnBuZw==/347x500/PvkKlI.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 18:11 horas",
+         "Regresiva": "14 d\u00edas 11:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -790,7 +669,7 @@
          "URL": "https://yuneek.itch.io/love-connection",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY2ODE1My85ODIxODE0LnBuZw==/347x500/PvkKlI.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 18:11 horas",
+         "Regresiva": "14 d\u00edas 11:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -801,7 +680,18 @@
          "URL": "https://buildermanx.itch.io/badguys-escape-to-comodo-zam",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY2ODE1My85ODIxODE0LnBuZw==/347x500/PvkKlI.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 18:11 horas",
+         "Regresiva": "14 d\u00edas 11:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ladder Leap by Yuneek",
+         "Informacion": "Salta de escalera en escalera evitando los objetos que caen desde arriba",
+         "Desde": "",
+         "Hasta": "2022/10/01 06:00",
+         "URL": "https://the-lost-world.itch.io/the-lost-world",
+         "IMG": "https://img.itch.zone/aW1nLzQ1NjM2MDAucG5n/347x500/G2pe%2Fq.png",
+         "Distribuidora": "Itch io",
+         "Regresiva": "14 d\u00edas 11:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -812,7 +702,7 @@
          "URL": "https://evolvedustry.itch.io/evolvedustry",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjYyMDU5LzM1NjY5NDAuanBn/347x500/bksyvh.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 20:11 horas",
+         "Regresiva": "14 d\u00edas 13:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -823,73 +713,7 @@
          "URL": "https://virtuaworlds.itch.io/columns",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 21:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
-         "Informacion": "Cthulhu espera so\u00f1ando... Hasta que unos extra\u00f1os cultistas del lejano norte lo despiertan. \u00a1Usa tu avi\u00f3n para devolver a Cthulhu a su sue\u00f1o helado o muere en el intento!",
-         "Desde": "",
-         "Hasta": "2022/10/01 09:00",
-         "URL": "https://virtuaworlds.itch.io/cthulhu-frozen-nightmare",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
-         "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 21:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "DeathOfCraze (Demo) by RaidGames Studios",
-         "Informacion": "El a\u00f1o es 1955 eres un investigador privado que actualmente est\u00e1 trabajando en muchos casos. Uno de ellos es una familia desaparecida que ha desaparecido desde que regresaron a casa despu\u00e9s de unas vacaciones. Los vecinos informaron a la polic\u00eda que no los hab\u00edan visto desde entonces y solicitaron un control de bienestar. Cuando la polic\u00eda entr\u00f3 en la casa, todos los miembros de la familia fueron encontrados muertos. A excepci\u00f3n del padre, su cuerpo no se encontraba por ninguna parte. Debes resolver este crimen y sobrevivir al horror que sucede en el camino.",
-         "Desde": "",
-         "Hasta": "2022/10/01 09:00",
-         "URL": "https://raidgames-studios.itch.io/deathofcraze",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2OTEwMi83OTcxMDY3LmpwZw==/347x500/v1RORx.jpg",
-         "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 21:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Farlight by RaidGames Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2022/10/01 09:00",
-         "URL": "https://raidgames-studios.itch.io/farlight",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NjMyNy85NzUxMDkzLnBuZw==/347x500/Zd3bhA.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 21:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "REMAKO Visualizer by VIRTUA WORLDS",
-         "Informacion": "REMAKO Visualizer es un visualizador de m\u00fasica interactivo en tiempo real que incluye m\u00fasica de \"REMAKO (Final Fantasy 7)\" de Mercurius FM y Stux. yo. Esta demostraci\u00f3n t\u00e9cnica utiliza trazado de rayos (en hardware compatible) desarrollado en Unreal Engine 4.24.",
-         "Desde": "",
-         "Hasta": "2022/10/01 09:00",
-         "URL": "https://virtuaworlds.itch.io/remako-visualizer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
-         "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 21:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "SinsFromGod 2 by RaidGames Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2022/10/01 09:00",
-         "URL": "https://raidgames-studios.itch.io/sinsfromgod2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyNTIwOS83ODc0NzE3LnBuZw==/347x500/yA4Tx8.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 21:11 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "SinsFromGod: Aftermath by RaidGames Studios",
-         "Informacion": "En una noche de tormenta, eres un hombre que regresa a casa despu\u00e9s de una visita tan esperada con tus padres, cuando decides tomar una ruta diferente a casa porque la carretera principal est\u00e1 bloqueada. despu\u00e9s de encontrar una nueva ruta que lo lleva a trav\u00e9s del medio de la nada, su autom\u00f3vil se descompone. Al no poder arreglar su autom\u00f3vil, decide caminar por la carretera hasta la casa m\u00e1s cercana. sin conocer el pasado siniestro y los oscuros secretos que guarda la casa.",
-         "Desde": "",
-         "Hasta": "2022/10/01 09:00",
-         "URL": "https://raidgames-studios.itch.io/aftermath",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzODkxMi84OTk1NzY3LmpwZw==/347x500/5l9ZKn.jpg",
-         "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 21:11 horas",
+         "Regresiva": "14 d\u00edas 14:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -900,7 +724,73 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "15 d\u00edas 21:11 horas",
+         "Regresiva": "14 d\u00edas 14:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
+         "Informacion": "Cthulhu espera so\u00f1ando... Hasta que unos extra\u00f1os cultistas del lejano norte lo despiertan. \u00a1Usa tu avi\u00f3n para devolver a Cthulhu a su sue\u00f1o helado o muere en el intento!",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://virtuaworlds.itch.io/cthulhu-frozen-nightmare",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
+         "Distribuidora": "Itch io",
+         "Regresiva": "14 d\u00edas 14:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DeathOfCraze (Demo) by RaidGames Studios",
+         "Informacion": "El a\u00f1o es 1955 eres un investigador privado que actualmente est\u00e1 trabajando en muchos casos. Uno de ellos es una familia desaparecida que ha desaparecido desde que regresaron a casa despu\u00e9s de unas vacaciones. Los vecinos informaron a la polic\u00eda que no los hab\u00edan visto desde entonces y solicitaron un control de bienestar. Cuando la polic\u00eda entr\u00f3 en la casa, todos los miembros de la familia fueron encontrados muertos. A excepci\u00f3n del padre, su cuerpo no se encontraba por ninguna parte. Debes resolver este crimen y sobrevivir al horror que sucede en el camino.",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://raidgames-studios.itch.io/deathofcraze",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2OTEwMi83OTcxMDY3LmpwZw==/347x500/v1RORx.jpg",
+         "Distribuidora": "Itch io",
+         "Regresiva": "14 d\u00edas 14:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Farlight by RaidGames Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://raidgames-studios.itch.io/farlight",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NjMyNy85NzUxMDkzLnBuZw==/347x500/Zd3bhA.png",
+         "Distribuidora": "Itch io",
+         "Regresiva": "14 d\u00edas 14:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "REMAKO Visualizer by VIRTUA WORLDS",
+         "Informacion": "REMAKO Visualizer es un visualizador de m\u00fasica interactivo en tiempo real que incluye m\u00fasica de \"REMAKO (Final Fantasy 7)\" de Mercurius FM y Stux. yo. Esta demostraci\u00f3n t\u00e9cnica utiliza trazado de rayos (en hardware compatible) desarrollado en Unreal Engine 4.24.",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://virtuaworlds.itch.io/remako-visualizer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
+         "Distribuidora": "Itch io",
+         "Regresiva": "14 d\u00edas 14:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SinsFromGod 2 by RaidGames Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://raidgames-studios.itch.io/sinsfromgod2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyNTIwOS83ODc0NzE3LnBuZw==/347x500/yA4Tx8.png",
+         "Distribuidora": "Itch io",
+         "Regresiva": "14 d\u00edas 14:19 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SinsFromGod: Aftermath by RaidGames Studios",
+         "Informacion": "En una noche de tormenta, eres un hombre que regresa a casa despu\u00e9s de una visita tan esperada con tus padres, cuando decides tomar una ruta diferente a casa porque la carretera principal est\u00e1 bloqueada. despu\u00e9s de encontrar una nueva ruta que lo lleva a trav\u00e9s del medio de la nada, su autom\u00f3vil se descompone. Al no poder arreglar su autom\u00f3vil, decide caminar por la carretera hasta la casa m\u00e1s cercana. sin conocer el pasado siniestro y los oscuros secretos que guarda la casa.",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://raidgames-studios.itch.io/aftermath",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzODkxMi84OTk1NzY3LmpwZw==/347x500/5l9ZKn.jpg",
+         "Distribuidora": "Itch io",
+         "Regresiva": "14 d\u00edas 14:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -911,7 +801,7 @@
          "URL": "https://echo7project.itch.io/blades-adrift",
          "IMG": "https://img.itch.zone/aW1hZ2UvODEyNzU5LzQ1NTczNjEuanBn/347x500/fzv5QY.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "21 d\u00edas 18:11 horas",
+         "Regresiva": "20 d\u00edas 11:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -922,7 +812,7 @@
          "URL": "https://drone-garden-studios.itch.io/hunt3r",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwMzk2Ni85MDE5MDYzLnBuZw==/347x500/qCnDeG.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "21 d\u00edas 19:11 horas",
+         "Regresiva": "20 d\u00edas 12:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -933,7 +823,7 @@
          "URL": "https://sharewareonsale.com/s/free-effie-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/1.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Regresiva": "23 d\u00edas 19:11 horas",
+         "Regresiva": "22 d\u00edas 12:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -944,7 +834,7 @@
          "URL": "https://yoba-games.itch.io/the-arrow-3",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDc2NTAwLzM3ODU3MjkucG5n/347x500/lmmPM4.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "24 d\u00edas 11:11 horas",
+         "Regresiva": "23 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -955,40 +845,7 @@
          "URL": "https://pinou007.itch.io/projectxnow",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "26 d\u00edas 11:09 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sober Meter BETA ( Temp de sobre et compteur d'objectif ) by Pinou007",
-         "Informacion": "Bienvenido a su aplicaci\u00f3n de objetivos aqu\u00ed, puede ingresar cualquier puntaje y todos los datos se mantienen en su tel\u00e9fono, accesibles sin conexi\u00f3n y gratis, disfrute de una mejor experiencia minimalista desarrollada por un solo joven desarrollador independiente",
-         "Desde": "",
-         "Hasta": "2022/10/11 22:58",
-         "URL": "https://pinou007.itch.io/sober-meter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "26 d\u00edas 11:09 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sober Meter BETA ( Temp de sobre et compteur d'objectif ) by Pinou007",
-         "Informacion": "Bienvenido a su aplicaci\u00f3n de objetivos aqu\u00ed, puede ingresar cualquier puntaje y todos los datos se mantienen en su tel\u00e9fono, accesibles sin conexi\u00f3n y gratis, disfrute de una mejor experiencia minimalista desarrollada por un solo joven desarrollador independiente",
-         "Desde": "",
-         "Hasta": "2022/10/11 22:58",
-         "URL": "https://gheimz.itch.io/war-is-coming",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "26 d\u00edas 11:09 horas",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sober Meter BETA ( Temp de sobre et compteur d'objectif ) by Pinou007",
-         "Informacion": "Bienvenido a su aplicaci\u00f3n de objetivos aqu\u00ed, puede ingresar cualquier puntaje y todos los datos se mantienen en su tel\u00e9fono, accesibles sin conexi\u00f3n y gratis, disfrute de una mejor experiencia minimalista desarrollada por un solo joven desarrollador independiente",
-         "Desde": "",
-         "Hasta": "2022/10/11 22:58",
-         "URL": "https://krakenwolf.itch.io/road-manic",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
-         "Distribuidora": "Itch io",
-         "Regresiva": "26 d\u00edas 11:09 horas",
+         "Regresiva": "25 d\u00edas 04:17 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -999,7 +856,40 @@
          "URL": "https://krakenwolf.itch.io/astra-knight",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "26 d\u00edas 11:09 horas",
+         "Regresiva": "25 d\u00edas 04:17 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sober Meter BETA ( Temp de sobre et compteur d'objectif ) by Pinou007",
+         "Informacion": "Bienvenido a su aplicaci\u00f3n de objetivos aqu\u00ed, puede ingresar cualquier puntaje y todos los datos se mantienen en su tel\u00e9fono, accesibles sin conexi\u00f3n y gratis, disfrute de una mejor experiencia minimalista desarrollada por un solo joven desarrollador independiente",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
+         "URL": "https://pinou007.itch.io/sober-meter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
+         "Distribuidora": "Itch io",
+         "Regresiva": "25 d\u00edas 04:17 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sober Meter BETA ( Temp de sobre et compteur d'objectif ) by Pinou007",
+         "Informacion": "Bienvenido a su aplicaci\u00f3n de objetivos aqu\u00ed, puede ingresar cualquier puntaje y todos los datos se mantienen en su tel\u00e9fono, accesibles sin conexi\u00f3n y gratis, disfrute de una mejor experiencia minimalista desarrollada por un solo joven desarrollador independiente",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
+         "URL": "https://gheimz.itch.io/war-is-coming",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
+         "Distribuidora": "Itch io",
+         "Regresiva": "25 d\u00edas 04:17 horas",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sober Meter BETA ( Temp de sobre et compteur d'objectif ) by Pinou007",
+         "Informacion": "Bienvenido a su aplicaci\u00f3n de objetivos aqu\u00ed, puede ingresar cualquier puntaje y todos los datos se mantienen en su tel\u00e9fono, accesibles sin conexi\u00f3n y gratis, disfrute de una mejor experiencia minimalista desarrollada por un solo joven desarrollador independiente",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
+         "URL": "https://krakenwolf.itch.io/road-manic",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
+         "Distribuidora": "Itch io",
+         "Regresiva": "25 d\u00edas 04:17 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1010,7 +900,7 @@
          "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2019/10/WinX-MediaTrans-Screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Regresiva": "45 d\u00edas 12:11 horas",
+         "Regresiva": "44 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1021,7 +911,7 @@
          "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MzYwNi85MTM1MzE3LnBuZw==/347x500/lxidEU.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "55 d\u00edas 12:11 horas",
+         "Regresiva": "54 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1032,7 +922,7 @@
          "URL": "https://kasperv.itch.io/the-simple-life",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "55 d\u00edas 12:11 horas",
+         "Regresiva": "54 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1043,7 +933,7 @@
          "URL": "https://durant.itch.io/freerun",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MzYwNi85MTM1MzE3LnBuZw==/347x500/lxidEU.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "57 d\u00edas 12:11 horas",
+         "Regresiva": "56 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1054,7 +944,7 @@
          "URL": "https://durant.itch.io/minesweeper-petal",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "57 d\u00edas 12:11 horas",
+         "Regresiva": "56 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1065,7 +955,7 @@
          "URL": "https://pinou007.itch.io/paper",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "107 d\u00edas 13:11 horas",
+         "Regresiva": "106 d\u00edas 06:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1076,7 +966,7 @@
          "URL": "https://ayngames.itch.io/real-cars-extreme-racing",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNzYwMC83NjYxOTUyLnBuZw==/347x500/C6A0E4.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "287 d\u00edas 11:11 horas",
+         "Regresiva": "286 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1087,7 +977,7 @@
          "URL": "https://jashgames.itch.io/doomer",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTY4NDUzLzI5ODcwNDQuZ2lm/347x500/G1AcUN.gif",
          "Distribuidora": "Itch io",
-         "Regresiva": "409 d\u00edas 12:11 horas",
+         "Regresiva": "408 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1098,7 +988,7 @@
          "URL": "https://ayngames.itch.io/zombie-reform",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTc5NC83NTE1ODIxLnBuZw==/347x500/4JgqsT.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "410 d\u00edas 11:11 horas",
+         "Regresiva": "409 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1109,7 +999,7 @@
          "URL": "https://ayngames.itch.io/moto-bike-extra",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxOTAwNi83NjY5ODMxLnBuZw==/347x500/%2BYjSzX.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "502 d\u00edas 11:11 horas",
+         "Regresiva": "501 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1120,7 +1010,7 @@
          "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxOTAwNi83NjY5ODMxLnBuZw==/347x500/%2BYjSzX.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "502 d\u00edas 11:11 horas",
+         "Regresiva": "501 d\u00edas 04:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1131,7 +1021,7 @@
          "URL": "https://nutty-studios.itch.io/spacecadets2d",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk4NTMwLzY5NzQ3NjkucG5n/347x500/DHWofa.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "588 d\u00edas 13:11 horas",
+         "Regresiva": "587 d\u00edas 06:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1142,7 +1032,7 @@
          "URL": "https://arcadebadgers.itch.io/grim",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzY3Ni8yMTQ0My5wbmc=/original/9ywMsX.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "932 d\u00edas 12:11 horas",
+         "Regresiva": "931 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1153,7 +1043,7 @@
          "URL": "https://guigil.itch.io/the-elder-trolls-v-pierim",
          "IMG": "https://media.rawg.io/media/screenshots/d82/d8299a46042d6cef21c07f4f6458e4b7.jpg",
          "Distribuidora": "Itch io",
-         "Regresiva": "1772 d\u00edas 12:11 horas",
+         "Regresiva": "1771 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1164,7 +1054,7 @@
          "URL": "https://greybeardgames.itch.io/emberglass",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTk1OTM0LzM5MDc5ODYucG5n/347x500/EcnH7n.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "2708 d\u00edas 12:11 horas",
+         "Regresiva": "2707 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1175,7 +1065,7 @@
          "URL": "https://davidsgallant.itch.io/i-get-this-call-every-day",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzQyLzMxNzU0My5wbmc=/347x500/PyFxVy.png",
          "Distribuidora": "Itch io",
-         "Regresiva": "12600 d\u00edas 12:11 horas",
+         "Regresiva": "12599 d\u00edas 05:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1186,7 +1076,7 @@
          "URL": "https://www.gog.com/en/game/iris_and_the_giant_deckbuilding_roguelike",
          "IMG": "https://images.gog-statics.com/1aaa1c61a8d6c77c40353bc74b3f0286c4dd61d6641a7028d5db84df053bcfdd.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "15833 d\u00edas 03:11 horas",
+         "Regresiva": "15831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1197,7 +1087,7 @@
          "URL": "https://www.gog.com/en/game/postal_2",
          "IMG": "https://images.gog-statics.com/d852a13d79875678614aee8b5f534cd391eafcc51d443053d42b8210f1cb1d2a.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "21187 d\u00edas 07:11 horas",
+         "Regresiva": "21186 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1208,7 +1098,7 @@
          "URL": "https://www.gog.com/en/game/the_witcher_goodies_collection",
          "IMG": "https://images.gog-statics.com/a344e6ee3a17af9e6529dd22deda462aa0c5cc7a856d3a4f8cb84e15d31a3a76.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "51208 d\u00edas 03:11 horas",
+         "Regresiva": "51206 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1219,7 +1109,7 @@
          "URL": "https://www.gog.com/en/game/sanitarium",
          "IMG": "https://images.gog-statics.com/098fae4f00b2c7d0d727fc55f997c80740e2ef2ed5df44cadc30f814da6af16b.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "67833 d\u00edas 03:11 horas",
+         "Regresiva": "67831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1230,7 +1120,7 @@
          "URL": "https://www.gog.com/en/game/venetica",
          "IMG": "https://images.gog-statics.com/39ee0faef6dc014d96dffa267c11ebb940e71f7df1120a4e4ab5123ab0ee30cf.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "71833 d\u00edas 03:11 horas",
+         "Regresiva": "71831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1241,7 +1131,7 @@
          "URL": "https://www.gog.com/en/game/shantae_and_the_pirates_curse",
          "IMG": "https://images.gog-statics.com/646dc0d893924086747e4498835f0f30f1c10576fecd2d38262396ea65762cbb.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "74833 d\u00edas 03:11 horas",
+         "Regresiva": "74831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1252,7 +1142,7 @@
          "URL": "https://www.gog.com/en/game/beautiful_desolation",
          "IMG": "https://images.gog-statics.com/94f51548505272104e98243e46b1c8872e6bc165a0412b9bde56128320517363.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "79833 d\u00edas 03:11 horas",
+         "Regresiva": "79831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1263,7 +1153,7 @@
          "URL": "https://www.gog.com/en/game/flashback",
          "IMG": "https://images.gog-statics.com/cfbb26f44012638c90b9649bda0359292cca1e04dd889b862614c232384eacfa.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "82833 d\u00edas 03:11 horas",
+         "Regresiva": "82831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1274,7 +1164,7 @@
          "URL": "https://www.gog.com/en/game/virtuaverse",
          "IMG": "https://images.gog-statics.com/9cc3b38ecefc0bd7ea8cd5cb939ac402a0d9aeee88c951979cdec8b07cb5be71.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "86833 d\u00edas 03:11 horas",
+         "Regresiva": "86831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1285,7 +1175,7 @@
          "URL": "https://www.gog.com/en/game/cdpr_goodies_collection",
          "IMG": "https://images.gog-statics.com/b5ed51ac37daf9c5d0540adbaf09cdc6d0ab360eae68edb8a31befdee74cb10e.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "131833 d\u00edas 03:11 horas",
+         "Regresiva": "131831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1296,7 +1186,7 @@
          "URL": "https://www.gog.com/en/game/stasis",
          "IMG": "https://images.gog-statics.com/2470f1b7f6a94b35303ee395e859a00954790bea38049423c06f201979166852.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "145833 d\u00edas 03:11 horas",
+         "Regresiva": "145831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1307,7 +1197,7 @@
          "URL": "https://www.gog.com/en/game/dex",
          "IMG": "https://images.gog-statics.com/e9029c481d84815c77706610f11af8af6bdb64f793124bd02b70a8da2871d90f.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "149833 d\u00edas 03:11 horas",
+         "Regresiva": "149831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1318,7 +1208,7 @@
          "URL": "https://www.gog.com/en/game/lovecrafts_untold_stories",
          "IMG": "https://images.gog-statics.com/6c56651c2b638a2253a7e1e01c1c8b7b09d692051e2b063e53daf32daf1cd949.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "151833 d\u00edas 03:11 horas",
+         "Regresiva": "151831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1329,7 +1219,7 @@
          "URL": "https://www.gog.com/en/game/immortal_redneck",
          "IMG": "https://images.gog-statics.com/f8387855fa8cadfccb422a584e079f00fec37380adba91a47c72a6d06c8fb8ef.jpg",
          "Distribuidora": "GOG",
-         "Regresiva": "156833 d\u00edas 03:11 horas",
+         "Regresiva": "156831 d\u00edas 20:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1340,7 +1230,7 @@
          "URL": "https://www.humblebundle.com/store/backbone-prologue",
          "IMG": "https://hb.imgix.net/199751202b253069287b845c2380fff0eef5d62a.jpg?auto=compress,format&fit=crop&h=353&w=616&s=8ee7384524e09308706c4fbd7ba10b25",
          "Distribuidora": "Humble Bundle",
-         "Regresiva": "356625 d\u00edas 07:11 horas",
+         "Regresiva": "356624 d\u00edas 00:19 hora",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1351,7 +1241,7 @@
          "URL": "https://www.humblebundle.com/store/crying-suns-demo",
          "IMG": "https://i.ytimg.com/vi/cmwFRlxMhW0/maxresdefault.jpg",
          "Distribuidora": "Humble Bundle",
-         "Regresiva": "356949 d\u00edas 21:11 horas",
+         "Regresiva": "356948 d\u00edas 14:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1362,7 +1252,7 @@
          "URL": "https://www.humblebundle.com/store/influent",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/274980/header.jpg?t=1600321339",
          "Distribuidora": "Humble Bundle",
-         "Regresiva": "356949 d\u00edas 21:11 horas",
+         "Regresiva": "356948 d\u00edas 14:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1373,7 +1263,7 @@
          "URL": "https://www.humblebundle.com/store/ring-of-pain-demoo",
          "IMG": "https://hb.imgix.net/6145445f0d86d32ec8f1a0748cbf338bc3d9fa47.jpeg?auto=compress,format&fit=crop&h=353&w=616&s=e6e79af9f583074ab47d60ea8152564f",
          "Distribuidora": "Humble Bundle",
-         "Regresiva": "356949 d\u00edas 21:11 horas",
+         "Regresiva": "356948 d\u00edas 14:19 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1384,7 +1274,7 @@
          "URL": "https://www.humblebundle.com/store/unsighted-demo",
          "IMG": "https://hb.imgix.net/f3b0f5b3d1ba8e578903c91b62d307893c18c048.jpg?auto=compress,format&fit=crop&h=353&w=616&s=c450193f05d2b79452a25106719466de",
          "Distribuidora": "Humble Bundle",
-         "Regresiva": "356949 d\u00edas 22:10 horas",
+         "Regresiva": "356948 d\u00edas 15:18 horas",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1395,7 +1285,7 @@
          "URL": "https://www.humblebundle.com/store/into-the-pit-demo",
          "IMG": "https://hb.imgix.net/2d242b1cab5af73bbff37686305c784eac467cf0.png?auto=compress,format&fit=crop&h=353&w=616&s=f5c4140117e67917eefdcf97cf74acad",
          "Distribuidora": "Humble Bundle",
-         "Regresiva": "356949 d\u00edas 22:11 horas",
+         "Regresiva": "356948 d\u00edas 15:19 horas",
          "Borde": "border-color: #00ff00;"
       }
    ]
