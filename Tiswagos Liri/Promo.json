@@ -1,5 +1,5 @@
 {
-   "date_update": "22 Sep 2022 18:05 UTC",
+   "date_update": "22 Sep 2022 18:41 UTC",
    "values": [
       {
          "Nombre": "House of number 76 by EK Game",
@@ -9,7 +9,27 @@
          "URL": "https://lucas-fernandez.itch.io/proto-akane",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcxMDI5NS8xMDA3NTQ2MC5wbmc=/347x500/IvFWES.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
+      },
+      {
+         "Nombre": "House of number 76 by EK Game",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/09/22 22:00",
+         "URL": "https://lucas-fernandez.itch.io/proto-akane",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxMDI5NS8xMDA3NTQ2MC5wbmc=/347x500/IvFWES.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
+      },
+      {
+         "Nombre": "House of number 76 by EK Game",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/09/22 22:00",
+         "URL": "https://lucas-fernandez.itch.io/proto-akane",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxMDI5NS8xMDA3NTQ2MC5wbmc=/347x500/IvFWES.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "Qiling File Shredder",
@@ -19,7 +39,27 @@
          "URL": "https://sharewareonsale.com/s/free-qiling-file-shredder-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/file_shredder.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
+      },
+      {
+         "Nombre": "Qiling File Shredder",
+         "Informacion": "Qiling File Shredder puede ayudarlo a borrar datos confidenciales y no utilizados de archivos, carpetas, escritorios, particiones y discos espec\u00edficos para proteger su privacidad.",
+         "Desde": "",
+         "Hasta": "2022/09/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-qiling-file-shredder-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/file_shredder.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
+      },
+      {
+         "Nombre": "Qiling File Shredder",
+         "Informacion": "Qiling File Shredder puede ayudarlo a borrar datos confidenciales y no utilizados de archivos, carpetas, escritorios, particiones y discos espec\u00edficos para proteger su privacidad.",
+         "Desde": "",
+         "Hasta": "2022/09/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-qiling-file-shredder-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/file_shredder.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
       },
       {
          "Nombre": "AllMyNotes Organizer",
@@ -29,7 +69,7 @@
          "URL": "https://www.bitsdujour.com/software/allmynotes-organizer/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allmynotes-organizer-ekx67.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
       },
       {
          "Nombre": "Idle Champions de Forgotten Realms",
@@ -39,7 +79,47 @@
          "URL": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
          "IMG": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-e2a1ffd224f443594d5deff3a47a45e2",
          "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
+      },
+      {
+         "Nombre": "AllMyNotes Organizer",
+         "Informacion": "Tus notas, seguras y con capacidad de b\u00fasqueda",
+         "Desde": "",
+         "Hasta": "2022/09/23 09:00",
+         "URL": "https://www.bitsdujour.com/software/allmynotes-organizer/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allmynotes-organizer-ekx67.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
+      },
+      {
+         "Nombre": "ARK: Survival Evolved",
+         "Informacion": "Despiertas en la orilla de una isla misteriosa en la que debes aprender a sobrevivir. Usa tu astucia para matar o domar a las criaturas primitivas que vagan por el lugar. Encu\u00e9ntrate con otros jugadores para sobrevivir, ejercer el dominio... \u00a1y escapar!",
+         "Desde": "",
+         "Hasta": "2022/09/23 09:00",
+         "URL": "https://store.epicgames.com/p/ark",
+         "IMG": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
+      },
+      {
+         "Nombre": "Idle Champions de Forgotten Realms",
+         "Informacion": "Idle Champions es un videojuego de gesti\u00f3n estrat\u00e9gica con licencia de Dungeons & Dragons en el que personajes emblem\u00e1ticos de las novelas, las campa\u00f1as y las series se unen en una \u00e9pica aventura.",
+         "Desde": "",
+         "Hasta": "2022/09/23 09:00",
+         "URL": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
+         "IMG": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-e2a1ffd224f443594d5deff3a47a45e2",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
+      },
+      {
+         "Nombre": "AllMyNotes Organizer",
+         "Informacion": "Tus notas, seguras y con capacidad de b\u00fasqueda",
+         "Desde": "",
+         "Hasta": "2022/09/23 09:00",
+         "URL": "https://www.bitsdujour.com/software/allmynotes-organizer/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allmynotes-organizer-ekx67.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
       },
       {
          "Nombre": "Qiling File Shredder License Key for Free",
@@ -48,6 +128,26 @@
          "Hasta": "2022/09/23 14:00",
          "URL": "https://giveaway.tickcoupon.com/qiling-file-shredder-giveaway/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/09/qiling-file-shredder-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AllMyNotes Organizer Deluxe Edition License Key for Free",
+         "Informacion": "AllMyNotes Organizer Deluxe Edition es un software integral que lo ayuda a administrar una nota adaptable diaria y mantiene toda la informaci\u00f3n vital segura en su computadora. Con \u00e9l, puede almacenar todos los documentos y notas en un solo archivo de almacenamiento. Puede escribir tareas, listas de tareas pendientes, eventos y otra informaci\u00f3n basada en texto, lo que le permite adjuntar im\u00e1genes y documentos, establecer recordatorios, realizar copias de seguridad de datos, establecer una contrase\u00f1a de programa y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2022/09/23 15:00",
+         "URL": "https://giveaway.tickcoupon.com/allmynotes-organizer-free-license-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/08/allmynotes-organizer-deluxe-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AllMyNotes Organizer Deluxe Edition License Key for Free",
+         "Informacion": "AllMyNotes Organizer Deluxe Edition es un software integral que lo ayuda a administrar una nota adaptable diaria y mantiene toda la informaci\u00f3n vital segura en su computadora. Con \u00e9l, puede almacenar todos los documentos y notas en un solo archivo de almacenamiento. Puede escribir tareas, listas de tareas pendientes, eventos y otra informaci\u00f3n basada en texto, lo que le permite adjuntar im\u00e1genes y documentos, establecer recordatorios, realizar copias de seguridad de datos, establecer una contrase\u00f1a de programa y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2022/09/23 15:00",
+         "URL": "https://giveaway.tickcoupon.com/allmynotes-organizer-free-license-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/08/allmynotes-organizer-deluxe-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -82,6 +182,86 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ball Down Hill by KasperV",
+         "Informacion": "Meta:",
+         "Desde": "",
+         "Hasta": "2022/09/24 00:00",
+         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Simple Life by KasperV",
+         "Informacion": "La vida simple",
+         "Desde": "",
+         "Hasta": "2022/09/24 00:00",
+         "URL": "https://amon26.itch.io/phobolis",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sky Lab Defender by KasperV",
+         "Informacion": "Defensor del laboratorio del cielo",
+         "Desde": "",
+         "Hasta": "2022/09/24 00:00",
+         "URL": "https://amon26.itch.io/flight-1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ball Down Hill by KasperV",
+         "Informacion": "Meta:",
+         "Desde": "",
+         "Hasta": "2022/09/24 00:00",
+         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Simple Life by KasperV",
+         "Informacion": "La vida simple",
+         "Desde": "",
+         "Hasta": "2022/09/24 00:00",
+         "URL": "https://amon26.itch.io/phobolis",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sky Lab Defender by KasperV",
+         "Informacion": "Defensor del laboratorio del cielo",
+         "Desde": "",
+         "Hasta": "2022/09/24 00:00",
+         "URL": "https://amon26.itch.io/flight-1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FOCUS Projects 4 PRO",
+         "Informacion": "Cree macros de libros de texto, n\u00edtidas y con detalles como nunca antes hab\u00eda visto. Con las nuevas tecnolog\u00edas de FOCUS projects 4 professional, puede crear fotos macro de \u00faltima generaci\u00f3n que tienen una profundidad de enfoque fascinante y resaltan detalles extraordinarios.",
+         "Desde": "",
+         "Hasta": "2022/09/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/focus415-519-1.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FOCUS Projects 4 PRO",
+         "Informacion": "Cree macros de libros de texto, n\u00edtidas y con detalles como nunca antes hab\u00eda visto. Con las nuevas tecnolog\u00edas de FOCUS projects 4 professional, puede crear fotos macro de \u00faltima generaci\u00f3n que tienen una profundidad de enfoque fascinante y resaltan detalles extraordinarios.",
+         "Desde": "",
+         "Hasta": "2022/09/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/focus415-519-1.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "FOCUS Projects 4 PRO",
          "Informacion": "Cree macros de libros de texto, n\u00edtidas y con detalles como nunca antes hab\u00eda visto. Con las nuevas tecnolog\u00edas de FOCUS projects 4 professional, puede crear fotos macro de \u00faltima generaci\u00f3n que tienen una profundidad de enfoque fascinante y resaltan detalles extraordinarios.",
          "Desde": "",
@@ -98,6 +278,26 @@
          "Hasta": "2022/09/24 23:00",
          "URL": "https://kasperv.itch.io/ball-down-hill",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY1MTU3NS85NzE2ODU4LnBuZw==/347x500/YxVfu1.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Redkur by StuckArcader",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/09/24 23:00",
+         "URL": "https://notmessyouself.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1MTU3NS8xMDA2NjgyNC5wbmc=/347x500/UKjMpg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Redkur by StuckArcader",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/09/24 23:00",
+         "URL": "https://notmessyouself.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1MTU3NS8xMDA2NjgyNC5wbmc=/347x500/UKjMpg.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -142,6 +342,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DVDFab Toolkit",
+         "Informacion": "M\u00e1s de 20 herramientas de utilidad peque\u00f1as pero \u00fatiles para convertir y editar videos y audios, tomar capturas de pantalla de videos, hacer GIF de videos, hacer videos de im\u00e1genes, grabar la pantalla de la computadora y c\u00e1maras web, y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2022/09/25 07:00",
+         "URL": "https://sharewareonsale.com/s/free-dvdfab-toolkit-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/833-200x125.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CutOut 8",
+         "Informacion": "\u00a1Los mejores detalles de imagen, cortes precisos para montajes fotogr\u00e1ficos creativos!",
+         "Desde": "",
+         "Hasta": "2022/09/25 07:00",
+         "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DVDFab Toolkit",
+         "Informacion": "M\u00e1s de 20 herramientas de utilidad peque\u00f1as pero \u00fatiles para convertir y editar videos y audios, tomar capturas de pantalla de videos, hacer GIF de videos, hacer videos de im\u00e1genes, grabar la pantalla de la computadora y c\u00e1maras web, y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2022/09/25 07:00",
+         "URL": "https://sharewareonsale.com/s/free-dvdfab-toolkit-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/833-200x125.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CutOut 8",
+         "Informacion": "\u00a1Los mejores detalles de imagen, cortes precisos para montajes fotogr\u00e1ficos creativos!",
+         "Desde": "",
+         "Hasta": "2022/09/25 07:00",
+         "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "IObit Driver Booster 9 PRO License Key Free Giveaway",
          "Informacion": "IObit Driver Booster 9 PRO es conocido como un actualizador de controladores potente y f\u00e1cil de usar, proporciona una soluci\u00f3n de 1 clic para actualizar de forma r\u00e1pida y segura los controladores obsoletos y defectuosos, e instalar los controladores faltantes que mejor coincidan no solo para los controladores de su dispositivo, sino tambi\u00e9n tambi\u00e9n para los componentes de tu juego.",
          "Desde": "",
@@ -162,6 +402,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft Image Combiner License Key for Free",
+         "Informacion": "Si est\u00e1 buscando un software de combinaci\u00f3n de im\u00e1genes para crear webtoons largos, c\u00f3mics, dibujos animados o tiras de im\u00e1genes, entonces Vovsoft Image Combiner es definitivamente su oportunidad. Vovsoft Image Combiner es una herramienta de combinaci\u00f3n de im\u00e1genes f\u00e1cil de usar que le permite combinar fotos. La interfaz de usuario es clara, ya que est\u00e1 dise\u00f1ada para editores de im\u00e1genes principiantes. Con \u00e9l, puede arrastrar y soltar im\u00e1genes una por una o seleccionar una carpeta donde se encuentran y dejar que la aplicaci\u00f3n extraiga todas las im\u00e1genes compatibles. Esta herramienta es compatible con todos los formatos populares, como PNG, JPG, JPEG, GIF, TIFF y BMP.",
+         "Desde": "",
+         "Hasta": "2022/09/26 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-image-combiner-license-key-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/09/vovsoft-image-combiner-license-key-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Image Combiner License Key for Free",
+         "Informacion": "Si est\u00e1 buscando un software de combinaci\u00f3n de im\u00e1genes para crear webtoons largos, c\u00f3mics, dibujos animados o tiras de im\u00e1genes, entonces Vovsoft Image Combiner es definitivamente su oportunidad. Vovsoft Image Combiner es una herramienta de combinaci\u00f3n de im\u00e1genes f\u00e1cil de usar que le permite combinar fotos. La interfaz de usuario es clara, ya que est\u00e1 dise\u00f1ada para editores de im\u00e1genes principiantes. Con \u00e9l, puede arrastrar y soltar im\u00e1genes una por una o seleccionar una carpeta donde se encuentran y dejar que la aplicaci\u00f3n extraiga todas las im\u00e1genes compatibles. Esta herramienta es compatible con todos los formatos populares, como PNG, JPG, JPEG, GIF, TIFF y BMP.",
+         "Desde": "",
+         "Hasta": "2022/09/26 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-image-combiner-license-key-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/09/vovsoft-image-combiner-license-key-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Fish the Detective! by bookoflaw",
          "Informacion": "Un juego de tem\u00e1tica negra sobre el comercio.",
          "Desde": "",
@@ -169,6 +429,26 @@
          "URL": "https://bookoflaw.itch.io/clay-town",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcwMzg1OC8xMDAzODAwNS5qcGc=/347x500/vBaK2Y.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "550 Gradient Backgrounds",
+         "Informacion": "Dale un toque aut\u00e9ntico a tus gr\u00e1ficos",
+         "Desde": "",
+         "Hasta": "2022/09/26 07:00",
+         "URL": "https://sharewareonsale.com/s/free-550-gradient-backgrounds-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/02/500-Gradient-Backgrounds-200x133.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "550 Gradient Backgrounds",
+         "Informacion": "Dale un toque aut\u00e9ntico a tus gr\u00e1ficos",
+         "Desde": "",
+         "Hasta": "2022/09/26 07:00",
+         "URL": "https://sharewareonsale.com/s/free-550-gradient-backgrounds-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/02/500-Gradient-Backgrounds-200x133.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -212,12 +492,72 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Will Glow the Wisp by parttimeindie",
+         "Informacion": "Will Glow the Wisp es el primer juego de plataformas de infierno de balas cuerpo a cuerpo sin plataformas, con im\u00e1genes \u00fanicas basadas en part\u00edculas y mec\u00e1nicas de movimiento.",
+         "Desde": "",
+         "Hasta": "2022/09/28 00:00",
+         "URL": "https://chrisiscreative.itch.io/hampton-court",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDA2OTM1LzIwMTk3NjgucG5n/347x500/gDD1V4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Will Glow the Wisp by parttimeindie",
+         "Informacion": "Will Glow the Wisp es el primer juego de plataformas de infierno de balas cuerpo a cuerpo sin plataformas, con im\u00e1genes \u00fanicas basadas en part\u00edculas y mec\u00e1nicas de movimiento.",
+         "Desde": "",
+         "Hasta": "2022/09/28 00:00",
+         "URL": "https://chrisiscreative.itch.io/hampton-court",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDA2OTM1LzIwMTk3NjgucG5n/347x500/gDD1V4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HT Work Focus",
          "Informacion": "Conc\u00e9ntrese en el trabajo, elimine las distracciones, bloquee las p\u00e9rdidas de tiempo y maximice su productividad y la de su equipo con la aplicaci\u00f3n HT Work Focus simple y segura.",
          "Desde": "",
          "Hasta": "2022/09/28 07:00",
          "URL": "https://sharewareonsale.com/s/free-ht-work-focus-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/hem-banner.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HT Work Focus",
+         "Informacion": "Conc\u00e9ntrese en el trabajo, elimine las distracciones, bloquee las p\u00e9rdidas de tiempo y maximice su productividad y la de su equipo con la aplicaci\u00f3n HT Work Focus simple y segura.",
+         "Desde": "",
+         "Hasta": "2022/09/28 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ht-work-focus-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/hem-banner.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HT Work Focus",
+         "Informacion": "Conc\u00e9ntrese en el trabajo, elimine las distracciones, bloquee las p\u00e9rdidas de tiempo y maximice su productividad y la de su equipo con la aplicaci\u00f3n HT Work Focus simple y segura.",
+         "Desde": "",
+         "Hasta": "2022/09/28 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ht-work-focus-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/hem-banner.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Text-R OCR Software Professional Edition",
+         "Informacion": "Text-R: reconocimiento \u00f3ptico de texto (OCR) simple para Windows",
+         "Desde": "",
+         "Hasta": "2022/09/29 07:00",
+         "URL": "https://sharewareonsale.com/s/free-text-r-ocr-software-professional-edition-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/03/Text-R1000-EN-116x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Text-R OCR Software Professional Edition",
+         "Informacion": "Text-R: reconocimiento \u00f3ptico de texto (OCR) simple para Windows",
+         "Desde": "",
+         "Hasta": "2022/09/29 07:00",
+         "URL": "https://sharewareonsale.com/s/free-text-r-ocr-software-professional-edition-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/03/Text-R1000-EN-116x200.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -282,6 +622,86 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Tiamat by MopeGames",
+         "Informacion": "Tiamat es un juego de terror y supervivencia en tercera persona que requiere que los jugadores sobrevivan en el bosque. Los jugadores pueden explorar e interactuar con objetos para salir del bosque.",
+         "Desde": "",
+         "Hasta": "2022/09/29 19:00",
+         "URL": "https://pinou007.itch.io/paper",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NjQwOC84NTY3NzYyLnBuZw==/347x500/S0DnZa.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TheMaze by MopeGames",
+         "Informacion": "The Maze es un juego de experiencia de aventura en tercera persona que requiere que los jugadores salgan del laberinto. Completa las misiones disponibles y conquista The Maze para completar The Game.",
+         "Desde": "",
+         "Hasta": "2022/09/29 19:00",
+         "URL": "https://mopegames.itch.io/zeeworld",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIyODY2NS83MjAzOTY2LnBuZw==/347x500/TNQVR3.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Z-World by MopeGames",
+         "Informacion": "Z-World es un juego de disparos en tercera persona basado en el modo Wave que se puede jugar en un solo jugador/multijugador.",
+         "Desde": "",
+         "Hasta": "2022/09/29 19:00",
+         "URL": "https://mopegames.itch.io/dayend",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE4MjYwOC82ODk3ODc3LmpwZw==/347x500/ZoKGVp.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DayEnd by MopeGames",
+         "Informacion": "Alguien lanz\u00f3 accidentalmente un arma biol\u00f3gica y convirti\u00f3 a la raza humana en zombis. El mundo se ha corrompido y casi toda la poblaci\u00f3n humana ha sido infectada por esta arma biol\u00f3gica y solo unas pocas personas han sobrevivido y tienen que sobrevivir. No solo est\u00e1n disponibles los modos principales, tambi\u00e9n puedes jugar en modo ola y sobrevivir a los ataques de zombis y anotar tanto como sea posible.",
+         "Desde": "",
+         "Hasta": "2022/09/29 19:00",
+         "URL": "https://lucas-fernandez.itch.io/mecha-snake",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE0MDc4OS82NjE3NDEyLnBuZw==/347x500/KSNwWQ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tiamat by MopeGames",
+         "Informacion": "Tiamat es un juego de terror y supervivencia en tercera persona que requiere que los jugadores sobrevivan en el bosque. Los jugadores pueden explorar e interactuar con objetos para salir del bosque.",
+         "Desde": "",
+         "Hasta": "2022/09/29 19:00",
+         "URL": "https://pinou007.itch.io/paper",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NjQwOC84NTY3NzYyLnBuZw==/347x500/S0DnZa.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TheMaze by MopeGames",
+         "Informacion": "The Maze es un juego de experiencia de aventura en tercera persona que requiere que los jugadores salgan del laberinto. Completa las misiones disponibles y conquista The Maze para completar The Game.",
+         "Desde": "",
+         "Hasta": "2022/09/29 19:00",
+         "URL": "https://mopegames.itch.io/zeeworld",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIyODY2NS83MjAzOTY2LnBuZw==/347x500/TNQVR3.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Z-World by MopeGames",
+         "Informacion": "Z-World es un juego de disparos en tercera persona basado en el modo Wave que se puede jugar en un solo jugador/multijugador.",
+         "Desde": "",
+         "Hasta": "2022/09/29 19:00",
+         "URL": "https://mopegames.itch.io/dayend",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE4MjYwOC82ODk3ODc3LmpwZw==/347x500/ZoKGVp.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DayEnd by MopeGames",
+         "Informacion": "Alguien lanz\u00f3 accidentalmente un arma biol\u00f3gica y convirti\u00f3 a la raza humana en zombis. El mundo se ha corrompido y casi toda la poblaci\u00f3n humana ha sido infectada por esta arma biol\u00f3gica y solo unas pocas personas han sobrevivido y tienen que sobrevivir. No solo est\u00e1n disponibles los modos principales, tambi\u00e9n puedes jugar en modo ola y sobrevivir a los ataques de zombis y anotar tanto como sea posible.",
+         "Desde": "",
+         "Hasta": "2022/09/29 19:00",
+         "URL": "https://lucas-fernandez.itch.io/mecha-snake",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE0MDc4OS82NjE3NDEyLnBuZw==/347x500/KSNwWQ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Bloody Mary - Scary Horror Game With Red Creature by GameDevMkss",
          "Informacion": "\u00bfEst\u00e1s listo para vencer a Bloody Mary & Red Creature?",
          "Desde": "",
@@ -312,6 +732,66 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Bloody Mary - Scary Horror Game With Red Creature by GameDevMkss",
+         "Informacion": "\u00bfEst\u00e1s listo para vencer a Bloody Mary & Red Creature?",
+         "Desde": "",
+         "Hasta": "2022/09/29 20:30",
+         "URL": "https://shwampy.itch.io/shawarma-hum",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4MzI0MC84NjU5ODcxLnBuZw==/347x500/YKYbTG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Horror Hotel 3 : Bloody Mary Version by GameDevMkss",
+         "Informacion": "Es un juego de terror sobre una persona que no cree en fantasmas y va a un hotel encantado e hizo el desaf\u00edo de Bloody Mary, pero cuando llega al \u00faltimo piso de ese hotel se da cuenta de que este lugar es realmente muy peligroso e incluso sangriento. Mary lleg\u00f3 all\u00ed, por lo que intenta regresar, pero la puerta de salida est\u00e1 bloqueada, pero hay otra puerta desbloqueada, pero antes de esa puerta abierta hay un panel de advertencia que le impide entrar.",
+         "Desde": "",
+         "Hasta": "2022/09/29 20:30",
+         "URL": "https://gamedevmkss.itch.io/horror-hotel-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTI0MjI2LzI3MjI1NzAuanBn/347x500/n79sGH.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Horror Hotel 2 : Everything's Red by GameDevMkss",
+         "Informacion": "Despu\u00e9s de escapar de ese hotel llegaste a un pueblo en tren.",
+         "Desde": "",
+         "Hasta": "2022/09/29 20:30",
+         "URL": "https://yoba-games.itch.io/the-arrow-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDg1ODY1LzI1NTA4ODAucG5n/347x500/Iv%2BbA%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bloody Mary - Scary Horror Game With Red Creature by GameDevMkss",
+         "Informacion": "\u00bfEst\u00e1s listo para vencer a Bloody Mary & Red Creature?",
+         "Desde": "",
+         "Hasta": "2022/09/29 20:30",
+         "URL": "https://shwampy.itch.io/shawarma-hum",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4MzI0MC84NjU5ODcxLnBuZw==/347x500/YKYbTG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Horror Hotel 3 : Bloody Mary Version by GameDevMkss",
+         "Informacion": "Es un juego de terror sobre una persona que no cree en fantasmas y va a un hotel encantado e hizo el desaf\u00edo de Bloody Mary, pero cuando llega al \u00faltimo piso de ese hotel se da cuenta de que este lugar es realmente muy peligroso e incluso sangriento. Mary lleg\u00f3 all\u00ed, por lo que intenta regresar, pero la puerta de salida est\u00e1 bloqueada, pero hay otra puerta desbloqueada, pero antes de esa puerta abierta hay un panel de advertencia que le impide entrar.",
+         "Desde": "",
+         "Hasta": "2022/09/29 20:30",
+         "URL": "https://gamedevmkss.itch.io/horror-hotel-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTI0MjI2LzI3MjI1NzAuanBn/347x500/n79sGH.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Horror Hotel 2 : Everything's Red by GameDevMkss",
+         "Informacion": "Despu\u00e9s de escapar de ese hotel llegaste a un pueblo en tren.",
+         "Desde": "",
+         "Hasta": "2022/09/29 20:30",
+         "URL": "https://yoba-games.itch.io/the-arrow-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDg1ODY1LzI1NTA4ODAucG5n/347x500/Iv%2BbA%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Car Hit by AYN Games",
          "Informacion": "JUEGOS AYN",
          "Desde": "",
@@ -338,6 +818,86 @@
          "Hasta": "2022/09/29 23:00",
          "URL": "https://asbux.itch.io/escape-the-void",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQyMzk4Ny85NjIzMjkwLnBuZw==/347x500/EN8Vj%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Toxic Mushrooms by Shwampy",
+         "Informacion": "un juego sobre una persona que se pierde en una isla infectada por hongos t\u00f3xicos",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://asbux.itch.io/escape-the-void",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQyMzk4Ny85NjIzMjkwLnBuZw==/347x500/EN8Vj%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shawarma Yum by Shwampy",
+         "Informacion": "Un juego sobre",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://mopegames.itch.io/tiamat",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMDUwOS84NTc3MzUyLnBuZw==/347x500/7AKtox.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Car Hit by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://ayngames.itch.io/real-cars-extreme-racing",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMDQ4OS83Njc4MzgyLnBuZw==/347x500/jLWqzk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cyber Cars Punk Racing 2 by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://ayngames.itch.io/moto-bike-extra",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNzYxMy83NjYyMDIzLnBuZw==/347x500/Rcc%2Fk%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Toxic Mushrooms by Shwampy",
+         "Informacion": "un juego sobre una persona que se pierde en una isla infectada por hongos t\u00f3xicos",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://asbux.itch.io/escape-the-void",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQyMzk4Ny85NjIzMjkwLnBuZw==/347x500/EN8Vj%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shawarma Yum by Shwampy",
+         "Informacion": "Un juego sobre",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://mopegames.itch.io/tiamat",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMDUwOS84NTc3MzUyLnBuZw==/347x500/7AKtox.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Car Hit by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://ayngames.itch.io/real-cars-extreme-racing",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMDQ4OS83Njc4MzgyLnBuZw==/347x500/jLWqzk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cyber Cars Punk Racing 2 by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://ayngames.itch.io/moto-bike-extra",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNzYxMy83NjYyMDIzLnBuZw==/347x500/Rcc%2Fk%2B.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -382,6 +942,106 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DoYourData Super Eraser Free License Key Lifetime",
+         "Informacion": "Obtengamos\u00a0la clave de licencia gratuita de DoYourData Super Eraser aqu\u00ed mismo para eliminar permanentemente archivos/carpetas, borrar datos del disco duro, borrar espacio en disco no utilizado o borrar datos en medios de almacenamiento sin cargo. Este software es altamente recomendado por miles de clientes en todo el mundo debido a sus caracter\u00edsticas potentes y f\u00e1ciles de usar.",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/doyourdata-super-eraser-free-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/doyourdata-super-eraser-for-win-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cat Fu Mi by Maestro Cinetik",
+         "Informacion": "\u00a1Hasta donde yo s\u00e9, nadie gan\u00f3 ese juego todav\u00eda!",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://yuneek.itch.io/love-connection",
+         "IMG": "https://img.itch.zone/aW1nLzk5MzU4NTIucG5n/347x500/sO4OhW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms by Notmessyouself",
+         "Informacion": "Versi\u00f3n alfa 1.1",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://kasperv.itch.io/ball-down-hill",
+         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://notmessyouself.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://lucas-fernandez.itch.io/genius-at-work",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DoYourData Super Eraser Free License Key Lifetime",
+         "Informacion": "Obtengamos\u00a0la clave de licencia gratuita de DoYourData Super Eraser aqu\u00ed mismo para eliminar permanentemente archivos/carpetas, borrar datos del disco duro, borrar espacio en disco no utilizado o borrar datos en medios de almacenamiento sin cargo. Este software es altamente recomendado por miles de clientes en todo el mundo debido a sus caracter\u00edsticas potentes y f\u00e1ciles de usar.",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/doyourdata-super-eraser-free-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/doyourdata-super-eraser-for-win-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cat Fu Mi by Maestro Cinetik",
+         "Informacion": "\u00a1Hasta donde yo s\u00e9, nadie gan\u00f3 ese juego todav\u00eda!",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://yuneek.itch.io/love-connection",
+         "IMG": "https://img.itch.zone/aW1nLzk5MzU4NTIucG5n/347x500/sO4OhW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms by Notmessyouself",
+         "Informacion": "Versi\u00f3n alfa 1.1",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://kasperv.itch.io/ball-down-hill",
+         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://notmessyouself.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
+         "Desde": "",
+         "Hasta": "2022/09/30 00:00",
+         "URL": "https://lucas-fernandez.itch.io/genius-at-work",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Genius At Work! by Lucas Fernandez",
          "Informacion": "\u00a1Pon a prueba tu inteligencia y creatividad! Deja volar tu imaginaci\u00f3n y lleva a cabo tus proyectos t\u00e9cnicos.\r\n\u00a1Genio trabajando! es un juego de construcci\u00f3n sin objetivos. Experimenta con las diferentes piezas que tienes a tu disposici\u00f3n para que entiendas lo que hace cada una. No hay l\u00edmite en el n\u00famero de unidades de cada pieza que puedes usar.",
          "Desde": "",
@@ -422,11 +1082,91 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Proto Akane by Lucas Fernandez",
+         "Informacion": "Akane debe completar su entrenamiento para controlar su veh\u00edculo, llamado \"Proto\", para avanzar resolviendo acertijos y derrotando o evadiendo a sus enemigos.",
+         "Desde": "",
+         "Hasta": "2022/09/30 05:00",
+         "URL": "https://maestro-cinetik.itch.io/cat-fu-mi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcwMjU1OC8xMDAzMDQwNC5wbmc=/347x500/S6%2Fi4A.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mecha Snake by Lucas Fernandez",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/09/30 05:00",
+         "URL": "https://notmessyouself.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA3Nzg1MC8xMDA4Mzg0Ni5wbmc=/347x500/c1YPcg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Genius At Work! by Lucas Fernandez",
+         "Informacion": "\u00a1Pon a prueba tu inteligencia y creatividad! Deja volar tu imaginaci\u00f3n y lleva a cabo tus proyectos t\u00e9cnicos.\r\n\u00a1Genio trabajando! es un juego de construcci\u00f3n sin objetivos. Experimenta con las diferentes piezas que tienes a tu disposici\u00f3n para que entiendas lo que hace cada una. No hay l\u00edmite en el n\u00famero de unidades de cada pieza que puedes usar.",
+         "Desde": "",
+         "Hasta": "2022/09/30 05:00",
+         "URL": "https://yuneek.itch.io/ladder-leap",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODI5MjMwLzQ2NDczOTUucG5n/347x500/zuryY%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Proto Akane by Lucas Fernandez",
+         "Informacion": "Akane debe completar su entrenamiento para controlar su veh\u00edculo, llamado \"Proto\", para avanzar resolviendo acertijos y derrotando o evadiendo a sus enemigos.",
+         "Desde": "",
+         "Hasta": "2022/09/30 05:00",
+         "URL": "https://maestro-cinetik.itch.io/cat-fu-mi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcwMjU1OC8xMDAzMDQwNC5wbmc=/347x500/S6%2Fi4A.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mecha Snake by Lucas Fernandez",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/09/30 05:00",
+         "URL": "https://notmessyouself.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA3Nzg1MC8xMDA4Mzg0Ni5wbmc=/347x500/c1YPcg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Genius At Work! by Lucas Fernandez",
+         "Informacion": "\u00a1Pon a prueba tu inteligencia y creatividad! Deja volar tu imaginaci\u00f3n y lleva a cabo tus proyectos t\u00e9cnicos.\r\n\u00a1Genio trabajando! es un juego de construcci\u00f3n sin objetivos. Experimenta con las diferentes piezas que tienes a tu disposici\u00f3n para que entiendas lo que hace cada una. No hay l\u00edmite en el n\u00famero de unidades de cada pieza que puedes usar.",
+         "Desde": "",
+         "Hasta": "2022/09/30 05:00",
+         "URL": "https://yuneek.itch.io/ladder-leap",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODI5MjMwLzQ2NDczOTUucG5n/347x500/zuryY%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hampton Court by Chris Collins",
          "Informacion": "Corre el a\u00f1o 1539 y eres una princesa extranjera arrojada en medio de la vibrante y extra\u00f1a corte de Enrique VIII. Tus elecciones a lo largo del juego cambian tus relaciones con los personajes e influyen en la historia. Hay m\u00faltiples finales. \u00a1Ten cuidado con lo que dices! \u00bfC\u00f3mo te ir\u00e1 en la corte? \u00bfEncontrar\u00e1s el amor? \u00bfEncontrar\u00e1s fortuna? \u00bfSobrevivir\u00e1s para contarlo?",
          "Desde": "",
          "Hasta": "2022/09/30 06:00",
          "URL": "https://chrisiscreative.itch.io/hampton-court",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzU0NjgzLzE3NzA5NjEuanBn/347x500/ccStqd.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hampton Court by Chris Collins",
+         "Informacion": "Corre el a\u00f1o 1539 y eres una princesa extranjera arrojada en medio de la vibrante y extra\u00f1a corte de Enrique VIII. Tus elecciones a lo largo del juego cambian tus relaciones con los personajes e influyen en la historia. Hay m\u00faltiples finales. \u00a1Ten cuidado con lo que dices! \u00bfC\u00f3mo te ir\u00e1 en la corte? \u00bfEncontrar\u00e1s el amor? \u00bfEncontrar\u00e1s fortuna? \u00bfSobrevivir\u00e1s para contarlo?",
+         "Desde": "",
+         "Hasta": "2022/09/30 06:00",
+         "URL": "https://kasperv.itch.io/skylabdefender",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzU0NjgzLzE3NzA5NjEuanBn/347x500/ccStqd.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hampton Court by Chris Collins",
+         "Informacion": "Corre el a\u00f1o 1539 y eres una princesa extranjera arrojada en medio de la vibrante y extra\u00f1a corte de Enrique VIII. Tus elecciones a lo largo del juego cambian tus relaciones con los personajes e influyen en la historia. Hay m\u00faltiples finales. \u00a1Ten cuidado con lo que dices! \u00bfC\u00f3mo te ir\u00e1 en la corte? \u00bfEncontrar\u00e1s el amor? \u00bfEncontrar\u00e1s fortuna? \u00bfSobrevivir\u00e1s para contarlo?",
+         "Desde": "",
+         "Hasta": "2022/09/30 06:00",
+         "URL": "https://kasperv.itch.io/skylabdefender",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzU0NjgzLzE3NzA5NjEuanBn/347x500/ccStqd.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -458,6 +1198,66 @@
          "Hasta": "2022/09/30 09:00",
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que deja atr\u00e1s su hogar.",
+         "Desde": "",
+         "Hasta": "2022/09/30 09:00",
+         "URL": "https://gamedevmkss.itch.io/horror-hotel-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2022/09/30 09:00",
+         "URL": "https://virtuaworlds.itch.io/columns",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
+         "Desde": "",
+         "Hasta": "2022/09/30 09:00",
+         "URL": "https://amon26.itch.io/mudslinger",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que deja atr\u00e1s su hogar.",
+         "Desde": "",
+         "Hasta": "2022/09/30 09:00",
+         "URL": "https://gamedevmkss.itch.io/horror-hotel-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2022/09/30 09:00",
+         "URL": "https://virtuaworlds.itch.io/columns",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
+         "Desde": "",
+         "Hasta": "2022/09/30 09:00",
+         "URL": "https://amon26.itch.io/mudslinger",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -522,6 +1322,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Finding Colors by Tailor Bird",
+         "Informacion": "\u00bfPor qu\u00e9 este mundo se ha quedado sin colores? \u00bfPor qu\u00e9 estoy all\u00ed? \u00bfLo que tengo que hacer? Vive la aventura en este mundo incoloro y descubre por qu\u00e9 se ve as\u00ed.",
+         "Desde": "",
+         "Hasta": "2022/09/30 23:59",
+         "URL": "https://amon26.itch.io/its-spezy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDcxMTk5LzI0MTI4MzMucG5n/347x500/u5JncX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Finding Colors by Tailor Bird",
+         "Informacion": "\u00bfPor qu\u00e9 este mundo se ha quedado sin colores? \u00bfPor qu\u00e9 estoy all\u00ed? \u00bfLo que tengo que hacer? Vive la aventura en este mundo incoloro y descubre por qu\u00e9 se ve as\u00ed.",
+         "Desde": "",
+         "Hasta": "2022/09/30 23:59",
+         "URL": "https://amon26.itch.io/its-spezy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDcxMTk5LzI0MTI4MzMucG5n/347x500/u5JncX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Drug Dealin Sim 2024 by b._.render",
          "Informacion": "",
          "Desde": "",
@@ -552,11 +1372,91 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Love Connection by Yuneek",
+         "Informacion": "Boy Meets Girl en este lindo y peque\u00f1o juego de rompecabezas sobre c\u00f3mo encontrar el amor... y monstruos y un mont\u00f3n de patos y algunas bombas y algunas otras cosas. \u00a1Con 8 pistas maravillosas diferentes, una para cada castillo! Usa tu v\u00ednculo para romper la oscuridad que se avecina en los castillos y regresa al jard\u00edn. \u00a1Prueba primero la versi\u00f3n gratuita de Game Jam!",
+         "Desde": "",
+         "Hasta": "2022/10/01 06:00",
+         "URL": "https://shwampy.itch.io/toxic-mushrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY2ODE1My85ODIxODE0LnBuZw==/347x500/PvkKlI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Drug Dealin Sim 2024 by b._.render",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/10/01 06:00",
+         "URL": "https://durant.itch.io/freerun",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MjA1MDMzLnBuZw==/347x500/Cv52%2FN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ladder Leap by Yuneek",
+         "Informacion": "Salta de escalera en escalera evitando los objetos que caen desde arriba",
+         "Desde": "",
+         "Hasta": "2022/10/01 06:00",
+         "URL": "https://echo7project.itch.io/blades-adrift",
+         "IMG": "https://img.itch.zone/aW1nLzQ1NjM2MDAucG5n/347x500/G2pe%2Fq.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Love Connection by Yuneek",
+         "Informacion": "Boy Meets Girl en este lindo y peque\u00f1o juego de rompecabezas sobre c\u00f3mo encontrar el amor... y monstruos y un mont\u00f3n de patos y algunas bombas y algunas otras cosas. \u00a1Con 8 pistas maravillosas diferentes, una para cada castillo! Usa tu v\u00ednculo para romper la oscuridad que se avecina en los castillos y regresa al jard\u00edn. \u00a1Prueba primero la versi\u00f3n gratuita de Game Jam!",
+         "Desde": "",
+         "Hasta": "2022/10/01 06:00",
+         "URL": "https://shwampy.itch.io/toxic-mushrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY2ODE1My85ODIxODE0LnBuZw==/347x500/PvkKlI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Drug Dealin Sim 2024 by b._.render",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/10/01 06:00",
+         "URL": "https://durant.itch.io/freerun",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MjA1MDMzLnBuZw==/347x500/Cv52%2FN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ladder Leap by Yuneek",
+         "Informacion": "Salta de escalera en escalera evitando los objetos que caen desde arriba",
+         "Desde": "",
+         "Hasta": "2022/10/01 06:00",
+         "URL": "https://echo7project.itch.io/blades-adrift",
+         "IMG": "https://img.itch.zone/aW1nLzQ1NjM2MDAucG5n/347x500/G2pe%2Fq.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Evolvedustry by Evolvedustry",
          "Informacion": "Evolveddustry es un juego de defensa de torres de aventuras estrat\u00e9gicas en el que construyes tu f\u00e1brica con materiales complejos y tuber\u00edas de fabricaci\u00f3n y progresas a trav\u00e9s de la tecnolog\u00eda mientras criaturas de otros mundos y dimensiones asedian tu imperio. Descubre los misterios de este mundo olvidado mientras recuperas lo perdido.",
          "Desde": "",
          "Hasta": "2022/10/01 08:00",
          "URL": "https://evolvedustry.itch.io/evolvedustry",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjYyMDU5LzM1NjY5NDAuanBn/347x500/bksyvh.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Evolvedustry by Evolvedustry",
+         "Informacion": "Evolveddustry es un juego de defensa de torres de aventuras estrat\u00e9gicas en el que construyes tu f\u00e1brica con materiales complejos y tuber\u00edas de fabricaci\u00f3n y progresas a trav\u00e9s de la tecnolog\u00eda mientras criaturas de otros mundos y dimensiones asedian tu imperio. Descubre los misterios de este mundo olvidado mientras recuperas lo perdido.",
+         "Desde": "",
+         "Hasta": "2022/10/01 08:00",
+         "URL": "https://virtuaworlds.itch.io/remako-visualizer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjYyMDU5LzM1NjY5NDAuanBn/347x500/bksyvh.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Evolvedustry by Evolvedustry",
+         "Informacion": "Evolveddustry es un juego de defensa de torres de aventuras estrat\u00e9gicas en el que construyes tu f\u00e1brica con materiales complejos y tuber\u00edas de fabricaci\u00f3n y progresas a trav\u00e9s de la tecnolog\u00eda mientras criaturas de otros mundos y dimensiones asedian tu imperio. Descubre los misterios de este mundo olvidado mientras recuperas lo perdido.",
+         "Desde": "",
+         "Hasta": "2022/10/01 08:00",
+         "URL": "https://virtuaworlds.itch.io/remako-visualizer",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjYyMDU5LzM1NjY5NDAuanBn/347x500/bksyvh.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -632,6 +1532,86 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
+         "Informacion": "Cthulhu espera so\u00f1ando... Hasta que unos extra\u00f1os cultistas del lejano norte lo despiertan. \u00a1Usa tu avi\u00f3n para devolver a Cthulhu a su sue\u00f1o helado o muere en el intento!",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://evolvedustry.itch.io/evolvedustry",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "REMAKO Visualizer by VIRTUA WORLDS",
+         "Informacion": "REMAKO Visualizer es un visualizador de m\u00fasica interactivo en tiempo real que incluye m\u00fasica de \"REMAKO (Final Fantasy 7)\" de Mercurius FM y Stux. yo. Esta demostraci\u00f3n t\u00e9cnica utiliza trazado de rayos (en hardware compatible) desarrollado en Unreal Engine 4.24.",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "COLUMNS by VIRTUA WORLDS",
+         "Informacion": "COLUMNS, una experiencia de arte Vaporwave VR (y no VR)",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
+         "Informacion": "Cthulhu espera so\u00f1ando... Hasta que unos extra\u00f1os cultistas del lejano norte lo despiertan. \u00a1Usa tu avi\u00f3n para devolver a Cthulhu a su sue\u00f1o helado o muere en el intento!",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://evolvedustry.itch.io/evolvedustry",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "REMAKO Visualizer by VIRTUA WORLDS",
+         "Informacion": "REMAKO Visualizer es un visualizador de m\u00fasica interactivo en tiempo real que incluye m\u00fasica de \"REMAKO (Final Fantasy 7)\" de Mercurius FM y Stux. yo. Esta demostraci\u00f3n t\u00e9cnica utiliza trazado de rayos (en hardware compatible) desarrollado en Unreal Engine 4.24.",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "COLUMNS by VIRTUA WORLDS",
+         "Informacion": "COLUMNS, una experiencia de arte Vaporwave VR (y no VR)",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Glarysoft Software Update Pro License Key Free 1-Year",
+         "Informacion": "Glarysoft Software Update Pro es un poderoso actualizador de software que ayuda a escanear su computadora e informarle sobre las actualizaciones de software disponibles para su computadora. Con Glarysoft Software Update Pro, ya no tiene que perder el tiempo buscando y buscando actualizaciones. Siga esta publicaci\u00f3n para obtener m\u00e1s informaci\u00f3n sobre Glarysoft Software Update Pro y obtenga el obsequio de Glarysoft Software Update Pro por una licencia de 1 a\u00f1o.",
+         "Desde": "",
+         "Hasta": "2022/10/01 13:00",
+         "URL": "https://giveaway.tickcoupon.com/glarysoft-software-update-pro-giveaway-for-1-year/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2020/11/Glarysoft-Software-Update-Pro-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Glarysoft Software Update Pro License Key Free 1-Year",
+         "Informacion": "Glarysoft Software Update Pro es un poderoso actualizador de software que ayuda a escanear su computadora e informarle sobre las actualizaciones de software disponibles para su computadora. Con Glarysoft Software Update Pro, ya no tiene que perder el tiempo buscando y buscando actualizaciones. Siga esta publicaci\u00f3n para obtener m\u00e1s informaci\u00f3n sobre Glarysoft Software Update Pro y obtenga el obsequio de Glarysoft Software Update Pro por una licencia de 1 a\u00f1o.",
+         "Desde": "",
+         "Hasta": "2022/10/01 13:00",
+         "URL": "https://giveaway.tickcoupon.com/glarysoft-software-update-pro-giveaway-for-1-year/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2020/11/Glarysoft-Software-Update-Pro-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Glarysoft Software Update Pro License Key Free 1-Year",
          "Informacion": "Glarysoft Software Update Pro es un poderoso actualizador de software que ayuda a escanear su computadora e informarle sobre las actualizaciones de software disponibles para su computadora. Con Glarysoft Software Update Pro, ya no tiene que perder el tiempo buscando y buscando actualizaciones. Siga esta publicaci\u00f3n para obtener m\u00e1s informaci\u00f3n sobre Glarysoft Software Update Pro y obtenga el obsequio de Glarysoft Software Update Pro por una licencia de 1 a\u00f1o.",
          "Desde": "",
@@ -672,11 +1652,111 @@
          "Borde": "border-color: #ff9600;"
       },
       {
+         "Nombre": "The Drone Racing League Simulator",
+         "Informacion": "DRL Simulator es el principal simulador de carreras y vuelo en primera persona. DRL Sim ofrece un entorno envolvente y consistente y unas carreras de drones de alta intensidad. Contiene las pistas en las que compiten los pilotos de la DRL en el mundo real, y se a\u00f1aden m\u00e1s cada...",
+         "Desde": "2022/09/29",
+         "Hasta": "2022/10/06 17:00",
+         "URL": "https://store.epicgames.com/p/the-drone-racing-league-simulator",
+         "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDroneRacingLeagueSimulator_TheDroneRacingLeague_S1_2560x1440-39456325d9a12441a58f5385b5719224",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Gloomhaven",
+         "Informacion": "Tanto si deseas venir a las tierras de Gloomhaven para ir en busca de aventuras como si lo que te mueve es un \u00e1vido deseo de hallar el fulgor del oro en medio de la oscuridad, con toda seguridad correr\u00e1s la misma suerte...",
+         "Desde": "2022/09/29",
+         "Hasta": "2022/10/06 17:00",
+         "URL": "https://store.epicgames.com/p/gloomhaven-92f741",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Runbow",
+         "Informacion": "Runbow, and all its 9-player madness, is now on Epic!\nWith tons of competitive modes for up to 9 players--locally and online--and a massive Single Player Adventure, Runbow is the crazy, colour-based platformer you've been waiting for.",
+         "Desde": "2022/09/29",
+         "Hasta": "2022/10/06 17:00",
+         "URL": "https://store.epicgames.com/p/runbow-fc9fa4",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-offer-v8wvy.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "The Drone Racing League Simulator",
+         "Informacion": "DRL Simulator es el principal simulador de carreras y vuelo en primera persona. DRL Sim ofrece un entorno envolvente y consistente y unas carreras de drones de alta intensidad. Contiene las pistas en las que compiten los pilotos de la DRL en el mundo real, y se a\u00f1aden m\u00e1s cada...",
+         "Desde": "2022/09/29",
+         "Hasta": "2022/10/06 17:00",
+         "URL": "https://store.epicgames.com/p/the-drone-racing-league-simulator",
+         "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDroneRacingLeagueSimulator_TheDroneRacingLeague_S1_2560x1440-39456325d9a12441a58f5385b5719224",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Gloomhaven",
+         "Informacion": "Tanto si deseas venir a las tierras de Gloomhaven para ir en busca de aventuras como si lo que te mueve es un \u00e1vido deseo de hallar el fulgor del oro en medio de la oscuridad, con toda seguridad correr\u00e1s la misma suerte...",
+         "Desde": "2022/09/29",
+         "Hasta": "2022/10/06 17:00",
+         "URL": "https://store.epicgames.com/p/gloomhaven-92f741",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Runbow",
+         "Informacion": "Runbow, and all its 9-player madness, is now on Epic!\nWith tons of competitive modes for up to 9 players--locally and online--and a massive Single Player Adventure, Runbow is the crazy, colour-based platformer you've been waiting for.",
+         "Desde": "2022/09/29",
+         "Hasta": "2022/10/06 17:00",
+         "URL": "https://store.epicgames.com/p/runbow-fc9fa4",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/c4dde13fcdea4aaa84dabb303006a870/runbow-offer-v8wvy.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "WinX MediaTrans License Key Full Version Download 2022",
+         "Informacion": "WinX MediaTrans le permite transferir f\u00e1cilmente datos desde dispositivos iPhone, iPad a computadoras y viceversa. Con esta transferencia, administrar\u00e1 f\u00e1cilmente los archivos en su dispositivo y tambi\u00e9n puede liberar espacio para que su iPhone guarde nuevos datos importantes.",
+         "Desde": "",
+         "Hasta": "2022/10/07 00:00",
+         "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2019/10/WinX-MediaTrans-Screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WinX MediaTrans License Key Full Version Download 2022",
+         "Informacion": "WinX MediaTrans le permite transferir f\u00e1cilmente datos desde dispositivos iPhone, iPad a computadoras y viceversa. Con esta transferencia, administrar\u00e1 f\u00e1cilmente los archivos en su dispositivo y tambi\u00e9n puede liberar espacio para que su iPhone guarde nuevos datos importantes.",
+         "Desde": "",
+         "Hasta": "2022/10/07 00:00",
+         "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2019/10/WinX-MediaTrans-Screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Blades Adrift by Echo7project",
          "Informacion": "Despu\u00e9s de morir en la batalla, te env\u00edan a las 10 capas del limbo guerrero con nada m\u00e1s que tu espada y tu arco... Con precisi\u00f3n, velocidad, habilidad y decisi\u00f3n t\u00e1ctica, llegar\u00e1s al cielo de los guerreros o quedar\u00e1s atrapado en el limbo y te desvanecer\u00e1s. \u00bfcamino?",
          "Desde": "",
          "Hasta": "2022/10/07 06:00",
          "URL": "https://echo7project.itch.io/blades-adrift",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODEyNzU5LzQ1NTczNjEuanBn/347x500/fzv5QY.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Blades Adrift by Echo7project",
+         "Informacion": "Despu\u00e9s de morir en la batalla, te env\u00edan a las 10 capas del limbo guerrero con nada m\u00e1s que tu espada y tu arco... Con precisi\u00f3n, velocidad, habilidad y decisi\u00f3n t\u00e1ctica, llegar\u00e1s al cielo de los guerreros o quedar\u00e1s atrapado en el limbo y te desvanecer\u00e1s. \u00bfcamino?",
+         "Desde": "",
+         "Hasta": "2022/10/07 06:00",
+         "URL": "https://amon26.itch.io/requiem",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODEyNzU5LzQ1NTczNjEuanBn/347x500/fzv5QY.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Blades Adrift by Echo7project",
+         "Informacion": "Despu\u00e9s de morir en la batalla, te env\u00edan a las 10 capas del limbo guerrero con nada m\u00e1s que tu espada y tu arco... Con precisi\u00f3n, velocidad, habilidad y decisi\u00f3n t\u00e1ctica, llegar\u00e1s al cielo de los guerreros o quedar\u00e1s atrapado en el limbo y te desvanecer\u00e1s. \u00bfcamino?",
+         "Desde": "",
+         "Hasta": "2022/10/07 06:00",
+         "URL": "https://amon26.itch.io/requiem",
          "IMG": "https://img.itch.zone/aW1hZ2UvODEyNzU5LzQ1NTczNjEuanBn/347x500/fzv5QY.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -689,6 +1769,46 @@
          "URL": "https://drone-garden-studios.itch.io/hunt3r",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwMzk2Ni85MDE5MDYzLnBuZw==/347x500/qCnDeG.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HUNT3R by Drone Garden Studios",
+         "Informacion": "La humanidad ha establecido su primera colonia J\u00fapiter-lunar. Rhonda est\u00e1 huyendo despu\u00e9s de robar un poderoso s\u00edmbolo pol\u00edtico. Los Enforcers han enviado a un Cazador, un cyborg feroz e implacable con el que Rhonda tiene una historia, llamado Diarmuid para rastrearla. Es decir, hasta que el guardi\u00e1n alien\u00edgena aparece en el horizonte. Porque el s\u00edmbolo en cuesti\u00f3n no es un mero elemento. Necesita ser devuelto a su lugar de descanso, antes de que sea demasiado tarde. Thief y Enforcer ahora deben trabajar juntos para salvar la colonia.",
+         "Desde": "",
+         "Hasta": "2022/10/07 07:00",
+         "URL": "https://gamedevmkss.itch.io/bloody-mary",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwMzk2Ni85MDE5MDYzLnBuZw==/347x500/qCnDeG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HUNT3R by Drone Garden Studios",
+         "Informacion": "La humanidad ha establecido su primera colonia J\u00fapiter-lunar. Rhonda est\u00e1 huyendo despu\u00e9s de robar un poderoso s\u00edmbolo pol\u00edtico. Los Enforcers han enviado a un Cazador, un cyborg feroz e implacable con el que Rhonda tiene una historia, llamado Diarmuid para rastrearla. Es decir, hasta que el guardi\u00e1n alien\u00edgena aparece en el horizonte. Porque el s\u00edmbolo en cuesti\u00f3n no es un mero elemento. Necesita ser devuelto a su lugar de descanso, antes de que sea demasiado tarde. Thief y Enforcer ahora deben trabajar juntos para salvar la colonia.",
+         "Desde": "",
+         "Hasta": "2022/10/07 07:00",
+         "URL": "https://gamedevmkss.itch.io/bloody-mary",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwMzk2Ni85MDE5MDYzLnBuZw==/347x500/qCnDeG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Effie 2",
+         "Informacion": "Effie es un innovador software de escritura m\u00ednima con una funci\u00f3n de mapa mental integrada que le permite escribir de forma inmersiva.",
+         "Desde": "",
+         "Hasta": "2022/10/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-effie-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/1.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Effie 2",
+         "Informacion": "Effie es un innovador software de escritura m\u00ednima con una funci\u00f3n de mapa mental integrada que le permite escribir de forma inmersiva.",
+         "Desde": "",
+         "Hasta": "2022/10/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-effie-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/1.png?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -712,6 +1832,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Escape the void by asbux",
+         "Informacion": "Escape the void es un p\u00edcaro de acci\u00f3n en 2D en el que luchas contra oleadas de enemigos y jefes y usas sus almas verdes para abrir cofres y obtener elementos poderosos que te hacen fuerte y tal vez solo tal vez escapar del vac\u00edo.",
+         "Desde": "",
+         "Hasta": "2022/10/09 22:00",
+         "URL": "https://stuckarcader.itch.io/redkur",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NDc3Mi85ODA5OTQyLnBuZw==/347x500/o4VctR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Escape the void by asbux",
+         "Informacion": "Escape the void es un p\u00edcaro de acci\u00f3n en 2D en el que luchas contra oleadas de enemigos y jefes y usas sus almas verdes para abrir cofres y obtener elementos poderosos que te hacen fuerte y tal vez solo tal vez escapar del vac\u00edo.",
+         "Desde": "",
+         "Hasta": "2022/10/09 22:00",
+         "URL": "https://stuckarcader.itch.io/redkur",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NDc3Mi85ODA5OTQyLnBuZw==/347x500/o4VctR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE ARROW 3 DEFINITIVE EDITION by yoba games",
+         "Informacion": "La edici\u00f3n definitiva de arrow 3 ya est\u00e1 aqu\u00ed.",
+         "Desde": "",
+         "Hasta": "2022/10/09 23:00",
+         "URL": "https://tailor-bird.itch.io/finding-colors",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDc2NTAwLzM3ODU3MjkucG5n/347x500/lmmPM4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE ARROW 3 DEFINITIVE EDITION by yoba games",
+         "Informacion": "La edici\u00f3n definitiva de arrow 3 ya est\u00e1 aqu\u00ed.",
+         "Desde": "",
+         "Hasta": "2022/10/09 23:00",
+         "URL": "https://tailor-bird.itch.io/finding-colors",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDc2NTAwLzM3ODU3MjkucG5n/347x500/lmmPM4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
          "Informacion": "\u00f0\u00ab\u00f0 \u00b7 En una vida donde un virus ha infectado a todos, los humanos que no est\u00e1n infectados, decidimos instalarnos en la alcantarilla y bajo tierra, los humanos, comenzamos a desarrollar las alcantarillas y el subsuelo. Te revelas en un casa de un cient\u00edfico que quiere usarte y decides salir de su casa y encontrarte en las alcantarillas",
          "Desde": "",
@@ -728,6 +1888,26 @@
          "Hasta": "2022/10/11 22:58",
          "URL": "https://pinou007.itch.io/sober-meter",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
+         "Informacion": "\u00f0\u00ab\u00f0 \u00b7 En una vida donde un virus ha infectado a todos, los humanos que no est\u00e1n infectados, decidimos instalarnos en las alcantarillas y el subsuelo, los Humanos, comenzamos a desarrollar las alcantarillas y el subsuelo Te revelas en una casa de un cient\u00edfico que quiere usarte y decides salir de su casa y encontrarse en las alcantarillas",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
+         "URL": "https://ayngames.itch.io/car-hit",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
+         "Informacion": "\u00f0\u00ab\u00f0 \u00b7 En una vida donde un virus ha infectado a todos, los humanos que no est\u00e1n infectados, decidimos instalarnos en las alcantarillas y el subsuelo, los Humanos, comenzamos a desarrollar las alcantarillas y el subsuelo Te revelas en una casa de un cient\u00edfico que quiere usarte y decides salir de su casa y encontrarse en las alcantarillas",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
+         "URL": "https://ayngames.itch.io/car-hit",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -832,6 +2012,306 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Phobolis - Alpha Test by Amon Twentysix",
+         "Informacion": "Inevitablemente, todos los perdidos encuentran un camino hacia el bosque.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://drone-garden-studios.itch.io/hunt3r",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUyODA0MC84OTEzMjc5LnBuZw==/347x500/ljMpu%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "REQUIEM by Amon Twentysix",
+         "Informacion": "Una noche en la \u00d3pera, presentada por Blood Machine y Amon26",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://virtuaworlds.itch.io/cthulhu-frozen-nightmare",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODA5NDUzLzQ1MzgwODYucG5n/347x500/lJR6EO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "It's SPEZY! by Amon Twentysix",
+         "Informacion": "Spezy es una creaci\u00f3n de larga data de la infancia m\u00eda y de mi mejor amigo. Creamos este peque\u00f1o y tonto reptil rojo de seis ojos y lo pusimos en todo tipo de situaciones extravagantes. Llenamos carpetas y carpetas llenas de dibujos y comics de \u00e9l. Se convirti\u00f3 en un fen\u00f3meno tal que nuestras familias celebraban el d\u00eda de su primer c\u00f3mic cada a\u00f1o, el 9 de junio. Por lo general, uno de nosotros crear\u00eda un dibujo.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://parttimeindie.itch.io/will-glow-the-wisp",
+         "IMG": "https://img.itch.zone/aW1nLzIxODM2NTEucG5n/347x500/zs5z17.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Flight 1 by Amon Twentysix",
+         "Informacion": "Un simulador de vuelo.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxOTYwLzEzNjk1NTkucG5n/347x500/6Aqo0E.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mud Slinger by Amon Twentysix",
+         "Informacion": "HISTORIA: Annie llega a la tierra y consigue un trabajo como barista en The Bitter End. La gente entra, les sirve caf\u00e9, recibe propinas, \u00bfqu\u00e9 tan dif\u00edcil puede ser?",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/everybody-got-mad",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyMzIvNzQxNzMucG5n/347x500/gV5mki.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Everybody Got Mad! by Amon Twentysix",
+         "Informacion": "Descripci\u00f3n:",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/bthulufuku",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1MzYvNTk3NTAucG5n/347x500/VA5Ukp.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bthulufuku by Amon Twentysix",
+         "Informacion": "el tiempo para la madurez ha terminado.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/ausable",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5OTQvNTI0ODQucG5n/347x500/c4nd45.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Au Sable by Amon Twentysix",
+         "Informacion": "El sucesor espiritual de All Of Our Friends Are Dead. Au Sable es una oscura aventura en las ruinas de una ciudad olvidada. Eres una joven en busca de alguien o algo que ha sido tragado por seres tremendos y horribles. A medida que avanzas, el mundo se hunde cada vez m\u00e1s en la confusi\u00f3n, la culpa y el infierno de pesadilla. Solo, excepto por un misterioso hombre enmascarado que habla en un mensaje cr\u00edptico, debes sobrevivir en tu camino a Harmonia. S\u00f3lo entonces los ojos pueden contemplar la verdad.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/aoofad",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMwODcvNDM1OTEucG5n/347x500/%2FnVziv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A.O.O.F.A.D: All Of Our Friends Are Dead by Amon Twentysix",
+         "Informacion": "All Of Our Friends Are Dead es un juego de plataformas de terror independiente cl\u00e1sico en el que todas las reglas, conceptos y sentido de la justicia se han ido por la borda. Sobrevive al borde m\u00e1s cruel de la locura y contempla visiones misteriosas de cosas que pueden o no ser.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/shomiateaf",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI3OTIvNDE4MjEucG5n/347x500/cegTTg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shomia Teaf: The Unfinished Fairy by Amon Twentysix",
+         "Informacion": "Debido a razones t\u00e9cnicas y mi incapacidad para comprender c\u00f3mo hacer copias de seguridad, este es un juego que probablemente no ver\u00e1 la luz del d\u00eda. La idea era sobre un hada de los dientes inocente y alegre que se hab\u00eda metido demasiado en su propio trabajo y ten\u00eda que ser institucionalizada. Ella escapa y golpea los dientes de las criaturas del bosque.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/fpob",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTIvMzkwNDkucG5n/347x500/I6mZVL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Final Presents of Babylon by Amon Twentysix",
+         "Informacion": "\u00a1Un breve y duro d\u00eda de San Valent\u00edn! Di tu precio",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/chikkingun",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTEvMzkwMDIucG5n/347x500/4EwPxv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ChikkinGun by Amon Twentysix",
+         "Informacion": "Chikkin Gun: PostModern War Fair es un juego de disparos de acci\u00f3n de desplazamiento lateral que gira en torno a Hank Stormgard, un Joe normal perdido en su camino a una fiesta de disfraces sexy. En el camino descubre una guarida oscura de ciencia loca y arte pretencioso. \u00a1Ayuda a Hank a escapar de los pozos de The Lourveratory y llegar a la fiesta a tiempo!",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/candyzoo2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxODkvMzg5OTMucG5n/347x500/PbWMbU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CandyZoo 2 Electric Boogaloo by Amon Twentysix",
+         "Informacion": "CandyZoo 2 es una antolog\u00eda fren\u00e9tica, fea, bebedora y mentalmente inestable del trabajo de m\u00e1s de 12 meses. Algunos de estos pueden estar familiarizados con usted, mientras que otros han permanecido in\u00e9ditos hasta ahora. Puede comprarlo ahora para PC con Windows en Sellbox.Com por $ 3 d\u00f3lares y m\u00e1s. Di tu precio, \u00a1siempre es bueno!",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/in-the-kingdom",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTAvMzkwMDAucG5n/347x500/%2BgSvlV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "In The Kingdom by Amon Twentysix",
+         "Informacion": "In The Kingdom es un juego de disparos retro en primera persona inspirado en los t\u00edtulos cl\u00e1sicos como Wolfenstein, Doom, Quake, Rise Of The Triad y Chasm. Explora las ruinas infernales de un castillo fortaleza olvidado envenenado por la magia oscura y las fuerzas del mal. Sobrevive hasta el final y descubre un nuevo destino.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/gyossait-deluxe-edition",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODU1Ny8yMzg1Ni5wbmc=/347x500/H4ji0j.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gyossait Deluxe Edition by Amon Twentysix",
+         "Informacion": "Gyossait, el juego de plataformas de terror aclamado por la cr\u00edtica de Newgrounds ya est\u00e1 disponible para descargar y jugar sin conexi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/gyossait-deluxe-edition",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjM0Mi8yMzg2My5wbmc=/347x500/L4FiD%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Phobolis - Alpha Test by Amon Twentysix",
+         "Informacion": "Inevitablemente, todos los perdidos encuentran un camino hacia el bosque.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://drone-garden-studios.itch.io/hunt3r",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUyODA0MC84OTEzMjc5LnBuZw==/347x500/ljMpu%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "REQUIEM by Amon Twentysix",
+         "Informacion": "Una noche en la \u00d3pera, presentada por Blood Machine y Amon26",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://virtuaworlds.itch.io/cthulhu-frozen-nightmare",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODA5NDUzLzQ1MzgwODYucG5n/347x500/lJR6EO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "It's SPEZY! by Amon Twentysix",
+         "Informacion": "Spezy es una creaci\u00f3n de larga data de la infancia m\u00eda y de mi mejor amigo. Creamos este peque\u00f1o y tonto reptil rojo de seis ojos y lo pusimos en todo tipo de situaciones extravagantes. Llenamos carpetas y carpetas llenas de dibujos y comics de \u00e9l. Se convirti\u00f3 en un fen\u00f3meno tal que nuestras familias celebraban el d\u00eda de su primer c\u00f3mic cada a\u00f1o, el 9 de junio. Por lo general, uno de nosotros crear\u00eda un dibujo.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://parttimeindie.itch.io/will-glow-the-wisp",
+         "IMG": "https://img.itch.zone/aW1nLzIxODM2NTEucG5n/347x500/zs5z17.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Flight 1 by Amon Twentysix",
+         "Informacion": "Un simulador de vuelo.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxOTYwLzEzNjk1NTkucG5n/347x500/6Aqo0E.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mud Slinger by Amon Twentysix",
+         "Informacion": "HISTORIA: Annie llega a la tierra y consigue un trabajo como barista en The Bitter End. La gente entra, les sirve caf\u00e9, recibe propinas, \u00bfqu\u00e9 tan dif\u00edcil puede ser?",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/everybody-got-mad",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyMzIvNzQxNzMucG5n/347x500/gV5mki.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Everybody Got Mad! by Amon Twentysix",
+         "Informacion": "Descripci\u00f3n:",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/bthulufuku",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1MzYvNTk3NTAucG5n/347x500/VA5Ukp.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bthulufuku by Amon Twentysix",
+         "Informacion": "el tiempo para la madurez ha terminado.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/ausable",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5OTQvNTI0ODQucG5n/347x500/c4nd45.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Au Sable by Amon Twentysix",
+         "Informacion": "El sucesor espiritual de All Of Our Friends Are Dead. Au Sable es una oscura aventura en las ruinas de una ciudad olvidada. Eres una joven en busca de alguien o algo que ha sido tragado por seres tremendos y horribles. A medida que avanzas, el mundo se hunde cada vez m\u00e1s en la confusi\u00f3n, la culpa y el infierno de pesadilla. Solo, excepto por un misterioso hombre enmascarado que habla en un mensaje cr\u00edptico, debes sobrevivir en tu camino a Harmonia. S\u00f3lo entonces los ojos pueden contemplar la verdad.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/aoofad",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMwODcvNDM1OTEucG5n/347x500/%2FnVziv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A.O.O.F.A.D: All Of Our Friends Are Dead by Amon Twentysix",
+         "Informacion": "All Of Our Friends Are Dead es un juego de plataformas de terror independiente cl\u00e1sico en el que todas las reglas, conceptos y sentido de la justicia se han ido por la borda. Sobrevive al borde m\u00e1s cruel de la locura y contempla visiones misteriosas de cosas que pueden o no ser.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/shomiateaf",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI3OTIvNDE4MjEucG5n/347x500/cegTTg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shomia Teaf: The Unfinished Fairy by Amon Twentysix",
+         "Informacion": "Debido a razones t\u00e9cnicas y mi incapacidad para comprender c\u00f3mo hacer copias de seguridad, este es un juego que probablemente no ver\u00e1 la luz del d\u00eda. La idea era sobre un hada de los dientes inocente y alegre que se hab\u00eda metido demasiado en su propio trabajo y ten\u00eda que ser institucionalizada. Ella escapa y golpea los dientes de las criaturas del bosque.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/fpob",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTIvMzkwNDkucG5n/347x500/I6mZVL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Final Presents of Babylon by Amon Twentysix",
+         "Informacion": "\u00a1Un breve y duro d\u00eda de San Valent\u00edn! Di tu precio",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/chikkingun",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTEvMzkwMDIucG5n/347x500/4EwPxv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ChikkinGun by Amon Twentysix",
+         "Informacion": "Chikkin Gun: PostModern War Fair es un juego de disparos de acci\u00f3n de desplazamiento lateral que gira en torno a Hank Stormgard, un Joe normal perdido en su camino a una fiesta de disfraces sexy. En el camino descubre una guarida oscura de ciencia loca y arte pretencioso. \u00a1Ayuda a Hank a escapar de los pozos de The Lourveratory y llegar a la fiesta a tiempo!",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/candyzoo2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxODkvMzg5OTMucG5n/347x500/PbWMbU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CandyZoo 2 Electric Boogaloo by Amon Twentysix",
+         "Informacion": "CandyZoo 2 es una antolog\u00eda fren\u00e9tica, fea, bebedora y mentalmente inestable del trabajo de m\u00e1s de 12 meses. Algunos de estos pueden estar familiarizados con usted, mientras que otros han permanecido in\u00e9ditos hasta ahora. Puede comprarlo ahora para PC con Windows en Sellbox.Com por $ 3 d\u00f3lares y m\u00e1s. Di tu precio, \u00a1siempre es bueno!",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/in-the-kingdom",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTAvMzkwMDAucG5n/347x500/%2BgSvlV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "In The Kingdom by Amon Twentysix",
+         "Informacion": "In The Kingdom es un juego de disparos retro en primera persona inspirado en los t\u00edtulos cl\u00e1sicos como Wolfenstein, Doom, Quake, Rise Of The Triad y Chasm. Explora las ruinas infernales de un castillo fortaleza olvidado envenenado por la magia oscura y las fuerzas del mal. Sobrevive hasta el final y descubre un nuevo destino.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/gyossait-deluxe-edition",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODU1Ny8yMzg1Ni5wbmc=/347x500/H4ji0j.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gyossait Deluxe Edition by Amon Twentysix",
+         "Informacion": "Gyossait, el juego de plataformas de terror aclamado por la cr\u00edtica de Newgrounds ya est\u00e1 disponible para descargar y jugar sin conexi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://amon26.itch.io/gyossait-deluxe-edition",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjM0Mi8yMzg2My5wbmc=/347x500/L4FiD%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "WinX MediaTrans License Key Full Version Download 2022",
          "Informacion": "WinX MediaTrans le permite transferir f\u00e1cilmente datos desde dispositivos iPhone, iPad a computadoras y viceversa. Con esta transferencia, administrar\u00e1 f\u00e1cilmente los archivos en su dispositivo y tambi\u00e9n puede liberar espacio para que su iPhone guarde nuevos datos importantes.",
          "Desde": "",
@@ -839,6 +2319,46 @@
          "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2019/10/WinX-MediaTrans-Screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Free Run by Durant dev",
+         "Informacion": "cr\u00e9dito a dani's 3d game karlson por inspiraci\u00f3n",
+         "Desde": "",
+         "Hasta": "2022/11/10 00:00",
+         "URL": "https://durant.itch.io/minesweeper-petal",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MzYwNi85MTM1MzE3LnBuZw==/347x500/lxidEU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ultimate Minesweeper by Durant dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/11/10 00:00",
+         "URL": "https://kasperv.itch.io/the-simple-life",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Free Run by Durant dev",
+         "Informacion": "cr\u00e9dito a dani's 3d game karlson por inspiraci\u00f3n",
+         "Desde": "",
+         "Hasta": "2022/11/10 00:00",
+         "URL": "https://durant.itch.io/minesweeper-petal",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MzYwNi85MTM1MzE3LnBuZw==/347x500/lxidEU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ultimate Minesweeper by Durant dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/11/10 00:00",
+         "URL": "https://kasperv.itch.io/the-simple-life",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -872,11 +2392,51 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "thisPaper by Pinou007",
+         "Informacion": "Suspendido temporalmente thisPaper es un juego donde tienes que recuperar 10Paper este juego es realmente simple el juego se hizo en 12 horas un reto personal que comenc\u00e9 los otros juegos que ser\u00e1n de mejor calidadMapa DisponibleOtros mapas estar\u00e1n disponibles",
+         "Desde": "",
+         "Hasta": "2023/01/01 01:00",
+         "URL": "https://pinou007.itch.io/projectxnow",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "thisPaper by Pinou007",
+         "Informacion": "Suspendido temporalmente thisPaper es un juego donde tienes que recuperar 10Paper este juego es realmente simple el juego se hizo en 12 horas un reto personal que comenc\u00e9 los otros juegos que ser\u00e1n de mejor calidadMapa DisponibleOtros mapas estar\u00e1n disponibles",
+         "Desde": "",
+         "Hasta": "2023/01/01 01:00",
+         "URL": "https://pinou007.itch.io/projectxnow",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Real Cars Extreme Racing by AYN Games",
          "Informacion": "JUEGOS AYN",
          "Desde": "",
          "Hasta": "2023/06/29 23:00",
          "URL": "https://ayngames.itch.io/real-cars-extreme-racing",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNzYwMC83NjYxOTUyLnBuZw==/347x500/C6A0E4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Real Cars Extreme Racing by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2023/06/29 23:00",
+         "URL": "https://ayngames.itch.io/cyber-cars-punk-racing-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNzYwMC83NjYxOTUyLnBuZw==/347x500/C6A0E4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Real Cars Extreme Racing by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2023/06/29 23:00",
+         "URL": "https://ayngames.itch.io/cyber-cars-punk-racing-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNzYwMC83NjYxOTUyLnBuZw==/347x500/C6A0E4.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -907,6 +2467,26 @@
          "Desde": "",
          "Hasta": "2024/01/30 23:00",
          "URL": "https://ayngames.itch.io/moto-bike-extra",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxOTAwNi83NjY5ODMxLnBuZw==/347x500/%2BYjSzX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Moto Bike Extra by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2024/01/30 23:00",
+         "URL": "https://mopegames.itch.io/themaze",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxOTAwNi83NjY5ODMxLnBuZw==/347x500/%2BYjSzX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Moto Bike Extra by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2024/01/30 23:00",
+         "URL": "https://mopegames.itch.io/themaze",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxOTAwNi83NjY5ODMxLnBuZw==/347x500/%2BYjSzX.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
