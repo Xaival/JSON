@@ -1,36 +1,6 @@
 {
-   "date_update": "23 Sep 2022 21:20 UTC",
+   "date_update": "24 Sep 2022 18:06 UTC",
    "values": [
-      {
-         "Nombre": "The Simple Life by KasperV",
-         "Informacion": "La vida simple",
-         "Desde": "",
-         "Hasta": "2022/09/24 00:00",
-         "URL": "https://amon26.itch.io/phobolis",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "AllMyNotes Organizer",
-         "Informacion": "Tus notas, seguras y con capacidad de b\u00fasqueda",
-         "Desde": "",
-         "Hasta": "2022/09/24 09:00",
-         "URL": "https://www.bitsdujour.com/software/allmynotes-organizer/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allmynotes-organizer-ekx67.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
-      {
-         "Nombre": "Idle Champions de Forgotten Realms",
-         "Informacion": "Idle Champions es un videojuego de gesti\u00f3n estrat\u00e9gica con licencia de Dungeons & Dragons en el que personajes emblem\u00e1ticos de las novelas, las campa\u00f1as y las series se unen en una \u00e9pica aventura.",
-         "Desde": "",
-         "Hasta": "2022/09/24 09:00",
-         "URL": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
-         "IMG": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-e2a1ffd224f443594d5deff3a47a45e2",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
       {
          "Nombre": "AllMyNotes Organizer Deluxe Edition License Key for Free",
          "Informacion": "AllMyNotes Organizer Deluxe Edition es un software integral que lo ayuda a administrar una nota adaptable diaria y mantiene toda la informaci\u00f3n vital segura en su computadora. Con \u00e9l, puede almacenar todos los documentos y notas en un solo archivo de almacenamiento. Puede escribir tareas, listas de tareas pendientes, eventos y otra informaci\u00f3n basada en texto, lo que le permite adjuntar im\u00e1genes y documentos, establecer recordatorios, realizar copias de seguridad de datos, establecer una contrase\u00f1a de programa y m\u00e1s.",
@@ -39,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/allmynotes-organizer-free-license-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/08/allmynotes-organizer-deluxe-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
       },
       {
          "Nombre": "AVS Video ReMaker License Key for Free 2022",
@@ -49,7 +19,17 @@
          "URL": "https://giveaway.tickcoupon.com/avs-video-remaker-free-license-code/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/05/avs-video-remaker-giveaway-license-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
+      },
+      {
+         "Nombre": "Horror Survival Creepy Game: The Woman in Grey by Green Woltec",
+         "Informacion": "Historia:",
+         "Desde": "",
+         "Hasta": "2022/09/24 20:30",
+         "URL": "https://orus-softwares.itch.io/rocket",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcwNTI0Mi8xMDA0NjMyNy5wbmc=/347x500/18RvGV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "iTop VPN VIP Account License Key for Free",
@@ -59,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/itop-vpn-vip-account-license-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/12/itop-vpn-vip-account-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
       },
       {
          "Nombre": "Switch It by Lucas Fernandez",
@@ -69,7 +49,7 @@
          "URL": "https://verhont.itch.io/capeman",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcxNDcwOS8xMDEwMDk1My5qcGc=/347x500/xwtOwk.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
       },
       {
          "Nombre": "CutOut 8",
@@ -79,7 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
       },
       {
          "Nombre": "DVDFab Toolkit",
@@ -89,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-dvdfab-toolkit-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/833-200x125.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
       },
       {
          "Nombre": "IObit Driver Booster 9 PRO License Key Free Giveaway",
@@ -162,6 +142,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Simple Life by KasperV",
+         "Informacion": "La vida simple",
+         "Desde": "",
+         "Hasta": "2022/09/28 00:00",
+         "URL": "https://amon26.itch.io/phobolis",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HT Work Focus",
          "Informacion": "Conc\u00e9ntrese en el trabajo, elimine las distracciones, bloquee las p\u00e9rdidas de tiempo y maximice su productividad y la de su equipo con la aplicaci\u00f3n HT Work Focus simple y segura.",
          "Desde": "",
@@ -178,6 +168,16 @@
          "Hasta": "2022/09/29 07:00",
          "URL": "https://sharewareonsale.com/s/free-text-r-ocr-software-professional-edition-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/03/Text-R1000-EN-116x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VideoProc",
+         "Informacion": "VideoProc es su soluci\u00f3n ideal para editar, cambiar el tama\u00f1o y procesar videos 8K/4K/HD con aceleraci\u00f3n de hardware completa.",
+         "Desde": "",
+         "Hasta": "2022/09/29 07:00",
+         "URL": "https://sharewareonsale.com/s/free-videoproc-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/06/videonav.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -692,6 +692,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Blades Adrift by Echo7project",
+         "Informacion": "Despu\u00e9s de morir en la batalla, te env\u00edan a las 10 capas del limbo guerrero con nada m\u00e1s que tu espada y tu arco... Con precisi\u00f3n, velocidad, habilidad y decisi\u00f3n t\u00e1ctica, llegar\u00e1s al cielo de los guerreros o quedar\u00e1s atrapado en el limbo y te desvanecer\u00e1s. \u00bfcamino?",
+         "Desde": "",
+         "Hasta": "2022/10/07 06:00",
+         "URL": "https://luis-s.itch.io/crystal-golem",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODEyNzU5LzQ1NTczNjEuanBn/347x500/fzv5QY.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HUNT3R by Drone Garden Studios",
          "Informacion": "La humanidad ha establecido su primera colonia J\u00fapiter-lunar. Rhonda est\u00e1 huyendo despu\u00e9s de robar un poderoso s\u00edmbolo pol\u00edtico. Los Enforcers han enviado a un Cazador, un cyborg feroz e implacable con el que Rhonda tiene una historia, llamado Diarmuid para rastrearla. Es decir, hasta que el guardi\u00e1n alien\u00edgena aparece en el horizonte. Porque el s\u00edmbolo en cuesti\u00f3n no es un mero elemento. Necesita ser devuelto a su lugar de descanso, antes de que sea demasiado tarde. Thief y Enforcer ahora deben trabajar juntos para salvar la colonia.",
          "Desde": "",
@@ -1037,6 +1047,16 @@
          "Desde": "",
          "Hasta": "2024/01/30 23:00",
          "URL": "https://mopegames.itch.io/themaze",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxOTAwNi83NjY5ODMxLnBuZw==/347x500/%2BYjSzX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Moto Bike Extra by AYN Games",
+         "Informacion": "JUEGOS AYN",
+         "Desde": "",
+         "Hasta": "2024/01/30 23:00",
+         "URL": "https://luis-s.itch.io/lunarrota",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxOTAwNi83NjY5ODMxLnBuZw==/347x500/%2BYjSzX.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
