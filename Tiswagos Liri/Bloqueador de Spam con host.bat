@@ -573,6 +573,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 amateurdumper.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 burningcamel.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 dreamamateurs.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 fapvidhd.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 followporno.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sex-teen.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 shyteen.tv #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -580,7 +581,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 teenhole.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 teenhooker.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 teens.ooo #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 fapvidhd.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 teensporn.cc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 teenx.tv #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 tubeteencam.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
