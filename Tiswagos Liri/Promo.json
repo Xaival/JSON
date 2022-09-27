@@ -1,16 +1,6 @@
 {
-   "date_update": "26 Sep 2022 19:17 UTC",
+   "date_update": "27 Sep 2022 15:08 UTC",
    "values": [
-      {
-         "Nombre": "DVDFab Toolkit",
-         "Informacion": "M\u00e1s de 20 herramientas de utilidad peque\u00f1as pero \u00fatiles para convertir y editar videos y audios, tomar capturas de pantalla de videos, hacer GIF de videos, hacer videos de im\u00e1genes, grabar la pantalla de la computadora y c\u00e1maras web, y m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2022/09/27 07:00",
-         "URL": "https://sharewareonsale.com/s/free-dvdfab-toolkit-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/833-200x125.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
       {
          "Nombre": "1943 by Notmessyouself",
          "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
@@ -19,17 +9,7 @@
          "URL": "https://noirovideogames.itch.io/formation-vee",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Simple Life by KasperV",
-         "Informacion": "La vida simple",
-         "Desde": "",
-         "Hasta": "2022/09/28 00:00",
-         "URL": "https://amon26.itch.io/phobolis",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Coolmuster Mobile Transfer Free License Key",
@@ -39,7 +19,17 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-mobile-transfer-giveaway/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2018/09/Coolmuster-Mobile-Transfer-Giveaway-1.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+      },
+      {
+         "Nombre": "The Simple Life by KasperV",
+         "Informacion": "La vida simple",
+         "Desde": "",
+         "Hasta": "2022/09/28 00:00",
+         "URL": "https://amon26.itch.io/phobolis",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "The Simple Life by KasperV",
@@ -49,7 +39,17 @@
          "URL": "https://coolgamesco.itch.io/squares-and-guns-v-1-4",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+      },
+      {
+         "Nombre": "CutOut 8",
+         "Informacion": "\u00a1Los mejores detalles de imagen, cortes precisos para montajes fotogr\u00e1ficos creativos!",
+         "Desde": "",
+         "Hasta": "2022/09/28 07:00",
+         "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "HT Work Focus",
@@ -59,15 +59,25 @@
          "URL": "https://sharewareonsale.com/s/free-ht-work-focus-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/hem-banner.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "WonderFox DVD Ripper Pro",
+         "Informacion": "Transforme pel\u00edculas en DVD en formatos de archivo port\u00e1tiles",
+         "Desde": "",
+         "Hasta": "2022/09/28 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-ripper-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-dvd-ripper-2-aa6ca.png",
+         "Distribuidora": "BitsDuJour",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "CutOut 8",
-         "Informacion": "\u00a1Los mejores detalles de imagen, cortes precisos para montajes fotogr\u00e1ficos creativos!",
+         "Nombre": "dot11Expert",
+         "Informacion": "dot11Expert es un software de soluci\u00f3n de problemas para su WLAN (red Wifi) que le brinda informaci\u00f3n t\u00e9cnica detallada sobre sus adaptadores de red Wifi, sus redes Wifi y sus puntos de acceso asociados.",
          "Desde": "",
-         "Hasta": "2022/09/28 07:00",
-         "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
+         "Hasta": "2022/09/29 07:00",
+         "URL": "https://sharewareonsale.com/s/dot11expert-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/11/dot11e_screen-200x90.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -88,16 +98,6 @@
          "Hasta": "2022/09/29 07:00",
          "URL": "https://sharewareonsale.com/s/free-videoproc-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/06/videonav.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "dot11Expert",
-         "Informacion": "dot11Expert es un software de soluci\u00f3n de problemas para su WLAN (red Wifi) que le brinda informaci\u00f3n t\u00e9cnica detallada sobre sus adaptadores de red Wifi, sus redes Wifi y sus puntos de acceso asociados.",
-         "Desde": "",
-         "Hasta": "2022/09/29 07:00",
-         "URL": "https://sharewareonsale.com/s/dot11expert-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/11/dot11e_screen-200x90.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -197,6 +197,16 @@
          "Desde": "",
          "Hasta": "2022/09/29 23:00",
          "URL": "https://b-render.itch.io/click-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMDUwOS84NTc3MzUyLnBuZw==/347x500/7AKtox.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shawarma Yum by Shwampy",
+         "Informacion": "Un juego sobre",
+         "Desde": "",
+         "Hasta": "2022/09/29 23:00",
+         "URL": "https://bee-tea.itch.io/coffeeboy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMDUwOS84NTc3MzUyLnBuZw==/347x500/7AKtox.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -352,6 +362,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Controller Checker 2022 (Beta Sale 100% off) by b._.render",
+         "Informacion": "Esta es una aplicaci\u00f3n que hice para verificar y comparar mis controladores. Despu\u00e9s de tantas horas de juego, algunos joysticks se desv\u00edan, esta aplicaci\u00f3n mostrar\u00e1 el valor actual y m\u00e1s alto para los dos joysticks. Esto puede ser \u00fatil porque si el juego detecta movimiento sin que presiones, eso es deriva y hace que sea muy dif\u00edcil jugar.",
+         "Desde": "",
+         "Hasta": "2022/09/30 06:00",
+         "URL": "https://b-render.itch.io/midi-keyboard",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "E-Cell by b._.render",
+         "Informacion": "Compite por el tiempo m\u00e1s r\u00e1pido. Batir el reloj. no te caigas",
+         "Desde": "",
+         "Hasta": "2022/09/30 06:00",
+         "URL": "https://b-render.itch.io/controller-checker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTU2MS83NTIwMzY4LnBuZw==/347x500/RqKwah.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hampton Court by Chris Collins",
          "Informacion": "Corre el a\u00f1o 1539 y eres una princesa extranjera arrojada en medio de la vibrante y extra\u00f1a corte de Enrique VIII. Tus elecciones a lo largo del juego cambian tus relaciones con los personajes e influyen en la historia. Hay m\u00faltiples finales. \u00a1Ten cuidado con lo que dices! \u00bfC\u00f3mo te ir\u00e1 en la corte? \u00bfEncontrar\u00e1s el amor? \u00bfEncontrar\u00e1s fortuna? \u00bfSobrevivir\u00e1s para contarlo?",
          "Desde": "",
@@ -372,16 +402,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Custom Name Plate Decorations by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2022/09/30 06:00",
-         "URL": "https://ayngames.itch.io/car-hit",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMzNTE1Ni83NzY4NTA0LnBuZw==/347x500/1tqTEU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "King TD by b._.render",
          "Informacion": "Este es un prototipo de una idea que tuve para el juego de disparos en primera persona de 7 d\u00edas.",
          "Desde": "",
@@ -392,22 +412,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "E-Cell by b._.render",
-         "Informacion": "Compite por el tiempo m\u00e1s r\u00e1pido. Batir el reloj. no te caigas",
+         "Nombre": "King TD by b._.render",
+         "Informacion": "Este es un prototipo de una idea que tuve para el juego de disparos en primera persona de 7 d\u00edas.",
          "Desde": "",
          "Hasta": "2022/09/30 06:00",
-         "URL": "https://b-render.itch.io/controller-checker",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTU2MS83NTIwMzY4LnBuZw==/347x500/RqKwah.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Controller Checker 2022 (Beta Sale 100% off) by b._.render",
-         "Informacion": "Esta es una aplicaci\u00f3n que hice para verificar y comparar mis controladores. Despu\u00e9s de tantas horas de juego, algunos joysticks se desv\u00edan, esta aplicaci\u00f3n mostrar\u00e1 el valor actual y m\u00e1s alto para los dos joysticks. Esto puede ser \u00fatil porque si el juego detecta movimiento sin que presiones, eso es deriva y hace que sea muy dif\u00edcil jugar.",
-         "Desde": "",
-         "Hasta": "2022/09/30 06:00",
-         "URL": "https://b-render.itch.io/midi-keyboard",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
+         "URL": "https://drone-garden-studios.itch.io/amethyst-hearth",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNTY3My83NjUwNTkyLnBuZw==/347x500/dNYmJs.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -682,12 +692,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "MacX Video Converter PRO Free License Key",
+         "Informacion": "MacX Video Converter Pro es un software todo en uno para Mac para descargar, convertir, editar y grabar videos de pantalla. MacX Video Converter Pro le permite descargar videos y m\u00fasica de sitios web y convertir videos de Youtube a Mp3 y Mp4 para reproducirlos sin conexi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2022/10/05 00:00",
+         "URL": "https://giveaway.tickcoupon.com/macx-video-converter-pro-key-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/04/macx-video-converter-pro-giveaway-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Gloomhaven",
          "Informacion": "Tanto si deseas venir a las tierras de Gloomhaven para ir en busca de aventuras como si lo que te mueve es un \u00e1vido deseo de hallar el fulgor del oro en medio de la oscuridad, con toda seguridad correr\u00e1s la misma suerte...",
          "Desde": "2022/09/29",
          "Hasta": "2022/10/06 17:00",
          "URL": "https://store.epicgames.com/p/gloomhaven-92f741",
          "IMG": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Idle Champions de Forgotten Realms",
+         "Informacion": "Idle Champions es un videojuego de gesti\u00f3n estrat\u00e9gica con licencia de Dungeons & Dragons en el que personajes emblem\u00e1ticos de las novelas, las campa\u00f1as y las series se unen en una \u00e9pica aventura.",
+         "Desde": "2022/09/29",
+         "Hasta": "2022/10/06 17:00",
+         "URL": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
+         "IMG": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-e2a1ffd224f443594d5deff3a47a45e2",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
@@ -708,16 +738,6 @@
          "Hasta": "2022/10/06 17:00",
          "URL": "https://store.epicgames.com/p/the-drone-racing-league-simulator",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheDroneRacingLeagueSimulator_TheDroneRacingLeague_S1_2560x1440-39456325d9a12441a58f5385b5719224",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
-      },
-      {
-         "Nombre": "Idle Champions de Forgotten Realms",
-         "Informacion": "Idle Champions es un videojuego de gesti\u00f3n estrat\u00e9gica con licencia de Dungeons & Dragons en el que personajes emblem\u00e1ticos de las novelas, las campa\u00f1as y las series se unen en una \u00e9pica aventura.",
-         "Desde": "2022/09/29",
-         "Hasta": "2022/10/06 17:00",
-         "URL": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
-         "IMG": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S1_2560x1440-e2a1ffd224f443594d5deff3a47a45e2",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
