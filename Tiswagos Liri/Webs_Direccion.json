@@ -1,8 +1,11 @@
 {
-   "date_update": "28 Sep 2022 16:15 UTC",
+   "date_update": "28 Sep 2022 16:18 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 glugherg.net #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 coxaldreamed.uno #AntiSpam"
@@ -663,6 +666,9 @@
       },
       {
          "Direccion": "0.0.0.0 sale.aliexpress.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 campaign.aliexpress.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 adspaces.eroadvertising.com #AntiSpam"
