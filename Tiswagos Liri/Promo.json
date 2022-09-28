@@ -1,5 +1,5 @@
 {
-   "date_update": "28 Sep 2022 05:29 UTC",
+   "date_update": "28 Sep 2022 10:27 UTC",
    "values": [
       {
          "Nombre": "CutOut 8",
@@ -9,7 +9,7 @@
          "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "HT Work Focus",
@@ -19,7 +19,7 @@
          "URL": "https://sharewareonsale.com/s/free-ht-work-focus-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/hem-banner.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "WonderFox DVD Ripper Pro",
@@ -29,7 +29,7 @@
          "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-ripper-2/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-dvd-ripper-2-aa6ca.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
       },
       {
          "Nombre": "dot11Expert",
