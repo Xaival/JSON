@@ -60,6 +60,7 @@ mode con:cols=65 lines=16
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo 0.0.0.0 886.novitrk6.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 glugherg.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 coxaldreamed.uno #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 accordaudienceeducational.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 af08ec.binomlink.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -280,6 +281,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.topcpmnetwork.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 xxxs.vip #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sale.aliexpress.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 campaign.aliexpress.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adspaces.eroadvertising.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 swiftfling.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.werockgaming.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
