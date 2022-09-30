@@ -1,5 +1,5 @@
 {
-   "date_update": "30 Sep 2022 14:51 UTC",
+   "date_update": "30 Sep 2022 22:39 UTC",
    "values": [
       {
          "Nombre": "AimGuru by munegames",
@@ -9,7 +9,7 @@
          "URL": "https://munegames.itch.io/aimguru",
          "IMG": "https://img.itch.zone/aW1nLzQ1ODI1ODIuanBn/347x500/isQFPR.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Forest Stats For Fortnite Battle Royale by munegames",
@@ -19,7 +19,7 @@
          "URL": "https://munegames.itch.io/forest-stats-for-battle-royale",
          "IMG": "https://img.itch.zone/aW1nLzYyNzE0MDUucG5n/347x500/xafBe0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Freeze Target by munegames",
@@ -29,7 +29,7 @@
          "URL": "https://munegames.itch.io/freeze-target",
          "IMG": "https://img.itch.zone/aW1nLzQ1ODg1NTYuanBn/347x500/nCKui9.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Valorant Stats by munegames",
@@ -39,7 +39,7 @@
          "URL": "https://munegames.itch.io/valor-stats",
          "IMG": "https://img.itch.zone/aW1nLzY3MDEzMjQucG5n/347x500/BMW2gn.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Finding Colors by Tailor Bird",
@@ -49,7 +49,7 @@
          "URL": "https://amon26.itch.io/its-spezy",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDcxMTk5LzI0MTI4MzMucG5n/347x500/u5JncX.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
       },
       {
          "Nombre": "KORDONIA by DarkPony Studios",
@@ -59,7 +59,7 @@
          "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI4MjI4Ny83NDYzNDU2LnBuZw==/347x500/LVxtRU.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "Rocket by Orus Softwares",
@@ -69,7 +69,7 @@
          "URL": "https://maestro-cinetik.itch.io/cat-fu-mi",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY5MjQwNy85OTY5NzQ0LnBuZw==/347x500/6oDChN.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Rocket by Orus Softwares",
@@ -79,7 +79,27 @@
          "URL": "https://orus-softwares.itch.io/rocket",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY5MjQwNy85OTY5NzQ0LnBuZw==/347x500/6oDChN.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
+      },
+      {
+         "Nombre": "Lands of Zam: Prelude by BuilderManX",
+         "Informacion": "Navega por el desierto procesal retro de los 90 de ZAM con este controlador infinito gratuito. Vista previa de lo que vendr\u00e1 con los juegos futuros en serie",
+         "Desde": "",
+         "Hasta": "2022/10/01 05:00",
+         "URL": "https://buildermanx.itch.io/spooksmashers",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQxMDIzMC84MjE1Njk5LnBuZw==/347x500/2MOe4n.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
+      },
+      {
+         "Nombre": "Spook Smashers! by BuilderManX",
+         "Informacion": "\u00a1Caza fantasmas en una parodia de caza de fantasmas ecto procesal!",
+         "Desde": "",
+         "Hasta": "2022/10/01 05:00",
+         "URL": "https://projectyaarj.itch.io/tank",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjYyMi85Nzc2OTc1LnBuZw==/347x500/Y1UiIE.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Drug Dealin Sim 2024 by b._.render",
@@ -89,7 +109,7 @@
          "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MjA1MDMzLnBuZw==/347x500/Cv52%2FN.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Ladder Leap by HappySeed",
@@ -99,7 +119,7 @@
          "URL": "https://happyseed.itch.io/ladder-leap",
          "IMG": "https://img.itch.zone/aW1nLzQ1NjM2MDAucG5n/347x500/G2pe%2Fq.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Love Connection by HappySeed",
@@ -109,7 +129,7 @@
          "URL": "https://happyseed.itch.io/love-connection",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY2ODE1My85ODIxODE0LnBuZw==/347x500/PvkKlI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Love Connection by Yuneek",
@@ -119,7 +139,7 @@
          "URL": "https://shwampy.itch.io/toxic-mushrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY2ODE1My85ODIxODE0LnBuZw==/347x500/PvkKlI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Love Connection by Yuneek",
@@ -129,7 +149,7 @@
          "URL": "https://asbux.itch.io/escape-the-void",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY2ODE1My85ODIxODE0LnBuZw==/347x500/PvkKlI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "AOMEI Partition Assistant Pro Edition",
@@ -139,7 +159,7 @@
          "URL": "https://www.bitsdujour.com/software/aomei-partition-assistant-pro-edition/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/aomei-partition-assistant-pro-edition-ctqwv.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "COLUMNS by VIRTUA WORLDS",
@@ -149,7 +169,7 @@
          "URL": "https://virtuaworlds.itch.io/columns",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "COLUMNS by VIRTUA WORLDS",
@@ -159,7 +179,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "COLUMNS by VIRTUA WORLDS",
@@ -169,7 +189,7 @@
          "URL": "https://amon26.itch.io/mudslinger",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "DeathOfCraze (Demo) by RaidGames Studios",
@@ -179,7 +199,7 @@
          "URL": "https://raidgames-studios.itch.io/deathofcraze",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM2OTEwMi83OTcxMDY3LmpwZw==/347x500/v1RORx.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "Farlight by RaidGames Studios",
@@ -189,7 +209,7 @@
          "URL": "https://raidgames-studios.itch.io/farlight",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NjMyNy85NzUxMDkzLnBuZw==/347x500/Zd3bhA.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "REMAKO Visualizer by VIRTUA WORLDS",
@@ -199,7 +219,7 @@
          "URL": "https://virtuaworlds.itch.io/remako-visualizer",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "REMAKO Visualizer by VIRTUA WORLDS",
@@ -209,7 +229,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "SinsFromGod 2 by RaidGames Studios",
@@ -219,7 +239,7 @@
          "URL": "https://raidgames-studios.itch.io/sinsfromgod2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMyNTIwOS83ODc0NzE3LnBuZw==/347x500/yA4Tx8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "SinsFromGod: Aftermath by RaidGames Studios",
@@ -229,7 +249,17 @@
          "URL": "https://raidgames-studios.itch.io/aftermath",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQzODkxMi84OTk1NzY3LmpwZw==/347x500/5l9ZKn.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que deja atr\u00e1s su hogar.",
+         "Desde": "",
+         "Hasta": "2022/10/01 09:00",
+         "URL": "https://projectyaarj.itch.io/arrow-maze",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "Glarysoft Software Update Pro License Key Free 1-Year",
@@ -239,7 +269,17 @@
          "URL": "https://giveaway.tickcoupon.com/glarysoft-software-update-pro-giveaway-for-1-year/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2020/11/Glarysoft-Software-Update-Pro-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
+      },
+      {
+         "Nombre": "Donemax DMclone for Mac License Key for Free",
+         "Informacion": "DMclone para Mac es un potente software de clonaci\u00f3n de discos. Puede clonar cualquier tipo de disco duro de una ubicaci\u00f3n a otra de manera f\u00e1cil y r\u00e1pida. Solo necesita elegir la unidad de origen y la unidad de destino, luego hacer clic en el bot\u00f3n Clonar para copiar los datos de la unidad de origen a la unidad de destino.",
+         "Desde": "",
+         "Hasta": "2022/10/01 15:00",
+         "URL": "https://giveaway.tickcoupon.com/donemax-dmclone-for-mac-license-key-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/09/donemax-dmclone-for-mac-license-code-for-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
       },
       {
          "Nombre": "Squares And Guns V: 1.4 by CoolGames.Co",
@@ -258,6 +298,26 @@
          "Hasta": "2022/10/01 20:58",
          "URL": "https://8080.itch.io/sky-tower",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU5NjY0Mi85MzM4Mzg2LnBuZw==/347x500/reZOFl.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Train Clicker v2.0 FINISHED by CoolGames.Co",
+         "Informacion": "-Tren Clicker-",
+         "Desde": "",
+         "Hasta": "2022/10/01 20:58",
+         "URL": "https://buildermanx.itch.io/badguys-escape-to-comodo-zam",
+         "IMG": "https://img.itch.zone/aW1nLzk4MTE5MzMucG5n/347x500/k%2F%2B2eZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Torture A Stickman 2 (Version 1.0) by CoolGames.Co",
+         "Informacion": "\u00a1Lanzamiento de Torture A Stickman 2! \u00a1Espero que lo disfrutes!",
+         "Desde": "",
+         "Hasta": "2022/10/01 20:58",
+         "URL": "https://mopegames.itch.io/tiamat",
+         "IMG": "https://img.itch.zone/aW1nLzg2NjIyMzEucG5n/347x500/UHFGok.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -288,6 +348,16 @@
          "Hasta": "2022/10/02 15:00",
          "URL": "https://giveaway.tickcoupon.com/flashboot-pro-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/03/FlashBoot-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HT Parental Controls Giveaway License Key Free 2022",
+         "Informacion": "HT Parental Controls es una herramienta dise\u00f1ada para mantener a sus hijos seguros en Internet, filtrar contenido y bloquear todos los sitios web y aplicaciones inapropiados. Con \u00e9l, puede estar seguro de que el contenido inapropiado no llegar\u00e1 a su hijo. Adem\u00e1s, este software bloquear\u00e1 juegos, mensajeros, chats y cualquier software no deseado.",
+         "Desde": "",
+         "Hasta": "2022/10/02 15:00",
+         "URL": "https://giveaway.tickcoupon.com/ht-parental-controls-free-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/03/HT-Parental-Controls-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -422,6 +492,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Mecha Snake by Lucas Fernandez",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/10/07 05:00",
+         "URL": "https://zevkev.itch.io/not-a-rick-roll",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA3Nzg1MC8xMDA4Mzg0Ni5wbmc=/347x500/c1YPcg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Genius At Work! by Lucas Fernandez",
+         "Informacion": "\u00a1Pon a prueba tu inteligencia y creatividad! Deja volar tu imaginaci\u00f3n y lleva a cabo tus proyectos t\u00e9cnicos.\r\n\u00a1Genio trabajando! es un juego de construcci\u00f3n sin objetivos. Experimenta con las diferentes piezas que tienes a tu disposici\u00f3n para que entiendas lo que hace cada una. No hay l\u00edmite en el n\u00famero de unidades de cada pieza que puedes usar.",
+         "Desde": "",
+         "Hasta": "2022/10/07 05:00",
+         "URL": "https://yuneek.itch.io/ladder-leap",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODI5MjMwLzQ2NDczOTUucG5n/347x500/zuryY%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Blades Adrift by Echo7project",
          "Informacion": "Despu\u00e9s de morir en la batalla, te env\u00edan a las 10 capas del limbo guerrero con nada m\u00e1s que tu espada y tu arco... Con precisi\u00f3n, velocidad, habilidad y decisi\u00f3n t\u00e1ctica, llegar\u00e1s al cielo de los guerreros o quedar\u00e1s atrapado en el limbo y te desvanecer\u00e1s. \u00bfcamino?",
          "Desde": "",
@@ -512,6 +602,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "1943 by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
+         "Desde": "",
+         "Hasta": "2022/10/08 00:00",
+         "URL": "https://zevkev.itch.io/siren-head-catch",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Effie 2",
          "Informacion": "Effie es un innovador software de escritura m\u00ednima con una funci\u00f3n de mapa mental integrada que le permite escribir de forma inmersiva.",
          "Desde": "",
@@ -547,6 +647,16 @@
          "Desde": "",
          "Hasta": "2022/10/09 23:00",
          "URL": "https://tailor-bird.itch.io/finding-colors",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDc2NTAwLzM3ODU3MjkucG5n/347x500/lmmPM4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE ARROW 3 DEFINITIVE EDITION by yoba games",
+         "Informacion": "La edici\u00f3n definitiva de arrow 3 ya est\u00e1 aqu\u00ed.",
+         "Desde": "",
+         "Hasta": "2022/10/09 23:00",
+         "URL": "https://dpstudios.itch.io/aloorees",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDc2NTAwLzM3ODU3MjkucG5n/347x500/lmmPM4.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -608,6 +718,16 @@
          "Hasta": "2022/10/11 22:58",
          "URL": "https://pinou007.itch.io/sober-meter",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
+         "Informacion": "\u00f0\u00ab\u00f0 \u00b7 En una vida donde un virus ha infectado a todos, los humanos que no est\u00e1n infectados, decidimos instalarnos en las alcantarillas y el subsuelo, los Humanos, comenzamos a desarrollar las alcantarillas y el subsuelo Te revelas en una casa de un cient\u00edfico que quiere usarte y decides salir de su casa y encontrarse en las alcantarillas",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
+         "URL": "https://drone-garden-studios.itch.io/amethyst-hearth",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -688,6 +808,16 @@
          "Hasta": "2022/10/15 06:00",
          "URL": "https://amon26.itch.io/phobolis",
          "IMG": "https://img.itch.zone/aW1nLzk3MDQxMzkucG5n/347x500/uKsgmv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Arrow Maze by PROJECTyaarj",
+         "Informacion": "Alcanza la meta siguiendo las flechas en este desafiante laberinto.",
+         "Desde": "",
+         "Hasta": "2022/10/15 18:00",
+         "URL": "https://yoba-games.itch.io/the-arrow-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTI5OTQ5LzI3NTM4NzkuanBn/347x500/rAMMMs.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -882,6 +1012,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Tiamat by MopeGames",
+         "Informacion": "Tiamat es un juego de terror y supervivencia en tercera persona que requiere que los jugadores sobrevivan en el bosque. Los jugadores pueden explorar e interactuar con objetos para salir del bosque.",
+         "Desde": "",
+         "Hasta": "2022/10/30 19:00",
+         "URL": "https://buildermanx.itch.io/lands-of-zam-prelude",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NjQwOC84NTY3NzYyLnBuZw==/347x500/S0DnZa.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TheMaze by MopeGames",
+         "Informacion": "The Maze es un juego de experiencia de aventura en tercera persona que requiere que los jugadores salgan del laberinto. Completa las misiones disponibles y conquista The Maze para completar The Game.",
+         "Desde": "",
+         "Hasta": "2022/10/30 19:00",
+         "URL": "https://mopegames.itch.io/zeeworld",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIyODY2NS83MjAzOTY2LnBuZw==/347x500/TNQVR3.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "\u00d0\u009a\u00d0\u00b0\u00d0\u00bf\u00d0\u00b8\u00d1\u0082\u00d0\u00b0\u00d0\u00bb \u00d0\u00a8\u00d0\u00be\u00d1\u0083 + \u00d0\u00a1\u00d1\u0083\u00d0\u00bf\u00d0\u00b5\u00d1\u0080 \u00d0\u0098\u00d0\u00b3\u00d1\u0080\u00d0\u00b0 by existical",
+         "Informacion": "- \u00bb\u00d0\u00b5\u00d0\u00b2\u00d0\u00b8\u00d0\u00b7\u00d0\u00b8\u00d0\u00be\u00d0\u00bd\u00d0\u00bd\u00d0\u00be\u00d0\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 - 1. - - - - - - \u00d1\u0102\u0103\u00d1\u0102\u0102\u00d0\u00ba\u00d0\u00b8 \u00d0\u00be\u00d1\u0102 \u00d0\u00b2\u00d0\u00b5\u00d0\u00b4\u00d1\u0102\u10c3\u00d1\u0102\u1e09\u00d0\u00b5\u00d0\u00b3\u00d0\u00be.",
+         "Desde": "",
+         "Hasta": "2022/10/30 23:00",
+         "URL": "https://mopegames.itch.io/zeeworld",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzMjMzNS84ODUyMTUwLnBuZw==/347x500/GRV52F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "WinX MediaTrans License Key Full Version Download 2022",
          "Informacion": "WinX MediaTrans le permite transferir f\u00e1cilmente datos desde dispositivos iPhone, iPad a computadoras y viceversa. Con esta transferencia, administrar\u00e1 f\u00e1cilmente los archivos en su dispositivo y tambi\u00e9n puede liberar espacio para que su iPhone guarde nuevos datos importantes.",
          "Desde": "",
@@ -889,6 +1049,16 @@
          "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2019/10/WinX-MediaTrans-Screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Siren Head Catch! by ZevKev",
+         "Informacion": "SirenHead Catch es una obra maestra que puedes jugar en Android y Windows. Controles: presiona a las personas para atraparlas y matarlas. Eso es todo, simple, \u00bfverdad? \u00a1Y es DIVERTIDO!",
+         "Desde": "",
+         "Hasta": "2022/10/31 00:00",
+         "URL": "https://projectyaarj.itch.io/solraid",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjUyMzY1LzM1MDEyOTAuanBn/347x500/hNWw%2Fa.jpg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -908,6 +1078,16 @@
          "Hasta": "2022/11/10 00:00",
          "URL": "https://coolgamesco.itch.io/squares-and-guns-v-1-4",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Free Run by Durant dev",
+         "Informacion": "cr\u00e9dito a dani's 3d game karlson por inspiraci\u00f3n",
+         "Desde": "",
+         "Hasta": "2022/11/10 00:00",
+         "URL": "https://buildermanx.itch.io/intergalactic-space-patrol",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MzYwNi85MTM1MzE3LnBuZw==/347x500/lxidEU.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -978,6 +1158,16 @@
          "Hasta": "2023/06/29 23:00",
          "URL": "https://ayngames.itch.io/cyber-cars-punk-racing-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNzYwMC83NjYxOTUyLnBuZw==/347x500/C6A0E4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "OffBike (pre-release) by ZevKev",
+         "Informacion": "OFFBIKE\u00a0 \u00a0\u00a0 es un simulador de motos, \u00a1que todav\u00eda est\u00e1 en desarrollo!",
+         "Desde": "",
+         "Hasta": "2023/06/30 00:00",
+         "URL": "https://projectyaarj.itch.io/solraid",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODY1NzIwLzQ4NjUyOTMuanBn/347x500/DiqeW2.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
