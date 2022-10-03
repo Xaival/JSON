@@ -1,5 +1,5 @@
 {
-   "date_update": "03 Oct 2022 14:27 UTC",
+   "date_update": "03 Oct 2022 15:13 UTC",
    "values": [
       {
          "Nombre": "Escape the void by asbux",
@@ -9,7 +9,7 @@
          "URL": "https://raidgames-studios.itch.io/aftermath",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NDc3Mi8xMDEzODM4MC5naWY=/347x500/ZS1yog.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "The Simple Life by KasperV",
@@ -19,7 +19,7 @@
          "URL": "https://jemcraftstudios.itch.io/the-wind-turbine",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Controller Checker 2022 (Beta Sale 100% off) by b._.render",
@@ -29,7 +29,7 @@
          "URL": "https://jbo.itch.io/ogresfield-chronicles",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 6%, yellow 6%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "TwistedBrush Pro Studio",
@@ -39,7 +39,7 @@
          "URL": "https://sharewareonsale.com/s/free-twistedbrush-pro-studio-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/12/TwistedBrush-Pro-Studio-boxshot-171x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
