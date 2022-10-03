@@ -1,5 +1,5 @@
 {
-   "date_update": "03 Oct 2022 15:13 UTC",
+   "date_update": "03 Oct 2022 20:20 UTC",
    "values": [
       {
          "Nombre": "Escape the void by asbux",
@@ -9,7 +9,7 @@
          "URL": "https://raidgames-studios.itch.io/aftermath",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NDc3Mi8xMDEzODM4MC5naWY=/347x500/ZS1yog.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "The Simple Life by KasperV",
@@ -19,7 +19,7 @@
          "URL": "https://jemcraftstudios.itch.io/the-wind-turbine",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
       },
       {
          "Nombre": "Controller Checker 2022 (Beta Sale 100% off) by b._.render",
@@ -29,7 +29,7 @@
          "URL": "https://jbo.itch.io/ogresfield-chronicles",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
       },
       {
          "Nombre": "TwistedBrush Pro Studio",
@@ -39,7 +39,7 @@
          "URL": "https://sharewareonsale.com/s/free-twistedbrush-pro-studio-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/12/TwistedBrush-Pro-Studio-boxshot-171x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -49,7 +49,7 @@
          "URL": "https://projectyaarj.itch.io/arrow-maze",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -59,7 +59,7 @@
          "URL": "https://virtuaworlds.itch.io/columns",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -69,7 +69,17 @@
          "URL": "https://navy3000.itch.io/operation-navy3000",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
+         "Desde": "",
+         "Hasta": "2022/10/04 09:00",
+         "URL": "https://amon26.itch.io/mudslinger",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "Shawarma Yum by Shwampy",
@@ -402,6 +412,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft Text to MP3 Converter License Key for Free",
+         "Informacion": "Si ha estado buscando un software de texto a voz que le permita convertir f\u00e1cilmente texto a voz, consulte la aplicaci\u00f3n Vovsoft Text to MP3 Converter. Este programa profesional est\u00e1 dise\u00f1ado para ayudarte a convertir cualquier texto escrito en palabras habladas. Con su ayuda, puede ver y leer contenido de texto sin tener que dedicar tiempo a leerlo. Esta herramienta proporciona 2 opciones para el formato de audio de salida WAV y MP3.",
+         "Desde": "",
+         "Hasta": "2022/10/09 00:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-text-to-mp3-converter-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/05/vovsoft-text-to-mp3-converter-giveaway-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Caramel Mutt Adventure by IanPeter",
          "Informacion": "Juego de aventuras de plataforma independiente que tiene a Caramel Mutt como su h\u00e9roe.",
          "Desde": "",
@@ -602,6 +622,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Radio Player (Ancien Version) by Pinou007",
+         "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias a radio player 2020 Versi\u00f3n antigua",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
+         "URL": "https://shartok.itch.io/sokopaint-laser",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Rising Hell",
          "Informacion": "Rising Hell es un plataformas rogue-lite vertical repleto de acci\u00f3n adrenal\u00ednica y toneladas de metal g\u00f3tico. Asciende del siempre cambiante Infierno mientras te enfrentas a hordas de demonios sedientos de sangre.",
          "Desde": "2022/10/06",
@@ -692,6 +722,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "SOLRAID by PROJECTyaarj",
+         "Informacion": "SOLRAID es un juego de disparos de naves espaciales de arriba hacia abajo para un jugador.",
+         "Desde": "",
+         "Hasta": "2022/10/15 18:00",
+         "URL": "https://noirovideogames.itch.io/formation-vee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODU1Mzg2LzQ3OTg0ODAucG5n/347x500/vMsY3y.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Amethyst Hearth by Drone Garden Studios",
          "Informacion": "",
          "Desde": "",
@@ -719,6 +759,16 @@
          "URL": "https://b-render.itch.io/e-cell",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxMDQ4MC83NjIxMjg3LnBuZw==/347x500/E060qI.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Perfect PDF 10 Premium",
+         "Informacion": "Soft Xpansion Perfect PDF\u00a0permite a los usuarios crear c\u00f3modamente, convertir r\u00e1pidamente, editar ampliamente y comentar profesionalmente archivos PDF, PDF/A y XPS. Adem\u00e1s, se puede utilizar Perfect PDF\u00ae 10 Premium para a\u00f1adir firmas digitales a estos archivos de forma legalmente fiable, cifrarlos y enviarlos por correo electr\u00f3nico. Adem\u00e1s, se puede comparar el contenido de pares de archivos PDF, el programa incluye un potente editor de im\u00e1genes y se pueden combinar varias p\u00e1ginas en formatos m\u00e1s grandes. Finalmente, pero lo que es m\u00e1s importante, los formularios PDF se pueden crear, completar y guardar.",
+         "Desde": "",
+         "Hasta": "2022/10/17 07:00",
+         "URL": "https://sharewareonsale.com/s/free-perfect-pdf-10-premium-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/09/prem10-200x286.png?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -902,6 +952,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "It's SPEZY! by Amon Twentysix",
+         "Informacion": "Spezy es una creaci\u00f3n de larga data de la infancia m\u00eda y de mi mejor amigo. Creamos este peque\u00f1o y tonto reptil rojo de seis ojos y lo pusimos en todo tipo de situaciones extravagantes. Llenamos carpetas y carpetas llenas de dibujos y comics de \u00e9l. Se convirti\u00f3 en un fen\u00f3meno tal que nuestras familias celebraban el d\u00eda de su primer c\u00f3mic cada a\u00f1o, el 9 de junio. Por lo general, uno de nosotros crear\u00eda un dibujo.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://davis-productions.itch.io/no-rest-for-the-wicked",
+         "IMG": "https://img.itch.zone/aW1nLzIxODM2NTEucG5n/347x500/zs5z17.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "AudFree Deezer Music Converter License Key Free",
          "Informacion": "AudFree Deezer Music Converter es una aplicaci\u00f3n de descarga de m\u00fasica de Deezer incre\u00edblemente f\u00e1cil pero potente que ofrece la opci\u00f3n de descargar y convertir m\u00fasica, canciones, listas de reproducci\u00f3n y \u00e1lbumes de Deezer a MP3, M4A, M4B, FLAC, etc. para escuchar sin conexi\u00f3n. Adem\u00e1s, esta herramienta de conversi\u00f3n de m\u00fasica puede detectar y mantener etiquetas ID3 e informaci\u00f3n de metadatos 100 % originales mientras descarga y convierte m\u00fasica de Deezer con la ayuda de la adopci\u00f3n de tecnolog\u00eda de detecci\u00f3n de etiquetas ID3 de \u00faltima generaci\u00f3n. Otra cosa es que puede usar esta aplicaci\u00f3n para descargar miles de podcasts de Deezer a PC/Mac a una velocidad 5X para ahorrar m\u00e1s tiempo.",
          "Desde": "",
@@ -952,6 +1012,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Tiamat by MopeGames",
+         "Informacion": "Tiamat es un juego de terror y supervivencia en tercera persona que requiere que los jugadores sobrevivan en el bosque. Los jugadores pueden explorar e interactuar con objetos para salir del bosque.",
+         "Desde": "",
+         "Hasta": "2022/10/30 19:00",
+         "URL": "https://davis-productions.itch.io/gauntlet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NjQwOC84NTY3NzYyLnBuZw==/347x500/S0DnZa.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Z-World by MopeGames",
+         "Informacion": "Z-World es un juego de disparos en tercera persona basado en el modo Wave que se puede jugar en modo de un jugador o multijugador.",
+         "Desde": "",
+         "Hasta": "2022/10/30 19:00",
+         "URL": "https://noirovideogames.itch.io/walk",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE4MjYwOC82ODk3ODc3LmpwZw==/347x500/ZoKGVp.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "\u00d0\u009a\u00d0\u00b0\u00d0\u00bf\u00d0\u00b8\u00d1\u0082\u00d0\u00b0\u00d0\u00bb \u00d0\u00a8\u00d0\u00be\u00d1\u0083 + \u00d0\u00a1\u00d1\u0083\u00d0\u00bf\u00d0\u00b5\u00d1\u0080 \u00d0\u0098\u00d0\u00b3\u00d1\u0080\u00d0\u00b0 by existical",
          "Informacion": "- \u00bb\u00d0\u00b5\u00d0\u00b2\u00d0\u00b8\u00d0\u00b7\u00d0\u00b8\u00d0\u00be\u00d0\u00bd\u00d0\u00bd\u00d0\u00be\u00d0\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 - 1. - - - - - - \u00d1\u0102\u0103\u00d1\u0102\u0102\u00d0\u00ba\u00d0\u00b8 \u00d0\u00be\u00d1\u0102 \u00d0\u00b2\u00d0\u00b5\u00d0\u00b4\u00d1\u0102\u10c3\u00d1\u0102\u1e09\u00d0\u00b5\u00d0\u00b3\u00d0\u00be.",
          "Desde": "",
@@ -972,6 +1052,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "\u00d0\u009a\u00d0\u00b0\u00d0\u00bf\u00d0\u00b8\u00d1\u0082\u00d0\u00b0\u00d0\u00bb \u00d0\u00a8\u00d0\u00be\u00d1\u0083 + \u00d0\u00a1\u00d1\u0083\u00d0\u00bf\u00d0\u00b5\u00d1\u0080 \u00d0\u0098\u00d0\u00b3\u00d1\u0080\u00d0\u00b0 by existical",
+         "Informacion": "- \u00bb\u00d0\u00b5\u00d0\u00b2\u00d0\u00b8\u00d0\u00b7\u00d0\u00b8\u00d0\u00be\u00d0\u00bd\u00d0\u00bd\u00d0\u00be\u00d0\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 - 1. - - - - - - \u00d1\u0102\u0103\u00d1\u0102\u0102\u00d0\u00ba\u00d0\u00b8 \u00d0\u00be\u00d1\u0102 \u00d0\u00b2\u00d0\u00b5\u00d0\u00b4\u00d1\u0102\u10c3\u00d1\u0102\u1e09\u00d0\u00b5\u00d0\u00b3\u00d0\u00be.",
+         "Desde": "",
+         "Hasta": "2022/10/30 23:00",
+         "URL": "https://noirovideogames.itch.io/walk",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzMjMzNS84ODUyMTUwLnBuZw==/347x500/GRV52F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "\u00d0\u009a\u00d0\u00b0\u00d0\u00bf\u00d0\u00b8\u00d1\u0082\u00d0\u00b0\u00d0\u00bb \u00d0\u00a8\u00d0\u00be\u00d1\u0083 + \u00d0\u00a1\u00d1\u0083\u00d0\u00bf\u00d0\u00b5\u00d1\u0080 \u00d0\u0098\u00d0\u00b3\u00d1\u0080\u00d0\u00b0 by existical",
+         "Informacion": "- \u00bb\u00d0\u00b5\u00d0\u00b2\u00d0\u00b8\u00d0\u00b7\u00d0\u00b8\u00d0\u00be\u00d0\u00bd\u00d0\u00bd\u00d0\u00be\u00d0\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 - 1. - - - - - - \u00d1\u0102\u0103\u00d1\u0102\u0102\u00d0\u00ba\u00d0\u00b8 \u00d0\u00be\u00d1\u0102 \u00d0\u00b2\u00d0\u00b5\u00d0\u00b4\u00d1\u0102\u10c3\u00d1\u0102\u1e09\u00d0\u00b5\u00d0\u00b3\u00d0\u00be.",
+         "Desde": "",
+         "Hasta": "2022/10/30 23:00",
+         "URL": "https://b-render.itch.io/midi-keyboard",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzMjMzNS84ODUyMTUwLnBuZw==/347x500/GRV52F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "WinX MediaTrans License Key Full Version Download 2022",
          "Informacion": "WinX MediaTrans le permite transferir f\u00e1cilmente datos desde dispositivos iPhone, iPad a computadoras y viceversa. Con esta transferencia, administrar\u00e1 f\u00e1cilmente los archivos en su dispositivo y tambi\u00e9n puede liberar espacio para que su iPhone guarde nuevos datos importantes.",
          "Desde": "",
@@ -979,6 +1079,26 @@
          "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2019/10/WinX-MediaTrans-Screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gauntlet by Davis Productions",
+         "Informacion": "eres un guerrero solitario que busca destruir todos los demonios en tu camino. mientras viajas",
+         "Desde": "",
+         "Hasta": "2022/10/31 09:00",
+         "URL": "https://davis-productions.itch.io/cerberon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzMjg3NS84MzQ5NTIzLnBuZw==/347x500/KpWb7Z.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exorcists - PvP Ghost Hunting by eirix",
+         "Informacion": "2-4 jugadores\u00danete a DiscordNotaDado que el juego a\u00fan se encuentra en sus primeras etapas de desarrollo, lo mantengo libre para permitir que las personas reclamen el juego, lo revisen y me den su opini\u00f3n. Esto durar\u00e1 un per\u00edodo de tiempo indeciso. El juego Entra en una casa donde deambula una entidad malvada. Es cazar o ser cazado. Usa tu equipo para obtener informaci\u00f3n que puedas usar para exorcizar el esp\u00edritu imp\u00edo. Pero cuidado, pasar demasiado tiempo dentro de la casa embrujada puede tener consecuencias fatales... PvP CO-OP El juego solo se puede jugar en l\u00ednea junto con otras personas. Al comenzar el juego, uno de los jugadores ser\u00e1 seleccionado para convertirse en el fantasma. Los jugadores restantes tendr\u00e1n que cooperar para deshacerse de \u00e9l. Sin embargo, tendr\u00e1s que estar alerta ya que el fantasma puede devolver el ataque. Instrucciones Para comenzar un juego, haz que un amigo se una a tu juego usando la identificaci\u00f3n en la esquina superior izquierda. Cuando tenga un total de 2 a 4 jugadores, presione L para comenzar un juego. Esto te generar\u00e1 fuera de la casa embrujada.",
+         "Desde": "",
+         "Hasta": "2022/11/01 06:00",
+         "URL": "https://green-woltec.itch.io/horror-survival-creepy-game-the-woman-in-grey",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcwNDQwNy8xMDE5MDU2Ni5wbmc=/347x500/gty0VJ.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1018,6 +1138,26 @@
          "Hasta": "2022/11/01 09:00",
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "COLUMNS by VIRTUA WORLDS",
+         "Informacion": "COLUMNS, una experiencia de arte Vaporwave VR (y no VR)",
+         "Desde": "",
+         "Hasta": "2022/11/01 09:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
+         "Informacion": "Cthulhu espera so\u00f1ando... Hasta que unos extra\u00f1os cultistas del lejano norte lo despiertan. \u00a1Usa tu avi\u00f3n para devolver a Cthulhu a su sue\u00f1o helado o muere en el intento!",
+         "Desde": "",
+         "Hasta": "2022/11/01 09:00",
+         "URL": "https://virtuaworlds.itch.io/remako-visualizer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1107,6 +1247,16 @@
          "Desde": "",
          "Hasta": "2023/01/01 01:00",
          "URL": "https://ianpeter.itch.io/caramel-mutt-adventure",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "thisPaper by Pinou007",
+         "Informacion": "Suspendido temporalmente thisPaper es un juego donde tienes que recuperar 10Paper este juego es realmente simple el juego se hizo en 12 horas un reto personal que comenc\u00e9 los otros juegos que ser\u00e1n de mejor calidadMapa DisponibleOtros mapas estar\u00e1n disponibles",
+         "Desde": "",
+         "Hasta": "2023/01/01 01:00",
+         "URL": "https://davis-productions.itch.io/8-days-to-live",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
