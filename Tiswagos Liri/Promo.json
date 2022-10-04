@@ -1,36 +1,6 @@
 {
-   "date_update": "03 Oct 2022 20:20 UTC",
+   "date_update": "04 Oct 2022 08:03 UTC",
    "values": [
-      {
-         "Nombre": "Escape the void by asbux",
-         "Informacion": "Escape the void es un p\u00edcaro de acci\u00f3n en 2D en el que luchas contra oleadas de enemigos y jefes y usas sus almas verdes para abrir cofres y obtener elementos poderosos que te hacen fuerte y tal vez solo tal vez escapar del vac\u00edo.",
-         "Desde": "",
-         "Hasta": "2022/10/03 17:00",
-         "URL": "https://raidgames-studios.itch.io/aftermath",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NDc3Mi8xMDEzODM4MC5naWY=/347x500/ZS1yog.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
-      },
-      {
-         "Nombre": "The Simple Life by KasperV",
-         "Informacion": "La vida simple",
-         "Desde": "",
-         "Hasta": "2022/10/04 00:00",
-         "URL": "https://jemcraftstudios.itch.io/the-wind-turbine",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
-      },
-      {
-         "Nombre": "Controller Checker 2022 (Beta Sale 100% off) by b._.render",
-         "Informacion": "Esta es una aplicaci\u00f3n que hice para verificar y comparar mis controladores. Despu\u00e9s de tantas horas de juego, algunos joysticks se desv\u00edan, esta aplicaci\u00f3n mostrar\u00e1 el valor actual y m\u00e1s alto para los dos joysticks. Esto puede ser \u00fatil porque si el juego detecta movimiento sin que presiones, eso es deriva y hace que sea muy dif\u00edcil jugar.",
-         "Desde": "",
-         "Hasta": "2022/10/04 06:00",
-         "URL": "https://jbo.itch.io/ogresfield-chronicles",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
-      },
       {
          "Nombre": "TwistedBrush Pro Studio",
          "Informacion": "TwistedBrush Pro Studio es un programa para artistas digitales de cualquier nivel: desde principiantes hasta profesionales. Fuerte enfoque en pintura de medios naturales, edici\u00f3n de fotos y estilos ilustrativos. TwistedBrush tiene m\u00e1s de 9000 pinceles en m\u00e1s de 250 ArtSets. Son m\u00e1s pinceles que los incluidos en cualquier software de arte en cualquier lugar a cualquier precio. Si eso no es suficiente, puede crear sus propios pinceles con el potente sistema de efectos de pincel capaz de representar acuarelas finas, plumas suaves, \u00e1rboles algor\u00edtmicos completos o incluso pinceladas grabadas o filtros de procesamiento de im\u00e1genes.",
@@ -39,27 +9,7 @@
          "URL": "https://sharewareonsale.com/s/free-twistedbrush-pro-studio-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/12/TwistedBrush-Pro-Studio-boxshot-171x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
-         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que deja atr\u00e1s su hogar.",
-         "Desde": "",
-         "Hasta": "2022/10/04 09:00",
-         "URL": "https://projectyaarj.itch.io/arrow-maze",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA se trata del ERMITA\u00d1O en casa.",
-         "Desde": "",
-         "Hasta": "2022/10/04 09:00",
-         "URL": "https://virtuaworlds.itch.io/columns",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -69,7 +19,7 @@
          "URL": "https://navy3000.itch.io/operation-navy3000",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -79,7 +29,27 @@
          "URL": "https://amon26.itch.io/mudslinger",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que deja atr\u00e1s su hogar.",
+         "Desde": "",
+         "Hasta": "2022/10/04 09:00",
+         "URL": "https://projectyaarj.itch.io/arrow-maze",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2022/10/04 09:00",
+         "URL": "https://virtuaworlds.itch.io/columns",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Shawarma Yum by Shwampy",
@@ -89,7 +59,7 @@
          "URL": "https://mopegames.itch.io/tiamat",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMDUwOS84NTc3MzUyLnBuZw==/347x500/7AKtox.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "MacX Video Converter PRO Free License Key",
@@ -99,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/macx-video-converter-pro-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/04/macx-video-converter-pro-giveaway-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Foneazy Unlockit Android Screen Unlocker Free License Key",
@@ -172,16 +142,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "WonderFox DVD Video Converter Free License Key 2022",
-         "Informacion": "WonderFox DVD Ripper Pro es el verdadero software inteligente de extracci\u00f3n de DVD de velocidad n. \u00b0 1 que brinda la soluci\u00f3n m\u00e1s r\u00e1pida para extraer su extensa colecci\u00f3n de DVD a pr\u00e1cticamente cualquier video, audio y dispositivo.",
-         "Desde": "",
-         "Hasta": "2022/10/07 00:00",
-         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
-         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/wonderfox-dvd-video-converter-giveaway-free-license-key.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Ball Down Hill by KasperV",
          "Informacion": "Meta:",
          "Desde": "",
@@ -189,6 +149,16 @@
          "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox DVD Video Converter Free License Key 2022",
+         "Informacion": "WonderFox DVD Ripper Pro es el verdadero software inteligente de extracci\u00f3n de DVD de velocidad n. \u00b0 1 que brinda la soluci\u00f3n m\u00e1s r\u00e1pida para extraer su extensa colecci\u00f3n de DVD a pr\u00e1cticamente cualquier video, audio y dispositivo.",
+         "Desde": "",
+         "Hasta": "2022/10/07 00:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/wonderfox-dvd-video-converter-giveaway-free-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -252,22 +222,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Switch It by Lucas Fernandez",
-         "Informacion": "Un juego un poco frustrante en el que tienes que llegar al final usando los diferentes tipos de bloques que tienes.-Tienes intentos ilimitados para completar el juego.-No puedes guardar el juego.-Usa los puntos de control para no tener que hacerlo. empezar desde el principio.-Usar los diferentes bloques sabiamente.-Llegar hasta el final sin llorar.",
-         "Desde": "",
-         "Hasta": "2022/10/07 05:00",
-         "URL": "https://eirix.itch.io/exorcists",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxNDcwOS8xMDEwMDk1My5qcGc=/347x500/xwtOwk.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Proto Akane by Lucas Fernandez",
          "Informacion": "Akane debe completar su entrenamiento para controlar su veh\u00edculo, llamado \"Proto\", para avanzar resolviendo acertijos y derrotando o evadiendo a sus enemigos.",
          "Desde": "",
          "Hasta": "2022/10/07 05:00",
          "URL": "https://raidgames-studios.itch.io/sinsfromgod",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcwMjU1OC8xMDAzMDQwNC5wbmc=/347x500/S6%2Fi4A.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Switch It by Lucas Fernandez",
+         "Informacion": "Un juego un poco frustrante en el que tienes que llegar al final usando los diferentes tipos de bloques que tienes.-Tienes intentos ilimitados para completar el juego.-No puedes guardar el juego.-Usa los puntos de control para no tener que hacerlo. empezar desde el principio.-Usar los diferentes bloques sabiamente.-Llegar hasta el final sin llorar.",
+         "Desde": "",
+         "Hasta": "2022/10/07 05:00",
+         "URL": "https://eirix.itch.io/exorcists",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxNDcwOS8xMDEwMDk1My5qcGc=/347x500/xwtOwk.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -422,16 +392,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Caramel Mutt Adventure by IanPeter",
-         "Informacion": "Juego de aventuras de plataforma independiente que tiene a Caramel Mutt como su h\u00e9roe.",
-         "Desde": "",
-         "Hasta": "2022/10/09 04:59",
-         "URL": "https://raidgames-studios.itch.io/sinsfromgod2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM1NTc3MS83ODkyMTE1LnBuZw==/347x500/xXPOjf.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Effie 2",
          "Informacion": "Effie es un innovador software de escritura m\u00ednima con una funci\u00f3n de mapa mental integrada que le permite escribir de forma inmersiva.",
          "Desde": "",
@@ -512,16 +472,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "WinX HD Video Converter Deluxe License Key Free 2022",
-         "Informacion": "WinX HD Video Converter Deluxe, un software de video todo en uno como convertidor de video Ultra HD, creador de presentaciones de diapositivas y editor de video, le brinda el m\u00e1ximo control sobre los archivos de video con resoluci\u00f3n SD, HD y 4K. Con m\u00e1s de 320 c\u00f3decs de video y 50 c\u00f3decs de audio, posee la poderosa capacidad de satisfacer las necesidades de conversi\u00f3n de video r\u00e1pidas y de alta calidad sin la ayuda de ninguna herramienta de terceros.",
-         "Desde": "",
-         "Hasta": "2022/10/10 00:00",
-         "URL": "https://giveaway.tickcoupon.com/winx-hd-video-converter-deluxe-free-key/",
-         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/08/winx-hd-video-converter-deluxe-license-key-free.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Deep in the Void by Whackland Studios",
          "Informacion": "El juego a\u00fan est\u00e1 en desarrollo temprano. Muchas de las caracter\u00edsticas planificadas a\u00fan no se han implementado. Espere errores.",
          "Desde": "",
@@ -529,6 +479,16 @@
          "URL": "https://drone-garden-studios.itch.io/maai-153",
          "IMG": "https://img.itch.zone/aW1nLzk5NjAyOTUucG5n/347x500/DYlXoz.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WinX HD Video Converter Deluxe License Key Free 2022",
+         "Informacion": "WinX HD Video Converter Deluxe, un software de video todo en uno como convertidor de video Ultra HD, creador de presentaciones de diapositivas y editor de video, le brinda el m\u00e1ximo control sobre los archivos de video con resoluci\u00f3n SD, HD y 4K. Con m\u00e1s de 320 c\u00f3decs de video y 50 c\u00f3decs de audio, posee la poderosa capacidad de satisfacer las necesidades de conversi\u00f3n de video r\u00e1pidas y de alta calidad sin la ayuda de ninguna herramienta de terceros.",
+         "Desde": "",
+         "Hasta": "2022/10/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/winx-hd-video-converter-deluxe-free-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/08/winx-hd-video-converter-deluxe-license-key-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -592,26 +552,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Radio Player (Ancien Version) by Pinou007",
-         "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias a radio player 2020 Versi\u00f3n antigua",
-         "Desde": "",
-         "Hasta": "2022/10/11 22:58",
-         "URL": "https://lucas-fernandez.itch.io/bots-chaos",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sober Meter BETA ( Temp de sobre et compteur d'objectif ) by Pinou007",
-         "Informacion": "Bienvenido a su aplicaci\u00f3n de objetivos aqu\u00ed, puede ingresar cualquier puntaje y todos los datos se mantienen en su tel\u00e9fono, accesibles sin conexi\u00f3n y gratis, disfrute de una mejor experiencia minimalista desarrollada por un solo joven desarrollador independiente",
-         "Desde": "",
-         "Hasta": "2022/10/11 22:58",
-         "URL": "https://pinou007.itch.io/sober-meter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
          "Informacion": "\u00f0\u00ab\u00f0 \u00b7 En una vida donde un virus ha infectado a todos, los humanos que no est\u00e1n infectados, decidimos instalarnos en las alcantarillas y el subsuelo, los Humanos, comenzamos a desarrollar las alcantarillas y el subsuelo Te revelas en una casa de un cient\u00edfico que quiere usarte y decides salir de su casa y encontrarse en las alcantarillas",
          "Desde": "",
@@ -626,8 +566,28 @@
          "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias a radio player 2020 Versi\u00f3n antigua",
          "Desde": "",
          "Hasta": "2022/10/11 22:58",
+         "URL": "https://lucas-fernandez.itch.io/bots-chaos",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Radio Player (Ancien Version) by Pinou007",
+         "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias a radio player 2020 Versi\u00f3n antigua",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
          "URL": "https://shartok.itch.io/sokopaint-laser",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sober Meter BETA ( Temp de sobre et compteur d'objectif ) by Pinou007",
+         "Informacion": "Bienvenido a su aplicaci\u00f3n de objetivos aqu\u00ed, puede ingresar cualquier puntaje y todos los datos se mantienen en su tel\u00e9fono, accesibles sin conexi\u00f3n y gratis, disfrute de una mejor experiencia minimalista desarrollada por un solo joven desarrollador independiente",
+         "Desde": "",
+         "Hasta": "2022/10/11 22:58",
+         "URL": "https://pinou007.itch.io/sober-meter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5ODgzOC8xMDAwNzYyOC5wbmc=/347x500/by7pCP.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -912,6 +872,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "It's SPEZY! by Amon Twentysix",
+         "Informacion": "Spezy es una creaci\u00f3n de larga data de la infancia m\u00eda y de mi mejor amigo. Creamos este peque\u00f1o y tonto reptil rojo de seis ojos y lo pusimos en todo tipo de situaciones extravagantes. Llenamos carpetas y carpetas llenas de dibujos y comics de \u00e9l. Se convirti\u00f3 en un fen\u00f3meno tal que nuestras familias celebraban el d\u00eda de su primer c\u00f3mic cada a\u00f1o, el 9 de junio. Por lo general, uno de nosotros crear\u00eda un dibujo.",
+         "Desde": "",
+         "Hasta": "2022/10/19 06:00",
+         "URL": "https://davis-productions.itch.io/no-rest-for-the-wicked",
+         "IMG": "https://img.itch.zone/aW1nLzIxODM2NTEucG5n/347x500/zs5z17.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Phobolis - Alpha Test by Amon Twentysix",
          "Informacion": "Inevitablemente, todos los perdidos encuentran un camino hacia el bosque.",
          "Desde": "",
@@ -948,16 +918,6 @@
          "Hasta": "2022/10/19 06:00",
          "URL": "https://amon26.itch.io/fpob",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTIvMzkwNDkucG5n/347x500/I6mZVL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "It's SPEZY! by Amon Twentysix",
-         "Informacion": "Spezy es una creaci\u00f3n de larga data de la infancia m\u00eda y de mi mejor amigo. Creamos este peque\u00f1o y tonto reptil rojo de seis ojos y lo pusimos en todo tipo de situaciones extravagantes. Llenamos carpetas y carpetas llenas de dibujos y comics de \u00e9l. Se convirti\u00f3 en un fen\u00f3meno tal que nuestras familias celebraban el d\u00eda de su primer c\u00f3mic cada a\u00f1o, el 9 de junio. Por lo general, uno de nosotros crear\u00eda un dibujo.",
-         "Desde": "",
-         "Hasta": "2022/10/19 06:00",
-         "URL": "https://davis-productions.itch.io/no-rest-for-the-wicked",
-         "IMG": "https://img.itch.zone/aW1nLzIxODM2NTEucG5n/347x500/zs5z17.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1018,16 +978,6 @@
          "Hasta": "2022/10/30 19:00",
          "URL": "https://davis-productions.itch.io/gauntlet",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NjQwOC84NTY3NzYyLnBuZw==/347x500/S0DnZa.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Z-World by MopeGames",
-         "Informacion": "Z-World es un juego de disparos en tercera persona basado en el modo Wave que se puede jugar en modo de un jugador o multijugador.",
-         "Desde": "",
-         "Hasta": "2022/10/30 19:00",
-         "URL": "https://noirovideogames.itch.io/walk",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTE4MjYwOC82ODk3ODc3LmpwZw==/347x500/ZoKGVp.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1122,32 +1072,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
-         "Informacion": "Cthulhu espera so\u00f1ando... Hasta que unos extra\u00f1os cultistas del lejano norte lo despiertan. \u00a1Usa tu avi\u00f3n para devolver a Cthulhu a su sue\u00f1o helado o muere en el intento!",
-         "Desde": "",
-         "Hasta": "2022/11/01 09:00",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "REMAKO Visualizer by VIRTUA WORLDS",
-         "Informacion": "REMAKO Visualizer es un visualizador de m\u00fasica interactivo en tiempo real que incluye m\u00fasica de \"REMAKO (Final Fantasy 7)\" de Mercurius FM y Stux. yo. Esta demostraci\u00f3n t\u00e9cnica utiliza trazado de rayos (en hardware compatible) desarrollado en Unreal Engine 4.24.",
-         "Desde": "",
-         "Hasta": "2022/11/01 09:00",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "COLUMNS by VIRTUA WORLDS",
          "Informacion": "COLUMNS, una experiencia de arte Vaporwave VR (y no VR)",
          "Desde": "",
          "Hasta": "2022/11/01 09:00",
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
+         "Informacion": "Cthulhu espera so\u00f1ando... Hasta que unos extra\u00f1os cultistas del lejano norte lo despiertan. \u00a1Usa tu avi\u00f3n para devolver a Cthulhu a su sue\u00f1o helado o muere en el intento!",
+         "Desde": "",
+         "Hasta": "2022/11/01 09:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
