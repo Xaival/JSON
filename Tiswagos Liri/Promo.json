@@ -1,96 +1,6 @@
 {
-   "date_update": "07 Oct 2022 14:41 UTC",
+   "date_update": "08 Oct 2022 12:20 UTC",
    "values": [
-      {
-         "Nombre": "Flathead by Ethan_winters123",
-         "Informacion": "Flathead es un juego de terror en el que debes escapar de la escuela cerrada mientras un monstruo desconocido intenta matarte. \u00a1Puedes escapar del monstruo a trav\u00e9s de ventilaciones, habitaciones y m\u00e1s! El juego tambi\u00e9n tiene escenas.",
-         "Desde": "",
-         "Hasta": "2022/10/07 17:15",
-         "URL": "https://whacklandstudios.itch.io/deep-in-the-void",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5NzM3My85OTk5NDExLnBuZw==/347x500/ZkX%2B0%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "SokoPaint But by shartok",
-         "Informacion": "Controles: use WASD o las teclas de flecha o el mouse para moverse. Ctrl + R para reiniciar. Tienes que pintar todo el piso empujando las cajas de pintura con el l\u00e1ser rodante y luego destruir todas las cajas para ganar. Puede empujar m\u00e1s de una casilla a la vez. No perder\u00e1s si destruyes una caja sin pintar todo el piso. Pero perder\u00e1s si destruyes todas las cajas antes de pintar todo el piso. Nota: Todos los niveles son posibles.",
-         "Desde": "",
-         "Hasta": "2022/10/07 23:00",
-         "URL": "https://ethan-winters123.itch.io/flathead",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxNjMyNi8xMDExODcwOS5wbmc=/347x500/gQFxT0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
-      },
-      {
-         "Nombre": "1943 by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
-         "Desde": "",
-         "Hasta": "2022/10/08 00:00",
-         "URL": "https://lucas-fernandez.itch.io/genius-at-work",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "1943 by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
-         "Desde": "",
-         "Hasta": "2022/10/08 00:00",
-         "URL": "https://zevkev.itch.io/siren-head-catch",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "1943 by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
-         "Desde": "",
-         "Hasta": "2022/10/08 00:00",
-         "URL": "https://zevkev.itch.io/offbike",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365",
-         "Desde": "",
-         "Hasta": "2022/10/08 00:00",
-         "URL": "https://notmessyouself.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Sky Lab Defender by KasperV",
-         "Informacion": "Defensor del laboratorio del cielo",
-         "Desde": "",
-         "Hasta": "2022/10/08 00:00",
-         "URL": "https://jdmgames.itch.io/village-vampire-feast",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "The backrooms by Notmessyouself",
-         "Informacion": "Versi\u00f3n alfa 1.1",
-         "Desde": "",
-         "Hasta": "2022/10/08 00:00",
-         "URL": "https://coolgamesco.itch.io/taco-shooter-remasteredv2-0",
-         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "The backrooms by Notmessyouself",
-         "Informacion": "Versi\u00f3n alfa 1.1",
-         "Desde": "",
-         "Hasta": "2022/10/08 00:00",
-         "URL": "https://kasperv.itch.io/ball-down-hill",
-         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
       {
          "Nombre": "DearMob iPhone Manager License Key Free Giveaway 2022",
          "Informacion": "DearMob iPhone Manager es el primer administrador de iOS del mundo que transfiere datos de iPhone con un m\u00e9todo de encriptaci\u00f3n. Le permite administrar completamente sus datos de iOS. Tiene incorporada la capacidad de transferir fotos, videos y contactos de iPhone con grado de encriptaci\u00f3n militar para evitar fugas de privacidad, respaldar y restaurar datos de iOS en orden de tiempo, y opciones para transferir contenidos de forma selectiva de 2 v\u00edas desde la computadora al iPhone, ya sea un foto, video, m\u00fasica, contacto, mensaje, iTunes U, Podcast, aplicaci\u00f3n, calendario, voz, archivo, etc. Su privacidad no es inmune a las filtraciones, prot\u00e9jala para evitar amenazas con DearMob iPhone Manager.",
@@ -99,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/dearmob-iphone-manager-main-screenshot-2022.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Vovsoft Text to MP3 Converter License Key for Free",
@@ -109,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-text-to-mp3-converter-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/05/vovsoft-text-to-mp3-converter-giveaway-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Effie 2",
