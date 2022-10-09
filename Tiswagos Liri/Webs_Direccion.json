@@ -1,5 +1,5 @@
 {
-   "date_update": "08 Oct 2022 12:20 UTC",
+   "date_update": "09 Oct 2022 19:57 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
@@ -2798,9 +2798,6 @@
          "Direccion": "0.0.0.0 adblockerapp.info #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 watch-adsfree.info #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 adblockerapp.net #AntiSpam"
       },
       {
@@ -2931,6 +2928,9 @@
       },
       {
          "Direccion": "0.0.0.0 video-adblocker.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 watch-adsfree.info #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 watchadsfree.com #AntiSpam"
