@@ -65,6 +65,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 cleardexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 codedexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 condolencesquakeyourselves.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 rsationhesa.one #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 crueltyrefundye.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 crumbtypewriterhome.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 datetime.date #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -952,13 +953,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 gruposaintanddrclienteaccessodir-ba5a55.ingress-daribow.ewp.live #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 santander.es-cancelaciones.cf #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 123moviesbluray.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 repelis.vc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 pelispanda.sbs #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 pelispedia.vc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 pelisflix.cx #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 pelisplus3.so #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 pelisfox.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 the-siege-of-firebase-gloria.azpelis.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 123moviestop.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bigmovie.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana-3.io #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -975,12 +969,19 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 moviestreams.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 nufilm.live #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 peliculashd.io #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 pelisflix.cx #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 pelisfox.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 pelispanda.sbs #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 pelispedia.vc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 pelisplus3.so #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 playsimovies.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 premiumfilm.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 repelis-hd.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 repelis-tv.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 repelis.vc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 repelises.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 repelisplus.sh #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 the-siege-of-firebase-gloria.azpelis.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 todotorrents.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 movienna.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pelis-online.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
