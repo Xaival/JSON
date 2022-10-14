@@ -1,5 +1,5 @@
 {
-   "date_update": "13 Oct 2022 15:09 UTC",
+   "date_update": "14 Oct 2022 21:29 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
@@ -2774,6 +2774,9 @@
          "Direccion": "0.0.0.0 todotorrents.net #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 verpeliculas4k.org #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 movienna.com #AntiSpam"
       },
       {
@@ -2835,6 +2838,9 @@
       },
       {
          "Direccion": "0.0.0.0 advideoblock.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 adz-shield.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 adz-skip.net #AntiSpam"
