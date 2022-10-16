@@ -949,6 +949,8 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 xhamsterlive.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 policia-spain.eu #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 significadoconcepto.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 experti.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 samsungwashingmachine.fastlinktraffic.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 unltdentertainment.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 gruposaintanddrclienteaccessodir-ba5a55.ingress-daribow.ewp.live #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 santander.es-cancelaciones.cf #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1070,6 +1072,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 greatdayforwin.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 myjollyrudder.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 yourluckalways.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 stunningstuff4u.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1.dating-roo2.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 delhoroscopo.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 es.usenet.nl #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
