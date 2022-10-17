@@ -1,16 +1,6 @@
 {
-   "date_update": "16 Oct 2022 13:28 UTC",
+   "date_update": "17 Oct 2022 04:15 UTC",
    "values": [
-      {
-         "Nombre": "onlineTV 17 Plus",
-         "Informacion": "Con onlineTV 17 puede transmitir la programaci\u00f3n de radio y televisi\u00f3n nacional e internacional desde Internet directamente a su computadora port\u00e1til. \u00a1Tambi\u00e9n del extranjero!",
-         "Desde": "",
-         "Hasta": "2022/10/16 07:00",
-         "URL": "https://sharewareonsale.com/s/free-onlinetv-17-plus-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/09/alt_OnlineTV-16_Packshot_gros-200x319.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
-      },
       {
          "Nombre": "Amethyst Hearth by Drone Garden Studios",
          "Informacion": "",
@@ -19,7 +9,7 @@
          "URL": "https://dpstudios.itch.io/kordonia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxMDQ4MC83NjIxMjg3LnBuZw==/347x500/E060qI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Amethyst Hearth by Drone Garden Studios",
@@ -29,7 +19,7 @@
          "URL": "https://b-render.itch.io/e-cell",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxMDQ4MC83NjIxMjg3LnBuZw==/347x500/E060qI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Amethyst Hearth by Drone Garden Studios",
@@ -39,7 +29,7 @@
          "URL": "https://lunardream.itch.io/arcticmind",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxMDQ4MC83NjIxMjg3LnBuZw==/347x500/E060qI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Amethyst Hearth by Drone Garden Studios",
@@ -49,7 +39,7 @@
          "URL": "https://drone-garden-studios.itch.io/legends-of-tzonac-2-friendship-automata",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxMDQ4MC83NjIxMjg3LnBuZw==/347x500/E060qI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "HDR Projects 7",
@@ -59,7 +49,7 @@
          "URL": "https://sharewareonsale.com/s/free-hdr-projects-7-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/70800-7_01Adqd77Pe9uUw0_1280x1280@2x.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "HUNT3R by Drone Garden Studios",
@@ -69,7 +59,7 @@
          "URL": "https://mopegames.itch.io/tiamat",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwMzk2Ni85MDE5MDYzLnBuZw==/347x500/qCnDeG.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "HUNT3R by Drone Garden Studios",
@@ -79,7 +69,7 @@
          "URL": "https://thiago-avidos.itch.io/cyber-storm-edge",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwMzk2Ni85MDE5MDYzLnBuZw==/347x500/qCnDeG.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Legends of Tzonac 2: Friendship & Automata by Drone Garden Studios",
@@ -89,7 +79,7 @@
          "URL": "https://bee-tea.itch.io/rainyday",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI3MzE2OC83NDEyNzQxLnBuZw==/347x500/8bD2cE.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Perfect PDF 10 Premium",
@@ -99,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-perfect-pdf-10-premium-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/09/prem10-200x286.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -109,7 +99,7 @@
          "URL": "https://amon26.itch.io/its-spezy",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
       },
       {
          "Nombre": "Coolmuster iOS Assistant Free License Key 1-Year 2022",
@@ -119,7 +109,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-assistant-free-license-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2018/05/Coolmuster-iOS-Assistant-Giveaway-2.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Controller Checker 2022 (Beta Sale 100% off) by b._.render",
