@@ -1,5 +1,5 @@
 {
-   "date_update": "22 Oct 2022 09:46 UTC",
+   "date_update": "26 Oct 2022 03:51 UTC",
    "values": [
       {
          "Fecha": "2017/05/18",
@@ -271,6 +271,13 @@
          "Fecha": "2022/7/27",
          "Nombre": "Alicia Drouganova Chabakaeva",
          "ID": "AAAAAM",
+         "Lugar": "Centro de Sevilla",
+         "Coordenadas": "https://goo.gl/maps/e8Xg7mda2UUKPRDi7"
+      },
+      {
+         "Fecha": "2022/8/29",
+         "Nombre": "Andrea Povea Suasn\u00e1bar",
+         "ID": "AAAAAJ",
          "Lugar": "Centro de Sevilla",
          "Coordenadas": "https://goo.gl/maps/e8Xg7mda2UUKPRDi7"
       }
