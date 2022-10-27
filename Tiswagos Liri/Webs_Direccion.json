@@ -1,5 +1,5 @@
 {
-   "date_update": "26 Oct 2022 03:50 UTC",
+   "date_update": "27 Oct 2022 08:58 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
@@ -2864,6 +2864,9 @@
          "Direccion": "0.0.0.0 adblockervideo.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 adblockstreaming.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 adblockultra.com #AntiSpam"
       },
       {
@@ -3018,6 +3021,9 @@
       },
       {
          "Direccion": "0.0.0.0 www.fortstuff.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 www.moonbitcoins.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 jfknw.lokpresearch.club #AntiSpam"
