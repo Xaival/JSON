@@ -128,6 +128,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 affluentshinymulticultural.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 agacelebir.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ak.hetahien.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 onsequentlys.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ak.hetaruvg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 alleviatepracticableaddicted.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ammankeyan.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -541,6 +542,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 pornxs.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 seemygf.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 tubepornclassic.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.muycerdas.xxx #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.submityourflicks.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.wifebucket.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.bdsmyou.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -953,6 +955,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 xhamsterlive.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 policia-spain.eu #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 significadoconcepto.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 dark-reader.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 experti.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 samsungwashingmachine.fastlinktraffic.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 unltdentertainment.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
