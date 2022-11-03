@@ -145,6 +145,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 BlondieSea.blogspot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 breedwaste.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 byglerezu.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 qucireideauxdw.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 c.adsco.re #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cagothie.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cams-girls.one #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -226,6 +227,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 onmarshtompor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 onsequentlys.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 opchikoritar.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ortostrikehem.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 p131675.clksite.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pelisplus3.vc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pickupmates.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -334,6 +336,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.declk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.playuzu.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.thetvdb.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 gatauddily.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adsforcomputercity.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 apsolutamente.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 fbhww.nergyflexibilit.pics #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
