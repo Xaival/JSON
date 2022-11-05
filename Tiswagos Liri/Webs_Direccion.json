@@ -1,5 +1,5 @@
 {
-   "date_update": "04 Nov 2022 21:54 UTC",
+   "date_update": "05 Nov 2022 23:11 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
@@ -12,9 +12,6 @@
       },
       {
          "Direccion": "0.0.0.0 challengecircuit.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 ww.blogiess.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 cleardexchange.com #AntiSpam"
@@ -153,6 +150,9 @@
       },
       {
          "Direccion": "0.0.0.0 www.asdf2233.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 ww.blogiess.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.wangchiyang.com #AntiSpam"
