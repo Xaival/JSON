@@ -1,5 +1,5 @@
 {
-   "date_update": "05 Nov 2022 23:11 UTC",
+   "date_update": "06 Nov 2022 00:12 UTC",
    "values": [
       {
          "Nombre": "Panzar",
@@ -801,6 +801,23 @@
          "Distribuidora": "Steam"
       },
       {
+         "Nombre": "Capsular",
+         "Informacion": "Capsular es un juego de disparos en la arena \u00fanico que cuenta con una mec\u00e1nica de \"Un disparo, una muerte\". \u00a1Salta a una partida de ritmo r\u00e1pido donde tu habilidad es m\u00e1s importante!",
+         "Idioma": "Ingl\u00e9s",
+         "Genero": "Acci\u00f3n, Shooter",
+         "URL": "https://store.steampowered.com/app/690200/Capsular/",
+         "Multimedia1": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/256738364/movie480.webm?t=1544782478></video>",
+         "Multimedia2": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/256715446/movie480.webm?t=1524830218></video>",
+         "Multimedia3": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/256703497/movie480.webm?t=1513687300></video>",
+         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/690200/header.jpg",
+         "Jugador": "Multijugador",
+         "Plataforma": "Windows",
+         "Color": "rgba(230, 230, 25)",
+         "JugadorSVG": "<svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
+         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
+         "Distribuidora": "Steam"
+      },
+      {
          "Nombre": "MIR4",
          "Informacion": "MIR4 es un MMORPG de fantas\u00eda asi\u00e1tica de mundo abierto gratuito que se puede reproducir tanto en PC como en dispositivos m\u00f3viles. MIR4 est\u00e1 lleno de acci\u00f3n y presenta numerosas batallas PVP de clanes a gran escala. \u00danete ahora y convi\u00e9rtete en una leyenda.",
          "Idioma": "Espa\u00f1ol",
@@ -878,23 +895,6 @@
          "Multimedia2": "<iframe src=https://www.youtube.com/embed/o8ZAnbk3PIU frameborder=0 allowfullscreen></iframe>",
          "Multimedia3": "<iframe src=https://www.youtube.com/embed/D3arQ5tRCE4 frameborder=0 allowfullscreen></iframe>",
          "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/567630/header.jpg",
-         "Jugador": "Multijugador",
-         "Plataforma": "Windows",
-         "Color": "rgba(230, 230, 25)",
-         "JugadorSVG": "<svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
-         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
-         "Distribuidora": "Steam"
-      },
-      {
-         "Nombre": "Capsular",
-         "Informacion": "Capsular es un juego de disparos en la arena \u00fanico que cuenta con una mec\u00e1nica de \"Un disparo, una muerte\". \u00a1Salta a una partida de ritmo r\u00e1pido donde tu habilidad es m\u00e1s importante!",
-         "Idioma": "Ingl\u00e9s",
-         "Genero": "Acci\u00f3n, Shooter",
-         "URL": "https://store.steampowered.com/app/690200/Capsular/",
-         "Multimedia1": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/256738364/movie480.webm?t=1544782478></video>",
-         "Multimedia2": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/256715446/movie480.webm?t=1524830218></video>",
-         "Multimedia3": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/256703497/movie480.webm?t=1513687300></video>",
-         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/690200/header.jpg",
          "Jugador": "Multijugador",
          "Plataforma": "Windows",
          "Color": "rgba(230, 230, 25)",
@@ -1957,23 +1957,6 @@
          "Distribuidora": "Steam"
       },
       {
-         "Nombre": "Magnesia",
-         "Informacion": "\u00a1Protege al mundo del Sr. CL-34N! Est\u00e1s designado para usar imanes para progresar, \u00a1pero nada puede detenerte!",
-         "Idioma": "Ingl\u00e9s",
-         "Genero": "Aventura, Arcade",
-         "URL": "https://store.steampowered.com/app/991790/Magnesia/",
-         "Multimedia1": "<iframe src=https://www.youtube.com/embed/64a6dj6_PHo frameborder=0 allowfullscreen></iframe>",
-         "Multimedia2": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/991790/ss_840b69e34ad21d47ade75c9d0014161a406e46a0.600x338.jpg?t=1547393862>",
-         "Multimedia3": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/991790/ss_3f290a8122b48eb2e8e5bba7a8c19b5e442ad44a.600x338.jpg?t=1547393862>",
-         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/991790/header.jpg",
-         "Jugador": "Solitario",
-         "Plataforma": "Windows, Mac",
-         "Color": "rgba(128, 128, 127)",
-         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
-         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg><svg viewBox='0 0 32 32'><path d='M29.458,22.818V22.6c-2.624-1.399-4.049-3.454-4.049-6.427c0-2.404,1.068-4.504,3.025-5.858l0.089-0.044 c-1.29-1.573-3.025-3.146-5.695-3.146c-1.868,0-3.426,1.792-6.006,1.792c-2.046,0-2.892-1.705-5.117-1.705 c-4.627,0-9.209,4.066-9.209,9.355c0,2.798,0.934,7.127,3.025,10.887C7.036,30.208,8.904,32,10.995,32 c1.512,0,3.292-1.355,5.428-1.355c1.868,0,3.605,1.225,5.294,1.225c4.05,0,7.786-5.159,7.786-8.611  C29.503,23.081,29.458,22.95,29.458,22.818z M16.73,8.35c3.025-0.918,5.829-3.148,5.829-7.039c0-0.306-0.044-0.699-0.089-1.136L22.426,0 c-3.069,0.829-5.828,3.19-5.828,6.907c0,0.35,0.045,0.787,0.133,1.268L16.73,8.35L16.73,8.35z' /></svg>",
-         "Distribuidora": "Steam"
-      },
-      {
          "Nombre": "TENET",
          "Informacion": "TENET es un juego de disparos de ritmo r\u00e1pido en el que est\u00e1s atrapado en el inframundo en una arena de pesadilla, y la \u00fanica clave para sobrevivir es permanecer dentro de la luz. Tus habilidades se pondr\u00e1n a prueba mientras disparas, golpeas y pisoteas tu camino a trav\u00e9s de este guantelete infundido de sangre mientras desgarras a tus enemigos miembro a miembro.",
          "Idioma": "Espa\u00f1ol",
@@ -2226,6 +2209,23 @@
          "Color": "rgba(128, 128, 127)",
          "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
          "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
+         "Distribuidora": "Steam"
+      },
+      {
+         "Nombre": "RocketGO",
+         "Informacion": "RocketGO ofrece formas entretenidas de pilotar el cohete para la exploraci\u00f3n del universo. Seis planetas con paisajes \u00fanicos y condiciones extremas desafiar tus habilidades de pilotaje. Puede actualizar el cohete utilizando artefactos alien\u00edgenas que descubri\u00f3 en los lugares ocultos. \u00a1Prep\u00e1rate para la aventura espacial!",
+         "Idioma": "Ingl\u00e9s",
+         "Genero": "Arcade",
+         "URL": "https://store.steampowered.com/app/965920/RocketGO/",
+         "Multimedia1": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/256735554/movie480.webm?t=1542197742></video>",
+         "Multimedia2": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/965920/ss_f7470d209a71e271a8b9e41468f5dad18d0b55c9.600x338.jpg?t=1543256348>",
+         "Multimedia3": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/965920/ss_1b0c30d60b02ecd10adb478d416518483621da5e.600x338.jpg?t=1543256348>",
+         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/965920/header.jpg",
+         "Jugador": "Solitario",
+         "Plataforma": "Windows, Mac",
+         "Color": "rgba(128, 128, 127)",
+         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
+         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg><svg viewBox='0 0 32 32'><path d='M29.458,22.818V22.6c-2.624-1.399-4.049-3.454-4.049-6.427c0-2.404,1.068-4.504,3.025-5.858l0.089-0.044 c-1.29-1.573-3.025-3.146-5.695-3.146c-1.868,0-3.426,1.792-6.006,1.792c-2.046,0-2.892-1.705-5.117-1.705 c-4.627,0-9.209,4.066-9.209,9.355c0,2.798,0.934,7.127,3.025,10.887C7.036,30.208,8.904,32,10.995,32 c1.512,0,3.292-1.355,5.428-1.355c1.868,0,3.605,1.225,5.294,1.225c4.05,0,7.786-5.159,7.786-8.611  C29.503,23.081,29.458,22.95,29.458,22.818z M16.73,8.35c3.025-0.918,5.829-3.148,5.829-7.039c0-0.306-0.044-0.699-0.089-1.136L22.426,0 c-3.069,0.829-5.828,3.19-5.828,6.907c0,0.35,0.045,0.787,0.133,1.268L16.73,8.35L16.73,8.35z' /></svg>",
          "Distribuidora": "Steam"
       },
       {
@@ -4796,6 +4796,23 @@
          "Distribuidora": "Steam"
       },
       {
+         "Nombre": "Magnesia",
+         "Informacion": "\u00a1Protege al mundo del Sr. CL-34N! Est\u00e1s designado para usar imanes para progresar, \u00a1pero nada puede detenerte!",
+         "Idioma": "Ingl\u00e9s",
+         "Genero": "Aventura, Arcade",
+         "URL": "https://store.steampowered.com/app/991790/Magnesia/",
+         "Multimedia1": "<iframe src=https://www.youtube.com/embed/64a6dj6_PHo frameborder=0 allowfullscreen></iframe>",
+         "Multimedia2": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/991790/ss_840b69e34ad21d47ade75c9d0014161a406e46a0.600x338.jpg?t=1547393862>",
+         "Multimedia3": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/991790/ss_3f290a8122b48eb2e8e5bba7a8c19b5e442ad44a.600x338.jpg?t=1547393862>",
+         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/991790/header.jpg",
+         "Jugador": "Solitario",
+         "Plataforma": "Windows, Mac",
+         "Color": "rgba(128, 128, 127)",
+         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
+         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg><svg viewBox='0 0 32 32'><path d='M29.458,22.818V22.6c-2.624-1.399-4.049-3.454-4.049-6.427c0-2.404,1.068-4.504,3.025-5.858l0.089-0.044 c-1.29-1.573-3.025-3.146-5.695-3.146c-1.868,0-3.426,1.792-6.006,1.792c-2.046,0-2.892-1.705-5.117-1.705 c-4.627,0-9.209,4.066-9.209,9.355c0,2.798,0.934,7.127,3.025,10.887C7.036,30.208,8.904,32,10.995,32 c1.512,0,3.292-1.355,5.428-1.355c1.868,0,3.605,1.225,5.294,1.225c4.05,0,7.786-5.159,7.786-8.611  C29.503,23.081,29.458,22.95,29.458,22.818z M16.73,8.35c3.025-0.918,5.829-3.148,5.829-7.039c0-0.306-0.044-0.699-0.089-1.136L22.426,0 c-3.069,0.829-5.828,3.19-5.828,6.907c0,0.35,0.045,0.787,0.133,1.268L16.73,8.35L16.73,8.35z' /></svg>",
+         "Distribuidora": "Steam"
+      },
+      {
          "Nombre": "Marie's Room",
          "Informacion": "Marie's Room es un juego de exploraci\u00f3n de cuentos cortos sobre una amistad poco convencional entre dos compa\u00f1eros de clase. Juegas como Kelsey, recordando la habitaci\u00f3n de Marie como era hace veinte a\u00f1os. Pero algo anda mal. \u00bfQu\u00e9 le pas\u00f3 a Marie?",
          "Idioma": "Ingl\u00e9s",
@@ -6539,23 +6556,6 @@
          "Multimedia2": "<iframe src=https://www.youtube.com/embed/K0AJqNDM0Dc frameborder=0 allowfullscreen></iframe>",
          "Multimedia3": "<iframe src=https://www.youtube.com/embed/pSyy84BEJ0s frameborder=0 allowfullscreen></iframe>",
          "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/702160/header.jpg",
-         "Jugador": "Solitario",
-         "Plataforma": "Windows, Mac",
-         "Color": "rgba(128, 128, 127)",
-         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
-         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg><svg viewBox='0 0 32 32'><path d='M29.458,22.818V22.6c-2.624-1.399-4.049-3.454-4.049-6.427c0-2.404,1.068-4.504,3.025-5.858l0.089-0.044 c-1.29-1.573-3.025-3.146-5.695-3.146c-1.868,0-3.426,1.792-6.006,1.792c-2.046,0-2.892-1.705-5.117-1.705 c-4.627,0-9.209,4.066-9.209,9.355c0,2.798,0.934,7.127,3.025,10.887C7.036,30.208,8.904,32,10.995,32 c1.512,0,3.292-1.355,5.428-1.355c1.868,0,3.605,1.225,5.294,1.225c4.05,0,7.786-5.159,7.786-8.611  C29.503,23.081,29.458,22.95,29.458,22.818z M16.73,8.35c3.025-0.918,5.829-3.148,5.829-7.039c0-0.306-0.044-0.699-0.089-1.136L22.426,0 c-3.069,0.829-5.828,3.19-5.828,6.907c0,0.35,0.045,0.787,0.133,1.268L16.73,8.35L16.73,8.35z' /></svg>",
-         "Distribuidora": "Steam"
-      },
-      {
-         "Nombre": "RocketGO",
-         "Informacion": "RocketGO ofrece formas entretenidas de pilotar el cohete para la exploraci\u00f3n del universo. Seis planetas con paisajes \u00fanicos y condiciones extremas desafiar tus habilidades de pilotaje. Puede actualizar el cohete utilizando artefactos alien\u00edgenas que descubri\u00f3 en los lugares ocultos. \u00a1Prep\u00e1rate para la aventura espacial!",
-         "Idioma": "Ingl\u00e9s",
-         "Genero": "Arcade",
-         "URL": "https://store.steampowered.com/app/965920/RocketGO/",
-         "Multimedia1": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/256735554/movie480.webm?t=1542197742></video>",
-         "Multimedia2": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/965920/ss_f7470d209a71e271a8b9e41468f5dad18d0b55c9.600x338.jpg?t=1543256348>",
-         "Multimedia3": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/965920/ss_1b0c30d60b02ecd10adb478d416518483621da5e.600x338.jpg?t=1543256348>",
-         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/965920/header.jpg",
          "Jugador": "Solitario",
          "Plataforma": "Windows, Mac",
          "Color": "rgba(128, 128, 127)",
