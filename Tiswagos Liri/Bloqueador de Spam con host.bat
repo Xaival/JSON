@@ -313,6 +313,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 familysimulatorgames.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 finehookupclubs.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 flirtyj0y.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 secret-flirt-hub.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hotsimulator.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hotsinglewomens.adults-only.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hotteen.icu #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -544,6 +545,9 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 young-porn.pro #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 young-sex-tube.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 youngporn.su #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.videosporno.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.pornochacha.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.porn300.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 19youngporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 go.pornsos.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hq-sex-tube.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -574,7 +578,12 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.slavestube.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.spankingtube.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adultvideofinder.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 veopornogratis.xxx #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 happy-porn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.mrvideospornogratis.xxx #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.serviporno.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.pornoplay.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 tuporno.xxx #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hqteenclips.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 igotube.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 nndreams.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1285,6 +1294,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.cdn4ads.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 greedseed.world #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 a.adtng.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0  #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 a.pierlinks.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 a.shukriya90.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ad.a-ads.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
