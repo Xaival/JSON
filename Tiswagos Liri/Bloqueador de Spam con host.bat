@@ -1068,6 +1068,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 advideoblock.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adz-shield.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adz-skip.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 adzfree-watch.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adzshield.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adzshield.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adzshield.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1096,8 +1097,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 pdf2100.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 searchsecurer.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 service-b3490c.ingress-earth.ewp.live #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 websurfguard.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 adzfree-watch.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 shield-ads.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 skiptadz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 skiptheadz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1112,6 +1111,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 watch-adsfree.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 watchadsfree.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 watchadzfree.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 websurfguard.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.acplat.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.download-ready.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.mobile.kinman.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
