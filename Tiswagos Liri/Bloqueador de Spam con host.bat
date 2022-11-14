@@ -173,6 +173,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 dubaieburj.clickfunnels.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ee.vogulprecast.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 engine.spotscenered.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 toorebutheh.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 eu.messenger-notify.digital #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ezhefg9gbhgh10.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 films.hdflix.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -276,6 +277,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 trackingformelof.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 travel-blog-tips.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 twinrdsrv.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ujautifuleed.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 unreshiramor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 urlzs.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 velocitycdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1093,6 +1095,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 greenadblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 install.myincognitosearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 install.mystreamssearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 install.pdfstars.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 multiadblock.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pdf2100.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 searchsecurer.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
