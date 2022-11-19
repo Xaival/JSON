@@ -627,6 +627,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 veopornogratis.xxx #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 webcam-teen.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.alohatube.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.bingoporno.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.freesexvideos.su #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.hitboom.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.keezmovies.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
