@@ -157,6 +157,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 chealseatv.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 clck.adskeeper.co.uk #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 click.topbrandsearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ladiathdefinishe.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 clk.tradedoubler.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 comepoint.blogspot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 coxaldreamed.uno #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
