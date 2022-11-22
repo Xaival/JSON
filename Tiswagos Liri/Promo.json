@@ -1,5 +1,5 @@
 {
-   "date_update": "22 Nov 2022 20:21 UTC",
+   "date_update": "22 Nov 2022 20:24 UTC",
    "values": [
       {
          "Nombre": "Pothos Christmas Elf",
@@ -10,6 +10,26 @@
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/12/help-200x150.jpg?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
+      },
+      {
+         "Nombre": "VideoProc Converter",
+         "Informacion": "Edite, convierta y cambie el tama\u00f1o de videos, DVD y m\u00fasica 4K",
+         "Desde": "",
+         "Hasta": "2022/11/23 09:00",
+         "URL": "https://www.bitsdujour.com/software/videoproc-converter/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/videoproc-rs2ka.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
+      },
+      {
+         "Nombre": "CubeRunner by darshao",
+         "Informacion": "CubeRunner es un corredor de obst\u00e1culos basado en la f\u00edsica en 3D.",
+         "Desde": "",
+         "Hasta": "2022/11/23 10:00",
+         "URL": "https://darshao.itch.io/cuberunner",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM0Njg1LzExMTQ5NjMuanBn/347x500/9gG%2FHA.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "VOIDDOOM by Hummus Man",
@@ -78,6 +98,16 @@
          "Hasta": "2022/11/24 07:00",
          "URL": "https://sharewareonsale.com/s/free-pure-hdr-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/05/x30979-0_01_1280x1280_png_pagespeed_ic_dk_N3-wugc-200x287.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Audials Music 2023 SE",
+         "Informacion": "Spotify, Amazon, Tidal y muchos m\u00e1s. Encuentre y guarde canciones de Deezer, Amazon Music, Soundcloud, Tidal, Spotify, otros servicios de transmisi\u00f3n y portales de video como copias privadas.",
+         "Desde": "",
+         "Hasta": "2022/11/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-music-2023-se-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/amu_seBoxShot@medium.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -172,6 +202,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Burning Studio 2022",
+         "Informacion": "Ashampoo Burning Studio es la soluci\u00f3n probada para grabar todo tipo de datos en CD, DVD y Blu-ray. Los discos de pel\u00edculas junto con los men\u00fas animados, las presentaciones de diapositivas y los discos MP3 o de audio tambi\u00e9n son igualmente f\u00e1ciles de crear.",
+         "Desde": "",
+         "Hasta": "2022/11/25 07:00",
+         "URL": "https://sharewareonsale.com/s/ashampoo-burning-studio-freebie-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/11/boxshot-3-200x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
          "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 no descompilado mod it juego real que actualiza publicar juego completado! gracias a mystman12 por no enviar ese mod descompilado para enviarlo ya para actualizar el acceso al juego, no informar mi cuenta y el juego, \u00a1y ahora enviarlo a usted!",
          "Desde": "",
@@ -222,6 +262,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "New Cleard by AngryNinja",
+         "Informacion": "Nuevo Aclarado: Despu\u00e9s de que la humanidad no hubiera aprendido absolutamente nada de sus errores, no tuvo m\u00e1s remedio que abandonar el planeta Tierra y buscar un nuevo hogar. Tu historia comienza despu\u00e9s de que tus padres desaparecieran para protegerte de un peligro desconocido en tu nuevo hogar. \u00bfTus padres a\u00fan viven, o eres un hu\u00e9rfano sin nombre, porque no solo la mayor parte de la casa de tus padres ha sido destruida, sino que tu memoria ha sufrido mucho por lo sucedido? \u00bfDescubrir\u00e1s lo que sucedi\u00f3 y har\u00e1s retroceder el peligro desconocido a tiempo?",
+         "Desde": "",
+         "Hasta": "2022/11/27 01:00",
+         "URL": "https://angryninja.itch.io/new-cleard",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTYxNzI0Mi85NDY3MjE0LnBuZw==/347x500/NNvJET.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "500 Premium Stock Images",
          "Informacion": "Fotos de stock premium gratis. Disponible para uso comercial y personal.",
          "Desde": "",
@@ -238,6 +288,16 @@
          "Hasta": "2022/11/27 07:00",
          "URL": "https://sharewareonsale.com/s/free-neat-projects-2-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/70760-4_01_1280x1280@2x.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Backup Pro 15",
+         "Informacion": "Ashampoo\u00ae Backup Pro 15 es una soluci\u00f3n de respaldo integral basada en Windows para respaldar o restaurar cualquier archivo, partici\u00f3n o sistema operativo de arranque. Los archivos se pueden restaurar f\u00e1cilmente en caso de problemas de hardware o infecciones de malware del sistema. Las copias de seguridad se pueden crear de forma totalmente autom\u00e1tica gracias a la tecnolog\u00eda de fondo inteligente que no interfiere con el funcionamiento normal de la PC. Para eso, Ashampoo\u00ae Backup Pro 15 monitorea la carga del sistema y solo se activa cuando hay suficientes recursos disponibles. Cuatro m\u00e9todos de compresi\u00f3n seleccionables y un cifrado s\u00f3lido garantizan archivos de copia de seguridad seguros y que ahorran espacio. Los usuarios tienen control total sobre la ubicaci\u00f3n y el medio de almacenamiento, desde los discos duros tradicionales hasta los servicios en la nube en l\u00ednea para una m\u00e1xima accesibilidad, y esto se aplica tanto a archivos individuales como a particiones de disco completas. La restauraci\u00f3n de archivos se puede lograr a trav\u00e9s del propio programa o del Explorador de Windows. Y en el peor de los casos y su sistema sufre una falla total, el sistema de rescate del programa a\u00fan le permitir\u00e1 iniciar su m\u00e1quina y restaurar su copia de seguridad sin p\u00e9rdida de datos. Puede ejecutarse desde una unidad flash/disco duro port\u00e1til o desde un medio \u00f3ptico, como un DVD. Durante las copias de seguridad, Ashampoo\u00ae Backup Pro 15 verifica constantemente cada operaci\u00f3n para evitar inconsistencias en los datos. Esto incluso incluye la supervisi\u00f3n del estado de sus unidades de disco, con notificaciones instant\u00e1neas en caso de que una unidad est\u00e9 a punto de fallar. La versi\u00f3n 15 viene con un men\u00fa de inicio revisado que brinda toda la informaci\u00f3n esencial de un vistazo. Un men\u00fa separado ahora enumera cuidadosamente todos los planes de copia de seguridad con accesos directos a todos los detalles importantes. La integraci\u00f3n del servicio en la nube se revis\u00f3 y optimiz\u00f3 para mejorar el rendimiento y la seguridad. Gracias a numerosos ajustes y mejoras, Ashampoo\u00ae Backup Pro 15 es nuestra soluci\u00f3n de copia de seguridad m\u00e1s estable, vers\u00e1til y eficaz hasta la fecha.",
+         "Desde": "",
+         "Hasta": "2022/11/27 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-pro-15-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/05/boxshot-8-200x200.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -259,6 +319,16 @@
          "URL": "https://bee-tea.itch.io/rainyday",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1000 Abstract and Space Backgrounds Collection",
+         "Informacion": "\u00a1Haz dise\u00f1os incre\u00edbles que llamar\u00e1n la atenci\u00f3n de todos!",
+         "Desde": "",
+         "Hasta": "2022/11/29 07:00",
+         "URL": "https://sharewareonsale.com/s/free-1000-abstract-and-space-backgrounds-collection-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/05/1000-Backgrounds-Mega-Bundle-200x105.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -418,6 +488,16 @@
          "Hasta": "2022/11/30 03:00",
          "URL": "https://tomar381.itch.io/calm-night-horror-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc2NjQ5MC8xMDM4NzE5Mi5wbmc=/347x500/%2F2q7i2.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cruel One by Sky High Games",
+         "Informacion": "Es la ma\u00f1ana de Navidad, pero algo anda mal, faltan todos tus regalos. Con una pista, haces todo lo posible para recuperarlos.",
+         "Desde": "",
+         "Hasta": "2022/11/30 07:00",
+         "URL": "https://sky-high-games.itch.io/the-cruel-one",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyODkwNi83NzI3ODY2LnBuZw==/347x500/O9xIbe.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
