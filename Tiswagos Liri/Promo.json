@@ -1,86 +1,6 @@
 {
-   "date_update": "23 Nov 2022 15:16 UTC",
+   "date_update": "24 Nov 2022 06:55 UTC",
    "values": [
-      {
-         "Nombre": "VideoProc Converter",
-         "Informacion": "Edite, convierta y cambie el tama\u00f1o de videos, DVD y m\u00fasica 4K",
-         "Desde": "",
-         "Hasta": "2022/11/23 09:00",
-         "URL": "https://www.bitsdujour.com/software/videoproc-converter/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/videoproc-rs2ka.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "CubeRunner by darshao",
-         "Informacion": "CubeRunner es un corredor de obst\u00e1culos basado en la f\u00edsica en 3D.",
-         "Desde": "",
-         "Hasta": "2022/11/23 10:00",
-         "URL": "https://darshao.itch.io/cuberunner",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM0Njg1LzExMTQ5NjMuanBn/347x500/9gG%2FHA.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "VOIDDOOM by Hummus Man",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2022/11/23 20:30",
-         "URL": "https://sohrabhamza.itch.io/voiddoom",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUyMDg1NS84OTg2Nzg2LnBuZw==/347x500/Js2X%2Bf.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Ball Down Hill by KasperV",
-         "Informacion": "Meta:",
-         "Desde": "",
-         "Hasta": "2022/11/24 00:00",
-         "URL": "https://kasperv.itch.io/ball-down-hill",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "The Simple Life by KasperV",
-         "Informacion": "La vida simple",
-         "Desde": "",
-         "Hasta": "2022/11/24 00:00",
-         "URL": "https://kasperv.itch.io/the-simple-life",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "1943 by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
-         "Desde": "",
-         "Hasta": "2022/11/24 01:00",
-         "URL": "https://notmessyouself.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365",
-         "Desde": "",
-         "Hasta": "2022/11/24 01:00",
-         "URL": "https://notmessyouself.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "The backrooms by Notmessyouself",
-         "Informacion": "Versi\u00f3n alfa 1.1",
-         "Desde": "",
-         "Hasta": "2022/11/24 01:00",
-         "URL": "https://notmessyouself.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
       {
          "Nombre": "Audials Music 2023 SE",
          "Informacion": "Spotify, Amazon, Tidal y muchos m\u00e1s. Encuentre y guarde canciones de Deezer, Amazon Music, Soundcloud, Tidal, Spotify, otros servicios de transmisi\u00f3n y portales de video como copias privadas.",
@@ -89,17 +9,7 @@
          "URL": "https://sharewareonsale.com/s/free-audials-music-2023-se-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/amu_seBoxShot@medium.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "PURE HDR",
-         "Informacion": "PURE HDR es la herramienta para todos los profesionales de HDR que buscan infundir detalles fascinantes y v\u00edvidos en sus trabajos fotogr\u00e1ficos mediante la utilizaci\u00f3n de espectros completos de luz y color. En forma de extensi\u00f3n de complemento, PURE HDR funciona con las \u00faltimas capacidades de edici\u00f3n HDR de 32 bits de las colecciones de proyectos premiados de FRANZIS HDR directamente en Lightroom\u00ae y Photoshop\u00ae.",
-         "Desde": "",
-         "Hasta": "2022/11/24 07:00",
-         "URL": "https://sharewareonsale.com/s/free-pure-hdr-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/05/x30979-0_01_1280x1280_png_pagespeed_ic_dk_N3-wugc-200x287.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
       },
       {
          "Nombre": "Fast Video Downloader",
@@ -109,7 +19,37 @@
          "URL": "https://sharewareonsale.com/s/free-fast-video-downloader-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/07/FastVD_Box_medium-139x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
+      },
+      {
+         "Nombre": "PURE HDR",
+         "Informacion": "PURE HDR es la herramienta para todos los profesionales de HDR que buscan infundir detalles fascinantes y v\u00edvidos en sus trabajos fotogr\u00e1ficos mediante la utilizaci\u00f3n de espectros completos de luz y color. En forma de extensi\u00f3n de complemento, PURE HDR funciona con las \u00faltimas capacidades de edici\u00f3n HDR de 32 bits de las colecciones de proyectos premiados de FRANZIS HDR directamente en Lightroom\u00ae y Photoshop\u00ae.",
+         "Desde": "",
+         "Hasta": "2022/11/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-pure-hdr-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/05/x30979-0_01_1280x1280_png_pagespeed_ic_dk_N3-wugc-200x287.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
+      },
+      {
+         "Nombre": "VideoProc Converter",
+         "Informacion": "Edite, convierta y cambie el tama\u00f1o de videos, DVD y m\u00fasica 4K",
+         "Desde": "",
+         "Hasta": "2022/11/24 09:00",
+         "URL": "https://www.bitsdujour.com/software/videoproc-converter/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/videoproc-rs2ka.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
+      },
+      {
+         "Nombre": "Aiseesoft iPhone Password Manager License Key for Free",
+         "Informacion": "Aiseesoft iPhone Password Manager es un \u00fatil administrador de contrase\u00f1as para usuarios de iOS. Esta aplicaci\u00f3n de tel\u00e9fono lo ayuda a encontrar, ver y exportar todo tipo de contrase\u00f1as como ID de Apple, llavero de iCloud, contrase\u00f1a de tiempo de pantalla, contrase\u00f1as de wifi, cuentas de correo electr\u00f3nico y muchas m\u00e1s. Tambi\u00e9n puede exportar una lista de cuentas y contrase\u00f1as que desea transferir o compartir a un archivo CSV. Aiseesoft iPhone Password Manager es compatible con la \u00faltima versi\u00f3n de iOS y todos los modelos de iPhone/iPad.",
+         "Desde": "",
+         "Hasta": "2022/11/24 15:00",
+         "URL": "https://giveaway.tickcoupon.com/aiseesoft-iphone-password-manager/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/11/aiseesoft-iphone-password-manager-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "PDF OCR Full Version License Key Download",
@@ -119,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/pdf-ocr-lifetime-giveaway-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/04/pdf-ocr-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "TriSun WinExt Pro License Key for Free 1-Year",
@@ -129,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/trisun-winext-pro-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/03/trisun-winext-pro-main-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Dark Deity",
@@ -139,7 +79,7 @@
          "URL": "https://store.epicgames.com/p/dark-deity-0b08d1",
          "IMG": "https://cdn1.epicgames.com/spt-assets/1d1ceda7b1ba4e7893a36a1166ac3e41/dark-deity-offer-1v77p.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
       },
       {
          "Nombre": "Evil Dead: The Game",
@@ -149,7 +89,7 @@
          "URL": "https://store.epicgames.com/p/evil-dead-the-game",
          "IMG": "https://cdn1.epicgames.com/offer/95e09a8c24c44684bca1a6f25aea920c/EGS_EvilDeadTheGame_SaberInteractiveInc_S1_2560x1440-fde136bc32f2b93006b9df0bc421fec0_2560x1440-fde136bc32f2b93006b9df0bc421fec0",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
       },
       {
          "Nombre": "Lote \u00e9pico de animaci\u00f3n",
@@ -159,7 +99,7 @@
          "URL": "https://store.epicgames.com/p/rumbleverse",
          "IMG": "https://cdn1.epicgames.com/offer/0bef9383794a4d779ba0628084b14cba/EGS_RumbleverseEpicCheerleaderPack_IronGalaxyStudios_AddOn_S1_2560x1440-250f70be10d8e728e87b290e6dd6b58d",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
       },
       {
          "Nombre": "iBoysoft MagicMenu License Key Free Download",
@@ -272,6 +212,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "ForceToolkit PRO License Key Free",
+         "Informacion": "Obtenga la forma m\u00e1s f\u00e1cil pero m\u00e1s profesional de modificar la apariencia y el comportamiento de ciertos programas en su PC. ForceToolkit PRO ofrece una soluci\u00f3n profesional para modificar a la fuerza el estado de otros controles de programa. Le permite habilitar botones y casillas de verificaci\u00f3n en gris, enmascarar ventanas y permitir que se ejecuten en segundo plano, hacer que las ventanas est\u00e9n siempre en la parte superior, cambiar los t\u00edtulos de las ventanas, matar procesos a la fuerza y \u200b\u200b\u200b\u200bcerrar programas.",
+         "Desde": "",
+         "Hasta": "2022/11/26 16:00",
+         "URL": "https://giveaway.tickcoupon.com/forcetoolkit-pro-license-key-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/11/forcetoolkit-pro-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Broken Link Detector License Key Free",
          "Informacion": "Vovsoft Broken Link Detector es una excelente herramienta de verificaci\u00f3n de enlaces rotos que escanear\u00e1 cualquier sitio web y luego mostrar\u00e1 todos los enlaces muertos que impactan negativamente en sus sitios web. Proporciona las funcionalidades para verificar solo el nombre de dominio, estrictamente el nombre de subdominio, o todos los nombres de dominio, con la posibilidad de realizar tambi\u00e9n un escaneo de URL recursivo.",
          "Desde": "",
@@ -279,6 +229,16 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-broken-link-detector-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/11/vovsoft-broken-link-detector-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ball Down Hill by KasperV",
+         "Informacion": "Meta:",
+         "Desde": "",
+         "Hasta": "2022/11/27 00:00",
+         "URL": "https://kasperv.itch.io/ball-down-hill",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -298,6 +258,16 @@
          "Hasta": "2022/11/27 01:00",
          "URL": "https://angryninja.itch.io/new-cleard",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTYxNzI0Mi85NDY3MjE0LnBuZw==/347x500/NNvJET.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Heaven's Gate - Final Round by kamaarts",
+         "Informacion": "El objetivo del juego es detener las oleadas cada vez mayores y m\u00e1s fuertes de demonios con estructuras defensivas. El juego tiene lugar en una arena rectangular, con las puertas del cielo y el infierno en sus extremos. Al estar del lado del bien, debes proteger las puertas del cielo, a trav\u00e9s de las cuales los monstruos que escapan del infierno quieren penetrar. Tienes varias estructuras defensivas a tu disposici\u00f3n con diferentes propiedades. Compras estructuras defensivas por oro y luego las colocas en un lugar seleccionado en el campo de batalla. Recibir\u00e1s oro adicional despu\u00e9s de cada ronda. Los edificios tambi\u00e9n se pueden revender recuperando algo de oro. Los enemigos se dividen en categor\u00edas: tierra y aire. Los monstruos terrestres son lentos pero muy resistentes. Puedes controlar su marcha colocando correctamente tus edificios militares. Sin embargo, \u00a1no creas que es posible cerrar el camino por completo! Los monstruos a\u00e9reos no muestran tanta resistencia, pero son r\u00e1pidos y no tienes influencia en su forma de volar. Cuando un monstruo entre a la puerta del cielo, perder\u00e1s algunos puntos de defensa. Cuando los pierdas a todos, el juego terminar\u00e1 y ser\u00e1s juzgado. Demuestra estrategia y creatividad, bate tus propios r\u00e9cords, que est\u00e1n en la lista de tus mejores resultados.",
+         "Desde": "",
+         "Hasta": "2022/11/27 01:00",
+         "URL": "https://kamaarts.itch.io/heavens-gate-final-round",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDMxMy83MTk2ODI5LmpwZw==/347x500/OG7SDn.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -878,6 +848,46 @@
          "Hasta": "2022/12/20 05:00",
          "URL": "https://17-09studio.itch.io/without-oxygen",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5MTIzMC84NjkzODY3LnBuZw==/347x500/PpqGBb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Track racing battle simulator by Dankoff",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/23 23:00",
+         "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cubes And More Cubes (Logic game) by Dankoff",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/23 23:00",
+         "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Counter Aim:  Brutal Offensive by Dankoff, CounterAim series",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/23 23:00",
+         "URL": "https://dankoff.itch.io/counter-aim",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTQ3MTI0LzUzNjkwNTQucG5n/347x500/v3Rqk%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Counter Aim: New Operation by Dankoff, CounterAim series",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/23 23:00",
+         "URL": "https://dankoff.itch.io/counter-aim-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA5OTk1Ni82MzQ4NjE0LnBuZw==/347x500/Uuqc%2BB.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
