@@ -1,36 +1,6 @@
 {
-   "date_update": "01 Dec 2022 18:26 UTC",
+   "date_update": "02 Dec 2022 16:44 UTC",
    "values": [
-      {
-         "Nombre": "Blades Adrift by Echo7project",
-         "Informacion": "Despu\u00e9s de morir en la batalla, te env\u00edan a las 10 capas del limbo guerrero con nada m\u00e1s que tu espada y tu arco... Con precisi\u00f3n, velocidad, habilidad y decisi\u00f3n t\u00e1ctica, llegar\u00e1s al cielo de los guerreros o quedar\u00e1s atrapado en el limbo y te desvanecer\u00e1s. \u00bfcamino?",
-         "Desde": "",
-         "Hasta": "2022/12/02 06:00",
-         "URL": "https://echo7project.itch.io/blades-adrift",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODEyNzU5LzQ1NTczNjEuanBn/347x500/fzv5QY.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
-      },
-      {
-         "Nombre": "1AVCenter",
-         "Informacion": "1AVCenter es un grupo de aplicaciones reunidas en una interfaz de usuario dise\u00f1ada inteligentemente: software de grabaci\u00f3n de pantalla, software de captura de audio, software de transmisi\u00f3n de video en vivo, software de videovigilancia remota, servidor de archivos de Windows y m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2022/12/02 07:00",
-         "URL": "https://sharewareonsale.com/s/free-1avcenter-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/09/1av2.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
-      },
-      {
-         "Nombre": "SUMo PRO",
-         "Informacion": "\u00a1SUMo (Monitor de actualizaci\u00f3n de software) mantiene su PC actualizada y segura usando la\u00a0versi\u00f3n m\u00e1s reciente de su software favorito!\nA diferencia de las funciones integradas de actualizaci\u00f3n autom\u00e1tica, SUMo le informa si hay actualizaciones disponibles antes de que necesite usar su software.",
-         "Desde": "",
-         "Hasta": "2022/12/02 07:00",
-         "URL": "https://sharewareonsale.com/s/sumo-pro-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/04/SUMo_screen_s.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
-      },
       {
          "Nombre": "Focus projects professional",
          "Informacion": "Claridad total en sus im\u00e1genes macro",
@@ -39,7 +9,7 @@
          "URL": "https://www.bitsdujour.com/software/focus-projects-professional/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/focus-projects-professional-if3hl.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 6%, yellow 6%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
       },
       {
          "Nombre": "KC Softwares SUMo Pro License Key Free Lifetime",
@@ -49,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/kc-softwares-sumo-pro-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2020/11/kc-softwares-sumo-pro-giveaway-free-key-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
       },
       {
          "Nombre": "Ashampoo Backup Pro 15",
@@ -59,7 +29,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-pro-15-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/05/boxshot-8-200x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
       },
       {
          "Nombre": "Flash Drive Recovery",
@@ -69,6 +39,16 @@
          "URL": "https://sharewareonsale.com/s/free-flash-drive-recovery-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/06/box_fdr.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
+      },
+      {
+         "Nombre": "Idle Champions de Forgotten Realms",
+         "Informacion": "Idle Champions es un videojuego de gesti\u00f3n estrat\u00e9gica con licencia de Dungeons & Dragons en el que personajes emblem\u00e1ticos de las novelas, las campa\u00f1as y las series se unen en una \u00e9pica aventura.",
+         "Desde": "",
+         "Hasta": "2022/12/03 09:00",
+         "URL": "https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms",
+         "IMG": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EpicCarousel_2560x1440_3KeyartENG2_2560x1440-6c23d0f0576846fc88d1356df3a0c1cf",
+         "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -82,6 +62,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Glarysoft Malware Hunter Pro License Free",
+         "Informacion": "Malware Hunter Pro de Glarysoft es un software poderoso que est\u00e1 dise\u00f1ado para proporcionar a los clientes capacidades integrales de detecci\u00f3n y protecci\u00f3n de virus. Ayuda a protegerse contra todo tipo de amenazas, asegura sus datos, protege su privacidad y garantiza que su PC permanezca libre de virus.",
+         "Desde": "",
+         "Hasta": "2022/12/03 15:00",
+         "URL": "https://giveaway.tickcoupon.com/malware-hunter-pro-free-license-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/06/glary-malware-hunter-pro-giveaway-license-code-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Photos to Video License Key Free",
          "Informacion": "Aproveche Vovsoft Photos to Video a medida que comienza a crear su video. Al funcionar como un software de conversi\u00f3n, Vovsoft Photos to Video le permite generar videos a partir de sus im\u00e1genes con facilidad. Este software de conversi\u00f3n de imagen a video solo funciona en el sistema Windows. La interfaz dise\u00f1ada del software es muy simple, simplemente haga clic en el bot\u00f3n `Agregar archivos` para insertar sus im\u00e1genes y luego haga clic en el bot\u00f3n `Convertir` para iniciar el proceso de conversi\u00f3n.",
          "Desde": "",
@@ -89,6 +79,16 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-photos-to-video-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/11/vovsoft-photos-to-video-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Unfair Jousting Fair by Rodaja",
+         "Informacion": "\u00a1Vence a tus amigos en una justa y trata de mantener el equilibrio en tu monociclo!",
+         "Desde": "",
+         "Hasta": "2022/12/04 01:00",
+         "URL": "https://rodaja.itch.io/unfair-jousting-fair",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI2MjYzLzU4NTEyNy5naWY=/347x500/%2BK9OhS.gif",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -332,6 +332,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Batch Video CompreXor",
+         "Informacion": "Batch Video CompreXor es la herramienta perfecta para reducir sus archivos de video hasta en un 95% del archivo de video original. Batch Video CompreXor reduce los archivos de video al reducir la calidad del video y la calidad del audio en un porcentaje que usted defina, para que pueda convertir sus videos en el tama\u00f1o que desee. Batch Video CompreXor funciona para MP4, MOV, MPG, WMV, QT, AVI, MP3, OGG, 3GP, FLAC, FLV y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2022/12/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-batch-video-comprexor-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/06/Batch_Video_CompreXor.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "PDF Eraser Pro Giveaway License Key for Lifetime 2022",
          "Informacion": "PDFZilla PDF Eraser Pro lo ayuda a eliminar/borrar texto e im\u00e1genes de documentos PDF y guardarlos en un nuevo archivo PDF. Con \u00e9l, puede eliminar texto e im\u00e1genes de PDF incluso si el color de fondo del PDF NO es blanco. Adem\u00e1s, tambi\u00e9n lo ayudar\u00e1 a agregar su propio texto e im\u00e1genes en el PDF.",
          "Desde": "",
@@ -348,6 +358,16 @@
          "Hasta": "2022/12/10 00:00",
          "URL": "https://giveaway.tickcoupon.com/tenorshare-4ukey-password-manager-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/11/tenorshare-4ukey-password-manager-license-key-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WinX HD Video Converter Deluxe License Key Free 2022",
+         "Informacion": "WinX HD Video Converter Deluxe, un software de video todo en uno como convertidor de video Ultra HD, creador de presentaciones de diapositivas y editor de video, le brinda el m\u00e1ximo control sobre los archivos de video con resoluci\u00f3n SD, HD y 4K. Con m\u00e1s de 320 c\u00f3decs de video y 50 c\u00f3decs de audio, posee la poderosa capacidad de satisfacer las necesidades de conversi\u00f3n de video r\u00e1pidas y de alta calidad sin la ayuda de ninguna herramienta de terceros.",
+         "Desde": "",
+         "Hasta": "2022/12/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/winx-hd-video-converter-deluxe-free-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/08/winx-hd-video-converter-deluxe-license-key-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -762,6 +782,96 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The CAMMEN Project by TheAZh Games",
+         "Informacion": "\"Controle a S.I.G.H.T-12. \u00a1Considere esta su\u00a0advertencia! Aunque ha sido seleccionado para unirse al Proyecto C.A.M.M.E.N, su seguridad NO est\u00e1 garantizada. En caso de falla de su parte, su acceso al programa ser\u00e1 revocado independientemente de su supervivencia, cambio. \"",
+         "Desde": "",
+         "Hasta": "2022/12/31 22:59",
+         "URL": "https://theult.itch.io/cammen",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxMDAyNC8xMDA3NDIxNi5wbmc=/347x500/HCdOkJ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "a short love story by Happy Doggo",
+         "Informacion": "\u00a1Esta historia es sobre la cosa m\u00e1s incre\u00edble del mundo! \u00a1sobre el amor!",
+         "Desde": "",
+         "Hasta": "2022/12/31 23:00",
+         "URL": "https://happydoggostudio.itch.io/a-short-love-story",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY4ODkwNC8xMDAzNjQ1NS5qcGc=/347x500/WwCHXk.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Flower Parade by Happy Doggo",
+         "Informacion": "\u00a1Eres una supermujer valiente en el camino para salvar a la humanidad del apocalipsis!",
+         "Desde": "",
+         "Hasta": "2022/12/31 23:00",
+         "URL": "https://happydoggostudio.itch.io/flower-parade",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg5MDUzLzUwNDk1NjcuanBlZw==/347x500/plg4zp.jpeg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "I need to pee by Happy Doggo",
+         "Informacion": "Un juego de aventuras sobre la superaci\u00f3n de dificultades.",
+         "Desde": "",
+         "Hasta": "2022/12/31 23:00",
+         "URL": "https://happydoggostudio.itch.io/i-need-to-pee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODY4NTMwLzQ4ODQwNzMuanBlZw==/347x500/S0x8Q2.jpeg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Soul Of Hero by Alpi Games",
+         "Informacion": "Juego de rol de plataforma Soul of Hero",
+         "Desde": "",
+         "Hasta": "2022/12/31 23:00",
+         "URL": "https://alpigames.itch.io/soulofhero",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU5MjE0LzMzNjYxNDAucG5n/347x500/r4Es7A.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mend Game by Happy Doggo",
+         "Informacion": "FECHA DE LANZAMIENTO: 16 DE MARZO!!",
+         "Desde": "",
+         "Hasta": "2022/12/31 23:00",
+         "URL": "https://happydoggostudio.itch.io/mend-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTYwMzI4LzMxMDU1NDIuanBn/347x500/Zg4tWZ.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ecoman by Happy Doggo",
+         "Informacion": "Ecoman es un juego corto creado durante Eco Jam que se llev\u00f3 a cabo en el Garaje del Museo de Arte Contempor\u00e1neo del 23 al 24 de noviembre.",
+         "Desde": "",
+         "Hasta": "2022/12/31 23:00",
+         "URL": "https://happydoggostudio.itch.io/ecoman",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTI0MzE4LzI3MjMxNzgucG5n/347x500/OdtNbk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Radio Player (Ancien Version) by Pinou007",
+         "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias a radio player 2020 Versi\u00f3n antigua",
+         "Desde": "",
+         "Hasta": "2022/12/31 23:59",
+         "URL": "https://pinou007.itch.io/radio-player",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
+         "Informacion": "\u00f0\u00ab\u00f0 \u00b7 En una vida donde un virus ha infectado a todos, los humanos que no est\u00e1n infectados, decidimos instalarnos en las alcantarillas y el subsuelo, los Humanos, comenzamos a desarrollar las alcantarillas y el subsuelo Te revelas en una casa de un cient\u00edfico que quiere usarte y decides salir de su casa y encontrarse en las alcantarillas",
+         "Desde": "",
+         "Hasta": "2022/12/31 23:59",
+         "URL": "https://pinou007.itch.io/projectxnow",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "thisPaper by Pinou007",
          "Informacion": "Suspendido temporalmente thisPaper es un juego donde tienes que recuperar 10Paper este juego es realmente simple el juego se hizo en 12 horas un reto personal que comenc\u00e9 los otros juegos que ser\u00e1n de mejor calidadMapa DisponibleOtros mapas estar\u00e1n disponibles",
          "Desde": "",
@@ -798,6 +908,86 @@
          "Hasta": "2023/01/01 01:59",
          "URL": "https://krunchyfriedgames.itch.io/witches-and-bandits-and-swords-oh-my",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg4NTc3Lzg4NDQ4MS5qcGc=/347x500/2Oaqw3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tales from the Aerosphere by Ethan H. Reynolds",
+         "Informacion": "\u00bfQui\u00e9n ser\u00e1s en esta ciudad entre las nubes?",
+         "Desde": "",
+         "Hasta": "2023/01/01 06:00",
+         "URL": "https://ethanhreynolds.itch.io/tales-from-the-aerosphere",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyNzM1Ny83NzE5MTAzLnBuZw==/347x500/ocLqT0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Mini-Game 3-in-1 Fun-Pak by MansterSoft",
+         "Informacion": "MansterSoft se enorgullece en presentar:\u00a0\u00a1El minijuego 3 en 1 Fun-Pak!",
+         "Desde": "",
+         "Hasta": "2023/01/01 08:00",
+         "URL": "https://manstersoft.itch.io/the-mini-game-3-in-1-fun-pak",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzE5NzMxLzM5ODk5NDAucG5n/347x500/Rh2Xea.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Run-N-Jump-N-Jump-N-Run by MansterSoft",
+         "Informacion": "Esta descarga incluye tanto \"Run-N-Jump-N-Jump-N-Run\" como \"Capybara Capriole\".",
+         "Desde": "",
+         "Hasta": "2023/01/01 08:00",
+         "URL": "https://manstersoft.itch.io/run-n-jump",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMTkwLzgwMTIxNy5wbmc=/347x500/a4QLL9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Mr. Dude 4-in-1 Poopy-Pak by MansterSoft",
+         "Informacion": "MansterSoft presenta con orgullo: \u00a1El Poopy-Pak 4 en 1 de Mr. Dude!",
+         "Desde": "",
+         "Hasta": "2023/01/01 08:00",
+         "URL": "https://manstersoft.itch.io/poopy-pak",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMwODAxLzYwMDYxNi5wbmc=/347x500/EfrurF.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Oatboy vs. Slime Mold by MansterSoft",
+         "Informacion": "Oatboy vs. Slime Mold es un intento de hacer un juego de acci\u00f3n de ritmo r\u00e1pido con un concepto \u00fanico y un juego original que encajar\u00eda con los juegos Arcade de finales de los 70 y principios de los 80.",
+         "Desde": "",
+         "Hasta": "2023/01/01 08:00",
+         "URL": "https://manstersoft.itch.io/oatboy-vs-slime-mold",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjkzNDYvOTEzMDg0LmdpZg==/347x500/UqdR%2Fz.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The MansterSoft 3-in-1 Fun-Pak by MansterSoft",
+         "Informacion": "MansterSoft presenta: \u00a1El Fun-Pak 3 en 1 de MansterSoft!",
+         "Desde": "",
+         "Hasta": "2023/01/01 08:00",
+         "URL": "https://manstersoft.itch.io/fun-pak",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjkyMDUvMzE1NDQ2LnBuZw==/347x500/c5kQuc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Chimera Crusader: Defender of Dominicus by MansterSoft",
+         "Informacion": "El rey Dominicus ordena a su principal palad\u00edn que mate a la terrible quimera. Pero va a tomar un poco de molienda. Tendr\u00e1n que acumular fuerza matando todo lo dem\u00e1s en su camino. Es lo m\u00ednimo que puede conseguir un juego de rol.",
+         "Desde": "",
+         "Hasta": "2023/01/01 08:00",
+         "URL": "https://manstersoft.itch.io/chimera-crusader",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjA1MDgvNDE4MjQ3Ni5naWY=/347x500/xm0l%2FS.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Choose the cat by Raph88",
+         "Informacion": "El gato es lo mejor, as\u00ed que elige siempre al gato.",
+         "Desde": "",
+         "Hasta": "2023/01/01 16:15",
+         "URL": "https://raph88.itch.io/choose-the-cat",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjEzODA3LzMyNjU3ODcucG5n/347x500/V3flSz.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
