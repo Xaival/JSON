@@ -1,56 +1,6 @@
 {
-   "date_update": "05 Dec 2022 04:56 UTC",
+   "date_update": "05 Dec 2022 22:42 UTC",
    "values": [
-      {
-         "Nombre": "Desperate Needs by DigitalCrypt",
-         "Informacion": "Trabajas en un hospital y tienes una deuda estudiantil que pagar. Haces las camas, limpias los ba\u00f1os. Tienes que elegir.",
-         "Desde": "",
-         "Hasta": "2022/12/05 02:00",
-         "URL": "https://digitalcrypt.itch.io/desperate-needs",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODcwOTAzLzY0Mzk0ODAucG5n/347x500/n6fK2y.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Remembrance by DigitalCrypt",
-         "Informacion": "Ella muri\u00f3 hoy hace 7 a\u00f1os. Recu\u00e9rdela.",
-         "Desde": "",
-         "Hasta": "2022/12/05 02:00",
-         "URL": "https://digitalcrypt.itch.io/remembrance",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTEyMTE0LzY0Mzk1MTcucG5n/347x500/zlubMA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "500 Premium Stock Images",
-         "Informacion": "Fotos de stock premium gratis. Disponible para uso comercial y personal.",
-         "Desde": "",
-         "Hasta": "2022/12/05 07:00",
-         "URL": "https://sharewareonsale.com/s/free-500-premium-stock-images-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/07/06e9bce0e95168ad472d6d72bb03b971-200x246.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "Asterisk Password Recovery Pro",
-         "Informacion": "Software empresarial para revelar instant\u00e1neamente su contrase\u00f1a oculta detr\u00e1s de asteriscos",
-         "Desde": "",
-         "Hasta": "2022/12/05 07:00",
-         "URL": "https://sharewareonsale.com/s/free-asterisk-password-recovery-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/asteriskpasswordrecoverypro-box-250.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "Hi-Q MP3 Recorder Pro",
-         "Informacion": "Grabe audio desde cualquier fuente en su PC",
-         "Desde": "",
-         "Hasta": "2022/12/05 09:00",
-         "URL": "https://www.bitsdujour.com/software/hi-q-mp3-recorder-pro/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/1av-sound-recorder-q4rac.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
       {
          "Nombre": "XenArmor Asterisk Password Recovery Pro License Key Free",
          "Informacion": "XenArmor Asterisk Password Recovery Pro es un software m\u00e1gico para revelar instant\u00e1neamente su contrase\u00f1a detr\u00e1s de asteriscos de m\u00e1s de 180 aplicaciones de Windows.",
@@ -59,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/asterisk-password-recovery-pro-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/02/asterisk-password-recovery-pro-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
       },
       {
          "Nombre": "MagFone iPhone Unlocker License Key for Free",
@@ -69,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/magfone-iphone-unlocker-free-license/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/10/magfone-iphone-unlocker-license-key-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "1943 by Notmessyouself",
@@ -79,7 +29,7 @@
          "URL": "https://notmessyouself.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Notmessyouself",
@@ -89,7 +39,7 @@
          "URL": "https://notmessyouself.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "The backrooms by Notmessyouself",
@@ -99,7 +49,7 @@
          "URL": "https://notmessyouself.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "A Game to kill billionaires by danieldante",
@@ -109,7 +59,7 @@
          "URL": "https://danieldante.itch.io/a-game-to-kill-billionaires",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTY3MDE3LzU0OTIwNjYucG5n/347x500/NuF0ai.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "SkateRPG by danieldante",
@@ -119,7 +69,7 @@
          "URL": "https://danieldante.itch.io/skaterpg",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzk4ODM2LzQ0Nzk1MzEuZ2lm/347x500/fTy3ck.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Video to GIF Converter License Key for Free",
@@ -179,6 +129,16 @@
          "URL": "https://sharewareonsale.com/s/free-audials-radio-2023-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/ara_seBoxShot@medium.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AOMEI Backupper Professional Free License Key",
+         "Informacion": "AOMEI Backupper Pro es un programa profesional de respaldo y recuperaci\u00f3n que es f\u00e1cil de usar. Proteja completamente su PC contra la p\u00e9rdida de datos. Realiza copias de seguridad seguras de su PC y servidor, ofrece una copia de seguridad con un solo clic de la partici\u00f3n o unidad de su sistema, y \u200b\u200blo hace en minutos. Tambi\u00e9n puede clonar particiones o unidades. El programa es compatible con el Servicio de instant\u00e1neas de volumen de Microsoft (VSS), que permite realizar copias de seguridad de los datos sin interferir con las aplicaciones actuales. Si sus datos se destruyen o corrompen accidentalmente, la aplicaci\u00f3n puede inspeccionar la imagen generada y restaurarla en el disco duro. Adem\u00e1s, puede crear un CD de recuperaci\u00f3n de arranque para restaurar sus datos si la computadora falla y no se puede acceder a la aplicaci\u00f3n a trav\u00e9s de la interfaz de Windows.",
+         "Desde": "",
+         "Hasta": "2022/12/07 15:00",
+         "URL": "https://giveaway.tickcoupon.com/aomei-backupper-professional-key-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/05/AOMEI-Backupper-Professional-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -292,6 +252,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Sky Lab Defender by KasperV",
+         "Informacion": "Defensor del laboratorio del cielo",
+         "Desde": "",
+         "Hasta": "2022/12/11 00:00",
+         "URL": "https://kasperv.itch.io/skylabdefender",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Simple Life by KasperV",
          "Informacion": "La vida simple",
          "Desde": "",
@@ -302,13 +272,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sky Lab Defender by KasperV",
-         "Informacion": "Defensor del laboratorio del cielo",
+         "Nombre": "Vovsoft Blur Multiple Images License Key for Free",
+         "Informacion": "Disponible para Windows, Vovsoft Blur Multiple Images se jacta de ser el poderoso de la industria para agregar un efecto de desenfoque a muchas im\u00e1genes. Es el software de desenfoque de im\u00e1genes actualmente disponible y, como mencionamos, puede ayudar a agregar un efecto de desenfoque a una gran cantidad de archivos de imagen en una operaci\u00f3n r\u00e1pida.",
          "Desde": "",
          "Hasta": "2022/12/11 00:00",
-         "URL": "https://kasperv.itch.io/skylabdefender",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
-         "Distribuidora": "Itch io",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-blur-multiple-images-free-license-code/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/12/vovsoft-blur-multiple-images-free-license-giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -349,6 +319,56 @@
          "URL": "https://giveaway.tickcoupon.com/ant-download-manager-pro-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/05/Ant-Download-Manager-Pro-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2022/12/11 19:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2022/12/11 19:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
+         "Desde": "",
+         "Hasta": "2022/12/11 19:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sticky Password Premium",
+         "Informacion": "Sticky Password\u00a0es el administrador de contrase\u00f1as galardonado con funciones como inicio de sesi\u00f3n autom\u00e1tico, llenado autom\u00e1tico de formularios, generador de contrase\u00f1as y uso compartido seguro de contrase\u00f1as, y protege sus datos con el cifrado AES-256 est\u00e1ndar de la industria junto con su contrase\u00f1a maestra o autenticaci\u00f3n biom\u00e9trica (por ejemplo, huella digital ).",
+         "Desde": "",
+         "Hasta": "2022/12/12 07:00",
+         "URL": "https://sharewareonsale.com/s/sticky-password-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/09/Sticky-Password-Premium-2017-200x147.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "500 Realistic Professional Photo Overlays",
+         "Informacion": "M\u00e1s de 500 superposiciones de fotos realistas es la colecci\u00f3n m\u00e1s grande y diversa de superposiciones en 2022 para verdaderos profesionales. Ahorre un tiempo precioso y domine sus habilidades con m\u00e1s de 500 superposiciones de fotos realistas. Agregue vibraciones suaves y frescas a sus dise\u00f1os.",
+         "Desde": "",
+         "Hasta": "2022/12/12 07:00",
+         "URL": "https://sharewareonsale.com/s/free-500-realistic-professional-photo-overlays-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/500-Professional-Photo-Overlays-Bundle-Image-scaled.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -432,22 +452,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Door! 3 by Nitish Thombre",
-         "Informacion": "\u00a1Este es un juego m\u00e1s dif\u00edcil que The Door! 2 \u00a1porque es La Puerta! 3",
-         "Desde": "",
-         "Hasta": "2022/12/16 10:00",
-         "URL": "https://nitish-thombre.itch.io/the-door-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "The Door! 2 by Nitish Thombre",
          "Informacion": "Este juego hecho para Speed \u200b\u200brun -_-",
          "Desde": "",
          "Hasta": "2022/12/16 10:00",
          "URL": "https://nitish-thombre.itch.io/the-door-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Door! 3 by Nitish Thombre",
+         "Informacion": "\u00a1Este es un juego m\u00e1s dif\u00edcil que The Door! 2 \u00a1porque es La Puerta! 3",
+         "Desde": "",
+         "Hasta": "2022/12/16 10:00",
+         "URL": "https://nitish-thombre.itch.io/the-door-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -642,22 +662,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Virtual Pet Caterpillar 1.0 by unaux_25917242",
-         "Informacion": "Oruga de mascota virtual: el ciclo de vida de 17 niveles de las orugas, agregue comida, sue\u00f1o y diversi\u00f3n para evolucionar al final del d\u00eda (~ 1,5 h), muy poco o demasiado afecta la felicidad general, obtenga nuevas acciones con subir de nivel.",
-         "Desde": "",
-         "Hasta": "2022/12/31 00:00",
-         "URL": "https://unaux-25917242.itch.io/virtual-pet-caterpillar-10",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTAwLzEyMzI4NTAuanBn/347x500/uxXYqe.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "The Dark Retributionist by al3cs71",
          "Informacion": "\u00a1Te despiertas de tu sue\u00f1o eterno en busca de venganza!",
          "Desde": "",
          "Hasta": "2022/12/31 00:00",
          "URL": "https://al3cs71.itch.io/the-dark-retributionist",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTExNTI5LzczMzY2OTMucG5n/347x500/TKX6Mc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Virtual Pet Caterpillar 1.0 by unaux_25917242",
+         "Informacion": "Oruga de mascota virtual: el ciclo de vida de 17 niveles de las orugas, agregue comida, sue\u00f1o y diversi\u00f3n para evolucionar al final del d\u00eda (~ 1,5 h), muy poco o demasiado afecta la felicidad general, obtenga nuevas acciones con subir de nivel.",
+         "Desde": "",
+         "Hasta": "2022/12/31 00:00",
+         "URL": "https://unaux-25917242.itch.io/virtual-pet-caterpillar-10",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTAwLzEyMzI4NTAuanBn/347x500/uxXYqe.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
