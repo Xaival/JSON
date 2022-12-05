@@ -1,5 +1,5 @@
 {
-   "date_update": "02 Dec 2022 22:33 UTC",
+   "date_update": "05 Dec 2022 04:56 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -1081,16 +1081,16 @@
       },
       {
          "ID": "AAAAEJ",
-         "Nombre": "Dani",
-         "NombreRol": "",
+         "Nombre": "Dani Rodriguez Guerrero",
+         "NombreRol": "Daniel",
          "Hermandad": "Midgard",
          "Casa": "",
          "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
          "ImgURL": "",
-         "Descripcion": "",
+         "Descripcion": "Daniel el Cocinero de midgard",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/daniel_angrieff_midgard/",
+            "Insta1": "https://www.instagram.com/daniel_chef_midgard/",
             "Insta2": "https://www.instagram.com/thedanier/",
             "Insta3": "",
             "TikTok": "",
