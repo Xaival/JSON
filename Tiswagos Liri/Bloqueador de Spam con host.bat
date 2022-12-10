@@ -1368,6 +1368,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 mansernema.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cdn10.trafficjunky.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 direct.apus.tech #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 apathylahuli.website #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 dlupload.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ipp.littlecdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 static.cdnativepush.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
