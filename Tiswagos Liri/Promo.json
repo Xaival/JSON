@@ -22,6 +22,16 @@
          "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
+         "Nombre": "The Simple Life by KasperV",
+         "Informacion": "La vida simple",
+         "Desde": "",
+         "Hasta": "2022/12/15 00:00",
+         "URL": "https://kasperv.itch.io/the-simple-life",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
+      },
+      {
          "Nombre": "StreamFab YouTube Downloader Pro",
          "Informacion": "StreamFab YouTube Downloader Pro permite a los usuarios descargar videos de YouTube a la PC en formatos MP4, MKV y MP3",
          "Desde": "",
@@ -42,6 +52,16 @@
          "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
+         "Nombre": "Cutout Standard",
+         "Informacion": "Recorte f\u00e1cilmente objetos de las im\u00e1genes",
+         "Desde": "",
+         "Hasta": "2022/12/15 09:00",
+         "URL": "https://www.bitsdujour.com/software/cutout-standard/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/cutout-standard-bwbq9.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
+      },
+      {
          "Nombre": "Saints Row IV: Re-Elected",
          "Informacion": "\u00a1Ahora t\u00fa eres el presidente! Los Saints han pasado del \u00e1tico a la Casa Blanca, pero la Tierra ha sido invadida y te toca a ti salvarla con un arsenal de superpoderes y extra\u00f1as armas en el juego de mundo abierto m\u00e1s alocado de la historia.",
          "Desde": "2022/12/08",
@@ -59,6 +79,16 @@
          "URL": "https://store.epicgames.com/p/wildcat-gun-machine-c66c4e",
          "IMG": "https://cdn1.epicgames.com/spt-assets/d92266115f8d4d5680562d993435daa5/wildcat-gun-machine-offer-rle9l.jpg",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ball Down Hill by KasperV",
+         "Informacion": "Meta:",
+         "Desde": "",
+         "Hasta": "2022/12/16 00:00",
+         "URL": "https://kasperv.itch.io/ball-down-hill",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -162,6 +192,66 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Crazy Car Parking by Coder5657",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/16 22:00",
+         "URL": "https://coder5657.itch.io/crazy-car-parking",
+         "IMG": "https://img.itch.zone/aW1nLzEwNzU1MjM1LnBuZw==/347x500/HPGfKU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Sword by Coder5657",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/16 22:00",
+         "URL": "https://coder5657.itch.io/the-last-sword",
+         "IMG": "https://img.itch.zone/aW1nLzEwNzU1MTMxLnBuZw==/347x500/rconMm.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Archery by Coder5657",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/16 22:00",
+         "URL": "https://coder5657.itch.io/archey",
+         "IMG": "https://img.itch.zone/aW1nLzEwNDU0OTcyLmpwZw==/347x500/LEtxkK.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Solve the maze by Coder5657",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/16 22:00",
+         "URL": "https://coder5657.itch.io/solve-the-maze",
+         "IMG": "https://img.itch.zone/aW1nLzEwMzk1NDAxLnBuZw==/347x500/nmvGr4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Flappy Bird by Coder5657",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/16 22:00",
+         "URL": "https://coder5657.itch.io/flappy-bird",
+         "IMG": "https://img.itch.zone/aW1nLzk0MjI4NTQucG5n/347x500/vhomds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mario by Coder5657",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/16 22:00",
+         "URL": "https://coder5657.itch.io/mario",
+         "IMG": "https://img.itch.zone/aW1nLzk0MjI4MTYuanBn/347x500/Yecrw4.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "VideoProc Converter License Key Free 2022",
          "Informacion": "VideoProc Converter es el software de procesamiento de video r\u00e1pido No.1 al hacer un uso completo de la aceleraci\u00f3n de GPU de nivel 3. Como una caja de herramientas de video completa, puede editar, convertir y procesar f\u00e1cilmente sus videos 4K. No solo esto, tambi\u00e9n se destaca en la descarga y grabaci\u00f3n de videos.",
          "Desde": "",
@@ -182,6 +272,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Calmed by the Dark RE:iterate by Calmed by the Dark Games",
+         "Informacion": "En toda la ciudad, las personas est\u00e1n siendo secuestradas misteriosamente y nunca m\u00e1s se las vuelve a ver. Eve, la protagonista, solo estaba buscando trabajo y de alguna manera termin\u00f3 descubriendo un mundo extra\u00f1o donde despierta sus poderes y descubre la verdad detr\u00e1s de los secuestros...",
+         "Desde": "",
+         "Hasta": "2022/12/17 04:59",
+         "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-reiterate",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU0NjE5Ny85MDIwODczLnBuZw==/347x500/JjnSqP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "700 Massive Photo Overlays Bundle",
          "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotos cinematogr\u00e1ficas!",
          "Desde": "",
@@ -189,6 +289,16 @@
          "URL": "https://sharewareonsale.com/s/free-700-massive-photo-overlays-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/06/5-min-200x113.jpg?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Life after Death by ASKGAMES",
+         "Informacion": "ADVERTENCIA: Este videojuego puede provocar un ataque de epilepsia fotosensible a las personas que padezcan esta enfermedad. Se recomienda una restricci\u00f3n razonable de la audiencia del juego. NOTA IMPORTANTE: El \u00e9nfasis principal del juego est\u00e1 en el proceso de exploraci\u00f3n, ya que la tensi\u00f3n se acumula lentamente, creando un efecto de presencia a\u00fan m\u00e1s completo y v\u00edvido. ACERCA DE ESTE JUEGO: Tienes una oportunidad de volver al per\u00edodo de la infancia y vivir un per\u00edodo de la vida del personaje principal, Jessy. Un d\u00eda te encontrar\u00e1s en un lugar incomprensible y desconocido, entendiendo que algo anda mal contigo y no recuerdas nada. A medida que progreses, recordar\u00e1s los momentos brillantes de tu vida, superar\u00e1s las fobias que te acompa\u00f1aron, resolver\u00e1s acertijos y tambi\u00e9n comprender\u00e1s por qu\u00e9 terminaste aqu\u00ed y qu\u00e9 te sucedi\u00f3. Necesitas ayudar a Jessy a recrear los eventos que sucedieron antes, conocer a su familia y experimentar todo lo que hizo. - G\u00e9nero \"Walking Simulator\"; - Debes leer las notas con mucho cuidado; - Debes investigar atentamente las ubicaciones y prestar atenci\u00f3n. a los detalles y el entorno. DESCRIPCI\u00d3N DEL CONTENIDO PARA ADULTOS El desarrollador describe el contenido de la siguiente manera: El juego contiene im\u00e1genes realistas de escenas de violencia que pueden tener un impacto negativo en la psique. Algunos elementos de contenido pueden no ser adecuados para ciertos grupos de edad.",
+         "Desde": "",
+         "Hasta": "2022/12/17 19:00",
+         "URL": "https://askgames.itch.io/life-after-death",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ2ODUxNi84NTY3NTI1LnBuZw==/347x500/GIe1Dn.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -218,6 +328,16 @@
          "Hasta": "2022/12/18 07:00",
          "URL": "https://sharewareonsale.com/s/free-pdf-compress-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/05/screen_02-200x150.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "500 Realistic Professional Photo Overlays",
+         "Informacion": "M\u00e1s de 500 superposiciones de fotos realistas es la colecci\u00f3n m\u00e1s grande y diversa de superposiciones en 2022 para verdaderos profesionales. Ahorre un tiempo precioso y domine sus habilidades con m\u00e1s de 500 superposiciones de fotos realistas. Agregue vibraciones suaves y frescas a sus dise\u00f1os.",
+         "Desde": "",
+         "Hasta": "2022/12/18 07:00",
+         "URL": "https://sharewareonsale.com/s/free-500-realistic-professional-photo-overlays-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/500-Professional-Photo-Overlays-Bundle-Image-scaled.jpg?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -772,6 +892,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "For\u00c3\u00aat de nuages by Yeyo.corp",
+         "Informacion": "H I S T O I R A",
+         "Desde": "",
+         "Hasta": "2023/01/01 01:00",
+         "URL": "https://lina-abssi.itch.io/foret-de-nuages",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjcyMzc1LzgyODk1MTAuanBn/347x500/9VmPX2.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Bunny Hill Horror by Krunchy Fried Games",
          "Informacion": "Actualizaci\u00f3n: El cap\u00edtulo final - Bunny Hill Horror: Bunny Boiler, \u00a1ahora en itch.io!",
          "Desde": "",
@@ -798,6 +928,16 @@
          "Hasta": "2023/01/01 01:59",
          "URL": "https://krunchyfriedgames.itch.io/witches-and-bandits-and-swords-oh-my",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg4NTc3Lzg4NDQ4MS5qcGc=/347x500/2Oaqw3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pixel Galaxy by H967",
+         "Informacion": "Una civilizaci\u00f3n pr\u00f3spera (que consiste solo en p\u00edxeles verdes) ha encontrado la v\u00eda l\u00e1ctea. \u00a1Eres el \u00fanico capaz de derrotar a estos p\u00edxeles y recuperar nuestra galaxia antes de que sea destruida!",
+         "Desde": "",
+         "Hasta": "2023/01/01 04:59",
+         "URL": "https://h967.itch.io/pixel-galaxy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ2ODcyNy85MDE1NDU3LnBuZw==/347x500/MpUbCr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -908,6 +1048,26 @@
          "Hasta": "2023/01/08 10:00",
          "URL": "https://hexrae.itch.io/exile",
          "IMG": "https://img.itch.zone/aW1hZ2UvODE3ODgyLzQ1ODY4OTUucG5n/347x500/RO3YRe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Village: Fire Night by David Pires",
+         "Informacion": "Est\u00e1s encerrado en Sea Village nuevamente y debes protegerte contra los fantasmas que intentan atraparte.",
+         "Desde": "",
+         "Hasta": "2023/01/10 17:00",
+         "URL": "https://david-pires.itch.io/sea-village-fire-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc5OTI3NC8xMDcyNzUzMC5qcGc=/347x500/qx%2BnCB.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Village 2 by David Pires",
+         "Informacion": "Est\u00e1s trabajando en Sea Village y tienes que protegerte de los maniqu\u00edes pose\u00eddos que intentan atraparte.",
+         "Desde": "",
+         "Hasta": "2023/01/10 17:00",
+         "URL": "https://david-pires.itch.io/sea-village-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc2MzQ0MS8xMDM5NzExOS5qcGc=/347x500/Lh3m81.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
