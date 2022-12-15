@@ -1291,6 +1291,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 in-page-push.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 jsc.adskeeper.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 majomalonic.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 marlpitbucku.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 methidpossum.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pagead2.googlesyndication.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pervialinagile.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1305,7 +1306,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 umgangrubbler.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.onclickalgo.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 z0000g.yvmads.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 marlpitbucku.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 a.benonblkd.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 a.vdo.ai #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 acacdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
