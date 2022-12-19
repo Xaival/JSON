@@ -1,46 +1,6 @@
 {
-   "date_update": "19 Dec 2022 05:27 UTC",
+   "date_update": "19 Dec 2022 16:14 UTC",
    "values": [
-      {
-         "Nombre": "Audials TV Recorder 2023",
-         "Informacion": "Audials TV Recorder\u00a0combina ver y grabar contenido de TV y podcasts",
-         "Desde": "",
-         "Hasta": "2022/12/19 07:00",
-         "URL": "https://sharewareonsale.com/s/free-audials-tv-recorder-2023-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/amo_seBoxShot@medium.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "E-Cell by b._.render",
-         "Informacion": "Compite por el tiempo m\u00e1s r\u00e1pido. Batir el reloj. no te caigas",
-         "Desde": "",
-         "Hasta": "2022/12/19 07:00",
-         "URL": "https://b-render.itch.io/e-cell",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTU2MS83NTIwMzY4LnBuZw==/347x500/RqKwah.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "HQ GIF Maker",
-         "Informacion": "HQ GIF Maker es perfecto para convertir segmentos de pel\u00edculas a GIF animado y WebP animado.",
-         "Desde": "",
-         "Hasta": "2022/12/19 07:00",
-         "URL": "https://sharewareonsale.com/s/free-hq-gif-maker-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/HQ_GIF_Maker.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Quest In A Castle by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2022/12/19 07:00",
-         "URL": "https://b-render.itch.io/quest-in-a-castle",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwNzk0MS8xMDc3NDgyMC5wbmc=/347x500/fPGzGg.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
       {
          "Nombre": "Fat File Finder",
          "Informacion": "Perfecto para encontrar archivos grandes que ya no usa",
@@ -49,7 +9,7 @@
          "URL": "https://www.bitsdujour.com/software/fat-file-finder/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/fat-file-finder-uvxwu.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Costume Quest 2",
@@ -59,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/costume-quest-2",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day3-wrapped-desktop-carousel-image_1920x1080-064e776fcdc7ff5e14217ca7a0c09614",
          "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Mystery Game",
@@ -69,7 +29,7 @@
          "URL": "https://store.epicgames.com/es-ES/free-games",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day4-wrapped-desktop-carousel-image_1920x1080-9e289d8bde66fe2d36f7720de2db6d30",
          "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Escape the Void by asbux",
@@ -79,7 +39,7 @@
          "URL": "https://asbux.itch.io/escape-the-void",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NDc3Mi8xMDEzODQzNi5naWY=/347x500/IWs4zH.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Alien Infiltration by 17-09Studio",
@@ -89,7 +49,7 @@
          "URL": "https://17-09studio.itch.io/alien-infiltration",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMzg1NC83Njk4NTA2LmpwZw==/347x500/5VUAUL.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Dark Bot (new update) by 17-09Studio",
@@ -99,7 +59,7 @@
          "URL": "https://17-09studio.itch.io/dark-bot",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA2NTYwOS82MzY4NjAzLmpwZw==/347x500/DgacI%2B.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "factory box(new update) by 17-09Studio",
@@ -109,7 +69,7 @@
          "URL": "https://17-09studio.itch.io/factory-box",
          "IMG": "https://img.itch.zone/aW1hZ2UvODEzNzQ5LzQ1NjMzMzMuanBn/347x500/Gwkfh8.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "House Thief by 17-09Studio",
@@ -119,7 +79,7 @@
          "URL": "https://17-09studio.itch.io/house-thief",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTU2Mjg0LzU0MjIwMjIuanBn/347x500/nnTfmW.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Mouse Maze Escape by 17-09Studio",
@@ -129,7 +89,7 @@
          "URL": "https://17-09studio.itch.io/mouse-maze-escape",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTAyNzMwMC81ODU5NjM0LmdpZg==/347x500/RcwPxu.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Pop Caps!!! by 17-09Studio",
@@ -139,7 +99,7 @@
          "URL": "https://17-09studio.itch.io/pop-caps",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTE0OTU5LzUxNzI1NzMuanBn/347x500/a%2Btvwk.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "PREVENT RIOT by 17-09Studio",
@@ -149,7 +109,7 @@
          "URL": "https://17-09studio.itch.io/prevent-riot",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTEyNjY1NC82NTIyNzE2LmpwZw==/347x500/OM3h25.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "without oxygen by 17-09Studio",
@@ -159,7 +119,17 @@
          "URL": "https://17-09studio.itch.io/without-oxygen",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5MTIzMC84NjkzODY3LnBuZw==/347x500/PpqGBb.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
+      },
+      {
+         "Nombre": "Cinch Audio Recorder",
+         "Informacion": "Cinch Audio Recorder es una grabadora de audio inteligente que genera la mejor calidad de sonido para usted. Todo lo que tiene que hacer es hacer clic en el bot\u00f3n `Grabar` y el resto del proceso de grabaci\u00f3n de audio se realizar\u00e1 autom\u00e1ticamente.",
+         "Desde": "",
+         "Hasta": "2022/12/20 07:00",
+         "URL": "https://sharewareonsale.com/s/free-cinch-audio-recorder-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/04/screenshot-recording-1-624x397-200x127.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Photo Watermark Software License Key Free",
@@ -252,6 +222,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "WPS Office Premium",
+         "Informacion": "WPS Office es un paquete de oficina todo en uno para ver y editar m\u00faltiples tipos de archivos, incluidos PDF, Word, Excel, PowerPoint y formularios. Tambi\u00e9n proporciona funciones como almacenamiento en la nube, biblioteca de plantillas y uso compartido. Compatible con Microsoft Office 365 (Word, Excel, PowerPoint y TXT), WPS Office admite formatos de archivo populares como XLS, XLSX, DOC, DOCX, RTF, TXT, PPT y PPTX. Tambi\u00e9n es compatible con Google Docs, Google Sheets, Google Slides, Adobe PDF, PDF Reader, Xodo PDF, OfficeSuite, OpenOffice, LibreOffice y FreeOffice. Adem\u00e1s, WPS Office funciona perfectamente con Google Classroom, Zoom, Slack y Google Drive. Acceda a varias funciones de WPS Office en m\u00faltiples dispositivos, puede transferir sus documentos f\u00e1cilmente a dispositivos m\u00f3viles. WPS Office le permite editar archivos PDF escaneados, editar diapositivas, convertir hojas de c\u00e1lculo o ver documentos en cualquier momento y en cualquier lugar.",
+         "Desde": "",
+         "Hasta": "2022/12/21 07:00",
+         "URL": "https://sharewareonsale.com/s/free-wps-office-premium-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/slider_1.30deba1.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "JixiPix Spektrel Art License Key for Free",
          "Informacion": "JixiPix Spektrel Art es una herramienta de edici\u00f3n de fotos que le permite cambiar la nitidez de sus im\u00e1genes para resaltar texturas y llamar la atenci\u00f3n del usuario. Viene con opciones de brillo que agregan bordes coloridos y pinceles para suavizar o eliminar el efecto para crear algo salvaje, brillante con vida y espacios coloridos.",
          "Desde": "",
@@ -262,14 +242,14 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Advanced SystemCare 16 PRO",
-         "Informacion": "\u00a1El optimizador de PC con tecnolog\u00eda de IA que necesita para liberar espacio en disco, acelerar la PC y proteger la privacidad en l\u00ednea!",
-         "Desde": "",
-         "Hasta": "2022/12/22 07:00",
-         "URL": "https://sharewareonsale.com/s/advanced-systemcare-pro-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/asc_boxshot-2.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Nombre": "Them's Fightin' Herds",
+         "Informacion": "Them\u2019s Fightin\u2019 Herds is a 2D fighting game featuring a cast of adorable animals designed by acclaimed cartoon producer Lauren Faust. Beneath the cute and cuddly surface, a serious fighter awaits!",
+         "Desde": "2022/12/20",
+         "Hasta": "2022/12/21 17:00",
+         "URL": "https://store.epicgames.com/p/thems-fightin-herds",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day5-wrapped-desktop-carousel-image_1920x1080-9ad0950e0a6c590cc37e8d036ace846b",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "700 Massive Photo Overlays Bundle",
@@ -278,6 +258,16 @@
          "Hasta": "2022/12/22 07:00",
          "URL": "https://sharewareonsale.com/s/free-700-massive-photo-overlays-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/06/5-min-200x113.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Advanced SystemCare 16 PRO",
+         "Informacion": "\u00a1El optimizador de PC con tecnolog\u00eda de IA que necesita para liberar espacio en disco, acelerar la PC y proteger la privacidad en l\u00ednea!",
+         "Desde": "",
+         "Hasta": "2022/12/22 07:00",
+         "URL": "https://sharewareonsale.com/s/advanced-systemcare-pro-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/asc_boxshot-2.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -379,6 +369,16 @@
          "URL": "https://johndo21.itch.io/dijon-gameboy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTgxMjY1My8xMDY1MDM1Ni5qcGc=/347x500/cQSWfS.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "500 Realistic Professional Photo Overlays",
+         "Informacion": "M\u00e1s de 500 superposiciones de fotos realistas es la colecci\u00f3n m\u00e1s grande y diversa de superposiciones en 2022 para verdaderos profesionales. Ahorre un tiempo precioso y domine sus habilidades con m\u00e1s de 500 superposiciones de fotos realistas. Agregue vibraciones suaves y frescas a sus dise\u00f1os.",
+         "Desde": "",
+         "Hasta": "2022/12/25 07:00",
+         "URL": "https://sharewareonsale.com/s/free-500-realistic-professional-photo-overlays-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/500-Professional-Photo-Overlays-Bundle-Image-scaled.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -782,6 +782,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BadGuy's Melee by BuilderManX",
+         "Informacion": "Es un lugar de aventuras BadGuy's Escape to Comodo es un juego en el que exploras una isla metropolitana de misterio, asumes el papel de un villano con superpoderes que busca el camino de regreso a Comodo. Puede explorar una gran variedad de paisajes urbanos, incluidos oc\u00e9anos, monta\u00f1as, ciudades y pueblos generados por procedimientos. Para ayudarte en tu b\u00fasqueda, Escape to Comodo incluye una variedad de superpoderes y autos para ayudar a mejorar la experiencia de juego de roles. Los jugadores tambi\u00e9n pueden construir su propia historia, elegir entre cientos de opciones y personalizar su personaje con diferentes estilos de movimiento. Cuando te aventuras en una misi\u00f3n, puedes elegir conducir, explorar o caminar a trav\u00e9s de una tierra casi infinita.",
+         "Desde": "",
+         "Hasta": "2022/12/31 08:00",
+         "URL": "https://buildermanx.itch.io/badguys-escape-to-comodo-melee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjI1Ny84MTQ2NTk4LnBuZw==/347x500/%2BHrJA2.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Intergalactic Space Patrol V1.6 *UPDATED* by BuilderManX",
          "Informacion": "Esta es la patrulla de la nave estelar ISP Venture nuestra misi\u00f3n de 5 minutos es ser una entretenida parodia de la ciencia ficci\u00f3n y el control corporativo moderno de TODO. Ven y disfruta de este juego de aventuras h\u00edbridas de simulaci\u00f3n espacial mientras criticamos las partes m\u00e1s rid\u00edculas del g\u00e9nero que amamos.",
          "Desde": "",
@@ -808,16 +818,6 @@
          "Hasta": "2022/12/31 08:00",
          "URL": "https://buildermanx.itch.io/spooksmashers",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjYyMi85Nzc2OTc1LnBuZw==/347x500/Y1UiIE.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "BadGuy's Melee by BuilderManX",
-         "Informacion": "Es un lugar de aventuras BadGuy's Escape to Comodo es un juego en el que exploras una isla metropolitana de misterio, asumes el papel de un villano con superpoderes que busca el camino de regreso a Comodo. Puede explorar una gran variedad de paisajes urbanos, incluidos oc\u00e9anos, monta\u00f1as, ciudades y pueblos generados por procedimientos. Para ayudarte en tu b\u00fasqueda, Escape to Comodo incluye una variedad de superpoderes y autos para ayudar a mejorar la experiencia de juego de roles. Los jugadores tambi\u00e9n pueden construir su propia historia, elegir entre cientos de opciones y personalizar su personaje con diferentes estilos de movimiento. Cuando te aventuras en una misi\u00f3n, puedes elegir conducir, explorar o caminar a trav\u00e9s de una tierra casi infinita.",
-         "Desde": "",
-         "Hasta": "2022/12/31 08:00",
-         "URL": "https://buildermanx.itch.io/badguys-escape-to-comodo-melee",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjI1Ny84MTQ2NTk4LnBuZw==/347x500/%2BHrJA2.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1002,6 +1002,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Piki Piki by TwigWallder",
+         "Informacion": "Historia:",
+         "Desde": "",
+         "Hasta": "2023/01/01 01:00",
+         "URL": "https://twigwallder.itch.io/piki-piki",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgyOTgwMy8xMDczOTQ4OS5naWY=/347x500/lfC1Hr.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Handheld Game Console Encyclopedia vol.2 by DaddaRuleKonge",
          "Informacion": "El libro/PDF cubre las consolas de juegos port\u00e1tiles; Microvision, Adventure Vision, Colorvision, Supervision y R-Zone.",
          "Desde": "",
@@ -1018,16 +1028,6 @@
          "Hasta": "2023/01/01 01:00",
          "URL": "https://pinou007.itch.io/paper",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Piki Piki by TwigWallder",
-         "Informacion": "Historia:",
-         "Desde": "",
-         "Hasta": "2023/01/01 01:00",
-         "URL": "https://twigwallder.itch.io/piki-piki",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgyOTgwMy8xMDczOTQ4OS5naWY=/347x500/lfC1Hr.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1212,6 +1212,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "FlyBallRace by awbmegames",
+         "Informacion": "Carrera de bolas con 6 niveles con diferentes entornos con gr\u00e1ficos realistas y efectos geniales y diferentes colores de bolas. Est\u00e1 disponible tanto para Windows como para Android y Mac.",
+         "Desde": "",
+         "Hasta": "2023/01/05 20:00",
+         "URL": "https://awbmegames.itch.io/flyballrace",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc4ODA2NC8xMDUwNzg4NS5wbmc=/347x500/56pv%2Fl.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Peephole by bitlxn, Onyx2130, Sweeveee",
          "Informacion": "\"Hay monstruos por ah\u00ed, pero no siempre son lo que piensas\"",
          "Desde": "",
@@ -1228,16 +1238,6 @@
          "Hasta": "2023/01/05 20:00",
          "URL": "https://sharpiii.itch.io/trapped-with-demon",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcxODg5MS8xMDEyNjg3Ny5wbmc=/347x500/joFnMh.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "FlyBallRace by awbmegames",
-         "Informacion": "Carrera de bolas con 6 niveles con diferentes entornos con gr\u00e1ficos realistas y efectos geniales y diferentes colores de bolas. Est\u00e1 disponible tanto para Windows como para Android y Mac.",
-         "Desde": "",
-         "Hasta": "2023/01/05 20:00",
-         "URL": "https://awbmegames.itch.io/flyballrace",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc4ODA2NC8xMDUwNzg4NS5wbmc=/347x500/56pv%2Fl.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1689,6 +1689,16 @@
          "URL": "https://store.epicgames.com/p/sable",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day4-wrapped-desktop-carousel-image_1920x1080-a829790d1039cbb5579dd72a4b1ec1d6",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Broken Sword: Director's Cut",
+         "Informacion": "Descubre la identidad de un buf\u00f3n asesino. Desbloquea la leyenda de los Caballeros Templarios. Desentra\u00f1a una trama tan retorcida como las catacumbas que est\u00e1s a punto de merodear. En el papel de George Stobbart, un estadounidense en Par\u00eds, te resulta extra\u00f1o cuando un payaso que toca el acorde\u00f3n sale disparado de un caf\u00e9 con un malet\u00edn en la mano. Momentos despu\u00e9s...",
+         "Desde": "",
+         "Hasta": "2747/11/29 07:00",
+         "URL": "https://www.gog.com/en/game/broken_sword_directors_cut",
+         "IMG": "https://images.gog-statics.com/5b0d3da8074c8dafb7c129fe4eac9feb47dce1f15fcaa325c1b420e21adc4273.jpg",
+         "Distribuidora": "GOG",
          "Borde": "border-color: #00ff00;"
       },
       {
