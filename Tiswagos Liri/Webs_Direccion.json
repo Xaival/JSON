@@ -1,5 +1,5 @@
 {
-   "date_update": "20 Dec 2022 16:54 UTC",
+   "date_update": "20 Dec 2022 19:08 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3089,6 +3089,21 @@
          "Direccion": "0.0.0.0 expertsofty.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 fallstring.website #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 ebbaybrinmacake.tk #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 factor1right.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 big-loads.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 nu-due.xyz #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 andthisannoun.xyz #AntiSpam"
       },
       {
@@ -3591,6 +3606,9 @@
       },
       {
          "Direccion": "0.0.0.0 raw.githack.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 cdn.jsdelivr.net #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.varietyofdisplayformats.com #AntiSpam"
