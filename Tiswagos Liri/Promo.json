@@ -1,136 +1,6 @@
 {
-   "date_update": "19 Dec 2022 16:14 UTC",
+   "date_update": "20 Dec 2022 16:55 UTC",
    "values": [
-      {
-         "Nombre": "Fat File Finder",
-         "Informacion": "Perfecto para encontrar archivos grandes que ya no usa",
-         "Desde": "",
-         "Hasta": "2022/12/19 09:00",
-         "URL": "https://www.bitsdujour.com/software/fat-file-finder/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/fat-file-finder-uvxwu.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Costume Quest 2",
-         "Informacion": "Explore spooky time-traversing landscapes, don adorable new costumes that transform into powerful Hallo-warriors, and collect even Creepier Treat Cards to wield in combat against a legion of hygiene obsessed baddies.",
-         "Desde": "2022/12/18",
-         "Hasta": "2022/12/19 17:00",
-         "URL": "https://store.epicgames.com/p/costume-quest-2",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day3-wrapped-desktop-carousel-image_1920x1080-064e776fcdc7ff5e14217ca7a0c09614",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Mystery Game",
-         "Informacion": "Mystery Game (Day 4)",
-         "Desde": "2022/12/18",
-         "Hasta": "2022/12/19 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day4-wrapped-desktop-carousel-image_1920x1080-9e289d8bde66fe2d36f7720de2db6d30",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Escape the Void by asbux",
-         "Informacion": "Escape the void es un p\u00edcaro de acci\u00f3n en 2D en el que luchas contra oleadas de enemigos y jefes y usas sus almas verdes para abrir cofres y obtener elementos poderosos que te hacen fuerte y tal vez solo tal vez escapar del vac\u00edo.",
-         "Desde": "",
-         "Hasta": "2022/12/19 22:00",
-         "URL": "https://asbux.itch.io/escape-the-void",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NDc3Mi8xMDEzODQzNi5naWY=/347x500/IWs4zH.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Alien Infiltration by 17-09Studio",
-         "Informacion": "\u00a1\u00a1Disponible ahora!!",
-         "Desde": "",
-         "Hasta": "2022/12/20 05:00",
-         "URL": "https://17-09studio.itch.io/alien-infiltration",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyMzg1NC83Njk4NTA2LmpwZw==/347x500/5VUAUL.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Dark Bot (new update) by 17-09Studio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2022/12/20 05:00",
-         "URL": "https://17-09studio.itch.io/dark-bot",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA2NTYwOS82MzY4NjAzLmpwZw==/347x500/DgacI%2B.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "factory box(new update) by 17-09Studio",
-         "Informacion": "17/09 Estudio",
-         "Desde": "",
-         "Hasta": "2022/12/20 05:00",
-         "URL": "https://17-09studio.itch.io/factory-box",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODEzNzQ5LzQ1NjMzMzMuanBn/347x500/Gwkfh8.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "House Thief by 17-09Studio",
-         "Informacion": "Un juego en el que deber\u00e1s demostrar tus habilidades para que no te descubran mientras entras a robar, \u00bfpodr\u00edas ser el mejor ladr\u00f3n del mundo?",
-         "Desde": "",
-         "Hasta": "2022/12/20 05:00",
-         "URL": "https://17-09studio.itch.io/house-thief",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTU2Mjg0LzU0MjIwMjIuanBn/347x500/nnTfmW.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Mouse Maze Escape by 17-09Studio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2022/12/20 05:00",
-         "URL": "https://17-09studio.itch.io/mouse-maze-escape",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTAyNzMwMC81ODU5NjM0LmdpZg==/347x500/RcwPxu.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Pop Caps!!! by 17-09Studio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2022/12/20 05:00",
-         "URL": "https://17-09studio.itch.io/pop-caps",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTE0OTU5LzUxNzI1NzMuanBn/347x500/a%2Btvwk.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "PREVENT RIOT by 17-09Studio",
-         "Informacion": "Disponible ahora",
-         "Desde": "",
-         "Hasta": "2022/12/20 05:00",
-         "URL": "https://17-09studio.itch.io/prevent-riot",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTEyNjY1NC82NTIyNzE2LmpwZw==/347x500/OM3h25.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "without oxygen by 17-09Studio",
-         "Informacion": "Juego de plataformas, de la vieja escuela,",
-         "Desde": "",
-         "Hasta": "2022/12/20 05:00",
-         "URL": "https://17-09studio.itch.io/without-oxygen",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5MTIzMC84NjkzODY3LnBuZw==/347x500/PpqGBb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Cinch Audio Recorder",
-         "Informacion": "Cinch Audio Recorder es una grabadora de audio inteligente que genera la mejor calidad de sonido para usted. Todo lo que tiene que hacer es hacer clic en el bot\u00f3n `Grabar` y el resto del proceso de grabaci\u00f3n de audio se realizar\u00e1 autom\u00e1ticamente.",
-         "Desde": "",
-         "Hasta": "2022/12/20 07:00",
-         "URL": "https://sharewareonsale.com/s/free-cinch-audio-recorder-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/04/screenshot-recording-1-624x397-200x127.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
       {
          "Nombre": "Photo Watermark Software License Key Free",
          "Informacion": "Watermark Software es un software fotogr\u00e1fico todo en uno, que se enfoca en salvaguardar los derechos de autor de las fotos mediante la aplicaci\u00f3n por lotes de firmas, marcas de agua de im\u00e1genes con unos pocos clics. Admite Mosaic, Bokeh y otros cientos de efectos.",
@@ -139,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/license-code-photo-watermark-software/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/photo-watermark-software-giveaway-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
       },
       {
          "Nombre": "Ball Down Hill by KasperV",
@@ -149,7 +19,7 @@
          "URL": "https://kasperv.itch.io/ball-down-hill",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "The Simple Life by KasperV",
@@ -159,7 +29,7 @@
          "URL": "https://kasperv.itch.io/the-simple-life",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "1943 by Notmessyouself",
@@ -169,7 +39,7 @@
          "URL": "https://notmessyouself.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Notmessyouself",
@@ -179,7 +49,7 @@
          "URL": "https://notmessyouself.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "The backrooms by Notmessyouself",
@@ -189,7 +59,7 @@
          "URL": "https://notmessyouself.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Audials Radio 2023",
@@ -199,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-audials-radio-2023-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/ara_seBoxShot@medium.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "BASIC 22",
@@ -209,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/abylon-basic-giveaway-coupon-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/12/basic-154x200.jpg?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Game Fire Pro",
@@ -219,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-game-fire-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/07/Game_Fire1-1-200x152.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "WPS Office Premium",
@@ -229,6 +99,16 @@
          "URL": "https://sharewareonsale.com/s/free-wps-office-premium-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/slider_1.30deba1.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "RecoverXData - Data Recovery Software (1 Year License)",
+         "Informacion": "Recuperar datos perdidos y eliminados en almacenamiento interno y externo",
+         "Desde": "",
+         "Hasta": "2022/12/21 09:00",
+         "URL": "https://www.bitsdujour.com/software/recoverxdata-data-recovery-software-1-year-license/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/recoverxdata-data-recovery-software-1-year-license-9zbis.png",
+         "Distribuidora": "BitsDuJour",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -249,7 +129,7 @@
          "URL": "https://store.epicgames.com/p/thems-fightin-herds",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day5-wrapped-desktop-carousel-image_1920x1080-9ad0950e0a6c590cc37e8d036ace846b",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "700 Massive Photo Overlays Bundle",
@@ -268,6 +148,26 @@
          "Hasta": "2022/12/22 07:00",
          "URL": "https://sharewareonsale.com/s/advanced-systemcare-pro-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/asc_boxshot-2.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mystery Game",
+         "Informacion": "Mystery Game (Day 7)",
+         "Desde": "2022/12/21",
+         "Hasta": "2022/12/22 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day7-wrapped-desktop-carousel-image_1920x1080-96c98f39545940978aa0cbd91cb1fe7e",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Ashampoo Soundstage 2020",
+         "Informacion": "Convierta los auriculares normales en un sistema de sonido envolvente con su PC",
+         "Desde": "",
+         "Hasta": "2022/12/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-soundstage-2020-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/05/boxshot-6-200x200.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -382,6 +282,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Audials TV Recorder 2023",
+         "Informacion": "Audials TV Recorder\u00a0combina ver y grabar contenido de TV y podcasts",
+         "Desde": "",
+         "Hasta": "2022/12/25 07:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-tv-recorder-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/amo_seBoxShot@medium.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
          "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
          "Desde": "",
@@ -492,12 +402,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Assassin at Crimson Keep by ShadowGlass",
+         "Informacion": "\u00a1Actualizaci\u00f3n gratuita pr\u00f3ximamente! \u00a1Arte nuevo y actualizado (como la foto del t\u00edtulo anterior), nuevas escenas, nuevas trampas y un nuevo final!",
+         "Desde": "",
+         "Hasta": "2022/12/28 09:59",
+         "URL": "https://shadowglass.itch.io/assassin-at-crimson-keep",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxMDEwOS8xMDgwNTYyNi5wbmc=/347x500/QNELr8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Glidey - Minimalist brain teasing puzzles by Aboubakrsbt",
          "Informacion": "Glidey es un juego de rompecabezas alucinante con desaf\u00edos l\u00f3gicos que te molestar\u00e1n. Glidey es un rompecabezas minimalista con un juego simple pero adictivo junto con una banda sonora relajante y efectos de sonido que seguramente te ayudar\u00e1n a relajarte y concentrarte. El objetivo de este juego de rompecabezas est\u00e1 guiando una peque\u00f1a bola llamada Glidey hacia la puerta simplemente girando algunos objetos y obst\u00e1culos en el camino PERO no es tan f\u00e1cil... cada objeto y obst\u00e1culo tiene su propia habilidad \u00fanica... que crear\u00e1 un rompecabezas desafiante a veces dif\u00edcil pero definitivamente agradable. .As\u00ed que simplemente toque para rotar el objeto creando un camino para Glidey hacia la puerta o, de lo contrario, se alejar\u00e1 del objetivo y perder\u00e1 el juego y comenzar\u00e1 el nivel nuevamente.Con 75 niveles hechos a mano que contienen obst\u00e1culos, bloques, portales junto con m\u00fasica relajante y sin distracciones, Glidey definitivamente te brindar\u00e1 una experiencia inolvidable. A veces, debes pensar muchos pasos antes de lanzar la pelota, por lo que necesitar\u00e1s un buen tiempo. mory por eso tambi\u00e9n! Entonces, para completar todos los niveles, deber\u00e1 desarrollar una estrategia, tener un pensamiento l\u00f3gico y una buena memoria. Glidey le dar\u00e1 acertijos, acertijos l\u00f3gicos alucinantes que desafiar\u00e1n su mente y le dar\u00e1n satisfacci\u00f3n una vez que complete cada uno. \u00a1\u00a1nivel!!",
          "Desde": "",
          "Hasta": "2022/12/29 01:00",
          "URL": "https://aboubakrsbt.itch.io/glidey",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjkxMzkyLzM4MTIyODYucG5n/347x500/rMhMf4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Sword by Coder5657",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2022/12/29 22:00",
+         "URL": "https://coder5657.itch.io/the-last-sword",
+         "IMG": "https://img.itch.zone/aW1nLzEwNzU1MTMxLnBuZw==/347x500/rconMm.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1699,6 +1629,16 @@
          "URL": "https://www.gog.com/en/game/broken_sword_directors_cut",
          "IMG": "https://images.gog-statics.com/5b0d3da8074c8dafb7c129fe4eac9feb47dce1f15fcaa325c1b420e21adc4273.jpg",
          "Distribuidora": "GOG",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wolfenstein: The New Order",
+         "Informacion": "Wolfenstein\u00ae: The New Order reignites the series that created the first-person shooter genre. Set against a backdrop of an alternate 1960s, discover an unfamiliar world ruled by a familiar enemy\u2014one that has changed and twisted history as you know it.",
+         "Desde": "",
+         "Hasta": "2747/11/29 07:00",
+         "URL": "https://store.epicgames.com/p/wolfenstein-the-new-order",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day6-wrapped-desktop-carousel-image1_1920x1080-34e06f4262434459dc9f4d9916d6e6bf",
+         "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
       },
       {
