@@ -1,5 +1,5 @@
 {
-   "date_update": "22 Dec 2022 23:49 UTC",
+   "date_update": "23 Dec 2022 13:20 UTC",
    "values": [
       {
          "Nombre": "Ashampoo Soundstage 2020",
@@ -9,17 +9,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-soundstage-2020-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/05/boxshot-6-200x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "NEAT projects",
-         "Informacion": "Eliminar objetos en movimiento de las fotos",
-         "Desde": "",
-         "Hasta": "2022/12/23 09:00",
-         "URL": "https://www.bitsdujour.com/software/neat-projects/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/neat-projects-hdozh.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
       },
       {
          "Nombre": "Fallout 2: A Post Nuclear Role Playing Game",
@@ -29,7 +19,17 @@
          "URL": "https://store.epicgames.com/p/fallout-2",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day8-wrapped-desktop-carousel-image2_1920x1080-cc29b1f571da81599731b70c4c707648",
          "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
+      },
+      {
+         "Nombre": "NEAT projects",
+         "Informacion": "Eliminar objetos en movimiento de las fotos",
+         "Desde": "",
+         "Hasta": "2022/12/23 09:00",
+         "URL": "https://www.bitsdujour.com/software/neat-projects/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/neat-projects-hdozh.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "LEGO\u00ae Builder's Journey",
@@ -39,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/lego-builders-journey",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day7-wrapped-desktop-carousel-image1_1920x1080-b038ba02f28c8155ed78a442b2720f1b",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
       },
       {
          "Nombre": "Counter Aim:  Brutal Offensive by Dankoff, CounterAim series",
@@ -49,7 +49,7 @@
          "URL": "https://dankoff.itch.io/counter-aim",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTQ3MTI0LzUzNjkwNTQucG5n/347x500/v3Rqk%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Counter Aim: New Operation by Dankoff, CounterAim series",
@@ -59,7 +59,7 @@
          "URL": "https://dankoff.itch.io/counter-aim-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA5OTk1Ni82MzQ4NjE0LnBuZw==/347x500/Uuqc%2BB.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Cubes And More Cubes (Logic game) by Dankoff",
@@ -69,7 +69,7 @@
          "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Track racing battle simulator by Dankoff",
@@ -79,7 +79,7 @@
          "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "AVS Video ReMaker License Key for Free 2022",
@@ -89,7 +89,7 @@
          "URL": "https://giveaway.tickcoupon.com/avs-video-remaker-free-license-code/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/05/avs-video-remaker-giveaway-license-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Ball Down Hill by KasperV",
@@ -99,7 +99,7 @@
          "URL": "https://kasperv.itch.io/ball-down-hill",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "The Simple Life by KasperV",
@@ -109,7 +109,7 @@
          "URL": "https://kasperv.itch.io/the-simple-life",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Balls Conquers by FuryAssets",
@@ -119,7 +119,7 @@
          "URL": "https://furyassets.itch.io/balls-conquers",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTgzNjY1NC8xMDc3ODYwOC5qcGc=/347x500/rfeMW6.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "GiMeSpace Keyboard & Mouse Share",
@@ -169,7 +169,7 @@
          "URL": "https://store.epicgames.com/p/fallout-tactics-brotherhood-of-steel",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day8-wrapped-desktop-carousel-image2_1920x1080-cc29b1f571da81599731b70c4c707648",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Fallout: A Post Nuclear Role Playing Game",
@@ -179,7 +179,7 @@
          "URL": "https://store.epicgames.com/p/fallout",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day8-wrapped-desktop-carousel-image2_1920x1080-cc29b1f571da81599731b70c4c707648",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Sky Lab Defender by KasperV",
