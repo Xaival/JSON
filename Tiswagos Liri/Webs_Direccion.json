@@ -1,14 +1,11 @@
 {
-   "date_update": "23 Dec 2022 18:14 UTC",
+   "date_update": "24 Dec 2022 14:34 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 23.109.87.27 #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 holdsoutset.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
@@ -63,6 +60,9 @@
       },
       {
          "Direccion": "0.0.0.0 hilarion-lar.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 holdsoutset.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 hsojdgskgos.ml #AntiSpam"
@@ -3149,9 +3149,6 @@
          "Direccion": "0.0.0.0 lx.xfffx.xyz #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 adblockersentinel.info #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 2050.one #AntiSpam"
       },
       {
@@ -3177,6 +3174,9 @@
       },
       {
          "Direccion": "0.0.0.0 adblockersentinel.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 adblockersentinel.info #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 adblockervideo.com #AntiSpam"
