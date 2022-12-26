@@ -1,5 +1,5 @@
 {
-   "date_update": "26 Dec 2022 19:41 UTC",
+   "date_update": "26 Dec 2022 19:42 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -90,6 +90,9 @@
       },
       {
          "Direccion": "0.0.0.0 owenexposure.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 akevuz.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 parkingridiculous.com #AntiSpam"
@@ -3384,6 +3387,9 @@
       },
       {
          "Direccion": "0.0.0.0 www.mobile.kinman.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 dropthesepacksall.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.viubank.com #AntiSpam"
