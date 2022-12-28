@@ -1,26 +1,6 @@
 {
-   "date_update": "28 Dec 2022 00:58 UTC",
+   "date_update": "28 Dec 2022 01:55 UTC",
    "values": [
-      {
-         "Nombre": "DEATH STRANDING",
-         "Informacion": "As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. ",
-         "Desde": "2022/12/26",
-         "Hasta": "2022/12/27 17:00",
-         "URL": "https://store.epicgames.com/p/death-stranding",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day11-wrapped-desktop-carousel-image1_1920x1080-68e36a4cd78c379046f4af800e075edc",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 100%, yellow 100%) 1;"
-      },
-      {
-         "Nombre": "Mystery Game",
-         "Informacion": "Mystery Game (Day 12)",
-         "Desde": "2022/12/26",
-         "Hasta": "2022/12/27 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day12-wrapped-desktop-carousel-image_1920x1080-6d7b616222043d04544000f26181b9dd",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 100%, yellow 100%) 1;"
-      },
       {
          "Nombre": "The strange case of Walter Donovan by Girl in Red Games",
          "Informacion": "Juego inspirado en Zork. / Juego inspirado en Zork.",
@@ -29,7 +9,7 @@
          "URL": "https://girl-in-red-games.itch.io/the-strange-case-of-walter-donovan",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA2MzU2NS85NjQ3MjQwLnBuZw==/347x500/mBp2Ox.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 91%, yellow 91%) 1;"
       },
       {
          "Nombre": "AOMEI FoneTool Professional 1-Year Key Free",
@@ -39,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-fonetool-professional-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/04/aomei-fonetool-professional-free-license-key-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "AOMEI Partition Assistant Professional License Key Free",
@@ -49,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-partition-assistant-professional-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2020/11/AOMEI-Partition-Assistant-Professional-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "DoYourData Uninstaller Pro License Key Free Giveaway",
@@ -59,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/doyourdata-uninstaller-pro-license-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/12/doyourdata-uninstaller-pro-screenshot-2022.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "iTop Screen Recorder PRO Free License Key",
@@ -69,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/itop-screen-recorder-pro-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/09/itop-screen-recorder-pro-giveaway-free-license.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "SwifDoo PDF Pro License Key for Free 2022",
@@ -79,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/swifdoo-pdf-pro-free-license-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/07/SwifDoo-Pro-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Allavsoft Video Downloader Registration Code Free",
@@ -89,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/allavsoft-free-license-key-lifetime/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/12/allavsoft-for-windows-giveaway-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
       },
       {
          "Nombre": "Allavsoft",
@@ -99,7 +79,7 @@
          "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allavsoft-2-2nbl5.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "Assassin at Crimson Keep by ShadowGlass",
@@ -109,7 +89,7 @@
          "URL": "https://shadowglass.itch.io/assassin-at-crimson-keep",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIxMDEwOS8xMDgwNTYyNi5wbmc=/347x500/QNELr8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "AOMEI Backupper Professional Free License Key",
@@ -119,7 +99,7 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-backupper-professional-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/05/AOMEI-Backupper-Professional-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "Video Watermark Pro License Key Free Download",
@@ -129,7 +109,7 @@
          "URL": "https://giveaway.tickcoupon.com/video-watermark-pro-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2020/09/Video-Watermark-Pro-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "Photo Watermark Software License Key Free",
@@ -139,7 +119,7 @@
          "URL": "https://giveaway.tickcoupon.com/license-code-photo-watermark-software/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/01/photo-watermark-software-giveaway-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "Vovsoft Text Edit Plus License Key for Free Full Version",
@@ -149,7 +129,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-text-edit-plus-free-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/02/vovsoft-text-edit-plus-screenshot-giveaway-2022.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "WonderFox Video Watermark Free License Key",
@@ -159,7 +139,7 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-video-watermark-giveaway/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/05/wonderfox-video-watermark-add-watermark.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "VideoProc Converter License Key Free 2022",
@@ -169,7 +149,7 @@
          "URL": "https://giveaway.tickcoupon.com/videoproc-converter-full-license-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/09/videoproc-converter-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "F.I.S.T.: Forged In Shadow Torch",
@@ -179,7 +159,7 @@
          "URL": "https://store.epicgames.com/p/fist-forged-in-shadow-torch",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day12-wrapped-desktop-carousel-image1_1920x1080-d7452e091aa286dad369e66bbac8cd2d",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "AllMyNotes Organizer Deluxe License Key for Free",
