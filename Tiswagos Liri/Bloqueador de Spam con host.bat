@@ -63,6 +63,8 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 23.109.87.27 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 886.novitrk6.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 accordaudienceeducational.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 jaavnacsdw.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 aeffe3nhrua5hua.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bilqi-omv.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 challengecircuit.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 chirppronounceaccompany.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -158,6 +160,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 bawlerhanoi.website #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 beshucklean.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bestgamesvault.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 bestmatchproduce.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 beta-news.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 BlondieSea.blogspot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 breedwaste.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -331,6 +334,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.pamsg.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.predictiondexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.topcpmnetwork.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 xxxnewvideos.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 xxxs.vip #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sale.aliexpress.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 campaign.aliexpress.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
