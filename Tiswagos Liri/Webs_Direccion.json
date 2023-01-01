@@ -1,5 +1,5 @@
 {
-   "date_update": "30 Dec 2022 19:48 UTC",
+   "date_update": "01 Jan 2023 14:09 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3363,6 +3363,9 @@
       },
       {
          "Direccion": "0.0.0.0 streamblocked.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 supreme-ad-blocker.info #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 supremeadblocker.net #AntiSpam"
