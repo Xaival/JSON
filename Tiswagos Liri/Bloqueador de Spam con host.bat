@@ -65,6 +65,8 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 accordaudienceeducational.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 aeffe3nhrua5hua.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bilqi-omv.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 reposemarshknot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 rosyruffian.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 challengecircuit.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 chirppronounceaccompany.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cleardexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1115,6 +1117,8 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 get-files24.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.freevpn.win #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 lx.xfffx.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 block-ad-easy.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 adblock-pro-download.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 2050.one #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ad-blockerapp.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ad-shield.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1180,6 +1184,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 stop-ad-blocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 stopadblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 streamblocked.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 supreme-ad-blocker.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 supremeadblocker.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ublockpop.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 vid-adblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1358,6 +1363,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 d1ev866ubw90c6.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d2kd9y1bp4zc6.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d2q9y3krdwohfj.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 accidentalinfringementfat.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d2vwl2vhlatm2f.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d301cxwfymy227.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d3j7esvm4tntxq.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
