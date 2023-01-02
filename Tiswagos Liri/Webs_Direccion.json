@@ -1,5 +1,5 @@
 {
-   "date_update": "01 Jan 2023 19:51 UTC",
+   "date_update": "02 Jan 2023 01:44 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3774,6 +3774,15 @@
       },
       {
          "Direccion": "0.0.0.0 gu7socdn.txxx.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 ads.themoneytizer.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 sarcinedewlike.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 snorefamiliarsiege.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 hosupshunk.com #AntiSpam"
