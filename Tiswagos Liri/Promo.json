@@ -1,16 +1,6 @@
 {
-   "date_update": "01 Jan 2023 19:51 UTC",
+   "date_update": "02 Jan 2023 01:44 UTC",
    "values": [
-      {
-         "Nombre": "Choose the cat by Raph88",
-         "Informacion": "El gato es lo mejor, as\u00ed que elige siempre al gato.",
-         "Desde": "",
-         "Hasta": "2023/01/01 16:15",
-         "URL": "https://raph88.itch.io/choose-the-cat",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjEzODA3LzMyNjU3ODcucG5n/347x500/V3flSz.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
-      },
       {
          "Nombre": "Ashampoo Backup 2021",
          "Informacion": "Ashampoo Backup 2021 realiza copias de seguridad y restaura particiones de disco completas, incluidas las instalaciones de arranque de Windows, con solo unos pocos clics. Las actualizaciones autom\u00e1ticas incrementales garantizan que los archivos de copia de seguridad est\u00e9n siempre actualizados y evitan la p\u00e9rdida de datos. La interfaz de usuario fue dise\u00f1ada con la simplicidad en mente y es intuitivamente usable por cualquier persona. Las copias de seguridad siempre se pueden restaurar, incluso en el caso de sistemas altamente corruptos o infestados de ransomware, gracias a una funci\u00f3n de rescate integrada que no requiere conocimientos t\u00e9cnicos. Este software de copia de seguridad se explica por s\u00ed mismo y est\u00e1 optimizado para cubrir las funciones m\u00e1s esenciales, por lo que no hay una curva de aprendizaje. Las copias de seguridad se actualizan de forma autom\u00e1tica e incremental sin necesidad de intervenci\u00f3n manual. La verificaci\u00f3n permanente de archivos garantiza que las copias de seguridad permanezcan libres de errores, mientras que una fuerte compresi\u00f3n garantiza tama\u00f1os de archivo peque\u00f1os. Ashampoo Backup 2021 no solo es excepcionalmente f\u00e1cil de usar, sino tambi\u00e9n incre\u00edblemente ligero en recursos. La recuperaci\u00f3n de archivos es posible mediante el propio programa o mediante un sistema de rescate iniciado desde un medio externo (CD/DVD/BD o unidad flash). Este \u00faltimo es particularmente \u00fatil ya que contin\u00faa funcionando incluso cuando el sistema operativo se corrompi\u00f3 o infest\u00f3 con malware. Adem\u00e1s de la nueva funci\u00f3n de rescate, esta \u00faltima versi\u00f3n tambi\u00e9n incluye numerosas correcciones y ajustes para mejorar la seguridad, la estabilidad y la compatibilidad.",
@@ -19,7 +9,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-2021-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/boxshot-12.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
       },
       {
          "Nombre": "IObit Malware Fighter 10 PRO",
@@ -29,7 +19,7 @@
          "URL": "https://sharewareonsale.com/s/iobit-malware-fighter-pro-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/08/imf_boxshot.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
       },
       {
          "Nombre": "Tim-Tim 2: The Almighty Gnome by Spoonweaver",
@@ -39,7 +29,7 @@
          "URL": "https://spoonweaver.itch.io/tim-tim-2-the-almighty-gnome",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwMDUzOC84NzQ2NzQxLnBuZw==/347x500/mG5%2FcH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
       },
       {
          "Nombre": "COLUMNS by VIRTUA WORLDS",
@@ -49,7 +39,7 @@
          "URL": "https://virtuaworlds.itch.io/columns",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
       },
       {
          "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
@@ -59,7 +49,7 @@
          "URL": "https://virtuaworlds.itch.io/cthulhu-frozen-nightmare",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
       },
       {
          "Nombre": "REMAKO Visualizer by VIRTUA WORLDS",
@@ -69,7 +59,7 @@
          "URL": "https://virtuaworlds.itch.io/remako-visualizer",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
       },
       {
          "Nombre": "Redkur by StuckArcader",
