@@ -1,5 +1,5 @@
 {
-   "date_update": "02 Jan 2023 01:44 UTC",
+   "date_update": "02 Jan 2023 22:32 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -18,12 +18,6 @@
       },
       {
          "Direccion": "0.0.0.0 bilqi-omv.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 reposemarshknot.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 rosyruffian.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 challengecircuit.com #AntiSpam"
@@ -125,10 +119,16 @@
          "Direccion": "0.0.0.0 reapinject.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 reposemarshknot.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 residebroadly.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 roadmappenal.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 rosyruffian.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 scriptvealpatronage.com #AntiSpam"
@@ -3176,12 +3176,6 @@
          "Direccion": "0.0.0.0 lx.xfffx.xyz #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 block-ad-easy.net #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 adblock-pro-download.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 2050.one #AntiSpam"
       },
       {
@@ -3189,6 +3183,9 @@
       },
       {
          "Direccion": "0.0.0.0 ad-shield.info #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 adblock-pro-download.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 adblock-unlim.com #AntiSpam"
@@ -3264,6 +3261,9 @@
       },
       {
          "Direccion": "0.0.0.0 autoadskipper.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 block-ad-easy.net #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 block-ads-now.com #AntiSpam"
@@ -3719,6 +3719,9 @@
          "Direccion": "0.0.0.0 ads.exoclick.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 ads.themoneytizer.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 banneradsday.com #AntiSpam"
       },
       {
@@ -3776,15 +3779,6 @@
          "Direccion": "0.0.0.0 gu7socdn.txxx.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 ads.themoneytizer.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 sarcinedewlike.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 snorefamiliarsiege.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 hosupshunk.com #AntiSpam"
       },
       {
@@ -3818,6 +3812,9 @@
          "Direccion": "0.0.0.0 rickerrotal.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 sarcinedewlike.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 securepubads.g.doubleclick.net #AntiSpam"
       },
       {
@@ -3825,6 +3822,9 @@
       },
       {
          "Direccion": "0.0.0.0 servicer.adskeeper.co.uk #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 snorefamiliarsiege.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 tags.orquideassp.com #AntiSpam"
@@ -3896,6 +3896,9 @@
          "Direccion": "0.0.0.0 a.optimizesrv.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 accidentalinfringementfat.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 achcdn.com #AntiSpam"
       },
       {
@@ -3921,9 +3924,6 @@
       },
       {
          "Direccion": "0.0.0.0 d2q9y3krdwohfj.cloudfront.net #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 accidentalinfringementfat.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 d2vwl2vhlatm2f.cloudfront.net #AntiSpam"
