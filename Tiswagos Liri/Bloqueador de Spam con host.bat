@@ -61,6 +61,8 @@ mode con:cols=65 lines=16
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo 0.0.0.0 142.91.159.139 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 23.109.87.27 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 peech2eecha.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 blacknesskeepplan.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 886.novitrk6.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 accordaudienceeducational.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 aeffe3nhrua5hua.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -140,6 +142,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 ads.trafficjunky.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adstean.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 aerugosspritz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.highperformancecpmgate.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 affluentshinymulticultural.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 agacelebir.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ak.hetahien.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1386,6 +1389,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 uptimecdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.blockadsnot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 betotodilea.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 dovemajorem.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 snagbaudhulas.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.cdn4ads.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
