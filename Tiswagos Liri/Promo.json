@@ -1,5 +1,5 @@
 {
-   "date_update": "03 Jan 2023 18:36 UTC",
+   "date_update": "04 Jan 2023 00:00 UTC",
    "values": [
       {
          "Nombre": "Ashampoo Backup 2021",
@@ -9,7 +9,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-2021-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/boxshot-12.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "Ashampoo Photo Optimizer 8",
@@ -19,7 +19,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-optimizer-8-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/front-1.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "Glary Utilities PRO",
@@ -29,7 +29,7 @@
          "URL": "https://sharewareonsale.com/s/glary-utilities-pro-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/02/gubox-200x146.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "PDF Imager Professional Edition",
@@ -39,7 +39,17 @@
          "URL": "https://sharewareonsale.com/s/free-pdf-imager-professional-edition-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/11/screen_01-200x150.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
+      },
+      {
+         "Nombre": "Photo Slideshow Creator Pro",
+         "Informacion": "Cree presentaciones de diapositivas asombrosas f\u00e1cilmente",
+         "Desde": "",
+         "Hasta": "2023/01/04 09:00",
+         "URL": "https://www.bitsdujour.com/software/photo-slideshow-creator-pro/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/photo-slide-show-time-zauuj.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "ASCOMP PDF Imager Pro License Key Free",
@@ -49,7 +59,27 @@
          "URL": "https://giveaway.tickcoupon.com/ascomp-pdf-imager-pro-license-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/09/ascomp-pdf-imager-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "PassFab Duplicate File Deleter License Key Free",
+         "Informacion": "Tener demasiados archivos duplicados en su computadora tambi\u00e9n es una de las causas de que su computadora funcione m\u00e1s lentamente. PassFab Duplicate File Deleter es una excelente y \u00fatil aplicaci\u00f3n de b\u00fasqueda de archivos duplicados que le permite encontrar im\u00e1genes similares y archivos duplicados en el sistema con alta eficiencia. Esta aplicaci\u00f3n tiene un algoritmo de b\u00fasqueda incre\u00edblemente r\u00e1pido que puede ayudarlo a analizar y encontrar duplicados para numerosos archivos duplicados e im\u00e1genes similares.",
+         "Desde": "",
+         "Hasta": "2023/01/04 15:00",
+         "URL": "https://giveaway.tickcoupon.com/passfab-duplicate-file-deleter-free-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2023/01/passfab-duplicate-file-deleter-giveaway-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "ThunderSoft Video Password Protect License Key",
+         "Informacion": "ThunderSoft Video Password Protect es un software de protecci\u00f3n de video. Puede cifrar sus m\u00faltiples archivos multimedia como videos, audios e im\u00e1genes y asegurarse de que solo las personas que tienen contrase\u00f1as puedan verlos. Admite varios formatos de video, audio e imagen como MP4, AVI, MKV, WMV, MTS, RMVB, MXF, VOB, FLV, MPEG, TS, MP3, AAC, AC3, OGG, WMA, JPG, BMP, PNG, y muchos m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2023/01/04 15:00",
+         "URL": "https://giveaway.tickcoupon.com/thundersoft-video-password-protect-free-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/07/ThunderSoft-Video-Password-Protect-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Ara and the Empty Universe by Basim Aziz",
@@ -1162,6 +1192,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Zombie Outbreak by CodingForDinner",
+         "Informacion": "Esta es mi presentaci\u00f3n para el",
+         "Desde": "",
+         "Hasta": "2023/01/05 20:00",
+         "URL": "https://codingfordinner.itch.io/zombie-outbreak",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc3MDAxOS8xMDQwNjA3MS5wbmc=/347x500/P7FUHP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Escape The Facility by CodingForDinner",
+         "Informacion": "Esta es mi presentaci\u00f3n para el",
+         "Desde": "",
+         "Hasta": "2023/01/05 20:00",
+         "URL": "https://codingfordinner.itch.io/escape-the-facility",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY3NTQzMC85ODY2NzYwLnBuZw==/347x500/4B0tL8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Block Caves by CodingForDinner",
+         "Informacion": "Block Caves es un juego de plataformas en 2D con algunos elementos de rompecabezas que te desafiar\u00e1n a intentar vencerlo. \u00a1Puedes jugar con un amigo o solo si quieres un desaf\u00edo!",
+         "Desde": "",
+         "Hasta": "2023/01/05 20:00",
+         "URL": "https://codingfordinner.itch.io/blockcaves",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzMDEzMy84OTI3NDEzLnBuZw==/347x500/spLtx7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Netherspeed by CodingForDinner",
+         "Informacion": "Juego basado en olas 2D de arriba hacia abajo",
+         "Desde": "",
+         "Hasta": "2023/01/05 20:00",
+         "URL": "https://codingfordinner.itch.io/netherspeed",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUyODEzMS85MjM3NzQ2LnBuZw==/347x500/rWXh%2F1.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Bah, Humbug! by Xerra",
          "Informacion": "Bah, Humbug ahora se ha actualizado para corregir un par de errores de bloqueo en las versiones de Windows y OSX. V1.02 ha reemplazado las versiones anteriores en esta p\u00e1gina.",
          "Desde": "",
@@ -1272,6 +1342,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vov Screen Recorder License Key for Free",
+         "Informacion": "\u00bfEst\u00e1s buscando una herramienta de captura de pantalla profesional? Vov Screen Recorder podr\u00eda ser el software adecuado. Provisto de muchas funciones potentes, este software de captura de pantalla puede ayudarlo a capturar la pantalla de la computadora con facilidad. Utiliz\u00e1ndolo, puede grabar f\u00e1cilmente su escritorio para crear un video instructivo para demostrar el funcionamiento de un programa, compilar un video de demostraci\u00f3n de productos para algunos clientes. Tambi\u00e9n le permite grabar el juego para publicar en las redes sociales o grabar cualquier otra actividad en la pantalla para compartir con amigos o partes interesadas o cargar en servicios de transmisi\u00f3n de video como YouTube.",
+         "Desde": "",
+         "Hasta": "2023/01/08 00:00",
+         "URL": "https://giveaway.tickcoupon.com/vov-screen-recorder-lifetime-free-license/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/12/vov-screen-recorder-giveaway-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Network Alarmer",
          "Informacion": "Revise sus dispositivos de red regularmente",
          "Desde": "",
@@ -1289,6 +1369,36 @@
          "URL": "https://hexrae.itch.io/exile",
          "IMG": "https://img.itch.zone/aW1hZ2UvODE3ODgyLzQ1ODY4OTUucG5n/347x500/RO3YRe.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SoftOrbits Photo Retoucher License Key Free",
+         "Informacion": "\u00bfNo tomaste fotos perfectas de vacaciones, viajes, vacaciones, etc.? No te preocupes; SoftOrbits Photo Retoucher ser\u00e1 la mejor opci\u00f3n para usted. Ayuda a limpiar fotos antiguas, eliminar objetos no deseados o hacer un peque\u00f1o retoque para producir una imagen perfecta a partir de una instant\u00e1nea ordinaria.",
+         "Desde": "",
+         "Hasta": "2023/01/09 15:00",
+         "URL": "https://giveaway.tickcoupon.com/softorbits-photo-retoucher-giveaway/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/01/SoftOrbits-Photo-Retoucher-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Number Islands by thebdrive",
+         "Informacion": "ENTORNOS DIFERENTES 4 entornos diferentes que abarcan m\u00e1s de 50 niveles.",
+         "Desde": "",
+         "Hasta": "2023/01/09 19:00",
+         "URL": "https://thebdrive.itch.io/number-islands",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyNjEzLzgyMjE1NS5qcGc=/347x500/661PVO.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Photo Retoucher 9",
+         "Informacion": "Si no eres un fot\u00f3grafo profesional (o incluso si lo eres), no siempre es posible tomar una foto limpia. Las personas o los objetos no deseados son las cosas que pueden estropear una muy buena toma, pero no se apresure a eliminarla. SoftOrbits Photo Retoucher tambi\u00e9n est\u00e1 dise\u00f1ado para trabajar con otras tareas: eliminar imperfecciones de la piel, limpiar el grano de la pel\u00edcula y el ruido digital, eliminar rayones y manchas, reconstruir im\u00e1genes da\u00f1adas, etc.",
+         "Desde": "",
+         "Hasta": "2023/01/10 07:00",
+         "URL": "https://sharewareonsale.com/s/softorbits-photo-retoucher-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/07/main-en-200x124.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1392,6 +1502,16 @@
          "Borde": "border-color: #ff9600;"
       },
       {
+         "Nombre": "Like Us by Sky High Games",
+         "Informacion": "Like us es un juego de terror de supervivencia en el que debes evitar la oscuridad el mayor tiempo posible. Juegas como Henry, quien pronto descubrir\u00e1 la verdad sobre s\u00ed mismo y aquellos que conoc\u00eda.",
+         "Desde": "",
+         "Hasta": "2023/01/15 07:00",
+         "URL": "https://sky-high-games.itch.io/like-us",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTAzOTAwMi81OTMzNDIwLnBuZw==/347x500/c4CRC7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ball Down Hill by KasperV",
          "Informacion": "Meta:",
          "Desde": "",
@@ -1468,6 +1588,26 @@
          "Hasta": "2023/01/31 00:00",
          "URL": "https://existical.itch.io/capitalshow",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIzMjMzNS84ODUyMTUwLnBuZw==/347x500/GRV52F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1v1 cube game by adirgamedev",
+         "Informacion": "Juego de cubos 1v1 con portal y bolas de nieve.",
+         "Desde": "",
+         "Hasta": "2023/01/31 00:00",
+         "URL": "https://adirgamedev.itch.io/1v1-cube-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTQxNTY1LzI4NTQ4MjYucG5n/347x500/jDqVms.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "help mr beast plant trees #teamtree by adirgamedev",
+         "Informacion": "es mi primer juego y voy a donar todas las ganancias a #teamtree",
+         "Desde": "",
+         "Hasta": "2023/01/31 00:00",
+         "URL": "https://adirgamedev.itch.io/help-mr-beast-plant-trees",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTA5MjQ5LzI2NDI0NDUucG5n/347x500/kdeslS.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
