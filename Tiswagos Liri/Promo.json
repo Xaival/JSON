@@ -1,5 +1,5 @@
 {
-   "date_update": "05 Jan 2023 01:04 UTC",
+   "date_update": "05 Jan 2023 02:12 UTC",
    "values": [
       {
          "Nombre": "Ara and the Empty Universe by Basim Aziz",
@@ -9,7 +9,7 @@
          "URL": "https://basim-aziz.itch.io/ara-and-the-empty-universe",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTAxMjk1OC81ODMyMjA1LnBuZw==/347x500/Csgn88.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "iBoysoft MagicMenu",
@@ -19,7 +19,7 @@
          "URL": "https://www.bitsdujour.com/software/iboysoft-magicmenu/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/iboysoft-magicmenu-9nuen.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Animus Toil by Mindset Makers",
@@ -29,7 +29,7 @@
          "URL": "https://mindsetmakers.itch.io/animus-toil",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI0OTcwMi83NjE1ODczLnBuZw==/347x500/AWVTdM.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "A Mile in My Shoes by avarisclari",
