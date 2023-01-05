@@ -1,17 +1,11 @@
 {
-   "date_update": "04 Jan 2023 01:32 UTC",
+   "date_update": "05 Jan 2023 01:03 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 23.109.87.27 #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 peech2eecha.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 blacknesskeepplan.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
@@ -24,6 +18,9 @@
       },
       {
          "Direccion": "0.0.0.0 bilqi-omv.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 blacknesskeepplan.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 challengecircuit.com #AntiSpam"
@@ -249,9 +246,6 @@
       },
       {
          "Direccion": "0.0.0.0 aerugosspritz.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 www.highperformancecpmgate.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 affluentshinymulticultural.com #AntiSpam"
@@ -620,6 +614,9 @@
          "Direccion": "0.0.0.0 p131675.clksite.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 peech2eecha.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 pelisplus3.vc #AntiSpam"
       },
       {
@@ -816,6 +813,9 @@
       },
       {
          "Direccion": "0.0.0.0 www.grover.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 www.highperformancecpmgate.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.marketgamebo.com #AntiSpam"
@@ -2948,9 +2948,6 @@
          "Direccion": "0.0.0.0 santander.es-cancelaciones.cf #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 watch-online.49n7wqynho5u.top #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 123moviesbluray.com #AntiSpam"
       },
       {
@@ -3108,6 +3105,9 @@
       },
       {
          "Direccion": "0.0.0.0 verpeliculas4k.org #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 watch-online.49n7wqynho5u.top #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.iheart.com #AntiSpam"
@@ -3992,25 +3992,25 @@
          "Direccion": "0.0.0.0 www.blockadsnot.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 whoursie.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 understoodadjoiningarab.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 lionelimburse.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 betotodilea.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 dovemajorem.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 d3g5ovfngjw9bw.cloudfront.net #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 dovemajorem.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 lionelimburse.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 snagbaudhulas.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 understoodadjoiningarab.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 whoursie.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.cdn4ads.com #AntiSpam"
