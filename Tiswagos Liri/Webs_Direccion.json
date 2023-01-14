@@ -1,5 +1,5 @@
 {
-   "date_update": "12 Jan 2023 19:50 UTC",
+   "date_update": "14 Jan 2023 20:43 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -795,6 +795,9 @@
       },
       {
          "Direccion": "0.0.0.0 xxxs.vip #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 ylasthepoityelthens.com.ua #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 sale.aliexpress.com #AntiSpam"
@@ -3278,6 +3281,9 @@
          "Direccion": "0.0.0.0 stop-ad-blocker.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 stop-adblocker.info #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 stopadblocker.com #AntiSpam"
       },
       {
@@ -3368,9 +3374,6 @@
          "Direccion": "0.0.0.0 www.elperiodicomediterraneo.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 snapdate.es #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 igetmyprize.com #AntiSpam"
       },
       {
@@ -3393,6 +3396,9 @@
       },
       {
          "Direccion": "0.0.0.0 myjollyrudder.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 snapdate.es #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 yourluckalways.com #AntiSpam"
