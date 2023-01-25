@@ -1,5 +1,5 @@
 {
-   "date_update": "25 Jan 2023 15:35 UTC",
+   "date_update": "25 Jan 2023 15:37 UTC",
    "values": [
       {
          "Nombre": "Sky Lab Defender by KasperV",
@@ -29,7 +29,27 @@
          "URL": "https://crimeoperastudios.itch.io/crime-opera-the-caterpillar-candids",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjA2NTA4LzgxMDE3NTAucG5n/347x500/6YG6jm.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
+      },
+      {
+         "Nombre": "Quick \u2018n Easy Web Builder",
+         "Informacion": "Quick 'n Easy Web Builder es una aplicaci\u00f3n de dise\u00f1o web visual (arrastrar y soltar) con herramientas tanto para principiantes como para dise\u00f1adores/desarrolladores profesionales.",
+         "Desde": "",
+         "Hasta": "2023/01/26 07:00",
+         "URL": "https://sharewareonsale.com/s/free-quick-n-easy-web-builder-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/qnewb_win-200x138.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
+      },
+      {
+         "Nombre": "Hard Disk Sentinel Standard Edition",
+         "Informacion": "Supervise la salud de su disco duro",
+         "Desde": "",
+         "Hasta": "2023/01/26 09:00",
+         "URL": "https://www.bitsdujour.com/software/hard-disk-sentinel/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/hard-disk-sentinel-4h1bf.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "The Door! 2 by Nitish Thombre",
@@ -102,6 +122,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Photo Enhancer AI",
+         "Informacion": "Una soluci\u00f3n de mejora de im\u00e1genes y fotos impulsada por IA para ampliar fotos, reducir el ruido y eliminar el desenfoque de las fotos.",
+         "Desde": "",
+         "Hasta": "2023/01/28 07:00",
+         "URL": "https://sharewareonsale.com/s/free-photo-enhancer-ai-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/901-200x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "WonderFox DVD Video Converter Free License Key 2023",
          "Informacion": "WonderFox DVD Ripper Pro es el verdadero software inteligente de extracci\u00f3n de DVD de velocidad n. \u00b0 1 que brinda la soluci\u00f3n m\u00e1s r\u00e1pida para extraer su extensa colecci\u00f3n de DVD a pr\u00e1cticamente cualquier video, audio y dispositivo.",
          "Desde": "",
@@ -118,6 +148,16 @@
          "Hasta": "2023/01/29 07:00",
          "URL": "https://sharewareonsale.com/s/free-smart-clip-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/smart-clip-box.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Burning Studio 2023",
+         "Informacion": "Ashampoo Burning Studio 2023 es la forma r\u00e1pida y confiable de grabar pel\u00edculas, m\u00fasica y archivos en cualquier disco grabable. Aparte de las copias de seguridad de datos, este programa de grabaci\u00f3n tambi\u00e9n extrae audio de CD de m\u00fasica y crea cubiertas e incrustaciones con estilo.",
+         "Desde": "",
+         "Hasta": "2023/01/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/boxshot-13.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -212,6 +252,56 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Notmessyouself",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2023/01/31 01:00",
+         "URL": "https://notmessyouself.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms by Notmessyouself",
+         "Informacion": "Versi\u00f3n alfa 1.1",
+         "Desde": "",
+         "Hasta": "2023/01/31 01:00",
+         "URL": "https://notmessyouself.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Love the Guard, Be the King by Ligia Nunes",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/01/31 01:00",
+         "URL": "https://ligianunes.itch.io/love-the-guard-be-the-king",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzQyMzQxLzQxNDM3NTguanBn/347x500/ZpFDZA.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365",
+         "Desde": "",
+         "Hasta": "2023/01/31 01:00",
+         "URL": "https://notmessyouself.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
+         "Desde": "",
+         "Hasta": "2023/01/31 01:00",
+         "URL": "https://notmessyouself.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "LEEWARD Episode 1 by ESTERAS BROS GAMES",
          "Informacion": "a href=\"LEEWARD\" class=\"redactor-linkify-object\"https://esterasbros.itch.io/leeward-episode-1\"LEEWARD Episodio 1 de ESTERAS BROS GAMES/a",
          "Desde": "",
@@ -229,6 +319,16 @@
          "URL": "https://jemcraftstudios.itch.io/cattabunga",
          "IMG": "https://img.itch.zone/aW1nLzEwMTQ4NDkzLnBuZw==/347x500/5lNjLh.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Macrorit Partition Expert Server Edition 7",
+         "Informacion": "Macrorit Partition Expert Server es el software m\u00e1gico de partici\u00f3n de Windows Server m\u00e1s nuevo y mejor que realiza la mejor gesti\u00f3n de partici\u00f3n de disco y mantiene el 100% de los datos intactos.",
+         "Desde": "",
+         "Hasta": "2023/01/31 07:00",
+         "URL": "https://sharewareonsale.com/s/free-macrorit-partition-expert-server-edition-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/server.png?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -542,6 +642,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "OCR Reader",
+         "Informacion": "Convierte f\u00e1cilmente im\u00e1genes a texto con OCR Reader para PC",
+         "Desde": "",
+         "Hasta": "2023/02/01 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ocr-reader-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/ocr-reader.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Adios",
          "Informacion": "Un criador de cerdos decide que ya no quiere deshacerse de cad\u00e1veres para la mafia. Lo que sigue es una discusi\u00f3n entre \u00e9l y su potencial asesino.",
          "Desde": "2023/01/26",
@@ -689,6 +799,36 @@
          "URL": "https://thatcherproductions.itch.io/treasure-trove-run",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTEwNzc1OS82Mzk0MjIxLnBuZw==/347x500/Uwqzb%2F.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Deep in the Void by Whackland Studios",
+         "Informacion": "El juego a\u00fan est\u00e1 en desarrollo temprano. Muchas de las caracter\u00edsticas planificadas a\u00fan no se han implementado. Espere errores.",
+         "Desde": "",
+         "Hasta": "2023/02/22 01:00",
+         "URL": "https://whacklandstudios.itch.io/deep-in-the-void",
+         "IMG": "https://img.itch.zone/aW1nLzk5NjAyOTUucG5n/347x500/DYlXoz.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sticky Password Premium Key Free 1-Year",
+         "Informacion": "Sticky Password\u00a0Premium reconoce sus destinos protegidos con contrase\u00f1a e inicia sesi\u00f3n autom\u00e1ticamente en cualquier dispositivo que est\u00e9 utilizando. \u00a1Est\u00e1 integrado directamente en su navegador, por lo que es conveniente y seguro!",
+         "Desde": "",
+         "Hasta": "2023/02/22 12:00",
+         "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2020/12/Sticky-Password-Premium-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hard Disk Sentinel Standard Giveaway License Key Free",
+         "Informacion": "Hard Disk Sentinel es un software de monitoreo y an\u00e1lisis de disco duro con el mayor soporte posible de unidades HDD/SSD/SSHD (h\u00edbridas). Autom\u00e1ticamente verificar\u00e1, buscar\u00e1 y diagnosticar\u00e1 problemas relacionados con el disco duro de su computadora. Si se detecta alg\u00fan problema, Hard Disk Sentinel informa al usuario.",
+         "Desde": "",
+         "Hasta": "2023/02/27 14:00",
+         "URL": "https://giveaway.tickcoupon.com/hard-disk-sentinel-standard-license-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/02/hard-disk-sentinel-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
