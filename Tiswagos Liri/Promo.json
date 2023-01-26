@@ -1,86 +1,6 @@
 {
-   "date_update": "25 Jan 2023 15:37 UTC",
+   "date_update": "26 Jan 2023 18:48 UTC",
    "values": [
-      {
-         "Nombre": "Sky Lab Defender by KasperV",
-         "Informacion": "Defensor del laboratorio del cielo",
-         "Desde": "",
-         "Hasta": "2023/01/26 00:00",
-         "URL": "https://kasperv.itch.io/skylabdefender",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "The Simple Life by KasperV",
-         "Informacion": "La vida simple",
-         "Desde": "",
-         "Hasta": "2023/01/26 00:00",
-         "URL": "https://kasperv.itch.io/the-simple-life",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Crime Opera: The Caterpillar Candids (Fandisk) by Crime Opera Studios",
-         "Informacion": "ADVERTENCIA: \u00a1Este juego contiene spoilers de Crime Opera: The Butterfly Effect! \u00a1Querr\u00e1 descargarlo y jugarlo antes de iniciar esta aplicaci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2023/01/26 07:00",
-         "URL": "https://crimeoperastudios.itch.io/crime-opera-the-caterpillar-candids",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjA2NTA4LzgxMDE3NTAucG5n/347x500/6YG6jm.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
-      },
-      {
-         "Nombre": "Quick \u2018n Easy Web Builder",
-         "Informacion": "Quick 'n Easy Web Builder es una aplicaci\u00f3n de dise\u00f1o web visual (arrastrar y soltar) con herramientas tanto para principiantes como para dise\u00f1adores/desarrolladores profesionales.",
-         "Desde": "",
-         "Hasta": "2023/01/26 07:00",
-         "URL": "https://sharewareonsale.com/s/free-quick-n-easy-web-builder-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/qnewb_win-200x138.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
-      },
-      {
-         "Nombre": "Hard Disk Sentinel Standard Edition",
-         "Informacion": "Supervise la salud de su disco duro",
-         "Desde": "",
-         "Hasta": "2023/01/26 09:00",
-         "URL": "https://www.bitsdujour.com/software/hard-disk-sentinel/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/hard-disk-sentinel-4h1bf.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Door! 2 by Nitish Thombre",
-         "Informacion": "Este juego hecho para Speed \u200b\u200brun -_-",
-         "Desde": "",
-         "Hasta": "2023/01/26 10:00",
-         "URL": "https://nitish-thombre.itch.io/the-door-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Door! 3 by Nitish Thombre",
-         "Informacion": "\u00a1Este es un juego m\u00e1s dif\u00edcil que The Door! 2 \u00a1porque es La Puerta! 3",
-         "Desde": "",
-         "Hasta": "2023/01/26 10:00",
-         "URL": "https://nitish-thombre.itch.io/the-door-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Door! by Nitish Thombre",
-         "Informacion": "\u00a1Este juego est\u00e1 hecho para ser el juego m\u00e1s dif\u00edcil del mundo!",
-         "Desde": "",
-         "Hasta": "2023/01/26 10:00",
-         "URL": "https://nitish-thombre.itch.io/the-door",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "Will Glow the Wisp by parttimeindie",
          "Informacion": "Will Glow the Wisp es el primer juego de plataformas de infierno de balas cuerpo a cuerpo sin plataformas, con im\u00e1genes \u00fanicas basadas en part\u00edculas y mec\u00e1nicas de movimiento.",
@@ -89,7 +9,7 @@
          "URL": "https://parttimeindie.itch.io/will-glow-the-wisp",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDA2OTM1LzIwMTk3NjgucG5n/347x500/gDD1V4.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Password Remover Free Key",
@@ -99,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/06/coolmuster-pdf-password-remover-giveaway-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "Epistory - Typing Chronicles",
@@ -109,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/epistory-typing-adventure-445794",
          "IMG": "https://cdn1.epicgames.com/spt-assets/2fe270709f944fc398851454cf476f95/epistory-typing-adventure-1t9zx.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
       },
       {
          "Nombre": "Epistory - Typing Chronicles",
@@ -119,7 +39,47 @@
          "URL": "https://store.epicgames.com/p/epistory-typing-chronicles-445794",
          "IMG": "https://cdn1.epicgames.com/spt-assets/2fe270709f944fc398851454cf476f95/epistory-typing-adventure-1t9zx.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
+      },
+      {
+         "Nombre": "Life after Death by ASKGAMES",
+         "Informacion": "ADVERTENCIA: Este videojuego puede provocar un ataque de epilepsia fotosensible a las personas que padezcan esta enfermedad. Se recomienda una restricci\u00f3n razonable de la audiencia del juego. NOTA IMPORTANTE: El \u00e9nfasis principal del juego est\u00e1 en el proceso de exploraci\u00f3n, ya que la tensi\u00f3n se acumula lentamente, creando un efecto de presencia a\u00fan m\u00e1s completo y v\u00edvido. ACERCA DE ESTE JUEGO: Tienes una oportunidad de volver al per\u00edodo de la infancia y vivir un per\u00edodo de la vida del personaje principal, Jessy. Un d\u00eda te encontrar\u00e1s en un lugar incomprensible y desconocido, entendiendo que algo anda mal contigo y no recuerdas nada. A medida que progreses, recordar\u00e1s los momentos brillantes de tu vida, superar\u00e1s las fobias que te acompa\u00f1aron, resolver\u00e1s acertijos y tambi\u00e9n comprender\u00e1s por qu\u00e9 terminaste aqu\u00ed y qu\u00e9 te sucedi\u00f3. Necesitas ayudar a Jessy a recrear los eventos que sucedieron antes, conocer a su familia y experimentar todo lo que hizo. - G\u00e9nero \"Walking Simulator\"; - Debes leer las notas con mucho cuidado; - Deber\u00e1s investigar atentamente las ubicaciones y prestar atenci\u00f3n. a los detalles y el entorno. DESCRIPCI\u00d3N DEL CONTENIDO PARA ADULTOS El desarrollador describe el contenido de la siguiente manera: El juego contiene im\u00e1genes realistas de escenas de violencia que pueden tener un impacto negativo en la psique. Algunos elementos de contenido pueden no ser adecuados para ciertos grupos de edad.",
+         "Desde": "",
+         "Hasta": "2023/01/26 20:55",
+         "URL": "https://askgames.itch.io/life-after-death",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ2ODUxNi84NTY3NTI1LnBuZw==/347x500/GIe1Dn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
+      },
+      {
+         "Nombre": "Beside Myself by ASKGAMES",
+         "Informacion": "a href=\"Life\" class=\"redactor-linkify-object\"https://askgames.itch.io/life-after-death\"Vida despu\u00e9s de la muerte por ASKGAMES/a",
+         "Desde": "",
+         "Hasta": "2023/01/26 20:59",
+         "URL": "https://askgames.itch.io/beside-myself",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzOTMwMi82NjA3MTg3LnBuZw==/347x500/p7gs%2FK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
+      },
+      {
+         "Nombre": "Queen Sized by FungalVoiid",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/01/27 05:00",
+         "URL": "https://fungalvoiid.itch.io/queen-sized",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI0ODk5NS85MDA2NzY3LmdpZg==/347x500/5G0XdB.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 24%, yellow 24%) 1;"
+      },
+      {
+         "Nombre": "Sticky Password Premium",
+         "Informacion": "Nunca olvides una contrase\u00f1a de nuevo.",
+         "Desde": "",
+         "Hasta": "2023/01/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/sticky-password-premium-8ocyc.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Photo Enhancer AI",
@@ -128,6 +88,16 @@
          "Hasta": "2023/01/28 07:00",
          "URL": "https://sharewareonsale.com/s/free-photo-enhancer-ai-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/901-200x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PhotoZoom 6",
+         "Informacion": "\u00a1La soluci\u00f3n de software n\u00famero uno para ampliar y reducir!",
+         "Desde": "",
+         "Hasta": "2023/01/28 07:00",
+         "URL": "https://sharewareonsale.com/s/free-photozoom-6-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/03/f4b8f09f4384b54c9e38003a37d4f919-200x286.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -149,6 +119,16 @@
          "URL": "https://sharewareonsale.com/s/free-smart-clip-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/smart-clip-box.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ZERO-NINE (0-9) by AnoDev",
+         "Informacion": "0-9 es un juego casual y simplista que est\u00e1 destinado a llenar tu tiempo cuando te aburres.",
+         "Desde": "",
+         "Hasta": "2023/01/29 18:00",
+         "URL": "https://anodev.itch.io/zero-nine",
+         "IMG": "https://img.itch.zone/aW1nLzg3OTc1MzUucG5n/347x500/GSIzxK.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -232,16 +212,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Dark Retributionist by al3cs71",
-         "Informacion": "\u00a1Te despiertas de tu sue\u00f1o eterno en busca de venganza!",
-         "Desde": "",
-         "Hasta": "2023/01/31 00:00",
-         "URL": "https://al3cs71.itch.io/the-dark-retributionist",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTExNTI5LzczMzY2OTMucG5n/347x500/TKX6Mc.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Macrorit Partition Expert Server Edition License Key Free",
          "Informacion": "Macrorit Partition Expert Server Edition es una aplicaci\u00f3n de partici\u00f3n s\u00f3lida y segura para Windows Server 2019, 2016, 2012, 2008 y Server 2003. Est\u00e1 dise\u00f1ada para ayudar a los usuarios a cambiar el tama\u00f1o de las particiones sin p\u00e9rdida de datos. Con su tecnolog\u00eda avanzada, garantizar\u00e1 la protecci\u00f3n de datos y el tiempo de inactividad m\u00ednimo del sistema operativo.",
          "Desde": "",
@@ -252,32 +222,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Notmessyouself",
-         "Informacion": "Tienes tres armas:",
+         "Nombre": "The Dark Retributionist by al3cs71",
+         "Informacion": "\u00a1Te despiertas de tu sue\u00f1o eterno en busca de venganza!",
          "Desde": "",
-         "Hasta": "2023/01/31 01:00",
-         "URL": "https://notmessyouself.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Hasta": "2023/01/31 00:00",
+         "URL": "https://al3cs71.itch.io/the-dark-retributionist",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTExNTI5LzczMzY2OTMucG5n/347x500/TKX6Mc.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The backrooms by Notmessyouself",
-         "Informacion": "Versi\u00f3n alfa 1.1",
+         "Nombre": "1943 by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
          "Desde": "",
          "Hasta": "2023/01/31 01:00",
-         "URL": "https://notmessyouself.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Love the Guard, Be the King by Ligia Nunes",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/01/31 01:00",
-         "URL": "https://ligianunes.itch.io/love-the-guard-be-the-king",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzQyMzQxLzQxNDM3NTguanBn/347x500/ZpFDZA.jpg",
+         "URL": "https://notmessyouself.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -292,12 +252,72 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "1943 by Notmessyouself",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
+         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Notmessyouself",
+         "Informacion": "Tienes tres armas:",
          "Desde": "",
          "Hasta": "2023/01/31 01:00",
-         "URL": "https://notmessyouself.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "URL": "https://notmessyouself.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Love the Guard, Be the King by Ligia Nunes",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/01/31 01:00",
+         "URL": "https://ligianunes.itch.io/love-the-guard-be-the-king",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzQyMzQxLzQxNDM3NTguanBn/347x500/ZpFDZA.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms by Notmessyouself",
+         "Informacion": "Versi\u00f3n alfa 1.1",
+         "Desde": "",
+         "Hasta": "2023/01/31 01:00",
+         "URL": "https://notmessyouself.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pumkinhead John by Fake Wolf",
+         "Informacion": "Recoge todas las llamas que puedas y trata de no chocar con las l\u00e1pidas.",
+         "Desde": "",
+         "Hasta": "2023/01/31 02:00",
+         "URL": "https://fakewolfgamestudio.itch.io/pumkinhead-john",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUyMzAyNS84OTA1OTgwLnBuZw==/347x500/tQbNCL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Berian the Explorer by Fake Wolf",
+         "Informacion": "Mueve el personaje con las teclas A-D",
+         "Desde": "",
+         "Hasta": "2023/01/31 02:00",
+         "URL": "https://fakewolfgamestudio.itch.io/berian-the-explorer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI2MDYyNi83MzU3NzI1LnBuZw==/347x500/PiEl7C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Brightful Xmas by Fake Wolf",
+         "Informacion": "Ayuda a Pap\u00e1 Noel a decorar el \u00e1rbol de Navidad recogiendo regalos, trata de encender todas las luces navide\u00f1as.",
+         "Desde": "",
+         "Hasta": "2023/01/31 02:00",
+         "URL": "https://fakewolfgamestudio.itch.io/brightful-xmas",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODU5MTYxLzQ4MjIxODkucG5n/347x500/v7CvqW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Den:The Forgotten by Fake Wolf",
+         "Informacion": "Historia",
+         "Desde": "",
+         "Hasta": "2023/01/31 02:00",
+         "URL": "https://fakewolfgamestudio.itch.io/denthe-forgotten",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODM1NTM1LzQ2ODIxNjUucG5n/347x500/Q6DMV7.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -368,6 +388,16 @@
          "Hasta": "2023/01/31 17:59",
          "URL": "https://igalstudios.itch.io/redasteroid",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTQ4MTkwLzI4NjQxMzcuanBn/347x500/%2FdJ4fa.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Present by IcarusDev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/01/31 18:00",
+         "URL": "https://icarus-dev.itch.io/the-present",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg1MjMwMC8xMDg3NDEyOS5wbmc=/347x500/62mEXQ.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -458,6 +488,26 @@
          "Hasta": "2023/02/01 00:00",
          "URL": "https://kasperv.itch.io/ball-down-hill",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Simple Life by KasperV",
+         "Informacion": "La vida simple",
+         "Desde": "",
+         "Hasta": "2023/02/01 00:00",
+         "URL": "https://kasperv.itch.io/the-simple-life",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sky Lab Defender by KasperV",
+         "Informacion": "Defensor del laboratorio del cielo",
+         "Desde": "",
+         "Hasta": "2023/02/01 00:00",
+         "URL": "https://kasperv.itch.io/skylabdefender",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -582,6 +632,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "OCR Reader",
+         "Informacion": "Convierte f\u00e1cilmente im\u00e1genes a texto con OCR Reader para PC",
+         "Desde": "",
+         "Hasta": "2023/02/01 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ocr-reader-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/ocr-reader.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Orbital Paladin Melchior Y by John D. Moore",
          "Informacion": "Es el a\u00f1o 231 de la Era Fronteriza.",
          "Desde": "",
@@ -642,12 +702,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "OCR Reader",
-         "Informacion": "Convierte f\u00e1cilmente im\u00e1genes a texto con OCR Reader para PC",
+         "Nombre": "Qiling Fast Cache",
+         "Informacion": "QILING Fast Cache Standard es una herramienta de cach\u00e9 de datos. Mejora el rendimiento general del sistema y los datos de lectura r\u00e1pida a los que se accede con frecuencia.",
          "Desde": "",
-         "Hasta": "2023/02/01 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ocr-reader-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/ocr-reader.png?1357",
+         "Hasta": "2023/02/02 07:00",
+         "URL": "https://sharewareonsale.com/s/free-qiling-fast-cache-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/set_cache.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -659,7 +719,7 @@
          "URL": "https://store.epicgames.com/p/adios-b378b4",
          "IMG": "https://cdn1.epicgames.com/spt/e8e605d4-bd25-48d7-b99c-c8df348c9d81/adios-offer-41329995.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Hell is Others",
@@ -669,7 +729,7 @@
          "URL": "https://store.epicgames.com/p/hell-is-others-789262",
          "IMG": "https://cdn1.epicgames.com/spt-assets/0de2d0d8870f457eaf7c6bf8c64f7f9e/hell-is-others-86xt2.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "DearMob iPhone Manager License Key Free Giveaway",
@@ -682,6 +742,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "City of Gangsters",
+         "Informacion": "En este juego de simulaci\u00f3n econ\u00f3mica iniciar\u00e1s una operaci\u00f3n criminal de la nada y la convertir\u00e1s en una m\u00e1quina de dinero bien engrasada. Construye bares clandestinos y destiler\u00edas ilegales. Gestiona cadenas de producci\u00f3n y distribuci\u00f3n de recursos.",
+         "Desde": "2023/02/02",
+         "Hasta": "2023/02/09 17:00",
+         "URL": "https://store.epicgames.com/p/city-of-gangsters-6c2974",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-offer-16sbj.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Dishonored\u00ae: Death of the Outsider\u2122",
+         "Informacion": "Take on the role of Billie Lurk as she reunites with her old mentor, Daud, to undertake the greatest assassination ever conceived: killing the Outsider, a god-like figure whom they both see as instrumental to some of the Empire's most dishonorable moments. ",
+         "Desde": "2023/02/02",
+         "Hasta": "2023/02/09 17:00",
+         "URL": "https://store.epicgames.com/p/dishonored-death-of-the-outsider",
+         "IMG": "https://cdn1.epicgames.com/offer/87c84bc5f43d4fe69ad8f3ccde0594b0/EGS_DishonoredDeathoftheOutsider_ArkaneStudios_S1_2560x1440-7384b1e04742564e240e5e92722f82d6",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Borderlands 3 Season Pass",
          "Informacion": "\u00a1Sigue disfrutando de Borderlands 3 con el Pase de temporada, que cuenta con objetos cosm\u00e9ticos \u00fanicos y cuatro campa\u00f1as m\u00e1s con nuevas misiones y desaf\u00edos!",
          "Desde": "2023/01/26",
@@ -689,7 +769,7 @@
          "URL": "https://store.epicgames.com/p/borderlands-3",
          "IMG": "https://cdn1.epicgames.com/offer/catnip/Diesel_productv2_borderlands-3_season-pass_BL3_SEASONPASS_Hero-3840x2160-4411e63a005a43811a2bc516ae7ec584598fd4aa-3840x2160-b8988ebb0f3d9159671e8968af991f30_3840x2160-b8988ebb0f3d9159671e8968af991f30",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Dual Chroma: Academy Carols by Galen Games",
