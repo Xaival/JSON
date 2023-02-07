@@ -1,5 +1,5 @@
 {
-   "date_update": "05 Feb 2023 14:31 UTC",
+   "date_update": "07 Feb 2023 18:30 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3231,6 +3231,9 @@
       },
       {
          "Direccion": "0.0.0.0 getsecuritysuite.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 globaladblocker.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 greenadblocker.com #AntiSpam"
