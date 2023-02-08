@@ -1,66 +1,6 @@
 {
-   "date_update": "07 Feb 2023 18:30 UTC",
+   "date_update": "08 Feb 2023 16:34 UTC",
    "values": [
-      {
-         "Nombre": "Death Tapes (DeepStories Vol. 1) by NoxusGamesStudio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/02/08 05:00",
-         "URL": "https://noxusgamesstudio.itch.io/death-tapes",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc5OTQ3Mi8xMDU3NTU4MS5wbmc=/347x500/0zA757.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
-      },
-      {
-         "Nombre": "BadGuy's Escape to Comodo - ZAM by BuilderManX",
-         "Informacion": "Es un lugar de aventuras. BadGuy's Escape to Comodo es un juego en el que exploras un enorme mundo abierto y asumes el papel de un hombre que huye. Puede explorar una gran variedad de terrenos, incluidos desiertos, monta\u00f1as, ciudades y pueblos generados por procedimientos. Para ayudarte en tu b\u00fasqueda, Escape to Comodo incluye una variedad de armas, accesorios para la cabeza y ropa para ayudar a mejorar la experiencia de juego de rol. Los jugadores tambi\u00e9n pueden construir su propia historia, elegir entre cientos de opciones y personalizar su personaje con diferentes atuendos, equipos y sombreros. Cuando te aventuras en una misi\u00f3n, puedes elegir conducir, explorar o caminar a trav\u00e9s de una tierra casi infinita.",
-         "Desde": "",
-         "Hasta": "2023/02/08 08:00",
-         "URL": "https://buildermanx.itch.io/badguys-escape-to-comodo-zam",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjE1OS84MTQ2ODM4LnBuZw==/347x500/wxXDQW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
-      {
-         "Nombre": "Intergalactic Space Patrol V1.6 *UPDATED* by BuilderManX",
-         "Informacion": "Esta es la patrulla de la nave estelar ISP Venture nuestra misi\u00f3n de 5 minutos es ser una entretenida parodia de la ciencia ficci\u00f3n y el control corporativo moderno de TODO. Ven y disfruta de este juego de aventuras h\u00edbridas de simulaci\u00f3n espacial mientras criticamos las partes m\u00e1s rid\u00edculas del g\u00e9nero que amamos.",
-         "Desde": "",
-         "Hasta": "2023/02/08 08:00",
-         "URL": "https://buildermanx.itch.io/intergalactic-space-patrol",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Njc5Ny85MDg0MTc3LnBuZw==/347x500/SC9uFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
-      {
-         "Nombre": "Lands of Zam: Prelude by BuilderManX",
-         "Informacion": "Navega por el desierto procesal retro de los 90 de ZAM con este controlador infinito gratuito. Vista previa de lo que vendr\u00e1 con los juegos futuros en serie",
-         "Desde": "",
-         "Hasta": "2023/02/08 08:00",
-         "URL": "https://buildermanx.itch.io/lands-of-zam-prelude",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQxMDIzMC84MjE1Njk5LnBuZw==/347x500/2MOe4n.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
-      {
-         "Nombre": "Spook Smashers! by BuilderManX",
-         "Informacion": "\u00a1Caza fantasmas en una parodia de caza de fantasmas ecto procesal!",
-         "Desde": "",
-         "Hasta": "2023/02/08 08:00",
-         "URL": "https://buildermanx.itch.io/spooksmashers",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjYyMi85Nzc2OTc1LnBuZw==/347x500/Y1UiIE.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
-      {
-         "Nombre": "BadGuy's Melee by BuilderManX",
-         "Informacion": "Es un lugar de aventuras BadGuy's Escape to Comodo es un juego en el que exploras una isla metropolitana de misterio, asumes el papel de un villano con superpoderes que busca el camino de regreso a Comodo. Puede explorar una gran variedad de paisajes urbanos, incluidos oc\u00e9anos, monta\u00f1as, ciudades y pueblos generados por procedimientos. Para ayudarte en tu b\u00fasqueda, Escape to Comodo incluye una variedad de superpoderes y autos para ayudar a mejorar la experiencia de juego de rol. Los jugadores tambi\u00e9n pueden construir su propia historia, elegir entre cientos de opciones y personalizar su personaje con diferentes estilos de movimiento. Cuando te aventuras en una misi\u00f3n, puedes elegir conducir, explorar o caminar a trav\u00e9s de una tierra casi infinita.",
-         "Desde": "",
-         "Hasta": "2023/02/08 08:00",
-         "URL": "https://buildermanx.itch.io/badguys-escape-to-comodo-melee",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjI1Ny84MTQ2NTk4LnBuZw==/347x500/%2BHrJA2.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
       {
          "Nombre": "WonderFox DVD Ripper Pro",
          "Informacion": "Transforme pel\u00edculas en DVD en formatos de archivo port\u00e1tiles",
@@ -69,7 +9,7 @@
          "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-ripper-2/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-dvd-ripper-2-aa6ca.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 6%, yellow 6%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
       },
       {
          "Nombre": "Calmed by the Dark RE:iterate by Calmed by the Dark Games",
@@ -79,7 +19,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-reiterate",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU0NjE5Ny85MDIwODczLnBuZw==/347x500/JjnSqP.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
       },
       {
          "Nombre": "Perished World Merchant by Calmed by the Dark Games",
@@ -89,7 +29,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/perished-world-merchant",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTIyOTI0LzI4MDM2NTMucG5n/347x500/iJYizu.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
       },
       {
          "Nombre": "DoYourClone",
@@ -99,7 +39,7 @@
          "URL": "https://sharewareonsale.com/s/free-doyourclone-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/01/doyourclone-200-200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
       },
       {
          "Nombre": "DoYourClone for Mac Free License Key 2022",
@@ -202,6 +142,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Product Key Recovery Tool",
+         "Informacion": "A menudo sucede que necesita reinstalar su computadora por alg\u00fan motivo, pero no puede encontrar las claves de instalaci\u00f3n de su producto de su software y juegos favoritos o de pago. Tambi\u00e9n te enfrentas al mismo problema si reemplazas la computadora vieja por una nueva y deseas transferir esos mismos programas y juegos, pero a\u00fan no recuerdas d\u00f3nde pusiste el CD que contiene la clave.",
+         "Desde": "",
+         "Hasta": "2023/02/11 07:00",
+         "URL": "https://sharewareonsale.com/s/free-product-key-recovery-tool-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/pkrt-box.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PC Trek Product Key Recovery Tool License Key for Free",
+         "Informacion": "PC Trek Product Key Recovery Tool es una herramienta de recuperaci\u00f3n de clave de producto para PC que lo ayuda a buscar y restaurar la mayor\u00eda de las claves de sus programas y juegos favoritos que ya est\u00e1n instalados en su computadora. Con su ayuda, no solo puede recuperar claves para productos que incluyen Microsoft Windows y Office, Nero, WinZip, sino tambi\u00e9n recuperar juegos antiguos como Battlefield 2, Command & Conquer: Generals, Need for Speed \u200b\u200bMost Wanted y m\u00e1s de 1500 software m\u00e1s. y juegos",
+         "Desde": "",
+         "Hasta": "2023/02/11 14:00",
+         "URL": "https://giveaway.tickcoupon.com/pc-trek-product-key-recovery-tool-key-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/03/pc-trek-product-key-recovery-tool-license-key-for-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Convert Video to Audio License Key Free",
          "Informacion": "\u00bfAlguna vez ha intentado ver un video pero no pudo porque su dispositivo no admit\u00eda ese formato? Para resolver este problema, Vovsoft proporciona el software Vovsoft Convert Video to Audio que puede ayudarlo a reproducir todos sus videos en cualquier dispositivo.",
          "Desde": "",
@@ -219,6 +179,16 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2023-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/boxshot-13.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wondefox HD Video Converter Factory Pro License Key Free",
+         "Informacion": "WonderFox HD Video Converter Factory Pro es un programa para convertir archivos de video. Con esta aplicaci\u00f3n, puede convertir f\u00e1cil y r\u00e1pidamente videos almacenados en definici\u00f3n est\u00e1ndar a alta definici\u00f3n. Tambi\u00e9n le permite adaptar materiales de pel\u00edculas para reproducirlos en tel\u00e9fonos inteligentes, tabletas y reproductores de DVD de escritorio.",
+         "Desde": "",
+         "Hasta": "2023/02/13 00:00",
+         "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2019/12/wonderfox-hd-video-converter-factory-pro-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -299,6 +269,46 @@
          "URL": "https://giveaway.tickcoupon.com/videoproc-converter-full-license-key-free/",
          "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2021/09/videoproc-converter-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Notmessyouself",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2023/02/15 01:00",
+         "URL": "https://notmessyouself.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms by Notmessyouself",
+         "Informacion": "Versi\u00f3n alfa 1.1",
+         "Desde": "",
+         "Hasta": "2023/02/15 01:00",
+         "URL": "https://notmessyouself.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1nLzk2OTQ3MTUuanBn/347x500/a0MQdE.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365",
+         "Desde": "",
+         "Hasta": "2023/02/15 01:00",
+         "URL": "https://notmessyouself.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Notmessyouself",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Windows365.dk",
+         "Desde": "",
+         "Hasta": "2023/02/15 01:00",
+         "URL": "https://notmessyouself.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -502,26 +512,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Track racing battle simulator by Dankoff",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/02/27 23:00",
-         "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cubes And More Cubes (Logic game) by Dankoff",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/02/27 23:00",
-         "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Counter Aim:  Brutal Offensive by Dankoff, CounterAim series",
          "Informacion": "",
          "Desde": "",
@@ -538,6 +528,26 @@
          "Hasta": "2023/02/27 23:00",
          "URL": "https://dankoff.itch.io/counter-aim-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA5OTk1Ni82MzQ4NjE0LnBuZw==/347x500/Uuqc%2BB.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cubes And More Cubes (Logic game) by Dankoff",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/02/27 23:00",
+         "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Track racing battle simulator by Dankoff",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/02/27 23:00",
+         "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -712,6 +722,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AOMEI MyRecover Pro License Key for Free",
+         "Informacion": "La p\u00e9rdida de datos es algo muy terrible en el mundo digital porque se ver\u00e1 afectado en un momento dado o la pr\u00f3xima vez. Sus datos importantes pueden perderse, eliminarse accidentalmente, atacar un virus, formatearse, etc., lo que puede provocar un estr\u00e9s innecesario mientras lucha por encontrarlos y recuperarlos. Afortunadamente, AOMEI MyRecover Pro es una soluci\u00f3n integral y profesional para recuperar datos perdidos de HDD/SSD en Windows 11/10/8/7 con una alta tasa de recuperaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/03/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/aomei-myrecover-pro-license-key-free/",
+         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/12/aomei-myrecover-pro-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ball Down Hill by KasperV",
          "Informacion": "Objetivo:",
          "Desde": "",
@@ -739,16 +759,6 @@
          "URL": "https://kasperv.itch.io/the-simple-life",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "AOMEI MyRecover Pro License Key for Free",
-         "Informacion": "La p\u00e9rdida de datos es algo muy terrible en el mundo digital porque se ver\u00e1 afectado en un momento dado o la pr\u00f3xima vez. Sus datos importantes pueden perderse, eliminarse accidentalmente, atacar un virus, formatearse, etc., lo que puede provocar un estr\u00e9s innecesario mientras lucha por encontrarlos y recuperarlos. Afortunadamente, AOMEI MyRecover Pro es una soluci\u00f3n integral y profesional para recuperar datos perdidos de HDD/SSD en Windows 11/10/8/7 con una alta tasa de recuperaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2023/03/01 00:00",
-         "URL": "https://giveaway.tickcoupon.com/aomei-myrecover-pro-license-key-free/",
-         "IMG": "https://y8p7i4q3.stackpathcdn.com/wp-content/uploads/2022/12/aomei-myrecover-pro-free-license-code.png",
-         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
