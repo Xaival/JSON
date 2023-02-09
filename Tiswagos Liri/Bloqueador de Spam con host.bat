@@ -331,6 +331,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 ww12.land-secure.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 swiftfling.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.werockgaming.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 melany-stream.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 en.bestadultdatinglist-com.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 558718.erotilink.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bl.flirtme.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -348,6 +349,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 marvellousdating.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 onlyfreelatinaporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 quickdates0.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 meetbestlove.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 secret-flirt-hub.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 t49.citasconmujeres.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 theonlygames.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
