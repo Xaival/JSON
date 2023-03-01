@@ -1061,6 +1061,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 todotorrents.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 verpeliculas4k.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 watch-online.49n7wqynho5u.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.fulltv.com.ar #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.iheart.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 yesmovies4u.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pelis-online.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1149,6 +1150,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 stopadblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 streamblocked.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 supreme-ad-blocker.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 supreme-adblock.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 supremeadblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 supremeadblocker.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ublockpop.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
