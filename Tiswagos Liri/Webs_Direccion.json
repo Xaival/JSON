@@ -1,5 +1,5 @@
 {
-   "date_update": "24 Feb 2023 04:43 UTC",
+   "date_update": "01 Mar 2023 17:17 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3008,6 +3008,9 @@
          "Direccion": "0.0.0.0 watch-online.49n7wqynho5u.top #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 www.fulltv.com.ar #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 www.iheart.com #AntiSpam"
       },
       {
@@ -3270,6 +3273,9 @@
       },
       {
          "Direccion": "0.0.0.0 supreme-ad-blocker.info #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 supreme-adblock.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 supremeadblocker.com #AntiSpam"
