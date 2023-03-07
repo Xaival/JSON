@@ -1,8 +1,11 @@
 {
-   "date_update": "05 Mar 2023 13:03 UTC",
+   "date_update": "07 Mar 2023 22:33 UTC",
    "values": [
       {
          "Dominio": "142.91.159.139"
+      },
+      {
+         "Dominio": "reedbritingsynt.info"
       },
       {
          "Dominio": "23.109.87.27"
@@ -3057,6 +3060,9 @@
       },
       {
          "Dominio": "install.getgamesearch.com"
+      },
+      {
+         "Dominio": "yieldtrk.com"
       },
       {
          "Dominio": "ultimateaderaser.com"
