@@ -1026,7 +1026,9 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 cuevana1.sh #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana2.cm #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana3.ca #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 cuevana3.date #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana3.film #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 cuevana3.today #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana3espanol.tv #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana4.fm #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana4u.to #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1034,6 +1036,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 es.foundmovies.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 gatewaytrial.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 getthis-beststream.live #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 justwatch-stream.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 karin-hofmann.azpelis.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 movie.cineeu.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 movies-web.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
