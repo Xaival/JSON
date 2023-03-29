@@ -14,7 +14,7 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@amazon.com OR @amazon.es OR twitch-verify@amazon.com OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @juntademocratica.com OR juntademocraticadesevilla@gmail.com OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es OR @tussam.info'/>
+		<apps:property name='from' value='@notice.aliexpress.com OR @amazon.com OR @amazon.es OR twitch-verify@amazon.com OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @juntademocratica.com OR juntademocraticadesevilla@gmail.com OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es OR @tussam.info'/>
 		<apps:property name='label' value='Registros/Oficial'/>
 	</entry>
 	<entry>
