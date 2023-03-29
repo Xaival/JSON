@@ -1194,6 +1194,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 yourluckalways.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1.dating-roo2.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 delhoroscopo.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 eng.m.fontke.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 es.usenet.nl #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 joletmediafor.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 joseo20.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
