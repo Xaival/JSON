@@ -1,5 +1,5 @@
 {
-   "date_update": "16 Apr 2023 20:13 UTC",
+   "date_update": "19 Apr 2023 20:03 UTC",
    "values": [
       {
          "Dominio": "142.91.159.139"
@@ -3726,6 +3726,9 @@
       },
       {
          "Dominio": "altronopubacc.com"
+      },
+      {
+         "Dominio": "rd.laithuns.com"
       },
       {
          "Dominio": "asacdn.com"
