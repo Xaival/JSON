@@ -1,5 +1,5 @@
 {
-   "date_update": "16 Apr 2023 20:13 UTC",
+   "date_update": "19 Apr 2023 20:03 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3726,6 +3726,9 @@
       },
       {
          "Direccion": "0.0.0.0 altronopubacc.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 rd.laithuns.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 asacdn.com #AntiSpam"
