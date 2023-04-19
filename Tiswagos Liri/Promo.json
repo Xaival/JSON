@@ -1,166 +1,6 @@
 {
-   "date_update": "16 Apr 2023 20:13 UTC",
+   "date_update": "19 Apr 2023 20:03 UTC",
    "values": [
-      {
-         "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
-         "Informacion": "\u00f0\u00ab\u00f0 \u00b7 En una vida donde un virus ha infectado a todos, los humanos que no est\u00e1n infectados, decidimos instalarnos en las alcantarillas y el subsuelo, los Humanos, empezamos a desarrollar las alcantarillas y el subsuelo Te revelas en una casa de un cient\u00edfico que quiere usarte y decides salir de su casa y encontrarse en las alcantarillas",
-         "Desde": "",
-         "Hasta": "2023/04/17 03:00",
-         "URL": "https://pinou007.itch.io/projectxnow",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Radio Player (Ancien Version) by Pinou007",
-         "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias a radio player 2020 Versi\u00f3n antigua",
-         "Desde": "",
-         "Hasta": "2023/04/17 03:00",
-         "URL": "https://pinou007.itch.io/radio-player",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "thisPaper by Pinou007",
-         "Informacion": "Suspendido temporalmente thisPaper es un juego donde tienes que recuperar 10Paper este juego es realmente simple el juego se hizo en 12 horas un reto personal que comenc\u00e9 los otros juegos que ser\u00e1n de mejor calidadMapa DisponibleOtros mapas estar\u00e1n disponibles",
-         "Desde": "",
-         "Hasta": "2023/04/17 03:00",
-         "URL": "https://pinou007.itch.io/paper",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Sea Town 2 by David Pires",
-         "Informacion": "Est\u00e1s encerrado en una atracci\u00f3n encantada y tienes que protegerte de los maniqu\u00edes pose\u00eddos hasta las 6:00 AM.",
-         "Desde": "",
-         "Hasta": "2023/04/17 03:52",
-         "URL": "https://david-pires.itch.io/sea-town-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NTY0MS8xMTUwMDA3MC5wbmc=/347x500/k9gR2o.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Sea Town 3 by David Pires",
-         "Informacion": "Est\u00e1s trabajando como guardia de seguridad en un centro comercial y tienes que protegerte de los maniqu\u00edes pose\u00eddos hasta las 6:00 AM.",
-         "Desde": "",
-         "Hasta": "2023/04/17 03:52",
-         "URL": "https://david-pires.itch.io/sea-town-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1Nzg1MS8xMTUxMzAzNS5wbmc=/347x500/2XmgCu.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Sea Town: Final Night by David Pires",
-         "Informacion": "Est\u00e1s encerrado en un cementerio y tienes que protegerte de los maniqu\u00edes pose\u00eddos hasta las 6:00 AM.",
-         "Desde": "",
-         "Hasta": "2023/04/17 03:52",
-         "URL": "https://david-pires.itch.io/sea-town-final-night",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk5NTkyMC8xMTczMzQ3NC5wbmc=/347x500/pFwBk1.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Sea Town: Nightmare Night by David Pires",
-         "Informacion": "Est\u00e1s durmiendo en un hotel y tienes que protegerte de las pesadillas hasta las 6:00 AM.",
-         "Desde": "",
-         "Hasta": "2023/04/17 03:52",
-         "URL": "https://david-pires.itch.io/sea-town-nightmare-night",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk2NjE0Ny8xMTU2MDkyMy5wbmc=/347x500/U%2BRgjA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Emergency Boot Kit",
-         "Informacion": "Un poderoso conjunto de herramientas para la recuperaci\u00f3n de datos y la reparaci\u00f3n de computadoras que no arrancan",
-         "Desde": "",
-         "Hasta": "2023/04/17 07:00",
-         "URL": "https://sharewareonsale.com/s/free-emergency-boot-kit-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/08/boxshot-2-200x200.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Power Audio Editor",
-         "Informacion": "Power Audio Editor es un editor y grabador de audio completo con varias pistas con capacidades de copiar, pegar, mezclar, recortar y dividir, adem\u00e1s de todos los filtros y transformaciones que se esperan de un editor de audio profesional. El programa est\u00e1 basado en documentos. Puede editar y aplicar filtros y transformaciones a m\u00faltiples pistas de audio abiertas en una sola interfaz de usuario y tambi\u00e9n puede dividir, recortar, copiar y pegar e incluso mezclar, entre muchas otras posibilidades. Power Audio Editor admite estas operaciones, filtros y transformaciones: Dividir, Silenciar, Amplificar, Normalizar, Graves y agudos, Tono, Velocidad, Tempo, Eco, Fade-In, Fade-Out, Phaser, Flanger, Chorus, Reverse, Reverb, Tremolo , Compand, Ecualizador, Reducci\u00f3n de ruido, Paso alto, Paso bajo, Paso de banda, Rechazo de banda, Bend, DC Shift, Contraste, Biquad, De-\u00e9nfasis, Earwax, Out Of Phase Stereo y RIAA. Adem\u00e1s, el usuario puede mezclar y concatenar cualquier cantidad de pistas de audio en cualquier orden y posici\u00f3n requerida.",
-         "Desde": "",
-         "Hasta": "2023/04/17 09:00",
-         "URL": "https://www.bitsdujour.com/software/power-audio-editor/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/power-audio-editor-ujb82.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
-      },
-      {
-         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
-         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 no descompilado mod it juego real que actualiza publicar juego completado! gracias a mystman12 por no enviar ese mod descompilado para enviarlo ya para actualizar el acceso al juego, no informar mi cuenta y el juego, \u00a1y ahora enviarlo a usted!",
-         "Desde": "",
-         "Hasta": "2023/04/17 10:36",
-         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
-      },
-      {
-         "Nombre": "iTop Screen Recorder PRO Free License Key",
-         "Informacion": "iTop Screen Recorder Pro de IObit es un software de grabaci\u00f3n de pantalla para Windows (PC). Puede grabar cualquier parte de la pantalla con la c\u00e1mara web, el altavoz y el micr\u00f3fono encendidos. iTop Screen Recorder lo ayuda a guardar video en formatos de archivo comunes como MP4, AVI, FLV, GIF,... y audio en formato MP3, AAC y AC3,...",
-         "Desde": "",
-         "Hasta": "2023/04/17 11:00",
-         "URL": "https://giveaway.tickcoupon.com/itop-screen-recorder-pro-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/itop-screen-recorder-pro-license-key-free-giveaway.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Emergency Boot Kit License Key Free 2023",
-         "Informacion": "\u00bfEst\u00e1 buscando formas de copiar archivos desde su computadora, incluso los que no se pueden iniciar, a una memoria USB externa o un disco duro USB? Lo crea o no, el kit de arranque de emergencia puede resolver todas sus necesidades en este caso. Esta herramienta lo ayuda a realizar copias de seguridad y restaurar archivos sin Windows. M\u00e1s importante a\u00fan, tambi\u00e9n crea, formatea, elimina y limpia particiones. Incluso puede realizar copias de seguridad de particiones en archivos de imagen, restaurarlos y copiar partici\u00f3n a partici\u00f3n.",
-         "Desde": "",
-         "Hasta": "2023/04/17 14:00",
-         "URL": "https://giveaway.tickcoupon.com/emergency-boot-kit-license-key-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/08/Emergency-Boot-Kit-Screenshot.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "IObit 2023 Easter Giveaway with $200,595 Value",
-         "Informacion": "Sintamos el aire fresco de la primavera el primer domingo de abril con el d\u00eda de Pascua. Puede que celebres o no, pero de cualquier manera, pintemos huevos duros, pasemos tiempo con amigos y familiares y, por supuesto, \u00a1no olvides dar incre\u00edbles regalos promocionales a todos tus amores!",
-         "Desde": "",
-         "Hasta": "2023/04/17 15:00",
-         "URL": "https://giveaway.tickcoupon.com/iobit-easter-giveaway/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/get-iobit-giveaway.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "500 Premium Stock Images",
-         "Informacion": "Fotos de stock premium gratis. Disponible para uso comercial y personal.",
-         "Desde": "",
-         "Hasta": "2023/04/18 07:00",
-         "URL": "https://sharewareonsale.com/s/free-500-premium-stock-images-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/07/06e9bce0e95168ad472d6d72bb03b971-200x246.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Poseidon - Project Dark Sky by procyon",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/04/18 20:30",
-         "URL": "https://procyon.itch.io/poseidon-project-dark-sky",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTExNTg3LzUxODExOS5wbmc=/347x500/LCm%2FSq.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Free Food! by Maynemotions Studios",
-         "Informacion": "Descripci\u00f3n",
-         "Desde": "",
-         "Hasta": "2023/04/19 07:00",
-         "URL": "https://maynemotions-studios.itch.io/free-food",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTA5Mjc1LzczOTc1MDcucG5n/347x500/ZVU2Qp.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "DearMob iPhone Manager License Key Free Giveaway",
          "Informacion": "DearMob iPhone Manager es el primer administrador de iOS del mundo que transfiere datos de iPhone con un m\u00e9todo de encriptaci\u00f3n. Le permite administrar completamente sus datos de iOS. Tiene incorporada la capacidad de transferir fotos, videos y contactos de iPhone con grado de encriptaci\u00f3n militar para evitar fugas de privacidad, respaldar y restaurar datos de iOS en orden de tiempo, y opciones para transferir contenidos de forma selectiva de 2 v\u00edas desde la computadora al iPhone, ya sea un foto, video, m\u00fasica, contacto, mensaje, iTunes U, Podcast, aplicaci\u00f3n, calendario, voz, archivo, etc. Su privacidad no es inmune a las filtraciones, prot\u00e9jala para evitar amenazas con DearMob iPhone Manager.",
@@ -169,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/dearmob-iphone-manager-main-screenshot-2022.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "Sunset Mall by Hecking Heck",
@@ -179,7 +19,7 @@
          "URL": "https://heckinghecker.itch.io/sunset-mall",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjAwODgyMS8xMTgxMTk3Ni5qcGc=/347x500/D%2BiYB%2F.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
       },
       {
          "Nombre": "ALIEN CONTAGION FORCE by SavageAsylumGames",
@@ -189,7 +29,7 @@
          "URL": "https://savageasylumgames.itch.io/alien-contagion-force",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk2MDY4Ni8xMTUzNjA2OC5wbmc=/347x500/oSAVmz.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
       },
       {
          "Nombre": "All-In-One Password Recovery Pro",
@@ -199,6 +39,66 @@
          "URL": "https://sharewareonsale.com/s/free-all-in-one-password-recovery-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/allinonepasswordrecoverypro-box-250.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
+      },
+      {
+         "Nombre": "UnHackMe 14",
+         "Informacion": "UnHackMe le permite eliminar redireccionamientos de b\u00fasqueda de Google, rootkits, troyanos, puertas traseras, virus, gusanos, adware, spyware, keyloggers, programas no deseados, etc.",
+         "Desde": "",
+         "Hasta": "2023/04/20 07:00",
+         "URL": "https://sharewareonsale.com/s/unhackme-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/03/unhackme-screen-1-200x150.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
+      },
+      {
+         "Nombre": "Follow the Feeling: Brand Building in a Noisy World ($17.00 Value) FREE for a Limited Time",
+         "Informacion": "Eleve su marca, cree una historia de marca convincente y genere lealtad a la marca",
+         "Desde": "",
+         "Hasta": "2023/04/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/follow-the-feeling-brand-building-in-a-noisy-world-1700-value-free-for-a-limited-time/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/follow-the-feeling-brand-building-in-a-noisy-world-1700-value-free-for-a-limited-time-2yppm.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
+      },
+      {
+         "Nombre": "UnHackMe 14 Full License Key Free Download",
+         "Informacion": "UnHackMe es una suite poderosa que le permite detectar y eliminar una variedad de malware, incluidos troyanos, programas potencialmente no deseados y rootkits. Adem\u00e1s, busca archivos basura, explora el inicio, los servicios y los controladores de Windows, prueba los accesos directos de Windows, busca rootkits, prueba los archivos host y la configuraci\u00f3n de DNS, y prueba todos los archivos usados \u200b\u200ben Virustotal.",
+         "Desde": "",
+         "Hasta": "2023/04/20 14:00",
+         "URL": "https://giveaway.tickcoupon.com/unhackme-free-license-key-full-download/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/unhackme-screenshot-giveaway-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PDF To Excel Converter License Key for Free",
+         "Informacion": "PDF To Excel Converter te ofrece la posibilidad de convertir documentos PDF a formatos Excel XLS y XLSX de forma r\u00e1pida y sencilla. Este software tambi\u00e9n admite la selecci\u00f3n de rango de p\u00e1ginas, lo que significa que los usuarios pueden convertir las p\u00e1ginas de formulario seleccionadas de un gran archivo PDF para ahorrar tiempo. Esta herramienta no requiere Microsoft Excel instalado.",
+         "Desde": "",
+         "Hasta": "2023/04/20 15:00",
+         "URL": "https://giveaway.tickcoupon.com/pdf-to-excel-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/02/PDF-To-Excel-Converter-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "KC Softwares PhotoToFilm License Key for Free",
+         "Informacion": "El excelente PhotoToFilm tiene la capacidad de crear videos/pel\u00edculas a partir de sus fotos digitales. Utiliz\u00e1ndolo, puede crear f\u00e1cilmente videos a partir de sus im\u00e1genes y comprimirlos para compartir su video con sus amigos y familiares. Esta herramienta es compatible con los formatos de fotos m\u00e1s populares, como PNG, JPG, JPEG, mapas de bits, etc.",
+         "Desde": "",
+         "Hasta": "2023/04/20 15:00",
+         "URL": "https://giveaway.tickcoupon.com/kc-softwares-phototofilm-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/11/kc-softwares-phototofilm-giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Crum by Kiritovr",
+         "Informacion": "esto es solo un prototipo. por favor comente cuando tenga algunos errores.",
+         "Desde": "",
+         "Hasta": "2023/04/20 15:00",
+         "URL": "https://kiritovr.itch.io/crum",
+         "IMG": "https://img.itch.zone/aW1nLzExODYxMzc1LnBuZw==/347x500/QItbk6.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -272,6 +172,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "1943 by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/04/22 00:00",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
+         "Desde": "",
+         "Hasta": "2023/04/22 00:00",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/04/22 00:00",
+         "URL": "https://magnus-froelund.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/04/22 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Downstab by Shakey Jakey",
          "Informacion": "Downstab es un juego de plataformas y excavaciones de estilo arcade. \u00a1Elige a tu concursante y prep\u00e1rate para abrirte camino hacia una nueva vida! Todos los concursantes necesitan dinero r\u00e1pido por cualquier motivo, \u00a1as\u00ed que ay\u00fadalos a navegar a trav\u00e9s de las 30 etapas, explotando a todos los enemigos que veas y ganando todos los puntos! Para despejar una etapa, debes hacer explotar a todos los enemigos hasta convertirlos en polvo fino, pero ten cuidado de obtener tantos puntos como puedas: la etapa termina cuando todos los enemigos son destruidos O ya no est\u00e1s entre los vivos.",
          "Desde": "",
@@ -292,16 +232,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "SoftOrbits Photo Editor Pro",
-         "Informacion": "SoftOrbits Photo Editor est\u00e1 equipado con una completa caja de herramientas de edici\u00f3n de fotos. \u00a1Es la caja de herramientas fotogr\u00e1fica perfecta que necesitar\u00e1s!",
-         "Desde": "",
-         "Hasta": "2023/04/22 07:00",
-         "URL": "https://sharewareonsale.com/s/softorbits-simple-photo-editor-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/07/box_edt.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "O&O Defrag 25 Pro",
          "Informacion": "O&O Defrag Pro: optimizar discos duros y SSD",
          "Desde": "",
@@ -312,6 +242,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "SoftOrbits Photo Editor Pro",
+         "Informacion": "SoftOrbits Photo Editor est\u00e1 equipado con una completa caja de herramientas de edici\u00f3n de fotos. \u00a1Es la caja de herramientas fotogr\u00e1fica perfecta que necesitar\u00e1s!",
+         "Desde": "",
+         "Hasta": "2023/04/22 07:00",
+         "URL": "https://sharewareonsale.com/s/softorbits-simple-photo-editor-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/07/box_edt.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox DVD Ripper Pro License Key for Free 2023",
+         "Informacion": "WonderFox DVD Ripper Pro es una verdadera herramienta de extracci\u00f3n de DVD de velocidad No. 1 que brinda la soluci\u00f3n r\u00e1pida para copiar DVD a una amplia gama de formatos de audio y video convencionales, como DVD a AVI, DVD a MP4, DVD a MKV, DVD a MPG para copia de seguridad r\u00e1pida de DVD a iPad, DVD a iPhone 6, DVD a tel\u00e9fonos Android, etc. Y se mantienen agregados y compatibles nuevos formatos de medios.",
+         "Desde": "",
+         "Hasta": "2023/04/23 00:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-ripper-pro-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/02/wonderfox-dvd-ripper-giveaway-for-free-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "EXIF-CLEANER 2023",
          "Informacion": "\u00a1Elimina la informaci\u00f3n de la imagen EXIF \u200b\u200bde una o m\u00e1s im\u00e1genes o archivos gr\u00e1ficos de una sola vez!",
          "Desde": "",
@@ -319,6 +269,76 @@
          "URL": "https://sharewareonsale.com/s/abylonsoft-exif-cleaner-giveaway-coupon-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/11/exifcleaner-200x118.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "500 Premium Stock Images",
+         "Informacion": "Fotos de stock premium gratis. Disponible para uso comercial y personal.",
+         "Desde": "",
+         "Hasta": "2023/04/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-500-premium-stock-images-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/07/06e9bce0e95168ad472d6d72bb03b971-200x246.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "O&O DiskImage 17 Pro",
+         "Informacion": "O&O DiskImage 17 le permite hacer una copia de seguridad de una computadora completa o de archivos individuales cuando lo desee, incluso mientras la computadora est\u00e1 en uso. En caso de que pierda sus datos personales, puede restaurarlos r\u00e1pidamente con solo unos pocos clics del mouse, incluso cuando Windows ya no puede iniciarse. Tambi\u00e9n es compatible con unidades SSD y el \u00faltimo sistema UEFI.",
+         "Desde": "",
+         "Hasta": "2023/04/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-oo-diskimage-17-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/oodi17_startseite.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Deep Data Recovery 3",
+         "Informacion": "Software de recuperaci\u00f3n de datos seguro y efectivo que lo ayuda a recuperar completamente archivos del disco duro/partici\u00f3n, tarjeta SD, disco duro externo, unidad RAW, unidad USB, etc.",
+         "Desde": "",
+         "Hasta": "2023/04/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-deep-data-recovery-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/08/data_rec.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ant Download Manager PRO",
+         "Informacion": "Ant Download Manager (AntDM) es una herramienta que le permite aumentar repetidamente la velocidad de descarga de archivos debido a m\u00faltiples flujos de descarga, reanudar, programar descargas, capturar y descargar flujos de audio y video.",
+         "Desde": "",
+         "Hasta": "2023/04/24 07:00",
+         "URL": "https://sharewareonsale.com/s/ant-download-manager-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/11/antbox-150x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Qiling Deep Data Recovery License Key for Free",
+         "Informacion": "Qiling Deep Data Recovery es un software de recuperaci\u00f3n de datos que lo ayuda a recuperar archivos de la partici\u00f3n del disco duro, la tarjeta SD, el disco duro externo, la unidad RAW, la unidad USB, etc. Con \u00e9l, puede recuperar archivos, im\u00e1genes, documentos y videos perdidos. despu\u00e9s de eliminar, formatear, p\u00e9rdida de partici\u00f3n, bloqueo del sistema operativo, ataque de virus y otros escenarios de p\u00e9rdida de datos.",
+         "Desde": "",
+         "Hasta": "2023/04/24 14:00",
+         "URL": "https://giveaway.tickcoupon.com/qiling-deep-data-recovery-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/10/qiling-deep-data-recovery-giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ant Download Manager Pro Giveaway Full Download",
+         "Informacion": "Ant Download Manager es un administrador de descargas de Internet para cualquier archivo que lo ayude a descargar y administrar videos. Con este software, puede descargar los archivos de audio y extraer pistas de audio de archivos de video, luego convertirlos al popular formato MP3 y agregarles la informaci\u00f3n b\u00e1sica que los acompa\u00f1a.",
+         "Desde": "",
+         "Hasta": "2023/04/24 19:00",
+         "URL": "https://giveaway.tickcoupon.com/ant-download-manager-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/05/Ant-Download-Manager-Pro-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Poseidon - Project Dark Sky by procyon",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/04/25 20:30",
+         "URL": "https://procyon.itch.io/poseidon-project-dark-sky",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTExNTg3LzUxODExOS5wbmc=/347x500/LCm%2FSq.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -360,6 +380,46 @@
          "IMG": "https://cdn1.epicgames.com/offer/b13f6a1e5121469d8a825947b759339d/EGS_NeverAloneKisimaIngitchuna_UpperOneGamesELineMedia_S1_2560x1440-97a1d9c3e47e439ea05e900feaa4a892",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
+         "Desde": "",
+         "Hasta": "2023/04/29 04:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2023/04/29 04:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2023/04/29 04:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "50 Vintage Film Photo Overlays",
+         "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotos cinematogr\u00e1ficas!",
+         "Desde": "",
+         "Hasta": "2023/04/29 07:00",
+         "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/4-min-1-1300x867-1.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Forest Stats For Fortnite Battle Royale by munegames",
@@ -462,12 +522,72 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Guerreiros de f\u00c3\u00a9 by Carlos Junior",
-         "Informacion": "Juego de rol en 2D con batallas por turnos, un juego muy bueno y rico en detalles, un juego de rol incre\u00edble que te gustar\u00e1, por favor dona si puedes a trav\u00e9s del sitio web de itch o por pix carlos256.roberto @gmail.com",
+         "Nombre": "157 com poderes by Carlos Junior",
+         "Informacion": "157 con poderes es un juego de mundo abierto donde el personaje principal tiene superpoderes, en este juego puedes divertirte mucho en el mundo abierto y tambi\u00e9n puedes hacer misiones, un juego muy divertido por un gran precio.",
          "Desde": "",
          "Hasta": "2023/04/30 05:00",
-         "URL": "https://guerreirosdodragao.itch.io/guerreiros-de-f",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxMTczNC8xMTgyOTIzOS5wbmc=/347x500/b5Kt0u.png",
+         "URL": "https://guerreirosdodragao.itch.io/157-com-poderes",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg4Njk1OC8xMTA4ODU1NC5wbmc=/347x500/ZIrpvS.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "atirador de elite by Carlos Junior",
+         "Informacion": "el juego de francotiradores de \u00e9lite es un juego de disparos, que tiene como objetivo sobrevivir 90 segundos para pasar la etapa, con cada etapa que pasa, el juego se vuelve m\u00e1s dif\u00edcil",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/atirador-de-elite",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODAwNjc5LzQ0ODM1NzkucG5n/347x500/VlRF1D.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "brick breaker jr by Carlos Junior",
+         "Informacion": "este juego tiene como objetivo pasar las 10 fases, logrando destruir todos los objetos del nivel para pasar de fase",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/brick-breaker-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODEyMDM2LzQ1NTI4MDAuanBn/347x500/uAAari.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ca\u00c3\u00a7a ao monstro verde by Carlos Junior",
+         "Informacion": "el juego tiene como objetivo destruir a todos los enemigos que son monstruos verdes",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/caa-ao-monstro-verde",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODAzMzkzLzQ1MDAwMzUucG5n/347x500/8A4B1R.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ca\u00c3\u00a7a zumbi 2 by Carlos Junior",
+         "Informacion": "Juego de supervivencia fps con zombies y soldados.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/caa-zumbi-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5Mzc5Mi83NTI2OTYxLnBuZw==/347x500/YkRNUT.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ca\u00c3\u00a7a zumbi by Carlos Junior",
+         "Informacion": "juego de disparos y supervivencia contra zombies.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/caca-zumbi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTUyNTU0LzU0NDUxMzgucG5n/347x500/a4PMGR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "cobran\u00c3\u00a7a de faltas JR by Carlos Junior",
+         "Informacion": "juego de tiros libres, entrena y se el mejor",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/cobrana-de-faltas-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNTE1NS84MTg3MzExLnBuZw==/347x500/WBArMN.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -482,12 +602,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Knight Supreme by Carlos Junior",
-         "Informacion": "mejor juego de plataformas, medio mezclado con tetris y tambien con batalla contra el jefe en este juego tienes que ir armando filas de 5 bloques, e ir huyendo de la lava y peleando contra el jefe, el objetivo es sobrevivir a la lava y vencer el gran jefe",
+         "Nombre": "estacione o vehiculo by Carlos Junior",
+         "Informacion": "en este juego tienes que estacionar perfectamente el veh\u00edculo, hay varias etapas, hay autos, camiones y autobuses para que estaciones",
          "Desde": "",
          "Hasta": "2023/04/30 05:00",
-         "URL": "https://guerreirosdodragao.itch.io/knight-supreme",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0ODU3NC8xMTQ1NjMwNS5wbmc=/347x500/%2BhnFOI.png",
+         "URL": "https://guerreirosdodragao.itch.io/estacione-o-vehiculo",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTQxNS84MTY2NTEzLnBuZw==/347x500/HM7Mx%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "final lutador de rua by Carlos Junior",
+         "Informacion": "el juego es muy bueno es un juego de lucha el modo historia contiene 10 etapas",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/final-lutador-de-rua",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODA4OTI5LzQ1MzQ3NDYucG5n/347x500/G3kEre.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -502,12 +632,142 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "157 com poderes by Carlos Junior",
-         "Informacion": "157 con poderes es un juego de mundo abierto donde el personaje principal tiene superpoderes, en este juego puedes divertirte mucho en el mundo abierto y tambi\u00e9n puedes hacer misiones, un juego muy divertido por un gran precio.",
+         "Nombre": "futebol de bot\u00c3\u00a3o JR by Carlos Junior",
+         "Informacion": "bot\u00f3n de juego de f\u00fatbol.",
          "Desde": "",
          "Hasta": "2023/04/30 05:00",
-         "URL": "https://guerreirosdodragao.itch.io/157-com-poderes",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg4Njk1OC8xMTA4ODU1NC5wbmc=/347x500/ZIrpvS.png",
+         "URL": "https://guerreirosdodragao.itch.io/futebol-de-boto-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MzU1MS84MTIwNjgyLnBuZw==/347x500/O63LOJ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Futebol e Basquete JR by Carlos Junior",
+         "Informacion": "un partido de f\u00fatbol y baloncesto juntos.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/futebol-e-basquete-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MzY0My84MTIxMTEwLnBuZw==/347x500/ys1vId.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Golf brazil junior by Carlos Junior",
+         "Informacion": "Es un juego de golf con obst\u00e1culos, el objetivo es atravesar los obst\u00e1culos y meter la bola en el hoyo, el juego tiene 20 fases",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/golf-brazil-junior",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzk4NjczLzQ0NzIyNzIucG5n/347x500/QYPWZK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Guerra entre times by Carlos Junior",
+         "Informacion": "Guerra entre equipos es un juego donde 2 equipos se enfrentan, tu objetivo es eliminar a todos tus enemigos con tu equipo.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/guerra-entre-times",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzk5NDQwLzQ0NzY2MzMucG5n/347x500/U0ICpb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Guerreiros de f\u00c3\u00a9 by Carlos Junior",
+         "Informacion": "Juego de rol en 2D con batallas por turnos, un juego muy bueno y rico en detalles, un juego de rol incre\u00edble que te gustar\u00e1, por favor dona si puedes a trav\u00e9s del sitio web de itch o por pix carlos256.roberto @gmail.com",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/guerreiros-de-f",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxMTczNC8xMTgyOTIzOS5wbmc=/347x500/b5Kt0u.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Guerreiros do apocalipse by Carlos Junior",
+         "Informacion": "Es un juego de rol incre\u00edble, con varios mapas, varios monstruos y varios equipos con una historia muy chula.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-apocalipse",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzNjE4OS84OTYwNDYwLnBuZw==/347x500/yxMC3y.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "guerreiros do drag\u00c3\u00a3o by Carlos Junior",
+         "Informacion": "un juego de rol con varios monstruos, tu objetivo es hacer todas las misiones para acabar con el mal y llegar al m\u00e1ximo nivel con todo el equipo posible",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-drago",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwNTg2MC84Nzc3NjcyLnBuZw==/347x500/Of5onL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "infinite Runner JR Games by Carlos Junior",
+         "Informacion": "m\u00faltiples juegos de corredor infinito en un juego.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/infinite-runner-jr-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjE0Mi84MTcwNDA4LnBuZw==/347x500/mumrLG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR arcade race speed by Carlos Junior",
+         "Informacion": "es un juego de arcade de carreras",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/jr-arcade-race-speed",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQxNDk1My84MjQyMTM5LnBuZw==/347x500/iroLFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR DRIVER by Carlos Junior",
+         "Informacion": "Juego de carreras inspirado en top gear, esta versi\u00f3n es mucho mejor que top gear.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/jr-driver",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5NTMzMi84NzE2MzcwLnBuZw==/347x500/roJ2me.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR Games Retro by Carlos Junior",
+         "Informacion": "este juego es varios minijuegos retro juntos",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/jr-games-retro",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjIyOS84MTcwOTE0LnBuZw==/347x500/ZZDTAH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR invasion by Carlos Junior",
+         "Informacion": "un gran juego de lucha para PC, puedes luchar contra la m\u00e1quina y tambi\u00e9n contra tu amigo.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/jr-invasion",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MjE5OC85MDU2ODg2LnBuZw==/347x500/QHUM6Q.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR World by Carlos Junior",
+         "Informacion": "es un peque\u00f1o juego de rol de acci\u00f3n, evoluciona, hazte m\u00e1s fuerte y derrota a tus enemigos.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/jr-world",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNDgxOS84MTg1NDM3LnBuZw==/347x500/OGkHof.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Knight Supreme by Carlos Junior",
+         "Informacion": "mejor juego de plataformas, medio mezclado con tetris y tambien con batalla contra el jefe en este juego tienes que ir armando filas de 5 bloques, e ir huyendo de la lava y peleando contra el jefe, el objetivo es sobrevivir a la lava y vencer el gran jefe",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/knight-supreme",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0ODU3NC8xMTQ1NjMwNS5wbmc=/347x500/%2BhnFOI.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -518,6 +778,216 @@
          "Hasta": "2023/04/30 05:00",
          "URL": "https://guerreirosdodragao.itch.io/legend-futbol-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc5MzI5Ny8xMDUzNzE1Ni5wbmc=/347x500/46sJ0%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "maniacos by Carlos Junior",
+         "Informacion": "un juego de terror incre\u00edble, el juego es incre\u00edble y contiene dos etapas, sobrevivir y escapar de la isla.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/maniacos",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MDA0Ni85MTA1MzAyLnBuZw==/347x500/cHcpfV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Matador de monstros by Carlos Junior",
+         "Informacion": "el juego es un shooter y tiene como objetivo eliminar a todos los enemigos en el mapa",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/matador-de-monstros",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODEwOTY3LzQ1NDY2MjkuanBn/347x500/isiZyX.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "O arqueiro her\u00c3\u00b3i by Carlos Junior",
+         "Informacion": "the hero archer es un juego de rol de acci\u00f3n y aventura, con el objetivo de derrotar a todos los enemigos en el mapa para pasar el escenario, el juego contiene 10 etapas",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/o-arqueiro-heri",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODA1NTk1LzQ1MTM3ODUucG5n/347x500/Ksz%2BHm.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "O exterminador by Carlos Junior",
+         "Informacion": "el juego es de disparos, mola mucho, el juego contiene 10 niveles, el objetivo del juego es eliminar a todos los enemigos",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/o-exterminador",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODA5Mjg5LzQ1MzY5NzYuanBn/347x500/DZ2%2FN%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "o lutador de rua hist\u00c3\u00b3ria by Carlos Junior",
+         "Informacion": "el juego es muy bueno es un juego de lucha el modo historia contiene 10 etapas",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/o-lutador-de-rua-histria",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODA3MDQ4LzQ1MjMxMjYucG5n/347x500/LF5RCr.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "passarinho voador jr by Carlos Junior",
+         "Informacion": "el juego es genial, el objetivo del juego es resistir el mayor tiempo posible sin chocar con obst\u00e1culos y obtener la puntuaci\u00f3n m\u00e1s alta posible.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/passarinho-voador-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODExMTY2LzQ1NDc3NjguanBn/347x500/rJ5GSB.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "pegar o homem voador by Carlos Junior",
+         "Informacion": "el objetivo del juego es hacer click en el hombre volador con cada click se hace mas rapido el juego es muy divertido",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/pegar",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzk5OTM4LzQ0NzkzMDYucG5n/347x500/scgMWW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Police Survivor by Carlos Junior",
+         "Informacion": "muy chulo juego de supervivencia dando escape a la policia. tratar de obtener m\u00e1s y m\u00e1s una puntuaci\u00f3n m\u00e1s alta.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/police-survivor",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTI0MC84MTY1NjM2LnBuZw==/347x500/h0XBcK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pong Jr by Carlos Junior",
+         "Informacion": "un gran juego de pong.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/pong-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODExMDc3LzQ1NDcyNDcuanBn/347x500/eEdhUp.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Race crash JR by Carlos Junior",
+         "Informacion": "Juego de supervivencia de carreras de accidentes automovil\u00edsticos.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/race-crash-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTAxMC84MTY0NDY2LnBuZw==/347x500/QUcOLO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Resident Zumbi by Carlos Junior",
+         "Informacion": "juego de zombies",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/resident-zumbi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MTYwOC84MDQ3ODkxLnBuZw==/347x500/kmu5tO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Round 6 by Carlos Junior",
+         "Informacion": "juego de la ronda 6",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/round-6",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTA3Ny84MTY0ODM3LnBuZw==/347x500/4MSenR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Runner JR by Carlos Junior",
+         "Informacion": "juego de corredor, juego de carreras, trata de quedarte el mayor tiempo posible sin chocar, rompe tus r\u00e9cords.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/runner-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjAyNS84MTY5Nzk1LnBuZw==/347x500/Jv6hgd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Speed top Racer by Carlos Junior",
+         "Informacion": "juego de carreras, contiene grandes escenarios, juego de excelente calidad",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/speed-top-racer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MjA2MS84MTExOTI1LnBuZw==/347x500/H4zcrK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Top Down JR Games by Carlos Junior",
+         "Informacion": "tiene varios minijuegos de arriba hacia abajo en un juego",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/top-down-jr-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNTQxOS84MTg4NjcyLnBuZw==/347x500/4%2FyBAo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "torre de defesa do territ\u00c3\u00b3rio by Carlos Junior",
+         "Informacion": "es un juego de estrategia, que tiene como objetivo colocar torres para defender tu territorio",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/torre-de-defesa-do-territrio",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODAwMzYxLzQ0ODE2MzEucG5n/347x500/NWXs60.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Train Surfers JR by Carlos Junior",
+         "Informacion": "es un juego de supervivencia de corredor de velocidad, trata de alcanzar la puntuaci\u00f3n m\u00e1s alta posible sin chocar con obst\u00e1culos.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/train-surfers-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTE5NS84MTY1Mzk3LnBuZw==/347x500/%2Bng0jM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "truck trip by Carlos Junior",
+         "Informacion": "juego de camiones, viaje en cami\u00f3n, tienes que llegar al destino antes de que se acabe la gasolina.",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/truck-trip",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMDg1Mi84MTYzNjg0LnBuZw==/347x500/%2FLxBKR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "vampires evil by Carlos Junior",
+         "Informacion": "juego de disparos con 4 niveles geniales m\u00e1s modo de supervivencia",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/vampires-evil",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1ODExNi85MDkyMjc4LnBuZw==/347x500/GGRHQL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "van zig zag by Carlos Junior",
+         "Informacion": "un juego de camioneta en zig zag muy divertido el juego",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/van-zig-zag",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTUwMy84MTY2OTg1LnBuZw==/347x500/t4r6E5.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Voo de dimens\u00c3\u00a3o by Carlos Junior",
+         "Informacion": "juego de aviones",
+         "Desde": "",
+         "Hasta": "2023/04/30 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/voo-de-dimenso",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTMyMi84MTY2MDgxLnBuZw==/347x500/wb%2FsgD.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -572,6 +1042,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Sea Town: Final Night by David Pires",
+         "Informacion": "Est\u00e1s encerrado en un cementerio y tienes que protegerte de los maniqu\u00edes pose\u00eddos hasta las 6:00 AM.",
+         "Desde": "",
+         "Hasta": "2023/05/01 03:52",
+         "URL": "https://david-pires.itch.io/sea-town-final-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk5NTkyMC8xMTczMzQ3Mi5wbmc=/347x500/aajQt6.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town: Nightmare Night by David Pires",
+         "Informacion": "Est\u00e1s durmiendo en un hotel y tienes que protegerte de una pesadilla hasta las 6:00 AM.",
+         "Desde": "",
+         "Hasta": "2023/05/01 03:52",
+         "URL": "https://david-pires.itch.io/sea-town-nightmare-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk2NjE0Ny8xMTU2MDkyNS5wbmc=/347x500/w1JM%2BO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 3 by David Pires",
+         "Informacion": "Est\u00e1s trabajando como guardia de seguridad en un centro comercial y tienes que protegerte de los maniqu\u00edes pose\u00eddos hasta las 6:00 AM.",
+         "Desde": "",
+         "Hasta": "2023/05/01 03:52",
+         "URL": "https://david-pires.itch.io/sea-town-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1Nzg1MS8xMTUxMzExNC5wbmc=/347x500/%2BJhmLl.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 2 by David Pires",
+         "Informacion": "Est\u00e1s encerrado en una atracci\u00f3n encantada y tienes que protegerte de los maniqu\u00edes pose\u00eddos hasta las 6:00 AM.",
+         "Desde": "",
+         "Hasta": "2023/05/01 03:52",
+         "URL": "https://david-pires.itch.io/sea-town-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NTY0MS8xMTUwMTg4My5wbmc=/347x500/P9LzhX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Cattabunga! by JEMCraftStudios",
          "Informacion": "Cattabunga! es un juego de plataformas en 2D que se juega como un gato. El objetivo principal es llegar a la casa o al final de cada nivel. Las instrucciones sobre c\u00f3mo jugar est\u00e1n en el men\u00fa principal del juego. Realizado por\u00a0JEMCraftStudios. M\u00fasica de Jacob Meyers y Samuel Basset (Yellowsnow_yellow). Hola, otros desarrolladores independientes\u00a0(:",
          "Desde": "",
@@ -609,6 +1119,16 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-powerpoint-to-video-pro-giveaway-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/07/Leawo-PowerPoint-to-Video-Pro-Screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "GORE: Harvest by Zattstudio",
+         "Informacion": "GORE es un cl\u00e1sico juego de disparos en primera persona ambientado en una granja rural en el que asumes el papel de un granjero solitario que lucha contra oleadas de animales de granja hostiles. Armado con una variedad de armas cl\u00e1sicas como escopetas, rev\u00f3lveres y hachas, tendr\u00e1s que defenderte de granjeros enloquecidos, cerdos furiosos y otras criaturas enojadas.",
+         "Desde": "",
+         "Hasta": "2023/05/18 01:00",
+         "URL": "https://zattstudio.itch.io/gore-harvest",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MTIxNi8xMTU1MDcxMi5qcGc=/347x500/CAxoPa.jpg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
