@@ -1301,6 +1301,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 a.vdo.ai #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 acacdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 altronopubacc.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 rd.laithuns.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 asacdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cdn.easyads28.mobi #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cdn.runative-syndicate.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
