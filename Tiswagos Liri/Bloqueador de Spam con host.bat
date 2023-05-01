@@ -94,6 +94,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 pityhostngco2.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 planningunavoidablenull.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 politicianbusplate.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 princesinistervirus.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 populationrind.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 reapinject.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 reposemarshknot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1304,6 +1305,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 asacdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cdn.easyads28.mobi #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cdn.runative-syndicate.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 count-server.sharethis.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 connect.facebook.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 dkre4lyk6a9bt.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ilyf4amifh.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1322,6 +1324,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 c1.popads.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cdn.ay.gy #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d1clmik8la8v65.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 gaugeadroitself.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d1ev866ubw90c6.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d2kd9y1bp4zc6.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d2q9y3krdwohfj.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
