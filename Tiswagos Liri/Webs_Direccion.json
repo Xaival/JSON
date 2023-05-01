@@ -1,5 +1,5 @@
 {
-   "date_update": "30 Apr 2023 11:40 UTC",
+   "date_update": "01 May 2023 14:12 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -105,6 +105,9 @@
       },
       {
          "Direccion": "0.0.0.0 politicianbusplate.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 princesinistervirus.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 populationrind.com #AntiSpam"
@@ -3737,6 +3740,9 @@
          "Direccion": "0.0.0.0 cdn.runative-syndicate.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 count-server.sharethis.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 connect.facebook.net #AntiSpam"
       },
       {
@@ -3789,6 +3795,9 @@
       },
       {
          "Direccion": "0.0.0.0 d1clmik8la8v65.cloudfront.net #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 gaugeadroitself.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 d1ev866ubw90c6.cloudfront.net #AntiSpam"
