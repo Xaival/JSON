@@ -1,5 +1,5 @@
 {
-   "date_update": "25 Dec 2022 17:12 UTC",
+   "date_update": "05 May 2023 23:20 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -232,8 +232,8 @@
          "Descripcion": "Soldadura y calderer\u00eda",
          "Ciudad": "C\u00e1diz",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/gardar_battlehog",
-            "Insta2": "https://www.instagram.com/tito.gardar",
+            "Insta1": "https://www.instagram.com/verik_woodhaus/",
+            "Insta2": "https://www.instagram.com/illotito__/",
             "Insta3": "",
             "TikTok": "",
             "Twitter": "",
@@ -851,7 +851,7 @@
             "Insta1": "https://instagram.com/meera_lykoh",
             "Insta2": "https://www.instagram.com/galegix_",
             "Insta3": "",
-            "TikTok": "",
+            "TikTok": "https://www.tiktok.com/@galegix_",
             "Twitter": "",
             "Facebook": "",
             "Youtube": "",
@@ -1618,7 +1618,7 @@
          "Descripcion": "",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/nala_grimhilde/",
+            "Insta1": "https://www.instagram.com/nala_xhila/",
             "Insta2": "https://www.instagram.com/_nala_22_/",
             "Insta3": "",
             "TikTok": "",
@@ -1641,6 +1641,28 @@
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/johnn_cor",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAEV",
+         "Nombre": "",
+         "NombreRol": "Bastian",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "",
+         "Descripcion": "",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/bastian_midgard/",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
