@@ -1,5 +1,5 @@
 {
-   "date_update": "05 May 2023 23:20 UTC",
+   "date_update": "10 May 2023 19:47 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -207,7 +207,7 @@
          "Casa": "",
          "HermandadImgURL": "https://i.ibb.co/xGH2djZ/Defecto.webp",
          "ImgURL": "https://i.ibb.co/3vDJGmY/AAAAAL.webp",
-         "Descripcion": "Arquera.",
+         "Descripcion": "Arquera",
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/maria_argom95",
@@ -650,7 +650,7 @@
          "Descripcion": "Guerrero fornido.\n1 l\u00ednea de combate.",
          "Ciudad": "Sevilla",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/hans_el_suecio",
+            "Insta1": "https://www.instagram.com/neun_smijorn",
             "Insta2": "https://www.instagram.com/visitsuesco",
             "Insta3": "",
             "TikTok": "",
@@ -870,7 +870,7 @@
          "Descripcion": "Administrador del grupo de Wassap",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/rodrick_de_la_casa_reed",
+            "Insta1": "https://www.instagram.com/casareed_midgard/",
             "Insta2": "https://www.instagram.com/osuka_ks",
             "Insta3": "",
             "TikTok": "",
@@ -1026,6 +1026,28 @@
          "RRSS": {
             "Insta1": "https://www.instagram.com/hans_el_blanco",
             "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAEX",
+         "Nombre": "Carmen Garc\u00eda",
+         "NombreRol": "",
+         "Hermandad": "Midgard",
+         "Casa": "",
+         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
+         "ImgURL": "",
+         "Descripcion": "",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/dino.mcqueen/",
+            "Insta2": "https://www.instagram.com/basurero_de._.maiden/",
             "Insta3": "",
             "TikTok": "",
             "Twitter": "",
