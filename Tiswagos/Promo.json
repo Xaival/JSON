@@ -1,46 +1,6 @@
 {
-   "date_update": "10 May 2023 19:47 UTC",
+   "date_update": "11 May 2023 19:39 UTC",
    "values": [
-      {
-         "Nombre": "Screen Logger 3",
-         "Informacion": "Screen Logger captura la actividad de la pantalla para su posterior revisi\u00f3n. Se puede utilizar para vigilancia oculta.",
-         "Desde": "",
-         "Hasta": "2023/05/11 07:00",
-         "URL": "https://sharewareonsale.com/s/free-screen-logger-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/04/ss001-200x133.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 24%, yellow 24%) 1;"
-      },
-      {
-         "Nombre": "Formation Vee by NoiroVideoGames",
-         "Informacion": "Bienvenido a Formaci\u00f3n Vee. Un juego de carreras de contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en Formation Vee. Conduce utilizando la potencia de las ruedas para empujar la transmisi\u00f3n izquierda o derecha.",
-         "Desde": "",
-         "Hasta": "2023/05/11 09:00",
-         "URL": "https://noirovideogames.itch.io/formation-vee",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODM5MjYzLzQ3MDQ2ODkucG5n/347x500/RSqFJU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Walk by NoiroVideoGames",
-         "Informacion": "Bienvenido a Caminar.",
-         "Desde": "",
-         "Hasta": "2023/05/11 09:00",
-         "URL": "https://noirovideogames.itch.io/walk",
-         "IMG": "https://img.itch.zone/aW1nLzY3MjY3MjEuanBn/347x500/AxoXQH.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "WonderFox HD Video Converter Factory Pro",
-         "Informacion": "Convierta videos entre m\u00e1s de 100 formatos",
-         "Desde": "",
-         "Hasta": "2023/05/11 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-hd-video-converter-factory-pro/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-hd-video-converter-factory-pro-t5txh.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
       {
          "Nombre": "Get ExplorerMax Pro Giveaway License Key for Free",
          "Informacion": "ExplorerMax es una aplicaci\u00f3n inteligente de gesti\u00f3n de archivos para PC. Podr\u00e1 buscar carpetas/archivos por pesta\u00f1a en la encantadora interfaz Fluent Design. Viene con un sistema de b\u00fasqueda de alta velocidad que le permitir\u00e1 encontrar r\u00e1pidamente cualquier archivo en su sistema o disco duro. Los resultados se pueden ver en grupos. Adem\u00e1s, la aplicaci\u00f3n cuenta con una funci\u00f3n de marcador, que le permite mantener todas sus carpetas y archivos accesibles.",
@@ -49,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/explorermax-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/07/explorermax-pro-screenshot-license-code-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "Against All Odds",
@@ -59,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/against-all-odds-409105",
          "IMG": "https://cdn1.epicgames.com/spt-assets/a2f2a8a46ff648928b50bcc776bf9857/slaughter-league-offer-3kel0.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
       },
       {
          "Nombre": "Horizon Chase Turbo",
@@ -69,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/horizon-chase-turbo",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
       },
       {
          "Nombre": "Kao the Kangaroo",
@@ -79,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/kao-the-kangaroo-62abe3",
          "IMG": "https://cdn1.epicgames.com/spt-assets/4a2dcb55ecca496aaaf328f60263bb56/kao-the-kangaroo-offer-5k0vx.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
       },
       {
          "Nombre": "Poseidon - Project Dark Sky by procyon",
@@ -89,37 +49,7 @@
          "URL": "https://procyon.itch.io/poseidon-project-dark-sky",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTExNTg3LzUxODExOS5wbmc=/347x500/LCm%2FSq.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/05/12 00:00",
-         "URL": "https://magnus-froelund.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The backrooms by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/05/12 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
-         "Desde": "",
-         "Hasta": "2023/05/12 00:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "1943 by Magnus Froelund",
@@ -129,7 +59,37 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
+         "Desde": "",
+         "Hasta": "2023/05/12 00:00",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
+      },
+      {
+         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/05/12 00:00",
+         "URL": "https://magnus-froelund.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
+      },
+      {
+         "Nombre": "The backrooms by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/05/12 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "Audials One 2023 Edition",
@@ -139,7 +99,17 @@
          "URL": "https://sharewareonsale.com/s/free-audials-one-2023-edition-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/ao_seBoxshot@medium.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 24%, yellow 24%) 1;"
+      },
+      {
+         "Nombre": "DearMob iPhone Manager",
+         "Informacion": "Realice copias de seguridad, cifre y restaure todos los datos en su dispositivo iOS",
+         "Desde": "",
+         "Hasta": "2023/05/12 09:00",
+         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/dearmob-iphone-manager-_2uyi.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
       },
       {
          "Nombre": "Subcube remastered by dizzymindgames",
@@ -149,6 +119,16 @@
          "URL": "https://dizzymindgames.itch.io/subcube-remastered",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjAyODIwMi8xMjAwMzQ4NC5wbmc=/347x500/Ep8c63.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
+      },
+      {
+         "Nombre": "Copy Files Into Multiple Folders License Key Free",
+         "Informacion": "Vovsoft Copy Files Into Multiple Folders es un programa f\u00e1cil de usar que le permite copiar uno o varios archivos en muchas carpetas, con o sin sobrescribir el contenido existente en una operaci\u00f3n r\u00e1pida. La aplicaci\u00f3n tambi\u00e9n puede reconocer rutas utilizando variables de entorno; Tambi\u00e9n se admiten unidades de red compartidas.",
+         "Desde": "",
+         "Hasta": "2023/05/12 15:00",
+         "URL": "https://giveaway.tickcoupon.com/copy-files-into-multiple-folders/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/10/vovsoft-copy-files-into-multiple-folders-giveaway-free-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -162,13 +142,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Text to MP3 Converter",
-         "Informacion": "Convertir texto a voz",
+         "Nombre": "DearMob iPhone Manager License Key Free Giveaway",
+         "Informacion": "DearMob iPhone Manager es el primer administrador de iOS del mundo que transfiere datos de iPhone con un m\u00e9todo de encriptaci\u00f3n. Le permite administrar completamente sus datos de iOS. Tiene incorporada la capacidad de transferir fotos, videos y contactos de iPhone con grado de encriptaci\u00f3n militar para evitar fugas de privacidad, respaldar y restaurar datos de iOS en orden de tiempo, y opciones para transferir contenidos de forma selectiva de 2 v\u00edas desde la computadora al iPhone, ya sea un foto, video, m\u00fasica, contacto, mensaje, iTunes U, Podcast, aplicaci\u00f3n, calendario, voz, archivo, etc. Su privacidad no es inmune a las filtraciones, prot\u00e9jala para evitar amenazas con DearMob iPhone Manager.",
          "Desde": "",
-         "Hasta": "2023/05/13 07:00",
-         "URL": "https://sharewareonsale.com/s/free-text-to-mp3-converter-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/text-to-mp3-converter.png?1357",
-         "Distribuidora": "SharewareOnSale",
+         "Hasta": "2023/05/13 02:00",
+         "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/dearmob-iphone-manager-main-screenshot-2022.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -178,6 +158,16 @@
          "Hasta": "2023/05/13 07:00",
          "URL": "https://sharewareonsale.com/s/free-oo-defrag-25-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/pack-tb-1.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Text to MP3 Converter",
+         "Informacion": "Convertir texto a voz",
+         "Desde": "",
+         "Hasta": "2023/05/13 07:00",
+         "URL": "https://sharewareonsale.com/s/free-text-to-mp3-converter-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/text-to-mp3-converter.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -612,6 +602,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Power by Carlos Junior",
+         "Informacion": "Es un juego de rol incre\u00edble, un mundo donde dominan los poderes, si ganas le robas un poder al oponente y si pierdes tienes la oportunidad de perder uno de tus poderes, la jugabilidad es incre\u00edble",
+         "Desde": "",
+         "Hasta": "2023/05/15 05:00",
+         "URL": "https://guerreirosdodragao.itch.io/power",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1NTcxOS8xMjA4OTM1NS5wbmc=/347x500/lDandy.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Race crash JR by Carlos Junior",
          "Informacion": "Juego de supervivencia de carreras de accidentes automovil\u00edsticos.",
          "Desde": "",
@@ -732,13 +732,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Power by Carlos Junior",
-         "Informacion": "Es un juego de rol incre\u00edble, un mundo donde dominan los poderes, si ganas le robas un poder al oponente y si pierdes tienes la oportunidad de perder uno de tus poderes, la jugabilidad es incre\u00edble",
+         "Nombre": "F-Rename",
+         "Informacion": "Renombra tantos archivos como quieras de forma r\u00e1pida y sencilla",
          "Desde": "",
-         "Hasta": "2023/05/15 05:00",
-         "URL": "https://guerreirosdodragao.itch.io/power",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1NTcxOS8xMjA4OTM1NS5wbmc=/347x500/lDandy.png",
-         "Distribuidora": "Itch io",
+         "Hasta": "2023/05/15 07:00",
+         "URL": "https://sharewareonsale.com/s/free-f-rename-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/04/frename_en-200x333.png?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -748,16 +748,6 @@
          "Hasta": "2023/05/15 07:00",
          "URL": "https://sharewareonsale.com/s/free-oo-diskimage-17-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/oodi17_startseite.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "F-Rename",
-         "Informacion": "Renombra tantos archivos como quieras de forma r\u00e1pida y sencilla",
-         "Desde": "",
-         "Hasta": "2023/05/15 07:00",
-         "URL": "https://sharewareonsale.com/s/free-f-rename-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/04/frename_en-200x333.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -802,6 +792,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Audials Music 2023 SE",
+         "Informacion": "Spotify, Amazon, Tidal y muchos m\u00e1s. Encuentre y guarde canciones de Deezer, Amazon Music, Soundcloud, Tidal, Spotify, otros servicios de transmisi\u00f3n y portales de video como copias privadas.",
+         "Desde": "",
+         "Hasta": "2023/05/18 07:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-music-2023-se-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/amu_seBoxShot@medium.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Los Sims\u2122 4 Estilo de Vida Atrevido - Colecci\u00f3n",
          "Informacion": "Busca la aventura y la moda m\u00e1s audaz con esta colecci\u00f3n gratuita que contiene Los Sims\u2122 4 Aventura en la Selva Pack de Contenido, Los Sims\u2122 4 Fiesta Glamurosa Pack de Accesorios y Los Sims\u2122 4 Fashion Street - Kit.",
          "Desde": "2023/05/11",
@@ -809,7 +809,7 @@
          "URL": "https://store.epicgames.com/p/the-sims-4",
          "IMG": "https://cdn1.epicgames.com/offer/2a14cf8a83b149919a2399504e5686a6/EGS_TheSims4TheDaringLifestyleBundle_Maxis_Bundles_S1_2560x1440-1e11cf4a08a3fbc87660e4867c74d016",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Space Invaders by Nutty Studios",
@@ -922,6 +922,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Mystery Game",
+         "Informacion": "Mystery Game",
+         "Desde": "2023/05/18",
+         "Hasta": "2023/05/25 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Mystery Game",
+         "Informacion": "Mystery Game",
+         "Desde": "2023/05/18",
+         "Hasta": "2023/05/25 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Moonstone Deep by criacuervos",
          "Informacion": "Explora mundos olvidados y mazmorras mortales con tus compa\u00f1eros, toma decisiones dif\u00edciles y soporta sus consecuencias. Resuelve intrigantes rompecabezas para abrir puertas y obtener artefactos clave. \u00a1Divertirse!",
          "Desde": "",
@@ -992,6 +1012,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Jack VS The Uberwaffe by Nevada Baxo",
+         "Informacion": "\u00a1Juegas como Jack!",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://nevadavetacheese.itch.io/jackvs",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTI2NjQ0LzUyNDExNDMucG5n/347x500/Gdkl5B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Katakombs by Nevada Baxo",
+         "Informacion": "\u00bfCorre y salta?",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://nevadavetacheese.itch.io/katakombs",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzNjIwMy83MTMxMzQ2LnBuZw==/347x500/6fMc0j.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "simple frogger zx spectrum by unaux_25917242",
          "Informacion": "clon de rana",
          "Desde": "",
@@ -1028,26 +1068,6 @@
          "Hasta": "2023/05/31 00:00",
          "URL": "https://unaux-25917242.itch.io/virtual-pet-caterpillar-10",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTAwLzEyMzI4NTAuanBn/347x500/uxXYqe.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Katakombs by Nevada Baxo",
-         "Informacion": "\u00bfCorre y salta?",
-         "Desde": "",
-         "Hasta": "2023/05/31 00:00",
-         "URL": "https://nevadavetacheese.itch.io/katakombs",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzNjIwMy83MTMxMzQ2LnBuZw==/347x500/6fMc0j.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Jack VS The Uberwaffe by Nevada Baxo",
-         "Informacion": "\u00a1Juegas como Jack!",
-         "Desde": "",
-         "Hasta": "2023/05/31 00:00",
-         "URL": "https://nevadavetacheese.itch.io/jackvs",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTI2NjQ0LzUyNDExNDMucG5n/347x500/Gdkl5B.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1239,6 +1259,16 @@
          "URL": "https://sycreeper.itch.io/not-every-birthday-is-happy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTEzOTc0MC85MTE2MDI3LnBuZw==/347x500/OzbMg4.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Leawo Video Converter Free Giveaway License Key 1 Year",
+         "Informacion": "\u00bfEst\u00e1 buscando un software completo de conversi\u00f3n de video? Leawo Video Converter (para Mac o Windows) es la opci\u00f3n n\u00famero 1. Le permite realizar conversiones entre todos los formatos populares de video y audio: MP4 a AVI, MPEG a MOV, MKV a FLV, F4V a WebM, MOV a MP3, RMVB a AAC, MTS a M4A, RM a OGG, etc. Normalmente, su precio es de $29.95. Pero ahora, puede obtener la clave gratuita de Leawo Video Converter.",
+         "Desde": "",
+         "Hasta": "2023/06/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/leawo-video-converter-free-key-for-1-year/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/11/leawo-video-converter-giveaway-free-license.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
