@@ -59,6 +59,7 @@ mode con:cols=65 lines=16
   REM Añadir nuevas lineas dentro del host >> para agregar
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo. >> %systemroot%\System32\drivers\etc\hosts
+  echo 0.0.0.0 loading.bvmgo.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 142.91.159.139 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 23.109.87.27 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 886.novitrk6.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1247,6 +1248,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 pelis-online.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 getmoviesfor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 freemoney123.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 digitalpilotsoft.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 expertsofty.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 andthisannoun.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 big-loads.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1261,6 +1263,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 yieldtrk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 email.sl.safesecuremsg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.freevpn.win #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 supremeadblocker.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 lx.xfffx.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 2050.one #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ad-blockerapp.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
