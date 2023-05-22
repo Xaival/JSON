@@ -73,6 +73,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 crumbtypewriterhome.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cylindermonastery.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 datetime.date #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 weaponsnondescriptperceive.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 daughterinlawrib.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 delayeddisembroildisembroil.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 holdsoutset.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1193,6 +1194,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 byrl.me #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 gruposaintanddrclienteaccessodir-ba5a55.ingress-daribow.ewp.live #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 jhzuzgh5h01-be1ea5.ingress-earth.ewp.live #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 cuevana3.farm #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 123moviesbluray.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 123moviestop.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 best.verpelisgo.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1263,12 +1265,14 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 yieldtrk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 email.sl.safesecuremsg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.freevpn.win #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 supremoadblocko.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 lx.xfffx.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 2050.one #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ad-blockerapp.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ad-shield.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adblock-pro-download.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adblock-unlim.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 adblockenterpriseedition.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adblocker-app.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adblocker-app.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adblockerapp.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
