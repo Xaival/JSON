@@ -1,156 +1,6 @@
 {
-   "date_update": "22 May 2023 20:52 UTC",
+   "date_update": "25 May 2023 17:49 UTC",
    "values": [
-      {
-         "Nombre": "DARK LORD'S MAZE by Voxelvoid",
-         "Informacion": "DARK LORD'S MAZE es un juego de exploraci\u00f3n de mazmorras en 3D hecho al estilo de 8 bits.",
-         "Desde": "",
-         "Hasta": "2023/05/22 18:00",
-         "URL": "https://voxelvoid.itch.io/dark-lords-maze",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDY4MC8xMDIwMTI5NC5qcGc=/347x500/opqlzk.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
-      },
-      {
-         "Nombre": "Semantics Collapse by 20tauri",
-         "Informacion": "Descubre \"Semantics Collapse\": \u00a1un juego de palabras cautivador y adictivo!",
-         "Desde": "",
-         "Hasta": "2023/05/23 00:00",
-         "URL": "https://20tauri.itch.io/semantics-collapse",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA2NjIwNi8xMjE0OTgzNC5wbmc=/347x500/OrN0Er.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "coffee boy by bee tea",
-         "Informacion": "En este encantador juego corto, juegas como el chico del caf\u00e9 reci\u00e9n contratado. \u00a1depende de ti encontrar el Caf\u00e9 Verdadero y entreg\u00e1rselo a Boss! podr\u00e1s hacer amigos extravagantes, explorar la instalaci\u00f3n misteriosa, leer un texto de sabor hilarante y ... \u00bfencontrar al chico del caf\u00e9 desaparecido? De todos modos, no se preocupe por eso \u00faltimo, \u00a1y conc\u00e9ntrese en LLEVAR EL CAF\u00c9 AL JEFE!",
-         "Desde": "",
-         "Hasta": "2023/05/23 07:00",
-         "URL": "https://bee-tea.itch.io/coffeeboy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MzcwNy84MDg3NTc5LnBuZw==/347x500/m7t9P9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "rainy day by bee tea",
-         "Informacion": "\u00e2\u00a1 un juego corto sobre la lucha de una familia y su recuperaci\u00c3\u00b3n de la depresi\u00c3\u00b3n",
-         "Desde": "",
-         "Hasta": "2023/05/23 07:00",
-         "URL": "https://bee-tea.itch.io/rainyday",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Sea Town 2 by David Pires",
-         "Informacion": "Est\u00e1s encerrado en una atracci\u00f3n encantada y tienes que protegerte de los maniqu\u00edes pose\u00eddos hasta las 6:00 AM.",
-         "Desde": "",
-         "Hasta": "2023/05/24 03:52",
-         "URL": "https://david-pires.itch.io/sea-town-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NTY0MS8xMTUwMTg4My5wbmc=/347x500/P9LzhX.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sea Town 3 by David Pires",
-         "Informacion": "Est\u00e1s trabajando como guardia de seguridad en un centro comercial y tienes que protegerte de los maniqu\u00edes pose\u00eddos hasta las 6:00 AM.",
-         "Desde": "",
-         "Hasta": "2023/05/24 03:52",
-         "URL": "https://david-pires.itch.io/sea-town-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1Nzg1MS8xMTUxMzExNC5wbmc=/347x500/%2BJhmLl.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sea Town: Nightmare Night by David Pires",
-         "Informacion": "Est\u00e1s durmiendo en un hotel y tienes que protegerte de una pesadilla hasta las 6:00 AM.",
-         "Desde": "",
-         "Hasta": "2023/05/24 03:52",
-         "URL": "https://david-pires.itch.io/sea-town-nightmare-night",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk2NjE0Ny8xMTU2MDkyNS5wbmc=/347x500/w1JM%2BO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "AbstractCurves",
-         "Informacion": "AbstractCurves es un programa \u00fanico que le permite crear impresionantes fondos de pantalla o carteles en cualquier resoluci\u00f3n (para computadoras de escritorio, port\u00e1tiles, tel\u00e9fonos inteligentes, tabletas, etc.) y agregar efectos o logotipos/marcas de agua a sus fotos e im\u00e1genes. AbstractCurves incluye una variedad de configuraciones preestablecidas integradas para que las use f\u00e1cilmente y le brinda la capacidad de crear configuraciones definidas por el usuario. Este programa est\u00e1 disponible como aplicaci\u00f3n independiente y como complemento de los programas gr\u00e1ficos m\u00e1s populares, como Adobe Photoshop, Adobe Photoshop Elements, Corel Paint Shop Pro, IrfanView y otros.",
-         "Desde": "",
-         "Hasta": "2023/05/24 07:00",
-         "URL": "https://sharewareonsale.com/s/abstractcurves-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/03/ac_box_big-200x200.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "2D ZooM 1.5 by Durant dev",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/05/25 00:00",
-         "URL": "https://durant.itch.io/2d-zoom-15",
-         "IMG": "https://img.itch.zone/aW1nLzcwMTc4NjEucG5n/347x500/k4dacp.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "2D ZooM by Durant dev",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/05/25 00:00",
-         "URL": "https://durant.itch.io/2d-zoom",
-         "IMG": "https://img.itch.zone/aW1nLzY5NjYxOTkucG5n/347x500/VGJm1S.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Free Run by Durant dev",
-         "Informacion": "cr\u00e9dito a dani's 3d game karlson por inspiraci\u00f3n",
-         "Desde": "",
-         "Hasta": "2023/05/25 00:00",
-         "URL": "https://durant.itch.io/freerun",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MzYwNi85MTM1MzE3LnBuZw==/347x500/lxidEU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Incredible Zig Zag by Durant dev",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/05/25 00:00",
-         "URL": "https://durant.itch.io/incredible-zig-zag",
-         "IMG": "https://img.itch.zone/aW1nLzk3NjYwNzAucG5n/347x500/QrFqa2.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ultimate Minesweeper by Durant dev",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/05/25 00:00",
-         "URL": "https://durant.itch.io/minesweeper-petal",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Nero AI Image Upscaler",
-         "Informacion": "Nero AI Image Upscaler: Im\u00e1genes simplemente mejoradas",
-         "Desde": "",
-         "Hasta": "2023/05/25 07:00",
-         "URL": "https://sharewareonsale.com/s/free-nero-ai-image-upscaler-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/Photo-enlarger-with-Nero-AI-Image-Upscaler.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Metro: Last Light Complete Edition",
-         "Informacion": "Es el a\u00f1o 2034. Debajo de las ruinas del Mosc\u00fa posapocal\u00edptico, en los t\u00faneles del metro, los restos de la humanidad est\u00e1n asediados por amenazas mortales desde el exterior y desde el interior. Los mutantes acechan en las catacumbas bajo la superficie desolada y cazan en medio de los cielos envenenados.",
-         "Desde": "",
-         "Hasta": "2023/05/25 10:00",
-         "URL": "https://store.steampowered.com/app/43160/Metro_Last_Light_Complete_Edition/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/43160/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "DVDFab UHD Copy Free License Key 2023",
          "Informacion": "DVDFab UHD Copy es el primer software de copia 4K UHD del mundo que puede ayudarlo a eliminar cualquier protecci\u00f3n de copia UHD para hacer posible la copia de seguridad. Con su ayuda, puede copiar y reducir el t\u00edtulo de la pel\u00edcula principal de cualquier pel\u00edcula Blu-ray 4K Ultra HD sin protecci\u00f3n a un tama\u00f1o m\u00e1s peque\u00f1o para que quepa en un disco BD 50 25 normal, as\u00ed como guardar el contenido comprimido en el disco duro de una computadora como un archivo o carpeta ISO.",
@@ -159,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/get-dvdfab-uhd-copy-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/09/dvdfab-uhd-copy-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
       },
       {
          "Nombre": "DEATH STRANDING",
@@ -169,17 +19,7 @@
          "URL": "https://store.epicgames.com/p/death-stranding",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/DSLandscape_1920x1080-b4ff4164a3ce7c8c1901e8fdd53303b2",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Farm of Fairy Glen by JBo",
-         "Informacion": "Un homenaje a los incre\u00edbles juegos de granja que existen, un trabajo de amor que se hizo con pasi\u00f3n por el g\u00e9nero. Fue una ambici\u00f3n de toda la vida hacer este juego y estoy feliz con el resultado.",
-         "Desde": "",
-         "Hasta": "2023/05/25 17:00",
-         "URL": "https://jbo.itch.io/the-farm-of-fairy-glen",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA0MTA3MS81OTQ1NzY0LnBuZw==/347x500/gooTXp.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
       },
       {
          "Nombre": "The Fable of Fairy Glen by JBo",
@@ -189,6 +29,36 @@
          "URL": "https://jbo.itch.io/the-fable-of-fairy-glen",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTE5NjMwLzc5MTI0NzYucG5n/347x500/oZ4zrd.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
+      },
+      {
+         "Nombre": "The Farm of Fairy Glen by JBo",
+         "Informacion": "Un homenaje a los incre\u00edbles juegos de granja que existen, un trabajo de amor que se hizo con pasi\u00f3n por el g\u00e9nero. Fue una ambici\u00f3n de toda la vida hacer este juego y estoy feliz con el resultado.",
+         "Desde": "",
+         "Hasta": "2023/05/25 17:00",
+         "URL": "https://jbo.itch.io/the-farm-of-fairy-glen",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA0MTA3MS81OTQ1NzY0LnBuZw==/347x500/gooTXp.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
+      },
+      {
+         "Nombre": "WonderFox Photo Watermark",
+         "Informacion": "Proteja sus derechos en sus im\u00e1genes digitales",
+         "Desde": "",
+         "Hasta": "2023/05/26 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-photo-watermark/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-photo-watermark-gscdn.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "GiMeSpace Keyboard & Mouse Share 1.1.0 License Key Free",
+         "Informacion": "\u00bfQuieres aumentar la productividad de tu trabajo utilizando dos o m\u00e1s ordenadores? GiMeSpace Keyboard & Mouse Share podr\u00eda ser la utilidad para echarte una mano. Esta \u00fatil herramienta le permite controlar varias computadoras en un solo monitor. Utiliz\u00e1ndolo, puede compartir el portapapeles, transferir archivos, compartir ventanas entre computadoras.",
+         "Desde": "",
+         "Hasta": "2023/05/26 15:00",
+         "URL": "https://giveaway.tickcoupon.com/gimespace-keyboard-mouse-share-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/12/gimespace-keyboard-mouse-share-giveaway-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -199,6 +69,36 @@
          "URL": "https://procyon.itch.io/poseidon-project-dark-sky",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTExNTg3LzUxODExOS5wbmc=/347x500/LCm%2FSq.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Audials Music 2023 SE",
+         "Informacion": "Spotify, Amazon, Tidal y muchos m\u00e1s. Encuentre y guarde canciones de Deezer, Amazon Music, Soundcloud, Tidal, Spotify, otros servicios de transmisi\u00f3n y portales de video como copias privadas.",
+         "Desde": "",
+         "Hasta": "2023/05/27 07:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-music-2023-se-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/amu_seBoxShot@medium.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox Photo Watermark License Key Free Giveaway",
+         "Informacion": "WonderFox Photo Watermark es una herramienta \u00fatil que le permite colocar marcas de agua en sus im\u00e1genes para ayudarlo a combatir el uso no autorizado de su trabajo. Con \u00e9l, puede agregar texto e im\u00e1genes como su marca de agua. Tiene opciones para renombrar por lotes sus im\u00e1genes, cambiar el formato de la imagen y tambi\u00e9n puede agregar una variedad de marcos a sus im\u00e1genes.",
+         "Desde": "",
+         "Hasta": "2023/05/27 14:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-photo-watermark-serial-number/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/05/wonderfox-photo-watermark-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Auto Mouse Clicker License Key Free 2023",
+         "Informacion": "Vovsoft Auto Mouse Clicker es un programa sencillo y f\u00e1cil de usar para mover y hacer clic con el mouse para usuarios de Windows, como su nombre lo indica. El objetivo principal de la empresa de servicios p\u00fablicos es brindar a los usuarios las funciones para automatizar los procesos comerciales, aumentar la productividad y ahorrar tiempo al eliminar la necesidad de operaciones manuales que requieren mucha mano de obra.",
+         "Desde": "",
+         "Hasta": "2023/05/28 00:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-auto-mouse-clicker/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/05/vovsoft-auto-mouse-clicker-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -242,6 +142,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "VideoProc",
+         "Informacion": "VideoProc es su soluci\u00f3n ideal para editar, cambiar el tama\u00f1o y procesar videos 8K/4K/HD con aceleraci\u00f3n de hardware completa.",
+         "Desde": "",
+         "Hasta": "2023/05/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-videoproc-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/06/videonav.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Clipdiary",
+         "Informacion": "Clipdiary es un \u00fatil administrador de portapapeles para Windows que registra y realiza un seguimiento de todo lo que copia o corta (texto, im\u00e1genes, archivos, enlaces, etc.), lo que le permite pegar f\u00e1cilmente cualquier elemento que haya sido grabado. Clipdiary ofrece a los usuarios la opci\u00f3n de pegar elementos solo como texto sin formato (eliminando cualquier formato) y guarda los elementos grabados incluso despu\u00e9s de reiniciar Windows. No vuelvas a perder nada de lo que hayas copiado o cortado con Clipdiary.",
+         "Desde": "",
+         "Hasta": "2023/05/30 07:00",
+         "URL": "https://sharewareonsale.com/s/softvoile-clipdiary-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2013/11/clipdiary-154x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CutOut 8",
+         "Informacion": "\u00a1Los mejores detalles de imagen, cortes precisos para montajes fotogr\u00e1ficos creativos!",
+         "Desde": "",
+         "Hasta": "2023/05/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Chicken City Hipster Defense by NebelungGameStudios",
+         "Informacion": "\"Chicken City Hipster Defense\" es un juego de acci\u00f3n postapocal\u00edptico en el que asumes el papel de un prepper que defiende tu granja con barricadas y las preciosas gallinas de los hambrientos hipsters urbanos.",
+         "Desde": "",
+         "Hasta": "2023/05/30 07:00",
+         "URL": "https://nebelunggamestudios.itch.io/chicken-city-hipster-defense",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4Mjc2Mi8xMjI1MjE0My5wbmc=/347x500/w2EctR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
          "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 no descompilado mod it juego real que actualiza publicar juego completado! gracias a mystman12 por no enviar ese mod descompilado para enviarlo ya para actualizar el acceso al juego, no informar mi cuenta y el juego, \u00a1y ahora enviarlo a usted!",
          "Desde": "",
@@ -252,22 +192,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "TANK by PROJECTyaarj",
-         "Informacion": "TANK es un juego de disparos de tanques de arriba hacia abajo para un jugador.",
-         "Desde": "",
-         "Hasta": "2023/05/30 18:00",
-         "URL": "https://projectyaarj.itch.io/tank",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MTk0MC84MDQ5NjE5LmpwZw==/347x500/gEtdpV.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "SOLRAID by PROJECTyaarj",
          "Informacion": "SOLRAID es un juego de disparos de naves espaciales de arriba hacia abajo para un jugador.",
          "Desde": "",
          "Hasta": "2023/05/30 18:00",
          "URL": "https://projectyaarj.itch.io/solraid",
          "IMG": "https://img.itch.zone/aW1hZ2UvODU1Mzg2LzQ3OTg0ODAucG5n/347x500/vMsY3y.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TANK by PROJECTyaarj",
+         "Informacion": "TANK es un juego de disparos de tanques de arriba hacia abajo para un jugador.",
+         "Desde": "",
+         "Hasta": "2023/05/30 18:00",
+         "URL": "https://projectyaarj.itch.io/tank",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MTk0MC84MDQ5NjE5LmpwZw==/347x500/gEtdpV.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -392,12 +332,132 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "WonderFox DVD Video Converter Free License Key 2023",
+         "Informacion": "WonderFox DVD Video Converter es una herramienta eficiente que puede ayudarlo a convertir DVD y videos m\u00e1s r\u00e1pido que nunca. Con su ayuda, puede copiar todo tipo de pel\u00edculas en DVD y programas de TV a su PC y televisores inteligentes, adem\u00e1s de su iPhone, iPad y tel\u00e9fono y tableta Android.",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/wonderfox-dvd-video-converter-giveaway-free-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://magnus-froelund.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Free Run by Durant dev",
+         "Informacion": "cr\u00e9dito a dani's 3d game karlson por inspiraci\u00f3n",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://durant.itch.io/freerun",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MzYwNi85MTM1MzE3LnBuZw==/347x500/lxidEU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ultimate Minesweeper by Durant dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://durant.itch.io/minesweeper-petal",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Incredible Zig Zag by Durant dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://durant.itch.io/incredible-zig-zag",
+         "IMG": "https://img.itch.zone/aW1nLzk3NjYwNzAucG5n/347x500/QrFqa2.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "2D ZooM 1.5 by Durant dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://durant.itch.io/2d-zoom-15",
+         "IMG": "https://img.itch.zone/aW1nLzcwMTc4NjEucG5n/347x500/k4dacp.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "2D ZooM by Durant dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://durant.itch.io/2d-zoom",
+         "IMG": "https://img.itch.zone/aW1nLzY5NjYxOTkucG5n/347x500/VGJm1S.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/05/31 00:00",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo WinOptimizer 2023",
          "Informacion": "Ashampoo WinOptimizer 2023 proporciona mejoras efectivas para un Windows m\u00e1s r\u00e1pido, eficiente y seguro. M\u00e1s de 20 m\u00f3dulos de programa lo convierten en la \u00faltima caja de herramientas de software.",
          "Desde": "",
          "Hasta": "2023/05/31 07:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2023-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/front-2.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Audials Radio 2023",
+         "Informacion": "La grabadora de radio por Internet con 100 000 radios evoca legalmente una gran cantidad de archivos MP3 gratuitos en el disco duro",
+         "Desde": "",
+         "Hasta": "2023/05/31 07:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-radio-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/ara_seBoxShot@medium.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -488,6 +548,16 @@
          "Hasta": "2023/05/31 19:00",
          "URL": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MjYzMy8xMTQ4MTM4NS5wbmc=/347x500/S2%2Fsbv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Grain Beta 1.8.0 - Pets, Dyes, and Wood Tools by Pixel Fist Games",
+         "Informacion": "Grain es un juego de supervivencia sandbox basado en la f\u00edsica actualmente en versi\u00f3n beta.",
+         "Desde": "",
+         "Hasta": "2023/05/31 23:02",
+         "URL": "https://pixel-fist-games.itch.io/grain",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE2OTMwMi8xMDE3NjUzMS5wbmc=/347x500/fJ6%2Boj.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1099,7 +1169,27 @@
          "URL": "https://store.epicgames.com/es-ES/free-games",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fallout: New Vegas - Ultimate Edition",
+         "Informacion": "Feel the Heat in New Vegas! Not even nuclear fallout could slow the hustle of Sin City. Explore the vast expanses of the desert wastelands and see the Great Southwest as could only be imagined in Fallout.",
+         "Desde": "2023/05/25",
+         "Hasta": "2023/06/01 17:00",
+         "URL": "https://store.epicgames.com/p/fallout-new-vegas--ultimate-edition",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/fnv-land_2560x1440-ea034ab626174189b6edc7d38e7c05c4",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Free MacX DVD Ripper Pro License Code",
+         "Informacion": "MacX DVD Ripper Pro brinda la mejor soluci\u00f3n para extraer DVD comunes y encriptados a AVI, MP4, QT, MOV, FLV, H.264 y M4V, as\u00ed como a dispositivos port\u00e1tiles, incluidos iPhone 6/6 Plus/5S/5C, iPad/2 /3, iPad Air 2/Air, iPad mini 3/2, iPod, Samsung Galaxy S5 Mini/S5, Galaxy Note 4/Edge, Galaxy Tab S, HTC, PSP, Surface, etc. Su exclusiva funci\u00f3n de copia de seguridad de DVD le permite copie DVD a un archivo de video MPEG MKV ISO con la calidad de video original.",
+         "Desde": "",
+         "Hasta": "2023/06/05 00:00",
+         "URL": "https://giveaway.tickcoupon.com/macx-dvd-ripper-pro-for-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/07/macx-dvd-ripper-pro-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Not Every Birthday Is Happy by SyCreeper Games",
@@ -1108,26 +1198,6 @@
          "Hasta": "2023/06/05 16:00",
          "URL": "https://sycreeper.itch.io/not-every-birthday-is-happy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTEzOTc0MC85MTE2MDI3LnBuZw==/347x500/OzbMg4.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Track racing battle simulator by Dankoff",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/06/06 23:00",
-         "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cubes And More Cubes (Logic game) by Dankoff",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/06/06 23:00",
-         "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1142,12 +1212,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Cubes And More Cubes (Logic game) by Dankoff",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/06/06 23:00",
+         "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Track racing battle simulator by Dankoff",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/06/06 23:00",
+         "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hermit Hemp Farmer by yuccabuccA",
          "Informacion": "\u00a1Pon a prueba tus habilidades en este Farming FPS lleno de acci\u00f3n y ritmo r\u00e1pido!",
          "Desde": "",
          "Hasta": "2023/06/14 08:00",
          "URL": "https://yuccabucca.itch.io/hermit-hemp-farmer",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MTg3My8xMTU1NDMwMS5naWY=/347x500/8mMCG3.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Circle but Pretty by Turtl33",
+         "Informacion": "Circle but Pretty es un juego de Rythem basado en Super Hexagon",
+         "Desde": "",
+         "Hasta": "2023/06/14 23:00",
+         "URL": "https://turtl33.itch.io/cbp",
+         "IMG": "https://img.itch.zone/aW1nLzEyMjY3MTIxLnBuZw==/347x500/fiii9h.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
