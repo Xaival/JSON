@@ -1188,6 +1188,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 xhamsterlive.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 significadoconcepto.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 dark-reader.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 lgpc.trypeers.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 experti.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 samsungwashingmachine.fastlinktraffic.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 unltdentertainment.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
