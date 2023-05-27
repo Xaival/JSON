@@ -60,6 +60,7 @@ mode con:cols=65 lines=16
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo 0.0.0.0 142.91.159.139 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 t.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 23.109.87.27 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 886.novitrk6.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 accordaudienceeducational.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -356,6 +357,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 zbzdaw.deiightfuidate.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 thebestgame2020.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 best.aliexpress.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.oddschecker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1xbet.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 blancoshrimp.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 play.pulpower.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1420,6 +1422,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 cdn.rawgit.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 raw.githack.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.varietyofdisplayformats.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.imobljkhqw.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ads.exosrv.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cheapenleaving.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 crisistuesdayartillery.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
