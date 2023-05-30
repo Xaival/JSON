@@ -60,7 +60,6 @@ mode con:cols=65 lines=16
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo 0.0.0.0 142.91.159.139 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 t.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 23.109.87.27 #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 886.novitrk6.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 accordaudienceeducational.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -277,6 +276,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 syndication.realsrv.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 syrsple2se8nyu09.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 t.avod.link #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 t.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 taghaugh.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 tczzzlwpss.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 terialnevitiesini.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -328,6 +328,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 en.bestadultdatinglist-com.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 558718.erotilink.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 aduld.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 bigjoynow.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bl.flirtme.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 creative.xlivrdr.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 eu.adultporno.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -357,7 +358,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 zbzdaw.deiightfuidate.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 thebestgame2020.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 best.aliexpress.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 www.oddschecker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1xbet.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 blancoshrimp.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 play.pulpower.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -366,6 +366,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.bet365.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.casinogranmadridonline.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.declk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.oddschecker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.playuzu.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.thetvdb.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adsforcomputercity.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
