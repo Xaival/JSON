@@ -512,6 +512,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 pure-nudism.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 puregirlsex.mobi #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 realteenfuck.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.pornogratisdiario.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 rockdilla.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 seductivegirls.eu #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sexmodelboard.one #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
