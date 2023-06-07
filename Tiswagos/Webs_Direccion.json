@@ -1,5 +1,5 @@
 {
-   "date_update": "05 Jun 2023 19:12 UTC",
+   "date_update": "07 Jun 2023 09:19 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -401,6 +401,9 @@
          "Direccion": "0.0.0.0 greenplasticdua.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 gunreset.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 hopuchcomp.xyz #AntiSpam"
       },
       {
@@ -651,9 +654,6 @@
       },
       {
          "Direccion": "0.0.0.0 t.avod.link #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 t.co #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 taghaugh.com #AntiSpam"
@@ -3830,6 +3830,9 @@
          "Direccion": "0.0.0.0 socialnetwork-adblocker.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 ssssssssssssssssss-atl2z.ondigitalocean.app #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 stop-ad-blocker.com #AntiSpam"
       },
       {
@@ -3837,6 +3840,9 @@
       },
       {
          "Direccion": "0.0.0.0 stopadblocker.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 stopadzblock.net #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 streamblocked.com #AntiSpam"
