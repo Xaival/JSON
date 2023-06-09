@@ -192,6 +192,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 goosebomb.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 greatdexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 greenplasticdua.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 gunreset.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hopuchcomp.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 href.li #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hugfromoctopus.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -276,7 +277,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 syndication.realsrv.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 syrsple2se8nyu09.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 t.avod.link #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 t.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 taghaugh.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 tczzzlwpss.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 terialnevitiesini.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1335,9 +1335,11 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 skiptheadz.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 skiptheadz.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 socialnetwork-adblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ssssssssssssssssss-atl2z.ondigitalocean.app #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 stop-ad-blocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 stop-adblocker.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 stopadblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 stopadzblock.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 streamblocked.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 supreme-ad-blocker.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 supreme-adblock.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1392,6 +1394,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 gvemv.ukindwouldm.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 gyntb.nergyflexibilit.pics #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hcdwj.oratefinaukn.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 myrrhisunition.store #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sblvc.kentinedaug.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 vmyzq.nergyflexibilit.pics #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 wbucq.nergyflexibilit.pics #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
