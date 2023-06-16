@@ -1,96 +1,6 @@
 {
-   "date_update": "15 Jun 2023 18:37 UTC",
+   "date_update": "16 Jun 2023 19:36 UTC",
    "values": [
-      {
-         "Nombre": "Mystery Game",
-         "Informacion": "Mystery Game",
-         "Desde": "2023/06/08",
-         "Hasta": "2023/06/15 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
-      },
-      {
-         "Nombre": "PAYDAY 2",
-         "Informacion": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
-         "Desde": "2023/06/08",
-         "Hasta": "2023/06/15 17:00",
-         "URL": "https://store.epicgames.com/p/payday-2-c66369",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/mammoth-h1nvv_2560x1440-ac346d6ece5ec356561e112fbddb2dc1",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
-      },
-      {
-         "Nombre": "Borderlands 3 Season Pass",
-         "Informacion": "\u00a1Sigue disfrutando de Borderlands 3 con el Pase de temporada, que cuenta con objetos cosm\u00e9ticos \u00fanicos y cuatro campa\u00f1as m\u00e1s con nuevas misiones y desaf\u00edos!",
-         "Desde": "2023/05/18",
-         "Hasta": "2023/06/15 17:00",
-         "URL": "https://store.epicgames.com/p/borderlands-3",
-         "IMG": "https://cdn1.epicgames.com/offer/catnip/Diesel_productv2_borderlands-3_season-pass_BL3_SEASONPASS_Hero-3840x2160-4411e63a005a43811a2bc516ae7ec584598fd4aa-3840x2160-b8988ebb0f3d9159671e8968af991f30_3840x2160-b8988ebb0f3d9159671e8968af991f30",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
-      },
-      {
-         "Nombre": "WinX HD Video Converter Deluxe License Key Free Giveaway",
-         "Informacion": "WinX HD Video Converter Deluxe, un software de video todo en uno como convertidor de video Ultra HD, creador de presentaciones de diapositivas y editor de video, le brinda el m\u00e1ximo control sobre los archivos de video con resoluci\u00f3n SD, HD y 4K. Con m\u00e1s de 320 c\u00f3decs de video y 50 c\u00f3decs de audio, posee la poderosa capacidad de satisfacer las necesidades de conversi\u00f3n de video r\u00e1pidas y de alta calidad sin la ayuda de ninguna herramienta de terceros.",
-         "Desde": "",
-         "Hasta": "2023/06/16 00:00",
-         "URL": "https://giveaway.tickcoupon.com/winx-hd-video-converter-deluxe-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/winx-hd-video-converter-deluxe-license-key-free.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 48%, yellow 48%) 1;"
-      },
-      {
-         "Nombre": "Othello by odAyzaod",
-         "Informacion": "Ya sea que est\u00e9s buscando una manera de desarrollar tu pensamiento estrat\u00e9gico, o est\u00e9s buscando un desaf\u00edo, o simplemente una excelente manera de pasar el tiempo durante un largo y aburrido d\u00eda de trabajo, este es el juego para ti.",
-         "Desde": "",
-         "Hasta": "2023/06/16 01:00",
-         "URL": "https://odayzaod.itch.io/othello",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEwMDY3NC8xMjM2MzAzOC5wbmc=/347x500/1Z7JCl.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "PURE HDR",
-         "Informacion": "PURE HDR es la herramienta para todos los profesionales de HDR que buscan infundir detalles fascinantes y v\u00edvidos en sus trabajos fotogr\u00e1ficos mediante la utilizaci\u00f3n de espectros completos de luz y color. En forma de una extensi\u00f3n de complemento, PURE HDR funciona con las \u00faltimas capacidades de edici\u00f3n HDR de 32 bits de las colecciones de proyectos galardonadas de FRANZIS HDR directamente en Lightroom\u00ae y Photoshop\u00ae.",
-         "Desde": "",
-         "Hasta": "2023/06/16 07:00",
-         "URL": "https://sharewareonsale.com/s/free-pure-hdr-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/05/x30979-0_01_1280x1280_png_pagespeed_ic_dk_N3-wugc-200x287.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "Dream of Darkness: Prologue by Dream of Darkness",
-         "Informacion": "Dream of Darkness: Prologue es una novela visual basada en una historia para PC. Juegas como Ant\u00f3n de Alaminos, basado en el marinero espa\u00f1ol real que se topa con el Nuevo Mundo. A medida que exploras esta tierra misteriosa, poco a poco se da cuenta de que algo antiguo, algo malvado, est\u00e1 a punto de despertar... A trav\u00e9s de este viaje, t\u00fa... Enfrentar\u00e1 obst\u00e1culos y horrores sobrenaturales que pondr\u00e1n a prueba los l\u00edmites de su cordura.",
-         "Desde": "",
-         "Hasta": "2023/06/16 08:00",
-         "URL": "https://dreamofdarkness.itch.io/dreamofdarkness",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjUwNjgxLzM1NTAyOTMuanBn/347x500/mhml0Q.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "WonderFox DVD Ripper Pro",
-         "Informacion": "Transforme pel\u00edculas en DVD en formatos de archivo port\u00e1tiles",
-         "Desde": "",
-         "Hasta": "2023/06/16 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-ripper-2/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-dvd-ripper-2-aa6ca.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
-      },
-      {
-         "Nombre": "EVANESCE by Schodingerskitty",
-         "Informacion": "Un juego de terror en primera persona en el que juegas como mayordomo.",
-         "Desde": "",
-         "Hasta": "2023/06/16 09:00",
-         "URL": "https://schodingerskitty.itch.io/evanesce",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5NDE5MC8xMjQ2OTAyMy5wbmc=/347x500/dBSVlD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
-      },
       {
          "Nombre": "FRANZIS PURE HDR License Key Free | Software Giveaway",
          "Informacion": "FRANZIS PURE HDR es una poderosa herramienta de edici\u00f3n de fotos para todos los profesionales de HDR que los ayudar\u00e1 a inculcar detalles fascinantes y v\u00edvidos en sus trabajos fotogr\u00e1ficos mediante la utilizaci\u00f3n de espectros completos de luz y color. Esta herramienta convertir\u00e1 Lightroom y Photoshop en m\u00e1quinas HDR. Adem\u00e1s, puede fusionar las im\u00e1genes de exposici\u00f3n de horquillado y utiliza el mapeo de tonos para crear una foto adecuada para imprimir y mostrar en pantalla.",
@@ -99,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/franzis-pure-hdr-license-code-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/05/franzis-pure-hdr-giveaway-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
       },
       {
          "Nombre": "WonderFox DVD Ripper Pro License Key for Free 2023",
@@ -109,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-ripper-pro-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/02/wonderfox-dvd-ripper-giveaway-for-free-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
       },
       {
          "Nombre": "1943 by Magnus Froelund",
@@ -119,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Froelund",
@@ -129,7 +39,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Froelund",
@@ -139,7 +49,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Magnus Froelund",
@@ -149,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "The backrooms by Magnus Froelund",
@@ -159,27 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Cruel One 2 by Sky High Games",
-         "Informacion": "El Cruel ha vuelto y tiene planes de arruinar la Navidad. Eres un periodista independiente que documenta operaciones en el taller de Santa. Descubres que un intruso ha irrumpido en el taller y tiene planes de deshacerse de Santa para siempre.",
-         "Desde": "",
-         "Hasta": "2023/06/17 06:00",
-         "URL": "https://sky-high-games.itch.io/the-cruel-one-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzNjc0OS8xMDc3Nzg5MC5qcGc=/347x500/pZS6Gm.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Infestation by Sky High Games",
-         "Informacion": "Este juego de terror te pondr\u00e1 la piel de gallina. Una cucaracha de tama\u00f1o humano anda suelta y debes encontrar una manera de salir de las instalaciones con tus \u00fanicas opciones: correr, esconderte o morir.",
-         "Desde": "",
-         "Hasta": "2023/06/17 06:00",
-         "URL": "https://sky-high-games.itch.io/theinfestation",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc4MDUzOC8xMDQ2NjEzNS5naWY=/347x500/JpcwN4.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "Highway Of Tears by Sky High Games",
@@ -189,17 +79,7 @@
          "URL": "https://sky-high-games.itch.io/highway-of-tears",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU5MzE4OS85MzE1MzgyLmpwZw==/347x500/y8RFZG.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Cruel One by Sky High Games",
-         "Informacion": "Es la ma\u00f1ana de Navidad, pero algo anda mal, faltan todos tus regalos. Con una pista, haces todo lo posible para recuperarlos.",
-         "Desde": "",
-         "Hasta": "2023/06/17 06:00",
-         "URL": "https://sky-high-games.itch.io/the-cruel-one",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyODkwNi83NzI3ODY2LnBuZw==/347x500/O9xIbe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "Like Us by Sky High Games",
@@ -209,7 +89,37 @@
          "URL": "https://sky-high-games.itch.io/like-us",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTAzOTAwMi81OTMzNDIwLnBuZw==/347x500/c4CRC7.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
+      },
+      {
+         "Nombre": "The Cruel One 2 by Sky High Games",
+         "Informacion": "El Cruel ha vuelto y tiene planes de arruinar la Navidad. Eres un periodista independiente que documenta operaciones en el taller de Santa. Descubres que un intruso ha irrumpido en el taller y tiene planes de deshacerse de Santa para siempre.",
+         "Desde": "",
+         "Hasta": "2023/06/17 06:00",
+         "URL": "https://sky-high-games.itch.io/the-cruel-one-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzNjc0OS8xMDc3Nzg5MC5qcGc=/347x500/pZS6Gm.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
+      },
+      {
+         "Nombre": "The Cruel One by Sky High Games",
+         "Informacion": "Es la ma\u00f1ana de Navidad, pero algo anda mal, faltan todos tus regalos. Con una pista, haces todo lo posible para recuperarlos.",
+         "Desde": "",
+         "Hasta": "2023/06/17 06:00",
+         "URL": "https://sky-high-games.itch.io/the-cruel-one",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyODkwNi83NzI3ODY2LnBuZw==/347x500/O9xIbe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
+      },
+      {
+         "Nombre": "The Infestation by Sky High Games",
+         "Informacion": "Este juego de terror te pondr\u00e1 la piel de gallina. Una cucaracha de tama\u00f1o humano anda suelta y debes encontrar una manera de salir de las instalaciones con tus \u00fanicas opciones: correr, esconderte o morir.",
+         "Desde": "",
+         "Hasta": "2023/06/17 06:00",
+         "URL": "https://sky-high-games.itch.io/theinfestation",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc4MDUzOC8xMDQ2NjEzNS5naWY=/347x500/JpcwN4.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "Fast Video Downloader",
@@ -219,7 +129,17 @@
          "URL": "https://sharewareonsale.com/s/free-fast-video-downloader-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/07/FastVD_Box_medium-139x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
+      },
+      {
+         "Nombre": "abylon SHAREDDRIVE",
+         "Informacion": "Cifre sus archivos m\u00e1s importantes",
+         "Desde": "",
+         "Hasta": "2023/06/17 09:00",
+         "URL": "https://www.bitsdujour.com/software/abylon-shareddrive/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/abylon-shareddrive-bwr1g.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
       },
       {
          "Nombre": "ASCOMP PDF Conversa Professional License Key Free",
@@ -228,6 +148,16 @@
          "Hasta": "2023/06/17 14:00",
          "URL": "https://giveaway.tickcoupon.com/ascomp-pdf-conversa-license-for-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/06/ascomp-pdf-conversa-giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "KC Softwares AVIToolbox License Key for Free",
+         "Informacion": "AVIToolbox es una caja de herramientas simple pero altamente efectiva que puede funcionar con archivos de video comunes para dividir archivos de video, extraer bandas sonoras, capturar im\u00e1genes y mucho m\u00e1s. Adem\u00e1s, su capacidad de grabaci\u00f3n le permite grabar f\u00e1cilmente cualquier archivo de video en un DVD reproducible.",
+         "Desde": "",
+         "Hasta": "2023/06/17 15:00",
+         "URL": "https://giveaway.tickcoupon.com/kc-softwares-avitoolbox-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/09/kc-softwares-avitoolbox-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -252,6 +182,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Audials TV Recorder 2023",
+         "Informacion": "Audials TV Recorder\u00a0combina ver y grabar contenido de TV y podcasts",
+         "Desde": "",
+         "Hasta": "2023/06/18 07:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-tv-recorder-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/amo_seBoxShot@medium.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ThunderSoft GIF Maker",
          "Informacion": "Una herramienta \u00fatil para hacer gif a partir de archivos jpg, png y bmp.",
          "Desde": "",
@@ -262,12 +202,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Audials TV Recorder 2023",
-         "Informacion": "Audials TV Recorder\u00a0combina ver y grabar contenido de TV y podcasts",
+         "Nombre": "250 Handmade Icons Pack",
+         "Informacion": "\u00a1Este Awesome Icons Bundle est\u00e1 cargado con 250 \u00edconos \u00fanicos y hechos a mano de los que te enamorar\u00e1s!",
          "Desde": "",
          "Hasta": "2023/06/18 07:00",
-         "URL": "https://sharewareonsale.com/s/free-audials-tv-recorder-2023-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/amo_seBoxShot@medium.png?1357",
+         "URL": "https://sharewareonsale.com/s/free-250-handmade-icons-pack-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/250-Handmade-Icons-Pack-by-Eldamar-Studios-for-SharewareOnSale-200x134.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -372,6 +312,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "WonderFox DVD Video Converter Free License Key 2023",
+         "Informacion": "WonderFox DVD Video Converter es una herramienta eficiente que puede ayudarlo a convertir DVD y videos m\u00e1s r\u00e1pido que nunca. Con su ayuda, puede copiar todo tipo de pel\u00edculas en DVD y programas de TV a su PC y televisores inteligentes, adem\u00e1s de su iPhone, iPad y tel\u00e9fono y tableta Android.",
+         "Desde": "",
+         "Hasta": "2023/06/22 12:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/wonderfox-dvd-video-converter-giveaway-free-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Guacamelee! 2",
          "Informacion": "\u00a1Vuelve al Mexiverso con la esperada secuela del exitoso Guacamelee! L\u00e1nzate en plancha hacia la victoria en los sorprendentes y nuevos niveles hechos a mano.",
          "Desde": "2023/06/15",
@@ -389,6 +339,26 @@
          "URL": "https://store.epicgames.com/p/guacamelee-stce-7cdbc8",
          "IMG": "https://cdn1.epicgames.com/spt-assets/7041a1ca4ed543459b95d78887047bd9/guacamelee-stce-ztldk.jpg",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hasleo Data Recovery Professional 6",
+         "Informacion": "\u00a1El software de recuperaci\u00f3n de datos ayuda a recuperar datos perdidos bajo cualquier condici\u00f3n!",
+         "Desde": "",
+         "Hasta": "2023/06/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-hasleo-data-recovery-professional-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/select-recovery-mode-200x140.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hasleo Data Recovery Professional License Key Free 2023",
+         "Informacion": "Si tiene problemas para elegir una herramienta entre muchas herramientas de recuperaci\u00f3n de datos en los motores de b\u00fasqueda actuales, Hasleo Data Recovery Professional podr\u00eda ser una buena opci\u00f3n. Es un software de recuperaci\u00f3n de datos potente y profesional que lo ayuda a recuperar archivos borrados o perdidos del disco duro, SSD, disco duro externo, unidad flash USB, tarjeta SD y otros dispositivos de almacenamiento de la manera m\u00e1s f\u00e1cil y r\u00e1pida.",
+         "Desde": "",
+         "Hasta": "2023/06/23 14:00",
+         "URL": "https://giveaway.tickcoupon.com/hasleo-data-recovery-professional-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/10/hasleo-data-recovery-professional-giveaway-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -428,6 +398,16 @@
          "Hasta": "2023/06/24 20:30",
          "URL": "https://nitish-thombre.itch.io/the-door",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Poseidon - Project Dark Sky by procyon",
+         "Informacion": "Todo mi otro software - Gypsy Retro TV - Phoenix Pro Theatre - Alien Vision",
+         "Desde": "",
+         "Hasta": "2023/06/24 20:30",
+         "URL": "https://procyon.itch.io/poseidon-project-dark-sky",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTExNTg3LzUxODExOS5wbmc=/347x500/LCm%2FSq.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -538,6 +518,16 @@
          "Hasta": "2023/06/29 23:00",
          "URL": "https://nnuk.itch.io/the-weird-gamma",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1NzExNi85MDg2MjA3LnBuZw==/347x500/0KHSIt.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "\u00d0\u009a\u00d0\u00b0\u00d0\u00bf\u00d0\u00b8\u00d1\u0082\u00d0\u00b0\u00d0\u00bb \u00d0\u00a8\u00d0\u00be\u00d1\u0083 + \u00d0\u00a1\u00d1\u0083\u00d0\u00bf\u00d0\u00b5\u00d1\u0080 \u00d0\u0098\u00d0\u00b3\u00d1\u0080\u00d0\u00b0 by existical",
+         "Informacion": "- \u00bb\u00d0\u00b5\u00d0\u00b2\u00d0\u00b8\u00d0\u00b7\u00d0\u00b8\u00d0\u00be\u00d0\u00bd\u00d0\u00bd\u00d0\u00be\u00d0\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 - 1. - - - - - - \u00d1\u0102\u0103\u00d1\u0102\u0102\u00d0\u00ba\u00d0\u00b8 \u00d0\u00be\u00d1\u0102 \u00d0\u00b2\u00d0\u00b5\u00d0\u00b4\u00d1\u0102\u10c3\u00d1\u0102\u1e09\u00d0\u00b5\u00d0\u00b3\u00d0\u00be.",
+         "Desde": "",
+         "Hasta": "2023/06/29 23:00",
+         "URL": "https://existical.itch.io/capitalshow",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzMjMzNS8xMTA4NDMyMy5wbmc=/347x500/0Jh79D.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1202,6 +1192,66 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Space Patrol: Sector Wars (Local COOP) by BuilderManX",
+         "Informacion": "\u00a1Prep\u00e1rate para una experiencia arcade de disparos llena de adrenalina en \"Space Patrol: Sector Wars\"! Une fuerzas con un socio cooperativo local como pilotos de patrulla espacial de \u00e9lite, encargados de mantener la ley y el orden en los sectores m\u00e1s peligrosos de la galaxia. Toma el mando de tu nave patrullera de alta tecnolog\u00eda, cargada con armamento avanzado y tecnolog\u00eda de punta, y emb\u00e1rcate en una misi\u00f3n \u00e9pica para llevar la justicia al cosmos.",
+         "Desde": "",
+         "Hasta": "2023/06/30 07:00",
+         "URL": "https://buildermanx.itch.io/space-patrol-sector-wars-local-coop",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAwODkxNC8xMTgxMjY1Ni5wbmc=/347x500/mcmKif.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BadGuy's Escape to Comodo - ZAM by BuilderManX",
+         "Informacion": "Es un lugar de aventuras. BadGuy's Escape to Comodo es un juego en el que exploras un enorme mundo abierto y asumes el papel de un hombre que huye. Puede explorar una gran variedad de terrenos, incluidos desiertos, monta\u00f1as, ciudades y pueblos generados por procedimientos. Para ayudarte en tu b\u00fasqueda, Escape to Comodo incluye una variedad de armas, accesorios para la cabeza y ropa para ayudar a mejorar la experiencia de juego de roles. Los jugadores tambi\u00e9n pueden construir su propia historia, elegir entre cientos de opciones y personalizar su personaje con diferentes atuendos, equipos y sombreros. Cuando te aventuras en una misi\u00f3n, puedes elegir conducir, explorar o caminar a trav\u00e9s de una tierra casi infinita.",
+         "Desde": "",
+         "Hasta": "2023/06/30 07:00",
+         "URL": "https://buildermanx.itch.io/badguys-escape-to-comodo-zam",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjE1OS84MTQ2ODM4LnBuZw==/347x500/wxXDQW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Intergalactic Space Patrol by BuilderManX",
+         "Informacion": "Esta es la patrulla de la nave estelar ISP Venture nuestra misi\u00f3n de 5 minutos es ser una entretenida parodia de la ciencia ficci\u00f3n y el control corporativo moderno de TODO. Ven y disfruta de este juego de aventuras h\u00edbridas de simulaci\u00f3n espacial mientras criticamos las partes m\u00e1s rid\u00edculas del g\u00e9nero que amamos.",
+         "Desde": "",
+         "Hasta": "2023/06/30 07:00",
+         "URL": "https://buildermanx.itch.io/intergalactic-space-patrol",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Njc5Ny85MDg0MTc3LnBuZw==/347x500/SC9uFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lands of Zam: Prelude by BuilderManX",
+         "Informacion": "Navega por el desierto procesal retro de los 90 de ZAM con este controlador infinito gratuito. Vista previa de lo que vendr\u00e1 con los juegos futuros en serie",
+         "Desde": "",
+         "Hasta": "2023/06/30 07:00",
+         "URL": "https://buildermanx.itch.io/lands-of-zam-prelude",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQxMDIzMC84MjE1Njk5LnBuZw==/347x500/2MOe4n.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Spook Smashers! by BuilderManX",
+         "Informacion": "\u00a1Caza fantasmas en una parodia de caza de fantasmas ecto procesal!",
+         "Desde": "",
+         "Hasta": "2023/06/30 07:00",
+         "URL": "https://buildermanx.itch.io/spooksmashers",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjYyMi85Nzc2OTc1LnBuZw==/347x500/Y1UiIE.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BadGuy's Melee by BuilderManX",
+         "Informacion": "Es un lugar de aventuras BadGuy's Escape to Comodo es un juego en el que exploras una isla metropolitana de misterio, asumes el papel de un villano con superpoderes que busca el camino de regreso a Comodo. Puede explorar una gran variedad de paisajes urbanos, incluidos oc\u00e9anos, monta\u00f1as, ciudades y pueblos generados por procedimientos. Para ayudarte en tu b\u00fasqueda, Escape to Comodo incluye una variedad de superpoderes y autos para ayudar a mejorar la experiencia de juego de rol. Los jugadores tambi\u00e9n pueden construir su propia historia, elegir entre cientos de opciones y personalizar su personaje con diferentes estilos de movimiento. Cuando te aventuras en una misi\u00f3n, puedes elegir conducir, explorar o caminar a trav\u00e9s de una tierra casi infinita.",
+         "Desde": "",
+         "Hasta": "2023/06/30 07:00",
+         "URL": "https://buildermanx.itch.io/badguys-escape-to-comodo-melee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5NjI1Ny84MTQ2NTk4LnBuZw==/347x500/%2BHrJA2.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Baldi's Basics Songkran Classic Remastered by SJ Logo transparent",
          "Informacion": "Baldi's Basics Songkran Classic Remastered es un minijuego para juegos de terror como el original de Baldi's Basics Songkran in Education and Learning es un juego inspirado en los nextbots de nico y luego el visitante beta para jugar m\u00e1s modo desaf\u00edo. Nombre de otros juegos: Baldi's Basics Songkran in Education and Learning. , Baldi's Basics Songkran en educaci\u00f3n y aprendizaje X y Baldi's Basics Songkran Field Trip Demo 1.1 en juegos populares es itch.io juegos disponibles el: 8 de junio de 2023 y otras versiones de plataformas es juegos uno mejor llamado en: Juegos de rol y RPG para \u00a1Los juegos de terror de gacha se convirtieron en juegos de rol b\u00e1sicos!",
          "Desde": "",
@@ -1288,6 +1338,16 @@
          "Hasta": "2023/06/30 19:00",
          "URL": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MjYzMy8xMTQ4MTM4NS5wbmc=/347x500/S2%2Fsbv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lana - Card Strategy Fighting by Bukmand",
+         "Informacion": "A medida que la progresi\u00f3n se vuelve m\u00e1s profunda, los personajes se vuelven m\u00e1s dif\u00edciles y agresivos y la jugabilidad cambiar\u00e1.",
+         "Desde": "",
+         "Hasta": "2023/07/01 00:00",
+         "URL": "https://bukmand.itch.io/lana",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTk2My8xMTk5ODk1MS5wbmc=/347x500/5oj6ln.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1402,6 +1462,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Crown Fantasy by Ent0Games",
+         "Informacion": "Hay una demostraci\u00f3n jugable\u00a0disponible",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://ent0games.itch.io/crown-fantasy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTkwMDMwLzMxMTY0MjAucG5n/347x500/%2BHyqdu.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Medieval After Summer by SereDim",
          "Informacion": "Antes de la batalla, tienes una opci\u00f3n: saltar por encima o atacar a un enemigo, despu\u00e9s de la victoria, una opci\u00f3n: recoger uno de los elementos del enemigo o mejorar el tuyo.",
          "Desde": "",
@@ -1422,12 +1492,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Crown Fantasy by Ent0Games",
-         "Informacion": "Hay una demostraci\u00f3n jugable\u00a0disponible",
+         "Nombre": "RUNNORDAI by ENTROLOL",
+         "Informacion": "Entra en el ominoso mundo de RUNNORDAI, un juego espeluznante e inquietante ambientado en los confines de un hospital en expansi\u00f3n. Mientras navegas por los pasillos laber\u00ednticos, tu \u00fanico objetivo es revisar cada casillero y descubrir un c\u00f3digo crucial necesario para escapar. Pero cuidado, una figura siniestra acecha en las sombras, emergiendo a intervalos aleatorios con una risa distorsionada y una presencia escalofriante que nubla tu visi\u00f3n.",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://ent0games.itch.io/crown-fantasy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTkwMDMwLzMxMTY0MjAucG5n/347x500/%2BHyqdu.png",
+         "URL": "https://entrolollo.itch.io/runnordai",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE2MDUxOS85ODcxMDQ3LmpwZw==/347x500/fKRQYw.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1462,22 +1532,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Friend Zone 4: Pressure by beastcarving",
-         "Informacion": "\u00f0\u00ae",
-         "Desde": "",
-         "Hasta": "2023/07/15 19:00",
-         "URL": "https://beastcarving.itch.io/friend-zone-pressure",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcwMDA5OS8xMDAxNjExMC5wbmc=/347x500/QIU4o4.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Friend Zone 2: Pledge by beastcarving",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2023/07/15 19:00",
          "URL": "https://beastcarving.itch.io/friend-zone-pledge",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQyMjIwNS84NTMyMjQzLmdpZg==/347x500/ztpF9K.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Friend Zone 4: Pressure by beastcarving",
+         "Informacion": "\u00f0\u00ae",
+         "Desde": "",
+         "Hasta": "2023/07/15 19:00",
+         "URL": "https://beastcarving.itch.io/friend-zone-pressure",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcwMDA5OS8xMDAxNjExMC5wbmc=/347x500/QIU4o4.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1828,6 +1898,16 @@
          "Hasta": "3224/10/04 23:00",
          "URL": "https://www.gog.com/en/game/cyberpunk_2077_phantom_liberty_goodies_collection",
          "IMG": "https://images.gog-statics.com/ade8204326fb8812dc7f68484408bfa5aaaef1fc5a8097e98ef83fcf146accbf.jpg",
+         "Distribuidora": "GOG",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sigma Theory: Global Cold War",
+         "Informacion": "HISTORIA De los creadores del premiado juego de ciencia ficci\u00f3n Out There... En un futuro cercano, un descubrimiento cient\u00edfico que cambia el paradigma se cierne sobre el mundo, prometiendo nuevas tecnolog\u00edas radicales. Las superpotencias del mundo se dan cuenta de que podr\u00edan tener el poder de destruir el sistema financiero mundial, aniquilar...",
+         "Desde": "",
+         "Hasta": "3237/11/17 15:00",
+         "URL": "https://www.gog.com/en/game/sigma_theory_global_cold_war",
+         "IMG": "https://images.gog-statics.com/21283146b993f480f8fc73dc1e84dc612b1fb945c276c9d474b6763c5b670949.jpg",
          "Distribuidora": "GOG",
          "Borde": "border-color: #00ff00;"
       }
