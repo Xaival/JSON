@@ -1,5 +1,5 @@
 {
-   "date_update": "16 Jun 2023 19:36 UTC",
+   "date_update": "21 Jun 2023 11:52 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -80,6 +80,28 @@
          "RRSS": {
             "Insta1": "https://www.instagram.com/lydia_correro11",
             "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAEY",
+         "Nombre": "Zahira Barbero",
+         "NombreRol": "",
+         "Hermandad": "Hammershock",
+         "Casa": "",
+         "HermandadImgURL": "https://i.ibb.co/k2L7qTc/Hammershock.webp",
+         "ImgURL": "",
+         "Descripcion": "",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/zaliachan_32/",
+            "Insta2": "https://www.instagram.com/zahira_fotos/",
             "Insta3": "",
             "TikTok": "",
             "Twitter": "",
