@@ -1,5 +1,5 @@
 {
-   "date_update": "21 Jun 2023 11:52 UTC",
+   "date_update": "22 Jun 2023 02:32 UTC",
    "values": [
       {
          "Nombre": "BLACK & WHITE Projects 5",
@@ -9,7 +9,7 @@
          "URL": "https://sharewareonsale.com/s/black-white-projects-giveaway-coupon-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/05/dd469f3b02ae1ffde1461bdfca8af76a-200x286.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "WonderFox DVD Video Converter Free License Key 2023",
@@ -19,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/wonderfox-dvd-video-converter-giveaway-free-license-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
       },
       {
          "Nombre": "Guacamelee! 2",
@@ -29,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/guacamelee-2-ac4977",
          "IMG": "https://cdn1.epicgames.com/spt-assets/b05acd7d28d34f6d93a961b0e53ddf0b/guacamelee-2-1lym2.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
       },
       {
          "Nombre": "Guacamelee! Super Turbo Championship Edition",
@@ -39,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/guacamelee-stce-7cdbc8",
          "IMG": "https://cdn1.epicgames.com/spt-assets/7041a1ca4ed543459b95d78887047bd9/guacamelee-stce-ztldk.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
       },
       {
          "Nombre": "Hasleo Data Recovery Professional 6",
