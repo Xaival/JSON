@@ -1,5 +1,5 @@
 {
-   "date_update": "22 Jun 2023 18:37 UTC",
+   "date_update": "23 Jun 2023 19:47 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -945,6 +945,12 @@
       },
       {
          "Direccion": "0.0.0.0 cargodownloads.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 dentedco.azurewebsites.net #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 denteds.azurewebsites.net #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 fbhww.nergyflexibilit.pics #AntiSpam"
@@ -3416,6 +3422,12 @@
          "Direccion": "0.0.0.0 samsungwashingmachine.fastlinktraffic.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 antivirus.landerhq.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 nedraeariproma.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 unltdentertainment.co #AntiSpam"
       },
       {
@@ -3645,6 +3657,9 @@
       },
       {
          "Direccion": "0.0.0.0 email.sl.safesecuremsg.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 filesdownloader.one #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.freevpn.win #AntiSpam"
@@ -3978,6 +3993,9 @@
       },
       {
          "Direccion": "0.0.0.0 2122.ionlaidwash.live #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 2317.endrainsoil.live #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 allprizesforme.com #AntiSpam"
