@@ -1,5 +1,5 @@
 {
-   "date_update": "25 Jun 2023 23:42 UTC",
+   "date_update": "27 Jun 2023 13:52 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3467,6 +3467,12 @@
          "Direccion": "0.0.0.0 cuevana.fans #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 cuevana.immo #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 cuevana.monster #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 cuevana1.sh #AntiSpam"
       },
       {
@@ -3491,6 +3497,9 @@
          "Direccion": "0.0.0.0 cuevana3.press #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 cuevana3.tel #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 cuevana3espanol.tv #AntiSpam"
       },
       {
@@ -3504,6 +3513,9 @@
       },
       {
          "Direccion": "0.0.0.0 es.foundmovies.site #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 filmobo.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 gatewaytrial.com #AntiSpam"
