@@ -1,5 +1,5 @@
 {
-   "date_update": "25 Jun 2023 23:42 UTC",
+   "date_update": "27 Jun 2023 13:52 UTC",
    "values": [
       {
          "Dominio": "142.91.159.139"
@@ -3467,6 +3467,12 @@
          "Dominio": "cuevana.fans"
       },
       {
+         "Dominio": "cuevana.immo"
+      },
+      {
+         "Dominio": "cuevana.monster"
+      },
+      {
          "Dominio": "cuevana1.sh"
       },
       {
@@ -3491,6 +3497,9 @@
          "Dominio": "cuevana3.press"
       },
       {
+         "Dominio": "cuevana3.tel"
+      },
+      {
          "Dominio": "cuevana3espanol.tv"
       },
       {
@@ -3504,6 +3513,9 @@
       },
       {
          "Dominio": "es.foundmovies.site"
+      },
+      {
+         "Dominio": "filmobo.com"
       },
       {
          "Dominio": "gatewaytrial.com"
