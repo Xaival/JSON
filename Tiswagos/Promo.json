@@ -1,26 +1,6 @@
 {
-   "date_update": "27 Jun 2023 23:20 UTC",
+   "date_update": "28 Jun 2023 19:16 UTC",
    "values": [
-      {
-         "Nombre": "Corpse of the World by Crow King",
-         "Informacion": "La ciudad isle\u00f1a artificial de New Manifest se encuentra a 16 millas de la costa este de los Estados Unidos. Un milagro de la ciencia, la ciudad est\u00e1 llena de millones de personas que buscaban un nuevo comienzo en un nuevo lugar lleno de oportunidades. Luego, los muertos comenzaron a levantarse, la gente comenz\u00f3 a cambiar, y los que quedaron vivos se vieron obligados a sobrevivir de las ruinas de sus vidas anteriores.",
-         "Desde": "",
-         "Hasta": "2023/06/27 19:00",
-         "URL": "https://crow-king.itch.io/cotw",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg4MzgwMy8xMTA2ODQ0MC5wbmc=/347x500/5H%2BbMZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "Allavsoft",
-         "Informacion": "Descargue y convierta videos para verlos sin conexi\u00f3n",
-         "Desde": "",
-         "Hasta": "2023/06/28 09:00",
-         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allavsoft-2-2nbl5.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
-      },
       {
          "Nombre": "Space Factory by mindgames studios",
          "Informacion": "\u00a1Disponible para comprar AHORA\u00a0en\u00a0itch.io!",
@@ -29,7 +9,7 @@
          "URL": "https://mindgames-studios.itch.io/spacefactory",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NzM0Ny8xMjE5MTk4NC5wbmc=/347x500/JgW1i0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Allavsoft Video Downloader Registration Code Free",
@@ -39,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/allavsoft-free-license-key-lifetime/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/12/allavsoft-for-windows-giveaway-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
       },
       {
          "Nombre": "Menacing Memory Match by Evans Infinity Creations",
@@ -49,7 +29,7 @@
          "URL": "https://evans8creations.itch.io/menacing-memory-match",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjQ5MDQ4LzM0ODY2MjkuanBn/347x500/r95Pno.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Patch of Lucky by Evans Infinity Creations",
@@ -59,7 +39,7 @@
          "URL": "https://evans8creations.itch.io/patch-of-lucky",
          "IMG": "https://img.itch.zone/aW1nLzM2MjczNjYucG5n/347x500/oUZwb3.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Plantiful Harvest by Evans Infinity Creations",
@@ -69,7 +49,7 @@
          "URL": "https://evans8creations.itch.io/plantiful-harvest",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI4NDczOS83NDgxMDI3LnBuZw==/347x500/jlRiR9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Idle Champions de Forgotten Realms",
@@ -1252,132 +1232,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Crown Fantasy by Ent0Games",
-         "Informacion": "Hay una demostraci\u00f3n jugable\u00a0disponible",
+         "Nombre": "1943 by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://ent0games.itch.io/crown-fantasy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTkwMDMwLzMxMTY0MjAucG5n/347x500/%2BHyqdu.png",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Medieval After Summer by SereDim",
-         "Informacion": "Antes de la batalla, tienes una opci\u00f3n: saltar por encima o atacar a un enemigo, despu\u00e9s de la victoria, una opci\u00f3n: recoger uno de los elementos del enemigo o mejorar el tuyo.",
+         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://seredim.itch.io/medieval-after-summer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MDc3NC8xMjI5OTQ5Ny5wbmc=/347x500/fTwfCA.png",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "RUNNORDAI by ENTROLOL",
-         "Informacion": "Entra en el ominoso mundo de RUNNORDAI, un juego espeluznante e inquietante ambientado en los confines de un hospital en expansi\u00f3n. Mientras navegas por los pasillos laber\u00ednticos, tu \u00fanico objetivo es revisar cada casillero y descubrir un c\u00f3digo crucial necesario para escapar. Pero cuidado, una figura siniestra acecha en las sombras, emergiendo a intervalos aleatorios con una risa distorsionada y una presencia escalofriante que nubla tu visi\u00f3n.",
+         "Nombre": "743 Names by Future Games",
+         "Informacion": "743 Names es un juego de acci\u00f3n sobre un esp\u00eda llamado Jeff Jones. Jeff pasa por 9 misiones separadas, tratando de investigar la organizaci\u00f3n terrorista KRAB y, en \u00faltima instancia, evitar la operaci\u00f3n conocida como \"Operaci\u00f3n: Catacumbas en llamas\".",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://entrolollo.itch.io/runnordai",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTE2MDUxOS85ODcxMDQ3LmpwZw==/347x500/fKRQYw.jpg",
+         "URL": "https://future-games.itch.io/743-names",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTAxMTQzMC81NzYyNjg2LnBuZw==/347x500/MFY1C7.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Strange Toilet by TheThil",
-         "Informacion": "\"HISTORIA\" En el barrio de los McCoyneach un asesino anda al acecho.\r\nNo esperaban que esta noche se enfrentar\u00edan a algo feo...",
+         "Nombre": "A Potion For Chamomile by Kyanite Heart",
+         "Informacion": "Un d\u00eda, Chamomile aparece en la casa de Lavender con una receta de poci\u00f3n especial. \u00a1Quiere una poci\u00f3n de transformaci\u00f3n! Lamentablemente, solo tiene la receta para uno temporal, por lo que las dos brujas se embarcaron en una aventura salvaje para reunir los ingredientes para una poci\u00f3n de transformaci\u00f3n permanente.",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://thethil.itch.io/strange-toilet",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MjYwOC84MTg3NTUyLnBuZw==/347x500/A%2BcWTM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Shadow Pursuit by PixelDreamer",
-         "Informacion": "\"Shadow Pursuit\" es una convincente historia de detectives corta, tra\u00edda a la vida por un desarrollador en solitario sin experiencia en 3D. Con una trama concisa pero intrigante, el juego ofrece una experiencia interesante que cautiva a los jugadores de principio a fin. Las buenas im\u00e1genes art\u00edsticas mejoran la atm\u00f3sfera general del juego. Ponte en la piel del protagonista y desentra\u00f1a los misterios que te esperan en esta aventura independiente visualmente agradable.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://pixeldreamer.itch.io/shadow-pursuit",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4NzU4Ni8xMjI3OTM1NC5wbmc=/347x500/PBSWhI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "D Square by apptodo12",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://apptodo12.itch.io/d-2-square",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1NDA3My8xMjA3OTQ4OC5wbmc=/347x500/ukwpwG.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Blood Arrows by Soul Dream Games",
-         "Informacion": "\u00a1Los dioses existen y han venido a salvarnos del apocalipsis!",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://souldream.itch.io/blood-arrows",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxMjcyOS8xMTk0OTA3MS5wbmc=/347x500/OhM2iy.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "lost on an island by virtualplaystudios",
-         "Informacion": "usted est\u00e1 navegando en su barco de pesca, pero luego se avecina una gran tormenta. est\u00e1s varado en una isla. tienes que encontrar piezas para reparar tu barco mientras un peligroso monstruo aterrador te persigue.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://virtualplaystudios.itch.io/lost-on-an-island",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxOTAzNy8xMjIyNjA2Ni5wbmc=/347x500/FRXPuT.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Finding Fantasy by XYX",
-         "Informacion": "FINDING FANTASY UN RPG RETRO CON RECURSOS 100% PERSONALIZADOS. Aqu\u00ed est\u00e1, mi trabajo de amor. Un juego de rol retro simplista con aproximadamente 2 horas de juego. CARACTER\u00cdSTICAS :",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://xyxitchio.itch.io/finding-fantasy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMwNTE0Ni83NTkxOTk1LnBuZw==/347x500/ML1hB%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Ancients by Dark Coma Gaming",
-         "Informacion": "Old Lands est\u00e1 bajo ataque desde la desaparici\u00f3n de los 1st Ancients. Es hora de averiguar qu\u00e9 les sucede y qu\u00e9 puedes hacer para detener la destrucci\u00f3n. Trabaja con tu equipo para descubrir el misterio de la primera desaparici\u00f3n y ayudar a devolver la paz al reino.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://darkcoma.itch.io/the-ancients",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYzMDI4NS85NTgzMDg2LnBuZw==/347x500/zIFwQm.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "the man from the backyard 2 by virtualplaystudios",
-         "Informacion": "contin\u00faa la historia en el hombre del patio trasero 2. est\u00e1s solo en casa y descubres que el asesino a sueldo todav\u00eda est\u00e1 vivo y tratando de matarte.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://virtualplaystudios.itch.io/the-man-from-the-backyard-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk5OTA3Ny8xMTc1MjAwNC5wbmc=/347x500/ho9poR.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "GraviShift by Intaria games",
-         "Informacion": "Usa la gravedad para controlar el movimiento del personaje y llegar al punto final, evitando peligros como picos y exposici\u00f3n a la radiaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://intaria-games.itch.io/gravishift",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk5Mjc5NS8xMTczMTk5Ny5qcGc=/347x500/ABTlDm.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Game where cat needs ball by ComfyMattres",
-         "Informacion": "Un juego donde el objetivo es arrastrar una pelota hacia un gato mientras recolecta peces.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://comfymattres.itch.io/gamewherecatneedsball",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MzU2NC8xMTQ4NzE2Ny5wbmc=/347x500/gHAMEB.png",
+         "URL": "https://kyaniteheart.itch.io/a-potion-for-chamomile",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzNjUzNC8xMDEzODg3Mi5wbmc=/347x500/7r0kc4.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1402,342 +1292,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Castle Crawl by WhoReallyCaresGames",
-         "Informacion": "",
+         "Nombre": "Autumn Leaves by Kyanite Heart",
+         "Informacion": "Autumn Leaves es un juego de creaci\u00f3n y exploraci\u00f3n. Explora el mundo y encuentra obeliscos que desbloquean recuerdos. Construye m\u00e1quinas locas para escapar del extra\u00f1o mundo en el que est\u00e1s atrapado.",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://whoreallycaresgames.itch.io/castle-crawl",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwMTI5Ny8xMDg2NDg3MC5qcGc=/347x500/dqkpZ4.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Cruel One 2 by Sky High Games",
-         "Informacion": "El Cruel ha vuelto y tiene planes de arruinar la Navidad. Eres un periodista independiente que documenta operaciones en el taller de Santa. Descubres que un intruso ha irrumpido en el taller y tiene planes de deshacerse de Santa para siempre.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://sky-high-games.itch.io/the-cruel-one-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzNjc0OS8xMDc3Nzg5MC5qcGc=/347x500/pZS6Gm.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Infestation by Sky High Games",
-         "Informacion": "Este juego de terror te pondr\u00e1 la piel de gallina. Una cucaracha de tama\u00f1o humano anda suelta y debes encontrar una manera de salir de las instalaciones con tus \u00fanicas opciones: correr, esconderte o morir.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://sky-high-games.itch.io/theinfestation",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc4MDUzOC8xMDQ2NjEzNS5naWY=/347x500/JpcwN4.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://magnus-froelund.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Omega Moon complete by Sai Yaku",
-         "Informacion": "Publico una actualizaci\u00f3n cada primera semana del mes.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://saiyakuu.itch.io/full-moon",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYwNDIxMi8xMDA4Mzc2MC5wbmc=/347x500/qKP%2Blw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Radio Player (Ancien Version) by Pinou007",
-         "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias a radio player 2020 Versi\u00f3n antigua",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://pinou007.itch.io/radio-player",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "TRICOSMOS: Cardinals Legacy by LittleMugGames",
-         "Informacion": "TR\u00cdADA DE AVENTURA + EXTRA",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://littlemuggames.itch.io/tricosmos-cardinals-legacy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1Njg4MS85ODIxMTE0LnBuZw==/347x500/zSvGDK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Glyph Hunter 3D by Eric C",
-         "Informacion": "Cazador de glifos: 3D",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://eric-cousins.itch.io/glyphhunter3d",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzMjkyNC8xMDUzNDkzMy5wbmc=/347x500/nohPam.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Highway Of Tears by Sky High Games",
-         "Informacion": "Highway of Tears es un juego de terror y supervivencia que se desarrolla a lo largo de la ruta 16 de la Columbia Brit\u00e1nica, Canad\u00e1. Vas camino a visitar a tu familia pero tu auto se descompone y debes caminar a lo largo de la ruta para encontrar \"ayuda\".",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://sky-high-games.itch.io/highway-of-tears",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU5MzE4OS85MzE1MzgyLmpwZw==/347x500/y8RFZG.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "A Potion For Chamomile by Kyanite Heart",
-         "Informacion": "Un d\u00eda, Chamomile aparece en la casa de Lavender con una receta de poci\u00f3n especial. \u00a1Quiere una poci\u00f3n de transformaci\u00f3n! Lamentablemente, solo tiene la receta para uno temporal, por lo que las dos brujas se embarcaron en una aventura salvaje para reunir los ingredientes para una poci\u00f3n de transformaci\u00f3n permanente.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://kyaniteheart.itch.io/a-potion-for-chamomile",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzNjUzNC8xMDEzODg3Mi5wbmc=/347x500/7r0kc4.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Survival In Submarino by Player Studio27",
-         "Informacion": "en Ingl\u00e9s:",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://player-studio27.itch.io/survival-in-submarino",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzMzUwMS84NDA0MjkwLnBuZw==/347x500/0ZjInN.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "coffee boy by bee tea",
-         "Informacion": "En este encantador juego corto, juegas como el chico del caf\u00e9 reci\u00e9n contratado. \u00a1depende de ti encontrar el Caf\u00e9 Verdadero y entreg\u00e1rselo a Boss! podr\u00e1s hacer amigos extravagantes, explorar la instalaci\u00f3n misteriosa, leer un texto de sabor hilarante y ... \u00bfencontrar al chico del caf\u00e9 desaparecido? De todos modos, no se preocupe por eso \u00faltimo, \u00a1y conc\u00e9ntrese en LLEVAR EL CAF\u00c9 AL JEFE!",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://bee-tea.itch.io/coffeeboy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MzcwNy84MDg3NTc5LnBuZw==/347x500/m7t9P9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "thisPaper by Pinou007",
-         "Informacion": "Suspendido temporalmente thisPaper es un juego donde tienes que recuperar 10Paper este juego es realmente simple el juego se hizo en 12 horas un reto personal que comenc\u00e9 los otros juegos que ser\u00e1n de mejor calidadMapa DisponibleOtros mapas estar\u00e1n disponibles",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://pinou007.itch.io/paper",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
-         "Informacion": "\u00f0\u00ab\u00f0\u00b7",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://pinou007.itch.io/projectxnow",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Jezzball Deluxe by meapps",
-         "Informacion": "\u00a1Prep\u00e1rate para una experiencia cautivadora y adictiva en JezzBall Deluxe, la \u00faltima evoluci\u00f3n del cl\u00e1sico juego de arcade! Participa en un juego estrat\u00e9gico y de ritmo r\u00e1pido mientras divides y conquistas los \u00e1tomos que rebotan mientras construyes muros. \u00bfPuedes conquistar los desafiantes niveles y convertirte en el maestro supremo de JezzBall?",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://meapps.itch.io/jezzball-deluxe",
-         "IMG": "https://img.itch.zone/aW1nLzEyNDQxNDUzLnBuZw==/347x500/bHwvvA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Cruel One by Sky High Games",
-         "Informacion": "Es la ma\u00f1ana de Navidad, pero algo anda mal, faltan todos tus regalos. Con una pista, haces todo lo posible para recuperarlos.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://sky-high-games.itch.io/the-cruel-one",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyODkwNi83NzI3ODY2LnBuZw==/347x500/O9xIbe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Tuned to Your Heart by Kyanite Heart",
-         "Informacion": "La bruja de la m\u00fasica local, Cinnamon, ha sido invitada a salir por Freesia, una bruja de hielo muy genial. \u00a1Acordaron ir a cenar, pero Cinnamon tiene planes para hacer que la cita sea a\u00fan mejor! \u00a1Pero ha pasado mucho tiempo desde que tuvo una cita! \u00bf\u00a1Qu\u00e9 haces en una cita!?!?",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://kyaniteheart.itch.io/tuned-to-your-heart",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI3NzQwNC83NTQ4MDc3LnBuZw==/347x500/nciGZb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Musketfish by Future Games",
-         "Informacion": "Musketfish es un divertido juego de plataformas y combates sobre Freddy the Fish, un salm\u00f3n tuerto, que usa un mosquete para luchar contra tiburones y cangrejos, esquivar trampas y p\u00faas, recoger comida y derrotar al rey tibur\u00f3n para recuperar su hogar. \u00a1Incluye 20 niveles llenos de parkour, plataformas, combate, acci\u00f3n y 1 batalla de jefes \u00fanica!",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/musketfish",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI0MTYwMS83MjM3MzUxLnBuZw==/347x500/MkK%2Fat.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Spirit Night by Kyanite Heart",
-         "Informacion": "Cada a\u00f1o, en SPIRIT NIGHT, los esp\u00edritus salen a ayudar a los lugare\u00f1os y recolectan golosinas. \u00bfA cu\u00e1ntas personas puedes ayudar? \u00bfCu\u00e1ntos dulces puedes recolectar? \u00bfQu\u00e9 tan espeluznante se pondr\u00e1 realmente? Hay muchas personas en Rootsberg que necesitan ayuda y, qui\u00e9n sabe, tal vez incluso hagas un amigo en el camino...",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://kyaniteheart.itch.io/spirit-night",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTE0MzE4MS83MjQ5MjA2LnBuZw==/347x500/lLFWJI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Bitcoin Clicker by Marcus_Flavio",
-         "Informacion": "En BitCoinClicker, \u00a1tienes que hacer clic en un BitCoin! \u00a1Con estos BitCoins, puede comprar actualizaciones y art\u00edculos\u00a0para obtener m\u00e1s BitCoins! \u00a1Divertirse!",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://marcus-flavio.itch.io/bitcoin-clicker",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzOTYzNi83MjI2NTIyLnBuZw==/347x500/6HTZvS.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "rainy day by bee tea",
-         "Informacion": "\u00e2\u00a1 un juego corto sobre la lucha de una familia y su recuperaci\u00c3\u00b3n de la depresi\u00c3\u00b3n",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://bee-tea.itch.io/rainyday",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Omega Moon episode 2 by Sai Yaku",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://saiyakuu.itch.io/moon",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTEyNjQyMy82Njc0ODQ3LmpwZWc=/347x500/hz2lY8.jpeg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "UNFORGIVEN : Carry The Pain by MasterDevMed",
-         "Informacion": "Entradas:",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://masterdevmed.itch.io/unforgiven-carry-the-pain",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTE5NzgzNS82OTg4MDI3LnBuZw==/347x500/366rva.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sunbeams by Kyanite Heart",
-         "Informacion": "Es temprano en la ma\u00f1ana en su caba\u00f1a. La ventana est\u00e1 abierta, el suelo est\u00e1 iluminado con rayos de sol y entra una brisa c\u00e1lida. Tu caba\u00f1a parece un poco vac\u00eda, as\u00ed que, \u00bfqu\u00e9 tal si la llenamos de hermosas plantas de interior?",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://kyaniteheart.itch.io/sunbeams",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTAyMzUyMy82Mjk0NTQxLnBuZw==/347x500/G5W0cV.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Orbit by Future Games",
-         "Informacion": "Orbit es un juego de exploraci\u00f3n espacial de mundo abierto en el que debes encontrar tu camino a trav\u00e9s del cosmos. Usted controla una sonda da\u00f1ada y perdida que intenta recolectar recursos, reconstruirse y, en \u00faltima instancia, reanudar las comunicaciones con la Tierra.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/orbit",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA3ODcwNC82MTg2OTc0LnBuZw==/347x500/m%2F1GM0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Honey Sweet Lies by fyshku productions",
-         "Informacion": "Michiru Hoshikawa, estudiante de tercer a\u00f1o y presidenta del Tea Party Club, tiene una vida maravillosa y llena de diversi\u00f3n. Todos los d\u00edas despu\u00e9s de la escuela se re\u00fane con sus amigos, toma t\u00e9, come pastel y conversa. \u00bfQue podr\u00eda ser mejor?",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://fyshku.itch.io/honeysweetlies",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTAyNDQ0OC81ODQyMTc2LnBuZw==/347x500/%2FPIAdY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Like Us by Sky High Games",
-         "Informacion": "Like us es un juego de terror de supervivencia en el que debes evitar la oscuridad el mayor tiempo posible. Juegas como Henry, quien pronto descubrir\u00e1 la verdad sobre s\u00ed mismo y aquellos que conoc\u00eda.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://sky-high-games.itch.io/like-us",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTAzOTAwMi81OTMzNDIwLnBuZw==/347x500/c4CRC7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "743 Names by Future Games",
-         "Informacion": "743 Names es un juego de acci\u00f3n sobre un esp\u00eda llamado Jeff Jones. Jeff pasa por 9 misiones separadas, tratando de investigar la organizaci\u00f3n terrorista KRAB y, en \u00faltima instancia, evitar la operaci\u00f3n conocida como \"Operaci\u00f3n: Catacumbas en llamas\".",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/743-names",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTAxMTQzMC81NzYyNjg2LnBuZw==/347x500/MFY1C7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Who You Are II by Player Studio27",
-         "Informacion": "La secuela del juego Who You Are explica mejor los eventos del primer juego. Contiene m\u00e1s niveles, mejores cinem\u00e1ticas y m\u00e1s dificultad.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://player-studio27.itch.io/who-you-are-ii",
-         "IMG": "https://img.itch.zone/aW1nLzU1NzI2NTUucG5n/347x500/eiMvZ7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Dear Mom by ethos",
-         "Informacion": "Una breve aventura narrativa sobre mam\u00e1, que te dejar\u00e1 inolvidables e incre\u00edbles emociones sobre tu mam\u00e1. Es una emotiva narraci\u00f3n sobre los sentimientos de una ni\u00f1a escrita a su madre, una carta que, para siempre, quedar\u00e1 sin leer.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://ethosgames.itch.io/dear-mom",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODY3NTMwLzUwNjU5NTguanBn/347x500/9cieOT.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "1943 by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Winter Magic by Kyanite Heart",
-         "Informacion": "Emily acaba de mudarse a un pueblo de brujas con la esperanza de hacerse amiga de las brujas locales y aprender magia. Despu\u00e9s de un par de d\u00edas, finalmente re\u00fane el coraje para presentarse a su vecina, Linnea. Ella invita a Emily a emprender una aventura alrededor de la peque\u00f1a monta\u00f1a en la que viven y Emily acepta ~",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://kyaniteheart.itch.io/winter-magic",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODM2OTAwLzQ2OTI2MjAucG5n/347x500/%2F5OC%2Fk.png",
+         "URL": "https://kyaniteheart.itch.io/autumnleaves",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzcxOTU0LzQ0NTg2NzAucG5n/347x500/k%2Brono.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1752,22 +1312,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Turret Jumper 2 by Future Games",
-         "Informacion": "Turret Jumper 2\u00a0es un juego de parkour, plataformas y combate en el que el jugador controla el flujo del tiempo. \u00a1Consigue explosiones en c\u00e1mara lenta, saltos de pared con lapso de tiempo y carreras de velocidad en tiempo real! El juego presenta 18 niveles con una batalla de jefes.",
+         "Nombre": "Bitcoin Clicker by Marcus_Flavio",
+         "Informacion": "En BitCoinClicker, \u00a1tienes que hacer clic en un BitCoin! \u00a1Con estos BitCoins, puede comprar actualizaciones y art\u00edculos\u00a0para obtener m\u00e1s BitCoins! \u00a1Divertirse!",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/tj2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODIxOTAyLzQ2MDcxNDYucG5n/347x500/l6ihan.png",
+         "URL": "https://marcus-flavio.itch.io/bitcoin-clicker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzOTYzNi83MjI2NTIyLnBuZw==/347x500/6HTZvS.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Autumn Leaves by Kyanite Heart",
-         "Informacion": "Autumn Leaves es un juego de creaci\u00f3n y exploraci\u00f3n. Explora el mundo y encuentra obeliscos que desbloquean recuerdos. Construye m\u00e1quinas locas para escapar del extra\u00f1o mundo en el que est\u00e1s atrapado.",
+         "Nombre": "Bits Game by Player Studio27",
+         "Informacion": "Este Juego trata sobre los bits cambia de paleta de colore para resolver combinaciones o puzzle",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://kyaniteheart.itch.io/autumnleaves",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzcxOTU0LzQ0NTg2NzAucG5n/347x500/k%2Brono.png",
+         "URL": "https://player-studio27.itch.io/bits-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjQ1NjM0LzQ0OTMwNTguZ2lm/347x500/zTW51L.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Blob Blast 4 by Future Games",
+         "Informacion": "\u00a1Un juego simple en el que disparas ca\u00f1ones l\u00e1ser a manchas alien\u00edgenas!",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://future-games.itch.io/blob-blast-4",
+         "IMG": "https://img.itch.zone/aW1nLzM2NjY2NTEucG5n/347x500/1e2faG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Blob Blast Classics by Future Games",
+         "Informacion": "El cl\u00e1sico Blob Blast, Blob Blast 2\u00a0y Blob Blast 3. Teclas de flecha para apuntar. \u00a1Explota gotas y divi\u00e9rtete! Historia disponible en la p\u00e1gina de Blob Blast 4. \u00a1Mira tambi\u00e9n los otros juegos de Blob Blast!",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://future-games.itch.io/blob-blast-classics",
+         "IMG": "https://img.itch.zone/aW1nLzM2NjgwMjQucG5n/347x500/syP0Ih.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1792,142 +1372,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Now You See Me... by Future Games",
-         "Informacion": "Now You See Me es un juego de rompecabezas, terror y escape de la habitaci\u00f3n. Mueva su rat\u00f3n. Mueve la linterna. Encuentra las pistas. Haz clic en las pilas para recogerlas. Pero, \u00bfcu\u00e1ndo se agotar\u00e1 la bater\u00eda de tu linterna? \u00bfEntonces que?",
+         "Nombre": "Blood Arrows by Soul Dream Games",
+         "Informacion": "\u00a1Los dioses existen y han venido a salvarnos del apocalipsis!",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/now-you-see-me",
-         "IMG": "https://img.itch.zone/aW1nLzQxMTI3NzEucG5n/347x500/cLKeVo.png",
+         "URL": "https://souldream.itch.io/blood-arrows",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxMjcyOS8xMTk0OTA3MS5wbmc=/347x500/OhM2iy.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Space Probe by Future Games",
-         "Informacion": "Un juego de arcade simple. Controles m\u00f3viles: arrastre hacia la izquierda o hacia la derecha para girar, hacia arriba o hacia abajo para moverse. Controles de escritorio: teclas de flecha izquierda y derecha para girar. Flechas arriba y abajo para moverte. \u00a1Intenta esquivar los meteoros!",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/space-probe",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTUxMTg1LzM0MDU1NDcucG5n/347x500/WvCo1%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Blob Blast Classics by Future Games",
-         "Informacion": "El cl\u00e1sico Blob Blast, Blob Blast 2\u00a0y Blob Blast 3. Teclas de flecha para apuntar. \u00a1Explota gotas y divi\u00e9rtete! Historia disponible en la p\u00e1gina de Blob Blast 4. \u00a1Mira tambi\u00e9n los otros juegos de Blob Blast!",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/blob-blast-classics",
-         "IMG": "https://img.itch.zone/aW1nLzM2NjgwMjQucG5n/347x500/syP0Ih.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Blob Blast 4 by Future Games",
-         "Informacion": "\u00a1Un juego simple en el que disparas ca\u00f1ones l\u00e1ser a manchas alien\u00edgenas!",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/blob-blast-4",
-         "IMG": "https://img.itch.zone/aW1nLzM2NjY2NTEucG5n/347x500/1e2faG.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Bits Game by Player Studio27",
-         "Informacion": "Este Juego trata sobre los bits cambia de paleta de colore para resolver combinaciones o puzzle",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://player-studio27.itch.io/bits-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjQ1NjM0LzQ0OTMwNTguZ2lm/347x500/zTW51L.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Felix The Toy by XYX",
-         "Informacion": "*Se recomienda enf\u00e1ticamente jugar este juego en una tarjeta de video discreta. ejecutar felix the toy en gr\u00e1ficos intel hd o gr\u00e1ficos integrados amd dar\u00e1 malos resultados, tenga cuidado.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://xyxitchio.itch.io/felix-the-toy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTk3MjQzLzk2OTU3NjUucG5n/347x500/%2FYbgFv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Death Run by Future Games",
-         "Informacion": "Death Run es un juego de Dodger HTML5/JavaScript sencillo y gratuito. Lo constru\u00ed tratando de aprender a crear un juego b\u00e1sico de HTML5 y JavaScript. WASD para moverse.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://future-games.itch.io/death-run",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTMyNDU1LzMxMTk2ODEucG5n/347x500/%2BRmB7F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Potion Commotion: Rainbow Edition by Kyanite Heart",
-         "Informacion": "Este juego es un juego relajante sobre cultivar plantas m\u00e1gicas y hacer pociones con ellas. El juego es bastante sencillo. Haces clic en las semillas de tu inventario y las colocas en un campo regado. Los campos se pueden regar con la Poci\u00f3n de hidrataci\u00f3n, que se puede hacer en el caldero con 5 piezas de una flor de hidroangea. Si alguna vez te sientes confundido, simplemente consulta el diario del juego. \u00a1A medida que avanzas, obtienes plantas cada vez m\u00e1s locas y puedes comenzar a hacer pociones cada vez m\u00e1s locas!",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://kyaniteheart.itch.io/potion-commotion",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTA2ODU0LzI2NjQ0ODkucG5n/347x500/NDye2V.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Hyperdrive Hunter by Dylan Raley",
-         "Informacion": "Eres el Hyperdrive Hunter, un mercenario a sueldo conocido por su agilidad, fuerza bruta y tarifas irrazonablemente altas. Vuela por el espacio y usa tu hiperimpulsor para saltar de batalla en batalla mientras persigues objetivos.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://glow-games.itch.io/hyperdrive-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQ4NDYyLzIyOTI5OTYucG5n/347x500/PMZ0bN.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Burning Locks by max levine stuff",
-         "Informacion": "Busca las pistas. El tribunal mundial de los vivos ha declarado tu inocencia, pero debes darte cuenta t\u00fa mismo para volver con ellos. Una chispa, una neurona disparando, para encender un fuego. O languidecer aqu\u00ed dentro de tu propia mente.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://maximilian.itch.io/the-burning-locks",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzY4Nzg3LzE5NDA1ODQucG5n/347x500/PFqEfT.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "CubeRunner by darshao",
-         "Informacion": "CubeRunner es un corredor de obst\u00e1culos basado en la f\u00edsica en 3D.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://darshao.itch.io/cuberunner",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM0Njg1LzExMTQ5NjMuanBn/347x500/9gG%2FHA.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "HTF  clicker to spin friends minigame by unaux_25917242",
+         "Nombre": "Castle Crawl by WhoReallyCaresGames",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://unaux-25917242.itch.io/htf-spin-minigame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI3Mjk2LzEwNzUyNzMuanBn/347x500/QRTju0.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Virtual Pet Caterpillar 1.0 by unaux_25917242",
-         "Informacion": "Oruga de mascota virtual: el ciclo de vida de 17 niveles de las orugas, agregue comida, sue\u00f1o y diversi\u00f3n para evolucionar al final del d\u00eda (~ 1,5 h), muy poco o demasiado afecta la felicidad general, obtenga nuevas acciones con el aumento de nivel.",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://unaux-25917242.itch.io/virtual-pet-caterpillar-10",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTAwLzEyMzI4NTAuanBn/347x500/uxXYqe.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Swarm Saucers by max levine stuff",
-         "Informacion": "Tienes que llegar a la convenci\u00f3n de quesos, \u00a1pero los extraterrestres est\u00e1n atacando! Juega a trav\u00e9s de una serie de desaf\u00edos y una historia hilarante. No te llevar\u00e1 mucho tiempo, es divertido, enriquecer\u00e1 tu vida y es gratis, entonces, \u00bfqu\u00e9 hay que perder?",
-         "Desde": "",
-         "Hasta": "2023/07/13 19:00",
-         "URL": "https://maximilian.itch.io/swarm-saucers",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwMTM2Lzg0Mjk2NC5wbmc=/347x500/kbxsXa.png",
+         "URL": "https://whoreallycaresgames.itch.io/castle-crawl",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwMTI5Ny8xMDg2NDg3MC5qcGc=/347x500/dqkpZ4.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1942,32 +1402,102 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Zombie Apocalypse by max levine stuff",
-         "Informacion": "3 mundos abiertos para explorar. Busca munici\u00f3n sigilosamente antes de enfrentarte a la horda, luego es un juego de disparos lleno de acci\u00f3n. Lleno de momentos tensos y miedo genuino. Limpia cada \u00e1rea de zombis para asegurarla. Sobrevive, o muere en el intento.",
+         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://maximilian.itch.io/zombie-apocalypse",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTcwNDcvNDU1NzQ4LmdpZg==/347x500/%2F5ScOi.gif",
+         "URL": "https://magnus-froelund.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Side Shooter by max levine stuff",
-         "Informacion": "\u00a1Lucha contra 4 fases de invasores alien\u00edgenas, heroico defensor de la tierra! Dales a los humanos suficiente tiempo para evacuar, antes de que los implacables alien\u00edgenas destrocen el lugar.",
+         "Nombre": "coffee boy by bee tea",
+         "Informacion": "En este encantador juego corto, juegas como el chico del caf\u00e9 reci\u00e9n contratado. \u00a1depende de ti encontrar el Caf\u00e9 Verdadero y entreg\u00e1rselo a Boss! podr\u00e1s hacer amigos extravagantes, explorar la instalaci\u00f3n misteriosa, leer un texto de sabor hilarante y ... \u00bfencontrar al chico del caf\u00e9 desaparecido? De todos modos, no se preocupe por eso \u00faltimo, \u00a1y conc\u00e9ntrese en LLEVAR EL CAF\u00c9 AL JEFE!",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://maximilian.itch.io/side-shooter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTM0MjgvMzMwMzY3NS5wbmc=/347x500/JL97sO.png",
+         "URL": "https://bee-tea.itch.io/coffeeboy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MzcwNy84MDg3NTc5LnBuZw==/347x500/m7t9P9.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Inertia by max levine stuff",
-         "Informacion": "Me siento tan impotente y libre. . .",
+         "Nombre": "Crown Fantasy by Ent0Games",
+         "Informacion": "Hay una demostraci\u00f3n jugable\u00a0disponible",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
-         "URL": "https://maximilian.itch.io/inertia",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU4NzYvNDA0NjYyLnBuZw==/347x500/9W6pmc.png",
+         "URL": "https://ent0games.itch.io/crown-fantasy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTkwMDMwLzMxMTY0MjAucG5n/347x500/%2BHyqdu.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CubeRunner by darshao",
+         "Informacion": "CubeRunner es un corredor de obst\u00e1culos basado en la f\u00edsica en 3D.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://darshao.itch.io/cuberunner",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM0Njg1LzExMTQ5NjMuanBn/347x500/9gG%2FHA.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "D Square by apptodo12",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://apptodo12.itch.io/d-2-square",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1NDA3My8xMjA3OTQ4OC5wbmc=/347x500/ukwpwG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dear Mom by ethos",
+         "Informacion": "Una breve aventura narrativa sobre mam\u00e1, que te dejar\u00e1 inolvidables e incre\u00edbles emociones sobre tu mam\u00e1. Es una emotiva narraci\u00f3n sobre los sentimientos de una ni\u00f1a escrita a su madre, una carta que, para siempre, quedar\u00e1 sin leer.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://ethosgames.itch.io/dear-mom",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODY3NTMwLzUwNjU5NTguanBn/347x500/9cieOT.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Death Run by Future Games",
+         "Informacion": "Death Run es un juego de Dodger HTML5/JavaScript sencillo y gratuito. Lo constru\u00ed tratando de aprender a crear un juego b\u00e1sico de HTML5 y JavaScript. WASD para moverse.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://future-games.itch.io/death-run",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTMyNDU1LzMxMTk2ODEucG5n/347x500/%2BRmB7F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Felix The Toy by XYX",
+         "Informacion": "*Se recomienda enf\u00e1ticamente jugar este juego en una tarjeta de video discreta. ejecutar felix the toy en gr\u00e1ficos intel hd o gr\u00e1ficos integrados amd dar\u00e1 malos resultados, tenga cuidado.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://xyxitchio.itch.io/felix-the-toy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTk3MjQzLzk2OTU3NjUucG5n/347x500/%2FYbgFv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Finding Fantasy by XYX",
+         "Informacion": "FINDING FANTASY UN RPG RETRO CON RECURSOS 100% PERSONALIZADOS. Aqu\u00ed est\u00e1, mi trabajo de amor. Un juego de rol retro simplista con aproximadamente 2 horas de juego. CARACTER\u00cdSTICAS :",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://xyxitchio.itch.io/finding-fantasy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMwNTE0Ni83NTkxOTk1LnBuZw==/347x500/ML1hB%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Game where cat needs ball by ComfyMattres",
+         "Informacion": "Un juego donde el objetivo es arrastrar una pelota hacia un gato mientras recolecta peces.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://comfymattres.itch.io/gamewherecatneedsball",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MzU2NC8xMTQ4NzE2Ny5wbmc=/347x500/gHAMEB.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1982,6 +1512,56 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Glyph Hunter 3D by Eric C",
+         "Informacion": "Cazador de glifos: 3D",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://eric-cousins.itch.io/glyphhunter3d",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzMjkyNC8xMDUzNDkzMy5wbmc=/347x500/nohPam.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "GraviShift by Intaria games",
+         "Informacion": "Usa la gravedad para controlar el movimiento del personaje y llegar al punto final, evitando peligros como picos y exposici\u00f3n a la radiaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://intaria-games.itch.io/gravishift",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk5Mjc5NS8xMTczMTk5Ny5qcGc=/347x500/ABTlDm.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Highway Of Tears by Sky High Games",
+         "Informacion": "Highway of Tears es un juego de terror y supervivencia que se desarrolla a lo largo de la ruta 16 de la Columbia Brit\u00e1nica, Canad\u00e1. Vas camino a visitar a tu familia pero tu auto se descompone y debes caminar a lo largo de la ruta para encontrar \"ayuda\".",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://sky-high-games.itch.io/highway-of-tears",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU5MzE4OS85MzE1MzgyLmpwZw==/347x500/y8RFZG.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Honey Sweet Lies by fyshku productions",
+         "Informacion": "Michiru Hoshikawa, estudiante de tercer a\u00f1o y presidenta del Tea Party Club, tiene una vida maravillosa y llena de diversi\u00f3n. Todos los d\u00edas despu\u00e9s de la escuela se re\u00fane con sus amigos, toma t\u00e9, come pastel y conversa. \u00bfQue podr\u00eda ser mejor?",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://fyshku.itch.io/honeysweetlies",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTAyNDQ0OC81ODQyMTc2LnBuZw==/347x500/%2FPIAdY.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HTF  clicker to spin friends minigame by unaux_25917242",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://unaux-25917242.itch.io/htf-spin-minigame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI3Mjk2LzEwNzUyNzMuanBn/347x500/QRTju0.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hungry Hippo in the Water by max levine stuff",
          "Informacion": "Para ser un hipop\u00f3tamo exitoso...",
          "Desde": "",
@@ -1992,12 +1572,412 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Hyperdrive Hunter by Dylan Raley",
+         "Informacion": "Eres el Hyperdrive Hunter, un mercenario a sueldo conocido por su agilidad, fuerza bruta y tarifas irrazonablemente altas. Vuela por el espacio y usa tu hiperimpulsor para saltar de batalla en batalla mientras persigues objetivos.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://glow-games.itch.io/hyperdrive-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDQ4NDYyLzIyOTI5OTYucG5n/347x500/PMZ0bN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Inertia by max levine stuff",
+         "Informacion": "Me siento tan impotente y libre. . .",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://maximilian.itch.io/inertia",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODU4NzYvNDA0NjYyLnBuZw==/347x500/9W6pmc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Jezzball Deluxe by meapps",
+         "Informacion": "\u00a1Prep\u00e1rate para una experiencia cautivadora y adictiva en JezzBall Deluxe, la \u00faltima evoluci\u00f3n del cl\u00e1sico juego de arcade! Participa en un juego estrat\u00e9gico y de ritmo r\u00e1pido mientras divides y conquistas los \u00e1tomos que rebotan mientras construyes muros. \u00bfPuedes conquistar los desafiantes niveles y convertirte en el maestro supremo de JezzBall?",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://meapps.itch.io/jezzball-deluxe",
+         "IMG": "https://img.itch.zone/aW1nLzEyNDQxNDUzLnBuZw==/347x500/bHwvvA.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Like Us by Sky High Games",
+         "Informacion": "Like us es un juego de terror de supervivencia en el que debes evitar la oscuridad el mayor tiempo posible. Juegas como Henry, quien pronto descubrir\u00e1 la verdad sobre s\u00ed mismo y aquellos que conoc\u00eda.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://sky-high-games.itch.io/like-us",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTAzOTAwMi81OTMzNDIwLnBuZw==/347x500/c4CRC7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "lost on an island by virtualplaystudios",
+         "Informacion": "usted est\u00e1 navegando en su barco de pesca, pero luego se avecina una gran tormenta. est\u00e1s varado en una isla. tienes que encontrar piezas para reparar tu barco mientras un peligroso monstruo aterrador te persigue.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://virtualplaystudios.itch.io/lost-on-an-island",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxOTAzNy8xMjIyNjA2Ni5wbmc=/347x500/FRXPuT.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Medieval After Summer by SereDim",
+         "Informacion": "Antes de la batalla, tienes una opci\u00f3n: saltar por encima o atacar a un enemigo, despu\u00e9s de la victoria, una opci\u00f3n: recoger uno de los elementos del enemigo o mejorar el tuyo.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://seredim.itch.io/medieval-after-summer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MDc3NC8xMjI5OTQ5Ny5wbmc=/347x500/fTwfCA.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Musketfish by Future Games",
+         "Informacion": "Musketfish es un divertido juego de plataformas y combates sobre Freddy the Fish, un salm\u00f3n tuerto, que usa un mosquete para luchar contra tiburones y cangrejos, esquivar trampas y p\u00faas, recoger comida y derrotar al rey tibur\u00f3n para recuperar su hogar. \u00a1Incluye 20 niveles llenos de parkour, plataformas, combate, acci\u00f3n y 1 batalla de jefes \u00fanica!",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://future-games.itch.io/musketfish",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI0MTYwMS83MjM3MzUxLnBuZw==/347x500/MkK%2Fat.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Now You See Me... by Future Games",
+         "Informacion": "Now You See Me es un juego de rompecabezas, terror y escape de la habitaci\u00f3n. Mueva su rat\u00f3n. Mueve la linterna. Encuentra las pistas. Haz clic en las pilas para recogerlas. Pero, \u00bfcu\u00e1ndo se agotar\u00e1 la bater\u00eda de tu linterna? \u00bfEntonces que?",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://future-games.itch.io/now-you-see-me",
+         "IMG": "https://img.itch.zone/aW1nLzQxMTI3NzEucG5n/347x500/cLKeVo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Omega Moon complete by Sai Yaku",
+         "Informacion": "Publico una actualizaci\u00f3n cada primera semana del mes.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://saiyakuu.itch.io/full-moon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTYwNDIxMi8xMDA4Mzc2MC5wbmc=/347x500/qKP%2Blw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Omega Moon episode 2 by Sai Yaku",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://saiyakuu.itch.io/moon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTEyNjQyMy82Njc0ODQ3LmpwZWc=/347x500/hz2lY8.jpeg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Orbit by Future Games",
+         "Informacion": "Orbit es un juego de exploraci\u00f3n espacial de mundo abierto en el que debes encontrar tu camino a trav\u00e9s del cosmos. Usted controla una sonda da\u00f1ada y perdida que intenta recolectar recursos, reconstruirse y, en \u00faltima instancia, reanudar las comunicaciones con la Tierra.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://future-games.itch.io/orbit",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA3ODcwNC82MTg2OTc0LnBuZw==/347x500/m%2F1GM0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Potion Commotion: Rainbow Edition by Kyanite Heart",
+         "Informacion": "Este juego es un juego relajante sobre cultivar plantas m\u00e1gicas y hacer pociones con ellas. El juego es bastante sencillo. Haces clic en las semillas de tu inventario y las colocas en un campo regado. Los campos se pueden regar con la Poci\u00f3n de hidrataci\u00f3n, que se puede hacer en el caldero con 5 piezas de una flor de hidroangea. Si alguna vez te sientes confundido, simplemente consulta el diario del juego. \u00a1A medida que avanzas, obtienes plantas cada vez m\u00e1s locas y puedes comenzar a hacer pociones cada vez m\u00e1s locas!",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://kyaniteheart.itch.io/potion-commotion",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTA2ODU0LzI2NjQ0ODkucG5n/347x500/NDye2V.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
+         "Informacion": "\u00f0\u00ab\u00f0\u00b7",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://pinou007.itch.io/projectxnow",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Radio Player (Ancien Version) by Pinou007",
+         "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias a radio player 2020 Versi\u00f3n antigua",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://pinou007.itch.io/radio-player",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "rainy day by bee tea",
+         "Informacion": "\u00e2\u00a1 un juego corto sobre la lucha de una familia y su recuperaci\u00c3\u00b3n de la depresi\u00c3\u00b3n",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://bee-tea.itch.io/rainyday",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RUNNORDAI by ENTROLOL",
+         "Informacion": "Entra en el ominoso mundo de RUNNORDAI, un juego espeluznante e inquietante ambientado en los confines de un hospital en expansi\u00f3n. Mientras navegas por los pasillos laber\u00ednticos, tu \u00fanico objetivo es revisar cada casillero y descubrir un c\u00f3digo crucial necesario para escapar. Pero cuidado, una figura siniestra acecha en las sombras, emergiendo a intervalos aleatorios con una risa distorsionada y una presencia escalofriante que nubla tu visi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://entrolollo.itch.io/runnordai",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE2MDUxOS85ODcxMDQ3LmpwZw==/347x500/fKRQYw.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shadow Pursuit by PixelDreamer",
+         "Informacion": "\"Shadow Pursuit\" es una convincente historia de detectives corta, tra\u00edda a la vida por un desarrollador en solitario sin experiencia en 3D. Con una trama concisa pero intrigante, el juego ofrece una experiencia interesante que cautiva a los jugadores de principio a fin. Las buenas im\u00e1genes art\u00edsticas mejoran la atm\u00f3sfera general del juego. Ponte en la piel del protagonista y desentra\u00f1a los misterios que te esperan en esta aventura independiente visualmente agradable.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://pixeldreamer.itch.io/shadow-pursuit",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4NzU4Ni8xMjI3OTM1NC5wbmc=/347x500/PBSWhI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Side Shooter by max levine stuff",
+         "Informacion": "\u00a1Lucha contra 4 fases de invasores alien\u00edgenas, heroico defensor de la tierra! Dales a los humanos suficiente tiempo para evacuar, antes de que los implacables alien\u00edgenas destrocen el lugar.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://maximilian.itch.io/side-shooter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTM0MjgvMzMwMzY3NS5wbmc=/347x500/JL97sO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Space Probe by Future Games",
+         "Informacion": "Un juego de arcade simple. Controles m\u00f3viles: arrastre hacia la izquierda o hacia la derecha para girar, hacia arriba o hacia abajo para moverse. Controles de escritorio: teclas de flecha izquierda y derecha para girar. Flechas arriba y abajo para moverte. \u00a1Intenta esquivar los meteoros!",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://future-games.itch.io/space-probe",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTUxMTg1LzM0MDU1NDcucG5n/347x500/WvCo1%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Spirit Night by Kyanite Heart",
+         "Informacion": "Cada a\u00f1o, en SPIRIT NIGHT, los esp\u00edritus salen a ayudar a los lugare\u00f1os y recolectan golosinas. \u00bfA cu\u00e1ntas personas puedes ayudar? \u00bfCu\u00e1ntos dulces puedes recolectar? \u00bfQu\u00e9 tan espeluznante se pondr\u00e1 realmente? Hay muchas personas en Rootsberg que necesitan ayuda y, qui\u00e9n sabe, tal vez incluso hagas un amigo en el camino...",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://kyaniteheart.itch.io/spirit-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE0MzE4MS83MjQ5MjA2LnBuZw==/347x500/lLFWJI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet by TheThil",
+         "Informacion": "\"HISTORIA\" En el barrio de los McCoyneach un asesino anda al acecho.\r\nNo esperaban que esta noche se enfrentar\u00edan a algo feo...",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://thethil.itch.io/strange-toilet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MjYwOC84MTg3NTUyLnBuZw==/347x500/A%2BcWTM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sunbeams by Kyanite Heart",
+         "Informacion": "Es temprano en la ma\u00f1ana en su caba\u00f1a. La ventana est\u00e1 abierta, el suelo est\u00e1 iluminado con rayos de sol y entra una brisa c\u00e1lida. Tu caba\u00f1a parece un poco vac\u00eda, as\u00ed que, \u00bfqu\u00e9 tal si la llenamos de hermosas plantas de interior?",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://kyaniteheart.itch.io/sunbeams",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTAyMzUyMy82Mjk0NTQxLnBuZw==/347x500/G5W0cV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Survival In Submarino by Player Studio27",
+         "Informacion": "en Ingl\u00e9s:",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://player-studio27.itch.io/survival-in-submarino",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzMzUwMS84NDA0MjkwLnBuZw==/347x500/0ZjInN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Swarm Saucers by max levine stuff",
+         "Informacion": "Tienes que llegar a la convenci\u00f3n de quesos, \u00a1pero los extraterrestres est\u00e1n atacando! Juega a trav\u00e9s de una serie de desaf\u00edos y una historia hilarante. No te llevar\u00e1 mucho tiempo, es divertido, enriquecer\u00e1 tu vida y es gratis, entonces, \u00bfqu\u00e9 hay que perder?",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://maximilian.itch.io/swarm-saucers",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwMTM2Lzg0Mjk2NC5wbmc=/347x500/kbxsXa.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Ancients by Dark Coma Gaming",
+         "Informacion": "Old Lands est\u00e1 bajo ataque desde la desaparici\u00f3n de los 1st Ancients. Es hora de averiguar qu\u00e9 les sucede y qu\u00e9 puedes hacer para detener la destrucci\u00f3n. Trabaja con tu equipo para descubrir el misterio de la primera desaparici\u00f3n y ayudar a devolver la paz al reino.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://darkcoma.itch.io/the-ancients",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTYzMDI4NS85NTgzMDg2LnBuZw==/347x500/zIFwQm.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms: Uncovered by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Burning Locks by max levine stuff",
+         "Informacion": "Busca las pistas. El tribunal mundial de los vivos ha declarado tu inocencia, pero debes darte cuenta t\u00fa mismo para volver con ellos. Una chispa, una neurona disparando, para encender un fuego. O languidecer aqu\u00ed dentro de tu propia mente.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://maximilian.itch.io/the-burning-locks",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzY4Nzg3LzE5NDA1ODQucG5n/347x500/PFqEfT.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cruel One 2 by Sky High Games",
+         "Informacion": "El Cruel ha vuelto y tiene planes de arruinar la Navidad. Eres un periodista independiente que documenta operaciones en el taller de Santa. Descubres que un intruso ha irrumpido en el taller y tiene planes de deshacerse de Santa para siempre.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://sky-high-games.itch.io/the-cruel-one-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzNjc0OS8xMDc3Nzg5MC5qcGc=/347x500/pZS6Gm.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cruel One by Sky High Games",
+         "Informacion": "Es la ma\u00f1ana de Navidad, pero algo anda mal, faltan todos tus regalos. Con una pista, haces todo lo posible para recuperarlos.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://sky-high-games.itch.io/the-cruel-one",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyODkwNi83NzI3ODY2LnBuZw==/347x500/O9xIbe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Flight of Silent Bob by max levine stuff",
          "Informacion": "Bob es un drag\u00f3n silencioso, excepto cuando ruge.",
          "Desde": "",
          "Hasta": "2023/07/13 19:00",
          "URL": "https://maximilian.itch.io/the-flight-of-silent-bob",
          "IMG": "https://img.itch.zone/aW1hZ2UvODU2NjQvNDAzNzAzLmdpZg==/347x500/%2BqvVmj.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Infestation by Sky High Games",
+         "Informacion": "Este juego de terror te pondr\u00e1 la piel de gallina. Una cucaracha de tama\u00f1o humano anda suelta y debes encontrar una manera de salir de las instalaciones con tus \u00fanicas opciones: correr, esconderte o morir.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://sky-high-games.itch.io/theinfestation",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc4MDUzOC8xMDQ2NjEzNS5naWY=/347x500/JpcwN4.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "the man from the backyard 2 by virtualplaystudios",
+         "Informacion": "contin\u00faa la historia en el hombre del patio trasero 2. est\u00e1s solo en casa y descubres que el asesino a sueldo todav\u00eda est\u00e1 vivo y tratando de matarte.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://virtualplaystudios.itch.io/the-man-from-the-backyard-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk5OTA3Ny8xMTc1MjAwNC5wbmc=/347x500/ho9poR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "thisPaper by Pinou007",
+         "Informacion": "Suspendido temporalmente thisPaper es un juego donde tienes que recuperar 10Paper este juego es realmente simple el juego se hizo en 12 horas un reto personal que comenc\u00e9 los otros juegos que ser\u00e1n de mejor calidadMapa DisponibleOtros mapas estar\u00e1n disponibles",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://pinou007.itch.io/paper",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TRICOSMOS: Cardinals Legacy by LittleMugGames",
+         "Informacion": "TR\u00cdADA DE AVENTURA + EXTRA",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://littlemuggames.itch.io/tricosmos-cardinals-legacy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1Njg4MS85ODIxMTE0LnBuZw==/347x500/zSvGDK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tuned to Your Heart by Kyanite Heart",
+         "Informacion": "La bruja de la m\u00fasica local, Cinnamon, ha sido invitada a salir por Freesia, una bruja de hielo muy genial. \u00a1Acordaron ir a cenar, pero Cinnamon tiene planes para hacer que la cita sea a\u00fan mejor! \u00a1Pero ha pasado mucho tiempo desde que tuvo una cita! \u00bf\u00a1Qu\u00e9 haces en una cita!?!?",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://kyaniteheart.itch.io/tuned-to-your-heart",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI3NzQwNC83NTQ4MDc3LnBuZw==/347x500/nciGZb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Turret Jumper 2 by Future Games",
+         "Informacion": "Turret Jumper 2\u00a0es un juego de parkour, plataformas y combate en el que el jugador controla el flujo del tiempo. \u00a1Consigue explosiones en c\u00e1mara lenta, saltos de pared con lapso de tiempo y carreras de velocidad en tiempo real! El juego presenta 18 niveles con una batalla de jefes.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://future-games.itch.io/tj2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODIxOTAyLzQ2MDcxNDYucG5n/347x500/l6ihan.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "UNFORGIVEN : Carry The Pain by MasterDevMed",
+         "Informacion": "Entradas:",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://masterdevmed.itch.io/unforgiven-carry-the-pain",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE5NzgzNS82OTg4MDI3LnBuZw==/347x500/366rva.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Virtual Pet Caterpillar 1.0 by unaux_25917242",
+         "Informacion": "Oruga de mascota virtual: el ciclo de vida de 17 niveles de las orugas, agregue comida, sue\u00f1o y diversi\u00f3n para evolucionar al final del d\u00eda (~ 1,5 h), muy poco o demasiado afecta la felicidad general, obtenga nuevas acciones con el aumento de nivel.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://unaux-25917242.itch.io/virtual-pet-caterpillar-10",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTAwLzEyMzI4NTAuanBn/347x500/uxXYqe.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Who You Are II by Player Studio27",
+         "Informacion": "La secuela del juego Who You Are explica mejor los eventos del primer juego. Contiene m\u00e1s niveles, mejores cinem\u00e1ticas y m\u00e1s dificultad.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://player-studio27.itch.io/who-you-are-ii",
+         "IMG": "https://img.itch.zone/aW1nLzU1NzI2NTUucG5n/347x500/eiMvZ7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Winter Magic by Kyanite Heart",
+         "Informacion": "Emily acaba de mudarse a un pueblo de brujas con la esperanza de hacerse amiga de las brujas locales y aprender magia. Despu\u00e9s de un par de d\u00edas, finalmente re\u00fane el coraje para presentarse a su vecina, Linnea. Ella invita a Emily a emprender una aventura alrededor de la peque\u00f1a monta\u00f1a en la que viven y Emily acepta ~",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://kyaniteheart.itch.io/winter-magic",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODM2OTAwLzQ2OTI2MjAucG5n/347x500/%2F5OC%2Fk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Apocalypse by max levine stuff",
+         "Informacion": "3 mundos abiertos para explorar. Busca munici\u00f3n sigilosamente antes de enfrentarte a la horda, luego es un juego de disparos lleno de acci\u00f3n. Lleno de momentos tensos y miedo genuino. Limpia cada \u00e1rea de zombis para asegurarla. Sobrevive, o muere en el intento.",
+         "Desde": "",
+         "Hasta": "2023/07/13 19:00",
+         "URL": "https://maximilian.itch.io/zombie-apocalypse",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTcwNDcvNDU1NzQ4LmdpZg==/347x500/%2F5ScOi.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
