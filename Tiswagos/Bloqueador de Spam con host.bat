@@ -1238,6 +1238,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 todotorrents.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 verpeliculas4k.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 watch-online.49n7wqynho5u.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 www.cuevana.be #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.fulltv.com.ar #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.iheart.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 yesmovies4u.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1249,6 +1250,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 d18e74vjvmvza1.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 digitalpilotsoft.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 directsad.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 drcesargalvan.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 factor1right.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 fallstring.website #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 file-download.store #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
