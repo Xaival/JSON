@@ -1,5 +1,5 @@
 {
-   "date_update": "15 Jul 2023 16:01 UTC",
+   "date_update": "16 Jul 2023 16:01 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -924,6 +924,9 @@
       },
       {
          "Direccion": "0.0.0.0 juicycelebinfo.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 securecaptchatop.top #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 banners-cdn77.trafficfactory.biz #AntiSpam"
