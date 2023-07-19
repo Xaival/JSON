@@ -343,6 +343,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.erotilink.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.hottest-fling.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.quierorollo.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 o92582fu.beget.tech #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.saucyflirts.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.secretopasional.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.singleflirt.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
