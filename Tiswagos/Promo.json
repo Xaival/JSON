@@ -1,76 +1,6 @@
 {
-   "date_update": "18 Jul 2023 16:02 UTC",
+   "date_update": "19 Jul 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "HubWorld by Jeremy Ulrich",
-         "Informacion": "HubWorld es un relajante juego de exploraci\u00f3n en primera persona que se centra en el dise\u00f1o visual, la novedad y la facilidad de uso.",
-         "Desde": "",
-         "Hasta": "2023/07/19 06:00",
-         "URL": "https://jeremy-ulrich.itch.io/hubworld",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQzNDU0LzQ3NDUxMDIucG5n/347x500/488jDe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Particle by Jeremy Ulrich",
-         "Informacion": "Peque\u00f1o juego de disparos desde arriba en el que esquivas y destruyes enemigos. Recoge objetos y sobrevive el mayor tiempo posible para conseguir una nueva puntuaci\u00f3n alta. Cuanto m\u00e1s sobrevivas, m\u00e1s r\u00e1pido aparecer\u00e1n los enemigos.",
-         "Desde": "",
-         "Hasta": "2023/07/19 06:00",
-         "URL": "https://jeremy-ulrich.itch.io/particle",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyNDk5NC8xMjUxNjU2OS5wbmc=/347x500/aRyFFb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Game where cat needs ball by ComfyMattres",
-         "Informacion": "Un juego donde el objetivo es arrastrar una pelota hacia un gato mientras recolecta peces.",
-         "Desde": "",
-         "Hasta": "2023/07/19 06:00",
-         "URL": "https://comfymattres.itch.io/gamewherecatneedsball",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MzU2NC8xMTQ4NzE2Ny5wbmc=/347x500/gHAMEB.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Duplicate File Finder",
-         "Informacion": "Casi todos los sistemas de Windows contienen numerosos archivos duplicados. Ashampoo Duplicate Finder encuentra y elimina archivos redundantes y permite a los usuarios recuperar su espacio en disco. Para asegurarse de que sus aplicaciones contin\u00faen funcionando sin problemas, el programa mantiene un archivo maestro y reemplaza todas las copias redundantes con enlaces f\u00edsicos a ese archivo. Cuando una aplicaci\u00f3n intenta acceder a una copia eliminada, utilizar\u00e1 el archivo maestro en su lugar. \u00a1Es un enfoque inteligente que evita por completo los problemas de archivos y simplemente no es factible solo con la eliminaci\u00f3n manual de archivos! Pero, \u00bfde d\u00f3nde vienen los archivos duplicados? Pueden ser causados \u200b\u200bpor descargas repetidas o configuraciones de programas que proporcionan su propia copia de los archivos de la biblioteca del sistema. Incluso el propio Windows tiende a crear archivos redundantes en todas las unidades y guardar ubicaciones. Ashampoo Duplicate File Finder escanea los sistemas Windows a velocidades vertiginosas y presenta los resultados ordenadamente ordenados por tipo de archivo, incluidos documentos, archivos de audio y video. Los usuarios pueden revisar las coincidencias individuales y excluir permanentemente los archivos para que no se eliminen, si es necesario. Extensas pruebas han demostrado que los archivos duplicados pueden ocupar una cantidad significativa de espacio en disco y proporcionar poco o ning\u00fan beneficio aparte de la redundancia de archivos. Reemplazarlos con enlaces duros a un solo archivo maestro libera instant\u00e1neamente espacio en disco sin costo de rendimiento notable y con poco riesgo, si es que lo hay. Y Ashampoo Duplicate File Finder viene con una funci\u00f3n de seguridad: \u00a1Se crea una copia de seguridad antes de cada modificaci\u00f3n del sistema para que los usuarios puedan revertirla en cuesti\u00f3n de segundos!",
-         "Desde": "",
-         "Hasta": "2023/07/19 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-duplicate-file-finder-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/front1-1-1.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "VCap Downloader PRO",
-         "Informacion": "VCap Downloader (VCapDL) es un software universal que le permite capturar video y audio de sitios de Internet. La interfaz del software integra la interfaz familiar del navegador. El usuario solo necesita copiar la URL del video del navegador favorito y transferirlo a VCap Downloader. VCap Downloader capturar\u00e1 el video y ofrecer\u00e1 la calidad disponible para descargar. Tambi\u00e9n puede extraer solo la pista de audio de cualquier video y convertirlo a formato MP3.",
-         "Desde": "",
-         "Hasta": "2023/07/19 09:00",
-         "URL": "https://sharewareonsale.com/s/free-vcap-downloader-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/06/vcap_box-200x289.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Sticky Password Premium",
-         "Informacion": "Nunca olvides una contrase\u00f1a de nuevo.",
-         "Desde": "",
-         "Hasta": "2023/07/19 09:00",
-         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/sticky-password-premium-8ocyc.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "VCap Downloader PRO License Key for Free",
-         "Informacion": "VCap Downloader PRO es un descargador de videos simple pero poderoso para Windows, que admite la descarga de videos/audio de YouTube o Vimeo y otros 10,000 sitios de forma gratuita. Con su ayuda, puede descargar videos y guardarlos en formatos MP4, WebM y 3GP con alta calidad y extraer solo la pista de audio de cualquier video y convertirlo a MP3. Este software de descarga de videos tambi\u00e9n admite la descarga por lotes.",
-         "Desde": "",
-         "Hasta": "2023/07/19 14:00",
-         "URL": "https://giveaway.tickcoupon.com/vcap-downloader-pro-full-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/vcap-downloader-pro-giveaway-free-license-code.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "Sticky Password for Mac License Key Free 1-Year",
          "Informacion": "Sticky Password para Mac es uno de los mejores administradores de contrase\u00f1as del mundo. Con muchas funciones \u00fatiles y potentes, Sticky Password es muy recomendado por millones de usuarios. Normalmente tiene un precio de $ 19.99 por una clave de licencia de 1 a\u00f1o/1. Pero ahora puede obtener la licencia Sticky Password de forma gratuita.",
@@ -79,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/get-sticky-password-key-for-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2015/11/Sticky-Password-Mac-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Sticky Password Premium Key Free 1-Year",
@@ -89,7 +19,17 @@
          "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/Sticky-Password-Premium-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
+      },
+      {
+         "Nombre": "VCap Downloader PRO License Key for Free",
+         "Informacion": "VCap Downloader PRO es un descargador de videos simple pero poderoso para Windows, que admite la descarga de videos/audio de YouTube o Vimeo y otros 10,000 sitios de forma gratuita. Con su ayuda, puede descargar videos y guardarlos en formatos MP4, WebM y 3GP con alta calidad y extraer solo la pista de audio de cualquier video y convertirlo a MP3. Este software de descarga de videos tambi\u00e9n admite la descarga por lotes.",
+         "Desde": "",
+         "Hasta": "2023/07/19 14:00",
+         "URL": "https://giveaway.tickcoupon.com/vcap-downloader-pro-full-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/vcap-downloader-pro-giveaway-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "KC Softwares AudioGrail License Key for Free Full Version",
@@ -99,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/kc-softwares-audiograil-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/07/KC-Softwares-AudioGrail-Activate-Successful-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Bab Al-Harah - \u00d8\u00a8\u00d8\u00a7\u00d8\u00a8 \u00d8\u00a7\u00d9\u0084\u00d8\u00ad\u00d8\u00a7\u00d8\u00b1\u00d9\u0087 by GamingTGT",
@@ -109,7 +49,7 @@
          "URL": "https://gamingtgt.itch.io/babharah",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg5NTUwMS8xMTE0NjQ2Ny5wbmc=/347x500/rY0ByI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Grimmace Shake by GamingTGT",
@@ -119,7 +59,7 @@
          "URL": "https://gamingtgt.itch.io/grimmace-shake",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDA3MC8xMjgzMTkxOC5wbmc=/347x500/Dsit%2Fu.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "One Way by GamingTGT",
@@ -129,7 +69,7 @@
          "URL": "https://gamingtgt.itch.io/one-way",
          "IMG": "https://img.itch.zone/aW1nLzEyNTg5MTYzLnBuZw==/347x500/DVtQWl.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Plasma by GamingTGT",
@@ -139,7 +79,7 @@
          "URL": "https://gamingtgt.itch.io/plasma",
          "IMG": "https://img.itch.zone/aW1nLzExMzY4OTI0LnBuZw==/347x500/H602ta.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Shifty by GamingTGT",
@@ -149,7 +89,7 @@
          "URL": "https://gamingtgt.itch.io/shifty",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM2NzI2NC8xMjg0ODM5Mi5naWY=/347x500/3ishjr.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "MacX Video Converter PRO Free License Key",
@@ -158,6 +98,36 @@
          "Hasta": "2023/07/20 00:00",
          "URL": "https://giveaway.tickcoupon.com/macx-video-converter-pro-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/04/macx-video-converter-pro-giveaway-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "Not Pong by ComfyMattres",
+         "Informacion": "CONTROL S",
+         "Desde": "",
+         "Hasta": "2023/07/20 07:00",
+         "URL": "https://comfymattres.itch.io/not-pong",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3Mjc3Mi8xMjg1NDY2NS5naWY=/347x500/6%2FZVgl.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Bird Life - Relaxing Bird Simulator by mOsh",
+         "Informacion": "\u00a1Bienvenido!Bird Life es un relajante simulador de aves/aventuras en el que juegas como un p\u00e1jaro veloz y hambriento que vuela por un hermoso mundo abierto, con bosques, monta\u00f1as y m\u00e1s. Hay algunas sorpresas adicionales para un desaf\u00edo pac\u00edfico, como logros, coleccionables y accesorios. Hay un cielo volum\u00e9trico din\u00e1mico (puedes alcanzar las nubes si tienes la habilidad), un ciclo diurno/nocturno din\u00e1mico y tambi\u00e9n eventos clim\u00e1ticos din\u00e1micos. \u00a1Vuela tan alto como puedas, vuela tan r\u00e1pido como puedas, explora, recolecta pan! \u00a1Incluso hay un sombrero secreto para desbloquear! Controles:",
+         "Desde": "",
+         "Hasta": "2023/07/20 14:31",
+         "URL": "https://ef9.itch.io/bird-life",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyOTE0NC8xMjU0NTMxMi5wbmc=/347x500/JgEhD2.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox Photo Watermark License Key Free Giveaway",
+         "Informacion": "WonderFox Photo Watermark es una herramienta \u00fatil que le permite colocar marcas de agua en sus im\u00e1genes para ayudarlo a combatir el uso no autorizado de su trabajo. Con \u00e9l, puede agregar texto e im\u00e1genes como su marca de agua. Tiene opciones para renombrar por lotes sus im\u00e1genes, cambiar el formato de la imagen y tambi\u00e9n puede agregar una variedad de marcos a sus im\u00e1genes.",
+         "Desde": "",
+         "Hasta": "2023/07/20 15:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-photo-watermark-serial-number/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/05/wonderfox-photo-watermark-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -272,6 +242,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Selene's Unbearable Night by Farelas",
+         "Informacion": "Conoce la historia de Selene: Una mujer que es secuestrada y su \u00fanico objetivo es sobrevivir, pero pronto se da cuenta de que hay un secreto mucho m\u00e1s oscuro de lo que podr\u00eda haber imaginado.",
+         "Desde": "",
+         "Hasta": "2023/07/22 07:59",
+         "URL": "https://farelas.itch.io/selenes-unbearable-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAzMDI3NS8xMjc3MzU2MC5naWY=/347x500/86xtfJ.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "YouTube Music Converter",
          "Informacion": "Descarga m\u00fasica de YouTube a MP3/M4A/AAC/FLAC/WAV/AIFF.",
          "Desde": "",
@@ -332,6 +312,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DVDFab Enlarger AI",
+         "Informacion": "Mejore el video de 480p (SD) a 1080p (Full HD) o de 1080p a 4K.",
+         "Desde": "",
+         "Hasta": "2023/07/23 09:00",
+         "URL": "https://sharewareonsale.com/s/free-dvdfab-enlarger-ai-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/08/8121.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Link Analyzer License Key for Free 2023",
          "Informacion": "Vovsoft Link Analyzer es un software de verificaci\u00f3n de hiperv\u00ednculos f\u00e1cil de usar que le permite verificar sitios web con facilidad. Con \u00e9l, puede rastrear sitios web peque\u00f1os y muy grandes de manera eficiente. Adem\u00e1s, esta herramienta te permite buscar enlaces rotos, analizar los resultados en tiempo real y distinguir enlaces internos y externos.",
          "Desde": "",
@@ -368,6 +358,16 @@
          "Hasta": "2023/07/25 00:00",
          "URL": "https://giveaway.tickcoupon.com/anyviewer-professional-vip-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/anyviewer-professional-giveaway-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PPTube Video Downloader for Windows Free Key 2023",
+         "Informacion": "PPTube Video Downloader para Windows es un software f\u00e1cil de usar para descargar videos/audio de m\u00e1s de 10 000 sitios web de transmisi\u00f3n de video/m\u00fasica como YouTube, Instagram, TikTok, Facebook, Vimeo, Spotify, SoundCloud, MixCloud y mucho m\u00e1s. Con su ayuda, puede descargar videos en varios formatos, como MOV, AVI, FLV, WMV, AAC, FLAC, OGG, etc. Google Chrome, Firefox e Internet Explorer son compatibles para la descarga.",
+         "Desde": "",
+         "Hasta": "2023/07/25 00:00",
+         "URL": "https://giveaway.tickcoupon.com/pptube-video-downloader-free-liense-code/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/pptube-video-downloader-for-windows-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -418,6 +418,36 @@
          "Hasta": "2023/07/25 23:00",
          "URL": "https://steelkrill.itch.io/the-voidness-chapter-1-free-horror-survival",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjAwOTM4MS8xMTgxNTU3OS5wbmc=/347x500/US0xZP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Geekersoft PDF Converter",
+         "Informacion": "Convierta f\u00e1cil y r\u00e1pidamente archivos PDF desde y hacia cualquier formato o imagen de Microsoft Office.",
+         "Desde": "",
+         "Hasta": "2023/07/26 09:00",
+         "URL": "https://sharewareonsale.com/s/free-geekersoft-pdf-converter-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/geekersoft-pdf-converter.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Geekersoft PDF Converter 1-Year Giveaway Key Free",
+         "Informacion": "Si est\u00e1 buscando literatura o documentos de graduaci\u00f3n en Internet, puede encontrar numerosos documentos PDF. Sin embargo, con la ayuda de Geekersoft PDF Converter, puede convertir sin esfuerzo estos archivos PDF a cualquier formato deseado. Geekersoft PDF Converter es una aplicaci\u00f3n robusta y especializada dise\u00f1ada espec\u00edficamente para fines de conversi\u00f3n de PDF. Ofrece una variedad de opciones de conversi\u00f3n, lo que le permite convertir archivos PDF a formatos como Word, Excel, PowerPoint, PNG, JPG e incluso texto sin formato.",
+         "Desde": "",
+         "Hasta": "2023/07/26 14:00",
+         "URL": "https://giveaway.tickcoupon.com/geekersoft-pdf-converter-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/geekersoft-pdf-converter-giveaway-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Poseidon - Project Dark Sky by procyon",
+         "Informacion": "Echa un vistazo a todos mis otros programas - Gypsy Retro TV - Phoenix Pro Theatre - Alien Vision - Retro TV Player (Android)",
+         "Desde": "",
+         "Hasta": "2023/07/26 20:30",
+         "URL": "https://procyon.itch.io/poseidon-project-dark-sky",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTExNTg3LzEyNTc1MDQwLmpwZw==/347x500/5r76u7.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1652,12 +1682,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Track racing battle simulator by Dankoff",
+         "Nombre": "Counter Aim: New Operation by Dankoff, CounterAim series",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2023/08/16 23:00",
-         "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
+         "URL": "https://dankoff.itch.io/counter-aim-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA5OTk1Ni82MzQ4NjE0LnBuZw==/347x500/Uuqc%2BB.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1672,12 +1702,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Counter Aim: New Operation by Dankoff, CounterAim series",
+         "Nombre": "Track racing battle simulator by Dankoff",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2023/08/16 23:00",
-         "URL": "https://dankoff.itch.io/counter-aim-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA5OTk1Ni82MzQ4NjE0LnBuZw==/347x500/Uuqc%2BB.png",
+         "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
