@@ -101,7 +101,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 successfulpatience.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sunglassesmentallyproficient.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 syndication.exoclick.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 tellmadeirafireplace.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 temperrunnersdale.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 toiletapparel.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 torrentfunk.123down.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -112,12 +111,10 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.asdf2233.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ww.blogiess.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.wangchiyang.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 www.worldwide-breakingnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 wxhiojortldjyegtkx.bid #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 yonxatuor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1045.bordsnewsjule.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1045.littlmarsnews22.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 123moviestream.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1d5e051bc65.traffic-c.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1writtedr.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 accentneglectporter.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -160,7 +157,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 comepoint.blogspot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 creatingkegtogether.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuddlethehyena.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 cuevana-3.la #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana.fm #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d1xkyo9j4r7vnn.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 dbriolenproce.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -240,7 +236,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 pierisrapgae.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 player.repelisplus2.vip #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pokebtc.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 pornporno.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pricesandwinners.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 profi-para.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 promo.codere.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -278,8 +273,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 toorebutheh.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 topwwnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 tracking.actualidad.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 trackingformelof.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 travel-blog-tips.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 twinrdsrv.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ujautifuleed.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 unreshiramor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -304,7 +297,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.onclicksuper.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.onlinergpgeek.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.onlinerpgmaster.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 www.pamsg.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.predictiondexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 xxxnewvideos.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 xxxs.vip #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -335,7 +327,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 local-sexx.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 lonelypartners.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 maidr.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 marvellousdating.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 onlyfreelatinaporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 secret-flirt-hub.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 t49.citasconmujeres.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -734,7 +725,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.youngfreeteens.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 xecce.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 xfapster.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 xtopgirls.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 xxxx4k.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 young-porn-xxx.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 young-porn.pro #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1179,7 +1169,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 xhamsterlive.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 significadoconcepto.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 dark-reader.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 lgpc.trypeers.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 samsungwashingmachine.fastlinktraffic.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 antivirus.landerhq.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 nedraeariproma.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
