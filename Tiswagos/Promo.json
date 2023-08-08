@@ -1,46 +1,6 @@
 {
-   "date_update": "07 Aug 2023 16:01 UTC",
+   "date_update": "08 Aug 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "The Fable of Fairy Glen by JBo",
-         "Informacion": "The Fable of Fairy Glen ambientada en una ca\u00f1ada ficticia en Gales. Los Elfos son la fuerza dominante en la tierra. El Imperio Elfo se extiende por toda la tierra.",
-         "Desde": "",
-         "Hasta": "2023/08/07 17:00",
-         "URL": "https://jbo.itch.io/the-fable-of-fairy-glen",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTE5NjMwLzc5MTI0NzYucG5n/347x500/oZ4zrd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "The Farm of Fairy Glen by JBo",
-         "Informacion": "Un homenaje a los incre\u00edbles juegos de granja que existen, un trabajo de amor que se hizo con pasi\u00f3n por el g\u00e9nero. Fue una ambici\u00f3n de toda la vida hacer este juego y estoy feliz con el resultado.",
-         "Desde": "",
-         "Hasta": "2023/08/07 17:00",
-         "URL": "https://jbo.itch.io/the-farm-of-fairy-glen",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA0MTA3MS81OTQ1NzY0LnBuZw==/347x500/gooTXp.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Boots Quest DX by Discount Realms",
-         "Informacion": "o: el CUENTO DEL LIMPIADOR DE BOTAS, que es una narraci\u00f3n del VIAJE INTERIOR de una criatura hasta el mism\u00edsimo precipicio de la visi\u00f3n espiritual, a trav\u00e9s de la lente del adoqu\u00edn, y algunas otras cosas tontas que sucedieron.",
-         "Desde": "",
-         "Hasta": "2023/08/08 06:59",
-         "URL": "https://discountrealms.itch.io/boots-quest-dx",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU3NjU1OS85NTg1NjQ2LmdpZg==/347x500/P%2B3uwM.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Music Studio 2023",
-         "Informacion": "Con Ashampoo Music Studio 2023, editar, organizar y mezclar audio se vuelve tan f\u00e1cil como un pastel. Los proyectos terminados pueden equiparse f\u00e1cilmente con colores elegantes y grabarse en un disco.",
-         "Desde": "",
-         "Hasta": "2023/08/08 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-music-studio-2023-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/scr-ashampoo-music-studio-2023-presentation1.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Video to GIF Converter License Key for Free",
          "Informacion": "Video to GIF de Watermark-Software es un software de conversi\u00f3n de video a imagen que lo ayuda a convertir todos los archivos de video populares a animaci\u00f3n GIF. Con \u00e9l, puede convertir videos en casi todos los formatos de video populares (como AVI, MPEG, MP4, WMV, MKV, MOV, VOB, WebM, RMVB y formatos de video m\u00e1s raros) a GIF animados con velocidad ultrarr\u00e1pida y alta calidad.",
@@ -49,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/video-to-gif-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/02/watermark-software-video-to-gif-license-key-for-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Assault Path by Normia Games Studio",
@@ -59,7 +19,7 @@
          "URL": "https://hassantarek123.itch.io/assault-path",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkxODk3Mi8xMTI4MDY2My5qcGc=/347x500/JL%2Fswm.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "The Kitchen of Sopa's by Marcus Vinicius S. Alves",
@@ -69,7 +29,17 @@
          "URL": "https://marcus-vinicius-s-alves.itch.io/the-kitchen-of-sopas",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIwMzk3Ny8xMzAzMDkwOC5qcGVn/347x500/XOKX2p.jpeg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
+      },
+      {
+         "Nombre": "Vole Windows Expedition Professional Edition",
+         "Informacion": "Disfruta de este administrador de archivos totalmente personalizable",
+         "Desde": "",
+         "Hasta": "2023/08/09 09:00",
+         "URL": "https://www.bitsdujour.com/software/vole-windows-expedition-professional-edition/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/vole-windows-expedition-ultimate-edition-.rr1u.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Pretty hard game by Dababan",
@@ -362,6 +332,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "50 Deep Space Backgrounds",
+         "Informacion": "Haz dise\u00f1os asombrosos que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que te permitir\u00e1n trabajar con tu imaginaci\u00f3n para construir algo divertido y genial.",
+         "Desde": "",
+         "Hasta": "2023/08/14 09:00",
+         "URL": "https://sharewareonsale.com/s/free-50-deep-space-backgrounds-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/2-min-1200x800-1.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Website Screenshot Generator",
          "Informacion": "Capturar capturas de pantalla del sitio web",
          "Desde": "",
@@ -372,12 +352,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "50 Deep Space Backgrounds",
-         "Informacion": "Haz dise\u00f1os asombrosos que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que te permitir\u00e1n trabajar con tu imaginaci\u00f3n para construir algo divertido y genial.",
+         "Nombre": "Ashampoo Registry Cleaner 2",
+         "Informacion": "Ashampoo Registry Cleaner 2 escanea el Registro en busca de entradas corruptas, redundantes y hu\u00e9rfanas, limpiando y reparando efectivamente la base de datos en el proceso. Esto evita problemas que ocurren con frecuencia despu\u00e9s de un largo tiempo de actividad del sistema. Al compactar el Registro, Ashampoo Registry Cleaner 2 reduce significativamente la carga del sistema durante las operaciones de lectura y escritura, lo que hace que su sistema operativo sea m\u00e1s r\u00e1pido y estable. La interfaz de usuario minimalista y funcional hace que este limpiador del Registro tambi\u00e9n sea ideal para usuarios sin experiencia, ya que no se requiere ning\u00fan conocimiento del funcionamiento interno del Registro. Si bien la configuraci\u00f3n predeterminada solo detecta las entradas que son seguras de eliminar o reparar, el programa tambi\u00e9n viene con un sistema de respaldo para deshacer las modificaciones con solo hacer clic en un bot\u00f3n para mayor seguridad.",
          "Desde": "",
          "Hasta": "2023/08/14 09:00",
-         "URL": "https://sharewareonsale.com/s/free-50-deep-space-backgrounds-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/2-min-1200x800-1.jpg?1357",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-registry-cleaner-2-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-14.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -402,6 +382,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "MultCloud Premium Account 500GB Data Traffic for Free",
+         "Informacion": "Como sabe, MultCloud Premium es una herramienta profesional de administraci\u00f3n de transferencias en la nube que ofrece una soluci\u00f3n avanzada para conectar todas sus unidades en la nube y transferir o sincronizar archivos de un servicio en la nube directamente a otro. Este servicio de administraci\u00f3n en la nube lo ayudar\u00e1 a administrar m\u00faltiples cuentas de almacenamiento en la nube de diferentes proveedores como Google Drive, Dropbox, OneDrive y m\u00e1s en una interfaz unificada.",
+         "Desde": "",
+         "Hasta": "2023/08/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/multcloud-unlimited-traffic-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/multcloud-premium-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
+         "Desde": "",
+         "Hasta": "2023/08/15 05:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que vive solo.",
          "Desde": "",
@@ -422,13 +422,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
+         "Nombre": "500 Professional Photoshop Actions Bundle",
+         "Informacion": "\u00a1Presentamos las 500 incre\u00edbles acciones de Photoshop que te permitir\u00e1n crear incre\u00edbles fotos con un solo clic!",
          "Desde": "",
-         "Hasta": "2023/08/15 05:00",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
-         "Distribuidora": "Itch io",
+         "Hasta": "2023/08/15 09:00",
+         "URL": "https://sharewareonsale.com/s/free-500-professional-photoshop-actions-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/500-Professional-Photoshop-Actions-Bundle-200x133.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -479,6 +479,16 @@
          "URL": "https://sharewareonsale.com/s/free-pd-howler-2022-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/08/06-custom-sky-from-Aisa-at-pexels.jpg?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lifeless Horizon by LifelessHorizon",
+         "Informacion": "Este juego se lanzar\u00e1 pronto en Steam y eleg\u00ed lanzar este juego aqu\u00ed gratis por unos d\u00edas.",
+         "Desde": "",
+         "Hasta": "2023/08/17 09:00",
+         "URL": "https://lifelesshorizon.itch.io/liflessgorizon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNjc4OC8xMzA1MzI0MS5wbmc=/347x500/2S9r49.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
