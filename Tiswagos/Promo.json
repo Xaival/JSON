@@ -1,106 +1,6 @@
 {
-   "date_update": "09 Aug 2023 16:01 UTC",
+   "date_update": "10 Aug 2023 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Pretty hard game by Dababan",
-         "Informacion": "Este es un juego bastante desafiante para jugar, pero si te consideras un jugador habilidoso que disfruta de la dificultad, puede que te resulte atractivo.",
-         "Desde": "",
-         "Hasta": "2023/08/09 23:00",
-         "URL": "https://dababan.itch.io/pretty-hard-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Nzg5MS8xMjk4OTIyOS5qcGc=/347x500/xYwui1.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Still Alive by 0zanM",
-         "Informacion": "El apocalipsis zombie se ha extendido por todo el mundo. La mayor\u00eda de la gente ha muerto. Has o\u00eddo que se ha desarrollado una cura en un laboratorio. Est\u00e1s intentando encontrar la cura en el laboratorio para acabar con este apocalipsis.",
-         "Desde": "",
-         "Hasta": "2023/08/09 23:00",
-         "URL": "https://0zanm.itch.io/still-alive",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0MTg4NC8xMTQxNjI5My5wbmc=/347x500/OZEYIl.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "1943 by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/10 00:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
-         "Desde": "",
-         "Hasta": "2023/08/10 00:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/10 00:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Froelund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/10 00:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Cod mw2 Rust map multiplayer (Pre Alpha) by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/10 00:00",
-         "URL": "https://magnus-froelund.itch.io/cod-mw2-rust-map-multiplayer-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Froelund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2023/08/10 00:00",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/10 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Wondefox HD Video Converter Factory Pro License Key Free",
-         "Informacion": "WonderFox HD Video Converter Factory Pro es un programa para convertir archivos de video. Con esta aplicaci\u00f3n, puede convertir f\u00e1cil y r\u00e1pidamente videos almacenados en definici\u00f3n est\u00e1ndar a alta definici\u00f3n. Tambi\u00e9n le permite adaptar materiales de pel\u00edculas para reproducirlos en tel\u00e9fonos inteligentes, tabletas y reproductores de DVD de escritorio.",
-         "Desde": "",
-         "Hasta": "2023/08/10 00:00",
-         "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/wonderfox-hd-video-converter-factory-pro-screenshot.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
       {
          "Nombre": "Bloons TD 6",
          "Informacion": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
@@ -109,7 +9,7 @@
          "URL": "https://store.epicgames.com/p/bloons-td-6-bf95a0",
          "IMG": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Loop Hero",
@@ -119,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/loop-hero",
          "IMG": "https://cdn1.epicgames.com/ff50f85ed609454e80ac46d9496da34d/offer/EGS_TheLichhasthrowntheworldintoatimelessloop_FourQuarters_S1-2560x1440-dd971b1a2d79b2984c22a3b7c66c60da.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Ashampoo Photo Commander 16",
@@ -129,7 +29,17 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-16-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-15.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "DearMob iPhone Manager",
+         "Informacion": "Realice copias de seguridad, cifre y restaure todos los datos en su dispositivo iOS",
+         "Desde": "",
+         "Hasta": "2023/08/11 09:00",
+         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/dearmob-iphone-manager-_2uyi.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "EaseUS RecExperts for Mac License Key Free",
@@ -169,6 +79,16 @@
          "URL": "https://diadas.itch.io/thermo-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NTE1LzE1NzQ2NjYuZ2lm/347x500/oSPwgM.gif",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster JPG to PDF Converter Key Free 2023",
+         "Informacion": "Como sabe, un archivo PDF es un formato popular que es m\u00e1s f\u00e1cil de compartir entre diferentes usuarios. Y ocasionalmente, es posible que necesite convertir JPG a PDF para que pueda simplemente cambiar el tama\u00f1o de la imagen u otros atributos. Coolmuster JPG to PDF Converter es un software \u00fatil para ayudarlo a realizar esta tarea. Con una interfaz de usuario simple e intuitiva y soporte multiformato, esta herramienta le permite convertir formatos de imagen JPG/JPEG, PNG, TIFF y BMP a PDF.",
+         "Desde": "",
+         "Hasta": "2023/08/12 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-jpg-to-pdf-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/coolmuster-jpg-to-pdf-converter-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -302,6 +222,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "iTop Screen Recorder PRO Free License Key",
+         "Informacion": "iTop Screen Recorder Pro de IObit es un software de grabaci\u00f3n de pantalla para Windows (PC). Puede grabar cualquier parte de la pantalla con la c\u00e1mara web, el altavoz y el micr\u00f3fono encendidos. iTop Screen Recorder lo ayuda a guardar video en formatos de archivo comunes como MP4, AVI, FLV, GIF,... y audio en formato MP3, AAC y AC3,...",
+         "Desde": "",
+         "Hasta": "2023/08/14 00:00",
+         "URL": "https://giveaway.tickcoupon.com/itop-screen-recorder-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/itop-screen-recorder-pro-giveaway-free-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Delete Multiple Files License Key Free 2023",
          "Informacion": "Si el objetivo es eliminar por completo los archivos de su computadora personal, el curso de acci\u00f3n recomendado consiste en emplear Vovsoft Delete Multiple Files. Este software especializado sirve para la eliminaci\u00f3n permanente de archivos, asegurando la erradicaci\u00f3n de archivos confidenciales y datos miscel\u00e1neos tanto de su computadora como de dispositivos de almacenamiento externos.",
          "Desde": "",
@@ -412,6 +342,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Drifters by Magnus Froelund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores",
+         "Desde": "",
+         "Hasta": "2023/08/16 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/08/16 00:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/08/16 00:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Counter Aim: New Operation by Dankoff, CounterAim series",
          "Informacion": "",
          "Desde": "",
@@ -472,6 +432,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "iCare Data Recovery Pro 9",
+         "Informacion": "iCare Data Recovery Pro es una soluci\u00f3n de software integral para recuperar datos perdidos o eliminados de una variedad de dispositivos de almacenamiento, incluidos discos duros, tarjetas SD y unidades USB. Ofrece herramientas f\u00e1ciles de usar para recuperar archivos, fotos, videos y documentos, haciendo que la restauraci\u00f3n de datos sea accesible y eficiente.",
+         "Desde": "",
+         "Hasta": "2023/08/17 09:00",
+         "URL": "https://sharewareonsale.com/s/icare-data-recovery-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/02/data-pro.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "iCare Data Recovery Pro License Code - Software Giveaway",
+         "Informacion": "iCare Data Recovery ayuda a recuperar datos borrados o perdidos de su computadora o de la mayor\u00eda de los dispositivos digitales que han sido borrados, perdidos, formateados o tambi\u00e9n borrados accidentalmente por antivirus, etc. Tambi\u00e9n puede deshacer archivos que han sido borrados de la Papelera de reciclaje de Windows.",
+         "Desde": "",
+         "Hasta": "2023/08/17 14:00",
+         "URL": "https://giveaway.tickcoupon.com/icare-data-recovery-pro-license-code/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/icare-data-recovery-pro-giveaway-screenshot-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Europa Universalis IV",
          "Informacion": "Lead any nation from Renaissance to Revolution in a complex simulation of the early modern world. Master the art of war, diplomacy and trade to shape and change your nation\u2019s history!",
          "Desde": "2023/08/10",
@@ -479,7 +459,7 @@
          "URL": "https://store.epicgames.com/p/europa-universalis-iv",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S3_2560x1440-aa3002ec221d43dcd7e49f5458e74766",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Orwell: Keeping an Eye on You",
@@ -489,7 +469,7 @@
          "URL": "https://store.epicgames.com/p/orwell-keeping-an-eye-on-you",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S1_2560x1440-df26557fc7586916a5c1d172c44f2232",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "I Am Not Crazy by Archille",
@@ -580,6 +560,26 @@
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S1_2560x1440-97e2dbc3d0e628116fa510efe7f7783f",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Dodo Peak",
+         "Informacion": "Dodo Peak nos recuerda a los juegos de plataforma arcade del pasado con un toque moderno. Convi\u00e9rtete en un dodo y encuentra y salva a tus beb\u00e9s perdidos en cimas peligrosas.",
+         "Desde": "2023/08/17",
+         "Hasta": "2023/08/24 17:00",
+         "URL": "https://store.epicgames.com/p/dodo-peak-159276",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/f12a1b6884a4432dbd042e98a7eda29c/dodo-peak-19em1.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
+         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 no descompilado mod it juego real que actualiza publicar juego completado! gracias a mystman12 por no enviar ese mod descompilado para enviarlo ya para actualizar el acceso al juego, no informar mi cuenta y el juego, \u00a1y ahora enviarlo a usted!",
+         "Desde": "",
+         "Hasta": "2023/08/26 09:00",
+         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Assault Path by Normia Games Studio",
@@ -1308,6 +1308,16 @@
          "Hasta": "2023/09/03 23:59",
          "URL": "https://greenwoltec.itch.io/horror-game-nevren",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE2NjA1NC8xMjc3ODAwNS5wbmc=/347x500/xJ03aK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dirty Dan (Online Multiplayer Only) by Yuneek",
+         "Informacion": "Un juego multijugador sobre ser un vaquero, disparar y saquear, pero sin la parte del saqueo por ahora. Este es un juego multijugador en l\u00ednea, por lo que necesita al menos 2 usuarios para ejecutar un juego completo.",
+         "Desde": "",
+         "Hasta": "2023/09/09 06:00",
+         "URL": "https://yuneek.itch.io/dirty-dan-online-multiplayer-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjEwMTc4MS8xMjM4MDcyMi5wbmc=/347x500/xoV0Iv.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
