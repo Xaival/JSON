@@ -1,56 +1,6 @@
 {
-   "date_update": "10 Aug 2023 16:02 UTC",
+   "date_update": "11 Aug 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Bloons TD 6",
-         "Informacion": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
-         "Desde": "2023/08/03",
-         "Hasta": "2023/08/10 17:00",
-         "URL": "https://store.epicgames.com/p/bloons-td-6-bf95a0",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Loop Hero",
-         "Informacion": "El Lich ha enviado al mundo entero a un bucle atemporal y ha sumido a sus habitantes en un interminable caos. Utiliza un mazo de cartas m\u00edsticas en constante expansi\u00f3n para colocar enemigos, edificios y terrenos en cada bucle \u00fanico de expedici\u00f3n a disposici\u00f3n del valiente h\u00e9roe.",
-         "Desde": "2023/08/03",
-         "Hasta": "2023/08/10 17:00",
-         "URL": "https://store.epicgames.com/p/loop-hero",
-         "IMG": "https://cdn1.epicgames.com/ff50f85ed609454e80ac46d9496da34d/offer/EGS_TheLichhasthrowntheworldintoatimelessloop_FourQuarters_S1-2560x1440-dd971b1a2d79b2984c22a3b7c66c60da.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Commander 16",
-         "Informacion": "El nuevo Ashampoo Photo Commander 16 es la soluci\u00f3n completa para ver, editar y organizar sus fotos. Ordene su colecci\u00f3n, optimice varias im\u00e1genes de una sola vez y cree calendarios, tarjetas fotogr\u00e1ficas y presentaciones de diapositivas completas con facilidad. Ya sea que sea un fot\u00f3grafo principiante, novato o profesional, los excelentes resultados siempre est\u00e1n a solo unos clics de distancia.",
-         "Desde": "",
-         "Hasta": "2023/08/11 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-16-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-15.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "DearMob iPhone Manager",
-         "Informacion": "Realice copias de seguridad, cifre y restaure todos los datos en su dispositivo iOS",
-         "Desde": "",
-         "Hasta": "2023/08/11 09:00",
-         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/dearmob-iphone-manager-_2uyi.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "EaseUS RecExperts for Mac License Key Free",
-         "Informacion": "EaseUS RecExperts para Mac es la mejor grabadora de pantalla para Mac. Brinda muchas opciones para elegir, desde grabar sus videos favoritos hasta reuniones importantes. Esta poderosa herramienta le permite grabar en cualquier parte de su pantalla, puede seleccionar capturar una pantalla completa o cualquier \u00e1rea seleccionada seg\u00fan sus necesidades. Tambi\u00e9n puede usarlo para recortar la duraci\u00f3n de la grabaci\u00f3n o ajustar su volumen seg\u00fan sus necesidades. Adem\u00e1s, puede agregarle una introducci\u00f3n y un final personalizados.",
-         "Desde": "",
-         "Hasta": "2023/08/11 12:00",
-         "URL": "https://giveaway.tickcoupon.com/easeus-recexperts-for-mac-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/12/easeus-recexperts-for-mac-giveaway-screenshot.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "Clean ATTACK! by diadas",
          "Informacion": "Mi entrada para el Bolt Jam #2. No escrib\u00ed una sola l\u00ednea de c\u00f3digo C# para esto.",
@@ -59,27 +9,7 @@
          "URL": "https://diadas.itch.io/clean-attack",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzEyMDU0LzE1NDIyOTAuanBn/347x500/MW86Ra.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "GRAVITY Pilot! by diadas",
-         "Informacion": "Mi entrada para el Bolt Jam #6. No escrib\u00ed una sola l\u00ednea de c\u00f3digo C# para esto.",
-         "Desde": "",
-         "Hasta": "2023/08/12 00:00",
-         "URL": "https://diadas.itch.io/gravity-pilot",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDY2MzgxLzIzODU3NzQuanBn/347x500/rPuoAL.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Thermo Puzzle by diadas",
-         "Informacion": "Thermo Puzzle\u00a0es un juego sobre la conducci\u00f3n t\u00e9rmica.",
-         "Desde": "",
-         "Hasta": "2023/08/12 00:00",
-         "URL": "https://diadas.itch.io/thermo-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NTE1LzE1NzQ2NjYuZ2lm/347x500/oSPwgM.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster JPG to PDF Converter Key Free 2023",
@@ -89,7 +19,27 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-jpg-to-pdf-converter-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/coolmuster-jpg-to-pdf-converter-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "GRAVITY Pilot! by diadas",
+         "Informacion": "Mi entrada para el Bolt Jam #6. No escrib\u00ed una sola l\u00ednea de c\u00f3digo C# para esto.",
+         "Desde": "",
+         "Hasta": "2023/08/12 00:00",
+         "URL": "https://diadas.itch.io/gravity-pilot",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDY2MzgxLzIzODU3NzQuanBn/347x500/rPuoAL.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "Thermo Puzzle by diadas",
+         "Informacion": "Thermo Puzzle\u00a0es un juego sobre la conducci\u00f3n t\u00e9rmica.",
+         "Desde": "",
+         "Hasta": "2023/08/12 00:00",
+         "URL": "https://diadas.itch.io/thermo-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NTE1LzE1NzQ2NjYuZ2lm/347x500/oSPwgM.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Milkyway cruiser - demo by Pactrowan",
@@ -99,6 +49,26 @@
          "URL": "https://pactrowan.itch.io/milkywaycruiser",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3Mjc3MC8xMjgyMjA5My5wbmc=/347x500/S3D%2FlU.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
+      },
+      {
+         "Nombre": "DearMob iPhone Manager",
+         "Informacion": "Realice copias de seguridad, cifre y restaure todos los datos en su dispositivo iOS",
+         "Desde": "",
+         "Hasta": "2023/08/12 09:00",
+         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/dearmob-iphone-manager-_2uyi.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "TuneKeep Audio Converter Giveaway Free Code 2023",
+         "Informacion": "TuneKeep Audio Converter es un programa que te permite convertir f\u00e1cilmente Apple Music a formato MP3. Si tiene problemas para escuchar las pistas de Apple Music en su iPod Nano/Shuffle u otros dispositivos, o para utilizarlas como m\u00fasica de fondo en sus proyectos de creaci\u00f3n de DVD o edici\u00f3n de video, no olvide probar TuneKeep Audio Converter; no te defraudar\u00e1. Es la respuesta definitiva para brindarles a los suscriptores de Apple Music una mejor experiencia musical.",
+         "Desde": "",
+         "Hasta": "2023/08/12 15:00",
+         "URL": "https://giveaway.tickcoupon.com/tunekeep-audio-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/tunekeep-audio-converter-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -192,6 +162,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "iTop Screen Recorder PRO Free License Key",
+         "Informacion": "iTop Screen Recorder Pro de IObit es un software de grabaci\u00f3n de pantalla para Windows (PC). Puede grabar cualquier parte de la pantalla con la c\u00e1mara web, el altavoz y el micr\u00f3fono encendidos. iTop Screen Recorder lo ayuda a guardar video en formatos de archivo comunes como MP4, AVI, FLV, GIF,... y audio en formato MP3, AAC y AC3,...",
+         "Desde": "",
+         "Hasta": "2023/08/14 00:00",
+         "URL": "https://giveaway.tickcoupon.com/itop-screen-recorder-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/itop-screen-recorder-pro-giveaway-free-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Kasperias Arenas by KasperV",
          "Informacion": "- Crea un personaje con apariencia y habilidades personalizadas.",
          "Desde": "",
@@ -222,16 +202,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "iTop Screen Recorder PRO Free License Key",
-         "Informacion": "iTop Screen Recorder Pro de IObit es un software de grabaci\u00f3n de pantalla para Windows (PC). Puede grabar cualquier parte de la pantalla con la c\u00e1mara web, el altavoz y el micr\u00f3fono encendidos. iTop Screen Recorder lo ayuda a guardar video en formatos de archivo comunes como MP4, AVI, FLV, GIF,... y audio en formato MP3, AAC y AC3,...",
-         "Desde": "",
-         "Hasta": "2023/08/14 00:00",
-         "URL": "https://giveaway.tickcoupon.com/itop-screen-recorder-pro-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/itop-screen-recorder-pro-giveaway-free-code.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Vovsoft Delete Multiple Files License Key Free 2023",
          "Informacion": "Si el objetivo es eliminar por completo los archivos de su computadora personal, el curso de acci\u00f3n recomendado consiste en emplear Vovsoft Delete Multiple Files. Este software especializado sirve para la eliminaci\u00f3n permanente de archivos, asegurando la erradicaci\u00f3n de archivos confidenciales y datos miscel\u00e1neos tanto de su computadora como de dispositivos de almacenamiento externos.",
          "Desde": "",
@@ -239,6 +209,16 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-delete-multiple-files-free-license/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/vovsoft-delete-multiple-files-giveaway-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "80.08 by Studio CloudScape",
+         "Informacion": "80.08\r\nes un juego de memoria que incluye algo de exploraci\u00f3n y resoluci\u00f3n de acertijos.\r\nDesaf\u00eda tu memoria y tu concentraci\u00f3n con diferentes tipos de\r\nacertijos de memoria mientras intentas escapar de una habitaci\u00f3n extra\u00f1a que parece\r\nser tu propia mente!",
+         "Desde": "",
+         "Hasta": "2023/08/14 08:00",
+         "URL": "https://cloudscapegt.itch.io/8008",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ3MDM5LzIyMjg3NjYuZ2lm/347x500/jXqyNZ.gif",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -272,6 +252,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Photo Commander 16",
+         "Informacion": "El nuevo Ashampoo Photo Commander 16 es la soluci\u00f3n completa para ver, editar y organizar sus fotos. Ordene su colecci\u00f3n, optimice varias im\u00e1genes de una sola vez y cree calendarios, tarjetas fotogr\u00e1ficas y presentaciones de diapositivas completas con facilidad. Ya sea que sea un fot\u00f3grafo principiante, novato o profesional, los excelentes resultados siempre est\u00e1n a solo unos clics de distancia.",
+         "Desde": "",
+         "Hasta": "2023/08/14 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-16-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-15.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "AWZ Screen Recorder License Key for Free 2023",
          "Informacion": "Para cualquiera que busque una herramienta de captura de pantalla f\u00e1cil de usar para hacer algunas grabaciones cortas y embellecer algunas capturas de pantalla, AWZ Screen Recorder es la herramienta perfecta. Dise\u00f1ada con una interfaz limpia, esta herramienta tiene la posibilidad de grabar toda la pantalla o un \u00e1rea seleccionada de la pantalla. Con su ayuda, tiene la capacidad de capturar y grabar todo lo que aparece en la pantalla de su computadora o dispositivo.",
          "Desde": "",
@@ -279,6 +269,46 @@
          "URL": "https://giveaway.tickcoupon.com/awz-screen-recorder-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/awz-screen-recorder-giveaway-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Assassin Ezio Auditore da Firenze",
+         "Informacion": "Es un personaje ficticio de la serie de videojuegos Assassin's Creed. Es un Asesino italiano que vive durante el Renacimiento. Ezio es uno de los personajes m\u00e1s populares de la serie, y ha aparecido en cuatro juegos: Assassin's Creed II, Assassin's Creed Brotherhood, Assassin's Creed Revelations y Assassin's Creed: The Ezio Collection.",
+         "Desde": "2023/08/10",
+         "Hasta": "2023/08/14 14:00",
+         "URL": "https://freeweekend.ubisoft.com/ac2/es-ES",
+         "IMG": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2Cpfpf1vCxJmg9N8Ic0JFu/4b71dce2e780479651eabd696ef970a3/ACEC_Keyart_00_00_00.jpg",
+         "Distribuidora": "Ubisoft Connect",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Assassin's Creed II",
+         "Informacion": "Es un videojuego de acci\u00f3n y aventura desarrollado por Ubisoft Montreal y publicado por Ubisoft. Es la segunda entrega de la serie Assassin's Creed. El juego se desarrolla en Italia durante el Renacimiento. El jugador controla a Ezio Auditore da Firenze, un joven que se convierte en un Asesino despu\u00e9s de que su familia es asesinada por los Templarios.",
+         "Desde": "2023/08/10",
+         "Hasta": "2023/08/14 14:00",
+         "URL": "https://freeweekend.ubisoft.com/acbrotherhood/es-ES",
+         "IMG": "https://gaming-cdn.com/images/products/2172/orig/assassin-s-creed-ii-pc-juego-ubisoft-connect-cover.jpg?v=1669908139",
+         "Distribuidora": "Ubisoft Connect",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Assassin's Creed Revelations",
+         "Informacion": "Es un videojuego de acci\u00f3n y aventura desarrollado por Ubisoft Montreal y publicado por Ubisoft. Es la tercera y \u00faltima entrega de la trilog\u00eda de Ezio Auditore. El juego se desarrolla en Constantinopla, Estambul, en el siglo XV. Ezio Auditore da Firenze regresa como protagonista del juego, y su misi\u00f3n es encontrar la Biblioteca de Alta\u00efr Ibn-La'Ahad.",
+         "Desde": "2023/08/10",
+         "Hasta": "2023/08/14 14:00",
+         "URL": "https://freeweekend.ubisoft.com/acrevelations/es-ES",
+         "IMG": "https://cdn-ext.fanatical.com/production/product/1280x720/df07b610-5441-4cbf-99c2-1c3e8fdaf6d9.jpeg",
+         "Distribuidora": "Ubisoft Connect",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Assassin\u2019s Creed\u00ae Valhalla",
+         "Informacion": "Es un videojuego de acci\u00f3n y aventura desarrollado por Ubisoft Montreal y publicado por Ubisoft. Es la decimoquinta entrega de la serie Assassin's Creed. El juego se desarrolla en Inglaterra durante la Era Vikinga. El jugador controla a Eivor Varinsdottir, un vikingo que emprende un viaje para encontrar un nuevo hogar para su pueblo.",
+         "Desde": "2023/08/10",
+         "Hasta": "2023/08/14 14:00",
+         "URL": "https://freeweekend.ubisoft.com/acv/es-ES",
+         "IMG": "https://gaming-cdn.com/images/products/6147/orig/assassin-s-creed-valhalla-pc-juego-ubisoft-connect-europe-cover.jpg?v=1650550345",
+         "Distribuidora": "Ubisoft Connect",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -342,16 +372,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Drifters by Magnus Froelund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores",
-         "Desde": "",
-         "Hasta": "2023/08/16 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Are you There? by Magnus Froelund",
          "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
          "Desde": "",
@@ -368,6 +388,16 @@
          "Hasta": "2023/08/16 00:00",
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Froelund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores",
+         "Desde": "",
+         "Hasta": "2023/08/16 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -412,6 +442,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "iCare Data Recovery Pro 9",
+         "Informacion": "iCare Data Recovery Pro es una soluci\u00f3n de software integral para recuperar datos perdidos o eliminados de una variedad de dispositivos de almacenamiento, incluidos discos duros, tarjetas SD y unidades USB. Ofrece herramientas f\u00e1ciles de usar para recuperar archivos, fotos, videos y documentos, haciendo que la restauraci\u00f3n de datos sea accesible y eficiente.",
+         "Desde": "",
+         "Hasta": "2023/08/17 09:00",
+         "URL": "https://sharewareonsale.com/s/icare-data-recovery-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/02/data-pro.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Lifeless Horizon by LifelessHorizon",
          "Informacion": "Este juego se lanzar\u00e1 pronto en Steam y eleg\u00ed lanzar este juego aqu\u00ed gratis por unos d\u00edas.",
          "Desde": "",
@@ -428,16 +468,6 @@
          "Hasta": "2023/08/17 09:00",
          "URL": "https://sharewareonsale.com/s/free-pd-howler-2022-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/08/06-custom-sky-from-Aisa-at-pexels.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "iCare Data Recovery Pro 9",
-         "Informacion": "iCare Data Recovery Pro es una soluci\u00f3n de software integral para recuperar datos perdidos o eliminados de una variedad de dispositivos de almacenamiento, incluidos discos duros, tarjetas SD y unidades USB. Ofrece herramientas f\u00e1ciles de usar para recuperar archivos, fotos, videos y documentos, haciendo que la restauraci\u00f3n de datos sea accesible y eficiente.",
-         "Desde": "",
-         "Hasta": "2023/08/17 09:00",
-         "URL": "https://sharewareonsale.com/s/icare-data-recovery-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/02/data-pro.jpg?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -469,6 +499,26 @@
          "URL": "https://store.epicgames.com/p/orwell-keeping-an-eye-on-you",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S1_2560x1440-df26557fc7586916a5c1d172c44f2232",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox DVD Ripper Pro License Key for Free 2023",
+         "Informacion": "WonderFox DVD Ripper Pro es una verdadera herramienta de extracci\u00f3n de DVD de velocidad No. 1 que proporciona la soluci\u00f3n r\u00e1pida para copiar DVD a una amplia gama de formatos de audio y video convencionales, como DVD a AVI, DVD a MP4, DVD a MKV, DVD a MPG para copia de seguridad r\u00e1pida de DVD a iPad, DVD a iPhone 6, DVD a tel\u00e9fonos Android, etc. Y se mantienen agregados y compatibles nuevos formatos de medios.",
+         "Desde": "",
+         "Hasta": "2023/08/18 00:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-ripper-pro-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/02/wonderfox-dvd-ripper-giveaway-for-free-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "500 Premium Stock Images",
+         "Informacion": "Fotos de stock premium gratis. Disponible para uso comercial y personal.",
+         "Desde": "",
+         "Hasta": "2023/08/18 09:00",
+         "URL": "https://sharewareonsale.com/s/free-500-premium-stock-images-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/07/06e9bce0e95168ad472d6d72bb03b971-200x246.png?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
