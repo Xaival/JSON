@@ -1,66 +1,6 @@
 {
-   "date_update": "15 Aug 2023 16:01 UTC",
+   "date_update": "16 Aug 2023 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Are you There? by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/16 00:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/16 00:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Froelund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores",
-         "Desde": "",
-         "Hasta": "2023/08/16 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Paint Studio 4",
-         "Informacion": "Pixarra Paint Studio\u00a0es un producto nacido de TwistedBrush Pro Studio pero con un enfoque en la pintura y el dibujo de medios naturales con una interfaz m\u00e1s simple y optimizada. Internamente se utiliza el mismo gran motor de cepillos TwistedBrush. TwistedBrush Pro Studio est\u00e1 repleto de funciones, pero si desea una versi\u00f3n simplificada para pintar y dibujar con una nueva interfaz elegante, entonces Paint Studio es para usted. TwistedBrush Paint Studio elimina la complejidad y lo que queda son los mejores pinceles de medios naturales disponibles, as\u00ed como las caracter\u00edsticas clave que siempre han hecho que TwistedBrush sea excelente.",
-         "Desde": "",
-         "Hasta": "2023/08/16 09:00",
-         "URL": "https://sharewareonsale.com/s/free-twistedbrush-paint-studio-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/08/Paint_Studio_screenshot-200x122.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Zortam Mp3 Media Studio PRO 30",
-         "Informacion": "Zortam Mp3 Media Studio: \u00a1la mejor manera de etiquetar autom\u00e1ticamente su colecci\u00f3n de Mp3!",
-         "Desde": "",
-         "Hasta": "2023/08/16 09:00",
-         "URL": "https://sharewareonsale.com/s/zortam-mp3-media-studio-pro-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/05/prog_all_slider-200x152.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Vole Office",
-         "Informacion": "Replicar la experiencia de Microsoft Office",
-         "Desde": "",
-         "Hasta": "2023/08/16 09:00",
-         "URL": "https://www.bitsdujour.com/software/vole-office/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/vole-office-9xutd.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Counter Aim: New Operation by Dankoff, CounterAim series",
          "Informacion": "",
@@ -69,7 +9,7 @@
          "URL": "https://dankoff.itch.io/counter-aim-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA5OTk1Ni82MzQ4NjE0LnBuZw==/347x500/Uuqc%2BB.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Counter Aim: Operation chaos by Dankoff, CounterAim series",
@@ -79,7 +19,7 @@
          "URL": "https://dankoff.itch.io/counter-aim-3",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTExMDMzMC82NTIwOTQyLnBuZw==/347x500/iQnnYn.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Cubes And More Cubes (Logic game) by Dankoff",
@@ -89,7 +29,7 @@
          "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Track racing battle simulator by Dankoff",
@@ -99,7 +39,7 @@
          "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "iCare Data Recovery Pro 9",
@@ -109,7 +49,7 @@
          "URL": "https://sharewareonsale.com/s/icare-data-recovery-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/02/data-pro.jpg?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Lifeless Horizon by LifelessHorizon",
@@ -119,7 +59,7 @@
          "URL": "https://lifelesshorizon.itch.io/liflessgorizon",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNjc4OC8xMzA1MzI0MS5wbmc=/347x500/2S9r49.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "PD Howler 2022",
@@ -129,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-pd-howler-2022-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/08/06-custom-sky-from-Aisa-at-pexels.jpg?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Wise Duplicate Finder Pro",
@@ -139,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-wise-duplicate-finder-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/08/wiseduplicatefinder-box.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "iCare Data Recovery Pro License Code - Software Giveaway",
@@ -148,6 +88,26 @@
          "Hasta": "2023/08/17 14:00",
          "URL": "https://giveaway.tickcoupon.com/icare-data-recovery-pro-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/icare-data-recovery-pro-giveaway-screenshot-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Secret Lock License Key Free 2023 Giveaway",
+         "Informacion": "Desktop Secret Lock Standard es un software \u00fatil que lo ayuda a protegerse contra la pirater\u00eda de escritorio remoto y el acceso no autorizado. Con \u00e9l, puede bloquear su computadora como si estuviera desbloqueada; si alguien hace clic con el mouse o presiona cualquier tecla cuando est\u00e1 en modo bloqueado, la respuesta ser\u00e1 una invitaci\u00f3n para abrir el escritorio con la contrase\u00f1a establecida por el propietario, y escribir\u00e1 todos estos eventos en su archivo de registro.",
+         "Desde": "",
+         "Hasta": "2023/08/17 15:00",
+         "URL": "https://giveaway.tickcoupon.com/desktop-secret-lock-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/Desktop-Secret-Lock-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SurFast Video Downloader for Mac Key Free 2023",
+         "Informacion": "SurFast Video Downloader para Mac es un buen programa para tener en tu Mac para descargar videos. Esta herramienta de descarga de videos puede descargar videos de sitios web como YouTube, TikTok, Twitch y m\u00e1s a MP4, WebM y m\u00e1s. Puede descargar videos en alta calidad, incluidos 8K, 4K, 1080p y 720p, y no tiene l\u00edmite de tiempo de descarga. Solo necesita copiar el enlace del video, pegarlo en SurFast Video Downloader para Mac, elegir la calidad y el formato del video para descargarlo r\u00e1pidamente y luego presionar el \u00edcono Descargar para descargar.",
+         "Desde": "",
+         "Hasta": "2023/08/17 15:00",
+         "URL": "https://giveaway.tickcoupon.com/surfast-video-downloader-for-mac-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/surfast-video-downloader-for-mac-free-license.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -188,6 +148,16 @@
          "Hasta": "2023/08/18 09:00",
          "URL": "https://sharewareonsale.com/s/free-500-premium-stock-images-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/07/06e9bce0e95168ad472d6d72bb03b971-200x246.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Backup 2023",
+         "Informacion": "Ashampoo Backup 2023 realiza copias de seguridad y restaura particiones de disco completas, incluidas las instalaciones de arranque de Windows, con solo unos pocos clics. Las actualizaciones autom\u00e1ticas incrementales garantizan que los archivos de copia de seguridad est\u00e9n siempre actualizados y evitan la p\u00e9rdida de datos. La interfaz de usuario fue dise\u00f1ada con la simplicidad en mente y es intuitivamente usable por cualquier persona. Las copias de seguridad siempre se pueden restaurar, incluso en el caso de sistemas altamente corruptos o infestados de ransomware, gracias a una funci\u00f3n de rescate integrada que no requiere conocimientos t\u00e9cnicos. Este software de copia de seguridad se explica por s\u00ed mismo y est\u00e1 optimizado para cubrir las funciones m\u00e1s esenciales, por lo que no hay una curva de aprendizaje. Las copias de seguridad se actualizan de forma autom\u00e1tica e incremental sin necesidad de intervenci\u00f3n manual. La verificaci\u00f3n permanente de archivos garantiza que las copias de seguridad permanezcan libres de errores, mientras que una fuerte compresi\u00f3n garantiza tama\u00f1os de archivo peque\u00f1os. Ashampoo Backup 2023 no solo es excepcionalmente f\u00e1cil de usar, sino tambi\u00e9n incre\u00edblemente ligero en recursos. La recuperaci\u00f3n de archivos es posible mediante el propio programa o mediante un sistema de rescate iniciado desde un medio externo (CD/DVD/BD o unidad flash). Este \u00faltimo es particularmente \u00fatil ya que contin\u00faa funcionando incluso cuando el sistema operativo se corrompi\u00f3 o infest\u00f3 con malware. Adem\u00e1s de la nueva funci\u00f3n de rescate, esta \u00faltima versi\u00f3n tambi\u00e9n incluye numerosas correcciones y ajustes para mejorar la seguridad, la estabilidad y la compatibilidad.",
+         "Desde": "",
+         "Hasta": "2023/08/18 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-16.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -242,6 +212,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "RPG MK. II by BlueEagle421",
+         "Informacion": "Este es un juego de disparos 2D de ritmo r\u00e1pido que pondr\u00e1 a prueba tus habilidades en m\u00faltiples \u00e1reas. Tendr\u00e1s que actuar y pensar r\u00e1pido para derrotar a tus enemigos. El juego cuenta con dos campa\u00f1as apasionantes, cada una con una historia \u00fanica, y ofrece muchos elementos desbloqueables.",
+         "Desde": "",
+         "Hasta": "2023/08/19 00:00",
+         "URL": "https://blueeagle421.itch.io/rpg-mk-ii",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5MTA0Mi8xMjk0MTk4OS5wbmc=/347x500/1Ak5te.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "It's Missing: What I'm Episode by NullExcept Studios",
          "Informacion": "Despu\u00e9s de un evento sospechoso, me despierto en el piso de una habitaci\u00f3n completamente desconocida. \u00bfQui\u00e9n soy? \u00bfD\u00f3nde estoy? No s\u00e9.",
          "Desde": "",
@@ -278,6 +258,16 @@
          "Hasta": "2023/08/20 09:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-music-studio-2023-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/scr-ashampoo-music-studio-2023-presentation1.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "500 Professional Photoshop Actions Bundle",
+         "Informacion": "\u00a1Presentamos las 500 incre\u00edbles acciones de Photoshop que te permitir\u00e1n crear incre\u00edbles fotos con un solo clic!",
+         "Desde": "",
+         "Hasta": "2023/08/20 09:00",
+         "URL": "https://sharewareonsale.com/s/free-500-professional-photoshop-actions-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/500-Professional-Photoshop-Actions-Bundle-200x133.jpg?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -322,6 +312,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
+         "Desde": "",
+         "Hasta": "2023/08/21 05:58",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que vive solo.",
          "Desde": "",
@@ -338,16 +338,6 @@
          "Hasta": "2023/08/21 05:58",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII iniciado en 2011 y lanzado en 2017.",
-         "Desde": "",
-         "Hasta": "2023/08/21 05:58",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -398,6 +388,26 @@
          "Hasta": "2023/08/26 09:00",
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "square run by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/08/26 09:00",
+         "URL": "https://hussain-gamer.itch.io/square-run",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwMjA3Ny8xMzAxODUzMC5wbmc=/347x500/ZMxkZd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fish Runner by AL7USSAIN",
+         "Informacion": "Fish Runner es un divertido juego EndLess 2d",
+         "Desde": "",
+         "Hasta": "2023/08/26 09:00",
+         "URL": "https://hussain-gamer.itch.io/fish-runner",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDU2Ny8xMjgzNTM0My5wbmc=/347x500/FOKU8J.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1309,6 +1319,16 @@
          "URL": "https://nutty-studios.itch.io/easter-clicker",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4ODI1Mi8xMTgxNTM5OC5wbmc=/347x500/YR43Ex.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Leawo Screen Recorder License Key Free Giveaway 2023",
+         "Informacion": "Leawo Screen Recorder es un software profesional de grabaci\u00f3n de pantalla de computadora que proporciona muchas m\u00e1s funciones que otros. Adem\u00e1s de grabar la pantalla de su computadora y grabar el sonido del sistema y/o el micr\u00f3fono, tambi\u00e9n puede grabar video desde su c\u00e1mara web. Y lo m\u00e1s importante, es muy f\u00e1cil de usar. Con su ayuda, puede hacer f\u00e1cilmente videos tutoriales, grabar clases en l\u00ednea, grabar presentaciones de PowerPoint, grabar juegos, grabar reuniones de Zoom, as\u00ed como agregar m\u00fasica de fondo o voz en off a los videos. El siguiente punto brillante en el software Leawo Screen Recorder para mencionar es la funci\u00f3n de agregar marca de agua. Esta herramienta le permite insertar su propio texto, imagen, logotipo o marca de agua en su grabaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/09/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/leawo-screen-recorder-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/leawo-screen-recorder-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
