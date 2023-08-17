@@ -1,86 +1,6 @@
 {
-   "date_update": "16 Aug 2023 16:02 UTC",
+   "date_update": "17 Aug 2023 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Counter Aim: New Operation by Dankoff, CounterAim series",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/16 23:00",
-         "URL": "https://dankoff.itch.io/counter-aim-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA5OTk1Ni82MzQ4NjE0LnBuZw==/347x500/Uuqc%2BB.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Counter Aim: Operation chaos by Dankoff, CounterAim series",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/16 23:00",
-         "URL": "https://dankoff.itch.io/counter-aim-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTExMDMzMC82NTIwOTQyLnBuZw==/347x500/iQnnYn.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Cubes And More Cubes (Logic game) by Dankoff",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/16 23:00",
-         "URL": "https://dankoff.itch.io/cubes-and-more-cubes",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1ODUwOC83MzMzNzkxLnBuZw==/347x500/Yb8bH7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Track racing battle simulator by Dankoff",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/16 23:00",
-         "URL": "https://dankoff.itch.io/track-racing-battle-simulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNTUyOS84ODM4NjczLnBuZw==/347x500/NrApEw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "iCare Data Recovery Pro 9",
-         "Informacion": "iCare Data Recovery Pro es una soluci\u00f3n de software integral para recuperar datos perdidos o eliminados de una variedad de dispositivos de almacenamiento, incluidos discos duros, tarjetas SD y unidades USB. Ofrece herramientas f\u00e1ciles de usar para recuperar archivos, fotos, videos y documentos, haciendo que la restauraci\u00f3n de datos sea accesible y eficiente.",
-         "Desde": "",
-         "Hasta": "2023/08/17 09:00",
-         "URL": "https://sharewareonsale.com/s/icare-data-recovery-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/02/data-pro.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Lifeless Horizon by LifelessHorizon",
-         "Informacion": "Este juego se lanzar\u00e1 pronto en Steam y eleg\u00ed lanzar este juego aqu\u00ed gratis por unos d\u00edas.",
-         "Desde": "",
-         "Hasta": "2023/08/17 09:00",
-         "URL": "https://lifelesshorizon.itch.io/liflessgorizon",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNjc4OC8xMzA1MzI0MS5wbmc=/347x500/2S9r49.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "PD Howler 2022",
-         "Informacion": "PD Howler 2022\u00a0es un software r\u00e1pido de pintura y animaci\u00f3n digital para PC.",
-         "Desde": "",
-         "Hasta": "2023/08/17 09:00",
-         "URL": "https://sharewareonsale.com/s/free-pd-howler-2022-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/08/06-custom-sky-from-Aisa-at-pexels.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Wise Duplicate Finder Pro",
-         "Informacion": "Wise Duplicate Finder Pro es una herramienta de administraci\u00f3n de archivos duplicados que puede ayudarlo a encontrar y eliminar archivos duplicados comparando el nombre del archivo, el tama\u00f1o del archivo o el contenido. Deshazte de los molestos duplicados y libera m\u00e1s espacio en tus discos duros.",
-         "Desde": "",
-         "Hasta": "2023/08/17 09:00",
-         "URL": "https://sharewareonsale.com/s/free-wise-duplicate-finder-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/08/wiseduplicatefinder-box.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "iCare Data Recovery Pro License Code - Software Giveaway",
          "Informacion": "iCare Data Recovery ayuda a recuperar datos borrados o perdidos de su computadora o de la mayor\u00eda de los dispositivos digitales que han sido borrados, perdidos, formateados o tambi\u00e9n borrados accidentalmente por antivirus, etc. Tambi\u00e9n puede deshacer archivos que han sido borrados de la Papelera de reciclaje de Windows.",
@@ -89,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/icare-data-recovery-pro-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/icare-data-recovery-pro-giveaway-screenshot-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Desktop Secret Lock License Key Free 2023 Giveaway",
@@ -99,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/desktop-secret-lock-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/Desktop-Secret-Lock-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "SurFast Video Downloader for Mac Key Free 2023",
@@ -109,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/surfast-video-downloader-for-mac-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/surfast-video-downloader-for-mac-free-license.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Europa Universalis IV",
@@ -119,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/europa-universalis-iv",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S3_2560x1440-aa3002ec221d43dcd7e49f5458e74766",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Orwell: Keeping an Eye on You",
@@ -129,7 +49,7 @@
          "URL": "https://store.epicgames.com/p/orwell-keeping-an-eye-on-you",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S1_2560x1440-df26557fc7586916a5c1d172c44f2232",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "WonderFox DVD Ripper Pro License Key for Free 2023",
@@ -139,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-ripper-pro-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/02/wonderfox-dvd-ripper-giveaway-for-free-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "500 Premium Stock Images",
@@ -149,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-500-premium-stock-images-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/07/06e9bce0e95168ad472d6d72bb03b971-200x246.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Ashampoo Backup 2023",
@@ -159,7 +79,17 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-2023-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-16.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "WonderFox HD Video Converter Factory Pro",
+         "Informacion": "Convierta videos entre m\u00e1s de 100 formatos",
+         "Desde": "",
+         "Hasta": "2023/08/18 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-hd-video-converter-factory-pro/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-hd-video-converter-factory-pro-t5txh.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "I Am Not Crazy by Archille",
@@ -252,6 +182,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "500 Professional Photoshop Actions Bundle",
+         "Informacion": "\u00a1Presentamos las 500 incre\u00edbles acciones de Photoshop que te permitir\u00e1n crear incre\u00edbles fotos con un solo clic!",
+         "Desde": "",
+         "Hasta": "2023/08/20 09:00",
+         "URL": "https://sharewareonsale.com/s/free-500-professional-photoshop-actions-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/500-Professional-Photoshop-Actions-Bundle-200x133.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Music Studio 2023",
          "Informacion": "Con Ashampoo Music Studio 2023, editar, organizar y mezclar audio se vuelve tan f\u00e1cil como un pastel. Los proyectos terminados pueden equiparse f\u00e1cilmente con colores elegantes y grabarse en un disco.",
          "Desde": "",
@@ -262,13 +202,23 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "500 Professional Photoshop Actions Bundle",
-         "Informacion": "\u00a1Presentamos las 500 incre\u00edbles acciones de Photoshop que te permitir\u00e1n crear incre\u00edbles fotos con un solo clic!",
+         "Nombre": "Hard Disk Sentinel 6",
+         "Informacion": "Hard Disk Sentinel es un software de monitoreo de disco duro con el mayor soporte posible de unidades HDD/SSD/SSHD (h\u00edbridas). Su objetivo es encontrar, probar, diagnosticar y reparar problemas de unidades de disco duro, informar y mostrar el estado de SSD y HDD, degradaciones de rendimiento y fallas. Hard Disk Sentinel brinda una descripci\u00f3n textual completa, consejos y muestra/informa la informaci\u00f3n m\u00e1s completa sobre los discos duros y los discos de estado s\u00f3lido dentro de la computadora o en gabinetes externos (USB/e-SATA). Muchas alertas diferentes y opciones de informes est\u00e1n disponibles para garantizar la m\u00e1xima seguridad de sus datos valiosos.",
          "Desde": "",
          "Hasta": "2023/08/20 09:00",
-         "URL": "https://sharewareonsale.com/s/free-500-professional-photoshop-actions-bundle-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/500-Professional-Photoshop-Actions-Bundle-200x133.jpg?1357",
+         "URL": "https://sharewareonsale.com/s/hard-disk-sentinel-standard-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/09/hdsentinel_box-164x200.jpg?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hard Disk Sentinel Standard Giveaway License Key Free",
+         "Informacion": "Hard Disk Sentinel es un software de monitoreo y an\u00e1lisis de disco duro con el mayor soporte posible de unidades HDD/SSD/SSHD (h\u00edbridas). Autom\u00e1ticamente verificar\u00e1, buscar\u00e1 y diagnosticar\u00e1 problemas relacionados con el disco duro de su computadora. Si se detecta alg\u00fan problema, Hard Disk Sentinel informa al usuario.",
+         "Desde": "",
+         "Hasta": "2023/08/20 14:00",
+         "URL": "https://giveaway.tickcoupon.com/hard-disk-sentinel-standard-license-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/hard-disk-sentinel-standard-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -342,6 +292,96 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "VideoProc Converter License Key Free 2023",
+         "Informacion": "VideoProc Converter es el software de procesamiento de video r\u00e1pido No.1 al hacer un uso completo de la aceleraci\u00f3n de GPU de nivel 3. Como una caja de herramientas de video completa, puede editar, convertir y procesar f\u00e1cilmente sus videos 4K. No solo esto, tambi\u00e9n se destaca en la descarga y grabaci\u00f3n de videos.",
+         "Desde": "",
+         "Hasta": "2023/08/22 00:00",
+         "URL": "https://giveaway.tickcoupon.com/videoproc-converter-full-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/videoproc-converter-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Froelund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores",
+         "Desde": "",
+         "Hasta": "2023/08/24 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Froelund",
+         "Informacion": "Coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2023/08/24 00:00",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/08/24 00:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/08/24 00:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms: Uncovered by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/08/24 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
+         "Desde": "",
+         "Hasta": "2023/08/24 00:00",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/08/24 00:00",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Froelund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/08/24 00:00",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Black Book",
          "Informacion": "Black Book es una aventura RPG, basada en los mitos eslavos, en el que te pondr\u00e1s en la piel de una joven hechicera. Lucha contra las fuerzas del mal en batallas de cartas y explora un mundo en el que los humanos conviven con las criaturas mitol\u00f3gicas.",
          "Desde": "2023/08/17",
@@ -349,7 +389,7 @@
          "URL": "https://store.epicgames.com/p/black-book",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S1_2560x1440-97e2dbc3d0e628116fa510efe7f7783f",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Dodo Peak",
@@ -359,7 +399,7 @@
          "URL": "https://store.epicgames.com/p/dodo-peak-159276",
          "IMG": "https://cdn1.epicgames.com/spt-assets/f12a1b6884a4432dbd042e98a7eda29c/dodo-peak-19em1.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Gold Digger by 1987exclusive",
@@ -392,6 +432,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Fish Runner by AL7USSAIN",
+         "Informacion": "Fish Runner es un divertido juego EndLess 2d",
+         "Desde": "",
+         "Hasta": "2023/08/26 09:00",
+         "URL": "https://hussain-gamer.itch.io/fish-runner",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDU2Ny8xMjgzNTM0My5wbmc=/347x500/FOKU8J.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "square run by AL7USSAIN",
          "Informacion": "",
          "Desde": "",
@@ -402,12 +452,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Fish Runner by AL7USSAIN",
-         "Informacion": "Fish Runner es un divertido juego EndLess 2d",
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo mover",
          "Desde": "",
          "Hasta": "2023/08/26 09:00",
-         "URL": "https://hussain-gamer.itch.io/fish-runner",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDU2Ny8xMjgzNTM0My5wbmc=/347x500/FOKU8J.png",
+         "URL": "https://hussain-gamer.itch.io/foxy-man",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "STRIKE by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/08/26 09:00",
+         "URL": "https://hussain-gamer.itch.io/strike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDM2MC8xMzAzMzA0Ny5qcGc=/347x500/fIRkaF.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1132,6 +1192,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Homeworld: Deserts of Kharak",
+         "Informacion": "Homeworld: Deserts of Kharak",
+         "Desde": "2023/08/24",
+         "Hasta": "2023/08/31 17:00",
+         "URL": "https://store.epicgames.com/p/homeworld-deserts-of-kharak",
+         "IMG": "https://cdn1.epicgames.com/offer/e209b2d1d5384f639335f64e3e6c4bb8/EGS_HomeworldDesertsofKharak_BlackbirdInteractive_S1_2560x1440-31319bacd65f25e6eb277bef9c8e8c53",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Almericus - Scarred Islands by Almericusdev",
          "Informacion": "Almericus Scarred Islands es un juego de rol de aventura y exploraci\u00f3n de mazmorras interactivo atmosf\u00e9rico de arriba hacia abajo hecho con gr\u00e1ficos de estilo retro de sprites dibujados a mano. Hay una navegaci\u00f3n de mundo abierto y se enfoca en brindar diversas experiencias de juego mediante el uso de minijuegos y rompecabezas. El juego est\u00e1 construido usando\u00a0GMS2 y se lanza para PC en Windows.",
          "Desde": "",
@@ -1329,6 +1399,26 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-screen-recorder-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/leawo-screen-recorder-giveaway-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Siren Head Catch! by ZevKev",
+         "Informacion": "SirenHead Catch es una obra maestra que puedes jugar en Android y Windows. Controles: presiona a las personas para atraparlas y matarlas. Eso es todo, simple, \u00bfverdad? \u00a1Y es DIVERTIDO!",
+         "Desde": "",
+         "Hasta": "2023/09/16 00:00",
+         "URL": "https://zevkev.itch.io/siren-head-catch",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjUyMzY1LzM1MDEyOTAuanBn/347x500/hNWw%2Fa.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "OffBike (pre-release) by ZevKev",
+         "Informacion": "OFFBIKE\u00a0 \u00a0\u00a0 es un simulador de motos, \u00a1que todav\u00eda est\u00e1 en desarrollo!",
+         "Desde": "",
+         "Hasta": "2023/09/16 00:00",
+         "URL": "https://zevkev.itch.io/offbike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODY1NzIwLzQ4NjUyOTMuanBn/347x500/DiqeW2.jpg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
