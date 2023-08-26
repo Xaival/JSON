@@ -1,5 +1,5 @@
 {
-   "date_update": "25 Aug 2023 16:06 UTC",
+   "date_update": "26 Aug 2023 02:33 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -543,6 +543,28 @@
             "Insta1": "https://www.instagram.com/canuto_greenwood",
             "Insta2": "",
             "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAEZ",
+         "Nombre": "",
+         "NombreRol": "Dakka Stormund Drekkar",
+         "Hermandad": "Midgard",
+         "Casa": "La Armada Levante",
+         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
+         "ImgURL": "",
+         "Descripcion": "",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/dakka_stormund/",
+            "Insta2": "https://www.instagram.com/idun_loka/",
+            "Insta3": "https://www.instagram.com/hiena_cys/",
             "TikTok": "",
             "Twitter": "",
             "Facebook": "",
