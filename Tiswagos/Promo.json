@@ -1,926 +1,6 @@
 {
-   "date_update": "26 Aug 2023 02:38 UTC",
+   "date_update": "26 Aug 2023 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Pretty hard game by Dababan",
-         "Informacion": "Este es un juego bastante desafiante, pero si te consideras un jugador h\u00e1bil al que le gustan las dificultades, puede que te resulte atractivo.",
-         "Desde": "",
-         "Hasta": "2023/08/25 23:00",
-         "URL": "https://dababan.itch.io/pretty-hard-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Nzg5MS8xMzIwMzYzOC5wbmc=/347x500/8kHuML.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "Spell's Spelling Practice by Rob Stenzinger",
-         "Informacion": "Spell es un gato m\u00e1gico inclinado a los negocios que dirige una tienda donde puedes aprender a deletrear. El equipo de amigos y criaturas de Spell ayuda a crear un lugar amigable para practicar.",
-         "Desde": "",
-         "Hasta": "2023/08/26 07:00",
-         "URL": "https://robstenzinger.itch.io/spells-spelling",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4NDY1OC8xMzEyNTk3NS5wbmc=/347x500/QVmofw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
-         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 no descompilado mod it juego real que actualiza publicar juego completado! gracias a mystman12 por no enviar ese mod descompilado para enviarlo ya para actualizar el acceso al juego, no informar mi cuenta y el juego, \u00a1y ahora enviarlo a usted!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Fish Runner by AL7USSAIN",
-         "Informacion": "Fish Runner es un divertido juego EndLess 2d",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://hussain-gamer.itch.io/fish-runner",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDU2Ny8xMjgzNTM0My5wbmc=/347x500/FOKU8J.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo mover",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://hussain-gamer.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "House Cleaner by AL7USSAIN",
-         "Informacion": "controles",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://hussain-gamer.itch.io/housecleaner",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNDg2NC8xMTM1NzY5MC5qcGc=/347x500/JJ1S7y.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "onlineTV 18 Plus",
-         "Informacion": "M\u00e1s de 100 estaciones de TV de 13 pa\u00edses: \u00a1onlineTV 18 lleva la televisi\u00f3n internacional a su PC, computadora port\u00e1til y dispositivo Android!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://sharewareonsale.com/s/free-onlinetv-18-plus-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/otv18ohneandroid.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "SecuPerts First Aid Kit",
-         "Informacion": "\u00a1El botiqu\u00edn de primeros auxilios para tus datos y tu instalaci\u00f3n de Windows!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://sharewareonsale.com/s/free-secuperts-first-aid-kit-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/firstaidkit-box-left-1000-1-1-200x258.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "square run by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://hussain-gamer.itch.io/square-run",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwMjA3Ny8xMzAxODUzMC5wbmc=/347x500/ZMxkZd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "STRIKE by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://hussain-gamer.itch.io/strike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDM2MC8xMzAzMzA0Ny5qcGc=/347x500/fIRkaF.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The False Immortality Paradox by gingerchris",
-         "Informacion": "Una novela visual sobre un chico que adquiere la capacidad de viajar en el tiempo.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://gingerchris.itch.io/the-false-immortality-paradox",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTU0ODg5Lzc2NTc2NzEucG5n/347x500/K2ZDTe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Yatzit by EmilTheApril",
-         "Informacion": "\u00a1\u00a1\u00a1ESTA ES UNA DEMOSTRACI\u00d3N!!!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://emiltheapril.itch.io/yatzit",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyMTAyNy8xMzE0OTUzMi5naWY=/347x500/8ZgQCa.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "WonderFox Photo Watermark",
-         "Informacion": "Proteja sus derechos sobre sus im\u00e1genes digitales",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-photo-watermark/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-photo-watermark-gscdn.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Froelund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Circle Gravity Pre-Alpha Test by Team Axeta",
-         "Informacion": "\u00a1Gu\u00eda un peque\u00f1o c\u00edrculo a trav\u00e9s de niveles controlando la gravedad!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://team-axeta.itch.io/circle-gravity",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwOTg0Mi8xMzA2ODcwMi5wbmc=/347x500/iT3ldC.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Go Home, Bat by Soap Boy",
-         "Informacion": "Un dif\u00edcil juego de estilo Foddian que pondr\u00e1 a prueba tu habilidad y paciencia mientras vuelas de regreso a casa. \u00a1Pero ten cuidado de no golpear nada! \u00a1Es dif\u00edcil volar con un ala rota!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://salaro.itch.io/go-home-bat",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwOTEwNy8xMzA2MzYzOS5wbmc=/347x500/Bpa71B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "An Uaf\u00c3\u00a1is - The Horror by EOneT",
-         "Informacion": "An Uaf\u00c3\u00a1is - The Horror (en irland\u00e9s) es un juego de terror corto estilo PSX creado por un estudiante como un proyecto de experiencia laboral. Te abres camino a trav\u00e9s de una antigua mansi\u00f3n irlandesa para descubrir por qu\u00e9 te han llamado a regresar a la antigua casa de tu familia.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://eonet.itch.io/an-uafis",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTQwMy8xMjkzMTIxOC5qcGVn/347x500/xDeF9J.jpeg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "2D marble race by fah the legend",
-         "Informacion": "1. **Modo de construcci\u00f3n:** Libera el ingeniero y arquitecto que llevas dentro mientras creas intrincadas pistas y m\u00e1quinas de m\u00e1rmol. Crea una variedad de emocionantes desaf\u00edos y obst\u00e1culos que pondr\u00e1n a prueba tus habilidades en las carreras de canicas.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://fah-the-legend.itch.io/2d-marble-race",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4Mjk5NC8xMjg5MDk0OC5qcGc=/347x500/Nvj2S1.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Froelund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Rylee's Lunchboxes by LittleMugGames",
-         "Informacion": "\u00e2LLEVAR\u00c9 LAS LOncheras YUMGEM A SU ANTIGUA GLORIA\u00e2",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://littlemuggames.itch.io/rylees-lunchboxes",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg2NDAzNi8xMjgxMjI0NS5wbmc=/347x500/JUJHY0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "PINFALL by garbo111",
-         "Informacion": "Jump King con un n\u00facleo SMW, que recibe una gran influencia de los hacks: 32 pantallas de plataformas de precisi\u00f3n de alto riesgo muy repletas. La primera finalizaci\u00f3n dura entre 6 y 8 horas; Mi mejor marca personal es 12 minutos.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://garbo111.itch.io/pinfall",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEzOTQ1Ni8xMjY0NTE3Ny5wbmc=/347x500/gT4FRB.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "BuildUpYourWay by Missing_Pixel_Dev",
-         "Informacion": "\u00a1Este es mi primer juego original, espero que lo disfrutes!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://missing-pixel-dev.itch.io/buildupyourway",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyMjA2Ny8xMjQ5NzQyMi5wbmc=/347x500/sUHEal.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Cursor Dasher by Missing_Pixel_Dev",
-         "Informacion": "\u00a1Prep\u00e1rate para una emocionante aventura geom\u00e9trica con Cursor Dasher! Sum\u00e9rgete en un mundo visualmente impresionante donde un cursor r\u00e1pido recorre un paisaje vibrante, recolecta potenciadores y apunta a la puntuaci\u00f3n m\u00e1s alta.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://missing-pixel-dev.itch.io/cursor-dasher",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEzNDI1MC8xMjY1MTQyOC5wbmc=/347x500/erQAmc.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Search Of Revenge! by YGT.G",
-         "Informacion": "Los enemigos est\u00e1n matando a nuestra madre y las aventuras de nuestro personaje en el camino para vengarse de ellos.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://ygtg.itch.io/search-of-revenge",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjExNzI2MS8xMjQ3Njc0NS5wbmc=/347x500/gxrF%2Fj.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Lost In The Dark by Missing_Pixel_Dev",
-         "Informacion": "Ca\u00edste en el pozo y tu antorcha se apagar\u00e1 pronto...",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://missing-pixel-dev.itch.io/lost-in-the-dark",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyNTI2NS8xMjUxODE0Ny5wbmc=/347x500/jMDXB0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Fear Assessment by Alexander Wiseman",
-         "Informacion": "El programa FEAR ASSESSMENT\u00a0es una prueba especializada desarrollada e implementada por agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web y la informaci\u00f3n de su disco duro.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://alexander-wiseman.itch.io/fear-assessment",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjExOTgzNy8xMjg2MDA0OC5wbmc=/347x500/4D9bU7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Funny Monkey Game by Daniel",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://daniel-meyer.itch.io/funny-monkey-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5NjY1Mi8xMjMzNzgxNy5naWY=/347x500/GSwf%2FN.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Race The Music by dino145",
-         "Informacion": "Race The Music se trata de correr por la ciudad o recorrer pistas de tierra y escuchar m\u00fasica. Este juego est\u00e1 en desarrollo, habr\u00e1 m\u00e1s cosas m\u00e1s adelante. D\u00e9jame saber si hay errores en el juego.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://dino145.itch.io/race-the-music",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4OTU2MC8xMjI5MTQ0NS5qcGc=/347x500/IWoCNy.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Stacky Stacky Game Game by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/clicky-clicky-game-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA2MzgwOC8xMjIwODcyMS5wbmc=/347x500/BXMqeU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Bounce Ball by dino145",
-         "Informacion": "Este juego consiste en disparar una bola con una pistola y hacerla rebotar en las paredes y luego en la caja roja para pasar al siguiente nivel. d\u00e9jame saber qu\u00e9 m\u00e1s agregar al juego y av\u00edsame sobre cualquier error que haya en el juego. este juego est\u00e1 en desarrollo, habr\u00e1 m\u00e1s niveles m\u00e1s adelante. Aprecio mucho a todos los que compran mi juego.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://dino145.itch.io/bounce-ball",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1NDM2NC8xMjA4MTE0NS5wbmc=/347x500/3XBoqY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Cuber 2: Ice Age Remake by WesselDev",
-         "Informacion": "Cuber 2 Ice Age Remake es un desafiante y adictivo juego de plataformas de pixel art que pondr\u00e1 a prueba tus habilidades. En este juego, los jugadores deben navegar a trav\u00e9s de un peligroso entorno lleno de hielo lleno de enemigos peligrosos que deben evitar para llegar a la salida.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://wesseldev-inc.itch.io/cuber-2-ice-age-remake",
-         "IMG": "https://img.itch.zone/aW1nLzEyMDM3NDQyLnBuZw==/347x500/pW5MpD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Heaven Assassin Woman Track I Ultra Edition by Blak Gear",
-         "Informacion": "Dos organizaciones asesinas, \"Cielo\" e \"Infierno\", est\u00e1n en guerra por el territorio. Themis cree que hay un asesino del infierno en Black Sabbath Town haci\u00e9ndose pasar por un topo. Necesita ayuda y que tenga cuidado de en qui\u00e9n puede confiar.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://blak-gear.itch.io/haw1ue",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA0NDI5Mi8xMjAyNDA0NC5wbmc=/347x500/sy9UuM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Dummy Smasher by b._.render",
-         "Informacion": "Este juego fue creado para Scream Jam 2022 + 1 game jam:",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/dummy-smasher",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAyOTg1NC8xMjA4NTkwMS5wbmc=/347x500/fxdpHO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The Ancients by Dark Coma Gaming",
-         "Informacion": "Las Tierras Antiguas est\u00e1n bajo ataque desde la desaparici\u00f3n del Primer Ancestro. Es hora de descubrir qu\u00e9 les pas\u00f3 y qu\u00e9 puedes hacer para detener la destrucci\u00f3n. Trabaja con tu equipo para descubrir el misterio de la primera desaparici\u00f3n y ayudar a devolver la paz al reino.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://darkcoma.itch.io/the-ancients",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYzMDI4NS85NTgzMDg2LnBuZw==/347x500/zIFwQm.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Easter Blaster by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/easter-blaster",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAwNTY5NC8xMTc5MjQ4My5wbmc=/347x500/%2F4wg63.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Flash Card Manager by Badger",
-         "Informacion": "Esta es una aplicaci\u00f3n dise\u00f1ada para ayudarte a almacenar, categorizar y memorizar tarjetas Flash.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://deflatedbadger.itch.io/flash-card-manager",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk3MjcwMC8xMTcyNTc4Ny5wbmc=/347x500/0Guki%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The game that was stolen from me at Indiecade2019 (backup version) by Rando-Malo (RegisRquoi)",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://regisrquoi.itch.io/the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg1NjU0Ni8xMDkxNDU0Ny5wbmc=/347x500/ouzmkZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "No Puedes Escapar by Player Studio27",
-         "Informacion": "\"No Puedes Escapar\"",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://player-studio27.itch.io/no-puedes-escapar",
-         "IMG": "https://img.itch.zone/aW1nLzExNTA3NDAyLnBuZw==/347x500/CAYbsk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Ari In Wonderland : monArchy Track 1 (ULTRA EDITION) by Blak Gear",
-         "Informacion": "Despu\u00e9s de un d\u00eda ajetreado, Ari se cae r\u00e1pidamente cuando regresa al Pa\u00eds de las Maravillas. Ella no sabe por qu\u00e9 volvi\u00f3. Mucho ha cambiado, pero cuanto m\u00e1s reflexiona sobre su pasado, m\u00e1s confuso parece. En el camino, Ari hace nuevos amigos que se unen a ella en su b\u00fasqueda para restaurar el Pa\u00eds de las Maravillas, descubrir m\u00e1s sobre sus or\u00edgenes y recuperar su posici\u00f3n como gobernante del Pa\u00eds de las Maravillas.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://blak-gear.itch.io/aiw1",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNjQ2Ni8xMjIyMzUzNS5wbmc=/347x500/ZUsnCJ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "September 7th by EMIKA_GAMES",
-         "Informacion": "\"No mires los horrores por la noche\".",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://emika-games.itch.io/september-7th",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg2NTc3MC8xMDk4NjU3NS5qcGc=/347x500/c44Juq.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Sam's School in Spelling and Stuff by Indium Studios",
-         "Informacion": "Hola, bienvenido a la escuela de Sam.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://indium-studios.itch.io/samschool",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwODM0My8xMDYyMzY0Ni5wbmc=/347x500/tKIn2z.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Quest In A Castle by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/quest-in-a-castle",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwNzk0MS8xMDc3NDgyMC5wbmc=/347x500/fPGzGg.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Father's Day by EMIKA_GAMES",
-         "Informacion": "\"Quer\u00eda un regalo perfecto para todos\"",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://emika-games.itch.io/fathers-day",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTc2Ny84NTAwMDI4LnBuZw==/347x500/e3pAWy.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Delta Squared 2 by Thiago Avidos",
-         "Informacion": "\u00a1Cambia el destino de todos!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://thiago-avidos.itch.io/delta-squared-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxNTI0Mi8xMDI1NjU3OS5wbmc=/347x500/%2FCTTYX.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Radio Player (Ancien Version) by Pinou007",
-         "Informacion": "Escucha tu radio favorita est\u00e9s donde est\u00e9s gracias al reproductor de radio 2020 Versi\u00f3n antigua",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://pinou007.itch.io/radio-player",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMjk4Ny8xMDE0ODQ2Ny5wbmc=/347x500/%2Fi%2BmeP.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Professional Killer by Omar Game Programmer",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://omar-ogp.itch.io/professional-killer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyMTE4Ny8xMTM1ODI2MC5qcGc=/347x500/AemBB5.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Egg Game by Indium Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://indium-studios.itch.io/popcornsegg-game",
-         "IMG": "https://img.itch.zone/aW1nLzEwNzUyMzY0LnBuZw==/347x500/6VtKE9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Glyph Hunter 3D by Eric C",
-         "Informacion": "Cazador de glifos: 3D",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://eric-cousins.itch.io/glyphhunter3d",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzMjkyNC8xMDUzNDkzMy5wbmc=/347x500/nohPam.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Orco by Moonkey Lab",
-         "Informacion": "WASD o TECLAS DE FLECHA O CONTROLADOR = Movimiento",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://moonkey-lab.itch.io/orco",
-         "IMG": "https://img.itch.zone/aW1nLzk0MjE2NDAucG5n/347x500/18PkAp.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Bloody Vengeance by Nutty Studios",
-         "Informacion": "Este es un juego que cre\u00e9 originalmente para el game jam de ScoreSpace, desde entonces ha recibido algunas actualizaciones para mejorarlo. Todav\u00eda estoy trabajando en m\u00e1s actualizaciones, as\u00ed que espero que el juego mejore a\u00fan m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://nutty-studios.itch.io/bloody-vengeance",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU5MjI3My85NDM1MjQ4LnBuZw==/347x500/N4DyiS.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Usern by Moonkey Lab",
-         "Informacion": "BANDA SONORA - Cubriendo terrenos por @maiaeden",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://moonkey-lab.itch.io/user-n",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MjYwMy85MjQ3NjI3LnBuZw==/347x500/hVbrmr.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Cyber Storm Edge by Thiago Avidos",
-         "Informacion": "En un universo lejano, donde el ciberespacio es la verdadera realidad, los piratas espaciales reinan sobre el mundo. \u00a1La Cyber \u200b\u200bStorm, los piratas espaciales m\u00e1s famosos y ricos de todos los tiempos, acaban de apoderarse del n\u00facleo del planeta y ahora amenazan al mundo entero!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://thiago-avidos.itch.io/cyber-storm-edge",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMwMjA4OS83NjkzOTU1LnBuZw==/347x500/I%2BK1Ku.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Survival In Submarino by Player Studio27",
-         "Informacion": "en Ingl\u00e9s:",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://player-studio27.itch.io/survival-in-submarino",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzMzUwMS84NDA0MjkwLnBuZw==/347x500/0ZjInN.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "coffee boy by bee tea",
-         "Informacion": "En este encantador juego corto, juegas como el chico del caf\u00e9 reci\u00e9n contratado. \u00a1Depende de ti encontrar el True Coffee y entreg\u00e1rselo al Jefe! Podr\u00e1s hacer amigos extravagantes, explorar las misteriosas instalaciones, leer textos divertidos y... \u00bfencontrar al chico del caf\u00e9 desaparecido? De todos modos, no te preocupes por eso \u00faltimo y \u00a1conc\u00e9ntrate en LLEVARLE EL CAF\u00c9 AL JEFE!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://bee-tea.itch.io/coffeeboy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MzcwNy84MDg3NTc5LnBuZw==/347x500/m7t9P9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Click_Game by b._.render",
-         "Informacion": "Aqu\u00ed est\u00e1 mi entrada al atasco 19 de bajo esfuerzo. Lo hice en los \u00faltimos tres d\u00edas y",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/click-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMDU0NC84MTYyMTY4LnBuZw==/347x500/fvK413.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "thisPaper by Pinou007",
-         "Informacion": "Suspendido temporalmente este papel es un juego donde tienes que recuperar 10 papeles este juego es realmente simple el juego se hizo en 12 horas un desaf\u00edo personal que comenc\u00e9 los otros juegos que ser\u00e1n de mejor calidad Mapa disponible Otros mapas estar\u00e1n disponibles",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://pinou007.itch.io/paper",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM3MTMwMS83OTg3NDY2LnBuZw==/347x500/dRFdzZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "ProjectXnow  [\u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7/\u00f0\u009f\u0087\u00ab\u00f0\u009f\u0087\u00b7] (Online) by Pinou007",
-         "Informacion": "\u00f0\u00ab\u00f0\u00b7",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://pinou007.itch.io/projectxnow",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2MzY5NC84MDcwMjQ5LnBuZw==/347x500/JOvejr.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Assassin at Crimson Keep by ShadowGlass",
-         "Informacion": "Assassin at Crimson Keep es una novela visual corta ambientada en un mundo oscuro y casi de fantas\u00eda.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://shadowglass.itch.io/assassin-at-crimson-keep",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxMDEwOS8xMDgwNTYyNi5wbmc=/347x500/QNELr8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Custom Name Plate Decorations by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/custom-name-plate-decorations",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMzNTE1Ni83NzY4NTA0LnBuZw==/347x500/1tqTEU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "King TD by b._.render",
-         "Informacion": "Este es un prototipo de una idea que tuve para el juego de disparos en primera persona de 7 d\u00edas.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/king-td",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNTY3My83NjUwNTkyLnBuZw==/347x500/dNYmJs.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "E-Cell by b._.render",
-         "Informacion": "Compite por el tiempo m\u00e1s r\u00e1pido. Batir el reloj. no te caigas",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/e-cell",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTU2MS83NTIwMzY4LnBuZw==/347x500/RqKwah.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Controller Checker 2022 (Beta Sale 100% off) by b._.render",
-         "Informacion": "Esta es una aplicaci\u00f3n que cre\u00e9 para verificar y comparar mis controladores. Despu\u00e9s de tantas horas de juego, algunos joysticks se desv\u00edan, esta aplicaci\u00f3n mostrar\u00e1 el valor actual y m\u00e1s alto de los dos joysticks. Esto puede ser \u00fatil porque si el juego detecta movimiento sin que presiones, eso se desv\u00eda y hace que sea muy dif\u00edcil jugar.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/controller-checker",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Emo Quest XD by Thiago Avidos",
-         "Informacion": "\u00a1Una b\u00fasqueda sobre el alma, el amor y la emoci\u00f3n, inspirada en el estilo retro de los juegos de rol!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://thiago-avidos.itch.io/emo-quest-xd",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTkxOTI0LzEwNzQyNzA0LnBuZw==/347x500/93ye9a.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "rainy day by bee tea",
-         "Informacion": "\u00e2\u00a1 un juego corto sobre la lucha de una familia y su recuperaci\u00f3n de la depresi\u00f3n",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://bee-tea.itch.io/rainyday",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Midi Keyboard 3D model by b._.render",
-         "Informacion": "Hice un teclado midi y decid\u00ed compartirlo. Lo hice para hacer una peque\u00f1a animaci\u00f3n, por lo que est\u00e1 algo manipulado. Limit\u00e9 la rotaci\u00f3n de las teclas y la posici\u00f3n de los controles deslizantes. Esto me permite agarrarlo o rotarlo y no preocuparme de que se mueva demasiado.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://b-render.itch.io/midi-keyboard",
-         "IMG": "https://img.itch.zone/aW1nLzcwMDA5NDcucG5n/347x500/ZyAHi9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Summer of '58 by EMIKA_GAMES",
-         "Informacion": "\"Verano del 58\" es un thriller psicol\u00f3gico en primera persona. El juego se desarrolla en un edificio abandonado de un campo sovi\u00e9tico.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://emika-games.itch.io/summer-of-58",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTEyODc0MS82NTM3NTE1LnBuZw==/347x500/MqUITc.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Delta Squared by Thiago Avidos",
-         "Informacion": "\u00a1Cambia el destino de Delta Town!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://thiago-avidos.itch.io/delta-squared",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTQyNDMxLzYyNTE1NTQucG5n/347x500/zsSI6c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Actions Have Consequences by CanBerkSahin97",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://canberksahin97.itch.io/actions-have-consequences",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTQzOTg0LzUzNTA2MDAucG5n/347x500/EJXBZ%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Who You Are II by Player Studio27",
-         "Informacion": "La secuela del juego Who You Are explica mejor los eventos del primer juego. Contiene m\u00e1s niveles, mejores cinem\u00e1ticas y m\u00e1s dificultad.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://player-studio27.itch.io/who-you-are-ii",
-         "IMG": "https://img.itch.zone/aW1nLzU1NzI2NTUucG5n/347x500/eiMvZ7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Find Yourself by EMIKA_GAMES",
-         "Informacion": "El juego \"Find Yourself\" es un horror psicol\u00f3gico en primera persona. La banda sonora te sumerge en la locura que el personaje principal podr\u00eda vivir en el astral.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://emika-games.itch.io/find-yourself",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTM0NDkxLzUyOTQxMTkucG5n/347x500/qHN2VC.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "VivaCity by rusicariaGAMES",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://rusicariagames.itch.io/vivacity",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjcxODI4LzU4NDA2MTAuanBn/347x500/yBT8XB.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Truck Raid by StarProduction",
-         "Informacion": "Truck Raid es un juego de carreras de estilo retro que te transportar\u00e1 a los d\u00edas de gloria de los juegos de carreras de los 90. Con sus gr\u00e1ficos vibrantes y su juego trepidante, Truck Raid captura el esp\u00edritu de los juegos de carreras cl\u00e1sicos y aporta nuevos giros al g\u00e9nero.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://starproduction.itch.io/truck-raid",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODkyMjcyLzEyNDMxNjMwLnBuZw==/347x500/eb3o6B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "1943 by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "BFF or Die by ASA Studio",
-         "Informacion": "Hola, aqu\u00ed Shaz, el dise\u00f1ador del juego. Estoy trabajando en un nuevo juego cooperativo de hospital llamado... CoOPERACI\u00d3N: MultiTurn. Estamos en pruebas cerradas y puedes obtener un c\u00f3digo de descarga gratis en este momento. M\u00e1s informaci\u00f3n en la p\u00e1gina de Itch..!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://asa-studio.itch.io/bff-or-die",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM0MjMvMTc1OTA5My5wbmc=/347x500/DPsEUZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Froelund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Bits Game by Player Studio27",
-         "Informacion": "Este Juego trata sobre los bits cambia de paleta de colore para resolver combinaciones o puzzle",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://player-studio27.itch.io/bits-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjQ1NjM0LzQ0OTMwNTguZ2lm/347x500/zTW51L.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Heart Commando by Moonkey Lab",
-         "Informacion": "Perdido en un sue\u00f1o de una tarde de verano, en una isla lejana donde t\u00fa y tus amigos viven y juegan en este hermoso lugar, pero alguien ha desaparecido, los aviones interact\u00faan de manera extra\u00f1a y todo se est\u00e1 relajando. \u00bfPodr\u00e1s llegar al borde del sue\u00f1o? \u00bfEncontrar lo que est\u00e1 pasando y recuperar Blackcurly?",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://moonkey-lab.itch.io/heart-commando",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTk1MTU2LzMxNTAwMjkucG5n/347x500/UUqOJ3.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Locked Up + Free demo version by EMIKA_GAMES",
-         "Informacion": "El juego\u00a0Locked Up\u00a0es un thriller psicol\u00f3gico en primera persona.ADVERTENCIA: Es posible que se produzcan ataques epil\u00e9pticos asociados con una mayor sensibilidad a la luz. Algunas personas pueden experimentar convulsiones cuando se exponen a destellos de luz e im\u00e1genes parpadeantes que aparecen en un videojuego. Es posible que las personas que no hayan experimentado anteriormente este tipo de ataques no sepan que padecen su enfermedad. Se recomienda una restricci\u00f3n razonable de la audiencia del juego.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://emika-games.itch.io/locked-up",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTc0NjkwLzMxMzMxNjgucG5n/347x500/opdCDZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The Burning Locks by max levine stuff",
-         "Informacion": "Busca las pistas. El tribunal mundial de los vivos ha declarado tu inocencia, pero debes darte cuenta t\u00fa mismo para regresar con ellos. Una chispa, una neurona dispar\u00e1ndose, para encender un fuego. O languidecer aqu\u00ed dentro de tu propia mente.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/the-burning-locks",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzY4Nzg3LzE5NDA1ODQucG5n/347x500/PFqEfT.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "A Wild Sprite by Moonkey Lab",
-         "Informacion": "Control S",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://moonkey-lab.itch.io/a-wild-sprite",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzY4MzkwLzE4NDUxOTMucG5n/347x500/JarjQw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Swarm Saucers by max levine stuff",
-         "Informacion": "\u00a1Tienes que ir a la convenci\u00f3n del queso, pero los extraterrestres te est\u00e1n atacando! Juega a trav\u00e9s de una serie de desaf\u00edos y una historia divertida. No te llevar\u00e1 mucho tiempo, es divertido, enriquecer\u00e1 tu vida y es gratis, entonces, \u00bfqu\u00e9 puedes perder?",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/swarm-saucers",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwMTM2Lzg0Mjk2NC5wbmc=/347x500/kbxsXa.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Chaotic Ascent by max levine stuff",
-         "Informacion": "\u00a1Sube cada vez m\u00e1s alto, pero no te aplastes, te atrape ni te golpeen!",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/chaotic-ascent",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTgyNTQvNDYwMDg3LmdpZg==/347x500/FVH%2Fwl.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Zombie Apocalypse by max levine stuff",
-         "Informacion": "3 mundos abiertos para explorar. Busca munici\u00f3n sigilosamente antes de enfrentarte a la horda, entonces ser\u00e1 un juego de disparos lleno de acci\u00f3n. Lleno de momentos tensos y miedo genuino. Limpia cada \u00e1rea de zombies para asegurarla. Sobrevive o muere en el intento.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/zombie-apocalypse",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTcwNDcvNDU1NzQ4LmdpZg==/347x500/%2F5ScOi.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Side Shooter by max levine stuff",
-         "Informacion": "\u00a1Lucha contra 4 fases de invasores alien\u00edgenas, heroico defensor de la tierra! Dale a los humanos suficiente tiempo para evacuar, antes de que los implacables alien\u00edgenas destrocen el lugar.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/side-shooter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTM0MjgvMzMwMzY3NS5wbmc=/347x500/JL97sO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Inertia by max levine stuff",
-         "Informacion": "Me siento tan impotente y libre. . .",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/inertia",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU4NzYvNDA0NjYyLnBuZw==/347x500/9W6pmc.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Giant Stomp by max levine stuff",
-         "Informacion": "Eres un gigante, un protector del medio ambiente. Los humanos somos una enfermedad; \u00a1Elim\u00ednelos, pero tenga cuidado de no aplastar los \u00e1rboles! Corredor infinito.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/giant-stomp",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU3MjMvNDAzODU1LmdpZg==/347x500/DB7PhY.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Hungry Hippo in the Water by max levine stuff",
-         "Informacion": "Para ser un hipop\u00f3tamo exitoso...",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/hungry-hippo-in-the-water",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU2OTcvNDAzNzY5LmdpZg==/347x500/24TiHc.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The Flight of Silent Bob by max levine stuff",
-         "Informacion": "Bob es un drag\u00f3n silencioso, excepto cuando ruge.",
-         "Desde": "",
-         "Hasta": "2023/08/26 09:00",
-         "URL": "https://maximilian.itch.io/the-flight-of-silent-bob",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU2NjQvNDAzNzAzLmdpZg==/347x500/%2BqvVmj.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
       {
          "Nombre": "WonderFox Photo Watermark License Key Free Giveaway",
          "Informacion": "WonderFox Photo Watermark es una herramienta \u00fatil que te permite poner marcas de agua en tus im\u00e1genes para ayudarte a combatir el uso no autorizado de tu trabajo. Con \u00e9l, puedes agregar texto e im\u00e1genes como marca de agua. Tiene opciones para cambiar el nombre de sus im\u00e1genes por lotes, cambiar el formato de la imagen y tambi\u00e9n puede agregar una variedad de marcos a sus im\u00e1genes.",
@@ -929,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-photo-watermark-serial-number/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/05/wonderfox-photo-watermark-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "The Agent by Artisan Games",
@@ -939,37 +19,7 @@
          "URL": "https://artisangames.itch.io/theagent",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Mjg5My8xMjk1NDEzMi5wbmc=/347x500/EnZqb9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "500 Premium Stock Images",
-         "Informacion": "Fotos de archivo premium gratuitas. Disponible para uso comercial y personal.",
-         "Desde": "",
-         "Hasta": "2023/08/27 09:00",
-         "URL": "https://sharewareonsale.com/s/free-500-premium-stock-images-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/07/06e9bce0e95168ad472d6d72bb03b971-200x246.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "500 Realistic Professional Photo Overlays",
-         "Informacion": "M\u00e1s de 500 superposiciones de fotos realistas es la colecci\u00f3n m\u00e1s grande y diversa de superposiciones en 2022 para verdaderos profesionales. Ahorre un tiempo precioso y domine sus habilidades con m\u00e1s de 500 superposiciones de fotos realistas. Agregue vibraciones suaves y frescas a sus dise\u00f1os.",
-         "Desde": "",
-         "Hasta": "2023/08/27 09:00",
-         "URL": "https://sharewareonsale.com/s/free-500-realistic-professional-photo-overlays-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/500-Professional-Photo-Overlays-Bundle-Image-scaled.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ashampoo Backup 2023",
-         "Informacion": "Ashampoo Backup 2023 realiza copias de seguridad y restaura particiones de disco completas, incluidas las instalaciones de arranque de Windows, con solo unos pocos clics. Las actualizaciones autom\u00e1ticas incrementales garantizan que los archivos de copia de seguridad est\u00e9n siempre actualizados y evitan la p\u00e9rdida de datos. La interfaz de usuario fue dise\u00f1ada con la simplicidad en mente y es intuitivamente usable por cualquier persona. Las copias de seguridad siempre se pueden restaurar, incluso en el caso de sistemas altamente corruptos o infestados de ransomware, gracias a una funci\u00f3n de rescate integrada que no requiere conocimientos t\u00e9cnicos. Este software de copia de seguridad se explica por s\u00ed mismo y est\u00e1 optimizado para cubrir las funciones m\u00e1s esenciales, por lo que no hay una curva de aprendizaje. Las copias de seguridad se actualizan de forma autom\u00e1tica e incremental sin necesidad de intervenci\u00f3n manual. La verificaci\u00f3n permanente de archivos garantiza que las copias de seguridad permanezcan libres de errores, mientras que una fuerte compresi\u00f3n garantiza tama\u00f1os de archivo peque\u00f1os. Ashampoo Backup 2023 no solo es excepcionalmente f\u00e1cil de usar, sino tambi\u00e9n incre\u00edblemente ligero en recursos. La recuperaci\u00f3n de archivos es posible mediante el propio programa o mediante un sistema de rescate iniciado desde un medio externo (CD/DVD/BD o unidad flash). Este \u00faltimo es particularmente \u00fatil ya que contin\u00faa funcionando incluso cuando el sistema operativo se corrompi\u00f3 o infest\u00f3 con malware. Adem\u00e1s de la nueva funci\u00f3n de rescate, esta \u00faltima versi\u00f3n tambi\u00e9n incluye numerosas correcciones y ajustes para mejorar la seguridad, la estabilidad y la compatibilidad.",
-         "Desde": "",
-         "Hasta": "2023/08/27 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-2023-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-16.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "200+ Watercolor Backgrounds",
@@ -979,6 +29,76 @@
          "URL": "https://sharewareonsale.com/s/free-200-watercolor-backgrounds-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/08/200-watercolor-flower-bouquet-pngs-for-your-artistic-creations-sumobundle-49878751510866.jpg?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "500 Premium Stock Images",
+         "Informacion": "Fotos de archivo premium gratuitas. Disponible para uso comercial y personal.",
+         "Desde": "",
+         "Hasta": "2023/08/27 09:00",
+         "URL": "https://sharewareonsale.com/s/free-500-premium-stock-images-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/07/06e9bce0e95168ad472d6d72bb03b971-200x246.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "500 Realistic Professional Photo Overlays",
+         "Informacion": "M\u00e1s de 500 superposiciones de fotos realistas es la colecci\u00f3n m\u00e1s grande y diversa de superposiciones en 2022 para verdaderos profesionales. Ahorre un tiempo precioso y domine sus habilidades con m\u00e1s de 500 superposiciones de fotos realistas. Agregue vibraciones suaves y frescas a sus dise\u00f1os.",
+         "Desde": "",
+         "Hasta": "2023/08/27 09:00",
+         "URL": "https://sharewareonsale.com/s/free-500-realistic-professional-photo-overlays-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/500-Professional-Photo-Overlays-Bundle-Image-scaled.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Backup 2023",
+         "Informacion": "Ashampoo Backup 2023 realiza copias de seguridad y restaura particiones de disco completas, incluidas las instalaciones de arranque de Windows, con solo unos pocos clics. Las actualizaciones autom\u00e1ticas incrementales garantizan que los archivos de copia de seguridad est\u00e9n siempre actualizados y evitan la p\u00e9rdida de datos. La interfaz de usuario fue dise\u00f1ada con la simplicidad en mente y es intuitivamente usable por cualquier persona. Las copias de seguridad siempre se pueden restaurar, incluso en el caso de sistemas altamente corruptos o infestados de ransomware, gracias a una funci\u00f3n de rescate integrada que no requiere conocimientos t\u00e9cnicos. Este software de copia de seguridad se explica por s\u00ed mismo y est\u00e1 optimizado para cubrir las funciones m\u00e1s esenciales, por lo que no hay una curva de aprendizaje. Las copias de seguridad se actualizan de forma autom\u00e1tica e incremental sin necesidad de intervenci\u00f3n manual. La verificaci\u00f3n permanente de archivos garantiza que las copias de seguridad permanezcan libres de errores, mientras que una fuerte compresi\u00f3n garantiza tama\u00f1os de archivo peque\u00f1os. Ashampoo Backup 2023 no solo es excepcionalmente f\u00e1cil de usar, sino tambi\u00e9n incre\u00edblemente ligero en recursos. La recuperaci\u00f3n de archivos es posible mediante el propio programa o mediante un sistema de rescate iniciado desde un medio externo (CD/DVD/BD o unidad flash). Este \u00faltimo es particularmente \u00fatil ya que contin\u00faa funcionando incluso cuando el sistema operativo se corrompi\u00f3 o infest\u00f3 con malware. Adem\u00e1s de la nueva funci\u00f3n de rescate, esta \u00faltima versi\u00f3n tambi\u00e9n incluye numerosas correcciones y ajustes para mejorar la seguridad, la estabilidad y la compatibilidad.",
+         "Desde": "",
+         "Hasta": "2023/08/27 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-16.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Video to Picture Converter",
+         "Informacion": "Convierta v\u00eddeos en una serie de fotograf\u00edas digitales",
+         "Desde": "",
+         "Hasta": "2023/08/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/video-to-picture-converter/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/video-to-picture-converter-uvwaz.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Video to Picture Converter License Key Free 2023",
+         "Informacion": "Video to Picture Converter es un \u00fatil software de conversi\u00f3n de video que le permite convertir casi todos los archivos de video de uso frecuente a im\u00e1genes JPG, BMP, GIF, TGA, TIF, PCX, PNG e ICO. Con \u00e9l, podr\u00e1 convertir sin esfuerzo AVI, MPEG, WMV, DVD VOB, Dvr Ms. RM, RMVB, etc. a una amplia gama de formatos de imagen.",
+         "Desde": "",
+         "Hasta": "2023/08/27 14:00",
+         "URL": "https://giveaway.tickcoupon.com/video-to-picture-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/video-to-picture-converter-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Life after Death by ASKGAMES",
+         "Informacion": "ADVERTENCIA: Este videojuego puede provocar un ataque de epilepsia fotosensible a personas que padecen esta enfermedad. Se recomienda una restricci\u00f3n razonable de la audiencia del juego.NOTA IMPORTANTE: El \u00e9nfasis principal del juego est\u00e1 en el proceso de exploraci\u00f3n, a medida que la tensi\u00f3n aumenta lentamente, creando un efecto de presencia a\u00fan m\u00e1s completo y v\u00edvido.ACERCA DE ESTE JUEGO:Tienes una oportunidad de volver al per\u00edodo de la infancia y vivir un per\u00edodo de la vida del personaje principal, Jessy. Un d\u00eda te encontrar\u00e1s en un lugar incomprensible y desconocido, entendiendo que algo anda mal contigo y no recuerdas nada. A medida que avances, recordar\u00e1s los momentos brillantes de tu vida, superar\u00e1s las fobias que te acompa\u00f1aron, resolver\u00e1s acertijos y tambi\u00e9n comprender\u00e1s por qu\u00e9 terminaste aqu\u00ed y qu\u00e9 te pas\u00f3. Debes ayudar a Jessy a recrear los eventos que sucedieron antes, conocer a su familia y experimentar todo lo que hizo.-G\u00e9nero \"Walking Simulator\";- Debes leer las notas con mucho cuidado;-Deber\u00e1s investigar atentamente los lugares y prestar atenci\u00f3n. a los detalles y el entorno.DESCRIPCI\u00d3N DEL CONTENIDO PARA ADULTOSEl desarrollador describe el contenido de la siguiente manera:El juego contiene im\u00e1genes realistas de escenas de violencia que pueden tener un impacto negativo en la psique. Es posible que algunos elementos de contenido no sean adecuados para determinados grupos de edad.",
+         "Desde": "",
+         "Hasta": "2023/08/27 20:55",
+         "URL": "https://askgames.itch.io/life-after-death",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ2ODUxNi84NTY3NTI1LnBuZw==/347x500/GIe1Dn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Beside Myself by ASKGAMES",
+         "Informacion": "a href=\"Vida\" class=\"redactor-linkify-object\"https://askgames.itch.io/life-after-death\"La vida despu\u00e9s de la muerte por ASKGAMES/a",
+         "Desde": "",
+         "Hasta": "2023/08/27 20:59",
+         "URL": "https://askgames.itch.io/beside-myself",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzOTMwMi82NjA3MTg3LnBuZw==/347x500/p7gs%2FK.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1069,6 +189,26 @@
          "URL": "https://sharewareonsale.com/s/free-animated-banner-maker-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/10/ss001-2-200x154.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PissMaster by GADE",
+         "Informacion": "Como siempre, Harry est\u00e1 demasiado d\u00e9bil y su tienda es atacada por Jack, y solo desea poder encontrar un poder sobrenatural hasta que ve a Pissopher.",
+         "Desde": "",
+         "Hasta": "2023/08/29 22:30",
+         "URL": "https://khoyman.itch.io/pissmaster",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxOTA2NC8xMzEzMTQ2OC5wbmc=/347x500/XUHwXk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ChronoPhobia_Ep2(TheCross) by GADE",
+         "Informacion": "NOTA: LA VERSI\u00d3N DEMO EST\u00c1 DISPONIBLE A CONTINUACI\u00d3N",
+         "Desde": "",
+         "Hasta": "2023/08/29 22:30",
+         "URL": "https://khoyman.itch.io/chronophobia-ep2thecross",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5OTUzOS8xMzAxMzQ3Mi5qcGc=/347x500/f02fCw.jpg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1862,6 +1002,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Goblin Treasure by MohamedAtTop",
+         "Informacion": "NOTA: Desafortunadamente, el juego web en Itch.io, por alguna raz\u00f3n que desconozco, no funcion\u00f3, as\u00ed que puedes descargarlo en Itch.io o jugarlo en https://gd.games/instant-builds/a6ec880c-d9f0. -49f3-943a-b729fe4a4591",
+         "Desde": "",
+         "Hasta": "2023/08/31 09:00",
+         "URL": "https://mohamedattop.itch.io/goblin-treasure",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNjk1MC8xMzExNTI0OS5wbmc=/347x500/S5Jq%2BL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Homeworld: Deserts of Kharak",
          "Informacion": "Homeworld: Deserts of Kharak",
          "Desde": "2023/08/24",
@@ -1919,6 +1069,16 @@
          "URL": "https://diaxarts.itch.io/karen-sees",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5MTExMy84NjkzMzU4LmpwZw==/347x500/pIH58g.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MacX Video Converter PRO Free License Key",
+         "Informacion": "MacX Video Converter Pro es un software todo en uno para Mac para descargar, convertir, editar y grabar videos en pantalla. MacX Video Converter Pro le permite descargar videos y m\u00fasica de sitios web y convertir videos de Youtube a Mp3 y Mp4 para reproducirlos sin conexi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/09/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/macx-video-converter-pro-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/04/macx-video-converter-pro-giveaway-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -2342,22 +1502,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Bunny Hill Horror: Bunny Boiler by Krunchy Fried Games",
-         "Informacion": "Oswald Mandias es un hombre con una misi\u00f3n: arrastrar al pa\u00eds pataleando y gritando de regreso a los d\u00edas de gloria de anta\u00f1o, donde un caballero pod\u00eda confiar en los valores probados por el tiempo de la caballerosidad, la crianza y la clase. Armado con zombis feroces, una reserva de productos farmac\u00e9uticos muy cuestionables y una voluntad de hierro, te ha reclutado para hacer realidad sus planes.",
-         "Desde": "",
-         "Hasta": "2024/01/01 01:59",
-         "URL": "https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzkwNzU0LzQ0Mjc2NDQuanBn/347x500/B16Bli.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Bunny Hill Horror by Krunchy Fried Games",
          "Informacion": "Actualizaci\u00f3n: El cap\u00edtulo final: Bunny Hill Horror: Bunny Boiler, \u00a1ahora en itch.io!",
          "Desde": "",
          "Hasta": "2024/01/01 01:59",
          "URL": "https://krunchyfriedgames.itch.io/bunny-hill-horror",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTAxOTIyLzI1OTc2ODEucG5n/347x500/uATBvN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bunny Hill Horror: Bunny Boiler by Krunchy Fried Games",
+         "Informacion": "Oswald Mandias es un hombre con una misi\u00f3n: arrastrar al pa\u00eds pataleando y gritando de regreso a los d\u00edas de gloria de anta\u00f1o, donde un caballero pod\u00eda confiar en los valores probados por el tiempo de la caballerosidad, la crianza y la clase. Armado con zombis feroces, una reserva de productos farmac\u00e9uticos muy cuestionables y una voluntad de hierro, te ha reclutado para hacer realidad sus planes.",
+         "Desde": "",
+         "Hasta": "2024/01/01 01:59",
+         "URL": "https://krunchyfriedgames.itch.io/bunny-hill-horror-bunny-boiler",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzkwNzU0LzQ0Mjc2NDQuanBn/347x500/B16Bli.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
