@@ -1,5 +1,5 @@
 {
-   "date_update": "26 Aug 2023 02:33 UTC",
+   "date_update": "26 Aug 2023 02:38 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -167,6 +167,28 @@
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/alfzmyle",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAAH",
+         "Nombre": "Marco Palmero",
+         "NombreRol": "Neun Smij\u00f6rn",
+         "Hermandad": "Hijos de Caronte",
+         "Casa": "",
+         "HermandadImgURL": "https://i.ibb.co/MPVFzQt/Hijos-de-Caronte.webp",
+         "ImgURL": "",
+         "Descripcion": "Familia Dragnyl\nPalmero el M\u00e9dico",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/neun_smijorn",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
