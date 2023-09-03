@@ -1,46 +1,6 @@
 {
-   "date_update": "02 Sep 2023 16:04 UTC",
+   "date_update": "03 Sep 2023 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Nscar.Drive by ABXT Studio Corporation",
-         "Informacion": "Nueva actualizaci\u00f3n:",
-         "Desde": "",
-         "Hasta": "2023/09/02 23:00",
-         "URL": "https://axbt-studio-corporation.itch.io/nscardrivepc",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc2MTczNS8xMzEzNjE1NC5wbmc=/347x500/x9RYuk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Sling World Cup by rujogames",
-         "Informacion": "Sling World Cup es un divertido juego de f\u00fatbol 3 contra 3 para Windows",
-         "Desde": "",
-         "Hasta": "2023/09/03 00:00",
-         "URL": "https://rujogames.itch.io/sling-world-cup",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTk2NjM2LzU3MjE4MTcucG5n/347x500/JpyRtZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "EaseUS MobiMover Pro 1-Year License Code Free 2023",
-         "Informacion": "EaseUS MobiMover es un software de transferencia m\u00f3vil y administrador de datos telef\u00f3nicos todo en uno que tiene la capacidad de transferir datos entre iPhone/iPad, dispositivos Android y computadoras con simples clics. Puede utilizar este software de transferencia de datos del tel\u00e9fono para transferir fotos, videos, contactos, mensajes y m\u00e1s desde el tel\u00e9fono antiguo al nuevo. Esta herramienta es compatible con dispositivos iOS y Android.",
-         "Desde": "",
-         "Hasta": "2023/09/03 00:00",
-         "URL": "https://giveaway.tickcoupon.com/easeus-mobimover-license-code-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/04/easeus-mobimover-giveaway-free-key.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Photo Watermark Software",
-         "Informacion": "Proteja sus fotos del uso no autorizado",
-         "Desde": "",
-         "Hasta": "2023/09/03 09:00",
-         "URL": "https://www.bitsdujour.com/software/photo-watermark-software/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/photo-watermark-software-p2zc3.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Horror Game: NEVREN by Green Woltec",
          "Informacion": "Este es un juego de terror medieval. Has escuchado los gritos de tu vecino y quieres ver si todo est\u00e1 bien con \u00e9l. Notas que \u00e9l no est\u00e1 en casa y examinas la casa. Pero te das cuenta de que algo sobrenatural est\u00e1 pasando. Intenta encontrar todas las pistas e interruptores para salir adelante.",
@@ -49,7 +9,7 @@
          "URL": "https://greenwoltec.itch.io/horror-game-nevren",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE2NjA1NC8xMjc3ODAwNS5wbmc=/347x500/xJ03aK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Horror Game: Strange Discovery Chapter 1 by Green Woltec",
@@ -59,7 +19,7 @@
          "URL": "https://greenwoltec.itch.io/horror-game-strange-discovery-chapter-1",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIyOTE0Ny8xMzE5NTMyMi5wbmc=/347x500/YlDWRu.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Vovsoft Speech to Text Converter License Key Free 2023",
@@ -69,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/speech-to-text-converter-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/vovsoft-speech-to-text-converter-giveaway-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "E-Cell by b._.render",
@@ -79,7 +39,7 @@
          "URL": "https://b-render.itch.io/e-cell",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTU2MS83NTIwMzY4LnBuZw==/347x500/RqKwah.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Quest In A Castle by b._.render",
@@ -89,17 +49,7 @@
          "URL": "https://b-render.itch.io/quest-in-a-castle",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTgwNzk0MS8xMDc3NDgyMC5wbmc=/347x500/fPGzGg.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ashampoo WinOptimizer 19",
-         "Informacion": "Ashampoo WinOptimizer 19 hace que las PC con Windows sean m\u00e1s r\u00e1pidas, limpias y discretas. El extenso an\u00e1lisis del sistema proporciona numerosas opciones para optimizar y limpiar su sistema operativo desde la p\u00e1gina de inicio. Los m\u00f3dulos de limpieza integrados ahora se han convertido en verdaderos cl\u00e1sicos y eliminan de su m\u00e1quina a\u00fan m\u00e1s rastros de navegaci\u00f3n web, archivos temporales y archivos sobrantes de desinstalaciones de software. Auto-Clean, Live-Tuner y Game-Booster garantizan que su sistema se mantenga limpio, los programas se inicien m\u00e1s r\u00e1pido y los juegos se ejecuten sin problemas. El m\u00f3dulo de Informaci\u00f3n del sistema le brinda una visi\u00f3n completa del hardware y el software de su PC y lo ayuda a rastrear recursos ocultos en sus discos duros. Para obtener una descripci\u00f3n general m\u00e1s condensada pero siempre actualizada, WinOptimizer viene con paneles de control ricos en datos que tambi\u00e9n act\u00faan como accesos directos r\u00e1pidos a m\u00f3dulos esenciales. El m\u00f3dulo de ajuste permite la personalizaci\u00f3n individual de Windows y seguramente complacer\u00e1 a los fan\u00e1ticos del ajuste de PC. Browser Extension Manager tiene una detecci\u00f3n a\u00fan mejor y enumera todos y cada uno de los complementos y extensiones de su navegador, incluidos los ocultos y, a menudo, maliciosos. La versi\u00f3n 19 viene con Boot Center, que analiza y acelera los tiempos de inicio del sistema optimizando las entradas de ejecuci\u00f3n autom\u00e1tica y los programas de tareas de Windows. Y el nuevo Administrador de privacidad es la protecci\u00f3n de privacidad definitiva que desactiva por completo las controvertidas funciones de telemetr\u00eda de Windows. Tambi\u00e9n hemos revisado el popular Optimizador de 1 clic para ayudarlo a deshacerse de a\u00fan m\u00e1s archivos basura, rastros de navegaci\u00f3n web y entradas de Registro inv\u00e1lidas o hu\u00e9rfanas.",
-         "Desde": "",
-         "Hasta": "2023/09/04 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-19-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-17.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Ashampoo Photo Optimizer 8",
@@ -109,7 +59,17 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-optimizer-8-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/front-1.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo WinOptimizer 19",
+         "Informacion": "Ashampoo WinOptimizer 19 hace que las PC con Windows sean m\u00e1s r\u00e1pidas, limpias y discretas. El extenso an\u00e1lisis del sistema proporciona numerosas opciones para optimizar y limpiar su sistema operativo desde la p\u00e1gina de inicio. Los m\u00f3dulos de limpieza integrados ahora se han convertido en verdaderos cl\u00e1sicos y eliminan de su m\u00e1quina a\u00fan m\u00e1s rastros de navegaci\u00f3n web, archivos temporales y archivos sobrantes de desinstalaciones de software. Auto-Clean, Live-Tuner y Game-Booster garantizan que su sistema se mantenga limpio, los programas se inicien m\u00e1s r\u00e1pido y los juegos se ejecuten sin problemas. El m\u00f3dulo de Informaci\u00f3n del sistema le brinda una visi\u00f3n completa del hardware y el software de su PC y lo ayuda a rastrear recursos ocultos en sus discos duros. Para obtener una descripci\u00f3n general m\u00e1s condensada pero siempre actualizada, WinOptimizer viene con paneles de control ricos en datos que tambi\u00e9n act\u00faan como accesos directos r\u00e1pidos a m\u00f3dulos esenciales. El m\u00f3dulo de ajuste permite la personalizaci\u00f3n individual de Windows y seguramente complacer\u00e1 a los fan\u00e1ticos del ajuste de PC. Browser Extension Manager tiene una detecci\u00f3n a\u00fan mejor y enumera todos y cada uno de los complementos y extensiones de su navegador, incluidos los ocultos y, a menudo, maliciosos. La versi\u00f3n 19 viene con Boot Center, que analiza y acelera los tiempos de inicio del sistema optimizando las entradas de ejecuci\u00f3n autom\u00e1tica y los programas de tareas de Windows. Y el nuevo Administrador de privacidad es la protecci\u00f3n de privacidad definitiva que desactiva por completo las controvertidas funciones de telemetr\u00eda de Windows. Tambi\u00e9n hemos revisado el popular Optimizador de 1 clic para ayudarlo a deshacerse de a\u00fan m\u00e1s archivos basura, rastros de navegaci\u00f3n web y entradas de Registro inv\u00e1lidas o hu\u00e9rfanas.",
+         "Desde": "",
+         "Hasta": "2023/09/04 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-19-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-17.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Larger Than Light by 1010meha",
@@ -119,7 +79,17 @@
          "URL": "https://1010meha.itch.io/larger-than-light",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTk5MjM1LzU5ODMzMjUuZ2lm/347x500/HuLApM.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Vole Briefcase",
+         "Informacion": "Empaquetar documentos y enlaces en un solo archivo",
+         "Desde": "",
+         "Hasta": "2023/09/04 09:00",
+         "URL": "https://www.bitsdujour.com/software/vole-briefcase/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/vole-briefcase-ucfor.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "WinX MediaTrans License Key Full Version Download",
@@ -129,6 +99,36 @@
          "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/10/WinX-MediaTrans-Screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2023/09/05 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2023/09/05 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2023/09/05 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -242,6 +242,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Decompiled Ultimate Collection by ROCK-O",
+         "Informacion": "\u00a1Bienvenido a Decompiled Ultimate Collection, una colecci\u00f3n de mis juegos (7 de ellos) que nunca he publicado!",
+         "Desde": "",
+         "Hasta": "2023/09/07 00:00",
+         "URL": "https://rockodagamer.itch.io/the-decompiled-ultimate-collection",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjExNDg0OC8xMjQ3MDUzOS5wbmc=/347x500/2Kv7t%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Desktop Secret Lock 2",
          "Informacion": "Protecci\u00f3n de seguridad profesional para PC",
          "Desde": "",
@@ -272,6 +282,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Made With Love by dValeev_1412",
+         "Informacion": "\u00d0\u00ba\u00d0\u00be\u00d1\u00ba\u00d0\u00b2\u00d1\u00ba\u00d1\u00bar\u00d0\u00b0\u00d1\u00ba\u00d1\u00ba\u00d1\u00ba\u00d1\u00ba\u00d0\u00ba\u00d0\u00be\u00d1\u00ba\u00d0\u00bc\u00d1\u00ba\u00d0\u00b4\u00d0\u00be\u00d1\u00ba\u00d0\u00b3\u00d0\u00be\u00d0\u00b2\u00d1\u00ba \u00d0\u00ba\u00d0\u00b0\u00d1\u00ba\u00d0\u00ba\u00d1\u00ba\u00d0\u00bb\u00d0\u00ba\u00d0\u00b8\u00d0\u00bb\u00d0\u00b8\u00d0\u00bf\u00d0\u03bc\u00d0\u00bd\u00d0\u00ba\u00d0\u00be!",
+         "Desde": "",
+         "Hasta": "2023/09/07 23:00",
+         "URL": "https://dvaleev-1412.itch.io/made-with-love",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTU2Mi8xMzA3OTU5OC5wbmc=/347x500/m3Snxq.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Run From Niger by dValeev_1412",
          "Informacion": "Estudio Valeev",
          "Desde": "",
@@ -282,13 +302,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Made With Love by dValeev_1412",
-         "Informacion": "\u00d0\u00ba\u00d0\u00be\u00d1\u00ba\u00d0\u00b2\u00d1\u00ba\u00d1\u00bar\u00d0\u00b0\u00d1\u00ba\u00d1\u00ba\u00d1\u00ba\u00d1\u00ba\u00d0\u00ba\u00d0\u00be\u00d1\u00ba\u00d0\u00bc\u00d1\u00ba\u00d0\u00b4\u00d0\u00be\u00d1\u00ba\u00d0\u00b3\u00d0\u00be\u00d0\u00b2\u00d1\u00ba \u00d0\u00ba\u00d0\u00b0\u00d1\u00ba\u00d0\u00ba\u00d1\u00ba\u00d0\u00bb\u00d0\u00ba\u00d0\u00b8\u00d0\u00bb\u00d0\u00b8\u00d0\u00bf\u00d0\u03bc\u00d0\u00bd\u00d0\u00ba\u00d0\u00be!",
+         "Nombre": "MacX MediaTrans Giveaway - Get License Key for Free",
+         "Informacion": "MacX MediaTrans es un pr\u00e1ctico software iPhone iPad Manager para Mac dise\u00f1ado para ayudar a los usuarios a realizar copias de seguridad y transferir datos entre iPhone iPad y Mac, administrar m\u00fasica, fotos y m\u00e1s, crear un tono de llamada para iPhone, eliminar los l\u00edmites DRM de iTunes y montar el iPhone iPad como USB. .",
          "Desde": "",
-         "Hasta": "2023/09/07 23:00",
-         "URL": "https://dvaleev-1412.itch.io/made-with-love",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTU2Mi8xMzA3OTU5OC5wbmc=/347x500/m3Snxq.png",
-         "Distribuidora": "Itch io",
+         "Hasta": "2023/09/08 00:00",
+         "URL": "https://giveaway.tickcoupon.com/macx-mediatrans-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/08/MacX-MediaTrans-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -308,6 +328,56 @@
          "Hasta": "2023/09/09 06:00",
          "URL": "https://yuneek.itch.io/dirty-dan-online-multiplayer-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjEwMTc4MS8xMjM4MDcyMi5wbmc=/347x500/xoV0Iv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Grimace Shake by GamingTGT",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/09/09 09:00",
+         "URL": "https://gamingtgt.itch.io/grimmace-shake",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDA3MC8xMjgzOTA2MS5naWY=/347x500/i65qUJ.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "There Is Someone Inside The BEDROOM by GamingTGT",
+         "Informacion": "NOTA IMPORTANTE: NUEVA ACTUALIZACI\u00d3N!!!!!!!!!!!!.",
+         "Desde": "",
+         "Hasta": "2023/09/09 09:00",
+         "URL": "https://gamingtgt.itch.io/there-is-someone-inside-the-bedroom",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MzM0NC8xMjg0ODk3NC5naWY=/347x500/Gg87hr.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Plasma by GamingTGT",
+         "Informacion": "Un hombre rodeado en su sue\u00f1o por una criatura llamada \"Dream Killer\". Una criatura rodeada en esta ciudad humana. Su misi\u00f3n es controlar su sue\u00f1o, apoyar y destruir a su cliente en aproximadamente 10 d\u00edas. Ser\u00e1s arrojado a tantos lugares diferentes. y descubrir diferentes entidades.",
+         "Desde": "",
+         "Hasta": "2023/09/09 09:00",
+         "URL": "https://gamingtgt.itch.io/plasma",
+         "IMG": "https://img.itch.zone/aW1nLzExMzY4OTI0LnBuZw==/347x500/H602ta.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bab Al-Harah - \u00d8\u00a8\u00d8\u00a7\u00d8\u00a8 \u00d8\u00a7\u00d9\u0084\u00d8\u00ad\u00d8\u00a7\u00d8\u00b1\u00d9\u0087 by GamingTGT",
+         "Informacion": "Por cierto: EL JUEGO EST\u00c1 EN VERSI\u00d3N ALFA.....S\u00c9 QUE LE FALTAN MUCHAS COSAS..........",
+         "Desde": "",
+         "Hasta": "2023/09/09 09:00",
+         "URL": "https://gamingtgt.itch.io/babharah",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg5NTUwMS8xMTE0NjQ2Ny5wbmc=/347x500/rY0ByI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shifty by GamingTGT",
+         "Informacion": "Eres un asesino para la gran empresa. Tu objetivo es destruir la gran f\u00e1brica de vidrio e intentas atravesar una enorme cantidad de seguridad y cohetes.",
+         "Desde": "",
+         "Hasta": "2023/09/09 09:00",
+         "URL": "https://gamingtgt.itch.io/shifty",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2NzI2NC8xMjg0ODM5Mi5naWY=/347x500/3ishjr.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -672,22 +742,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Valorant Stats by munegames",
-         "Informacion": "Valor Stats es una aplicaci\u00f3n no oficial",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://munegames.itch.io/valor-stats",
-         "IMG": "https://img.itch.zone/aW1nLzY3MDEzMjQucG5n/347x500/BMW2gn.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Tap Battle Challenge by munegames",
          "Informacion": "Toca el desaf\u00edo de batalla para Tiktok",
          "Desde": "",
          "Hasta": "2023/09/28 09:00",
          "URL": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MjYzMy8xMTQ4MTM4NS5wbmc=/347x500/S2%2Fsbv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Valorant Stats by munegames",
+         "Informacion": "Valor Stats es una aplicaci\u00f3n no oficial",
+         "Desde": "",
+         "Hasta": "2023/09/28 09:00",
+         "URL": "https://munegames.itch.io/valor-stats",
+         "IMG": "https://img.itch.zone/aW1nLzY3MDEzMjQucG5n/347x500/BMW2gn.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -778,6 +848,76 @@
          "Hasta": "2023/09/29 23:00",
          "URL": "https://hussain-gamer.itch.io/zombie-hunter",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo mover",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://al7ussain.itch.io/foxy-man",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "STRIKE by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://al7ussain.itch.io/strike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDM2MC8xMzAzMzA0Ny5qcGc=/347x500/fIRkaF.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "square run by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://al7ussain.itch.io/square-run",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwMjA3Ny8xMzAxODUzMC5wbmc=/347x500/ZMxkZd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fish Runner by AL7USSAIN",
+         "Informacion": "Fish Runner es un divertido juego 2d sin fin",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://al7ussain.itch.io/fish-runner",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDU2Ny8xMjgzNTM0My5wbmc=/347x500/FOKU8J.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -972,102 +1112,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Freeze Target by munegames",
+         "Informacion": "Puedes mejorar tu tiro r\u00e1pido y mec\u00e1nicas de armas valiosas.",
+         "Desde": "",
+         "Hasta": "2023/09/30 19:00",
+         "URL": "https://munegames.itch.io/freeze-target",
+         "IMG": "https://img.itch.zone/aW1nLzQ1ODg1NTYuanBn/347x500/nCKui9.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "PANG PONG by OURABIG",
          "Informacion": "EL GANADOR ES EL JUGADOR QUE ANOTE 6 PUNTOS PRIMERO",
          "Desde": "",
          "Hasta": "2023/10/01 01:00",
          "URL": "https://ourabig.itch.io/pang-pong",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk2OTYwMi8xMTU4MTQwNS5wbmc=/347x500/D%2BHlgL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "salve a princesa by Carlos Junior",
-         "Informacion": "mejor estilo de juego de plataformas 2d",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/salve-a-princesa",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyOTQzMS8xMzE5NzgxOS5wbmc=/347x500/H%2BgCl7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "brazil truck jr by Carlos Junior",
-         "Informacion": "el mejor juego de simulador de camiones",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/brazil-truck-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDYzNy8xMzAzNDc1NC5wbmc=/347x500/SUExj%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "corrida das sombras Mortais by Carlos Junior",
-         "Informacion": "es un juego de correr sombras muy divertido, corre sin parar o hasta que mueras",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/corrida-dassombrasmortais",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1NDM1My8xMjcwMDcxNS5wbmc=/347x500/QXn2Bk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Gladiator Battle cards by Carlos Junior",
-         "Informacion": "juego de cartas con sistema de batalla \u00fanico y revolucionario",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/gladiator-battlecard",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1NDE4NS8xMjY5OTk4OS5wbmc=/347x500/M44C%2BU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Power by Carlos Junior",
-         "Informacion": "Es un incre\u00edble juego rpg, un mundo donde los poderes dominan, si ganas le robas un poder al oponente y si pierdes tienes la posibilidad de perder uno de tus poderes, la jugabilidad es incre\u00edble.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/power",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1NTcxOS8xMjA4OTM1NS5wbmc=/347x500/lDandy.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "JR Driver 2 by Carlos Junior",
-         "Informacion": "Juego jr driver 2 inspirado en la franquicia top gear, contiene 22 pistas y 2 modos de carrera, tiene pistas de d\u00eda, noche, lluvia, nieve y huracanes, y en la carrera hay 21 autos disputando posiciones y hay 13 autos que puedes comprar .",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-driver-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTcyMi8xMTk5NzU1Mi5wbmc=/347x500/oacknE.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Guerreiros de f\u00c3\u00a9 by Carlos Junior",
-         "Informacion": "Juego de rol 2d con batallas por turnos, un juego muy bueno y rico en detalles, un incre\u00edble juego de rol concertea, te gustar\u00e1, por favor dona si puedes a trav\u00e9s del sitio web de itch o por pix carlos256.roberto @gmail.com",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/guerreiros-de-f",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxMTczNC8xMTgyOTIzOS5wbmc=/347x500/b5Kt0u.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Damn smart zombies by Carlos Junior",
-         "Informacion": "El mejor juego de zombies en 3D con excelentes gr\u00e1ficos, est\u00e1s en una isla llena de zombies y tienes que encontrar una manera de sobrevivir y escapar de la isla.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/daw",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk3MDY1OS8xMTU4NzQyMy5wbmc=/347x500/RGYOkx.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Knight Supreme by Carlos Junior",
-         "Informacion": "El mejor juego de plataformas, medio mezclado con tetris y tambi\u00e9n con batalla contra el jefe, en este juego tienes que ir armando filas de 5 bloques, e ir huyendo de la lava y peleando contra el jefe, el objetivo es sobrevivir a la lava y derrotar al gran jefe",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/knight-supreme",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0ODU3NC8xMTQ1NjMwNS5wbmc=/347x500/%2BhnFOI.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1082,252 +1142,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Legend futbol Jr by Carlos Junior",
-         "Informacion": "Este es un gran juego de f\u00fatbol para computadora y celular, puedes jugar contra la m\u00e1quina y contra tu amigo, usando el controlador o tu teclado y mouse o por celular con solo tocar la pantalla.",
+         "Nombre": "atirador de elite by Carlos Junior",
+         "Informacion": "El juego de francotiradores de \u00e9lite es un juego de disparos, cuyo objetivo es sobrevivir 90 segundos para pasar de etapa, con cada etapa que pasa el juego se vuelve m\u00e1s dif\u00edcil.",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/legend-futbol-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc5MzI5Ny8xMDUzNzE1Ni5wbmc=/347x500/46sJ0%2B.png",
+         "URL": "https://guerreirosdodragao.itch.io/atirador-de-elite",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODAwNjc5LzQ0ODM1NzkucG5n/347x500/VlRF1D.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "maniacos by Carlos Junior",
-         "Informacion": "un incre\u00edble juego de terror, el juego es incre\u00edble y contiene dos fases, sobrevivir y escapar de la isla.",
+         "Nombre": "brazil truck jr by Carlos Junior",
+         "Informacion": "el mejor juego de simulador de camiones",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/maniacos",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MDA0Ni85MTA1MzAyLnBuZw==/347x500/cHcpfV.png",
+         "URL": "https://guerreirosdodragao.itch.io/brazil-truck-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDYzNy8xMzAzNDc1NC5wbmc=/347x500/SUExj%2B.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "vampires evil by Carlos Junior",
-         "Informacion": "juego de disparos con 4 etapas geniales m\u00e1s modo de supervivencia",
+         "Nombre": "brick breaker jr by Carlos Junior",
+         "Informacion": "Este juego tiene como objetivo superar las 10 etapas, logrando destruir todos los objetos del nivel para pasar de etapa.",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/vampires-evil",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1ODExNi85MDkyMjc4LnBuZw==/347x500/GGRHQL.png",
+         "URL": "https://guerreirosdodragao.itch.io/brick-breaker-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODEyMDM2LzQ1NTI4MDAuanBn/347x500/uAAari.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "JR invasion by Carlos Junior",
-         "Informacion": "Un gran juego de lucha para PC, puedes luchar contra la m\u00e1quina y tambi\u00e9n contra tu amigo.",
+         "Nombre": "ca\u00c3\u00a7a ao monstro verde by Carlos Junior",
+         "Informacion": "el juego tiene como objetivo destruir a todos los enemigos que son monstruos verdes",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-invasion",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MjE5OC85MDU2ODg2LnBuZw==/347x500/QHUM6Q.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Guerreiros do apocalipse by Carlos Junior",
-         "Informacion": "Es un juego RPG incre\u00edble, con varios mapas, varios monstruos y varios equipos con una historia muy chula.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-apocalipse",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzNjE4OS84OTYwNDYwLnBuZw==/347x500/yxMC3y.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "guerreiros do drag\u00c3\u00a3o by Carlos Junior",
-         "Informacion": "un juego de rol con varios monstruos, tu objetivo es completar todas las misiones para acabar con el mal y alcanzar el nivel m\u00e1ximo con todos los equipos posibles",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-drago",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwNTg2MC84Nzc3NjcyLnBuZw==/347x500/Of5onL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "JR DRIVER by Carlos Junior",
-         "Informacion": "Juego de carreras inspirado en Top Gear, esta versi\u00f3n era mucho mejor que Top Gear.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-driver",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5NTMzMi84NzE2MzcwLnBuZw==/347x500/roJ2me.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Voo de dimens\u00c3\u00a3o by Carlos Junior",
-         "Informacion": "juego de aviones.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/voo-de-dimenso",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTMyMi84MTY2MDgxLnBuZw==/347x500/wb%2FsgD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "JR arcade race speed by Carlos Junior",
-         "Informacion": "es un juego arcade de carreras",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-arcade-race-speed",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQxNDk1My84MjQyMTM5LnBuZw==/347x500/iroLFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Top Down JR Games by Carlos Junior",
-         "Informacion": "tiene varios minijuegos de arriba hacia abajo en un solo juego",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/top-down-jr-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNTQxOS84MTg4NjcyLnBuZw==/347x500/4%2FyBAo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "cobran\u00c3\u00a7a de faltas JR by Carlos Junior",
-         "Informacion": "juego de tiros libres, entrena y s\u00e9 el mejor",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/cobrana-de-faltas-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNTE1NS84MTg3MzExLnBuZw==/347x500/WBArMN.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "JR Games Retro by Carlos Junior",
-         "Informacion": "este juego son varios minijuegos retro juntos",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-games-retro",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjIyOS84MTcwOTE0LnBuZw==/347x500/ZZDTAH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "infinite Runner JR Games by Carlos Junior",
-         "Informacion": "Varios juegos de corredor infinito en un solo juego.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/infinite-runner-jr-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjE0Mi84MTcwNDA4LnBuZw==/347x500/mumrLG.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Runner JR by Carlos Junior",
-         "Informacion": "juego de corredor, juego de carreras, intenta permanecer el mayor tiempo posible sin estrellarte, rompe tus r\u00e9cords.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/runner-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjAyNS84MTY5Nzk1LnBuZw==/347x500/Jv6hgd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "van zig zag by Carlos Junior",
-         "Informacion": "un juego de furgoneta en zig zag muy divertido el juego",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/van-zig-zag",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTUwMy84MTY2OTg1LnBuZw==/347x500/t4r6E5.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "estacione o vehiculo by Carlos Junior",
-         "Informacion": "En este juego tienes que aparcar el veh\u00edculo perfectamente, hay varias fases, hay coches, camiones y autobuses para que puedas aparcar.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/estacione-o-vehiculo",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTQxNS84MTY2NTEzLnBuZw==/347x500/HM7Mx%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Police Survivor by Carlos Junior",
-         "Informacion": "Genial juego de supervivencia que da escape a la polic\u00eda. Intenta obtener cada vez m\u00e1s una puntuaci\u00f3n m\u00e1s alta.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/police-survivor",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTI0MC84MTY1NjM2LnBuZw==/347x500/h0XBcK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Train Surfers JR by Carlos Junior",
-         "Informacion": "es un juego de supervivencia de corredores de velocidad, intenta alcanzar la puntuaci\u00f3n m\u00e1s alta posible sin chocar con obst\u00e1culos.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/train-surfers-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTE5NS84MTY1Mzk3LnBuZw==/347x500/%2Bng0jM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Round 6 by Carlos Junior",
-         "Informacion": "juego ronda 6",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/round-6",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTA3Ny84MTY0ODM3LnBuZw==/347x500/4MSenR.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Race crash JR by Carlos Junior",
-         "Informacion": "Juego de supervivencia en carreras de accidentes automovil\u00edsticos.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/race-crash-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTAxMC84MTY0NDY2LnBuZw==/347x500/QUcOLO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "truck trip by Carlos Junior",
-         "Informacion": "juego de cami\u00f3n, viaje en cami\u00f3n, debes llegar al destino antes de que se acabe la gasolina.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/truck-trip",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMDg1Mi84MTYzNjg0LnBuZw==/347x500/%2FLxBKR.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Futebol e Basquete JR by Carlos Junior",
-         "Informacion": "un partido de f\u00fatbol y baloncesto juntos.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/futebol-e-basquete-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MzY0My84MTIxMTEwLnBuZw==/347x500/ys1vId.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "futebol de bot\u00c3\u00a3o JR by Carlos Junior",
-         "Informacion": "juego de f\u00fatbol con botones.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/futebol-de-boto-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MzU1MS84MTIwNjgyLnBuZw==/347x500/O63LOJ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Speed top Racer by Carlos Junior",
-         "Informacion": "juego de carreras, contiene grandes etapas, juego de excelente calidad.",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/speed-top-racer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MjA2MS84MTExOTI1LnBuZw==/347x500/H4zcrK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Resident Zumbi by Carlos Junior",
-         "Informacion": "juego de zombies",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/resident-zumbi",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MTYwOC84MDQ3ODkxLnBuZw==/347x500/kmu5tO.png",
+         "URL": "https://guerreirosdodragao.itch.io/caa-ao-monstro-verde",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODAzMzkzLzQ1MDAwMzUucG5n/347x500/8A4B1R.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1352,52 +1202,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "brick breaker jr by Carlos Junior",
-         "Informacion": "Este juego tiene como objetivo superar las 10 etapas, logrando destruir todos los objetos del nivel para pasar de etapa.",
+         "Nombre": "cobran\u00c3\u00a7a de faltas JR by Carlos Junior",
+         "Informacion": "juego de tiros libres, entrena y s\u00e9 el mejor",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/brick-breaker-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODEyMDM2LzQ1NTI4MDAuanBn/347x500/uAAari.jpg",
+         "URL": "https://guerreirosdodragao.itch.io/cobrana-de-faltas-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNTE1NS84MTg3MzExLnBuZw==/347x500/WBArMN.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "passarinho voador jr by Carlos Junior",
-         "Informacion": "El juego es genial, el objetivo del juego es aguantar el mayor tiempo posible sin chocar con obst\u00e1culos y lograr la puntuaci\u00f3n m\u00e1s alta posible.",
+         "Nombre": "corrida das sombras Mortais by Carlos Junior",
+         "Informacion": "es un juego de correr sombras muy divertido, corre sin parar o hasta que mueras",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/passarinho-voador-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODExMTY2LzQ1NDc3NjguanBn/347x500/rJ5GSB.jpg",
+         "URL": "https://guerreirosdodragao.itch.io/corrida-dassombrasmortais",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1NDM1My8xMjcwMDcxNS5wbmc=/347x500/QXn2Bk.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Pong Jr by Carlos Junior",
-         "Informacion": "un gran juego de pong.",
+         "Nombre": "Damn smart zombies by Carlos Junior",
+         "Informacion": "El mejor juego de zombies en 3D con excelentes gr\u00e1ficos, est\u00e1s en una isla llena de zombies y tienes que encontrar una manera de sobrevivir y escapar de la isla.",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/pong-jr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODExMDc3LzQ1NDcyNDcuanBn/347x500/eEdhUp.jpg",
+         "URL": "https://guerreirosdodragao.itch.io/daw",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk3MDY1OS8xMTU4NzQyMy5wbmc=/347x500/RGYOkx.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Matador de monstros by Carlos Junior",
-         "Informacion": "el juego es un juego de disparos y el objetivo es eliminar a todos los enemigos en el mapa.",
+         "Nombre": "estacione o vehiculo by Carlos Junior",
+         "Informacion": "En este juego tienes que aparcar el veh\u00edculo perfectamente, hay varias fases, hay coches, camiones y autobuses para que puedas aparcar.",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/matador-de-monstros",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODEwOTY3LzQ1NDY2MjkuanBn/347x500/isiZyX.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "O exterminador by Carlos Junior",
-         "Informacion": "el juego es de disparos, es genial, el juego contiene 10 niveles, el objetivo del juego es eliminar a todos los enemigos",
-         "Desde": "",
-         "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/o-exterminador",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODA5Mjg5LzQ1MzY5NzYuanBn/347x500/DZ2%2FN%2B.jpg",
+         "URL": "https://guerreirosdodragao.itch.io/estacione-o-vehiculo",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTQxNS84MTY2NTEzLnBuZw==/347x500/HM7Mx%2B.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1412,12 +1252,182 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "o lutador de rua hist\u00c3\u00b3ria by Carlos Junior",
-         "Informacion": "El juego es realmente genial, es un juego de lucha. El modo historia contiene 10 etapas.",
+         "Nombre": "futebol de bot\u00c3\u00a3o JR by Carlos Junior",
+         "Informacion": "juego de f\u00fatbol con botones.",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/o-lutador-de-rua-histria",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODA3MDQ4LzQ1MjMxMjYucG5n/347x500/LF5RCr.png",
+         "URL": "https://guerreirosdodragao.itch.io/futebol-de-boto-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MzU1MS84MTIwNjgyLnBuZw==/347x500/O63LOJ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Futebol e Basquete JR by Carlos Junior",
+         "Informacion": "un partido de f\u00fatbol y baloncesto juntos.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/futebol-e-basquete-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MzY0My84MTIxMTEwLnBuZw==/347x500/ys1vId.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gladiator Battle cards by Carlos Junior",
+         "Informacion": "juego de cartas con sistema de batalla \u00fanico y revolucionario",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/gladiator-battlecard",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1NDE4NS8xMjY5OTk4OS5wbmc=/347x500/M44C%2BU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Golf brazil junior by Carlos Junior",
+         "Informacion": "Es un juego de golf con obst\u00e1culos, el objetivo es atravesar los obst\u00e1culos y golpear la bola en el hoyo, el juego tiene 20 fases.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/golf-brazil-junior",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzk4NjczLzQ0NzIyNzIucG5n/347x500/QYPWZK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Guerra entre times by Carlos Junior",
+         "Informacion": "La guerra entre equipos es un juego donde se enfrentan 2 equipos, tu objetivo es eliminar a todos tus enemigos con tu equipo.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/guerra-entre-times",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzk5NDQwLzQ0NzY2MzMucG5n/347x500/U0ICpb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Guerreiros de f\u00c3\u00a9 by Carlos Junior",
+         "Informacion": "Juego de rol 2d con batallas por turnos, un juego muy bueno y rico en detalles, un incre\u00edble juego de rol concertea, te gustar\u00e1, por favor dona si puedes a trav\u00e9s del sitio web de itch o por pix carlos256.roberto @gmail.com",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/guerreiros-de-f",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxMTczNC8xMTgyOTIzOS5wbmc=/347x500/b5Kt0u.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Guerreiros do apocalipse by Carlos Junior",
+         "Informacion": "Es un juego RPG incre\u00edble, con varios mapas, varios monstruos y varios equipos con una historia muy chula.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-apocalipse",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzNjE4OS84OTYwNDYwLnBuZw==/347x500/yxMC3y.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "guerreiros do drag\u00c3\u00a3o by Carlos Junior",
+         "Informacion": "un juego de rol con varios monstruos, tu objetivo es completar todas las misiones para acabar con el mal y alcanzar el nivel m\u00e1ximo con todos los equipos posibles",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-drago",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwNTg2MC84Nzc3NjcyLnBuZw==/347x500/Of5onL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "infinite Runner JR Games by Carlos Junior",
+         "Informacion": "Varios juegos de corredor infinito en un solo juego.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/infinite-runner-jr-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjE0Mi84MTcwNDA4LnBuZw==/347x500/mumrLG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR arcade race speed by Carlos Junior",
+         "Informacion": "es un juego arcade de carreras",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/jr-arcade-race-speed",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQxNDk1My84MjQyMTM5LnBuZw==/347x500/iroLFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR Driver 2 by Carlos Junior",
+         "Informacion": "Juego jr driver 2 inspirado en la franquicia top gear, contiene 22 pistas y 2 modos de carrera, tiene pistas de d\u00eda, noche, lluvia, nieve y huracanes, y en la carrera hay 21 autos disputando posiciones y hay 13 autos que puedes comprar .",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/jr-driver-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTcyMi8xMTk5NzU1Mi5wbmc=/347x500/oacknE.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR DRIVER by Carlos Junior",
+         "Informacion": "Juego de carreras inspirado en Top Gear, esta versi\u00f3n era mucho mejor que Top Gear.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/jr-driver",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5NTMzMi84NzE2MzcwLnBuZw==/347x500/roJ2me.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR Games Retro by Carlos Junior",
+         "Informacion": "este juego son varios minijuegos retro juntos",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/jr-games-retro",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjIyOS84MTcwOTE0LnBuZw==/347x500/ZZDTAH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JR invasion by Carlos Junior",
+         "Informacion": "Un gran juego de lucha para PC, puedes luchar contra la m\u00e1quina y tambi\u00e9n contra tu amigo.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/jr-invasion",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MjE5OC85MDU2ODg2LnBuZw==/347x500/QHUM6Q.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Knight Supreme by Carlos Junior",
+         "Informacion": "El mejor juego de plataformas, medio mezclado con tetris y tambi\u00e9n con batalla contra el jefe, en este juego tienes que ir armando filas de 5 bloques, e ir huyendo de la lava y peleando contra el jefe, el objetivo es sobrevivir a la lava y derrotar al gran jefe",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/knight-supreme",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0ODU3NC8xMTQ1NjMwNS5wbmc=/347x500/%2BhnFOI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Legend futbol Jr by Carlos Junior",
+         "Informacion": "Este es un gran juego de f\u00fatbol para computadora y celular, puedes jugar contra la m\u00e1quina y contra tu amigo, usando el controlador o tu teclado y mouse o por celular con solo tocar la pantalla.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/legend-futbol-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc5MzI5Ny8xMDUzNzE1Ni5wbmc=/347x500/46sJ0%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "maniacos by Carlos Junior",
+         "Informacion": "un incre\u00edble juego de terror, el juego es incre\u00edble y contiene dos fases, sobrevivir y escapar de la isla.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/maniacos",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MDA0Ni85MTA1MzAyLnBuZw==/347x500/cHcpfV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Matador de monstros by Carlos Junior",
+         "Informacion": "el juego es un juego de disparos y el objetivo es eliminar a todos los enemigos en el mapa.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/matador-de-monstros",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODEwOTY3LzQ1NDY2MjkuanBn/347x500/isiZyX.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1432,32 +1442,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "ca\u00c3\u00a7a ao monstro verde by Carlos Junior",
-         "Informacion": "el juego tiene como objetivo destruir a todos los enemigos que son monstruos verdes",
+         "Nombre": "O exterminador by Carlos Junior",
+         "Informacion": "el juego es de disparos, es genial, el juego contiene 10 niveles, el objetivo del juego es eliminar a todos los enemigos",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/caa-ao-monstro-verde",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODAzMzkzLzQ1MDAwMzUucG5n/347x500/8A4B1R.png",
+         "URL": "https://guerreirosdodragao.itch.io/o-exterminador",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODA5Mjg5LzQ1MzY5NzYuanBn/347x500/DZ2%2FN%2B.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "atirador de elite by Carlos Junior",
-         "Informacion": "El juego de francotiradores de \u00e9lite es un juego de disparos, cuyo objetivo es sobrevivir 90 segundos para pasar de etapa, con cada etapa que pasa el juego se vuelve m\u00e1s dif\u00edcil.",
+         "Nombre": "o lutador de rua hist\u00c3\u00b3ria by Carlos Junior",
+         "Informacion": "El juego es realmente genial, es un juego de lucha. El modo historia contiene 10 etapas.",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/atirador-de-elite",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODAwNjc5LzQ0ODM1NzkucG5n/347x500/VlRF1D.png",
+         "URL": "https://guerreirosdodragao.itch.io/o-lutador-de-rua-histria",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODA3MDQ4LzQ1MjMxMjYucG5n/347x500/LF5RCr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "torre de defesa do territ\u00c3\u00b3rio by Carlos Junior",
-         "Informacion": "es un juego de estrategia, cuyo objetivo es posicionar torres para defender tu territorio",
+         "Nombre": "passarinho voador jr by Carlos Junior",
+         "Informacion": "El juego es genial, el objetivo del juego es aguantar el mayor tiempo posible sin chocar con obst\u00e1culos y lograr la puntuaci\u00f3n m\u00e1s alta posible.",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/torre-de-defesa-do-territrio",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODAwMzYxLzQ0ODE2MzEucG5n/347x500/NWXs60.png",
+         "URL": "https://guerreirosdodragao.itch.io/passarinho-voador-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODExMTY2LzQ1NDc3NjguanBn/347x500/rJ5GSB.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1472,12 +1482,162 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Guerra entre times by Carlos Junior",
-         "Informacion": "La guerra entre equipos es un juego donde se enfrentan 2 equipos, tu objetivo es eliminar a todos tus enemigos con tu equipo.",
+         "Nombre": "Police Survivor by Carlos Junior",
+         "Informacion": "Genial juego de supervivencia que da escape a la polic\u00eda. Intenta obtener cada vez m\u00e1s una puntuaci\u00f3n m\u00e1s alta.",
          "Desde": "",
          "Hasta": "2023/10/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/guerra-entre-times",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzk5NDQwLzQ0NzY2MzMucG5n/347x500/U0ICpb.png",
+         "URL": "https://guerreirosdodragao.itch.io/police-survivor",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTI0MC84MTY1NjM2LnBuZw==/347x500/h0XBcK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pong Jr by Carlos Junior",
+         "Informacion": "un gran juego de pong.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/pong-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODExMDc3LzQ1NDcyNDcuanBn/347x500/eEdhUp.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Power by Carlos Junior",
+         "Informacion": "Es un incre\u00edble juego rpg, un mundo donde los poderes dominan, si ganas le robas un poder al oponente y si pierdes tienes la posibilidad de perder uno de tus poderes, la jugabilidad es incre\u00edble.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/power",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1NTcxOS8xMjA4OTM1NS5wbmc=/347x500/lDandy.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Race crash JR by Carlos Junior",
+         "Informacion": "Juego de supervivencia en carreras de accidentes automovil\u00edsticos.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/race-crash-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTAxMC84MTY0NDY2LnBuZw==/347x500/QUcOLO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Resident Zumbi by Carlos Junior",
+         "Informacion": "juego de zombies",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/resident-zumbi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MTYwOC84MDQ3ODkxLnBuZw==/347x500/kmu5tO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Round 6 by Carlos Junior",
+         "Informacion": "juego ronda 6",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/round-6",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTA3Ny84MTY0ODM3LnBuZw==/347x500/4MSenR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Runner JR by Carlos Junior",
+         "Informacion": "juego de corredor, juego de carreras, intenta permanecer el mayor tiempo posible sin estrellarte, rompe tus r\u00e9cords.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/runner-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjAyNS84MTY5Nzk1LnBuZw==/347x500/Jv6hgd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "salve a princesa by Carlos Junior",
+         "Informacion": "mejor estilo de juego de plataformas 2d",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/salve-a-princesa",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyOTQzMS8xMzE5NzgxOS5wbmc=/347x500/H%2BgCl7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Speed top Racer by Carlos Junior",
+         "Informacion": "juego de carreras, contiene grandes etapas, juego de excelente calidad.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/speed-top-racer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MjA2MS84MTExOTI1LnBuZw==/347x500/H4zcrK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Top Down JR Games by Carlos Junior",
+         "Informacion": "tiene varios minijuegos de arriba hacia abajo en un solo juego",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/top-down-jr-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNTQxOS84MTg4NjcyLnBuZw==/347x500/4%2FyBAo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "torre de defesa do territ\u00c3\u00b3rio by Carlos Junior",
+         "Informacion": "es un juego de estrategia, cuyo objetivo es posicionar torres para defender tu territorio",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/torre-de-defesa-do-territrio",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODAwMzYxLzQ0ODE2MzEucG5n/347x500/NWXs60.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Train Surfers JR by Carlos Junior",
+         "Informacion": "es un juego de supervivencia de corredores de velocidad, intenta alcanzar la puntuaci\u00f3n m\u00e1s alta posible sin chocar con obst\u00e1culos.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/train-surfers-jr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTE5NS84MTY1Mzk3LnBuZw==/347x500/%2Bng0jM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "truck trip by Carlos Junior",
+         "Informacion": "juego de cami\u00f3n, viaje en cami\u00f3n, debes llegar al destino antes de que se acabe la gasolina.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/truck-trip",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMDg1Mi84MTYzNjg0LnBuZw==/347x500/%2FLxBKR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "vampires evil by Carlos Junior",
+         "Informacion": "juego de disparos con 4 etapas geniales m\u00e1s modo de supervivencia",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/vampires-evil",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1ODExNi85MDkyMjc4LnBuZw==/347x500/GGRHQL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "van zig zag by Carlos Junior",
+         "Informacion": "un juego de furgoneta en zig zag muy divertido el juego",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/van-zig-zag",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTUwMy84MTY2OTg1LnBuZw==/347x500/t4r6E5.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Voo de dimens\u00c3\u00a3o by Carlos Junior",
+         "Informacion": "juego de aviones.",
+         "Desde": "",
+         "Hasta": "2023/10/01 04:59",
+         "URL": "https://guerreirosdodragao.itch.io/voo-de-dimenso",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTMyMi84MTY2MDgxLnBuZw==/347x500/wb%2FsgD.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
