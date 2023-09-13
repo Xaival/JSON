@@ -1,5 +1,5 @@
 {
-   "date_update": "12 Sep 2023 16:01 UTC",
+   "date_update": "13 Sep 2023 16:02 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -445,9 +445,9 @@
          "ID": "AAAAAW",
          "Nombre": "Sergio Oxto",
          "NombreRol": "Mac Tucker",
-         "Hermandad": "Midgard",
-         "Casa": "Angrieff",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
          "ImgURL": "https://i.ibb.co/5kRV6LC/AAAAAW.png",
          "Descripcion": "",
          "Ciudad": "",
@@ -936,8 +936,8 @@
          "Descripcion": "Administrador del grupo de Wassap",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/casareed_midgard/",
-            "Insta2": "https://www.instagram.com/osuka_ks",
+            "Insta1": "https://www.instagram.com/osuka_ks",
+            "Insta2": "",
             "Insta3": "",
             "TikTok": "",
             "Twitter": "",
@@ -1267,7 +1267,7 @@
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/yisusrd",
-            "Insta2": "",
+            "Insta2": "https://www.instagram.com/yiisulin/",
             "Insta3": "",
             "TikTok": "",
             "Twitter": "",
@@ -1675,7 +1675,7 @@
       },
       {
          "ID": "AAAAEN",
-         "Nombre": "Patricia _ Moreno",
+         "Nombre": "Patricia Latour Moreno",
          "NombreRol": "Yiyi Grimhilde",
          "Hermandad": "",
          "Casa": "",
@@ -1689,7 +1689,7 @@
             "Insta3": "https://www.instagram.com/_.photos._2003/",
             "TikTok": "",
             "Twitter": "",
-            "Facebook": "",
+            "Facebook": "https://www.facebook.com/profile.php?id=100013249920665",
             "Youtube": "",
             "Twitch": "https://twitter.com/pilm03?s=09",
             "Web": ""
@@ -1697,7 +1697,7 @@
       },
       {
          "ID": "AAAAEM",
-         "Nombre": "Roc\u00edo _ Moreno",
+         "Nombre": "Roc\u00edo Latour Moreno",
          "NombreRol": "Nala Grimhilde",
          "Hermandad": "",
          "Casa": "",
