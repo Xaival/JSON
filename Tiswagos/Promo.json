@@ -1,56 +1,6 @@
 {
-   "date_update": "14 Sep 2023 16:01 UTC",
+   "date_update": "15 Sep 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Spelldrifter",
-         "Informacion": "Spelldrifter combina las t\u00e1cticas posicionales en forma de rompecabezas de los RPG por turnos con la personalizaci\u00f3n y rejugabilidad de los juegos de cartas coleccionables.  El resultado: un h\u00edbrido en el que los jugadores deben hacer malabarismos con los recursos a su alcance...",
-         "Desde": "2023/09/07",
-         "Hasta": "2023/09/14 17:00",
-         "URL": "https://store.epicgames.com/p/spelldrifter",
-         "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S1_2560x1440-352ef2771d0e47b849b948dc1299214c",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Jack VS The Uberwaffe [REWORK 0.1] by Nevada Vacho",
-         "Informacion": "\u00a1Juegas como Jack!",
-         "Desde": "",
-         "Hasta": "2023/09/15 00:00",
-         "URL": "https://nevadavetacheese.itch.io/jackvs",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTI2NjQ0LzUyNDExNDMucG5n/347x500/Gdkl5B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Katakombs [ON HOLD] by Nevada Vacho",
-         "Informacion": "\u00bfCorre y salta?",
-         "Desde": "",
-         "Hasta": "2023/09/15 00:00",
-         "URL": "https://nevadavetacheese.itch.io/katakombs",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzNjIwMy83MTMxMzQ2LnBuZw==/347x500/6fMc0j.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Leawo Screen Recorder License Key Free Giveaway 2023",
-         "Informacion": "Leawo Screen Recorder es un software profesional de grabaci\u00f3n de pantalla de computadora que proporciona muchas m\u00e1s funciones que otros. Adem\u00e1s de grabar la pantalla de su computadora y grabar el sonido del sistema y/o el micr\u00f3fono, tambi\u00e9n puede grabar video desde su c\u00e1mara web. Y lo m\u00e1s importante, es muy f\u00e1cil de usar. Con su ayuda, puede hacer f\u00e1cilmente videos tutoriales, grabar clases en l\u00ednea, grabar presentaciones de PowerPoint, grabar juegos, grabar reuniones de Zoom, as\u00ed como agregar m\u00fasica de fondo o voz en off a los videos. El siguiente punto brillante en el software Leawo Screen Recorder para mencionar es la funci\u00f3n de agregar marca de agua. Esta herramienta le permite insertar su propio texto, imagen, logotipo o marca de agua en su grabaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2023/09/15 00:00",
-         "URL": "https://giveaway.tickcoupon.com/leawo-screen-recorder-giveaway/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/leawo-screen-recorder-giveaway-free-key.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo WinOptimizer 2023",
-         "Informacion": "Ashampoo WinOptimizer 2023 proporciona mejoras efectivas para un Windows m\u00e1s r\u00e1pido, \u00e1gil y seguro. M\u00e1s de 20 m\u00f3dulos de programa lo convierten en la caja de herramientas de software definitiva.",
-         "Desde": "",
-         "Hasta": "2023/09/15 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2023-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/front-2.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "1-DC by 89o",
          "Informacion": "",
@@ -59,7 +9,7 @@
          "URL": "https://89o.itch.io/1dc",
          "IMG": "https://img.itch.zone/aW1hZ2UvODgzMTgyLzUzNzcwNzcuZ2lm/347x500/xF0gV3.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "OffBike (pre-release) by ZevKev",
@@ -69,7 +19,7 @@
          "URL": "https://zevkev.itch.io/offbike",
          "IMG": "https://img.itch.zone/aW1hZ2UvODY1NzIwLzQ4NjUyOTMuanBn/347x500/DiqeW2.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Siren Head Catch! by ZevKev",
@@ -79,7 +29,17 @@
          "URL": "https://zevkev.itch.io/siren-head-catch",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjUyMzY1LzM1MDEyOTAuanBn/347x500/hNWw%2Fa.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "ThunderSoft Video to GIF Converter License Key Free 2023",
+         "Informacion": "ThunderSoft Video to GIF Converter es un software \u00fatil para crear gifs animados a partir de archivos de v\u00eddeo. Con \u00e9l, puede obtener una vista previa del video original cuadro por cuadro, recortar y especificar clips de video f\u00e1cilmente, convertir videos a gif con alta calidad. Adem\u00e1s, este software permite configurar la velocidad de reproducci\u00f3n de gif, los tiempos de reproducci\u00f3n y tambi\u00e9n cambiar el tama\u00f1o.",
+         "Desde": "",
+         "Hasta": "2023/09/16 00:00",
+         "URL": "https://giveaway.tickcoupon.com/thundersoft-video-to-gif-converter-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/07/ThunderSoft-Video-to-GIF-Converter-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -89,7 +49,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -99,7 +59,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -109,7 +69,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "All-In-One Key Finder Pro",
@@ -119,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-xenarmor-all-in-one-key-finder-pro-2020-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/10/allinonekeyfinderpro-box-250-200x219.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "CutOut 8",
@@ -129,6 +89,36 @@
          "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Sticky Password Premium",
+         "Informacion": "Nunca m\u00e1s olvides una contrase\u00f1a.",
+         "Desde": "",
+         "Hasta": "2023/09/16 09:00",
+         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/sticky-password-premium-8ocyc.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "ASCOMP F-Rename Professional License Key Free 2023",
+         "Informacion": "ASCOMP F-Rename Professional es un software sencillo que le ayuda r\u00e1pida y f\u00e1cilmente a cambiar el nombre de archivos por lotes. Con \u00e9l, puede personalizar las reglas de nomenclatura de los nombres de archivos y modificar los nombres de los archivos en lotes con unos pocos clics del mouse.",
+         "Desde": "",
+         "Hasta": "2023/09/16 14:00",
+         "URL": "https://giveaway.tickcoupon.com/ascomp-f-rename-professional-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/ascomp-f-rename-pro-main-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WASDead Complete Edition by Rock Path Collective",
+         "Informacion": "La profunda historia detr\u00e1s: Eres un desarrollador independiente que se qued\u00f3 atrapado en tu juego deshecho. No entiendes por qu\u00e9 est\u00e1s aqu\u00ed... En el mundo digital. Pero est\u00e1s tratando de encontrar la salida y estar vivo. Pero hay un problema... La salida cost\u00f3 dinero. Basado en la historia real de la mayor\u00eda de los desarrolladores independientes en Steam.",
+         "Desde": "",
+         "Hasta": "2023/09/17 04:00",
+         "URL": "https://rockpathcollective.itch.io/wasdead-complete",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzQyNzg1LzE2OTk4MDYuanBn/347x500/ZFCv4b.jpg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -382,6 +372,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Wondefox HD Video Converter Factory Pro License Key Free",
+         "Informacion": "WonderFox HD Video Converter Factory Pro es un programa para convertir archivos de v\u00eddeo. Con esta aplicaci\u00f3n, podr\u00e1s convertir f\u00e1cil y r\u00e1pidamente v\u00eddeos almacenados en definici\u00f3n est\u00e1ndar a alta definici\u00f3n. Tambi\u00e9n le permite adaptar materiales cinematogr\u00e1ficos para reproducirlos en tel\u00e9fonos inteligentes, tabletas y reproductores de DVD de escritorio.",
+         "Desde": "",
+         "Hasta": "2023/09/21 00:00",
+         "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/wonderfox-hd-video-converter-factory-pro-screenshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HubWorld by Jeremy Ulrich",
          "Informacion": "HubWorld es un relajante juego de exploraci\u00f3n en primera persona centrado en el dise\u00f1o visual, la novedad y la facilidad de uso.",
          "Desde": "",
@@ -419,6 +419,16 @@
          "URL": "https://store.epicgames.com/p/911-operator-585edd",
          "IMG": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-omkv7.jpg",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ant Download Manager PRO",
+         "Informacion": "Ant Download Manager (AntDM) es una herramienta que le permite aumentar repetidamente la velocidad de descarga de archivos debido a m\u00faltiples flujos de descarga, reanudar, programar descargas, capturar y descargar flujos de audio y video.",
+         "Desde": "",
+         "Hasta": "2023/09/22 09:00",
+         "URL": "https://sharewareonsale.com/s/ant-download-manager-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/11/antbox-150x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -519,6 +529,26 @@
          "URL": "https://giveaway.tickcoupon.com/swifdoo-pdf-pro-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/12/swifdoo-pdf-pro-free-license-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TANK by PROJECTyaarj",
+         "Informacion": "TANK es un juego de disparos de tanques de arriba hacia abajo para un jugador.",
+         "Desde": "",
+         "Hasta": "2023/09/29 18:00",
+         "URL": "https://projectyaarj.itch.io/tank",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MTk0MC84MDQ5NjE5LmpwZw==/347x500/gEtdpV.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SOLRAID by PROJECTyaarj",
+         "Informacion": "SOLRAID es un juego de disparos de naves espaciales de arriba hacia abajo para un jugador.",
+         "Desde": "",
+         "Hasta": "2023/09/29 18:00",
+         "URL": "https://projectyaarj.itch.io/solraid",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODU1Mzg2LzQ3OTg0ODAucG5n/347x500/vMsY3y.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1568,6 +1598,26 @@
          "Hasta": "2023/10/08 00:00",
          "URL": "https://giveaway.tickcoupon.com/hitpaw-screen-recorder-free-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/hitpaw-screen-recorder-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Assault Path by Normia Games Studio",
+         "Informacion": "Sum\u00e9rgete en una aventura desconocida en la Isla de la Muerte intentando escapar de las bandas m\u00e1s mort\u00edferas de la isla que intentan robar el tesoro de la isla. Tienes el desaf\u00edo de enfrentarte a esas pandillas para escapar de la Isla de la Muerte con el barco al otro lado de la isla.",
+         "Desde": "",
+         "Hasta": "2023/10/14 23:00",
+         "URL": "https://hassantarek123.itch.io/assault-path",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkxODk3Mi8xMTI4MDY2My5qcGc=/347x500/JL%2Fswm.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DoYourData NTFS for Mac License Key for Free 2023",
+         "Informacion": "Si ha estado buscando software que permita la escritura en unidades NTFS en Mac, entonces DoYourData NTFS para Mac es su elecci\u00f3n. DoYourData NTFS para Mac es un software NTFS para Mac potente y f\u00e1cil de usar que puede habilitar r\u00e1pidamente la escritura en unidades NTFS en Mac. Con su ayuda, puede escribir datos en unidades NTFS, editar/guardar, mover, cambiar, eliminar, agregar, copiar/cortar/pegar o modificar archivos en las unidades NTFS sin ninguna limitaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/10/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/doyourdata-ntfs-for-mac-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/doyourdata-ntfs-for-mac-free-license-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
