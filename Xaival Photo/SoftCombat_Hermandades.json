@@ -1,5 +1,5 @@
 {
-   "date_update": "16 Sep 2023 16:02 UTC",
+   "date_update": "17 Sep 2023 16:01 UTC",
    "values": [
       {
          "Hermandad": "Midgard",
@@ -126,6 +126,12 @@
          "Casa": "",
          "ImgURL": "https://i.ibb.co/PNfQRmX/Sentencia.webp",
          "Insta": "asociacionsentenciabravia"
+      },
+      {
+         "Hermandad": "Legi\u00f3n Escarlata",
+         "Casa": "",
+         "ImgURL": "https://i.ibb.co/C9y9VjS/Legion-Escarlata.webp",
+         "Insta": "legionescarlata_larp"
       },
       {
          "Hermandad": "Mercenario",
