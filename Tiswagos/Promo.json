@@ -1,196 +1,6 @@
 {
-   "date_update": "18 Sep 2023 16:01 UTC",
+   "date_update": "19 Sep 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Puzzle Box Island by Puzzle Box Island",
-         "Informacion": "Aventura tipo Myst de dificultad media",
-         "Desde": "",
-         "Hasta": "2023/09/18 11:45",
-         "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjExNzAwOS8xMjQ4NTE2NC5wbmc=/347x500/FctiDD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
-         "Desde": "",
-         "Hasta": "2023/09/19 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
-         "Desde": "",
-         "Hasta": "2023/09/19 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2023/09/19 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "A.O.O.F.A.D: All Of Our Friends Are Dead by Amon Twentysix",
-         "Informacion": "All Of Our Friends Are Dead es un juego de plataformas de terror independiente cl\u00e1sico en el que todas las reglas, conceptos y sentido de la justicia se han ido por la borda. Sobrevive al borde m\u00e1s cruel de la locura y contempla visiones misteriosas de cosas que pueden o no ser.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/aoofad",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI3OTIvNDE4MjEucG5n/347x500/cegTTg.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Au Sable by Amon Twentysix",
-         "Informacion": "El sucesor espiritual de All Of Our Friends Are Dead. Au Sable es una oscura aventura en las ruinas de una ciudad olvidada. Eres una joven en busca de alguien o algo que ha sido tragado por seres tremendos y horribles. A medida que avanzas, el mundo se hunde cada vez m\u00e1s en la confusi\u00f3n, la culpa y el infierno de pesadilla. Solo, excepto por un misterioso hombre enmascarado que habla en un mensaje cr\u00edptico, debes sobrevivir en tu camino a Harmonia. S\u00f3lo entonces los ojos pueden contemplar la verdad.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/ausable",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMwODcvNDM1OTEucG5n/347x500/%2FnVziv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Bthulufuku by Amon Twentysix",
-         "Informacion": "el tiempo para la madurez ha terminado.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/bthulufuku",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5OTQvNTI0ODQucG5n/347x500/c4nd45.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "CandyZoo 2 Electric Boogaloo by Amon Twentysix",
-         "Informacion": "CandyZoo 2 es una antolog\u00eda fren\u00e9tica, fea, bebedora y mentalmente inestable del trabajo de m\u00e1s de 12 meses. Algunos de estos pueden estar familiarizados con usted, mientras que otros han permanecido in\u00e9ditos hasta ahora. Puede comprarlo ahora para PC con Windows en Sellbox.Com por $ 3 d\u00f3lares y m\u00e1s. Di tu precio, \u00a1siempre es bueno!",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/candyzoo2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTAvMzkwMDAucG5n/347x500/%2BgSvlV.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "ChikkinGun by Amon Twentysix",
-         "Informacion": "Chikkin Gun: PostModern War Fair es un juego de disparos de acci\u00f3n de desplazamiento lateral que gira en torno a Hank Stormgard, un Joe normal perdido en su camino a una fiesta de disfraces sexy. En el camino descubre una guarida oscura de ciencia loca y arte pretencioso. \u00a1Ayuda a Hank a escapar de los pozos de The Lourveratory y llegar a la fiesta a tiempo!",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/chikkingun",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxODkvMzg5OTMucG5n/347x500/PbWMbU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Everybody Got Mad! by Amon Twentysix",
-         "Informacion": "Descripci\u00f3n:",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/everybody-got-mad",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1MzYvNTk3NTAucG5n/347x500/VA5Ukp.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Final Presents of Babylon by Amon Twentysix",
-         "Informacion": "\u00a1Un breve y duro d\u00eda de San Valent\u00edn! Di tu precio",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/fpob",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTEvMzkwMDIucG5n/347x500/4EwPxv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Flight 1 by Amon Twentysix",
-         "Informacion": "Un simulador de vuelo.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/flight-1",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxOTYwLzEzNjk1NTkucG5n/347x500/6Aqo0E.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Gyossait Deluxe Edition by Amon Twentysix",
-         "Informacion": "Gyossait, el juego de plataformas de terror aclamado por la cr\u00edtica de Newgrounds ya est\u00e1 disponible para descargar y jugar sin conexi\u00f3n.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/gyossait-deluxe-edition",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjM0Mi8yMzg2My5wbmc=/347x500/L4FiD%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "In The Kingdom by Amon Twentysix",
-         "Informacion": "In The Kingdom es un juego de disparos retro en primera persona inspirado en los t\u00edtulos cl\u00e1sicos como Wolfenstein, Doom, Quake, Rise Of The Triad y Chasm. Explora las ruinas infernales de un castillo fortaleza olvidado envenenado por la magia oscura y las fuerzas del mal. Sobrevive hasta el final y descubre un nuevo destino.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/in-the-kingdom",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU1Ny8yMzg1Ni5wbmc=/347x500/H4ji0j.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "It's SPEZY! by Amon Twentysix",
-         "Informacion": "Spezy es una creaci\u00f3n de larga data de la infancia m\u00eda y de mi mejor amigo. Creamos este peque\u00f1o y tonto reptil rojo de seis ojos y lo pusimos en todo tipo de situaciones extravagantes. Llenamos carpetas y carpetas llenas de dibujos y comics de \u00e9l. Se convirti\u00f3 en un fen\u00f3meno tal que nuestras familias celebraban el d\u00eda de su primer c\u00f3mic cada a\u00f1o, el 9 de junio. Por lo general, uno de nosotros crear\u00eda un dibujo.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/its-spezy",
-         "IMG": "https://img.itch.zone/aW1nLzIxODM2NTEucG5n/347x500/zs5z17.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Mud Slinger by Amon Twentysix",
-         "Informacion": "HISTORIA: Annie llega a la tierra y consigue un trabajo como barista en The Bitter End. La gente entra, les sirve caf\u00e9, recibe propinas, \u00bfqu\u00e9 tan dif\u00edcil puede ser?",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/mudslinger",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyMzIvNzQxNzMucG5n/347x500/gV5mki.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Phobolis - Alpha Test by Amon Twentysix",
-         "Informacion": "ACTUALIZACI\u00d3N DE REVISI\u00d3N DEL 6 DE NOVIEMBRE DEL 22: Emitimos una nueva revisi\u00f3n para la prueba alfa 2 que soluciona fallas importantes, redise\u00f1amos el final de la demostraci\u00f3n, nueva m\u00fasica para la etapa 1 y un par de detalles m\u00e1s que pasamos por alto. Ya sabes qu\u00e9 hacer. 31/10/22 ACTUALIZACI\u00d3N: Esta nueva prueba incluye una versi\u00f3n actualizada del primer nivel y un vistazo anticipado al segundo acto. Nuevas armas, monstruos, miras y preguntas te esperan en la oscuridad.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/phobolis",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUyODA0MC8xMDQyMDMzNi5qcGc=/347x500/Hcs0hy.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "REQUIEM by Amon Twentysix",
-         "Informacion": "Una noche en la \u00d3pera, presentada por Blood Machine y Amon26",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/requiem",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODA5NDUzLzQ1MzgwODYucG5n/347x500/lJR6EO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Shomia Teaf: The Unfinished Fairy by Amon Twentysix",
-         "Informacion": "Debido a razones t\u00e9cnicas y mi incapacidad para comprender c\u00f3mo hacer copias de seguridad, este es un juego que probablemente no ver\u00e1 la luz del d\u00eda. La idea era sobre un hada de los dientes inocente y alegre que se hab\u00eda metido demasiado en su propio trabajo y ten\u00eda que ser institucionalizada. Ella escapa y golpea los dientes de las criaturas del bosque.",
-         "Desde": "",
-         "Hasta": "2023/09/19 06:00",
-         "URL": "https://amon26.itch.io/shomiateaf",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxOTIvMzkwNDkucG5n/347x500/I6mZVL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
       {
          "Nombre": "The Door! 2 by Nitish Thombre",
          "Informacion": "Este juego hecho para Speed \u200b\u200bRun -_-",
@@ -199,7 +9,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! 3 by Nitish Thombre",
@@ -209,7 +19,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-3",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! 4 by Nitish Thombre",
@@ -219,7 +29,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-4",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! by Nitish Thombre",
@@ -229,7 +39,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Laserfield by isikenes",
@@ -239,7 +49,17 @@
          "URL": "https://isikenes.itch.io/laserfield",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE4NjkxNC8xMjkxNTIwNi5wbmc=/347x500/PCzJuP.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+      },
+      {
+         "Nombre": "WonderFox DVD Ripper Pro",
+         "Informacion": "Transforme pel\u00edculas en DVD en formatos de archivos port\u00e1tiles",
+         "Desde": "",
+         "Hasta": "2023/09/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-ripper-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-dvd-ripper-2-aa6ca.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Crumble",
@@ -298,6 +118,16 @@
          "Hasta": "2023/09/21 09:00",
          "URL": "https://sharewareonsale.com/s/free-easy-photo-unblur-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/12/EPU-en-box-big-188x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FastMove",
+         "Informacion": "\u00a1Mueva sus archivos, carpetas, software y configuraciones a su nueva computadora con Windows con FastMove!",
+         "Desde": "",
+         "Hasta": "2023/09/21 09:00",
+         "URL": "https://sharewareonsale.com/s/free-fastmove-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/09/unnamed-1.jpg?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -412,6 +242,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Decompiled Ultimate Collection by ROCK-O",
+         "Informacion": "\u00a1Bienvenido a Decompiled Ultimate Collection, una colecci\u00f3n de mis juegos (7 de ellos) que nunca he publicado!",
+         "Desde": "",
+         "Hasta": "2023/09/22 17:32",
+         "URL": "https://rockodagamer.itch.io/the-decompiled-ultimate-collection",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjExNDg0OC8xMjQ3MDUzOS5wbmc=/347x500/2Kv7t%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1 More Story To Go by ROCK-O",
+         "Informacion": "Este es un juego de historia interactivo basado en texto que actualmente incluye 1 historia, STALKER.",
+         "Desde": "",
+         "Hasta": "2023/09/22 17:32",
+         "URL": "https://rockodagamer.itch.io/1-more-story-to-go",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAyNjgwNS8xMjQ3MDQ2Ny5wbmc=/347x500/W0HZJr.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Crowie's Forest(full version, Work In Progress) by Ra4ok_Dev",
          "Informacion": "En un d\u00eda normal, est\u00e1s jugando a un sencillo juego de arcade llamado \"Crowie's Forest\", que era un juego dedicado al parque de atracciones del mismo nombre con animales animatr\u00f3nicos y otras atracciones. Una vez que escuchaste a alguno de tus compa\u00f1eros hablar de \"incidentes horribles\" que sucedieron all\u00ed, y que ese fue el motivo del cierre del parque de diversiones, por curiosidad decidiste jugar a este viejo juego que fue rescatado de viejas mercanc\u00edas dedicadas al parque. Bueno, la decisi\u00f3n de jugar este juego sali\u00f3 terriblemente mal... Esos animales de 8 bits no son lo que parecen ser...",
          "Desde": "",
@@ -442,6 +292,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft Web Platform Identifier License Key Free 2023",
+         "Informacion": "Si es desarrollador web, dise\u00f1ador o simplemente tiene curiosidad acerca de las tecnolog\u00edas que impulsan sus sitios web favoritos, VovSoft Web Platform Identifier es la aplicaci\u00f3n adecuada para una identificaci\u00f3n de plataforma r\u00e1pida y precisa. Con una interfaz sencilla y f\u00e1cil de usar, esta herramienta puede escanear y mostrar la plataforma web subyacente de cualquier URL ingresada con facilidad.",
+         "Desde": "",
+         "Hasta": "2023/09/25 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-web-platform-identifier-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/vovsoft-web-platform-identifier-giveaway-code-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Keep It In The Light by King OB Games",
          "Informacion": "Keep It In The Light es un juego de terror sencillo pero espeluznante. Tienes un objetivo, salir de esta ciudad. Comienzas en una puerta con 3 cerraduras. Encuentra las 3 llaves ubicadas aleatoriamente alrededor del mapa mientras eres perseguido por algo. Recuerda, mantenlo en la luz o te atrapar\u00e1. Mantenlo en la luz demasiado tiempo. Podr\u00edas enojarlo.",
          "Desde": "",
@@ -468,6 +328,16 @@
          "Hasta": "2023/09/25 09:00",
          "URL": "https://sharewareonsale.com/s/free-thundersoft-gif-editor-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/screenshot1.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo WinOptimizer 2023",
+         "Informacion": "Ashampoo WinOptimizer 2023 proporciona mejoras efectivas para un Windows m\u00e1s r\u00e1pido, \u00e1gil y seguro. M\u00e1s de 20 m\u00f3dulos de programa lo convierten en la caja de herramientas de software definitiva.",
+         "Desde": "",
+         "Hasta": "2023/09/25 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/front-2.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -912,22 +782,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "POPPY TIME PLUS by NISHAD",
-         "Informacion": "En la oscuridad, tienes que escapar de tu propia casa debido al Sr. An\u00f3nimo, donde est\u00e1s con tu amigo NICHO, pero para abrir las puertas tienes que encontrar las llaves y asegurarte de que el Cachorro no te mate, mant\u00e9n tus ojos. en el cron\u00f3metro o tu cachorro te matar\u00e1.",
-         "Desde": "",
-         "Hasta": "2023/09/30 09:00",
-         "URL": "https://nishad-games.itch.io/poppy-time-plus",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDIyNy8xMjk2NDYzOC5wbmc=/347x500/KWqPdB.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "LAST NIGHT by NISHAD",
          "Informacion": "\u00bfUn juego de historia CORTA sobre un YOUTUBER que lucha por conseguir un BOT\u00d3N DE JUEGO ORO pero le sucede algo extra\u00f1o a su PC y quiere realizar una encuesta?",
          "Desde": "",
          "Hasta": "2023/09/30 09:00",
          "URL": "https://nishad-games.itch.io/last-night",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjA0OTIwNi8xMjIwNjY3NC5wbmc=/347x500/CKXDNO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "POPPY TIME PLUS by NISHAD",
+         "Informacion": "En la oscuridad, tienes que escapar de tu propia casa debido al Sr. An\u00f3nimo, donde est\u00e1s con tu amigo NICHO, pero para abrir las puertas tienes que encontrar las llaves y asegurarte de que el Cachorro no te mate, mant\u00e9n tus ojos. en el cron\u00f3metro o tu cachorro te matar\u00e1.",
+         "Desde": "",
+         "Hasta": "2023/09/30 09:00",
+         "URL": "https://nishad-games.itch.io/poppy-time-plus",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDIyNy8xMjk2NDYzOC5wbmc=/347x500/KWqPdB.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1682,22 +1552,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "DoYourData NTFS for Mac License Key for Free 2023",
-         "Informacion": "Si ha estado buscando software que permita la escritura en unidades NTFS en Mac, entonces DoYourData NTFS para Mac es su elecci\u00f3n. DoYourData NTFS para Mac es un software NTFS para Mac potente y f\u00e1cil de usar que puede habilitar r\u00e1pidamente la escritura en unidades NTFS en Mac. Con su ayuda, puede escribir datos en unidades NTFS, editar/guardar, mover, cambiar, eliminar, agregar, copiar/cortar/pegar o modificar archivos en las unidades NTFS sin ninguna limitaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2023/10/15 00:00",
-         "URL": "https://giveaway.tickcoupon.com/doyourdata-ntfs-for-mac-free-license-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/doyourdata-ntfs-for-mac-free-license-key.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "AWZ Anyporter Giveaway License Key for 1-Year Free",
          "Informacion": "Si ha estado buscando un software de cambio de ubicaci\u00f3n que le permita cambiar f\u00e1cilmente la ubicaci\u00f3n en dispositivos iOS para simular un movimiento real, entonces AWZ Anyporter (ubicaci\u00f3n falsa en Windows/iOS) es su elecci\u00f3n. Con la soluci\u00f3n avanzada de cambio de ubicaci\u00f3n que ofrece AWZ Anyporter, puede cambiar su ubicaci\u00f3n desde una ubicaci\u00f3n diferente en Windows/iOS, simular ubicaci\u00f3n en aplicaciones de juegos, simular movimiento GPS y m\u00e1s.",
          "Desde": "",
          "Hasta": "2023/10/15 00:00",
          "URL": "https://giveaway.tickcoupon.com/awz-anyporter-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/awz-anyporter-pro-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DoYourData NTFS for Mac License Key for Free 2023",
+         "Informacion": "Si ha estado buscando software que permita la escritura en unidades NTFS en Mac, entonces DoYourData NTFS para Mac es su elecci\u00f3n. DoYourData NTFS para Mac es un software NTFS para Mac potente y f\u00e1cil de usar que puede habilitar r\u00e1pidamente la escritura en unidades NTFS en Mac. Con su ayuda, puede escribir datos en unidades NTFS, editar/guardar, mover, cambiar, eliminar, agregar, copiar/cortar/pegar o modificar archivos en las unidades NTFS sin ninguna limitaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/10/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/doyourdata-ntfs-for-mac-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/doyourdata-ntfs-for-mac-free-license-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -1709,6 +1579,16 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-photo-enlarger-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/09/leawo-photo-enlarger-giveaway-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Night Loop by Default Setting",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/10/18 20:30",
+         "URL": "https://default-setting.itch.io/night-loop-prologue",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAwMjAwNC8xMTkxODk4NC5wbmc=/347x500/A8YFS8.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
