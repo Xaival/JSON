@@ -1,76 +1,6 @@
 {
-   "date_update": "20 Sep 2023 16:02 UTC",
+   "date_update": "21 Sep 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Crumble",
-         "Informacion": "Para celebrar Bundlefest, \u00a1consigue tu copia de Crumble! Simplemente suscr\u00edbase a nuestro bolet\u00edn informativo por correo electr\u00f3nico y vincule una cuenta Steam v\u00e1lida para recoger su clave Steam. \u00a1Disfrutar!",
-         "Desde": "",
-         "Hasta": "2023/09/20 15:00",
-         "URL": "https://www.fanatical.com/es/game/crumble",
-         "IMG": "https://fanatical.imgix.net/product/original/73307ef2-2591-4b3e-a117-26e6d9f782d8.jpeg?auto=compress,format&w=430&fit=crop&h=242",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Nscar.Drive by ABXT Studio Corporation",
-         "Informacion": "Nueva actualizaci\u00f3n:",
-         "Desde": "",
-         "Hasta": "2023/09/20 23:00",
-         "URL": "https://axbt-studio-corporation.itch.io/nscardrivepc",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc2MTczNS8xMzEzNjE1NC5wbmc=/347x500/x9RYuk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Wondefox HD Video Converter Factory Pro License Key Free",
-         "Informacion": "WonderFox HD Video Converter Factory Pro es un programa para convertir archivos de v\u00eddeo. Con esta aplicaci\u00f3n, podr\u00e1s convertir f\u00e1cil y r\u00e1pidamente v\u00eddeos almacenados en definici\u00f3n est\u00e1ndar a alta definici\u00f3n. Tambi\u00e9n le permite adaptar materiales cinematogr\u00e1ficos para reproducirlos en tel\u00e9fonos inteligentes, tabletas y reproductores de DVD de escritorio.",
-         "Desde": "",
-         "Hasta": "2023/09/21 00:00",
-         "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/wonderfox-hd-video-converter-factory-pro-screenshot.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "HubWorld by Jeremy Ulrich",
-         "Informacion": "HubWorld es un relajante juego de exploraci\u00f3n en primera persona centrado en el dise\u00f1o visual, la novedad y la facilidad de uso.",
-         "Desde": "",
-         "Hasta": "2023/09/21 06:00",
-         "URL": "https://jeremy-ulrich.itch.io/hubworld",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQzNDU0LzQ3NDUxMDIucG5n/347x500/488jDe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Particle by Jeremy Ulrich",
-         "Informacion": "Particle es un juego de disparos con dos palos en el que esquivas y destruyes enemigos. Recoge objetos y sobrevive el mayor tiempo posible para alcanzar una nueva puntuaci\u00f3n alta.",
-         "Desde": "",
-         "Hasta": "2023/09/21 06:00",
-         "URL": "https://jeremy-ulrich.itch.io/particle",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyNDk5NC8xMjUxNjU2OS5wbmc=/347x500/aRyFFb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Easy Photo Unblur 8",
-         "Informacion": "Corrija sus fotos borrosas, \u00a1con solo un clic!",
-         "Desde": "",
-         "Hasta": "2023/09/21 09:00",
-         "URL": "https://sharewareonsale.com/s/free-easy-photo-unblur-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/12/EPU-en-box-big-188x200.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "FastMove",
-         "Informacion": "\u00a1Mueva sus archivos, carpetas, software y configuraciones a su nueva computadora con Windows con FastMove!",
-         "Desde": "",
-         "Hasta": "2023/09/21 09:00",
-         "URL": "https://sharewareonsale.com/s/free-fastmove-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/09/unnamed-1.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "1943 by Magnus Froelund",
          "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
@@ -79,7 +9,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Froelund",
@@ -89,7 +19,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Asteroids by Magnus Froelund",
@@ -99,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/asteroids",
          "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Desktop Car by Magnus Froelund",
@@ -109,7 +39,7 @@
          "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Froelund",
@@ -119,7 +49,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
@@ -129,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "DarkViperAU The Game by Magnus Froelund",
@@ -139,7 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Froelund",
@@ -149,7 +79,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "The Drifters by Magnus Froelund",
@@ -159,7 +89,7 @@
          "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "911 Operator",
@@ -169,7 +99,7 @@
          "URL": "https://store.epicgames.com/p/911-operator-585edd",
          "IMG": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-omkv7.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Ant Download Manager PRO",
@@ -179,7 +109,7 @@
          "URL": "https://sharewareonsale.com/s/ant-download-manager-giveaway-coupon-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/11/antbox-150x200.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "PPTube Video Downloader",
@@ -189,7 +119,17 @@
          "URL": "https://sharewareonsale.com/s/free-pptube-video-downloader-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/pptube-giveaway.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "PC WorkBreak",
+         "Informacion": "Reduzca el riesgo de sufrir lesiones debido a la inform\u00e1tica extrema",
+         "Desde": "",
+         "Hasta": "2023/09/22 09:00",
+         "URL": "https://www.bitsdujour.com/software/pc-workbreak/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/pc-workbreak-ajhao.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "1 More Story To Go by ROCK-O",
@@ -212,12 +152,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Door! 4 by Nitish Thombre",
-         "Informacion": "Un ni\u00f1o solo en su habitaci\u00f3n, durmiendo, de repente ocurre una tormenta y se despierta. Se encuentra en una habitaci\u00f3n completamente diferente, ahora busca alguna manera de sacarlo de esta casa, pero encontr\u00f3 una habitaci\u00f3n desconocida con paredes y techo cubiertos de TEJAS. Y conoci\u00f3...",
+         "Nombre": "The Door! 2 by Nitish Thombre",
+         "Informacion": "Este juego hecho para Speed \u200b\u200bRun -_-",
          "Desde": "",
          "Hasta": "2023/09/22 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-4",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
+         "URL": "https://nitish-thombre.itch.io/the-door-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -232,12 +172,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Door! 2 by Nitish Thombre",
-         "Informacion": "Este juego hecho para Speed \u200b\u200bRun -_-",
+         "Nombre": "The Door! 4 by Nitish Thombre",
+         "Informacion": "Un ni\u00f1o solo en su habitaci\u00f3n, durmiendo, de repente ocurre una tormenta y se despierta. Se encuentra en una habitaci\u00f3n completamente diferente, ahora busca alguna manera de sacarlo de esta casa, pero encontr\u00f3 una habitaci\u00f3n desconocida con paredes y techo cubiertos de TEJAS. Y conoci\u00f3...",
          "Desde": "",
          "Hasta": "2023/09/22 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
+         "URL": "https://nitish-thombre.itch.io/the-door-4",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -248,6 +188,16 @@
          "Hasta": "2023/09/22 20:30",
          "URL": "https://nitish-thombre.itch.io/the-door",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2023/09/23 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -272,13 +222,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Nombre": "1500 High Resolution Backgrounds Bundle",
+         "Informacion": "Crea dise\u00f1os incre\u00edbles que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que tambi\u00e9n te permitir\u00e1n trabajar con tu imaginaci\u00f3n para crear algo divertido y genial.",
          "Desde": "",
-         "Hasta": "2023/09/23 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
-         "Distribuidora": "Itch io",
+         "Hasta": "2023/09/23 09:00",
+         "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -412,6 +362,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Super Plaskacz by Voxelvoid",
+         "Informacion": "Este juego s\u00f3lo est\u00e1 en polaco por el momento.",
+         "Desde": "",
+         "Hasta": "2023/09/28 15:40",
+         "URL": "https://voxelvoid.itch.io/super-plaskacz",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxODE3My8xMzEzNDM4NC5wbmc=/347x500/2kHl7T.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Out of Line",
          "Informacion": "A unique adventure game filled with beautiful puzzles all hand-drawn in a unique 2D style . Out of Line follows the adventures of San in a quest to escape the Factory that was once home. Dive into a story set in a mysterious world that is revealed through multiple chapters.",
          "Desde": "2023/09/21",
@@ -419,7 +379,7 @@
          "URL": "https://store.epicgames.com/p/out-of-line-209cbb",
          "IMG": "https://cdn1.epicgames.com/spt/8b4ecd70-a418-480e-b59c-e7f94f05d449/out-of-line-offer-4a5df3c7.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "The Forest Quartet",
@@ -429,7 +389,7 @@
          "URL": "https://store.epicgames.com/p/forest-quartet-5d03e3",
          "IMG": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-ncqa1.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Apeaksoft iPhone Transfer Registration Code 1-Year Free",
@@ -522,6 +482,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Laserfield by isikenes",
+         "Informacion": "\u00a1Bienvenidos a Laserfield! Prep\u00e1rate para ser el heroico capit\u00e1n de una nave espacial en un viaje lleno de acci\u00f3n por el espacio. Usa tus ca\u00f1ones l\u00e1ser para derribar naves espaciales enemigas en una emocionante batalla entre las estrellas. Mejora tu nave espacial para obtener a\u00fan m\u00e1s potencia mientras te enfrentas a desaf\u00edos infinitos. Evade r\u00e1pidamente los ataques enemigos y demuestra tus habilidades. \u00bfEst\u00e1s preparado para la aventura c\u00f3smica de tu vida? \u00a1Toma el control ahora y demuestra que eres el mejor as espacial! \u00a1Participa y emb\u00e1rcate en esta emocionante misi\u00f3n!",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://isikenes.itch.io/laserfield",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4NjkxNC8xMjkxNTIwNi5wbmc=/347x500/PCzJuP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Maze by AL7USSAIN",
          "Informacion": "Movimiento WASD",
          "Desde": "",
@@ -538,6 +508,16 @@
          "Hasta": "2023/09/29 23:00",
          "URL": "https://al7ussain.itch.io/maze",
          "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Medieval After Summer - demo by SereDim",
+         "Informacion": "Antes de la batalla, tienes una opci\u00f3n: saltar o atacar a un enemigo, despu\u00e9s de la victoria, una opci\u00f3n: recoger uno de los objetos del enemigo o mejorar el tuyo.",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://seredim.itch.io/medieval-after-summer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MDc3NC8xMjc5MjMyOC5wbmc=/347x500/r4Fhv4.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -622,26 +602,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Laserfield by isikenes",
-         "Informacion": "\u00a1Bienvenidos a Laserfield! Prep\u00e1rate para ser el heroico capit\u00e1n de una nave espacial en un viaje lleno de acci\u00f3n por el espacio. Usa tus ca\u00f1ones l\u00e1ser para derribar naves espaciales enemigas en una emocionante batalla entre las estrellas. Mejora tu nave espacial para obtener a\u00fan m\u00e1s potencia mientras te enfrentas a desaf\u00edos infinitos. Evade r\u00e1pidamente los ataques enemigos y demuestra tus habilidades. \u00bfEst\u00e1s preparado para la aventura c\u00f3smica de tu vida? \u00a1Toma el control ahora y demuestra que eres el mejor as espacial! \u00a1Participa y emb\u00e1rcate en esta emocionante misi\u00f3n!",
-         "Desde": "",
-         "Hasta": "2023/09/29 23:00",
-         "URL": "https://isikenes.itch.io/laserfield",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4NjkxNC8xMjkxNTIwNi5wbmc=/347x500/PCzJuP.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Medieval After Summer - demo by SereDim",
-         "Informacion": "Antes de la batalla, tienes una opci\u00f3n: saltar o atacar a un enemigo, despu\u00e9s de la victoria, una opci\u00f3n: recoger uno de los objetos del enemigo o mejorar el tuyo.",
-         "Desde": "",
-         "Hasta": "2023/09/29 23:00",
-         "URL": "https://seredim.itch.io/medieval-after-summer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MDc3NC8xMjc5MjMyOC5wbmc=/347x500/r4Fhv4.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "2D ZooM 1.5 by Durant dev",
          "Informacion": "",
          "Desde": "",
@@ -712,6 +672,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "SCAFFOLDEDGE by Snekjar",
+         "Informacion": "Al liberar el cubo, el humilde tap\u00f3n lanza sus rayos de borde, armando paneles en cascada de creaci\u00f3n. La danza entre lo micro y lo macro cincela el lienzo de los universos, revelando y construyendo sus secretos, explorando capas de infinitos infinitos #gaming",
+         "Desde": "",
+         "Hasta": "2023/09/30 00:00",
+         "URL": "https://snekjar.itch.io/scaffoldedge",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTA4MC8xMzA4NDQ0MC5qcGc=/347x500/NWACZZ.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Sky Lab Defender by KasperV",
          "Informacion": "Defensor del laboratorio a\u00e9reo",
          "Desde": "",
@@ -738,16 +708,6 @@
          "Hasta": "2023/09/30 00:00",
          "URL": "https://durant.itch.io/minesweeper-petal",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "SCAFFOLDEDGE by Snekjar",
-         "Informacion": "Al liberar el cubo, el humilde tap\u00f3n lanza sus rayos de borde, armando paneles en cascada de creaci\u00f3n. La danza entre lo micro y lo macro cincela el lienzo de los universos, revelando y construyendo sus secretos, explorando capas de infinitos infinitos #gaming",
-         "Desde": "",
-         "Hasta": "2023/09/30 00:00",
-         "URL": "https://snekjar.itch.io/scaffoldedge",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTA4MC8xMzA4NDQ0MC5qcGc=/347x500/NWACZZ.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1008,6 +968,16 @@
          "Hasta": "2023/09/30 19:00",
          "URL": "https://munegames.itch.io/freeze-target",
          "IMG": "https://img.itch.zone/aW1nLzQ1ODg1NTYuanBn/347x500/nCKui9.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SpiderKiller by Mainc",
+         "Informacion": "Demostraci\u00f3n de GTK:",
+         "Desde": "",
+         "Hasta": "2023/10/01 00:00",
+         "URL": "https://mainc.itch.io/spiderkiller",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1ODE5My8xMzM2ODI0Ni5wbmc=/347x500/JsDmfn.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1532,6 +1502,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Particle by Jeremy Ulrich",
+         "Informacion": "Particle es un juego de disparos con dos palos en el que esquivas y destruyes enemigos. Recoge objetos y sobrevive el mayor tiempo posible para alcanzar una nueva puntuaci\u00f3n alta.",
+         "Desde": "",
+         "Hasta": "2023/10/01 06:00",
+         "URL": "https://jeremy-ulrich.itch.io/particle",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyNDk5NC8xMjUxNjU2OS5wbmc=/347x500/aRyFFb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HubWorld by Jeremy Ulrich",
+         "Informacion": "HubWorld es un relajante juego de exploraci\u00f3n en primera persona centrado en el dise\u00f1o visual, la novedad y la facilidad de uso.",
+         "Desde": "",
+         "Hasta": "2023/10/01 06:00",
+         "URL": "https://jeremy-ulrich.itch.io/hubworld",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDQzNDU0LzQ3NDUxMDIucG5n/347x500/488jDe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "iTop VPN VIP Account License Key for Free 2023",
          "Informacion": "Existen varios servicios VPN repletos de funciones ilimitadas. Despu\u00e9s de todo, iTop VPN podr\u00eda ser una de tus preferencias. iTop VPN est\u00e1 configurado para evitar las restricciones geogr\u00e1ficas y acceder gratuitamente a cualquier sitio web en todo el mundo. Alternativamente, oculta su direcci\u00f3n IP para proteger su informaci\u00f3n y datos personales mientras navega. Proporciona a los usuarios tres protocolos, incluidos TCP, UDP y HTTPS, para adaptarse a diferentes prop\u00f3sitos. Tambi\u00e9n clasifica los servidores dedicados en 4 categor\u00edas: para descarga, para transmisi\u00f3n, para redes sociales y para juegos, para que pueda encontrar los servidores dedicados f\u00e1cilmente.",
          "Desde": "",
@@ -1548,6 +1538,16 @@
          "Hasta": "2023/10/05 17:00",
          "URL": "https://store.epicgames.com/p/model-builder-f9b456",
          "IMG": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-ymmta.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Soulstice",
+         "Informacion": "Explora un mundo sombr\u00edo repleto de misterios ocultos, domina un variado sistema de combate y experimenta las fuerzas duales de dos hermanas en una historia de fantas\u00eda oscura sobre el paso de la ni\u00f1ez a la adultez cargada de acci\u00f3n trepidante, enemigos despiadados y espectaculares combates contra jefes.",
+         "Desde": "2023/09/28",
+         "Hasta": "2023/10/05 17:00",
+         "URL": "https://store.epicgames.com/p/soulstice",
+         "IMG": "https://cdn1.epicgames.com/offer/cb8afc06acb14f6a8cf3ab01f4b361ce/EGS_Soulstice_ReplyGameStudios_S1_2560x1440-dd33485a66a99704353c5ab09183612d",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
