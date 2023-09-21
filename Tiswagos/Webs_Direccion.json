@@ -1,5 +1,5 @@
 {
-   "date_update": "20 Sep 2023 16:01 UTC",
+   "date_update": "21 Sep 2023 16:01 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3554,6 +3554,9 @@
          "Direccion": "0.0.0.0 adblock-zen-download.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 adblocked-supreme.net #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 adblockenterpriseedition.com #AntiSpam"
       },
       {
@@ -3708,6 +3711,9 @@
       },
       {
          "Direccion": "0.0.0.0 multiadblock.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 parthyptead.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 popupblockergold.com #AntiSpam"
