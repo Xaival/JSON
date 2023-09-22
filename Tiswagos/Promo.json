@@ -1,136 +1,6 @@
 {
-   "date_update": "21 Sep 2023 16:01 UTC",
+   "date_update": "22 Sep 2023 16:02 UTC",
    "values": [
-      {
-         "Nombre": "1943 by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:55",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:55",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Froelund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:55",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Froelund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:55",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:56",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:56",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "DarkViperAU The Game by Magnus Froelund",
-         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:56",
-         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:56",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Froelund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
-         "Desde": "",
-         "Hasta": "2023/09/21 16:56",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "911 Operator",
-         "Informacion": "911 OPERATOR es un juego en el que te convertir\u00e1s en un operador de una l\u00ednea de emergencias, donde tendr\u00e1s que resolver complicadas tareas, proporcionando instrucciones y enviando a unidades de emergencia. \u00a1Juega con el mapa de cualquier ciudad del mundo!",
-         "Desde": "2023/09/14",
-         "Hasta": "2023/09/21 17:00",
-         "URL": "https://store.epicgames.com/p/911-operator-585edd",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-omkv7.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Ant Download Manager PRO",
-         "Informacion": "Ant Download Manager (AntDM) es una herramienta que le permite aumentar repetidamente la velocidad de descarga de archivos debido a m\u00faltiples flujos de descarga, reanudar, programar descargas, capturar y descargar flujos de audio y video.",
-         "Desde": "",
-         "Hasta": "2023/09/22 09:00",
-         "URL": "https://sharewareonsale.com/s/ant-download-manager-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/11/antbox-150x200.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "PPTube Video Downloader",
-         "Informacion": "Descarga ilimitada de videos 1080p/4K desde m\u00e1s de 10,000 sitios web de transmisi\u00f3n de video/m\u00fasica",
-         "Desde": "",
-         "Hasta": "2023/09/22 09:00",
-         "URL": "https://sharewareonsale.com/s/free-pptube-video-downloader-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/pptube-giveaway.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "PC WorkBreak",
-         "Informacion": "Reduzca el riesgo de sufrir lesiones debido a la inform\u00e1tica extrema",
-         "Desde": "",
-         "Hasta": "2023/09/22 09:00",
-         "URL": "https://www.bitsdujour.com/software/pc-workbreak/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/pc-workbreak-ajhao.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "1 More Story To Go by ROCK-O",
          "Informacion": "Este es un juego de historia interactivo basado en texto que actualmente incluye 1 historia, STALKER.",
@@ -139,7 +9,7 @@
          "URL": "https://rockodagamer.itch.io/1-more-story-to-go",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjAyNjgwNS8xMjQ3MDQ2Ny5wbmc=/347x500/W0HZJr.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
       },
       {
          "Nombre": "The Decompiled Ultimate Collection by ROCK-O",
@@ -149,7 +19,7 @@
          "URL": "https://rockodagamer.itch.io/the-decompiled-ultimate-collection",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjExNDg0OC8xMjQ3MDUzOS5wbmc=/347x500/2Kv7t%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
       },
       {
          "Nombre": "The Door! 2 by Nitish Thombre",
@@ -159,7 +29,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! 3 by Nitish Thombre",
@@ -169,7 +39,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-3",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! 4 by Nitish Thombre",
@@ -179,7 +49,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-4",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! by Nitish Thombre",
@@ -189,7 +59,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -199,7 +69,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -209,7 +79,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -219,7 +89,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "1500 High Resolution Backgrounds Bundle",
@@ -229,7 +99,17 @@
          "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "IObit Uninstaller",
+         "Informacion": "Eliminar aplicaciones no deseadas y archivos basura",
+         "Desde": "",
+         "Hasta": "2023/09/23 09:00",
+         "URL": "https://www.bitsdujour.com/software/iobit-uninstaller/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/iobit-uninstaller-wmssn.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Crowie's Forest(full version, Work In Progress) by Ra4ok_Dev",
@@ -259,6 +139,16 @@
          "URL": "https://store.steampowered.com/app/71240/SEGA_Bass_Fishing/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/71240/header.jpg",
          "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster Android Backup Manager License Key Free 2023",
+         "Informacion": "Coolmuster Android Backup Manager es un software de copia de seguridad y restauraci\u00f3n de Android que le permite realizar copias de seguridad y restaurar dispositivos Android con un solo clic. Escanea r\u00e1pidamente y enumera todos los archivos de copia de seguridad que ha realizado en su computadora; puede elegir libremente restaurar cualquier archivo de copia de seguridad de la lista y cualquier tipo de archivo de destino en cualquier dispositivo Android conectado.",
+         "Desde": "",
+         "Hasta": "2023/09/25 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-backup-manager-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/12/coolmuster-android-backup-manager-giveaway-license-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -292,6 +182,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Small RPG by b._.render",
+         "Informacion": "En este juego de acci\u00f3n y aventuras sobre el capitalismo te encontrar\u00e1s en casa aburrido cuando de repente ya no puedes quedarte sentado y sales a buscar el tuyo. Tus luchas te llevar\u00e1n a hamburgueser\u00edas, casas trampa y, lo peor de todo, al banco...",
+         "Desde": "",
+         "Hasta": "2023/09/25 06:00",
+         "URL": "https://b-render.itch.io/small-rpg",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTYyODgyMC8xMzIyMTU3MC5wbmc=/347x500/%2Bp28K1.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo WinOptimizer 2023",
          "Informacion": "Ashampoo WinOptimizer 2023 proporciona mejoras efectivas para un Windows m\u00e1s r\u00e1pido, \u00e1gil y seguro. M\u00e1s de 20 m\u00f3dulos de programa lo convierten en la caja de herramientas de software definitiva.",
          "Desde": "",
@@ -319,6 +219,96 @@
          "URL": "https://store.epicgames.com/p/gloomhaven-92f741",
          "IMG": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Froelund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DarkViperAU The Game by Magnus Froelund",
+         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Froelund",
+         "Informacion": "Coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms: Uncovered by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Froelund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -399,6 +389,16 @@
          "URL": "https://giveaway.tickcoupon.com/apeaksoft-iphone-transfer-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/apeaksoft-iphone-transfer-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Macrorit Partition Expert Pro Edition 7",
+         "Informacion": "Como el \u00faltimo software alternativo a la magia de partici\u00f3n, Partition Expert proporciona potentes funciones que permiten a los usuarios ampliar la partici\u00f3n del sistema, cambiar el tama\u00f1o, mover particiones, crear, formatear y eliminar particiones con facilidad; Adem\u00e1s, tambi\u00e9n posee la tecnolog\u00eda \u00fanica de protecci\u00f3n de datos y el mejor algoritmo de movimiento de datos para garantizar datos 100% seguros y la velocidad de movimiento de partici\u00f3n de datos m\u00e1s r\u00e1pida.",
+         "Desde": "",
+         "Hasta": "2023/09/29 09:00",
+         "URL": "https://sharewareonsale.com/s/free-macrorit-disk-partition-expert-pro-edition-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/07/new_version-200x146.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -709,6 +709,16 @@
          "URL": "https://durant.itch.io/minesweeper-petal",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Apeaksoft WhatsApp Transfer License Key Free",
+         "Informacion": "Apeaksoft WhatsApp Transfer es una poderosa herramienta de administraci\u00f3n de tel\u00e9fonos que le ofrece una interfaz f\u00e1cil de usar con solo un clic para transferir sus datos de WhatsApp entre dispositivos iOS. Al usarlo, puede transferir f\u00e1cilmente sus chats, audio, fotos, videos, contactos, etc. de WhatsApp completamente de un dispositivo iOS a otro sin p\u00e9rdida de datos.",
+         "Desde": "",
+         "Hasta": "2023/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/apeaksoft-whatsapp-transfer-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/08/Apeaksoft-WhatsApp-Transfer-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1502,6 +1512,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "HubWorld by Jeremy Ulrich",
+         "Informacion": "HubWorld es un relajante juego de exploraci\u00f3n en primera persona centrado en el dise\u00f1o visual, la novedad y la facilidad de uso.",
+         "Desde": "",
+         "Hasta": "2023/10/01 06:00",
+         "URL": "https://jeremy-ulrich.itch.io/hubworld",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDQzNDU0LzQ3NDUxMDIucG5n/347x500/488jDe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Particle by Jeremy Ulrich",
          "Informacion": "Particle es un juego de disparos con dos palos en el que esquivas y destruyes enemigos. Recoge objetos y sobrevive el mayor tiempo posible para alcanzar una nueva puntuaci\u00f3n alta.",
          "Desde": "",
@@ -1512,12 +1532,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "HubWorld by Jeremy Ulrich",
-         "Informacion": "HubWorld es un relajante juego de exploraci\u00f3n en primera persona centrado en el dise\u00f1o visual, la novedad y la facilidad de uso.",
+         "Nombre": "PINFALL by garbo111",
+         "Informacion": "Jump King con un n\u00facleo SMW, que recibe una gran influencia de los hacks: 32 pantallas de plataformas de precisi\u00f3n de alto riesgo muy repletas. La primera finalizaci\u00f3n dura entre 6 y 8 horas; Mi mejor marca personal es 12 minutos.",
          "Desde": "",
-         "Hasta": "2023/10/01 06:00",
-         "URL": "https://jeremy-ulrich.itch.io/hubworld",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQzNDU0LzQ3NDUxMDIucG5n/347x500/488jDe.png",
+         "Hasta": "2023/10/01 08:00",
+         "URL": "https://garbo111.itch.io/pinfall",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjEzOTQ1Ni8xMjY0NTE3Ny5wbmc=/347x500/gT4FRB.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1668,6 +1688,16 @@
          "Hasta": "2023/10/25 17:00",
          "URL": "https://store.epicgames.com/p/destiny-2",
          "IMG": "https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/ES_Bungie_Bungie_30th_Anniversary_Pack_S3_2560x1440_2560x1440-f3a32d6368ac1a89bf18d17be772ffa0",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "911 Operator",
+         "Informacion": "911 OPERATOR es un juego en el que te convertir\u00e1s en un operador de una l\u00ednea de emergencias, donde tendr\u00e1s que resolver complicadas tareas, proporcionando instrucciones y enviando a unidades de emergencia. \u00a1Juega con el mapa de cualquier ciudad del mundo!",
+         "Desde": "2023/10/23",
+         "Hasta": "2023/10/30 17:00",
+         "URL": "https://store.epicgames.com/p/911-operator-585edd",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-omkv7.jpg",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
@@ -1998,6 +2028,16 @@
          "Hasta": "3467/11/12 16:00",
          "URL": "https://www.gog.com/en/game/requiem_avenging_angel",
          "IMG": "https://images.gog-statics.com/b87f0e05c48ab853637ab9a486560b3f8e1d3bd56a4e944d1e29528cde80cbfe.jpg",
+         "Distribuidora": "GOG",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Night of the Rabbit",
+         "Informacion": "Pi\u00e9rdete en una historia de magia y maravillas, donde todo es posible y donde nada es lo que parece: \u00fanete al joven Jerry y sigue a un peculiar conejo blanco hasta el maravilloso reino de Mousewood, una tierra donde las criaturas pueden hablar y donde abunda el misterio. Es aqu\u00ed donde Jerry sue\u00f1a de ser...",
+         "Desde": "",
+         "Hasta": "3506/03/13 16:00",
+         "URL": "https://www.gog.com/en/game/the_night_of_the_rabbit",
+         "IMG": "https://images.gog-statics.com/f56d3261eac9291076d63afea4f246957f23a80c8d257813d2b17bb0e6fcf286.jpg",
          "Distribuidora": "GOG",
          "Borde": "border-color: #00ff00;"
       }
