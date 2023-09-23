@@ -1,115 +1,15 @@
 {
-   "date_update": "22 Sep 2023 16:02 UTC",
+   "date_update": "23 Sep 2023 16:02 UTC",
    "values": [
       {
-         "Nombre": "1 More Story To Go by ROCK-O",
-         "Informacion": "Este es un juego de historia interactivo basado en texto que actualmente incluye 1 historia, STALKER.",
+         "Nombre": "Kick To Hell by Caramel Games",
+         "Informacion": "SINOPSIS",
          "Desde": "",
-         "Hasta": "2023/09/22 17:32",
-         "URL": "https://rockodagamer.itch.io/1-more-story-to-go",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAyNjgwNS8xMjQ3MDQ2Ny5wbmc=/347x500/W0HZJr.png",
+         "Hasta": "2023/09/23 18:59",
+         "URL": "https://caramelgames.itch.io/kick-to-hell",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxOTQzMS8xMzE0MTMyOC5naWY=/347x500/C25rtd.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
-      },
-      {
-         "Nombre": "The Decompiled Ultimate Collection by ROCK-O",
-         "Informacion": "\u00a1Bienvenido a Decompiled Ultimate Collection, una colecci\u00f3n de mis juegos (7 de ellos) que nunca he publicado!",
-         "Desde": "",
-         "Hasta": "2023/09/22 17:32",
-         "URL": "https://rockodagamer.itch.io/the-decompiled-ultimate-collection",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjExNDg0OC8xMjQ3MDUzOS5wbmc=/347x500/2Kv7t%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
-      },
-      {
-         "Nombre": "The Door! 2 by Nitish Thombre",
-         "Informacion": "Este juego hecho para Speed \u200b\u200bRun -_-",
-         "Desde": "",
-         "Hasta": "2023/09/22 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! 3 by Nitish Thombre",
-         "Informacion": "\u00a1Este es un juego m\u00e1s dif\u00edcil que The Door! 2\u00a0\u00a1porque es La Puerta! 3",
-         "Desde": "",
-         "Hasta": "2023/09/22 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! 4 by Nitish Thombre",
-         "Informacion": "Un ni\u00f1o solo en su habitaci\u00f3n, durmiendo, de repente ocurre una tormenta y se despierta. Se encuentra en una habitaci\u00f3n completamente diferente, ahora busca alguna manera de sacarlo de esta casa, pero encontr\u00f3 una habitaci\u00f3n desconocida con paredes y techo cubiertos de TEJAS. Y conoci\u00f3...",
-         "Desde": "",
-         "Hasta": "2023/09/22 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-4",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! by Nitish Thombre",
-         "Informacion": "\u00a1Este juego est\u00e1 hecho para ser el juego m\u00e1s dif\u00edcil del mundo!",
-         "Desde": "",
-         "Hasta": "2023/09/22 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2023/09/23 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
-         "Desde": "",
-         "Hasta": "2023/09/23 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
-         "Desde": "",
-         "Hasta": "2023/09/23 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "1500 High Resolution Backgrounds Bundle",
-         "Informacion": "Crea dise\u00f1os incre\u00edbles que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que tambi\u00e9n te permitir\u00e1n trabajar con tu imaginaci\u00f3n para crear algo divertido y genial.",
-         "Desde": "",
-         "Hasta": "2023/09/23 09:00",
-         "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "IObit Uninstaller",
-         "Informacion": "Eliminar aplicaciones no deseadas y archivos basura",
-         "Desde": "",
-         "Hasta": "2023/09/23 09:00",
-         "URL": "https://www.bitsdujour.com/software/iobit-uninstaller/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/iobit-uninstaller-wmssn.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Crowie's Forest(full version, Work In Progress) by Ra4ok_Dev",
@@ -119,7 +19,7 @@
          "URL": "https://ra4ok-dev.itch.io/crowies-forestprologue-work-in-progress",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk2NDU5Mi8xMjAwODc2NC5wbmc=/347x500/8AuVCT.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "CutOut 8",
@@ -129,7 +29,7 @@
          "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "SEGA Bass Fishing",
@@ -222,12 +122,92 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Drifters by Magnus Froelund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Nombre": "BLIODNIUM by TalyBayStudios",
+         "Informacion": "En \"Bliodnium\" controlas una bolita en un entorno de gravedad cero, superas obst\u00e1culos y dominas cada nivel. \u00bfPuede?",
+         "Desde": "",
+         "Hasta": "2023/09/25 17:00",
+         "URL": "https://talybaystudios.itch.io/bliodnium",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyODI2OC8xMjgyMjY1NS5naWY=/347x500/d60Sbw.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MECH ZERO: Lost in Space by TalyBayStudios",
+         "Informacion": "MECH ZERO: Lost in Space es un juego de acci\u00f3n Hack'n'Slash en el que controlas a un robot que est\u00e1 huyendo debido a que es una m\u00e1quina de destrucci\u00f3n masiva, es decir, fue programada para matar.",
+         "Desde": "",
+         "Hasta": "2023/09/25 17:00",
+         "URL": "https://talybaystudios.itch.io/mech-zero-lost-in-space",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2NDM0Ni85MTA1MjA3LmpwZw==/347x500/JS3Ria.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Puzzle Box Island by Puzzle Box Island",
+         "Informacion": "Aventura tipo Myst de dificultad media",
+         "Desde": "",
+         "Hasta": "2023/09/25 20:59",
+         "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjExNzAwOS8xMjQ4NTE2NC5wbmc=/347x500/FctiDD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wise Data Recovery PRO",
+         "Informacion": "Herramienta profesional de recuperaci\u00f3n de datos",
+         "Desde": "",
+         "Hasta": "2023/09/26 09:00",
+         "URL": "https://sharewareonsale.com/s/free-wise-data-recovery-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/wisedatarecoveryfree-icon-200x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
          "Desde": "",
          "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Froelund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -252,26 +232,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Are you There? by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "The backrooms: Uncovered by Magnus Froelund",
          "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
          "Desde": "",
@@ -282,32 +242,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
+         "Nombre": "The Drifters by Magnus Froelund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
          "Desde": "",
          "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "1943 by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Froelund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -438,6 +378,16 @@
          "Hasta": "2023/09/29 19:00",
          "URL": "https://udong-na.itch.io/card-castle",
          "IMG": "https://img.itch.zone/aW1nLzEzMzAzMTQ1LnBuZw==/347x500/o0GQ8R.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fatal  Strike Zombie Shooter by ZK Creations",
+         "Informacion": "[Fatal Strike Zombie Shooter - Juego para PC con Windows]",
+         "Desde": "",
+         "Hasta": "2023/09/29 20:30",
+         "URL": "https://zk-creations.itch.io/fatalstrike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI1Nzg0Ny8xMzM5MjQzNy5wbmc=/347x500/uq9BFK.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -622,6 +572,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Apeaksoft WhatsApp Transfer License Key Free",
+         "Informacion": "Apeaksoft WhatsApp Transfer es una poderosa herramienta de administraci\u00f3n de tel\u00e9fonos que le ofrece una interfaz f\u00e1cil de usar con solo un clic para transferir sus datos de WhatsApp entre dispositivos iOS. Al usarlo, puede transferir f\u00e1cilmente sus chats, audio, fotos, videos, contactos, etc. de WhatsApp completamente de un dispositivo iOS a otro sin p\u00e9rdida de datos.",
+         "Desde": "",
+         "Hasta": "2023/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/apeaksoft-whatsapp-transfer-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/08/Apeaksoft-WhatsApp-Transfer-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ball Down Hill by KasperV",
          "Informacion": "Meta:",
          "Desde": "",
@@ -709,16 +669,6 @@
          "URL": "https://durant.itch.io/minesweeper-petal",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Apeaksoft WhatsApp Transfer License Key Free",
-         "Informacion": "Apeaksoft WhatsApp Transfer es una poderosa herramienta de administraci\u00f3n de tel\u00e9fonos que le ofrece una interfaz f\u00e1cil de usar con solo un clic para transferir sus datos de WhatsApp entre dispositivos iOS. Al usarlo, puede transferir f\u00e1cilmente sus chats, audio, fotos, videos, contactos, etc. de WhatsApp completamente de un dispositivo iOS a otro sin p\u00e9rdida de datos.",
-         "Desde": "",
-         "Hasta": "2023/09/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/apeaksoft-whatsapp-transfer-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/08/Apeaksoft-WhatsApp-Transfer-Giveaway.png",
-         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1512,6 +1462,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2023/10/01 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2023/10/01 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2023/10/01 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HubWorld by Jeremy Ulrich",
          "Informacion": "HubWorld es un relajante juego de exploraci\u00f3n en primera persona centrado en el dise\u00f1o visual, la novedad y la facilidad de uso.",
          "Desde": "",
@@ -1618,6 +1598,26 @@
          "Hasta": "2023/10/08 00:00",
          "URL": "https://giveaway.tickcoupon.com/hitpaw-screen-recorder-free-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/hitpaw-screen-recorder-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft OCR Reader License Key Free 2023 Giveaway",
+         "Informacion": "Cuando desee convertir el texto de sus im\u00e1genes o escritura a mano en una copia digital, usemos Vovsoft OCR Reader, un programa de conversi\u00f3n de imagen a texto, para convertir im\u00e1genes en texto sin escribir con la mano. Esta herramienta permite extraer autom\u00e1ticamente texto de archivos de imagen PNG, JPEG, TIFF, WEBP y BMP.",
+         "Desde": "",
+         "Hasta": "2023/10/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-ocr-reader-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/12/vovsoft-ocr-reader-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Macrorit Partition Expert Pro Edition License Key Free",
+         "Informacion": "Macrorit Partition Expert Pro Edition es un software alternativo a la magia de partici\u00f3n que est\u00e1 dise\u00f1ado para ayudarlo a crear un archivo ISO de arranque, migrar el asistente del sistema operativo, clonar el asistente de disco, cambiar el tama\u00f1o/mover el volumen, fusionar el volumen, copiar el volumen, cambiar la letra de la unidad y cambiar la etiqueta. con facilidad. Adem\u00e1s, puede usarlo para poseer la tecnolog\u00eda \u00fanica de protecci\u00f3n de datos y el mejor algoritmo de movimiento de datos para garantizar datos 100% seguros y la velocidad de movimiento de partici\u00f3n de datos m\u00e1s r\u00e1pida.",
+         "Desde": "",
+         "Hasta": "2023/10/14 00:00",
+         "URL": "https://giveaway.tickcoupon.com/macrorit-partition-expert-pro-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/09/macrorit-partition-expert-pro-edition-license-key-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
