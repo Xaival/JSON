@@ -1,36 +1,6 @@
 {
-   "date_update": "23 Sep 2023 16:02 UTC",
+   "date_update": "24 Sep 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Kick To Hell by Caramel Games",
-         "Informacion": "SINOPSIS",
-         "Desde": "",
-         "Hasta": "2023/09/23 18:59",
-         "URL": "https://caramelgames.itch.io/kick-to-hell",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxOTQzMS8xMzE0MTMyOC5naWY=/347x500/C25rtd.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Crowie's Forest(full version, Work In Progress) by Ra4ok_Dev",
-         "Informacion": "En un d\u00eda normal, est\u00e1s jugando a un sencillo juego de arcade llamado \"Crowie's Forest\", que era un juego dedicado al parque de atracciones del mismo nombre con animales animatr\u00f3nicos y otras atracciones. Una vez que escuchaste a alguno de tus compa\u00f1eros hablar de \"incidentes horribles\" que sucedieron all\u00ed, y que ese fue el motivo del cierre del parque de diversiones, por curiosidad decidiste jugar a este viejo juego que fue rescatado de viejas mercanc\u00edas dedicadas al parque. Bueno, la decisi\u00f3n de jugar este juego sali\u00f3 terriblemente mal... Esos animales de 8 bits no son lo que parecen ser...",
-         "Desde": "",
-         "Hasta": "2023/09/24 09:00",
-         "URL": "https://ra4ok-dev.itch.io/crowies-forestprologue-work-in-progress",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk2NDU5Mi8xMjAwODc2NC5wbmc=/347x500/8AuVCT.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "CutOut 8",
-         "Informacion": "\u00a1Los mejores detalles de imagen, cortes precisos para montajes fotogr\u00e1ficos creativos!",
-         "Desde": "",
-         "Hasta": "2023/09/24 09:00",
-         "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "SEGA Bass Fishing",
          "Informacion": "\u00a1Explora el apasionante deporte de la pesca de lubina! \u00a1Basado en el \u00e9xito de Dreamcast, ve a ocho lugares de pesca diferentes para atrapar las lubinas m\u00e1s grandes y malas posibles! Elige entre catorce se\u00f1uelos diferentes y compite en cuatro torneos. Comience como aficionado y avance hasta convertirse en profesional en el torneo Masters Classic.",
@@ -39,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/71240/SEGA_Bass_Fishing/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/71240/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Coolmuster Android Backup Manager License Key Free 2023",
@@ -49,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-backup-manager-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/12/coolmuster-android-backup-manager-giveaway-license-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Vovsoft Web Platform Identifier License Key Free 2023",
@@ -59,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-web-platform-identifier-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/vovsoft-web-platform-identifier-giveaway-code-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Keep It In The Light by King OB Games",
@@ -69,7 +39,7 @@
          "URL": "https://king0fballoons.itch.io/keep-it-in-the-light",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUzMDE4Ni84OTg1MzQ2LmpwZw==/347x500/eQl7rP.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
       },
       {
          "Nombre": "Bone-ER-Clicker by b._.render",
@@ -79,7 +49,7 @@
          "URL": "https://b-render.itch.io/bone-clicker",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI2ODQ4Mi8xMzQ0NDA5NS5wbmc=/347x500/xrLZ4T.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Small RPG by b._.render",
@@ -89,7 +59,7 @@
          "URL": "https://b-render.itch.io/small-rpg",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTYyODgyMC8xMzIyMTU3MC5wbmc=/347x500/%2Bp28K1.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Ashampoo WinOptimizer 2023",
@@ -99,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2023-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/front-2.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "ThunderSoft GIF Editor",
@@ -109,7 +79,17 @@
          "URL": "https://sharewareonsale.com/s/free-thundersoft-gif-editor-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/screenshot1.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Vole Magic Note Professional Edition",
+         "Informacion": "Crea incre\u00edbles notas multimedia",
+         "Desde": "",
+         "Hasta": "2023/09/25 09:00",
+         "URL": "https://www.bitsdujour.com/software/vole-magic-note/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/vole-magic-note-fvm6n.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Gloomhaven",
@@ -159,6 +139,66 @@
          "URL": "https://sharewareonsale.com/s/free-wise-data-recovery-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/wisedatarecoveryfree-icon-200x200.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Background Remover",
+         "Informacion": "Ashampoo Background Remover recorta objetos autom\u00e1ticamente y facilita el intercambio de fondos. Los objetos tambi\u00e9n se pueden eliminar o agregar manualmente. La detecci\u00f3n inteligente de objetos incorporada supone un gran ahorro de tiempo.",
+         "Desde": "",
+         "Hasta": "2023/09/26 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/image001.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Night in Baiko by GADE",
+         "Informacion": "One Night in Baiko, un juego de terror estilo Psx con efectos nost\u00e1lgicos",
+         "Desde": "",
+         "Hasta": "2023/09/27 22:30",
+         "URL": "https://khoyman.itch.io/one-night-in-baiko",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI3ODEwMC8xMzQ5OTA2OC5wbmc=/347x500/baQMbK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Deepest Frequency by GADE",
+         "Informacion": "The Deepest Frequency es un juego de talasofobia y control de un submarino en las profundidades del Oc\u00e9ano Atl\u00e1ntico.",
+         "Desde": "",
+         "Hasta": "2023/09/27 22:30",
+         "URL": "https://khoyman.itch.io/thedeepestfrequency",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIzNTQ1MC8xMzIzOTE1Ny5qcGc=/347x500/Gl8rnM.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PissMaster by GADE",
+         "Informacion": "Como siempre, Harry est\u00e1 demasiado d\u00e9bil y su tienda es atacada por Jack, y solo desea poder encontrar un poder sobrenatural hasta que ve a Pissopher.",
+         "Desde": "",
+         "Hasta": "2023/09/27 22:30",
+         "URL": "https://khoyman.itch.io/pissmaster",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxOTA2NC8xMzEzMTQ2OC5wbmc=/347x500/XUHwXk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ChronoPhobia_Ep2(TheCross) by GADE",
+         "Informacion": "NOTA: LA VERSI\u00d3N DEMO EST\u00c1 DISPONIBLE A CONTINUACI\u00d3N",
+         "Desde": "",
+         "Hasta": "2023/09/27 22:30",
+         "URL": "https://khoyman.itch.io/chronophobia-ep2thecross",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5OTUzOS8xMzAxMzQ3Mi5qcGc=/347x500/f02fCw.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ChronoPhobia by GADE",
+         "Informacion": "Un d\u00eda te enteras de que tu hermano Harry est\u00e1 enfermo y vas a verlo a Baltimore, que est\u00e1 a 1400 km.",
+         "Desde": "",
+         "Hasta": "2023/09/27 22:30",
+         "URL": "https://khoyman.itch.io/chronophobia",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDkyNC8xMjgzODUwOC5naWY=/347x500/Hya3B1.gif",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -338,6 +378,16 @@
          "Hasta": "2023/09/29 09:00",
          "URL": "https://sharewareonsale.com/s/free-macrorit-disk-partition-expert-pro-edition-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/07/new_version-200x146.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1500 High Resolution Backgrounds Bundle",
+         "Informacion": "Crea dise\u00f1os incre\u00edbles que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que tambi\u00e9n te permitir\u00e1n trabajar con tu imaginaci\u00f3n para crear algo divertido y genial.",
+         "Desde": "",
+         "Hasta": "2023/09/29 09:00",
+         "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -1462,6 +1512,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2023/10/01 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
          "Desde": "",
@@ -1478,16 +1538,6 @@
          "Hasta": "2023/10/01 05:59",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2023/10/01 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1678,6 +1728,26 @@
          "Hasta": "2023/10/18 20:30",
          "URL": "https://artisangames.itch.io/theagent",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Mjg5My8xMjk1NDEzMi5wbmc=/347x500/EnZqb9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vehicle Stunt Simulator VR by RetroVR",
+         "Informacion": "Experimente la emocionante emoci\u00f3n de las carreras y las acrobacias en un autom\u00f3vil JDM con nuestra versi\u00f3n compatible con realidad virtual de Vehicle Stunt Simulator. Sum\u00e9rgete en la acci\u00f3n usando un visor de realidad virtual y controla los autos sin esfuerzo con el teclado y el mouse de tu PC o un gamepad como el controlador de Xbox.",
+         "Desde": "",
+         "Hasta": "2023/10/23 06:00",
+         "URL": "https://retrovr.itch.io/vehicle-stunt-sim-vr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0OTIyMi8xMTQ2MDY5Ni5wbmc=/347x500/aZ8hfZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1942: Spitfire Dogfight VR by RetroVR",
+         "Informacion": "Spitfire fue un avi\u00f3n de combate brit\u00e1nico monoplaza utilizado por los pa\u00edses aliados durante la Segunda Guerra Mundial. \u00bfQu\u00e9 mejor manera de experimentarlo en acci\u00f3n que en realidad virtual? Lucha contra cientos de aviones enemigos y unidades terrestres con tu escuadr\u00f3n Spitfire.",
+         "Desde": "",
+         "Hasta": "2023/10/23 06:00",
+         "URL": "https://retrovr.itch.io/spitfire-dogfight-vr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0NDE0NS8xMTQzMTc2OC5wbmc=/347x500/vCbxas.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
