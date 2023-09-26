@@ -1,66 +1,6 @@
 {
-   "date_update": "25 Sep 2023 16:02 UTC",
+   "date_update": "26 Sep 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Gloomhaven",
-         "Informacion": "Tanto si deseas venir a las tierras de Gloomhaven para ir en busca de aventuras como si lo que te mueve es un \u00e1vido deseo de hallar el fulgor del oro en medio de la oscuridad, con toda seguridad correr\u00e1s la misma suerte...",
-         "Desde": "2023/09/18",
-         "Hasta": "2023/09/25 17:00",
-         "URL": "https://store.epicgames.com/p/gloomhaven-92f741",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "BLIODNIUM by TalyBayStudios",
-         "Informacion": "En \"Bliodnium\" controlas una bolita en un entorno de gravedad cero, superas obst\u00e1culos y dominas cada nivel. \u00bfPuede?",
-         "Desde": "",
-         "Hasta": "2023/09/25 17:00",
-         "URL": "https://talybaystudios.itch.io/bliodnium",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyODI2OC8xMjgyMjY1NS5naWY=/347x500/d60Sbw.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "MECH ZERO: Lost in Space by TalyBayStudios",
-         "Informacion": "MECH ZERO: Lost in Space es un juego de acci\u00f3n Hack'n'Slash en el que controlas a un robot que est\u00e1 huyendo debido a que es una m\u00e1quina de destrucci\u00f3n masiva, es decir, fue programada para matar.",
-         "Desde": "",
-         "Hasta": "2023/09/25 17:00",
-         "URL": "https://talybaystudios.itch.io/mech-zero-lost-in-space",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2NDM0Ni85MTA1MjA3LmpwZw==/347x500/JS3Ria.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Puzzle Box Island by Puzzle Box Island",
-         "Informacion": "Aventura tipo Myst de dificultad media",
-         "Desde": "",
-         "Hasta": "2023/09/25 20:59",
-         "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjExNzAwOS8xMjQ4NTE2NC5wbmc=/347x500/FctiDD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Background Remover",
-         "Informacion": "Ashampoo Background Remover recorta objetos autom\u00e1ticamente y facilita el intercambio de fondos. Los objetos tambi\u00e9n se pueden eliminar o agregar manualmente. La detecci\u00f3n inteligente de objetos incorporada supone un gran ahorro de tiempo.",
-         "Desde": "",
-         "Hasta": "2023/09/26 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/image001.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Wise Data Recovery PRO",
-         "Informacion": "Herramienta profesional de recuperaci\u00f3n de datos",
-         "Desde": "",
-         "Hasta": "2023/09/26 09:00",
-         "URL": "https://sharewareonsale.com/s/free-wise-data-recovery-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/wisedatarecoveryfree-icon-200x200.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Unfinished Games by Vokayl",
          "Informacion": "Encontr\u00e9 estos juegos en una unidad USB que era de mi vecino. Desapareci\u00f3 hace alg\u00fan tiempo y los miembros de su familia pusieron sus cosas en una venta de garaje. S\u00f3lo compr\u00e9 el disco porque lo necesitaba, pero cuando encontr\u00e9 estos juegos decid\u00ed venderlos.",
@@ -69,7 +9,17 @@
          "URL": "https://vokayl.itch.io/unfinished-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI3Nzg3NS8xMzQ5NjA2Ni5wbmc=/347x500/7IYsGU.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "Advanced Recent Access",
+         "Informacion": "Ver y abrir r\u00e1pidamente archivos recientes",
+         "Desde": "",
+         "Hasta": "2023/09/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/advanced-recent-access/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/advanced-recent-access-2vus2.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "ChronoPhobia by GADE",
@@ -232,6 +182,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Selfie Studio 3",
+         "Informacion": "Selfie Studio te proporciona las herramientas creativas para editar tus fotos y obtener el aspecto que deseas. Selfie Studio, un producto de Pixarra de la serie Studio, se basa en el \u00e9xito de otros productos Studio de Pixarra, brind\u00e1ndote una herramienta dedicada a lograr tu visi\u00f3n fotogr\u00e1fica m\u00e1s r\u00e1pido y mejor que otras opciones.",
+         "Desde": "",
+         "Hasta": "2023/09/28 09:00",
+         "URL": "https://sharewareonsale.com/s/free-selfie-studio-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/11/boxshot-selfie-studio-transparent-background_6-200x233.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Tap Battle Challenge by munegames",
          "Informacion": "Toca el desaf\u00edo de batalla para Tiktok",
          "Desde": "",
@@ -252,12 +212,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Selfie Studio 3",
-         "Informacion": "Selfie Studio te proporciona las herramientas creativas para editar tus fotos y obtener el aspecto que deseas. Selfie Studio, un producto de Pixarra de la serie Studio, se basa en el \u00e9xito de otros productos Studio de Pixarra, brind\u00e1ndote una herramienta dedicada a lograr tu visi\u00f3n fotogr\u00e1fica m\u00e1s r\u00e1pido y mejor que otras opciones.",
+         "Nombre": "NetOptimizer",
+         "Informacion": "\u00a1Dale a tu lenta conexi\u00f3n a Internet la velocidad y potencia que mereces!",
          "Desde": "",
          "Hasta": "2023/09/28 09:00",
-         "URL": "https://sharewareonsale.com/s/free-selfie-studio-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/11/boxshot-selfie-studio-transparent-background_6-200x233.png?1357",
+         "URL": "https://sharewareonsale.com/s/free-netoptimizer-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/NetOpt_box_shadow.jpg?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -452,6 +412,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Miasma by GhostMasaki",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/09/29 23:00",
+         "URL": "https://gmrx.itch.io/miasma",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE0MDUxMi8xMjYyMjA3OC5wbmc=/347x500/NA7FIW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Simple Tasks by AL7USSAIN",
          "Informacion": "",
          "Desde": "",
@@ -528,16 +498,6 @@
          "Hasta": "2023/09/29 23:00",
          "URL": "https://al7ussain.itch.io/zombie-hunter",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Miasma by GhostMasaki",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/09/29 23:00",
-         "URL": "https://gmrx.itch.io/miasma",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE0MDUxMi8xMjYyMjA3OC5wbmc=/347x500/NA7FIW.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -752,6 +712,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CutOut 8",
+         "Informacion": "\u00a1Los mejores detalles de imagen, cortes precisos para montajes fotogr\u00e1ficos creativos!",
+         "Desde": "",
+         "Hasta": "2023/09/30 09:00",
+         "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "LAST NIGHT by NISHAD",
          "Informacion": "\u00bfUn juego de historia CORTA sobre un YOUTUBER que lucha por conseguir un BOT\u00d3N DE JUEGO ORO pero le sucede algo extra\u00f1o a su PC y quiere realizar una encuesta?",
          "Desde": "",
@@ -772,12 +742,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "CutOut 8",
-         "Informacion": "\u00a1Los mejores detalles de imagen, cortes precisos para montajes fotogr\u00e1ficos creativos!",
+         "Nombre": "Ashampoo WinOptimizer 2023",
+         "Informacion": "Ashampoo WinOptimizer 2023 proporciona mejoras efectivas para un Windows m\u00e1s r\u00e1pido, \u00e1gil y seguro. M\u00e1s de 20 m\u00f3dulos de programa lo convierten en la caja de herramientas de software definitiva.",
          "Desde": "",
          "Hasta": "2023/09/30 09:00",
-         "URL": "https://sharewareonsale.com/s/free-cutout-8-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/a32d2aacba64efbeab965d666fce677a.png?1357",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/front-2.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -1552,6 +1522,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Puzzle Box Island by Puzzle Box Island",
+         "Informacion": "Aventura tipo Myst de dificultad media",
+         "Desde": "",
+         "Hasta": "2023/10/02 23:20",
+         "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjExNzAwOS8xMjQ4NTE2NC5wbmc=/347x500/FctiDD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Model Builder",
          "Informacion": "Join the latest trend in simulation games, bring out your creativity and make awesome looking models. Assemble, customize and display your creations, whether you\u2019re a veteran or a novice. Get building, and get creative!",
          "Desde": "2023/09/28",
@@ -1679,6 +1659,16 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-photo-enlarger-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/09/leawo-photo-enlarger-giveaway-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Paws & Effect: My Dogs Are Human! by Shimmersoft",
+         "Informacion": "Sadie es una joven que se encuentra en una de las primeras encrucijadas de la vida: es decir, descubrir qu\u00e9 hacer con el resto. Ambivalente acerca de sus aspiraciones profesionales y recuper\u00e1ndose de una ruptura reciente, es un alma a la deriva en un mar de incertidumbre. Pero bueno, al menos tiene a sus perros como apoyo emocional, por extravagantes que sean. Si tan solo fueran personas, capaces de comprender realmente...",
+         "Desde": "",
+         "Hasta": "2023/10/15 06:00",
+         "URL": "https://shimmersoft.itch.io/paws-effect",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjA2MTAvMzA0MzU1Mi5wbmc=/347x500/%2FQMQmA.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
