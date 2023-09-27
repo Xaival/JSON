@@ -1,26 +1,6 @@
 {
-   "date_update": "26 Sep 2023 16:01 UTC",
+   "date_update": "27 Sep 2023 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Unfinished Games by Vokayl",
-         "Informacion": "Encontr\u00e9 estos juegos en una unidad USB que era de mi vecino. Desapareci\u00f3 hace alg\u00fan tiempo y los miembros de su familia pusieron sus cosas en una venta de garaje. S\u00f3lo compr\u00e9 el disco porque lo necesitaba, pero cuando encontr\u00e9 estos juegos decid\u00ed venderlos.",
-         "Desde": "",
-         "Hasta": "2023/09/27 00:00",
-         "URL": "https://vokayl.itch.io/unfinished-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI3Nzg3NS8xMzQ5NjA2Ni5wbmc=/347x500/7IYsGU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Advanced Recent Access",
-         "Informacion": "Ver y abrir r\u00e1pidamente archivos recientes",
-         "Desde": "",
-         "Hasta": "2023/09/27 09:00",
-         "URL": "https://www.bitsdujour.com/software/advanced-recent-access/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/advanced-recent-access-2vus2.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "ChronoPhobia by GADE",
          "Informacion": "Un d\u00eda te enteras de que tu hermano Harry est\u00e1 enfermo y vas a verlo a Baltimore, que est\u00e1 a 1400 km.",
@@ -29,7 +9,7 @@
          "URL": "https://khoyman.itch.io/chronophobia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDkyNC8xMjgzODUwOC5naWY=/347x500/Hya3B1.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "ChronoPhobia_Ep2(TheCross) by GADE",
@@ -39,7 +19,7 @@
          "URL": "https://khoyman.itch.io/chronophobia-ep2thecross",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE5OTUzOS8xMzAxMzQ3Mi5qcGc=/347x500/f02fCw.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "One Night in Baiko by GADE",
@@ -49,7 +29,7 @@
          "URL": "https://khoyman.itch.io/one-night-in-baiko",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI3ODEwMC8xMzQ5OTA2OC5wbmc=/347x500/baQMbK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "PissMaster by GADE",
@@ -59,7 +39,7 @@
          "URL": "https://khoyman.itch.io/pissmaster",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxOTA2NC8xMzEzMTQ2OC5wbmc=/347x500/XUHwXk.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "The Deepest Frequency by GADE",
@@ -69,7 +49,7 @@
          "URL": "https://khoyman.itch.io/thedeepestfrequency",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIzNTQ1MC8xMzIzOTE1Ny5qcGc=/347x500/Gl8rnM.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "1943 by Magnus Froelund",
@@ -79,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Froelund",
@@ -89,7 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Froelund",
@@ -99,7 +79,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Asteroids by Magnus Froelund",
@@ -109,7 +89,7 @@
          "URL": "https://magnus-froelund.itch.io/asteroids",
          "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
@@ -119,7 +99,7 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "DarkViperAU The Game by Magnus Froelund",
@@ -129,7 +109,7 @@
          "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Desktop Car by Magnus Froelund",
@@ -139,7 +119,7 @@
          "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Froelund",
@@ -149,7 +129,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The Drifters by Magnus Froelund",
@@ -159,7 +139,17 @@
          "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "Unfinished Games by Vokayl",
+         "Informacion": "Encontr\u00e9 estos juegos en una unidad USB que era de mi vecino. Desapareci\u00f3 hace alg\u00fan tiempo y los miembros de su familia pusieron sus cosas en una venta de garaje. S\u00f3lo compr\u00e9 el disco porque lo necesitaba, pero cuando encontr\u00e9 estos juegos decid\u00ed venderlos.",
+         "Desde": "",
+         "Hasta": "2023/09/28 00:00",
+         "URL": "https://vokayl.itch.io/unfinished-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI3Nzg3NS8xMzQ5NjA2Ni5wbmc=/347x500/7IYsGU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "AimGuru by munegames",
@@ -169,7 +159,7 @@
          "URL": "https://munegames.itch.io/aimguru",
          "IMG": "https://img.itch.zone/aW1nLzQ1ODI1ODIuanBn/347x500/isQFPR.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Forest Stats For Fortnite Battle Royale by munegames",
@@ -179,37 +169,7 @@
          "URL": "https://munegames.itch.io/forest-stats-for-battle-royale",
          "IMG": "https://img.itch.zone/aW1nLzYyNzE0MDUucG5n/347x500/xafBe0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Selfie Studio 3",
-         "Informacion": "Selfie Studio te proporciona las herramientas creativas para editar tus fotos y obtener el aspecto que deseas. Selfie Studio, un producto de Pixarra de la serie Studio, se basa en el \u00e9xito de otros productos Studio de Pixarra, brind\u00e1ndote una herramienta dedicada a lograr tu visi\u00f3n fotogr\u00e1fica m\u00e1s r\u00e1pido y mejor que otras opciones.",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://sharewareonsale.com/s/free-selfie-studio-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/11/boxshot-selfie-studio-transparent-background_6-200x233.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Tap Battle Challenge by munegames",
-         "Informacion": "Toca el desaf\u00edo de batalla para Tiktok",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MjYzMy8xMTQ4MTM4NS5wbmc=/347x500/S2%2Fsbv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Valorant Stats by munegames",
-         "Informacion": "Valor Stats es una aplicaci\u00f3n no oficial",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://munegames.itch.io/valor-stats",
-         "IMG": "https://img.itch.zone/aW1nLzY3MDEzMjQucG5n/347x500/BMW2gn.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "NetOptimizer",
@@ -219,6 +179,56 @@
          "URL": "https://sharewareonsale.com/s/free-netoptimizer-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/NetOpt_box_shadow.jpg?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Selfie Studio 3",
+         "Informacion": "Selfie Studio te proporciona las herramientas creativas para editar tus fotos y obtener el aspecto que deseas. Selfie Studio, un producto de Pixarra de la serie Studio, se basa en el \u00e9xito de otros productos Studio de Pixarra, brind\u00e1ndote una herramienta dedicada a lograr tu visi\u00f3n fotogr\u00e1fica m\u00e1s r\u00e1pido y mejor que otras opciones.",
+         "Desde": "",
+         "Hasta": "2023/09/28 09:00",
+         "URL": "https://sharewareonsale.com/s/free-selfie-studio-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/11/boxshot-selfie-studio-transparent-background_6-200x233.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Tap Battle Challenge by munegames",
+         "Informacion": "Toca el desaf\u00edo de batalla para Tiktok",
+         "Desde": "",
+         "Hasta": "2023/09/28 09:00",
+         "URL": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MjYzMy8xMTQ4MTM4NS5wbmc=/347x500/S2%2Fsbv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Valorant Stats by munegames",
+         "Informacion": "Valor Stats es una aplicaci\u00f3n no oficial",
+         "Desde": "",
+         "Hasta": "2023/09/28 09:00",
+         "URL": "https://munegames.itch.io/valor-stats",
+         "IMG": "https://img.itch.zone/aW1nLzY3MDEzMjQucG5n/347x500/BMW2gn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Lonely road in the desert by Rachel1",
+         "Informacion": "Este es mi primer juego, compru\u00e9balo. Cre\u00e9 este juego despu\u00e9s de leer un manhwa (cuento). Para salir del juego, presione el bot\u00f3n de Windows. Despu\u00e9s de descargar el zip. archivo, extraiga todos los archivos despu\u00e9s de intentar ejecutarlos como administrador. Esta es una instrucci\u00f3n si el juego no funciona despu\u00e9s de descargarlo e iniciarlo.",
+         "Desde": "",
+         "Hasta": "2023/09/28 09:00",
+         "URL": "https://rachel1.itch.io/lonely-road-in-the-desert",
+         "IMG": "https://img.itch.zone/aW1nLzEzMTkwNzY5LmpwZw==/347x500/qL582W.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "TriSun Advanced Recent Access License Key Free 2023",
+         "Informacion": "La funci\u00f3n TriSun Advanced Recent Access le permite ver y abrir los archivos con los que ha trabajado \u00faltimamente, con solo unos pocos clics. Adem\u00e1s, tambi\u00e9n puede utilizar el acceso reciente avanzado para ejecutar, abrir una ubicaci\u00f3n o reciclar f\u00e1cilmente cualquier elemento de su lista.",
+         "Desde": "",
+         "Hasta": "2023/09/28 15:00",
+         "URL": "https://giveaway.tickcoupon.com/trisun-advanced-recent-access-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/10/TriSun-Advanced-Recent-Access-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -278,6 +288,16 @@
          "Hasta": "2023/09/29 09:00",
          "URL": "https://sharewareonsale.com/s/free-macrorit-disk-partition-expert-pro-edition-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/07/new_version-200x146.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Glary Malware Hunter Pro",
+         "Informacion": "Malware Hunter es un producto galardonado que brinda protecci\u00f3n integral contra todo tipo de amenazas, protege sus datos, protege su privacidad y garantiza que su PC permanezca libre de virus. Hyper Scan le permite disfrutar de una velocidad de escaneo m\u00e1s r\u00e1pida. Detecte y elimine malware persistente frente a peligros potenciales.",
+         "Desde": "",
+         "Hasta": "2023/09/29 09:00",
+         "URL": "https://sharewareonsale.com/s/free-glary-malware-hunter-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/08/mh-200x129.png?1357",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -622,6 +642,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster ePub Converter Pro License Key Free",
+         "Informacion": "\u00bfEst\u00e1 buscando el mejor software de creaci\u00f3n de libros electr\u00f3nicos que le ayude a publicar su nuevo libro electr\u00f3nico? No busque m\u00e1s, Coolmuster ePub Converter Pro, uno de los mejores creadores de epub para Windows y Mac, est\u00e1 aqu\u00ed para satisfacer todas sus necesidades de conversi\u00f3n. Con soporte para m\u00e1s de 5 formatos populares (.doc, .pdf, .html, .txt, .mobi, etc.), puede crear f\u00e1cilmente libros electr\u00f3nicos ePub para leer en cualquier dispositivo port\u00e1til. \u00bfNecesita convertir varios documentos de forma masiva? Gracias a la tecnolog\u00eda avanzada, Coolmuster ePub Converter Pro puede convertir un documento de 500 p\u00e1ginas en un libro electr\u00f3nico ePub en menos de 1 minuto.",
+         "Desde": "",
+         "Hasta": "2023/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-epub-converter-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/coolmuster-epub-converter-pro-giveaway-code-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hero Hours Contract by Steve O'Gorman",
          "Informacion": "Las chicas m\u00e1gicas son reales, \u00a1pero la paga apesta! \u00danase a la Uni\u00f3n de Chicas M\u00e1gicas mientras luchan para proteger la ciudad de los malhechores durante el d\u00eda y luchan para sindicalizarse durante la noche.",
          "Desde": "",
@@ -692,6 +722,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Trespasser's Takeover by Ethan Winters",
+         "Informacion": "\"Trespasser's Takeover\" es un tenso juego de terror en el que hay un asesino peligroso en tu casa. Utilice c\u00e1maras para rastrearlos y reparar cosas para mantenerse a salvo. S\u00e9 m\u00e1s astuto que el intruso y logra pasar la noche.",
+         "Desde": "",
+         "Hasta": "2023/09/30 07:00",
+         "URL": "https://ethan-winters.itch.io/trespassers-takeover",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIzODA0My8xMzI1NzI3Ny5wbmc=/347x500/2eepG%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ALONE by NISHAD",
          "Informacion": "Un modo historia de terror (juego en primera persona en 3D) en el que debes resolver acertijos, explorar la casa y salir de ella lo m\u00e1s r\u00e1pido posible.",
          "Desde": "",
@@ -709,6 +749,16 @@
          "URL": "https://nishad-games.itch.io/alone-ii",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjEwNzE0MC8xMjQwNDQ5Ni5qcGc=/347x500/aFvA3t.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo WinOptimizer 2023",
+         "Informacion": "Ashampoo WinOptimizer 2023 proporciona mejoras efectivas para un Windows m\u00e1s r\u00e1pido, \u00e1gil y seguro. M\u00e1s de 20 m\u00f3dulos de programa lo convierten en la caja de herramientas de software definitiva.",
+         "Desde": "",
+         "Hasta": "2023/09/30 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/front-2.png?1357",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -742,13 +792,23 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ashampoo WinOptimizer 2023",
-         "Informacion": "Ashampoo WinOptimizer 2023 proporciona mejoras efectivas para un Windows m\u00e1s r\u00e1pido, \u00e1gil y seguro. M\u00e1s de 20 m\u00f3dulos de programa lo convierten en la caja de herramientas de software definitiva.",
+         "Nombre": "Walk by NoiroVideoGames",
+         "Informacion": "Bienvenidos a Caminar.",
          "Desde": "",
          "Hasta": "2023/09/30 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2023-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/front-2.png?1357",
-         "Distribuidora": "SharewareOnSale",
+         "URL": "https://noirovideogames.itch.io/walk",
+         "IMG": "https://img.itch.zone/aW1nLzY3MjY3MjEuanBn/347x500/AxoXQH.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Formation Vee by NoiroVideoGames",
+         "Informacion": "Bienvenido a Formaci\u00f3n Vee. Un juego de carreras contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en Formation Vee. Usted conduce usando la potencia de la rueda para empujar la transmisi\u00f3n izquierda o derecha.",
+         "Desde": "",
+         "Hasta": "2023/09/30 09:00",
+         "URL": "https://noirovideogames.itch.io/formation-vee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODM5MjYzLzQ3MDQ2ODkucG5n/347x500/RSqFJU.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -919,6 +979,16 @@
          "URL": "https://mainc.itch.io/spiderkiller",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE1ODE5My8xMzM2ODI0Ni5wbmc=/347x500/JsDmfn.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AWZ Screen Recorder License Key for Free 2023",
+         "Informacion": "Para cualquiera que busque una herramienta de captura de pantalla f\u00e1cil de usar para realizar grabaciones breves y embellecer algunas capturas de pantalla, AWZ Screen Recorder es la herramienta perfecta. Dise\u00f1ada con una interfaz limpia, esta herramienta tiene la posibilidad de grabar la pantalla completa o un \u00e1rea seleccionada de la pantalla. Con su ayuda, tienes la capacidad de capturar y grabar todo lo que aparece en la pantalla de tu computadora o dispositivo.",
+         "Desde": "",
+         "Hasta": "2023/10/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/awz-screen-recorder-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/awz-screen-recorder-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1502,6 +1572,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Background Remover",
+         "Informacion": "Ashampoo Background Remover recorta objetos autom\u00e1ticamente y facilita el intercambio de fondos. Los objetos tambi\u00e9n se pueden eliminar o agregar manualmente. La detecci\u00f3n inteligente de objetos incorporada supone un gran ahorro de tiempo.",
+         "Desde": "",
+         "Hasta": "2023/10/01 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/image001.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "iTop VPN VIP Account License Key for Free 2023",
          "Informacion": "Existen varios servicios VPN repletos de funciones ilimitadas. Despu\u00e9s de todo, iTop VPN podr\u00eda ser una de tus preferencias. iTop VPN est\u00e1 configurado para evitar las restricciones geogr\u00e1ficas y acceder gratuitamente a cualquier sitio web en todo el mundo. Alternativamente, oculta su direcci\u00f3n IP para proteger su informaci\u00f3n y datos personales mientras navega. Proporciona a los usuarios tres protocolos, incluidos TCP, UDP y HTTPS, para adaptarse a diferentes prop\u00f3sitos. Tambi\u00e9n clasifica los servidores dedicados en 4 categor\u00edas: para descarga, para transmisi\u00f3n, para redes sociales y para juegos, para que pueda encontrar los servidores dedicados f\u00e1cilmente.",
          "Desde": "",
@@ -1522,6 +1602,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "WonderFox DVD Video Converter Free License Key 2023",
+         "Informacion": "WonderFox DVD Video Converter es una herramienta eficaz que puede ayudarle a convertir DVD y v\u00eddeos m\u00e1s r\u00e1pido que nunca. Con su ayuda, puede copiar todo tipo de pel\u00edculas en DVD y programas de TV a su PC y televisores inteligentes, adem\u00e1s de a su tel\u00e9fono y tableta iPhone, iPad y Android.",
+         "Desde": "",
+         "Hasta": "2023/10/02 15:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/wonderfox-dvd-video-converter-giveaway-free-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Puzzle Box Island by Puzzle Box Island",
          "Informacion": "Aventura tipo Myst de dificultad media",
          "Desde": "",
@@ -1529,6 +1619,26 @@
          "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjExNzAwOS8xMjQ4NTE2NC5wbmc=/347x500/FctiDD.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RPG MK. II by BlueEagle421",
+         "Informacion": "Este es un juego de disparos trepidante en 2D que pondr\u00e1 a prueba tus habilidades en m\u00faltiples \u00e1reas. Tendr\u00e1s que actuar y pensar r\u00e1pido para derrotar a tus enemigos. El juego cuenta con dos campa\u00f1as apasionantes, cada una con una historia \u00fanica, y ofrece muchos elementos desbloqueables.",
+         "Desde": "",
+         "Hasta": "2023/10/04 14:14",
+         "URL": "https://blueeagle421.itch.io/rpg-mk-ii",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5MTA0Mi8xMjk0MTk4OS5wbmc=/347x500/1Ak5te.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FileMenu Tools License Key for Free Download",
+         "Informacion": "FileMenu Tools es un software intuitivo y confiable destinado a brindarle la posibilidad de personalizar el men\u00fa contextual del Explorador de archivos de Windows. Con este software, puede agregar algunas utilidades integradas que realizan operaciones en archivos y carpetas. Adem\u00e1s, tambi\u00e9n puede agregar comandos personalizados que ejecutan una acci\u00f3n espec\u00edfica, como ejecutar aplicaciones externas o copiar/mover a una carpeta en particular.",
+         "Desde": "",
+         "Hasta": "2023/10/04 15:00",
+         "URL": "https://giveaway.tickcoupon.com/filemenu-tools-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/02/FileMenu-Tools-Giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1708,6 +1818,16 @@
          "Hasta": "2023/10/23 06:00",
          "URL": "https://retrovr.itch.io/vehicle-stunt-sim-vr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk0OTIyMi8xMTQ2MDY5Ni5wbmc=/347x500/aZ8hfZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "World War 2 Dogfight Simulator by RetroVR",
+         "Informacion": "Simulador de peleas de perros de la Segunda Guerra Mundial",
+         "Desde": "",
+         "Hasta": "2023/10/23 06:00",
+         "URL": "https://retrovr.itch.io/dogfightsim",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjg0MDQvMzIwMTg1OS5wbmc=/347x500/vhaylr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
