@@ -1,226 +1,6 @@
 {
-   "date_update": "27 Sep 2023 16:02 UTC",
+   "date_update": "28 Sep 2023 16:01 UTC",
    "values": [
-      {
-         "Nombre": "ChronoPhobia by GADE",
-         "Informacion": "Un d\u00eda te enteras de que tu hermano Harry est\u00e1 enfermo y vas a verlo a Baltimore, que est\u00e1 a 1400 km.",
-         "Desde": "",
-         "Hasta": "2023/09/27 22:30",
-         "URL": "https://khoyman.itch.io/chronophobia",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDkyNC8xMjgzODUwOC5naWY=/347x500/Hya3B1.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "ChronoPhobia_Ep2(TheCross) by GADE",
-         "Informacion": "NOTA: LA VERSI\u00d3N DEMO EST\u00c1 DISPONIBLE A CONTINUACI\u00d3N",
-         "Desde": "",
-         "Hasta": "2023/09/27 22:30",
-         "URL": "https://khoyman.itch.io/chronophobia-ep2thecross",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5OTUzOS8xMzAxMzQ3Mi5qcGc=/347x500/f02fCw.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "One Night in Baiko by GADE",
-         "Informacion": "One Night in Baiko, un juego de terror estilo Psx con efectos nost\u00e1lgicos",
-         "Desde": "",
-         "Hasta": "2023/09/27 22:30",
-         "URL": "https://khoyman.itch.io/one-night-in-baiko",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI3ODEwMC8xMzQ5OTA2OC5wbmc=/347x500/baQMbK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "PissMaster by GADE",
-         "Informacion": "Como siempre, Harry est\u00e1 demasiado d\u00e9bil y su tienda es atacada por Jack, y solo desea poder encontrar un poder sobrenatural hasta que ve a Pissopher.",
-         "Desde": "",
-         "Hasta": "2023/09/27 22:30",
-         "URL": "https://khoyman.itch.io/pissmaster",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxOTA2NC8xMzEzMTQ2OC5wbmc=/347x500/XUHwXk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The Deepest Frequency by GADE",
-         "Informacion": "The Deepest Frequency es un juego de talasofobia y control de un submarino en las profundidades del Oc\u00e9ano Atl\u00e1ntico.",
-         "Desde": "",
-         "Hasta": "2023/09/27 22:30",
-         "URL": "https://khoyman.itch.io/thedeepestfrequency",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIzNTQ1MC8xMzIzOTE1Ny5qcGc=/347x500/Gl8rnM.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "1943 by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Froelund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Campers Killers (Pre Alpha) by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "DarkViperAU The Game by Magnus Froelund",
-         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Froelund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Froelund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Froelund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Unfinished Games by Vokayl",
-         "Informacion": "Encontr\u00e9 estos juegos en una unidad USB que era de mi vecino. Desapareci\u00f3 hace alg\u00fan tiempo y los miembros de su familia pusieron sus cosas en una venta de garaje. S\u00f3lo compr\u00e9 el disco porque lo necesitaba, pero cuando encontr\u00e9 estos juegos decid\u00ed venderlos.",
-         "Desde": "",
-         "Hasta": "2023/09/28 00:00",
-         "URL": "https://vokayl.itch.io/unfinished-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI3Nzg3NS8xMzQ5NjA2Ni5wbmc=/347x500/7IYsGU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "AimGuru by munegames",
-         "Informacion": "Este es un entrenador de punter\u00eda que te permite mejorar f\u00e1cilmente tu punter\u00eda, seguimiento y otros.",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://munegames.itch.io/aimguru",
-         "IMG": "https://img.itch.zone/aW1nLzQ1ODI1ODIuanBn/347x500/isQFPR.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Forest Stats For Fortnite Battle Royale by munegames",
-         "Informacion": "Aplicaci\u00f3n no oficial de estad\u00edsticas, mapas, m\u00e1scaras y tienda diaria del juego Fortnite",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://munegames.itch.io/forest-stats-for-battle-royale",
-         "IMG": "https://img.itch.zone/aW1nLzYyNzE0MDUucG5n/347x500/xafBe0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "NetOptimizer",
-         "Informacion": "\u00a1Dale a tu lenta conexi\u00f3n a Internet la velocidad y potencia que mereces!",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://sharewareonsale.com/s/free-netoptimizer-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/NetOpt_box_shadow.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Selfie Studio 3",
-         "Informacion": "Selfie Studio te proporciona las herramientas creativas para editar tus fotos y obtener el aspecto que deseas. Selfie Studio, un producto de Pixarra de la serie Studio, se basa en el \u00e9xito de otros productos Studio de Pixarra, brind\u00e1ndote una herramienta dedicada a lograr tu visi\u00f3n fotogr\u00e1fica m\u00e1s r\u00e1pido y mejor que otras opciones.",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://sharewareonsale.com/s/free-selfie-studio-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/11/boxshot-selfie-studio-transparent-background_6-200x233.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Tap Battle Challenge by munegames",
-         "Informacion": "Toca el desaf\u00edo de batalla para Tiktok",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MjYzMy8xMTQ4MTM4NS5wbmc=/347x500/S2%2Fsbv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Valorant Stats by munegames",
-         "Informacion": "Valor Stats es una aplicaci\u00f3n no oficial",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://munegames.itch.io/valor-stats",
-         "IMG": "https://img.itch.zone/aW1nLzY3MDEzMjQucG5n/347x500/BMW2gn.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Lonely road in the desert by Rachel1",
-         "Informacion": "Este es mi primer juego, compru\u00e9balo. Cre\u00e9 este juego despu\u00e9s de leer un manhwa (cuento). Para salir del juego, presione el bot\u00f3n de Windows. Despu\u00e9s de descargar el zip. archivo, extraiga todos los archivos despu\u00e9s de intentar ejecutarlos como administrador. Esta es una instrucci\u00f3n si el juego no funciona despu\u00e9s de descargarlo e iniciarlo.",
-         "Desde": "",
-         "Hasta": "2023/09/28 09:00",
-         "URL": "https://rachel1.itch.io/lonely-road-in-the-desert",
-         "IMG": "https://img.itch.zone/aW1nLzEzMTkwNzY5LmpwZw==/347x500/qL582W.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "TriSun Advanced Recent Access License Key Free 2023",
          "Informacion": "La funci\u00f3n TriSun Advanced Recent Access le permite ver y abrir los archivos con los que ha trabajado \u00faltimamente, con solo unos pocos clics. Adem\u00e1s, tambi\u00e9n puede utilizar el acceso reciente avanzado para ejecutar, abrir una ubicaci\u00f3n o reciclar f\u00e1cilmente cualquier elemento de su lista.",
@@ -229,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/trisun-advanced-recent-access-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/10/TriSun-Advanced-Recent-Access-Giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Super Plaskacz by Voxelvoid",
@@ -239,7 +19,7 @@
          "URL": "https://voxelvoid.itch.io/super-plaskacz",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxODE3My8xMzEzNDM4NC5wbmc=/347x500/2kHl7T.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
       },
       {
          "Nombre": "Out of Line",
@@ -249,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/out-of-line-209cbb",
          "IMG": "https://cdn1.epicgames.com/spt/8b4ecd70-a418-480e-b59c-e7f94f05d449/out-of-line-offer-4a5df3c7.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "The Forest Quartet",
@@ -259,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/forest-quartet-5d03e3",
          "IMG": "https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-ncqa1.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Apeaksoft iPhone Transfer Registration Code 1-Year Free",
@@ -269,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/apeaksoft-iphone-transfer-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/apeaksoft-iphone-transfer-screenshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "1500 High Resolution Backgrounds Bundle",
@@ -279,17 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Macrorit Partition Expert Pro Edition 7",
-         "Informacion": "Como el \u00faltimo software alternativo a la magia de partici\u00f3n, Partition Expert proporciona potentes funciones que permiten a los usuarios ampliar la partici\u00f3n del sistema, cambiar el tama\u00f1o, mover particiones, crear, formatear y eliminar particiones con facilidad; Adem\u00e1s, tambi\u00e9n posee la tecnolog\u00eda \u00fanica de protecci\u00f3n de datos y el mejor algoritmo de movimiento de datos para garantizar datos 100% seguros y la velocidad de movimiento de partici\u00f3n de datos m\u00e1s r\u00e1pida.",
-         "Desde": "",
-         "Hasta": "2023/09/29 09:00",
-         "URL": "https://sharewareonsale.com/s/free-macrorit-disk-partition-expert-pro-edition-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/07/new_version-200x146.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Glary Malware Hunter Pro",
@@ -299,7 +69,27 @@
          "URL": "https://sharewareonsale.com/s/free-glary-malware-hunter-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/08/mh-200x129.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Macrorit Partition Expert Pro Edition 7",
+         "Informacion": "Como el \u00faltimo software alternativo a la magia de partici\u00f3n, Partition Expert proporciona potentes funciones que permiten a los usuarios ampliar la partici\u00f3n del sistema, cambiar el tama\u00f1o, mover particiones, crear, formatear y eliminar particiones con facilidad; Adem\u00e1s, tambi\u00e9n posee la tecnolog\u00eda \u00fanica de protecci\u00f3n de datos y el mejor algoritmo de movimiento de datos para garantizar datos 100% seguros y la velocidad de movimiento de partici\u00f3n de datos m\u00e1s r\u00e1pida.",
+         "Desde": "",
+         "Hasta": "2023/09/29 09:00",
+         "URL": "https://sharewareonsale.com/s/free-macrorit-disk-partition-expert-pro-edition-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/07/new_version-200x146.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "AWZ Screen Recorder",
+         "Informacion": "Con AWZ Screen Recorder, grabar su pantalla es muy sencillo. El mejor grabador de pantalla para Windows le permite grabar una pantalla completa o parte de la pantalla de manera oportuna. Admite elegir un tama\u00f1o de grabaci\u00f3n preestablecido y dibujar un \u00e1rea de grabaci\u00f3n espec\u00edfica usted mismo. Al usarlo, puede grabar su pantalla con audio o c\u00e1mara web al mismo tiempo o grabar videos o solo audio.",
+         "Desde": "",
+         "Hasta": "2023/09/29 09:00",
+         "URL": "https://www.bitsdujour.com/software/awz-screen-recorder/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/awz-screen-recorder-fbw2k.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "SwifDoo PDF Pro License Key Free 2023",
@@ -309,6 +99,36 @@
          "URL": "https://giveaway.tickcoupon.com/swifdoo-pdf-pro-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/12/swifdoo-pdf-pro-free-license-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Druid by JBo, OldManSwagga",
+         "Informacion": "Este juego fue creado para StraightUpGameJam.",
+         "Desde": "",
+         "Hasta": "2023/09/29 17:00",
+         "URL": "https://jbo.itch.io/the-last-druid",
+         "IMG": "https://img.itch.zone/aW1nLzYyNjQzNjIucG5n/347x500/yiquZk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Farm of Fairy Glen by JBo",
+         "Informacion": "Un homenaje a los incre\u00edbles juegos de granja que existen, un trabajo de amor realizado con pasi\u00f3n por el g\u00e9nero. Era una ambici\u00f3n de toda la vida hacer este juego y estoy contento con el resultado.",
+         "Desde": "",
+         "Hasta": "2023/09/29 17:00",
+         "URL": "https://jbo.itch.io/the-farm-of-fairy-glen",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA0MTA3MS81OTQ1NzY0LnBuZw==/347x500/gooTXp.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Fable of Fairy Glen by JBo",
+         "Informacion": "La f\u00e1bula de Fairy Glen se desarrolla en una ca\u00f1ada ficticia de Gales. Los elfos son la fuerza dominante en la tierra. El Imperio Elfo se extiende por toda la tierra.",
+         "Desde": "",
+         "Hasta": "2023/09/29 17:00",
+         "URL": "https://jbo.itch.io/the-fable-of-fairy-glen",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTE5NjMwLzc5MTI0NzYucG5n/347x500/oZ4zrd.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -562,6 +382,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster ePub Converter Pro License Key Free",
+         "Informacion": "\u00bfEst\u00e1 buscando el mejor software de creaci\u00f3n de libros electr\u00f3nicos que le ayude a publicar su nuevo libro electr\u00f3nico? No busque m\u00e1s, Coolmuster ePub Converter Pro, uno de los mejores creadores de epub para Windows y Mac, est\u00e1 aqu\u00ed para satisfacer todas sus necesidades de conversi\u00f3n. Con soporte para m\u00e1s de 5 formatos populares (.doc, .pdf, .html, .txt, .mobi, etc.), puede crear f\u00e1cilmente libros electr\u00f3nicos ePub para leer en cualquier dispositivo port\u00e1til. \u00bfNecesita convertir varios documentos de forma masiva? Gracias a la tecnolog\u00eda avanzada, Coolmuster ePub Converter Pro puede convertir un documento de 500 p\u00e1ginas en un libro electr\u00f3nico ePub en menos de 1 minuto.",
+         "Desde": "",
+         "Hasta": "2023/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-epub-converter-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/coolmuster-epub-converter-pro-giveaway-code-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Dupinout Duplicate Finder License Key Free",
          "Informacion": "Dupinout Duplicate Finder es uno de los mejores programas de b\u00fasqueda de duplicados para Windows que le ayuda a buscar documentos, m\u00fasica y v\u00eddeos duplicados. Adem\u00e1s, puedes encontrar y corregir duplicados f\u00e1cilmente. La \u00faltima versi\u00f3n de Dupinout proporciona una nueva herramienta llamada `Comparar carpetas` que compara la carpeta de origen y la carpeta de destino y muestra una lista de los mismos archivos, archivos modificados/diferentes y archivos adicionales en cada carpeta.",
          "Desde": "",
@@ -639,16 +469,6 @@
          "URL": "https://durant.itch.io/minesweeper-petal",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1Mzk1NC85MDY2NzE2LnBuZw==/347x500/upqTfw.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster ePub Converter Pro License Key Free",
-         "Informacion": "\u00bfEst\u00e1 buscando el mejor software de creaci\u00f3n de libros electr\u00f3nicos que le ayude a publicar su nuevo libro electr\u00f3nico? No busque m\u00e1s, Coolmuster ePub Converter Pro, uno de los mejores creadores de epub para Windows y Mac, est\u00e1 aqu\u00ed para satisfacer todas sus necesidades de conversi\u00f3n. Con soporte para m\u00e1s de 5 formatos populares (.doc, .pdf, .html, .txt, .mobi, etc.), puede crear f\u00e1cilmente libros electr\u00f3nicos ePub para leer en cualquier dispositivo port\u00e1til. \u00bfNecesita convertir varios documentos de forma masiva? Gracias a la tecnolog\u00eda avanzada, Coolmuster ePub Converter Pro puede convertir un documento de 500 p\u00e1ginas en un libro electr\u00f3nico ePub en menos de 1 minuto.",
-         "Desde": "",
-         "Hasta": "2023/09/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-epub-converter-pro-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/coolmuster-epub-converter-pro-giveaway-code-free.png",
-         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -772,6 +592,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Formation Vee by NoiroVideoGames",
+         "Informacion": "Bienvenido a Formaci\u00f3n Vee. Un juego de carreras contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en Formation Vee. Usted conduce usando la potencia de la rueda para empujar la transmisi\u00f3n izquierda o derecha.",
+         "Desde": "",
+         "Hasta": "2023/09/30 09:00",
+         "URL": "https://noirovideogames.itch.io/formation-vee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODM5MjYzLzQ3MDQ2ODkucG5n/347x500/RSqFJU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "LAST NIGHT by NISHAD",
          "Informacion": "\u00bfUn juego de historia CORTA sobre un YOUTUBER que lucha por conseguir un BOT\u00d3N DE JUEGO ORO pero le sucede algo extra\u00f1o a su PC y quiere realizar una encuesta?",
          "Desde": "",
@@ -798,16 +628,6 @@
          "Hasta": "2023/09/30 09:00",
          "URL": "https://noirovideogames.itch.io/walk",
          "IMG": "https://img.itch.zone/aW1nLzY3MjY3MjEuanBn/347x500/AxoXQH.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Formation Vee by NoiroVideoGames",
-         "Informacion": "Bienvenido a Formaci\u00f3n Vee. Un juego de carreras contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en Formation Vee. Usted conduce usando la potencia de la rueda para empujar la transmisi\u00f3n izquierda o derecha.",
-         "Desde": "",
-         "Hasta": "2023/09/30 09:00",
-         "URL": "https://noirovideogames.itch.io/formation-vee",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODM5MjYzLzQ3MDQ2ODkucG5n/347x500/RSqFJU.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -972,16 +792,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "SpiderKiller by Mainc",
-         "Informacion": "Demostraci\u00f3n de GTK:",
-         "Desde": "",
-         "Hasta": "2023/10/01 00:00",
-         "URL": "https://mainc.itch.io/spiderkiller",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1ODE5My8xMzM2ODI0Ni5wbmc=/347x500/JsDmfn.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "AWZ Screen Recorder License Key for Free 2023",
          "Informacion": "Para cualquiera que busque una herramienta de captura de pantalla f\u00e1cil de usar para realizar grabaciones breves y embellecer algunas capturas de pantalla, AWZ Screen Recorder es la herramienta perfecta. Dise\u00f1ada con una interfaz limpia, esta herramienta tiene la posibilidad de grabar la pantalla completa o un \u00e1rea seleccionada de la pantalla. Con su ayuda, tienes la capacidad de capturar y grabar todo lo que aparece en la pantalla de tu computadora o dispositivo.",
          "Desde": "",
@@ -989,6 +799,16 @@
          "URL": "https://giveaway.tickcoupon.com/awz-screen-recorder-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/awz-screen-recorder-giveaway-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SpiderKiller by Mainc",
+         "Informacion": "Demostraci\u00f3n de GTK:",
+         "Desde": "",
+         "Hasta": "2023/10/01 00:00",
+         "URL": "https://mainc.itch.io/spiderkiller",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1ODE5My8xMzM2ODI0Ni5wbmc=/347x500/JsDmfn.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1642,6 +1462,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AVS Video ReMaker",
+         "Informacion": "Un editor de video s\u00faper r\u00e1pido para capturar, editar y guardar videos sin volver a codificarlos.",
+         "Desde": "",
+         "Hasta": "2023/10/05 09:00",
+         "URL": "https://sharewareonsale.com/s/free-avs-video-remaker-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/12/video-remaker_3d-200x200.png?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Model Builder",
          "Informacion": "Join the latest trend in simulation games, bring out your creativity and make awesome looking models. Assemble, customize and display your creations, whether you\u2019re a veteran or a novice. Get building, and get creative!",
          "Desde": "2023/09/28",
@@ -1649,7 +1479,7 @@
          "URL": "https://store.epicgames.com/p/model-builder-f9b456",
          "IMG": "https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-ymmta.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Soulstice",
@@ -1659,7 +1489,7 @@
          "URL": "https://store.epicgames.com/p/soulstice",
          "IMG": "https://cdn1.epicgames.com/offer/cb8afc06acb14f6a8cf3ab01f4b361ce/EGS_Soulstice_ReplyGameStudios_S1_2560x1440-dd33485a66a99704353c5ab09183612d",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "AnyViewer Professional License Key for Free",
@@ -1720,6 +1550,16 @@
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/12/vovsoft-ocr-reader-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Godlike Burger",
+         "Informacion": "\u00a1Dirige el restaurante m\u00e1s loco de la galaxia en Godlike Burger! Aturde, envenena y mata a los clientes de mil maneras\u2026 \u00a1y convi\u00e9rtelos en carne de hamburguesa! No te preocupes, los clientes alien\u00edgenas seguir\u00e1n viniendo si eres inteligente, el canibalismo es demasiado sabroso.",
+         "Desde": "2023/10/05",
+         "Hasta": "2023/10/12 17:00",
+         "URL": "https://store.epicgames.com/p/godlike-burger-4150a0",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/f42598038b9343e58d27e0a8c0b831b6/godlike-burger-offer-1trpc.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Macrorit Partition Expert Pro Edition License Key Free",
