@@ -1,5 +1,5 @@
 {
-   "date_update": "01 Oct 2023 16:02 UTC",
+   "date_update": "04 Oct 2023 16:03 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -276,7 +276,7 @@
          "Descripcion": "Arquera",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/maria_argom95",
+            "Insta1": "https://www.instagram.com/maria_argom/",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
@@ -1014,9 +1014,9 @@
          }
       },
       {
-         "ID": "AAAACJ",
-         "Nombre": "Alvaro 1",
-         "NombreRol": "",
+         "ID": "AAAAEV",
+         "Nombre": "Alvaro",
+         "NombreRol": "Bastian",
          "Hermandad": "Midgard",
          "Casa": "",
          "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
@@ -1024,7 +1024,7 @@
          "Descripcion": "",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "",
+            "Insta1": "https://www.instagram.com/bastian_midgard/",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
@@ -1288,7 +1288,7 @@
          "Descripcion": "Administrador del grupo de Wassap.",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/lyannamormont.midgard",
+            "Insta1": "https://www.instagram.com/ario",
             "Insta2": "https://www.instagram.com/lulara_crea/",
             "Insta3": "",
             "TikTok": "https://www.tiktok.com/@lulara_crea?lang=es",
@@ -1674,6 +1674,28 @@
          }
       },
       {
+         "ID": "AAAAFB",
+         "Nombre": "Pablo Iglesias",
+         "NombreRol": "",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "",
+         "Descripcion": "",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/capitan_eskizo_oficial/",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
          "ID": "AAAAEN",
          "Nombre": "Patricia Latour Moreno",
          "NombreRol": "Yiyi Grimhilde",
@@ -1762,9 +1784,9 @@
          }
       },
       {
-         "ID": "AAAAEV",
+         "ID": "AAAAFD",
          "Nombre": "",
-         "NombreRol": "Bastian",
+         "NombreRol": "Lux Vera Veritas",
          "Hermandad": "",
          "Casa": "",
          "HermandadImgURL": "",
@@ -1772,7 +1794,29 @@
          "Descripcion": "",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/bastian_midgard/",
+            "Insta1": "https://www.instagram.com/elven_lux/",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAFC",
+         "Nombre": "",
+         "NombreRol": "Upior",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "",
+         "Descripcion": "",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/c0ld_embrace/",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
