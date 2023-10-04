@@ -297,6 +297,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 xxxnewvideos.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 xxxs.vip #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ylasthepoityelthens.com.ua #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 zunsoach.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sale.aliexpress.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 campaign.aliexpress.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ww12.land-secure.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1282,6 +1283,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 drectsearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 easy-ad-blocker.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 easyadblocker.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 es.stop-bot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ezadblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 flowsearch.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 fontdeterminer.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1294,6 +1296,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 install.myincognitosearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 install.mystreamssearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 install.pdfstars.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 landing.ai-srvc.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 lifestylenewtab.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 multiadblock.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 parthyptead.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1435,6 +1438,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 jsc.adskeeper.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 majomalonic.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 marlpitbucku.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ophoacit.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pagead2.googlesyndication.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pervialinagile.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pl15179616.passtechusa.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1464,6 +1468,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 rutpunishsnitch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.profitabledisplaycontent.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cdn.itskiddoan.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 noozoque.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 a.optimizesrv.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 accidentalinfringementfat.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 achcdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
