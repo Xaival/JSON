@@ -1,5 +1,5 @@
 {
-   "date_update": "04 Oct 2023 16:03 UTC",
+   "date_update": "01 Nov 2023 17:04 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -332,28 +332,6 @@
          }
       },
       {
-         "ID": "AAAAAO",
-         "Nombre": "Benny",
-         "NombreRol": "Aaron/Ordo\u00f1o",
-         "Hermandad": "Midgard",
-         "Casa": "Angrieff",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "https://i.ibb.co/vV4kWRJ/AAAAAO.webp",
-         "Descripcion": "Guerrero leon\u00e9s siervo de Cristo.\nIntento de escritor",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/benny_from_pinoloko",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAAAP",
          "Nombre": "David Torres Amodeo",
          "NombreRol": "Rover Angrieff",
@@ -477,28 +455,6 @@
             "Insta1": "https://www.instagram.com/larry_el_cojo",
             "Insta2": "https://www.instagram.com/convdedomingo",
             "Insta3": "https://www.instagram.com/convdetoro",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAAV",
-         "Nombre": "",
-         "NombreRol": "Kirito",
-         "Hermandad": "Midgard",
-         "Casa": "Angrieff",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "https://i.ibb.co/hXsSgP9/AAAAAV.webp",
-         "Descripcion": "Mercenario y Angrieff de Midgard",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/egon_angrieff/",
-            "Insta2": "https://www.instagram.com/egil_stalcalm",
-            "Insta3": "https://www.instagram.com/elkiritohacemeh",
             "TikTok": "",
             "Twitter": "",
             "Facebook": "",
@@ -933,7 +889,7 @@
          "Casa": "Reed",
          "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
          "ImgURL": "https://i.ibb.co/3rymv3m/AAAACF.webp",
-         "Descripcion": "Administrador del grupo de Wassap",
+         "Descripcion": "",
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/osuka_ks",
@@ -1285,10 +1241,10 @@
          "Casa": "",
          "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
          "ImgURL": "https://i.ibb.co/x1mp9wJ/AAAADB.webp",
-         "Descripcion": "Administrador del grupo de Wassap.",
+         "Descripcion": "",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/ario",
+            "Insta1": "https://www.instagram.com/lyannamormont.midgard/",
             "Insta2": "https://www.instagram.com/lulara_crea/",
             "Insta3": "",
             "TikTok": "https://www.tiktok.com/@lulara_crea?lang=es",
@@ -1329,32 +1285,10 @@
          "Casa": "",
          "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
          "ImgURL": "https://i.ibb.co/5WCHd7n/AAAADF.webp",
-         "Descripcion": "Oposiciones militar",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAEE",
-         "Nombre": "Paloma",
-         "NombreRol": "Micaela Seinm",
-         "Hermandad": "Midgard",
-         "Casa": "",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "",
          "Descripcion": "",
          "Ciudad": "",
          "RRSS": {
-            "Insta1": "https://www.instagram.com/choco_larp/",
+            "Insta1": "",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
@@ -1454,6 +1388,28 @@
          }
       },
       {
+         "ID": "AAAAAO",
+         "Nombre": "Benny",
+         "NombreRol": "Aaron/Ordo\u00f1o",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "https://i.ibb.co/vV4kWRJ/AAAAAO.webp",
+         "Descripcion": "Guerrero leon\u00e9s siervo de Cristo.\nIntento de escritor",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/benny_from_pinoloko",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
          "ID": "AAAACS",
          "Nombre": "Elias Antonio Dominguez Villadiego",
          "NombreRol": "",
@@ -1527,7 +1483,7 @@
          "Casa": "",
          "HermandadImgURL": "",
          "ImgURL": "https://i.ibb.co/Zx7XJZp/AAAAAT.webp",
-         "Descripcion": "Administrador de la web de midgard.",
+         "Descripcion": "",
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/donsirpanadero",
@@ -1696,6 +1652,28 @@
          }
       },
       {
+         "ID": "AAAAEE",
+         "Nombre": "Paloma",
+         "NombreRol": "Micaela Seinm",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "",
+         "Descripcion": "",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/choco_larp/",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
          "ID": "AAAAEN",
          "Nombre": "Patricia Latour Moreno",
          "NombreRol": "Yiyi Grimhilde",
@@ -1773,6 +1751,72 @@
          "Ciudad": "",
          "RRSS": {
             "Insta1": "https://www.instagram.com/johnn_cor",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAAV",
+         "Nombre": "",
+         "NombreRol": "Kirito",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "https://i.ibb.co/hXsSgP9/AAAAAV.webp",
+         "Descripcion": "Mercenario y Angrieff de Midgard",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/egon_angrieff/",
+            "Insta2": "https://www.instagram.com/egil_stalcalm",
+            "Insta3": "https://www.instagram.com/elkiritohacemeh",
+            "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAES",
+         "Nombre": "",
+         "NombreRol": "Kuroi Ryuu",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "",
+         "Descripcion": "Ninfa",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/kuroi_ryuu_/",
+            "Insta2": "https://www.instagram.com/pi_ryuu_/",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@kuroi_ryuu_?lang=es",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "https://www.twitch.tv/kuroi_ryuu_",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAAEW",
+         "Nombre": "",
+         "NombreRol": "Lom",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "",
+         "Descripcion": "",
+         "Ciudad": "",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/lom_1137/",
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
