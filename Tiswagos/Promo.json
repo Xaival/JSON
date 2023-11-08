@@ -1,36 +1,6 @@
 {
-   "date_update": "07 Nov 2023 17:01 UTC",
+   "date_update": "08 Nov 2023 17:02 UTC",
    "values": [
-      {
-         "Nombre": "RegEx Extractor",
-         "Informacion": "Extraer texto de archivos",
-         "Desde": "",
-         "Hasta": "2023/11/08 08:00",
-         "URL": "https://sharewareonsale.com/s/free-regex-extractor-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/regex-extractor.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Wise Folder Hider Pro",
-         "Informacion": "Oculte archivos privados, fotos, v\u00eddeos y otros datos personales fusionando Wise Folder Hider Pro. Ocultar carpetas es una forma sencilla de mantener las miradas indiscretas alejadas de sus documentos privados.",
-         "Desde": "",
-         "Hasta": "2023/11/08 08:00",
-         "URL": "https://sharewareonsale.com/s/wise-folder-hider-pro-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/10/640x480-200x150.png?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "WinExt Pro",
-         "Informacion": "Un potente kit de utilidades para Windows que incluye 12 herramientas \u00fatiles",
-         "Desde": "",
-         "Hasta": "2023/11/08 09:00",
-         "URL": "https://www.bitsdujour.com/software/winext-pro/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/winext-pro-joyju.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Wondefox HD Video Converter Factory Pro License Key Free",
          "Informacion": "WonderFox HD Video Converter Factory Pro es un programa para convertir archivos de v\u00eddeo. Con esta aplicaci\u00f3n, podr\u00e1s convertir f\u00e1cil y r\u00e1pidamente v\u00eddeos almacenados en definici\u00f3n est\u00e1ndar a alta definici\u00f3n. Tambi\u00e9n le permite adaptar materiales cinematogr\u00e1ficos para reproducirlos en tel\u00e9fonos inteligentes, tabletas y reproductores de DVD de escritorio.",
@@ -39,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/thumbs_dir/wonderfox-hd-video-converter-factory-pro-icon-1wz19byyj74ht0f8vd1gl25miwzvhg8t1c5wl27gn94k.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Rush by Pineapple Software",
@@ -49,7 +19,7 @@
          "URL": "https://pineapple-software.itch.io/rush",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQxNTcyLzY1MTQ2Ny5wbmc=/347x500/kUJUck.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "Trump Simulator by Pineapple Software",
@@ -59,7 +29,7 @@
          "URL": "https://pineapple-software.itch.io/trump-simultor",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTcyNTY3LzMwNTY1NjkucG5n/347x500/U%2BTQe9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "The Empress : Awakening by Outer Paradise",
@@ -69,17 +39,7 @@
          "URL": "https://outer-paradise.itch.io/the-empress-awakening",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxODY3OS83NzI1NjQ0LmpwZw==/347x500/omMjMQ.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Vector Characters Club",
-         "Informacion": "El Vector Characters Club es el cofre del tesoro definitivo de personajes vectoriales visualmente atractivos y f\u00e1cilmente editables.",
-         "Desde": "",
-         "Hasta": "2023/11/09 08:00",
-         "URL": "https://sharewareonsale.com/s/free-the-vector-characters-club-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/Front-MVC.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "AceMovi Video Editor",
@@ -89,7 +49,27 @@
          "URL": "https://sharewareonsale.com/s/free-tuneskit-acemovi-video-maker-and-editor-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/03/acemovi.png?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "The Vector Characters Club",
+         "Informacion": "El Vector Characters Club es el cofre del tesoro definitivo de personajes vectoriales visualmente atractivos y f\u00e1cilmente editables.",
+         "Desde": "",
+         "Hasta": "2023/11/09 08:00",
+         "URL": "https://sharewareonsale.com/s/free-the-vector-characters-club-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/Front-MVC.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "Vole Edutainment",
+         "Informacion": "Recopile y reproduzca varios archivos en una sola aplicaci\u00f3n",
+         "Desde": "",
+         "Hasta": "2023/11/09 09:00",
+         "URL": "https://www.bitsdujour.com/software/vole-edutainment/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/vole-edutainment-evmx1.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "F.I.S.T.: Forged In Shadow Torch",
@@ -158,6 +138,16 @@
          "Hasta": "2023/11/11 00:00",
          "URL": "https://giveaway.tickcoupon.com/musify-youtube-to-mp3-downloader-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/04/musify-music-converter-giveaway-page.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster Lab.Fone for Android 1 Year Free License",
+         "Informacion": "No hace falta decir que Coolmuster Lab.Fone para Android es un software confiable y profesional que permite a los usuarios recuperar datos perdidos o eliminados de la tarjeta de memoria interna y externa de Android de la manera m\u00e1s r\u00e1pida y sencilla. Adem\u00e1s, puede hacer una copia de seguridad de los datos existentes y eliminados de los dispositivos Android en las computadoras en caso de p\u00e9rdida de datos.",
+         "Desde": "",
+         "Hasta": "2023/11/11 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-lab-fone-for-android-free-code/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/get-key-coolmuster-lab-fone-for-android.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -332,6 +322,106 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Campers Killers (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/11/15 01:00",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "250 Professional Font Bundle",
+         "Informacion": "Este maravilloso paquete de fuentes tiene un aspecto \u00fanico, detallado y hecho a mano. Ya sea que quieras probar una apariencia elegante con letras may\u00fasculas o una apariencia hermosa con letras min\u00fasculas, este paquete de fuentes est\u00e1 dise\u00f1ado para algo completamente atemporal.",
+         "Desde": "",
+         "Hasta": "2023/11/15 08:00",
+         "URL": "https://sharewareonsale.com/s/free-250-professional-font-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/06/10-200x113.jpg?1357",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Leawo DVD Creator 1-Year Giveaway License Key Free",
          "Informacion": "Leawo DVD Creator es un conversor de v\u00eddeo pr\u00e1ctico y r\u00e1pido y crea software de DVD. Admite una gran cantidad de archivos de video, incluidos 3GP, AVI, M4V, MOD, FLV, MKV, MP4, MPG, MOV, DAT, WMV y WebM. Adem\u00e1s, permite editar video, cambiar el tama\u00f1o del video, brillo del contraste, cambiar la velocidad de fotogramas y obtener una vista previa del video. El software tambi\u00e9n incluye potentes funciones de edici\u00f3n de v\u00eddeo: efecto de v\u00eddeo, recorte, recorte, marca de agua y configuraci\u00f3n 3D.",
          "Desde": "",
@@ -502,6 +592,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Batch PDF Encryptor PRO License Key Free Download",
+         "Informacion": "Para evitar que personas no autorizadas accedan a sus archivos PDF, debe utilizar Batch PDF Encryptor PRO de Reezaa para proteger los documentos PDF de su empresa y los datos confidenciales contra pirater\u00eda y fraude. Cifrar un PDF o varios archivos PDF es sencillo y seguro con este software de cifrado de PDF profesional. Esta herramienta ofrece funciones de alta seguridad mediante el uso de niveles de cifrado m\u00e1s altos que mejoran la seguridad.",
+         "Desde": "",
+         "Hasta": "2023/11/25 00:00",
+         "URL": "https://giveaway.tickcoupon.com/batch-pdf-encryptor-pro-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/get-batch-pdf-encryptor-pro-license-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Eyestalk Reincarnated Official Game! by DarkDemonGamer_1",
+         "Informacion": "(Adem\u00e1s, abrir otra aplicaci\u00f3n en medio del juego, incluso si haces una pausa, puede bloquear el juego debido a que no tiene buena memoria)",
+         "Desde": "",
+         "Hasta": "2023/11/25 07:00",
+         "URL": "https://darkdemongamer-1.itch.io/the-eyestalk-reincarnated-official-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxODMwNC8xMzg0NTk3My5wbmc=/347x500/FflhuB.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Freedom of Light by Crossing Lears",
          "Informacion": "Freedom of Light es un juego de aventuras y fantas\u00eda de p\u00edxeles ambientado en una regi\u00f3n monta\u00f1osa privada de luz.",
          "Desde": "",
@@ -638,6 +748,26 @@
          "Hasta": "2023/11/30 01:00",
          "URL": "https://q-les.itch.io/the-haunting-of-hollow-manor",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjMyNTMyOS8xMzg1NzQ4Ny5wbmc=/347x500/h7yin8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Far Away 2 by qLes",
+         "Informacion": "La secuela de mi juego anterior \"Far Away\". Dej\u00e9 de trabajar en \u00e9l hace casi un a\u00f1o, debido a la falta de tiempo y a que hay proyectos m\u00e1s interesantes en marcha, pero decid\u00ed publicarlo.",
+         "Desde": "",
+         "Hasta": "2023/11/30 01:00",
+         "URL": "https://q-les.itch.io/far-away-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAwMTIwNy8xMTc2NDc2OS5wbmc=/347x500/Fs5ssC.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Far Away, Pixel Horror by qLes",
+         "Informacion": "Far Away es un breve juego de aventuras de terror con pixel art. Vivir\u00e1s la extra\u00f1a aventura de un joven.",
+         "Desde": "",
+         "Hasta": "2023/11/30 01:00",
+         "URL": "https://q-les.itch.io/far-away-pixel-horror",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODE2NDc0LzQ1Nzc3MTUucG5n/347x500/YuqF1o.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1410,6 +1540,26 @@
          "IMG": "https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/ES_Bungie_Bungie_30th_Anniversary_Pack_S3_2560x1440_2560x1440-f3a32d6368ac1a89bf18d17be772ffa0",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Allavsoft Video Downloader Registration Code for Free",
+         "Informacion": "Allavsoft es un software de descarga para Windows, admite la descarga de pel\u00edculas, videos musicales, listas de reproducci\u00f3n, videos deportivos, conferencias y m\u00e1s desde sitios web gratuitos para compartir videos como YouTube, Spotify, Facebook, Vimeo, Twitter, eHow, Dailymotion, Soundcloud y m\u00e1s. de 1000 sitios para compartir v\u00eddeos. Tambi\u00e9n ayuda a extraer y descargar audio de pel\u00edculas o v\u00eddeos musicales en l\u00ednea. El descargador de m\u00fasica en video Allavsoft tambi\u00e9n admite la adici\u00f3n de m\u00faltiples URL de videos y la descarga por lotes y la conversi\u00f3n de m\u00faltiples videos a la vez.",
+         "Desde": "",
+         "Hasta": "2023/12/08 00:00",
+         "URL": "https://giveaway.tickcoupon.com/allavsoft-free-license-key-lifetime/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/allavsoft-for-windows-giveaway-license-key-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Allavsoft Downloader for Mac License Key Free",
+         "Informacion": "Como descargador y convertidor de videos todo en uno para macOS, herramienta Mac OS X, Allavsoft Downloader para Mac le permite descargar videos de todo tipo de sitios web para compartir videos como DailyMotion, Yahoo Video, eHow, Facebook, Google Video, etc. Adem\u00e1s, Allavsoft para Mac tambi\u00e9n proporciona la funci\u00f3n de convertir datos a formatos compatibles en diferentes dispositivos de reproducci\u00f3n de m\u00fasica.",
+         "Desde": "",
+         "Hasta": "2023/12/08 15:00",
+         "URL": "https://giveaway.tickcoupon.com/allavsoft-for-mac-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/install-allavsoft-downloader-for-mac.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Bloody Vengeance by Nutty Studios",
