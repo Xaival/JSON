@@ -1,56 +1,6 @@
 {
-   "date_update": "09 Nov 2023 17:01 UTC",
+   "date_update": "10 Nov 2023 17:01 UTC",
    "values": [
-      {
-         "Nombre": "F.I.S.T.: Forged In Shadow Torch",
-         "Informacion": "Explora m\u00e1s de una decena de zonas \u00fanicas en un mapa de estilo metroidvania. \nEl Fist (pu\u00f1o), el Drill (taladro) y el Whip (l\u00e1tigo) son tres armas con estilos de lucha completamente diferentes que te permiten alternar entre combo alto, da\u00f1o elevado y ataques de largo alcance de forma fluida. ",
-         "Desde": "2023/11/02",
-         "Hasta": "2023/11/09 17:00",
-         "URL": "https://store.epicgames.com/p/fist-forged-in-shadow-torch",
-         "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Turnip Boy Commits Tax Evasion",
-         "Informacion": "Play as an adorable yet trouble-making turnip. Avoid paying taxes, solve plantastic puzzles, harvest crops and battle massive beasts all in a journey to tear down a corrupt vegetable government!",
-         "Desde": "2023/11/02",
-         "Hasta": "2023/11/09 17:00",
-         "URL": "https://store.epicgames.com/p/turnip-boy-commits-tax-evasion-fb2084",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/9456221af5d04968ba41426fdb2c4557/turnip-boy-commits-tax-evasion-offer-1wsay.png",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Horror Fan House by Pizza & Games",
-         "Informacion": "Made on unity, una breve aventura de terror para el fan\u00e1tico del terror m\u00e1s valiente.",
-         "Desde": "",
-         "Hasta": "2023/11/10 01:00",
-         "URL": "https://pizzaandgames.itch.io/horror-fan-house",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NzI2MS85NzUyMjM3LmpwZw==/347x500/c89cp6.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "Oddworld Smile Factory by pupbenny",
-         "Informacion": "Juego de terror donde deber\u00e1s escapar de una malvada f\u00e1brica que construye m\u00e1quinas siniestras.",
-         "Desde": "",
-         "Hasta": "2023/11/10 02:00",
-         "URL": "https://pupbenny.itch.io/oddworld-smile-factory",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxMDIyMC8xMzIxMjc4Ni5wbmc=/347x500/uqtEoD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Allavsoft Downloader",
-         "Informacion": "Descargue por lotes y descargue videos directamente de YouTube, Vevo, Vimeo, Dailymotion, Facebook, Lynda, Spotify, Deezer y m\u00e1s de 10,000 sitios web para compartir videos y m\u00fasica con Allavsoft Downloader.",
-         "Desde": "",
-         "Hasta": "2023/11/10 08:00",
-         "URL": "https://sharewareonsale.com/s/free-allavsoft-downloader-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/01/screen-shot-600-200x141.jpg?1357",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "Photopus Pro License Key Free Download",
          "Informacion": "Photopus Pro es un software de edici\u00f3n de fotograf\u00edas que le permite convertir, agregar marcas de agua, texto e im\u00e1genes, cambiar el tama\u00f1o, transformar, retocar, cambiar el nombre y aplicar efectos a cientos de fotos de una sola vez. Con \u00e9l, puede agregar texto de marca de agua a cientos de sus fotos para protegerlas contra copias ilegales. Adem\u00e1s, puedes convertir im\u00e1genes a otros formatos como BMP, JPEG, PNG, PDF, TIFF, formatos de c\u00e1mara RAW, PSD, TGA, GIF, etc. de una sola vez.",
@@ -59,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/photopus-pro-free-license-key-download/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/11/install-photopus-pro.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Coolmuster Lab.Fone for Android 1 Year Free License",
@@ -69,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-lab-fone-for-android-free-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/get-key-coolmuster-lab-fone-for-android.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Musify Music Converter 3-Month License Key for Free",
@@ -79,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/musify-youtube-to-mp3-downloader-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/04/musify-music-converter-giveaway-page.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ataque de Comida 2 by Ready Games Studio",
@@ -89,7 +39,7 @@
          "URL": "https://ready-games-studio.itch.io/ataquedecomida2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUzNzk0Ni85NDI5MTcyLnBuZw==/347x500/rIleJE.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "Jumping Square by Ready Games Studio",
@@ -99,7 +49,7 @@
          "URL": "https://ready-games-studio.itch.io/jumping-square",
          "IMG": "https://img.itch.zone/aW1nLzgzMTQ2NTcucG5n/347x500/wjqHLG.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "Picture Doctor",
@@ -109,7 +59,17 @@
          "URL": "https://sharewareonsale.com/s/free-picture-doctor-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/main-en.1920w-1.jpg?1357",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "AnyCase App",
+         "Informacion": "Aplicaci\u00f3n de conversi\u00f3n de casos in situ multiprograma",
+         "Desde": "",
+         "Hasta": "2023/11/11 09:00",
+         "URL": "https://www.bitsdujour.com/software/anycase-app/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/anycase-app-lyqwi.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "SoftOrbits Picture Doctor Free License Key Giveaway",
@@ -118,6 +78,16 @@
          "Hasta": "2023/11/11 14:00",
          "URL": "https://giveaway.tickcoupon.com/softorbits-picture-doctor-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/install-softorbits-picture-doctor.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WinX DVD Copy Pro License Key Free 2023 Giveaway",
+         "Informacion": "WinX DVD Copy Pro es uno de los mejores programas de copia y grabaci\u00f3n de DVD disponibles en el mercado. Puede copiar DVD a DVD, copiar DVD a imagen ISO o copiar DVD a formato de archivo MPEG2 con contenido constante para usar en la creaci\u00f3n de bibliotecas de DVD o la grabaci\u00f3n de DVD en PS3 o HTPC.",
+         "Desde": "",
+         "Hasta": "2023/11/11 15:00",
+         "URL": "https://giveaway.tickcoupon.com/winx-dvd-copy-pro-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/winx-dvd-copy-pro-giveaway-page-2022.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -352,12 +322,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "POPPY TIME PLUS by NISHAD",
-         "Informacion": "En la oscuridad, tienes que escapar de tu propia casa debido al Sr. An\u00f3nimo, donde est\u00e1s con tu amigo NICHO, pero para abrir las puertas tienes que encontrar las llaves y asegurarte de que el Cachorro no te mate, mant\u00e9n tus ojos. en el cron\u00f3metro o tu cachorro te matar\u00e1.",
+         "Nombre": "ALONE by NISHAD",
+         "Informacion": "Un modo historia de terror (juego en primera persona en 3D) en el que debes resolver acertijos, explorar la casa y salir de ella lo m\u00e1s r\u00e1pido posible.",
          "Desde": "",
          "Hasta": "2023/11/15 09:00",
-         "URL": "https://nishad-games.itch.io/poppy-time-plus",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDIyNy8xMjk2NDYzOC5wbmc=/347x500/KWqPdB.png",
+         "URL": "https://nishad-games.itch.io/alone",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY4MDE5Ni85ODk0Mjg2LmpwZw==/347x500/vXsira.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -382,12 +352,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "ALONE by NISHAD",
-         "Informacion": "Un modo historia de terror (juego en primera persona en 3D) en el que debes resolver acertijos, explorar la casa y salir de ella lo m\u00e1s r\u00e1pido posible.",
+         "Nombre": "POPPY TIME PLUS by NISHAD",
+         "Informacion": "En la oscuridad, tienes que escapar de tu propia casa debido al Sr. An\u00f3nimo, donde est\u00e1s con tu amigo NICHO, pero para abrir las puertas tienes que encontrar las llaves y asegurarte de que el Cachorro no te mate, mant\u00e9n tus ojos. en el cron\u00f3metro o tu cachorro te matar\u00e1.",
          "Desde": "",
          "Hasta": "2023/11/15 09:00",
-         "URL": "https://nishad-games.itch.io/alone",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY4MDE5Ni85ODk0Mjg2LmpwZw==/347x500/vXsira.jpg",
+         "URL": "https://nishad-games.itch.io/poppy-time-plus",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDIyNy8xMjk2NDYzOC5wbmc=/347x500/KWqPdB.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -449,6 +419,26 @@
          "URL": "https://store.epicgames.com/p/golden-light-f543b3",
          "IMG": "https://cdn1.epicgames.com/spt-assets/d3aec59bfafa4dd392d5c9b01abbaefd/golden-light-n6ioy.jpg",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Trespasser's Takeover by Ethan Winters",
+         "Informacion": "\"Trespasser's Takeover\" es un tenso juego de terror en el que hay un asesino peligroso en tu casa. Utilice c\u00e1maras para rastrearlos y reparar cosas para mantenerse a salvo. S\u00e9 m\u00e1s astuto que el intruso y logra pasar la noche.",
+         "Desde": "",
+         "Hasta": "2023/11/19 16:00",
+         "URL": "https://ethan-winters.itch.io/trespassers-takeover",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIzODA0My8xMzI1NzI3Ny5wbmc=/347x500/2eepG%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MacX Video Converter PRO Free License Key",
+         "Informacion": "MacX Video Converter Pro es un software todo en uno para Mac para descargar, convertir, editar y grabar videos en pantalla. MacX Video Converter Pro le permite descargar videos y m\u00fasica de sitios web y convertir videos de Youtube a Mp3 y Mp4 para reproducirlos sin conexi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/11/20 00:00",
+         "URL": "https://giveaway.tickcoupon.com/macx-video-converter-pro-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/get-macx-video-converter-pro-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -572,22 +562,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Surviving the Aftermath",
-         "Informacion": "\u00a1Sobrevive y prospera en un futuro postapocal\u00edptico! Los recursos escasean, pero la oportunidad llama a tu puerta. Crea la mejor colonia a prueba de desastres, protege a tus colonos y devuelve la civilizaci\u00f3n a un mundo devastado.",
-         "Desde": "2023/11/16",
-         "Hasta": "2023/11/23 17:00",
-         "URL": "https://store.epicgames.com/p/surviving-the-aftermath",
-         "IMG": "https://cdn1.epicgames.com/offer/95b4d5a753d042678f775d5e1eb5ab25/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1_2560x1440-61c69731778b92a32a9dbfd7c1a35d72",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
-      },
-      {
          "Nombre": "EARTHLOCK",
          "Informacion": "Der niedliche Grafikstil t\u00e4uscht: EARTHLOCK ist ein anspruchsvolles JRPG. Echte Genre-Fans werden es lieben, aber Gelegenheitsspieler sollten woanders suchen. Mit gen\u00fcgend Engagement bietet EARTHLOCK tiefgreifendes Gameplay, das selbst die besten Strategen herausfordert.",
          "Desde": "2023/11/16",
          "Hasta": "2023/11/23 17:00",
          "URL": "https://store.epicgames.com/p/earthlock-e7d979",
          "IMG": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-15ff1.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Surviving the Aftermath",
+         "Informacion": "\u00a1Sobrevive y prospera en un futuro postapocal\u00edptico! Los recursos escasean, pero la oportunidad llama a tu puerta. Crea la mejor colonia a prueba de desastres, protege a tus colonos y devuelve la civilizaci\u00f3n a un mundo devastado.",
+         "Desde": "2023/11/16",
+         "Hasta": "2023/11/23 17:00",
+         "URL": "https://store.epicgames.com/p/surviving-the-aftermath",
+         "IMG": "https://cdn1.epicgames.com/offer/95b4d5a753d042678f775d5e1eb5ab25/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1_2560x1440-61c69731778b92a32a9dbfd7c1a35d72",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
