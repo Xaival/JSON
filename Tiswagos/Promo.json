@@ -1,145 +1,15 @@
 {
-   "date_update": "20 Nov 2023 17:01 UTC",
+   "date_update": "21 Nov 2023 17:01 UTC",
    "values": [
       {
-         "Nombre": "Half-Life",
-         "Informacion": "Nombrado Juego del A\u00f1o por m\u00e1s de 50 publicaciones, el t\u00edtulo debut de Valve combina acci\u00f3n y aventura con tecnolog\u00eda galardonada para crear un mundo aterradoramente realista donde los jugadores deben pensar para sobrevivir. Tambi\u00e9n incluye un emocionante modo multijugador que te permite jugar contra amigos y enemigos de todo el mundo.",
+         "Nombre": "Zoom Player MAX",
+         "Informacion": "El reproductor multimedia m\u00e1s flexible y sofisticado para PC y tabletas con Windows",
          "Desde": "",
-         "Hasta": "2023/11/20 18:00",
-         "URL": "https://sharewareonsale.com/s/free-half-life-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/header-19.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Ace Of Space by StarSystemStudios",
-         "Informacion": "Ace of Space es un espectacular shooter espacial con toneladas de explosiones, potenciadores y armas. \u00a1Bloquea y carga!",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/ace-of-space",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzMyNDY0LzQwNzM2OTMuanBn/347x500/mL5zX6.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Apple Pop by StarSystemStudios",
-         "Informacion": "Apple Pop es un Puzzle Popper s\u00faper relajante y s\u00faper satisfactorio con potenciadores, hermosos paisajes y combos importantes para que cualquiera pueda jugar para pasar el tiempo o liberarse del estr\u00e9s. Apple Pop est\u00e1 inspirado en los fant\u00e1sticos juegos ''Peggle''.",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/apple-pop",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzMyNDc4LzQwNzM4NzYuanBn/347x500/BQfE3v.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Buried Chambers by StarSystemStudios",
-         "Informacion": "Buried Chambers es un shooter de plataformas de f\u00edsica incre\u00edblemente adictivo y lleno de acci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/buried-chambers",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzMxNzUzLzQwNjg5ODMuanBn/347x500/PbPkPO.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Defence War by StarSystemStudios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/defence-war",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzM2ODkwLzQxMDIxMzIuanBn/347x500/Cpwkg2.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "HuH: and the adventures of something by StarSystemStudios",
-         "Informacion": "\u00a1PRESENTACI\u00d3N! HuH: y las aventuras de algo",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/huh-and-the-adventures-of-something",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzMxMTczLzQwNjQ4MDMuanBn/347x500/A6PJrt.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Never Going Home by StarSystemStudios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/never-going-home",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODQ4NjgwLzQ3NTgwNTQuanBn/347x500/Jp3J9m.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Romanian Driver by Pcu Development",
-         "Informacion": "\u00a1LA HISTORIA DETR\u00c1S DEL JUEGO!",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://pcudev.itch.io/romanian-driver",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM1NzkzMC8xMzk2NzgwMS5wbmc=/347x500/q6Cver.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The house with too many zombies in it by StarSystemStudios",
-         "Informacion": "HOGuru presenta: La casa con demasiados zombis es un nuevo juego de acci\u00f3n del escritor de la exitosa pel\u00edcula de terror \u00a1HECHO REALIDAD! Ambientada durante un apocalipsis zombie, cuenta la historia de Crash Bromwell, quien ha sido elegido por Dios para salvar el mundo; desafortunadamente, tampoco le dijeron C\u00d3MO hacerlo.",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/the-house-with-too-many-zombies-in-it",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMxMzk4OS83NjQwNDI1LmpwZw==/347x500/CfmSnf.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The Orb Chambers REMASTERED by StarSystemStudios",
-         "Informacion": "Las c\u00e1maras del Orbe est\u00e1n de vuelta. Remasterizado y listo para enfrentar nuevos desaf\u00edos.",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/the-orb-chambers-remastered",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzM2OTMwLzQxMDI0MTUuanBn/347x500/qe3PdG.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The Quest for Achievements: Remix by StarSystemStudios",
-         "Informacion": "The Quest for Achievements Remix es un juego de rol informal de p\u00edxeles en el que eres un jugador com\u00fan y corriente que ahora tiene la tarea de guardar tu cuenta mientras buscas respuestas, luchas contra monstruos y capturas logros perdidos en el mundo real.",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/the-quest-for-achievements-remix",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzM3NzA2LzQxMDcyNzguanBn/347x500/hP7jeI.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Total Madness by StarSystemStudios",
-         "Informacion": "Madness est\u00e1 a punto de ser un infierno de balas brutal. \u00a1Sube de nivel a tu jugador y vu\u00e9lvete cada vez m\u00e1s rudo mientras te lanzas a una matanza sin fin!",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/total-madness",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzM2OTUwLzQxMDI1NTEuanBn/347x500/fTVXqk.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Twig & Flipper by StarSystemStudios",
-         "Informacion": "Twig & Flipper es un juego de plataformas en 2D con la capacidad de correr o volar. El juego sigue al h\u00e9roe 'Twig', un cuervo que puede adoptar forma humana o de p\u00e1jaro y su viaje para encontrar a su mejor amigo 'Flipper', un zorro m\u00e1gico. , que ha sido capturado por demonios que han invadido la Tierra. El juego presenta: - 20 niveles con 3 batallas contra jefes y muchos enemigos para mantenerte en el juego. - Terreno destructible, extrae el suelo para encontrar oro y otros materiales para subir de nivel tu \u00a1Habilidades de los personajes! - Armamento mortal. Dispara, sopla y corta tu camino a trav\u00e9s del mundo lleno de demonios. - \u00a1Transf\u00f3rmate sin problemas de forma humana a forma de p\u00e1jaro! - Sangre y sangre para dejar un sabor dulce en tu boca.",
-         "Desde": "",
-         "Hasta": "2023/11/21 00:00",
-         "URL": "https://starsystemstudios.itch.io/twig-flipper",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTEwNjA5My82MzgzMTIzLmpwZw==/347x500/iR7lRr.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Money Clickers by maicrogamestudios",
-         "Informacion": "\u00a1Convi\u00e9rtete en el hombre m\u00e1s rico del planeta en este juego!",
-         "Desde": "",
-         "Hasta": "2023/11/21 01:00",
-         "URL": "https://maicrogamestudios.itch.io/money-clickers",
-         "IMG": "https://img.itch.zone/aW1nLzEyMTcyNTM2LnBuZw==/347x500/wSuraq.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
+         "Hasta": "2023/11/22 09:00",
+         "URL": "https://www.bitsdujour.com/software/zoom-player-max/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/zoom-player-max-lrejq.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "ThunderSoft GIF Editor License Key for Free",
@@ -169,6 +39,26 @@
          "URL": "https://store.epicgames.com/p/surviving-the-aftermath",
          "IMG": "https://cdn1.epicgames.com/offer/95b4d5a753d042678f775d5e1eb5ab25/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1_2560x1440-61c69731778b92a32a9dbfd7c1a35d72",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Money Clickers by maicrogamestudios",
+         "Informacion": "\u00a1Convi\u00e9rtete en el hombre m\u00e1s rico del planeta en este juego!",
+         "Desde": "",
+         "Hasta": "2023/11/24 01:00",
+         "URL": "https://maicrogamestudios.itch.io/money-clickers",
+         "IMG": "https://img.itch.zone/aW1nLzEyMTcyNTM2LnBuZw==/347x500/wSuraq.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "KidMagiNation by Alexanda",
+         "Informacion": "Nota. S\u00f3lo se ejecuta en Windows. No es una demostraci\u00f3n. Esta es una aventura. Todas las aventuras lanzadas se pueden jugar en cualquier orden.",
+         "Desde": "",
+         "Hasta": "2023/11/24 01:59",
+         "URL": "https://galaxywave.itch.io/kidmagination",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQwOTI0OS84MjE4OTkzLmdpZg==/347x500/2PgkcJ.gif",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -272,22 +162,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "NEAT Projects 2",
-         "Informacion": "Fotografiar ciudades, plazas y monumentos sin elementos que distraigan la imagen: todo el mundo sabe lo dif\u00edcil que puede resultar. Con los nuevos proyectos NEAT 2, todo esto se puede hacer de forma totalmente autom\u00e1tica, sin tr\u00edpode y sin necesidad de procesar im\u00e1genes.",
-         "Desde": "",
-         "Hasta": "2023/11/26 08:00",
-         "URL": "https://sharewareonsale.com/s/free-neat-projects-2-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/70760-4_01_1280x1280@2x.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Audials Music 2024 SE",
          "Informacion": "Spotify, Amazon, Tidal y muchos m\u00e1s. Busque y guarde canciones de Deezer, Amazon Music, Soundcloud, Tidal, Spotify, otros servicios de streaming y portales de v\u00eddeo como copias privadas.",
          "Desde": "",
          "Hasta": "2023/11/26 08:00",
          "URL": "https://sharewareonsale.com/s/free-audials-music-2024-se-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/amuBoxShotatmedium.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "NEAT Projects 2",
+         "Informacion": "Fotografiar ciudades, plazas y monumentos sin elementos que distraigan la imagen: todo el mundo sabe lo dif\u00edcil que puede resultar. Con los nuevos proyectos NEAT 2, todo esto se puede hacer de forma totalmente autom\u00e1tica, sin tr\u00edpode y sin necesidad de procesar im\u00e1genes.",
+         "Desde": "",
+         "Hasta": "2023/11/26 08:00",
+         "URL": "https://sharewareonsale.com/s/free-neat-projects-2-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/70760-4_01_1280x1280@2x.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -299,6 +189,16 @@
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft\u00a0Website Watcher License Key for Free 2023",
+         "Informacion": "Vovsoft Website Watcher es una poderosa herramienta de monitoreo de sitios web dise\u00f1ada para ayudarlo a monitorear y rastrear cambios en m\u00faltiples sitios web simult\u00e1neamente, incluidos los canales RSS Atom. Proporciona un m\u00e9todo conveniente para controlar las actualizaciones del sitio web de la competencia, como modificaciones en el contenido, precios, disponibilidad de productos o cualquier otra modificaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2023/11/27 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-website-watcher-free-license-code/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/register-vovsoft-website-watcher.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -319,6 +219,16 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-encrypter-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/coolmuster-pdf-encrypter-giveaway-page.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Audials One 2023 Edition",
+         "Informacion": "El Audials One 2023 Edition es un subconjunto del modelo insignia Audials One.",
+         "Desde": "",
+         "Hasta": "2023/11/28 08:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-one-2023-edition-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/ao_seBoxshot@medium.png?9187",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -412,22 +322,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Thief Character by MarwaMJ",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2023/11/29 23:00",
          "URL": "https://marwamj.itch.io/thief-character",
          "IMG": "https://img.itch.zone/aW1nLzE0MDEyNzI4LnBuZw==/347x500/sHgpya.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2023/11/29 23:00",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -562,16 +472,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "South Of Hell by RaidGames Studios",
-         "Informacion": "Empiezas un nuevo trabajo la noche de Halloween en una gasolinera remota a 20 millas del pueblo m\u00e1s cercano. Vas a trabajar en un turno lento y aburrido de 8 horas, excepto que esta no ser\u00e1 una noche normal.",
-         "Desde": "",
-         "Hasta": "2023/11/30 07:00",
-         "URL": "https://raidgames-studios.itch.io/south-of-hell",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwNjc3Ny8xMzgwMzA5Ny5wbmc=/347x500/FvNfb8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Pazu Tidal Music Converter 1-Year License Key for Free",
          "Informacion": "Aunque tenga una suscripci\u00f3n a Tidal, uno de los servicios de transmisi\u00f3n de m\u00fasica m\u00e1s grandes con sonido de alta fidelidad y calidad de video de alta definici\u00f3n, a\u00fan no puede descargar m\u00fasica de Tidal para reproducirla sin conexi\u00f3n en sus reproductores MP3, computadoras y otros dispositivos. Esta es la raz\u00f3n principal por la que Pazu Tidal Music Converter resulta \u00fatil. Est\u00e1 dise\u00f1ado para descargar canciones, listas de reproducci\u00f3n y \u00e1lbumes de Tidal en formatos de audio populares, incluidos M4A/ MP3/ AAC/ FLAC/ WAV/ AIFF. Las salidas garantizan una calidad de sonido 100% original y la conservaci\u00f3n de etiquetas ID3 para disfrutar de audio de alta fidelidad sin p\u00e9rdidas en cualquier lugar que desee y administrar f\u00e1cilmente su biblioteca de m\u00fasica.",
          "Desde": "",
@@ -579,6 +479,16 @@
          "URL": "https://giveaway.tickcoupon.com/pazu-tidal-music-converter-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/pazu-tidal-music-converter-giveaway-page.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "South Of Hell by RaidGames Studios",
+         "Informacion": "Empiezas un nuevo trabajo la noche de Halloween en una gasolinera remota a 20 millas del pueblo m\u00e1s cercano. Vas a trabajar en un turno lento y aburrido de 8 horas, excepto que esta no ser\u00e1 una noche normal.",
+         "Desde": "",
+         "Hasta": "2023/11/30 07:00",
+         "URL": "https://raidgames-studios.itch.io/south-of-hell",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwNjc3Ny8xMzgwMzA5Ny5wbmc=/347x500/FvNfb8.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1858,6 +1768,16 @@
          "Hasta": "3607/08/12 09:00",
          "URL": "https://www.gog.com/en/game/the_whisperer",
          "IMG": "https://images.gog-statics.com/7a9268e5b5afe8c5821bb2cd46c2930137ca316e7b67507fa3d5247e7df7b799.jpg",
+         "Distribuidora": "GOG",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Styx: Shards of Darkness",
+         "Informacion": "\u00a1Styx regresa en una nueva aventura sigilosa! Contratado para una misi\u00f3n cr\u00edtica, explora y domina enormes entornos abiertos como Styx. Asesina o esquiva a enemigos (humanos, elfos y enanos), pero tambi\u00e9n a criaturas colosales y mucho m\u00e1s temibles. Experimenta con la nueva gama de habilidades y armas letales...",
+         "Desde": "",
+         "Hasta": "3670/08/01 09:00",
+         "URL": "https://www.gog.com/en/game/styx_shards_of_darkness",
+         "IMG": "https://images.gog-statics.com/11b4528bbb6454703c0a0ac95e711acce476f0b98cccd71d1fa744d9a4c671f3.jpg",
          "Distribuidora": "GOG",
          "Borde": "border-color: #00ff00;"
       }
