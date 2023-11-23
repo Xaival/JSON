@@ -1,46 +1,6 @@
 {
-   "date_update": "22 Nov 2023 17:02 UTC",
+   "date_update": "23 Nov 2023 17:01 UTC",
    "values": [
-      {
-         "Nombre": "This hole in my chest by RicoAlbe",
-         "Informacion": "Utilice las teclas de flecha o WASD para moverse. Alternativamente, haga clic o toque la posici\u00f3n a la que desea que se mueva el tri\u00e1ngulo.",
-         "Desde": "",
-         "Hasta": "2023/11/23 01:00",
-         "URL": "https://ricoalbe.itch.io/this-hole",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNDYxLzEzNzIwODMucG5n/347x500/pBP9H6.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "how not to sink by RicoAlbe",
-         "Informacion": "C\u00f3mo no hundirse es un juego inspirado en mi experiencia con la ansiedad. Te pedir\u00e1 que escribas sobre tu d\u00eda, tus miedos y sentimientos, ser\u00e1 una experiencia muy personal, aseg\u00farate de jugarlo por tu cuenta para que puedas sumergirte en \u00e9l sin restricciones.",
-         "Desde": "",
-         "Hasta": "2023/11/23 01:00",
-         "URL": "https://ricoalbe.itch.io/how-not-to-sink",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTAzODAvNjg0MDk4LnBuZw==/347x500/fIDFJE.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "BLIODNIUM by TalyBayStudios",
-         "Informacion": "En \"Bliodnium\" controlas una bolita en un entorno de gravedad cero, superas obst\u00e1culos y dominas cada nivel. \u00bfPuede?",
-         "Desde": "",
-         "Hasta": "2023/11/23 05:00",
-         "URL": "https://talybaystudios.itch.io/bliodnium",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyODI2OC8xMjgyMjY1NS5naWY=/347x500/d60Sbw.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "MECH ZERO: Lost in Space by TalyBayStudios",
-         "Informacion": "MECH ZERO: Lost in Space es un juego de acci\u00f3n Hack'n'Slash en el que controlas a un robot que est\u00e1 huyendo debido a que es una m\u00e1quina de destrucci\u00f3n masiva, es decir, fue programada para matar.",
-         "Desde": "",
-         "Hasta": "2023/11/23 05:00",
-         "URL": "https://talybaystudios.itch.io/mech-zero-lost-in-space",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2NDM0Ni85MTA1MjA3LmpwZw==/347x500/JS3Ria.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
       {
          "Nombre": "ThunderSoft GIF Editor License Key for Free",
          "Informacion": "ThunderSoft GIF Editor es una aplicaci\u00f3n de edici\u00f3n de im\u00e1genes que viene con una funci\u00f3n conveniente para refinar sus archivos GIF. Esta herramienta le permite obtener una vista previa perfecta de cada cuadro individual para ajustar sin esfuerzo su duraci\u00f3n. Adem\u00e1s, te permite ajustar la duraci\u00f3n de cada cuadro. Tiene la libertad de acelerar la animaci\u00f3n o dejar que ciertos fotogramas permanezcan para ajustar la sincronizaci\u00f3n a la perfecci\u00f3n.",
@@ -49,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/thundersoft-gif-editor-free-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/register-thundersoft-gif-editor.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "EARTHLOCK",
@@ -59,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/earthlock-e7d979",
          "IMG": "https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-15ff1.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Surviving the Aftermath",
@@ -69,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/surviving-the-aftermath",
          "IMG": "https://cdn1.epicgames.com/offer/95b4d5a753d042678f775d5e1eb5ab25/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1_2560x1440-61c69731778b92a32a9dbfd7c1a35d72",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Money Clickers by maicrogamestudios",
@@ -79,7 +39,7 @@
          "URL": "https://maicrogamestudios.itch.io/money-clickers",
          "IMG": "https://img.itch.zone/aW1nLzEyMTcyNTM2LnBuZw==/347x500/wSuraq.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "KidMagiNation by Alexanda",
@@ -89,7 +49,7 @@
          "URL": "https://galaxywave.itch.io/kidmagination",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwOTI0OS84MjE4OTkzLmdpZg==/347x500/2PgkcJ.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "The Vector Graphics Club",
@@ -99,6 +59,26 @@
          "URL": "https://sharewareonsale.com/s/free-the-vector-graphics-club-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/Front-MVC-2-1.png?1357",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "Zoom Player MAX",
+         "Informacion": "El reproductor multimedia m\u00e1s flexible y sofisticado para PC y tabletas con Windows",
+         "Desde": "",
+         "Hasta": "2023/11/24 09:00",
+         "URL": "https://www.bitsdujour.com/software/zoom-player-max/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/zoom-player-max-lrejq.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Donemax Disk Clone for Windows Free Key",
+         "Informacion": "Donemax Disk Clone para Windows (DMclone) es un software confiable de clonaci\u00f3n de discos. Puede ayudar a los usuarios de Windows a clonar de forma segura y sencilla HDD, SSD, unidad flash USB, tarjeta de memoria, RAID y servidor de una ubicaci\u00f3n a otra. Ofrece una soluci\u00f3n de clonaci\u00f3n de discos sector por sector para copiar discos duros sin p\u00e9rdida de datos. Este potente software de clonaci\u00f3n de discos ofrece dos soluciones de clonaci\u00f3n de discos: clonaci\u00f3n de particiones y clonaci\u00f3n de discos. Puede clonar una partici\u00f3n de disco o una unidad de disco duro completa con este software de clonaci\u00f3n de discos. Donemax Disk Clone para Windows es totalmente compatible con Windows 11, 10, 8, 8.1, 7, Vista y Windows Server.",
+         "Desde": "",
+         "Hasta": "2023/11/24 15:00",
+         "URL": "https://giveaway.tickcoupon.com/donemax-disk-clone-for-windows/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/10/install-donemax-disk-clone-for-windows.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -108,16 +88,6 @@
          "Hasta": "2023/11/24 15:00",
          "URL": "https://giveaway.tickcoupon.com/multcloud-unlimited-traffic-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/thumbs_dir/MultCloud-1wz19be2kb917mf77n0fjiqwa5rmft6y42mioma3m7ec.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Donemax Disk Clone for Windows Free Key",
-         "Informacion": "Donemax Disk Clone para Windows (DMclone) es un software confiable de clonaci\u00f3n de discos. Puede ayudar a los usuarios de Windows a clonar de forma segura y sencilla HDD, SSD, unidad flash USB, tarjeta de memoria, RAID y servidor de una ubicaci\u00f3n a otra. Ofrece una soluci\u00f3n de clonaci\u00f3n de discos sector por sector para copiar discos duros sin p\u00e9rdida de datos. Este potente software de clonaci\u00f3n de discos ofrece dos soluciones de clonaci\u00f3n de discos: clonaci\u00f3n de particiones y clonaci\u00f3n de discos. Puede clonar una partici\u00f3n de disco o una unidad de disco duro completa con este software de clonaci\u00f3n de discos. Donemax Disk Clone para Windows es totalmente compatible con Windows 11, 10, 8, 8.1, 7, Vista y Windows Server.",
-         "Desde": "",
-         "Hasta": "2023/11/24 15:00",
-         "URL": "https://giveaway.tickcoupon.com/donemax-disk-clone-for-windows/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/10/install-donemax-disk-clone-for-windows.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -222,6 +192,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Walk by NoiroVideoGames",
+         "Informacion": "Bienvenidos a Caminar.",
+         "Desde": "",
+         "Hasta": "2023/11/26 10:00",
+         "URL": "https://noirovideogames.itch.io/walk",
+         "IMG": "https://img.itch.zone/aW1nLzY3MjY3MjEuanBn/347x500/AxoXQH.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Formation Vee by NoiroVideoGames",
+         "Informacion": "Bienvenido a Formaci\u00f3n Vee. Un juego de carreras contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en Formation Vee. Usted conduce usando la potencia de la rueda para empujar la transmisi\u00f3n izquierda o derecha.",
+         "Desde": "",
+         "Hasta": "2023/11/26 10:00",
+         "URL": "https://noirovideogames.itch.io/formation-vee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODM5MjYzLzQ3MDQ2ODkucG5n/347x500/RSqFJU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
          "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
          "Desde": "",
@@ -272,6 +262,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "I Am Not Crazy by Archille",
+         "Informacion": "NOTA:",
+         "Desde": "",
+         "Hasta": "2023/11/28 10:00",
+         "URL": "https://archille.itch.io/i-am-not-crazy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgxMTkzMC8xMDYzODg3Ni5wbmc=/347x500/3jnjyv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Nightmare's End by Archille",
          "Informacion": "[MANIFESTACI\u00d3N]",
          "Desde": "",
@@ -302,12 +302,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "I Am Not Crazy by Archille",
-         "Informacion": "NOTA:",
+         "Nombre": "Sea Town: Nightmare Night by David Pires",
+         "Informacion": "Trabajas como guardia de seguridad en una estaci\u00f3n de metro y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
          "Desde": "",
-         "Hasta": "2023/11/28 10:00",
-         "URL": "https://archille.itch.io/i-am-not-crazy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgxMTkzMC8xMDYzODg3Ni5wbmc=/347x500/3jnjyv.png",
+         "Hasta": "2023/11/28 23:42",
+         "URL": "https://david-pires.itch.io/sea-town-nightmare-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk2NjE0Ny8xMjM3OTQxMy5wbmc=/347x500/Kmmyro.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 3 by David Pires",
+         "Informacion": "Trabajas como guardia de seguridad en un centro comercial y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2023/11/28 23:42",
+         "URL": "https://david-pires.itch.io/sea-town-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1Nzg1MS8xMjM3OTQzNi5wbmc=/347x500/I9JGWg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 2 by David Pires",
+         "Informacion": "Est\u00e1s encerrado en una antigua f\u00e1brica y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2023/11/28 23:42",
+         "URL": "https://david-pires.itch.io/sea-town-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NTY0MS8xMjM3OTQ2My5wbmc=/347x500/csnbwQ.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -462,6 +482,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AnyViewer Professional License Key for Free",
+         "Informacion": "AnyViewer Professional es una herramienta de soporte remoto y acceso a computadoras simple pero la mejor de su clase que lo ayudar\u00e1 a eliminar los controles de la PC y el trabajo remoto a trav\u00e9s de Internet desde cualquier lugar. La herramienta permite a peque\u00f1as y medianas empresas o usuarios individuales monitorear, administrar y reparar f\u00e1cilmente de forma remota la PC. Tambi\u00e9n viene con una funci\u00f3n de transferencia de archivos para ayudarlo a cambiar la posici\u00f3n de los archivos de una PC a otra o a varias PC a la vez con alta calidad.",
+         "Desde": "",
+         "Hasta": "2023/11/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/anyviewer-professional-vip-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/log-in-to-anyviewer-professional.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Autismo \"vroom\" by Bustijin Teller, Adam101001011010Jstin",
          "Informacion": "\"Woooooooooooooooooooooooooooooooooooooooooooo\"",
          "Desde": "",
@@ -502,22 +532,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Haunting of Hollow Manor by qLes",
-         "Informacion": "[A\u00d1O 1999]",
-         "Desde": "",
-         "Hasta": "2023/11/30 01:00",
-         "URL": "https://q-les.itch.io/the-haunting-of-hollow-manor",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMyNTMyOS8xMzg1NzQ4Ny5wbmc=/347x500/h7yin8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "ProSignal by TheAresjej",
          "Informacion": "Nuestro objetivo es crear el mejor juego de supervivencia, por eso creamos Project Signal, un juego en el que podr\u00e1s explorar la isla, realizar tareas de estilo RPG, desarrollar tu personaje, unirte a un grupo de tu elecci\u00f3n y construir tu propia aldea. \u00a1O crea tu propio equipo y conquista todo el mundo del juego!",
          "Desde": "",
          "Hasta": "2023/11/30 01:00",
          "URL": "https://thearesjej.itch.io/prosignal",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzY2Njg5LzEwOTIzNTQ4LmpwZw==/347x500/mrWVZF.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Haunting of Hollow Manor by qLes",
+         "Informacion": "[A\u00d1O 1999]",
+         "Desde": "",
+         "Hasta": "2023/11/30 01:00",
+         "URL": "https://q-les.itch.io/the-haunting-of-hollow-manor",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMyNTMyOS8xMzg1NzQ4Ny5wbmc=/347x500/h7yin8.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -612,6 +642,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "550 Gradient Backgrounds",
+         "Informacion": "Dale un ambiente aut\u00e9ntico a tus gr\u00e1ficos",
+         "Desde": "",
+         "Hasta": "2023/11/30 08:00",
+         "URL": "https://sharewareonsale.com/s/free-550-gradient-backgrounds-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/02/500-Gradient-Backgrounds-200x133.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Twix, The Book Collector by Frexcellor",
+         "Informacion": "Este juego recibir\u00e1 actualizaciones.",
+         "Desde": "",
+         "Hasta": "2023/11/30 08:00",
+         "URL": "https://frexcellor.itch.io/twix-the-book-collector",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM4MDY2Mi8xNDA5NTkyOC5wbmc=/347x500/gv6j83.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ROGUE A.I     V.1.3.2 by Blue Bandana Studio",
          "Informacion": "ESTE JUEGO SE ENCUENTRA ACTUALMENTE EN BETA TEMPRANA, TENGA EN CUENTA QUE EL JUEGO EST\u00c1 SIENDO DESARROLLADO Y SE PUBLICAR\u00c1 EN ESTA P\u00c1GINA",
          "Desde": "",
@@ -629,7 +679,7 @@
          "URL": "https://store.epicgames.com/p/deliver-us-mars",
          "IMG": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S1_2560x1440-b5b36e7ef7feabf180837cc9d15efdae",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "GLADIATOR by TylerPitcock",
@@ -1412,6 +1462,16 @@
          "Borde": "border-color: #ff9600;"
       },
       {
+         "Nombre": "Mighty Fight Federation",
+         "Informacion": "Lanza a tus adversarios contra las paredes o al aire y luego abal\u00e1nzate sobre ellos con una andanada de golpes vertiginosos en este fabuloso juego de lucha. Elige entre 14\u00a0personajes con estilos de juego \u00fanicos. Combate en partidas 1c1, forma un equipo con otros luchadores o abraza el caos de los modos todos contra todos.",
+         "Desde": "2023/11/30",
+         "Hasta": "2023/12/07 17:00",
+         "URL": "https://store.epicgames.com/p/mighty-fight-federation",
+         "IMG": "https://cdn1.epicgames.com/offer/651d07f1eee8419e80eb2938f8f44cf0/EGS_MightyFightFederation_KomiGamesInc_S1_2560x1440-36750efe9ee51b49db0e85d4a577e4ff_2560x1440-36750efe9ee51b49db0e85d4a577e4ff",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Allavsoft Video Downloader Registration Code for Free",
          "Informacion": "Allavsoft es un software de descarga para Windows, admite la descarga de pel\u00edculas, videos musicales, listas de reproducci\u00f3n, videos deportivos, conferencias y m\u00e1s desde sitios web gratuitos para compartir videos como YouTube, Spotify, Facebook, Vimeo, Twitter, eHow, Dailymotion, Soundcloud y m\u00e1s. de 1000 sitios para compartir v\u00eddeos. Tambi\u00e9n ayuda a extraer y descargar audio de pel\u00edculas o v\u00eddeos musicales en l\u00ednea. El descargador de m\u00fasica en video Allavsoft tambi\u00e9n admite la adici\u00f3n de m\u00faltiples URL de videos y la descarga por lotes y la conversi\u00f3n de m\u00faltiples videos a la vez.",
          "Desde": "",
@@ -1472,6 +1532,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Bulk Image Downloader 3-Month License Key for Free",
+         "Informacion": "\u00bfEst\u00e1 buscando una aplicaci\u00f3n que pueda ayudarle a descargar r\u00e1pidamente fotos de galer\u00edas web con un solo clic, de forma masiva, en lugar de descargarlas una por una? Entonces Imaget \u2013 Bulk Image Downloader es tu elecci\u00f3n. Imaget \u2013 Bulk Image Downloader es un descargador de im\u00e1genes en la categor\u00eda de fotos y gr\u00e1ficos que est\u00e1 especialmente dise\u00f1ado para ayudarlo a descargar im\u00e1genes de tama\u00f1o completo de casi cualquier galer\u00eda web de m\u00faltiples sitios web o plataformas de redes sociales como Pinterest, Flickr, Imagevenue, Imagefap y la mayor\u00eda de los otros sitios populares de alojamiento de im\u00e1genes.",
+         "Desde": "",
+         "Hasta": "2023/12/23 00:00",
+         "URL": "https://giveaway.tickcoupon.com/imaget-bulk-image-downloader-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/get-bulk-image-downloader-license.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ungrateful Birds: No Good Deed by John D. Moore",
          "Informacion": "Pero una noche, cuando caminas por el bosque, escuchas los gritos angustiados de los p\u00e1jaros que han sido cruelmente confinados en jaulas haciendo eco a tu alrededor. Alguien debe ayudar a liberar a los pobres p\u00e1jaros y no hay nadie m\u00e1s alrededor. Pero cuando abras sus jaulas, no te lo agradecer\u00e1n: las criaturas confundidas y enojadas se volver\u00e1n contra ti. H\u00e1galo solo o llame a un amigo. Esto podr\u00eda llevar toda la noche.",
          "Desde": "",
@@ -1520,6 +1590,16 @@
          "IMG": "https://img.itch.zone/aW1hZ2UvMjEzMjczNS8xMjU2ODcyMy5qcGc=/347x500/a0UmH8.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gloomhaven",
+         "Informacion": "Tanto si deseas venir a las tierras de Gloomhaven para ir en busca de aventuras como si lo que te mueve es un \u00e1vido deseo de hallar el fulgor del oro en medio de la oscuridad, con toda seguridad correr\u00e1s la misma suerte...",
+         "Desde": "2023/12/13",
+         "Hasta": "2024/01/10 17:00",
+         "URL": "https://store.epicgames.com/p/gloomhaven-92f741",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Space Cadets 2D by Nutty Studios",
