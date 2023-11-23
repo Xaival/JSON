@@ -1,5 +1,5 @@
 {
-   "date_update": "22 Nov 2023 17:01 UTC",
+   "date_update": "23 Nov 2023 17:01 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3414,6 +3414,9 @@
       },
       {
          "Direccion": "0.0.0.0 freemoney123.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 www.opera.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 expertsofty.com #AntiSpam"
