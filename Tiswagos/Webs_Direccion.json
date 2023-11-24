@@ -1,5 +1,5 @@
 {
-   "date_update": "23 Nov 2023 17:01 UTC",
+   "date_update": "24 Nov 2023 17:06 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3266,6 +3266,9 @@
          "Direccion": "0.0.0.0 best.verpelisgo.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 just-watch.org #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 box-locker.org #AntiSpam"
       },
       {
@@ -3416,9 +3419,6 @@
          "Direccion": "0.0.0.0 freemoney123.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 www.opera.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 expertsofty.com #AntiSpam"
       },
       {
@@ -3453,6 +3453,9 @@
       },
       {
          "Direccion": "0.0.0.0 softfilesavesite.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 www.opera.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.secure-online-browsing.com #AntiSpam"
