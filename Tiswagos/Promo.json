@@ -1,376 +1,6 @@
 {
-   "date_update": "26 Nov 2023 17:03 UTC",
+   "date_update": "27 Nov 2023 17:03 UTC",
    "values": [
-      {
-         "Nombre": "Formation Vee by NoiroVideoGames",
-         "Informacion": "Bienvenido a Formaci\u00f3n Vee. Un juego de carreras contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en Formation Vee. Usted conduce usando la potencia de la rueda para empujar la transmisi\u00f3n izquierda o derecha.",
-         "Desde": "",
-         "Hasta": "2023/11/26 10:00",
-         "URL": "https://noirovideogames.itch.io/formation-vee",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODM5MjYzLzQ3MDQ2ODkucG5n/347x500/RSqFJU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Walk by NoiroVideoGames",
-         "Informacion": "Bienvenidos a Caminar.",
-         "Desde": "",
-         "Hasta": "2023/11/26 10:00",
-         "URL": "https://noirovideogames.itch.io/walk",
-         "IMG": "https://img.itch.zone/aW1nLzY3MjY3MjEuanBn/347x500/AxoXQH.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
-         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
-         "Desde": "",
-         "Hasta": "2023/11/26 13:00",
-         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Car Crushers BETA by maicrogamestudios",
-         "Informacion": "Hola, soy un desarrollador independiente en solitario y este es mi segundo proyecto terminado. Decid\u00ed subir una versi\u00f3n beta del juego porque quiero recibir comentarios. Hay errores que conozco :) pero ese es el prop\u00f3sito de esta versi\u00f3n beta del juego.",
-         "Desde": "",
-         "Hasta": "2023/11/27 01:00",
-         "URL": "https://maicrogamestudios.itch.io/car-crushers-beta",
-         "IMG": "https://img.itch.zone/aW1nLzE0MTI2MTEyLnBuZw==/347x500/bVnwmG.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Vovsoft\u00a0Website Watcher License Key for Free 2023",
-         "Informacion": "Vovsoft Website Watcher es una poderosa herramienta de monitoreo de sitios web dise\u00f1ada para ayudarlo a monitorear y rastrear cambios en m\u00faltiples sitios web simult\u00e1neamente, incluidos los canales RSS Atom. Proporciona un m\u00e9todo conveniente para controlar las actualizaciones del sitio web de la competencia, como modificaciones en el contenido, precios, disponibilidad de productos o cualquier otra modificaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2023/11/27 04:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-website-watcher-free-license-code/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/register-vovsoft-website-watcher.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
-      },
-      {
-         "Nombre": "A Starspangled Zephyr / \u00e6\u0098\u009f\u00e6\u009d\u00a1\u00e6\u0097\u0097\u00e3\u0081\u00ae\u00e9\u00a2\u00a8 by Dylan Cassidy",
-         "Informacion": "A Starspangled Zephyr es un juego de arcade experimental. Te desplazas por el espacio y luchas contra jefes psicod\u00e9licos, que atacan con patrones err\u00e1ticos y amorfos.",
-         "Desde": "",
-         "Hasta": "2023/11/27 08:00",
-         "URL": "https://dylancassidy.itch.io/a-starspangled-zephyr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYzNDkvMzc0NzUyLnBuZw==/347x500/emtLjz.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Cosmic Zephyr DX / \u00e5\u00ae\u0087\u00e5\u00ae\u0099\u00e3\u0081\u00ae\u00e9\u00a2\u00a8DX by Dylan Cassidy",
-         "Informacion": "Cosmic Zephyr DX es un intenso juego de infierno de balas en 3D en tercera persona. Los jugadores librar\u00e1n 13 batallas \u00e9picas mientras vuelan por el espacio exterior. La jugabilidad es atractiva, din\u00e1mica e intensamente desafiante.\r\nEl jugador controla un personaje que persigue a sus enemigos entre las estrellas. Ambos viajan por un t\u00fanel que gira de manera impredecible. Debes atacar a cada enemigo sin que te golpeen.",
-         "Desde": "",
-         "Hasta": "2023/11/27 08:00",
-         "URL": "https://dylancassidy.itch.io/cosmic-zephyr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYzMzkvMzU5NjExMC5wbmc=/347x500/7Y5gZM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Hide Files",
-         "Informacion": "Vovsoft Hide Files es un programa f\u00e1cil de usar para proteger su informaci\u00f3n confidencial para que no sea vista o accedida. Puede ocultar f\u00e1cilmente archivos, carpetas o incluso unidades USB y mantenerlos seguros con una contrase\u00f1a.",
-         "Desde": "",
-         "Hasta": "2023/11/27 09:00",
-         "URL": "https://www.bitsdujour.com/software/hide-files/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/hide-files-elzwv.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Assassin at Crimson Keep by ShadowGlass",
-         "Informacion": "Assassin at Crimson Keep es una novela visual corta ambientada en un mundo oscuro y casi de fantas\u00eda.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://shadowglass.itch.io/assassin-at-crimson-keep",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIxMDEwOS8xMDgwNTYyNi5wbmc=/347x500/QNELr8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Bits Game by Player Studio27",
-         "Informacion": "Este Juego trata sobre los bits cambia de paleta de colore para resolver combinaciones o puzzle",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://player-studio27.itch.io/bits-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjQ1NjM0LzQ0OTMwNTguZ2lm/347x500/zTW51L.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Campers Killers (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Chaotic Ascent by max levine stuff",
-         "Informacion": "\u00a1Sube cada vez m\u00e1s alto, pero no te aplastes, te atrape ni te golpeen!",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/chaotic-ascent",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTgyNTQvNDYwMDg3LmdpZg==/347x500/FVH%2Fwl.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xMjg0ODY5NC5wbmc=/347x500/IpoPtL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Floppy Disk by F1R3CPU Studios",
-         "Informacion": "Floppy Disk es un juego inspirado en el juego original \"Flappy Bird\". El juego cl\u00e1sico es un p\u00e1jaro que salta y pasa por tuber\u00edas. \u00a1Pero en este juego hay un disquete literal que salta y pasa a trav\u00e9s de tuber\u00edas!",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://f1r3cpu-studios.itch.io/floppy-disk",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNjIwNi8xMTY0MDA2MC5wbmc=/347x500/w03MAJ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Giant Stomp by max levine stuff",
-         "Informacion": "Eres un gigante, un protector del medio ambiente. Los humanos somos una enfermedad; \u00a1Elim\u00ednelos, pero tenga cuidado de no aplastar los \u00e1rboles! Corredor infinito.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/giant-stomp",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU3MjMvNDAzODU1LmdpZg==/347x500/DB7PhY.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Glyph Hunter 3D by Eric C",
-         "Informacion": "Cazador de glifos: 3D",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://eric-cousins.itch.io/glyphhunter3d",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzMjkyNC8xMDUzNDkzMy5wbmc=/347x500/nohPam.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Hungry Hippo in the Water by max levine stuff",
-         "Informacion": "Para ser un hipop\u00f3tamo exitoso...",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/hungry-hippo-in-the-water",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU2OTcvNDAzNzY5LmdpZg==/347x500/24TiHc.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Inertia by max levine stuff",
-         "Informacion": "Me siento tan impotente y libre. . .",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/inertia",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU4NzYvNDA0NjYyLnBuZw==/347x500/9W6pmc.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "NEO: The Game by Orion Game Studio, Yevons",
-         "Informacion": "\u00danase a un universo persistente de un solo servidor, completamente construido y dirigido por jugadores.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://oriongame.itch.io/neo",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU0NjM0Lzk3MDI1NTYucG5n/347x500/MkUpCE.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "No Puedes Escapar by Player Studio27",
-         "Informacion": "\"No Puedes Escapar\"",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://player-studio27.itch.io/no-puedes-escapar",
-         "IMG": "https://img.itch.zone/aW1nLzExNTA3NDAyLnBuZw==/347x500/CAYbsk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Rylee's Lunchboxes by LittleMugGames",
-         "Informacion": "\u00e2LLEVAR\u00c9 LAS LOncheras YUMGEM A SU ANTIGUA GLORIA\u00e2",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://littlemuggames.itch.io/rylees-lunchboxes",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg2NDAzNi8xMjgxMjI0NS5wbmc=/347x500/JUJHY0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Side Shooter by max levine stuff",
-         "Informacion": "\u00a1Lucha contra 4 fases de invasores alien\u00edgenas, heroico defensor de la tierra! Dale a los humanos suficiente tiempo para evacuar, antes de que los implacables alien\u00edgenas destrocen el lugar.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/side-shooter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTM0MjgvMzMwMzY3NS5wbmc=/347x500/JL97sO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Survival In Submarino by Player Studio27",
-         "Informacion": "en Ingl\u00e9s:",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://player-studio27.itch.io/survival-in-submarino",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQzMzUwMS84NDA0MjkwLnBuZw==/347x500/0ZjInN.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Swarm Saucers by max levine stuff",
-         "Informacion": "\u00a1Tienes que ir a la convenci\u00f3n del queso, pero los extraterrestres te est\u00e1n atacando! Juega a trav\u00e9s de una serie de desaf\u00edos y una historia divertida. No te llevar\u00e1 mucho tiempo, es divertido, enriquecer\u00e1 tu vida y es gratis, entonces, \u00bfqu\u00e9 puedes perder?",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/swarm-saucers",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwMTM2Lzg0Mjk2NC5wbmc=/347x500/kbxsXa.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Burning Locks by max levine stuff",
-         "Informacion": "Busca las pistas. El tribunal mundial de los vivos ha declarado tu inocencia, pero debes darte cuenta t\u00fa mismo para regresar con ellos. Una chispa, una neurona dispar\u00e1ndose, para encender un fuego. O languidecer aqu\u00ed dentro de tu propia mente.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/the-burning-locks",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzY4Nzg3LzE5NDA1ODQucG5n/347x500/PFqEfT.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Flight of Silent Bob by max levine stuff",
-         "Informacion": "Bob es un drag\u00f3n silencioso, excepto cuando ruge.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/the-flight-of-silent-bob",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU2NjQvNDAzNzAzLmdpZg==/347x500/%2BqvVmj.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The kitchen of Sopa's by So-pa",
-         "Informacion": "The Kitchen of Sopa's es un juego de terror ambientado en una misteriosa cocina dentro de un restaurante apartado. Tu objetivo es sobrevivir y cocinar sopas que se solicitan al azar. Ten cuidado con la puerta. El juego est\u00e1 disponible en portugu\u00e9s e ingl\u00e9s, con una duraci\u00f3n media de juego de 20 minutos. Ten cuidado con la puerta y mantenla cerrada.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://so-pa.itch.io/the-kitchen-of-sopas",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwODc2NC8xMzA2MTM5OS5wbmc=/347x500/nxKZRV.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Three Glyph Tiles by ModularIndependent",
-         "Informacion": "Three Glyph Tiles es un juego de rompecabezas de colocaci\u00f3n de fichas dise\u00f1ado para medir la capacidad de una persona para recordar fichas y s\u00edmbolos usados \u200b\u200bmientras los organiza seg\u00fan patrones. Una ronda completa de juego dura unos 10 minutos y consiste en colocar 64 fichas en cuatro oleadas de 16 para lograr una puntuaci\u00f3n final.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://modularindependent.itch.io/three-glyph-tiles",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1MDYxMC8xMjc5MTU5My5wbmc=/347x500/aFfVrY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Who You Are II by Player Studio27",
-         "Informacion": "La secuela del juego Who You Are explica mejor los eventos del primer juego. Contiene m\u00e1s niveles, mejores cinem\u00e1ticas y m\u00e1s dificultad.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://player-studio27.itch.io/who-you-are-ii",
-         "IMG": "https://img.itch.zone/aW1nLzU1NzI2NTUucG5n/347x500/eiMvZ7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zombie Apocalypse by max levine stuff",
-         "Informacion": "3 mundos abiertos para explorar. Busca munici\u00f3n sigilosamente antes de enfrentarte a la horda, entonces ser\u00e1 un juego de disparos lleno de acci\u00f3n. Lleno de momentos tensos y miedo genuino. Limpia cada \u00e1rea de zombies para asegurarla. Sobrevive o muere en el intento.",
-         "Desde": "",
-         "Hasta": "2023/11/27 10:00",
-         "URL": "https://maximilian.itch.io/zombie-apocalypse",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTcwNDcvNDU1NzQ4LmdpZg==/347x500/%2F5ScOi.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "Strange Toilet : The Forgotten Shit by TheThil",
          "Informacion": "Es una precuela de Strange Toilet de TheThil (itch.io). \u00a1El juego fue TOP 1 en itch.io durante algunos meses seguidos! El tiempo de juego esperado es de aproximadamente 1 hora. El juego tiene 3 finales posibles basados \u200b\u200ben decisiones.",
@@ -379,7 +9,17 @@
          "URL": "https://thethil.itch.io/strange-toilet-tfs",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NzAxMS8xMzU4MDA1NC5qcGc=/347x500/fAMvKk.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
+      },
+      {
+         "Nombre": "Strange Toilet 2 by TheThil",
+         "Informacion": "El tiempo de juego esperado es de unos 30 minutos. El juego tiene 3 finales posibles.",
+         "Desde": "",
+         "Hasta": "2023/11/27 21:00",
+         "URL": "https://thethil.itch.io/strange-toilet-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NzAxMS8xMzU4MDA1NC5qcGc=/347x500/fAMvKk.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Encrypter 1-Yea License Key Free",
@@ -389,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-encrypter-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/coolmuster-pdf-encrypter-giveaway-page.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "DearMob iPhone Manager Free License Key Giveaway",
@@ -399,17 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/12/dearmob-iphone-manager-license-code-free-2023.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Audials One 2023 Edition",
-         "Informacion": "El Audials One 2023 Edition es un subconjunto del modelo insignia Audials One.",
-         "Desde": "",
-         "Hasta": "2023/11/28 08:00",
-         "URL": "https://sharewareonsale.com/s/free-audials-one-2023-edition-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/ao_seBoxshot@medium.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ashampoo UnInstaller 11",
@@ -419,7 +49,17 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-11-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/boxshot-21.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "Audials One 2023 Edition",
+         "Informacion": "El Audials One 2023 Edition es un subconjunto del modelo insignia Audials One.",
+         "Desde": "",
+         "Hasta": "2023/11/28 08:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-one-2023-edition-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/ao_seBoxshot@medium.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "15 Seconds TO DIE by SoftDev",
@@ -592,12 +232,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Easter Clicker - Idle Egg Hunter by Nutty Studios",
+         "Informacion": "Hola a todos, gracias por ver este juego.",
+         "Desde": "",
+         "Hasta": "2023/11/28 10:00",
+         "URL": "https://nutty-studios.itch.io/easter-clicker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4ODI1Mi8xMTgxNTM5OC5wbmc=/347x500/YR43Ex.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Elastic Egg : A bouncing adventure by hippomobil",
          "Informacion": "\u00a1Emb\u00e1rcate en un viaje \u00fanico y emocionante con Odile el avestruz y su extraordinario huevo el\u00e1stico! Este fant\u00e1stico juego te lleva a un mundo donde el incre\u00edble huevo de avestruz tiene mente propia y se abre camino hacia infinitas aventuras.",
          "Desde": "",
          "Hasta": "2023/11/28 10:00",
          "URL": "https://hippomobil.itch.io/elastic-egg",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM0MDY5My8xMzg2NjI5Ni5qcGc=/347x500/O0S%2BW8.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fear Assessment by Alexander Wiseman",
+         "Informacion": "El programa FEAR ASSESSMENT\u00a0es una prueba especializada desarrollada e implementada por agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web y la informaci\u00f3n de su disco duro.",
+         "Desde": "",
+         "Hasta": "2023/11/28 10:00",
+         "URL": "https://alexander-wiseman.itch.io/fear-assessment",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjExOTgzNy8xMjY3MTUxMS5wbmc=/347x500/bBN61Y.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -748,6 +408,16 @@
          "Hasta": "2023/11/28 10:00",
          "URL": "https://pmcoder.itch.io/low-poly-flight-sim-v06",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM4NDMwMy8xNDExNTc3Ny5wbmc=/347x500/F1BAa4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Low-Poly Flight Sim V1.0 by PMcoder",
+         "Informacion": "Simulador de vuelo de baja poli v1.0",
+         "Desde": "",
+         "Hasta": "2023/11/28 10:00",
+         "URL": "https://pmcoder.itch.io/low-poly-flight-sim-v10",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM4ODAyNC8xNDEzNjc5OS5wbmc=/347x500/SQDDPH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -972,32 +642,72 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Low-Poly Flight Sim V1.0 by PMcoder",
-         "Informacion": "Simulador de vuelo de baja poli v1.0",
+         "Nombre": "The Convoy by Dragonaz",
+         "Informacion": "CONVOY ALFA",
          "Desde": "",
          "Hasta": "2023/11/28 10:00",
-         "URL": "https://pmcoder.itch.io/low-poly-flight-sim-v10",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM4ODAyNC8xNDEzNjc5OS5wbmc=/347x500/SQDDPH.png",
+         "URL": "https://dragonaz.itch.io/the-convoy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM3NzE1OS8xNDEzMDQwMi5qcGc=/347x500/aTCgGr.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Fear Assessment by Alexander Wiseman",
-         "Informacion": "El programa FEAR ASSESSMENT\u00a0es una prueba especializada desarrollada e implementada por agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web y la informaci\u00f3n de su disco duro.",
+         "Nombre": "VisionsVol.4 by MyDogStoleMyLiver",
+         "Informacion": "Una peque\u00f1a y extra\u00f1a cosa de apuntar y hacer clic hecha en Decker.",
          "Desde": "",
          "Hasta": "2023/11/28 10:00",
-         "URL": "https://alexander-wiseman.itch.io/fear-assessment",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjExOTgzNy8xMjY3MTUxMS5wbmc=/347x500/bBN61Y.png",
+         "URL": "https://mydogstolemyliver.itch.io/visionsvol4",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIzMzQzNi8xMzIyNDM4MC5wbmc=/347x500/R9rnW5.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Easter Clicker - Idle Egg Hunter by Nutty Studios",
-         "Informacion": "Hola a todos, gracias por ver este juego.",
+         "Nombre": "The kitchen of Sopa's by So-pa",
+         "Informacion": "The Kitchen of Sopa's es un juego de terror ambientado en una misteriosa cocina dentro de un restaurante apartado. Tu objetivo es sobrevivir y cocinar sopas que se solicitan al azar. Ten cuidado con la puerta. El juego est\u00e1 disponible en portugu\u00e9s e ingl\u00e9s, con una duraci\u00f3n media de juego de 20 minutos. Ten cuidado con la puerta y mantenla cerrada.",
          "Desde": "",
          "Hasta": "2023/11/28 10:00",
-         "URL": "https://nutty-studios.itch.io/easter-clicker",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4ODI1Mi8xMTgxNTM5OC5wbmc=/347x500/YR43Ex.png",
+         "URL": "https://so-pa.itch.io/the-kitchen-of-sopas",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwODc2NC8xMzA2MTM5OS5wbmc=/347x500/nxKZRV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Girafficus by The Sparkly Void Lord",
+         "Informacion": "\u00bfSobrevivir\u00e1s a la presencia de este extra\u00f1o o te ver\u00e1s arrastrado hacia tu desaparici\u00f3n prematura? \u00a1Qui\u00e9n sabe! \u00a1Quiz\u00e1s lo pas\u00e9is muy bien y os hag\u00e1is amigos! Este extra\u00f1o juego s\u00f3lo puede describirse como una extra\u00f1a mezcla de comedia y terror... y tal vez... \u00bfamistad?",
+         "Desde": "",
+         "Hasta": "2023/11/28 10:00",
+         "URL": "https://thesparklyvoidlord.itch.io/girafficus",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTg3OTYwLzE0MTQ5NDIwLnBuZw==/347x500/hIQySf.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Orco by Moonkey Lab",
+         "Informacion": "WASD o TECLAS DE FLECHA O CONTROLADOR = Movimiento",
+         "Desde": "",
+         "Hasta": "2023/11/28 10:00",
+         "URL": "https://moonkey-lab.itch.io/orco",
+         "IMG": "https://img.itch.zone/aW1nLzEzNzI1MzY1LnBuZw==/347x500/%2BxULYc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TabbaT by Moonkey Lab",
+         "Informacion": "Tabbat una historia de dos.",
+         "Desde": "",
+         "Hasta": "2023/11/28 10:00",
+         "URL": "https://moonkey-lab.itch.io/tabbat",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5Nzc2MC84NzMwMDM3LnBuZw==/347x500/nuLnRq.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "NEO: The Game by Orion Game Studio, Yevons",
+         "Informacion": "\u00danase a un universo persistente de un solo servidor, completamente construido y dirigido por jugadores.",
+         "Desde": "",
+         "Hasta": "2023/11/28 10:00",
+         "URL": "https://oriongame.itch.io/neo",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU0NjM0Lzk3MDI1NTYucG5n/347x500/MkUpCE.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1048,6 +758,26 @@
          "Hasta": "2023/11/29 08:00",
          "URL": "https://sharewareonsale.com/s/free-two-in-one-video-elements-library-motion-backgrounds-club-special-effects-club-100-discount-copy",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/motion-special.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Reg Organizer Pro 9",
+         "Informacion": "Reg Organizer es un conjunto de herramientas eficientes para modificar, optimizar y limpiar Windows, dise\u00f1ado para liberar recursos del sistema sin esfuerzo y acelerar el rendimiento al m\u00e1ximo. El conjunto incluye un administrador visual de inicio autom\u00e1tico, un desinstalador avanzado que ofrece b\u00fasqueda de restos de programas desinstalados en el sistema, funciones para purgar datos innecesarios, un potente editor de registro para buscar y reemplazar r\u00e1pidamente claves y datos, y mucho m\u00e1s, todo para mantener su sistema saludable.",
+         "Desde": "",
+         "Hasta": "2023/11/29 08:00",
+         "URL": "https://sharewareonsale.com/s/reg-organizer-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/02/reg-organizer-7-boxshot-166x200.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "100 Ultimate Fonts Bundle",
+         "Informacion": "100 fuentes definitivas que son perfectas para magn\u00edficos logotipos, exhibiciones, encabezados, invitaciones, guardar fechas, bodas, t\u00edtulos, dise\u00f1os web y marcas, etc.",
+         "Desde": "",
+         "Hasta": "2023/11/29 08:00",
+         "URL": "https://sharewareonsale.com/s/free-100-ultimate-fonts-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/100-ultimate-fonts-bundle-giveaway.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -1379,6 +1109,16 @@
          "URL": "https://frexcellor.itch.io/twix-the-book-collector",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM4MDY2Mi8xNDA5NTkyOC5wbmc=/347x500/gv6j83.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "250 Professional Font Bundle",
+         "Informacion": "Este maravilloso paquete de fuentes tiene un aspecto \u00fanico, detallado y hecho a mano. Ya sea que quieras probar una apariencia elegante con letras may\u00fasculas o una apariencia hermosa con letras min\u00fasculas, este paquete de fuentes est\u00e1 dise\u00f1ado para algo completamente atemporal.",
+         "Desde": "",
+         "Hasta": "2023/11/30 08:00",
+         "URL": "https://sharewareonsale.com/s/free-250-professional-font-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/06/10-200x113.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -2162,6 +1902,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "ZombiShoot by FOMDOM",
+         "Informacion": "S\u00f3lo un par de por ciento de las personas podr\u00e1n completar este juego. Un juego de supervivencia entre el apocalipsis zombie con una jugabilidad sencilla pero niveles muy dif\u00edciles pero transitables.",
+         "Desde": "",
+         "Hasta": "2023/12/01 10:00",
+         "URL": "https://fomdom.itch.io/zombishoot",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMzMjQ4NS8xMzgxODgzMS5qcGc=/347x500/83B%2B0j.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Shape of the circle by l a r i",
          "Informacion": "Un juego sobre existir.",
          "Desde": "",
@@ -2252,6 +2002,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Get SoftOrbits Photo Editor Pro License Key Giveaway Free",
+         "Informacion": "SoftOrbits Simple Photo Editor ofrece a los usuarios de Windows eliminar objetos no deseados y mejorar las fotos autom\u00e1ticamente o bajo su supervisi\u00f3n. Puede seleccionar y eliminar objetos como sombras que distraigan, postes de electricidad o simplemente transe\u00fantes al azar.",
+         "Desde": "",
+         "Hasta": "2023/12/02 12:00",
+         "URL": "https://giveaway.tickcoupon.com/softorbits-photo-editor-pro-license-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/softorbits-photo-editor-pro-giveaway-page.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Backup Pro 16",
+         "Informacion": "Ashampoo Backup Pro 16 crea copias de seguridad de cualquier tipo de archivo de forma segura, incluso de sistemas operativos completos. El programa funciona de forma totalmente autom\u00e1tica en segundo plano para evitar la p\u00e9rdida de datos. Las copias de seguridad son una forma confiable de remediar fallas del sistema.",
+         "Desde": "",
+         "Hasta": "2023/12/03 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-pro-16-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/boxshot-18.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Keystroke Visualizer License Key for Free",
+         "Informacion": "\u00bfAlguna vez has visto videos tutoriales en los que las teclas presionadas se muestran en un peque\u00f1o cuadro de notificaci\u00f3n como ayuda visual? \u00bfY tienes curiosidad por saber c\u00f3mo la gente hace esto? Deje que Vovsoft Keystroke Visualizer responda su pregunta. Dise\u00f1ado espec\u00edficamente con una interfaz de usuario simple y f\u00e1cil de usar, este software OSD (visualizaci\u00f3n en pantalla) de pulsaci\u00f3n de teclas simple puede mostrar las pulsaciones de teclas en la pantalla a medida que se escriben o se presionan las teclas.",
+         "Desde": "",
+         "Hasta": "2023/12/04 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-keystroke-visualizer-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/install-vovsoft-keystroke-visualizer.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "WinX HD Video Converter Deluxe License Key Free 2023",
          "Informacion": "WinX HD Video Converter Deluxe, un software de video todo en uno como conversor de video Ultra HD, creador de presentaciones de diapositivas y editor de video, le brinda el m\u00e1ximo control sobre archivos de video con resoluci\u00f3n SD, HD y 4K. Con m\u00e1s de 320 c\u00f3decs de video y 50 c\u00f3decs de audio, posee la poderosa capacidad de satisfacer las necesidades de conversi\u00f3n de video r\u00e1pidas y de alta calidad sin la ayuda de ninguna herramienta de terceros.",
          "Desde": "",
@@ -2280,6 +2060,16 @@
          "IMG": "https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/ES_Bungie_Bungie_30th_Anniversary_Pack_S3_2560x1440_2560x1440-f3a32d6368ac1a89bf18d17be772ffa0",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Assassin's Creed Syndicate  Standard Edition",
+         "Informacion": "En Londres victoriano, controlas a los hermanos Jacob y Evie Frye en su lucha contra la opresi\u00f3n. Combina sigilo, acci\u00f3n y parkour para derrotar a los templarios y recuperar la ciudad.",
+         "Desde": "",
+         "Hasta": "2023/12/06 01:00",
+         "URL": "https://store.ubisoft.com/us/assassins-creed-syndicate/56c4947988a7e300458b45c6.html?lang=en",
+         "IMG": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw6c617a95/images/large/56c4947988a7e300458b45c6-4.jpg?sw=1450&sh=815&sm=fit",
+         "Distribuidora": "Ubisoft Connect",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Jitsu Squad",
