@@ -1,5 +1,5 @@
 {
-   "date_update": "28 Nov 2023 17:02 UTC",
+   "date_update": "29 Nov 2023 17:01 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 142.91.159.139 #AntiSpam"
@@ -3278,6 +3278,9 @@
          "Direccion": "0.0.0.0 cuevana-3.io #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 cuevana-tv.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 cuevana.cafe #AntiSpam"
       },
       {
@@ -3288,6 +3291,9 @@
       },
       {
          "Direccion": "0.0.0.0 cuevana.monster #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 cuevana.shoes #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 cuevana1.sh #AntiSpam"
