@@ -1,5 +1,5 @@
 {
-   "date_update": "28 Nov 2023 17:02 UTC",
+   "date_update": "29 Nov 2023 17:01 UTC",
    "values": [
       {
          "Dominio": "142.91.159.139"
@@ -3278,6 +3278,9 @@
          "Dominio": "cuevana-3.io"
       },
       {
+         "Dominio": "cuevana-tv.com"
+      },
+      {
          "Dominio": "cuevana.cafe"
       },
       {
@@ -3288,6 +3291,9 @@
       },
       {
          "Dominio": "cuevana.monster"
+      },
+      {
+         "Dominio": "cuevana.shoes"
       },
       {
          "Dominio": "cuevana1.sh"
