@@ -1,356 +1,6 @@
 {
-   "date_update": "29 Nov 2023 17:46 UTC",
+   "date_update": "30 Nov 2023 17:01 UTC",
    "values": [
-      {
-         "Nombre": "Freedom of Light by Crossing Lears",
-         "Informacion": "Freedom of Light es un juego de aventuras y fantas\u00eda de p\u00edxeles ambientado en una regi\u00f3n monta\u00f1osa privada de luz.",
-         "Desde": "",
-         "Hasta": "2023/11/29 18:00",
-         "URL": "https://crossing-lears.itch.io/freedom-of-light",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEwNzA5MS8xMzczMjEyMy5wbmc=/347x500/r%2FOu0N.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
-      },
-      {
-         "Nombre": "Fish Runner by AL7USSAIN",
-         "Informacion": "Fish Runner es un divertido juego 2d sin fin",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/fish-runner",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDU2Ny8xMjgzNTM0My5wbmc=/347x500/FOKU8J.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo mover",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "\"\" importante \"\"",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "square run by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/square-run",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwMjA3Ny8xMzAxODUzMC5wbmc=/347x500/ZMxkZd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "STRIKE by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/strike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDM2MC8xMzAzMzA0Ny5qcGc=/347x500/fIRkaF.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Thief Character by MarwaMJ",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://marwamj.itch.io/thief-character",
-         "IMG": "https://img.itch.zone/aW1nLzE0MDEyNzI4LnBuZw==/347x500/sHgpya.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2023/11/29 23:00",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "AnyViewer Professional License Key for Free",
-         "Informacion": "AnyViewer Professional es una herramienta de soporte remoto y acceso a computadoras simple pero la mejor de su clase que lo ayudar\u00e1 a eliminar los controles de la PC y el trabajo remoto a trav\u00e9s de Internet desde cualquier lugar. La herramienta permite a peque\u00f1as y medianas empresas o usuarios individuales monitorear, administrar y reparar f\u00e1cilmente de forma remota la PC. Tambi\u00e9n viene con una funci\u00f3n de transferencia de archivos para ayudarlo a cambiar la posici\u00f3n de los archivos de una PC a otra o a varias PC a la vez con alta calidad.",
-         "Desde": "",
-         "Hasta": "2023/11/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/anyviewer-professional-vip-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/log-in-to-anyviewer-professional.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "ASCOMP Cleaning Suite Professional License Key for Free",
-         "Informacion": "ASCOMP Cleaning Suite Professional es un potente software que le ayuda a limpiar su disco duro, deshacerse de archivos que realmente no necesita y recuperar espacio en el disco. Adem\u00e1s, tambi\u00e9n limpia su registro eliminando entradas innecesarias, por lo tanto, se mejorar\u00e1n los tiempos de inicio y el rendimiento general del sistema.",
-         "Desde": "",
-         "Hasta": "2023/11/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/ascomp-cleaning-suite-professional/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/07/ASCOMP-Cleaning-Suite-Professional-Giveaway.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster GIF Animator License Key for Free",
-         "Informacion": "Cuando desee convertir sus im\u00e1genes poco rom\u00e1nticas en archivos animados en formato GIF para aplicarlos a sus sitios u otro uso. Coolmuster GIF Animator es una de esas herramientas, con una interfaz de usuario sencilla que deber\u00eda permitirle crear im\u00e1genes GIF animadas, pancartas, botones, etc., a partir de m\u00faltiples formatos gr\u00e1ficos, incluidos JPG/JPEG, BMP, PNG, GIF, etc. Esta herramienta tambi\u00e9n admite la funci\u00f3n de vista previa para ayudarlo a obtener una vista previa de las im\u00e1genes importadas una por una, as\u00ed como tambi\u00e9n obtener una vista previa de sus GIF editados tantas veces como desee antes de guardarlos.",
-         "Desde": "",
-         "Hasta": "2023/11/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-gif-animator-license-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/02/get-coolmuster-gif-animator-code.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "\u00d0\u009a\u00d0\u00b0\u00d0\u00bf\u00d0\u00b8\u00d1\u0082\u00d0\u00b0\u00d0\u00bb \u00d0\u00a8\u00d0\u00be\u00d1\u0083 + \u00d0\u00a1\u00d1\u0083\u00d0\u00bf\u00d0\u00b5\u00d1\u0080 \u00d0\u0098\u00d0\u00b3\u00d1\u0080\u00d0\u00b0 by existical",
-         "Informacion": "- \u00bb\u00d0\u03bc\u00d0\u00b2\u00d0\u00b8\u00d0\u00b7\u00d0\u00b8\u00d0\u00be\u00d0\u00bd\u00d0\u00bd\u00d0\u00be\u00d0\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 \u00d0\u00b2\u00d0\u00b8\u00d0\u00ba\u00d1\u00b8\u00b9 - 1. - - - - - - \u00d1\u0102\u0103\u00d1\u0102\u0102\u00d0\u00ba\u00d0\u00b8 \u00d0\u00be\u00d1\u0102 \u00d0\u00b2\u00d0\u03bc\u00d0\u00b4\u00d1\u0102\u10c3\u00d1\u0102\u1e09\u00d0\u03bc\u00d0\u00b3\u00d0\u00be.",
-         "Desde": "",
-         "Hasta": "2023/11/30 00:00",
-         "URL": "https://existical.itch.io/capitalshow",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzMjMzNS8xMTA4NDMyMy5wbmc=/347x500/0Jh79D.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "WonderFox DVD Video Converter Free License Key 2023",
-         "Informacion": "WonderFox DVD Video Converter es una herramienta eficaz que puede ayudarle a convertir DVD y v\u00eddeos m\u00e1s r\u00e1pido que nunca. Con su ayuda, puede copiar todo tipo de pel\u00edculas en DVD y programas de TV a su PC y televisores inteligentes, adem\u00e1s de a su tel\u00e9fono y tableta iPhone, iPad y Android.",
-         "Desde": "",
-         "Hasta": "2023/11/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/install-wonderfox-dvd-video-converter.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "Autismo \"vroom\" by Bustijin Teller, Adam101001011010Jstin",
-         "Informacion": "\"Woooooooooooooooooooooooooooooooooooooooooooo\"",
-         "Desde": "",
-         "Hasta": "2023/11/30 01:00",
-         "URL": "https://bustijinteller.itch.io/autismo",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMyNjYxNC8xMzc5NzA0MC5wbmc=/347x500/G%2BCdfy.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Far Away 2 by qLes",
-         "Informacion": "La secuela de mi juego anterior \"Far Away\". Dej\u00e9 de trabajar en \u00e9l hace casi un a\u00f1o, debido a la falta de tiempo y a que hay proyectos m\u00e1s interesantes en marcha, pero decid\u00ed publicarlo.",
-         "Desde": "",
-         "Hasta": "2023/11/30 01:00",
-         "URL": "https://q-les.itch.io/far-away-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAwMTIwNy8xMTc2NDc2OS5wbmc=/347x500/Fs5ssC.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Far Away, Pixel Horror by qLes",
-         "Informacion": "Far Away es un breve juego de aventuras de terror con pixel art. Vivir\u00e1s la extra\u00f1a aventura de un joven.",
-         "Desde": "",
-         "Hasta": "2023/11/30 01:00",
-         "URL": "https://q-les.itch.io/far-away-pixel-horror",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODE2NDc0LzQ1Nzc3MTUucG5n/347x500/YuqF1o.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Money Clickers by maicrogamestudios",
-         "Informacion": "\u00a1Convi\u00e9rtete en el hombre m\u00e1s rico del planeta en este juego!",
-         "Desde": "",
-         "Hasta": "2023/11/30 01:00",
-         "URL": "https://maicrogamestudios.itch.io/money-clickers",
-         "IMG": "https://img.itch.zone/aW1nLzEyMTcyNTM2LnBuZw==/347x500/wSuraq.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Project Junkyard by Reyinn",
-         "Informacion": "\u00a1Necesito leer, por favor!",
-         "Desde": "",
-         "Hasta": "2023/11/30 01:00",
-         "URL": "https://reyinn.itch.io/project-junkyard",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM0MjUyMi8xMzg3NzE3MC5wbmc=/347x500/xdkwf0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "ProSignal by TheAresjej",
-         "Informacion": "Nuestro objetivo es crear el mejor juego de supervivencia, por eso creamos Project Signal, un juego en el que podr\u00e1s explorar la isla, realizar tareas de estilo RPG, desarrollar tu personaje, unirte a un grupo de tu elecci\u00f3n y construir tu propia aldea. \u00a1O crea tu propio equipo y conquista todo el mundo del juego!",
-         "Desde": "",
-         "Hasta": "2023/11/30 01:00",
-         "URL": "https://thearesjej.itch.io/prosignal",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzY2Njg5LzEwOTIzNTQ4LmpwZw==/347x500/mrWVZF.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "The Haunting of Hollow Manor by qLes",
-         "Informacion": "[A\u00d1O 1999]",
-         "Desde": "",
-         "Hasta": "2023/11/30 01:00",
-         "URL": "https://q-les.itch.io/the-haunting-of-hollow-manor",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMyNTMyOS8xMzg1NzQ4Ny5wbmc=/347x500/h7yin8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "HubWorld by Jeremy Ulrich",
-         "Informacion": "HubWorld es un relajante juego de exploraci\u00f3n en primera persona centrado en el dise\u00f1o visual, la novedad y la facilidad de uso.",
-         "Desde": "",
-         "Hasta": "2023/11/30 05:00",
-         "URL": "https://jeremyulrich.itch.io/hubworld",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQzNDU0LzQ3NDUxMDIucG5n/347x500/488jDe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
-      },
-      {
-         "Nombre": "Particle by Jeremy Ulrich",
-         "Informacion": "Particle es un juego de disparos con dos palos en el que esquivas y destruyes enemigos. Recoge objetos y sobrevive el mayor tiempo posible para alcanzar una nueva puntuaci\u00f3n alta.",
-         "Desde": "",
-         "Hasta": "2023/11/30 05:00",
-         "URL": "https://jeremyulrich.itch.io/particle",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEyNDk5NC8xMjUxNjU2OS5wbmc=/347x500/aRyFFb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
-      },
-      {
-         "Nombre": "7DFPSJam: Midnight Taco by Forward Instinct",
-         "Informacion": "Realizado en 7 d\u00edas.",
-         "Desde": "",
-         "Hasta": "2023/11/30 06:00",
-         "URL": "https://forwardinstinct.itch.io/midnight-taco",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzNzQxMi8xMDg0NjEwOS5naWY=/347x500/BNxzJD.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Gold Digger by 1987exclusive",
-         "Informacion": "\u00a1Ahora disponible para Windows!",
-         "Desde": "",
-         "Hasta": "2023/11/30 06:00",
-         "URL": "https://1987exclusive.itch.io/golddigger",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1NzQxOC8xMjcxNjc5Ni5wbmc=/347x500/rD5%2BvC.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Panchin Is Frustrated by Forward Instinct",
-         "Informacion": "-Elecci\u00f3n de la quincena de Weird Fucking Games-",
-         "Desde": "",
-         "Hasta": "2023/11/30 06:00",
-         "URL": "https://forwardinstinct.itch.io/panchin-is-frustrated",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEzNjUxMC8xMjYxNTc0My5wbmc=/347x500/W4aB8Z.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Villain Vegan by Forward Instinct",
-         "Informacion": "Es Halloween y la aplicaci\u00f3n de entrega del restaurante para el que haces entregas, Villain Vegan, acaba de fallar. \u00a1La comida est\u00e1 lista, pero depende de ti recibir el pedido de todos y luego entreg\u00e1rselo!",
-         "Desde": "",
-         "Hasta": "2023/11/30 06:00",
-         "URL": "https://forwardinstinct.itch.io/villain-vegan",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc2MzYyMy8xMDQxNjQ3My5wbmc=/347x500/WFegAj.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Pazu Tidal Music Converter 1-Year License Key for Free",
-         "Informacion": "Aunque tenga una suscripci\u00f3n a Tidal, uno de los servicios de transmisi\u00f3n de m\u00fasica m\u00e1s grandes con sonido de alta fidelidad y calidad de video de alta definici\u00f3n, a\u00fan no puede descargar m\u00fasica de Tidal para reproducirla sin conexi\u00f3n en sus reproductores MP3, computadoras y otros dispositivos. Esta es la raz\u00f3n principal por la que Pazu Tidal Music Converter resulta \u00fatil. Est\u00e1 dise\u00f1ado para descargar canciones, listas de reproducci\u00f3n y \u00e1lbumes de Tidal en formatos de audio populares, incluidos M4A/ MP3/ AAC/ FLAC/ WAV/ AIFF. Las salidas garantizan una calidad de sonido 100% original y la conservaci\u00f3n de etiquetas ID3 para disfrutar de audio de alta fidelidad sin p\u00e9rdidas en cualquier lugar que desee y administrar f\u00e1cilmente su biblioteca de m\u00fasica.",
-         "Desde": "",
-         "Hasta": "2023/11/30 07:00",
-         "URL": "https://giveaway.tickcoupon.com/pazu-tidal-music-converter-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/pazu-tidal-music-converter-giveaway-page.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "South Of Hell by RaidGames Studios",
-         "Informacion": "Empiezas un nuevo trabajo la noche de Halloween en una gasolinera remota a 20 millas del pueblo m\u00e1s cercano. Vas a trabajar en un turno lento y aburrido de 8 horas, excepto que esta no ser\u00e1 una noche normal.",
-         "Desde": "",
-         "Hasta": "2023/11/30 07:00",
-         "URL": "https://raidgames-studios.itch.io/south-of-hell",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwNjc3Ny8xMzgwMzA5Ny5wbmc=/347x500/FvNfb8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "250 Professional Font Bundle",
-         "Informacion": "Este maravilloso paquete de fuentes tiene un aspecto \u00fanico, detallado y hecho a mano. Ya sea que quieras probar una apariencia elegante con letras may\u00fasculas o una apariencia hermosa con letras min\u00fasculas, este paquete de fuentes est\u00e1 dise\u00f1ado para algo completamente atemporal.",
-         "Desde": "",
-         "Hasta": "2023/11/30 08:00",
-         "URL": "https://sharewareonsale.com/s/free-250-professional-font-bundle-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/06/10-200x113.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "550 Gradient Backgrounds",
-         "Informacion": "Dale un ambiente aut\u00e9ntico a tus gr\u00e1ficos",
-         "Desde": "",
-         "Hasta": "2023/11/30 08:00",
-         "URL": "https://sharewareonsale.com/s/free-550-gradient-backgrounds-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/02/500-Gradient-Backgrounds-200x133.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "The Mission of Dog Gamer by RED CLOUDS",
-         "Informacion": "En un mundo donde los humanos ya no existen por las guerras los \u00fanicos que quedaron fueron animales humanoides que actualmente viven como los humanos viv\u00edan tan pac\u00edficamente, pero hay una empresa muy importante asociada con misiones secretas y con el gobierno donde los animales son muy buenos e inteligentes. trabajo y esta compa\u00f1\u00eda est\u00e1 formada por agentes secretos muy bien entrenados, pero un par de agentes que son dos mejores amigos no encajan muy bien en esa descripci\u00f3n y estos dos son: perro jugador y gato jugador, y estos dos siempre se colocan como los peores en el ranking pero a\u00fan as\u00ed aman lo que hacen y en este juego tendr\u00e1n que enfrentarse a una organizaci\u00f3n que est\u00e1 tratando de acabar con la organizaci\u00f3n de agentes secretos y tambi\u00e9n quiere devolver la vida a los monstruos de la raza humana y con ellos gobiernan el mundo entero, y Gamer Dog y Gamer Cat est\u00e1n llamados a detenerlos.",
-         "Desde": "",
-         "Hasta": "2023/11/30 08:00",
-         "URL": "https://red-clouds.itch.io/themissionofdoggamer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYwODg2OC85NDE3MDc3LnBuZw==/347x500/VWnVjs.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "Twix, The Book Collector by Frexcellor",
-         "Informacion": "Este juego recibir\u00e1 actualizaciones.",
-         "Desde": "",
-         "Hasta": "2023/11/30 08:00",
-         "URL": "https://frexcellor.itch.io/twix-the-book-collector",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM4MDY2Mi8xNDA5NTkyOC5wbmc=/347x500/gv6j83.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
       {
          "Nombre": "UnDown | Ultimate Flight war by RushCreation Games",
          "Informacion": "",
@@ -359,7 +9,7 @@
          "URL": "https://rushcreation-games.itch.io/undown-ultimate-flight-war",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjMwODY1NC8xMzY4MDk5OS5qcGc=/347x500/khgago.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Bunnys mushroom hunt by \u00c3\u00b6zaki: game studi\u00c3\u00b6!",
@@ -369,7 +19,7 @@
          "URL": "https://ozaki-studio.itch.io/bunny-mushroom-hunt",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ3Nzg4OC8xMjYwNzE5NS5wbmc=/347x500/3NuTyw.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Cookie Crusade by \u00c3\u00b6zaki: game studi\u00c3\u00b6!",
@@ -379,7 +29,7 @@
          "URL": "https://ozaki-studio.itch.io/cookie-crusade",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkxMTg3Mi8xMjYwNzIwOS5wbmc=/347x500/hoLbh1.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "DVDFab Blu-ray Ripper 1-Year License Key for Free",
@@ -389,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/dvdfab-blu-ray-ripper-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/05/DVDFab-Blu-ray-Ripper-Get-Registration-Information.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Icy Nicey by \u00c3\u00b6zaki: game studi\u00c3\u00b6!",
@@ -399,7 +49,7 @@
          "URL": "https://ozaki-studio.itch.io/icy-nicey",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE2MjgwNy8xMzIzNDIxMi5wbmc=/347x500/Iu6QyR.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Vampie Tale by \u00c3\u00b6zaki: game studi\u00c3\u00b6!",
@@ -409,7 +59,7 @@
          "URL": "https://ozaki-studio.itch.io/vampie-tale",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk5MzY3MC8xMzI4NTk2MC5wbmc=/347x500/xhPF%2BS.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "ROGUE A.I     V.1.3.2 by Blue Bandana Studio",
@@ -419,7 +69,7 @@
          "URL": "https://polygon-sphere.itch.io/rogueai",
          "IMG": "https://img.itch.zone/aW1nLzEzODcwMjE3LnBuZw==/347x500/%2BT1sXm.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Deliver Us Mars",
@@ -429,7 +79,7 @@
          "URL": "https://store.epicgames.com/p/deliver-us-mars",
          "IMG": "https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S1_2560x1440-b5b36e7ef7feabf180837cc9d15efdae",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "RPG MK. II Beta by BlueEagle421",
@@ -439,7 +89,7 @@
          "URL": "https://blueeagle421.itch.io/rpg-mk-ii",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE5MTA0Mi8xMjk0MTk4OS5wbmc=/347x500/1Ak5te.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
       },
       {
          "Nombre": "Super Space Siege by BlueEagle421",
@@ -449,7 +99,7 @@
          "URL": "https://blueeagle421.itch.io/super-space-siege",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMjEwNy8xMzY0MjMyOS5wbmc=/347x500/VJbm5r.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
       },
       {
          "Nombre": "Tooth Fairy by BlueEagle421",
@@ -459,7 +109,7 @@
          "URL": "https://blueeagle421.itch.io/tooth-fairy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIyNzM2MC8xMzE4Mzg4My5wbmc=/347x500/XmOdn8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
       },
       {
          "Nombre": "GLADIATOR by TylerPitcock",
@@ -469,7 +119,7 @@
          "URL": "https://tylerpitcock.itch.io/gladiator",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI2Mjk0OC8xMzQxNDI2Ny5wbmc=/347x500/bWJv6x.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Go Deeper! by TylerPitcock",
@@ -479,7 +129,7 @@
          "URL": "https://tylerpitcock.itch.io/go-deeper",
          "IMG": "https://img.itch.zone/aW1nLzEzMTg0OTc5LnBuZw==/347x500/uE9QoQ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Ball Down Hill by KasperV",
@@ -489,7 +139,7 @@
          "URL": "https://kasperv.itch.io/ball-down-hill",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Kasperias Arenas by KasperV",
@@ -499,7 +149,7 @@
          "URL": "https://kasperv.itch.io/kasperias-arenas",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjEwMDMyMi8xMjQzOTQxNy5wbmc=/347x500/NqbI72.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Sky Lab Defender by KasperV",
@@ -509,7 +159,7 @@
          "URL": "https://kasperv.itch.io/skylabdefender",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "The Simple Life by KasperV",
@@ -519,7 +169,7 @@
          "URL": "https://kasperv.itch.io/the-simple-life",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Bamm - Card Fighting by Bukmand",
@@ -529,7 +179,7 @@
          "URL": "https://bukmand.itch.io/bamm",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTk2My8xMTk5ODk1NC5wbmc=/347x500/tZOMLn.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "WinX DVD Copy Pro License Key Free 2023 Giveaway",
@@ -539,47 +189,7 @@
          "URL": "https://giveaway.tickcoupon.com/winx-dvd-copy-pro-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/winx-dvd-copy-pro-giveaway-page-2022.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Horror Game Nevren: Ancient Gods by Green Woltec",
-         "Informacion": "El Imperio Sumerio est\u00e1 en el apogeo de su poder y quiere descubrir y conquistar m\u00e1s pa\u00edses. Por eso el rey env\u00eda varios exploradores por todo el mundo. Eres uno de los exploradores. Est\u00e1s navegando hacia el oeste, pero se avecina una tormenta y naufragas en una isla misteriosa. \u00bfPodr\u00e1s desentra\u00f1ar los secretos de esta isla?",
-         "Desde": "",
-         "Hasta": "2023/12/01 00:59",
-         "URL": "https://greenwoltec.itch.io/horror-game-nevren-ancient-gods",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMzMTI5OC8xMzgxMDQ3NS5wbmc=/347x500/bgFzxV.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Horror Game: NEVREN by Green Woltec",
-         "Informacion": "Este es un juego de terror medieval. Has escuchado los gritos de tu vecino y quieres ver si todo est\u00e1 bien con \u00e9l. Te das cuenta de que no est\u00e1 en casa y examinas la casa. Pero te das cuenta de que algo sobrenatural est\u00e1 pasando. Intenta encontrar todas las pistas e interruptores para seguir adelante.",
-         "Desde": "",
-         "Hasta": "2023/12/01 00:59",
-         "URL": "https://greenwoltec.itch.io/horror-game-nevren",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE2NjA1NC8xMjc3ODAwNS5wbmc=/347x500/xJ03aK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Horror Game: Strange Discovery Chapter 1 by Green Woltec",
-         "Informacion": "La humanidad cree que no fueron los \u00fanicos que vivieron en este planeta, y tambi\u00e9n quiere demostrarlo. Juegas como un joven arque\u00f3logo que lleva a\u00f1os intentando demostrarlo. Ahora ha recibido una llamada de uno de sus colegas inform\u00e1ndole que ha encontrado algo extra\u00f1o. Creen que es simplemente un d\u00eda laboral normal. A ver que encuentras o mejor. \u00bfQui\u00e9n te encontrar\u00e1? La historia se desarrolla en Alemania, en la Selva Negra.",
-         "Desde": "",
-         "Hasta": "2023/12/01 00:59",
-         "URL": "https://greenwoltec.itch.io/horror-game-strange-discovery-chapter-1",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyOTE0Ny8xMzE5NTMyMi5wbmc=/347x500/YlDWRu.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "TmeZombie Remake by Green Woltec",
-         "Informacion": "Bienvenidos al remake de Tme Zombie. Ahora tengo los gr\u00e1ficos en HD y con incre\u00edbles 64 bits. As\u00ed como las animaciones de armas y con zombies aterradores. Para obtener m\u00e1s informaci\u00f3n, mire el avance.",
-         "Desde": "",
-         "Hasta": "2023/12/01 00:59",
-         "URL": "https://greenwoltec.itch.io/tmezombie-remake",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg0ODUxNS8xMDg1MDAzNC5wbmc=/347x500/EOghGr.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "flappy cube by MAREK9099",
@@ -589,7 +199,47 @@
          "URL": "https://marek9099.itch.io/flappy-cube",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM4NjExMS8xNDEzNjQyMy5wbmc=/347x500/0moqPn.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+      },
+      {
+         "Nombre": "Horror Game Nevren: Ancient Gods by Green Woltec",
+         "Informacion": "El Imperio Sumerio est\u00e1 en el apogeo de su poder y quiere descubrir y conquistar m\u00e1s pa\u00edses. Por eso el rey env\u00eda varios exploradores por todo el mundo. Eres uno de los exploradores. Est\u00e1s navegando hacia el oeste, pero se avecina una tormenta y naufragas en una isla misteriosa. \u00bfPodr\u00e1s desentra\u00f1ar los secretos de esta isla?",
+         "Desde": "",
+         "Hasta": "2023/12/01 00:59",
+         "URL": "https://greenwoltec.itch.io/horror-game-nevren-ancient-gods",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMzMTI5OC8xMzgxMDQ3NS5wbmc=/347x500/bgFzxV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+      },
+      {
+         "Nombre": "Horror Game: NEVREN by Green Woltec",
+         "Informacion": "Este es un juego de terror medieval. Has escuchado los gritos de tu vecino y quieres ver si todo est\u00e1 bien con \u00e9l. Te das cuenta de que no est\u00e1 en casa y examinas la casa. Pero te das cuenta de que algo sobrenatural est\u00e1 pasando. Intenta encontrar todas las pistas e interruptores para seguir adelante.",
+         "Desde": "",
+         "Hasta": "2023/12/01 00:59",
+         "URL": "https://greenwoltec.itch.io/horror-game-nevren",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE2NjA1NC8xMjc3ODAwNS5wbmc=/347x500/xJ03aK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+      },
+      {
+         "Nombre": "Horror Game: Strange Discovery Chapter 1 by Green Woltec",
+         "Informacion": "La humanidad cree que no fueron los \u00fanicos que vivieron en este planeta, y tambi\u00e9n quiere demostrarlo. Juegas como un joven arque\u00f3logo que lleva a\u00f1os intentando demostrarlo. Ahora ha recibido una llamada de uno de sus colegas inform\u00e1ndole que ha encontrado algo extra\u00f1o. Creen que es simplemente un d\u00eda laboral normal. A ver que encuentras o mejor. \u00bfQui\u00e9n te encontrar\u00e1? La historia se desarrolla en Alemania, en la Selva Negra.",
+         "Desde": "",
+         "Hasta": "2023/12/01 00:59",
+         "URL": "https://greenwoltec.itch.io/horror-game-strange-discovery-chapter-1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyOTE0Ny8xMzE5NTMyMi5wbmc=/347x500/YlDWRu.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+      },
+      {
+         "Nombre": "TmeZombie Remake by Green Woltec",
+         "Informacion": "Bienvenidos al remake de Tme Zombie. Ahora tengo los gr\u00e1ficos en HD y con incre\u00edbles 64 bits. As\u00ed como las animaciones de armas y con zombies aterradores. Para obtener m\u00e1s informaci\u00f3n, mire el avance.",
+         "Desde": "",
+         "Hasta": "2023/12/01 00:59",
+         "URL": "https://greenwoltec.itch.io/tmezombie-remake",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg0ODUxNS8xMDg1MDAzNC5wbmc=/347x500/EOghGr.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "157 com poderes by Carlos Junior",
@@ -599,7 +249,7 @@
          "URL": "https://guerreirosdodragao.itch.io/157-com-poderes",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg4Njk1OC8xMTA4ODU1NC5wbmc=/347x500/ZIrpvS.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "atirador de elite by Carlos Junior",
@@ -609,7 +259,7 @@
          "URL": "https://guerreirosdodragao.itch.io/atirador-de-elite",
          "IMG": "https://img.itch.zone/aW1hZ2UvODAwNjc5LzQ0ODM1NzkucG5n/347x500/VlRF1D.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "brazil truck jr by Carlos Junior",
@@ -619,7 +269,7 @@
          "URL": "https://guerreirosdodragao.itch.io/brazil-truck-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDYzNy8xMzAzNDc1NC5wbmc=/347x500/SUExj%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "brick breaker jr by Carlos Junior",
@@ -629,7 +279,7 @@
          "URL": "https://guerreirosdodragao.itch.io/brick-breaker-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvODEyMDM2LzQ1NTI4MDAuanBn/347x500/uAAari.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "ca\u00c3\u00a7a ao monstro verde by Carlos Junior",
@@ -639,7 +289,7 @@
          "URL": "https://guerreirosdodragao.itch.io/caa-ao-monstro-verde",
          "IMG": "https://img.itch.zone/aW1hZ2UvODAzMzkzLzQ1MDAwMzUucG5n/347x500/8A4B1R.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "ca\u00c3\u00a7a zumbi 2 by Carlos Junior",
@@ -649,7 +299,7 @@
          "URL": "https://guerreirosdodragao.itch.io/caa-zumbi-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI5Mzc5Mi83NTI2OTYxLnBuZw==/347x500/YkRNUT.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "ca\u00c3\u00a7a zumbi by Carlos Junior",
@@ -659,7 +309,7 @@
          "URL": "https://guerreirosdodragao.itch.io/caca-zumbi",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTUyNTU0LzU0NDUxMzgucG5n/347x500/a4PMGR.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "cobran\u00c3\u00a7a de faltas JR by Carlos Junior",
@@ -669,7 +319,7 @@
          "URL": "https://guerreirosdodragao.itch.io/cobrana-de-faltas-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNTE1NS84MTg3MzExLnBuZw==/347x500/WBArMN.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "corrida das sombras Mortais by Carlos Junior",
@@ -679,7 +329,7 @@
          "URL": "https://guerreirosdodragao.itch.io/corrida-dassombrasmortais",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE1NDM1My8xMjcwMDcxNS5wbmc=/347x500/QXn2Bk.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Damn smart zombies by Carlos Junior",
@@ -689,7 +339,7 @@
          "URL": "https://guerreirosdodragao.itch.io/daw",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk3MDY1OS8xMTU4NzQyMy5wbmc=/347x500/RGYOkx.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "estacione o vehiculo by Carlos Junior",
@@ -699,7 +349,7 @@
          "URL": "https://guerreirosdodragao.itch.io/estacione-o-vehiculo",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTQxNS84MTY2NTEzLnBuZw==/347x500/HM7Mx%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "final lutador de rua by Carlos Junior",
@@ -709,7 +359,7 @@
          "URL": "https://guerreirosdodragao.itch.io/final-lutador-de-rua",
          "IMG": "https://img.itch.zone/aW1hZ2UvODA4OTI5LzQ1MzQ3NDYucG5n/347x500/G3kEre.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "futebol de bot\u00c3\u00a3o JR by Carlos Junior",
@@ -719,7 +369,7 @@
          "URL": "https://guerreirosdodragao.itch.io/futebol-de-boto-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MzU1MS84MTIwNjgyLnBuZw==/347x500/O63LOJ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Futebol e Basquete JR by Carlos Junior",
@@ -729,7 +379,7 @@
          "URL": "https://guerreirosdodragao.itch.io/futebol-e-basquete-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MzY0My84MTIxMTEwLnBuZw==/347x500/ys1vId.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Gladiator Battle cards by Carlos Junior",
@@ -739,7 +389,7 @@
          "URL": "https://guerreirosdodragao.itch.io/gladiator-battlecard",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE1NDE4NS8xMjY5OTk4OS5wbmc=/347x500/M44C%2BU.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Golf brazil junior by Carlos Junior",
@@ -749,7 +399,7 @@
          "URL": "https://guerreirosdodragao.itch.io/golf-brazil-junior",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzk4NjczLzQ0NzIyNzIucG5n/347x500/QYPWZK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Guerra entre times by Carlos Junior",
@@ -759,7 +409,7 @@
          "URL": "https://guerreirosdodragao.itch.io/guerra-entre-times",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzk5NDQwLzQ0NzY2MzMucG5n/347x500/U0ICpb.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Guerreiros de f\u00c3\u00a9 by Carlos Junior",
@@ -769,7 +419,7 @@
          "URL": "https://guerreirosdodragao.itch.io/guerreiros-de-f",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjAxMTczNC8xMTgyOTIzOS5wbmc=/347x500/b5Kt0u.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Guerreiros do apocalipse by Carlos Junior",
@@ -779,7 +429,7 @@
          "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-apocalipse",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUzNjE4OS84OTYwNDYwLnBuZw==/347x500/yxMC3y.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "guerreiros do drag\u00c3\u00a3o by Carlos Junior",
@@ -789,7 +439,7 @@
          "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-drago",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwNTg2MC84Nzc3NjcyLnBuZw==/347x500/Of5onL.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "infinite Runner JR Games by Carlos Junior",
@@ -799,7 +449,7 @@
          "URL": "https://guerreirosdodragao.itch.io/infinite-runner-jr-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjE0Mi84MTcwNDA4LnBuZw==/347x500/mumrLG.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "JR arcade race speed by Carlos Junior",
@@ -809,7 +459,7 @@
          "URL": "https://guerreirosdodragao.itch.io/jr-arcade-race-speed",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQxNDk1My84MjQyMTM5LnBuZw==/347x500/iroLFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "JR Driver 2 by Carlos Junior",
@@ -819,7 +469,7 @@
          "URL": "https://guerreirosdodragao.itch.io/jr-driver-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTcyMi8xMTk5NzU1Mi5wbmc=/347x500/oacknE.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "JR DRIVER by Carlos Junior",
@@ -829,7 +479,7 @@
          "URL": "https://guerreirosdodragao.itch.io/jr-driver",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5NTMzMi84NzE2MzcwLnBuZw==/347x500/roJ2me.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "JR Games Retro by Carlos Junior",
@@ -839,7 +489,7 @@
          "URL": "https://guerreirosdodragao.itch.io/jr-games-retro",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjIyOS84MTcwOTE0LnBuZw==/347x500/ZZDTAH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "JR invasion by Carlos Junior",
@@ -849,7 +499,7 @@
          "URL": "https://guerreirosdodragao.itch.io/jr-invasion",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MjE5OC85MDU2ODg2LnBuZw==/347x500/QHUM6Q.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Knight Supreme by Carlos Junior",
@@ -859,7 +509,7 @@
          "URL": "https://guerreirosdodragao.itch.io/knight-supreme",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk0ODU3NC8xMTQ1NjMwNS5wbmc=/347x500/%2BhnFOI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Legend futbol Jr by Carlos Junior",
@@ -869,7 +519,7 @@
          "URL": "https://guerreirosdodragao.itch.io/legend-futbol-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc5MzI5Ny8xMDUzNzE1Ni5wbmc=/347x500/46sJ0%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "maniacos by Carlos Junior",
@@ -879,7 +529,7 @@
          "URL": "https://guerreirosdodragao.itch.io/maniacos",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MDA0Ni85MTA1MzAyLnBuZw==/347x500/cHcpfV.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Matador de monstros by Carlos Junior",
@@ -889,7 +539,7 @@
          "URL": "https://guerreirosdodragao.itch.io/matador-de-monstros",
          "IMG": "https://img.itch.zone/aW1hZ2UvODEwOTY3LzQ1NDY2MjkuanBn/347x500/isiZyX.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "O arqueiro her\u00c3\u00b3i by Carlos Junior",
@@ -899,7 +549,7 @@
          "URL": "https://guerreirosdodragao.itch.io/o-arqueiro-heri",
          "IMG": "https://img.itch.zone/aW1hZ2UvODA1NTk1LzQ1MTM3ODUucG5n/347x500/Ksz%2BHm.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "O exterminador by Carlos Junior",
@@ -909,7 +559,7 @@
          "URL": "https://guerreirosdodragao.itch.io/o-exterminador",
          "IMG": "https://img.itch.zone/aW1hZ2UvODA5Mjg5LzQ1MzY5NzYuanBn/347x500/DZ2%2FN%2B.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "o lutador de rua hist\u00c3\u00b3ria by Carlos Junior",
@@ -919,7 +569,7 @@
          "URL": "https://guerreirosdodragao.itch.io/o-lutador-de-rua-histria",
          "IMG": "https://img.itch.zone/aW1hZ2UvODA3MDQ4LzQ1MjMxMjYucG5n/347x500/LF5RCr.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "passarinho voador jr by Carlos Junior",
@@ -929,7 +579,7 @@
          "URL": "https://guerreirosdodragao.itch.io/passarinho-voador-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvODExMTY2LzQ1NDc3NjguanBn/347x500/rJ5GSB.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "pegar o homem voador by Carlos Junior",
@@ -939,7 +589,7 @@
          "URL": "https://guerreirosdodragao.itch.io/pegar",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzk5OTM4LzQ0NzkzMDYucG5n/347x500/scgMWW.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Police Survivor by Carlos Junior",
@@ -949,7 +599,7 @@
          "URL": "https://guerreirosdodragao.itch.io/police-survivor",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTI0MC84MTY1NjM2LnBuZw==/347x500/h0XBcK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Pong Jr by Carlos Junior",
@@ -959,7 +609,7 @@
          "URL": "https://guerreirosdodragao.itch.io/pong-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvODExMDc3LzQ1NDcyNDcuanBn/347x500/eEdhUp.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Power by Carlos Junior",
@@ -969,7 +619,7 @@
          "URL": "https://guerreirosdodragao.itch.io/power",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjA1NTcxOS8xMjA4OTM1NS5wbmc=/347x500/lDandy.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Race crash JR by Carlos Junior",
@@ -979,7 +629,7 @@
          "URL": "https://guerreirosdodragao.itch.io/race-crash-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTAxMC84MTY0NDY2LnBuZw==/347x500/QUcOLO.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Resident Zumbi by Carlos Junior",
@@ -989,7 +639,7 @@
          "URL": "https://guerreirosdodragao.itch.io/resident-zumbi",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MTYwOC84MDQ3ODkxLnBuZw==/347x500/kmu5tO.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Round 6 by Carlos Junior",
@@ -999,7 +649,7 @@
          "URL": "https://guerreirosdodragao.itch.io/round-6",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTA3Ny84MTY0ODM3LnBuZw==/347x500/4MSenR.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Runner JR by Carlos Junior",
@@ -1009,7 +659,7 @@
          "URL": "https://guerreirosdodragao.itch.io/runner-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMjAyNS84MTY5Nzk1LnBuZw==/347x500/Jv6hgd.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "salve a princesa by Carlos Junior",
@@ -1019,7 +669,7 @@
          "URL": "https://guerreirosdodragao.itch.io/salve-a-princesa",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIyOTQzMS8xMzE5NzgxOS5wbmc=/347x500/H%2BgCl7.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Speed top Racer by Carlos Junior",
@@ -1029,7 +679,7 @@
          "URL": "https://guerreirosdodragao.itch.io/speed-top-racer",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM5MjA2MS84MTExOTI1LnBuZw==/347x500/H4zcrK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Top Down JR Games by Carlos Junior",
@@ -1039,7 +689,7 @@
          "URL": "https://guerreirosdodragao.itch.io/top-down-jr-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwNTQxOS84MTg4NjcyLnBuZw==/347x500/4%2FyBAo.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "torre de defesa do territ\u00c3\u00b3rio by Carlos Junior",
@@ -1049,7 +699,7 @@
          "URL": "https://guerreirosdodragao.itch.io/torre-de-defesa-do-territrio",
          "IMG": "https://img.itch.zone/aW1hZ2UvODAwMzYxLzQ0ODE2MzEucG5n/347x500/NWXs60.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Train Surfers JR by Carlos Junior",
@@ -1059,7 +709,7 @@
          "URL": "https://guerreirosdodragao.itch.io/train-surfers-jr",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTE5NS84MTY1Mzk3LnBuZw==/347x500/%2Bng0jM.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "truck trip by Carlos Junior",
@@ -1069,7 +719,7 @@
          "URL": "https://guerreirosdodragao.itch.io/truck-trip",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMDg1Mi84MTYzNjg0LnBuZw==/347x500/%2FLxBKR.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "vampires evil by Carlos Junior",
@@ -1079,7 +729,7 @@
          "URL": "https://guerreirosdodragao.itch.io/vampires-evil",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU1ODExNi85MDkyMjc4LnBuZw==/347x500/GGRHQL.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "van zig zag by Carlos Junior",
@@ -1089,7 +739,7 @@
          "URL": "https://guerreirosdodragao.itch.io/van-zig-zag",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTUwMy84MTY2OTg1LnBuZw==/347x500/t4r6E5.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Voo de dimens\u00c3\u00a3o by Carlos Junior",
@@ -1099,7 +749,7 @@
          "URL": "https://guerreirosdodragao.itch.io/voo-de-dimenso",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQwMTMyMi84MTY2MDgxLnBuZw==/347x500/wb%2FsgD.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -1109,7 +759,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -1119,7 +769,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -1129,7 +779,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
       },
       {
          "Nombre": "coffee boy by bee tea",
@@ -1139,7 +789,7 @@
          "URL": "https://bee-tea.itch.io/coffeeboy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MzcwNy84MDg3NTc5LnBuZw==/347x500/m7t9P9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "rainy day by bee tea",
@@ -1149,7 +799,7 @@
          "URL": "https://bee-tea.itch.io/rainyday",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Image Former Professional 2",
@@ -1159,7 +809,17 @@
          "URL": "https://sharewareonsale.com/s/free-image-former-professional-batch-edit-convert-photos-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/02/iformer_en-200x150.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "Allavsoft",
+         "Informacion": "Descargar y convertir v\u00eddeos para verlos sin conexi\u00f3n",
+         "Desde": "",
+         "Hasta": "2023/12/01 09:00",
+         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allavsoft-2-2nbl5.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Ari in woNderland : monARCHY 6 by Blak Gear",
@@ -1262,22 +922,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "SoftOrbits Photo Editor Pro",
-         "Informacion": "SoftOrbits Photo Editor est\u00e1 equipado con una caja de herramientas con todas las funciones de edici\u00f3n de fotograf\u00edas. \u00a1Es la caja de herramientas fotogr\u00e1ficas perfecta que necesitar\u00e1s!",
-         "Desde": "",
-         "Hasta": "2023/12/02 08:00",
-         "URL": "https://sharewareonsale.com/s/softorbits-simple-photo-editor-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/07/box_edt.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Ashampoo UnInstaller 11",
          "Informacion": "Ashampoo UnInstaller 11 elimina programas sin restos y le permite instalar, probar y eliminar software sin preocupaciones. Cuatro m\u00e9todos de eliminaci\u00f3n garantizan una eliminaci\u00f3n m\u00e1s completa de la que es posible con los medios predeterminados de Windows. Esto incluye programas no deseados, por ejemplo, infiltrados en su sistema a trav\u00e9s de instaladores anidados o descargas basadas en Internet. Ashampoo UnInstaller 11 es la soluci\u00f3n definitiva contra este tipo de programas spyware/malware y los elimina todos. Deshacerse de las extensiones de navegador que ya no se desean o que nunca se desean es igualmente f\u00e1cil, incluso para esos peque\u00f1os `ayudantes` que los propios navegadores no pueden o no quieren enumerar. La tecnolog\u00eda de monitoreo de instalaci\u00f3n integrada en UnInstaller registra todas las modificaciones de archivos y sistemas y las revierte por completo durante la eliminaci\u00f3n del software. Las instalaciones que no fueron registradas por UnInstaller a\u00fan se pueden eliminar completamente gracias a la base de datos incorporada con cientos de perfiles de software y nuestra propia tecnolog\u00eda de limpieza profunda. El programa tambi\u00e9n cuenta con tecnolog\u00eda de instant\u00e1neas para comparar diferentes estados del sistema y detectar modificaciones al instante. Tambi\u00e9n es posible la eliminaci\u00f3n del software por lotes o mediante arrastrar y soltar. La versi\u00f3n 11 presenta una detecci\u00f3n autom\u00e1tica de instalaci\u00f3n significativamente mejorada y compatibilidad total con Windows 11. El nuevo Centro de arranque analiza y mejora el comportamiento y las tareas de ejecuci\u00f3n autom\u00e1tica de Windows, mientras que la nueva vista de categor\u00edas enumera claramente las aplicaciones instaladas por categor\u00eda. Todos los limpiadores tambi\u00e9n se han actualizado por completo.",
          "Desde": "",
          "Hasta": "2023/12/02 08:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-11-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/boxshot-21.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SoftOrbits Photo Editor Pro",
+         "Informacion": "SoftOrbits Photo Editor est\u00e1 equipado con una caja de herramientas con todas las funciones de edici\u00f3n de fotograf\u00edas. \u00a1Es la caja de herramientas fotogr\u00e1ficas perfecta que necesitar\u00e1s!",
+         "Desde": "",
+         "Hasta": "2023/12/02 08:00",
+         "URL": "https://sharewareonsale.com/s/softorbits-simple-photo-editor-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/07/box_edt.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -1302,12 +962,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "100 Ultimate Fonts Bundle",
+         "Informacion": "100 fuentes definitivas que son perfectas para magn\u00edficos logotipos, exhibiciones, encabezados, invitaciones, guardar fechas, bodas, t\u00edtulos, dise\u00f1os web y marcas, etc.",
+         "Desde": "",
+         "Hasta": "2023/12/03 08:00",
+         "URL": "https://sharewareonsale.com/s/free-100-ultimate-fonts-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/100-ultimate-fonts-bundle-giveaway.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Convoy by Dragonaz",
          "Informacion": "CONVOY ALFA",
          "Desde": "",
          "Hasta": "2023/12/04 01:00",
          "URL": "https://dragonaz.itch.io/the-convoy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM3NzE1OS8xNDEzMDQwMi5qcGc=/347x500/aTCgGr.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Money Clickers by maicrogamestudios",
+         "Informacion": "\u00a1Convi\u00e9rtete en el hombre m\u00e1s rico del planeta en este juego!",
+         "Desde": "",
+         "Hasta": "2023/12/04 01:00",
+         "URL": "https://maicrogamestudios.itch.io/money-clickers",
+         "IMG": "https://img.itch.zone/aW1nLzEyMTcyNTM2LnBuZw==/347x500/wSuraq.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1472,6 +1152,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Macrorit Partition Expert Server Edition 8",
+         "Informacion": "Macrorit Partition Expert Server es el mejor y m\u00e1s nuevo software m\u00e1gico de partici\u00f3n de Windows Server que realiza la mejor gesti\u00f3n de particiones de disco y mantiene el 100% de los datos intactos.",
+         "Desde": "",
+         "Hasta": "2023/12/07 08:00",
+         "URL": "https://sharewareonsale.com/s/free-macrorit-partition-expert-server-edition-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/03/server.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Jitsu Squad",
          "Informacion": "Jitsu Squad is a Marvel vs Capcom inspired 4 player co-op TAG TEAM beat \u2018em up with epic character transformations and fast paced combat.",
          "Desde": "2023/11/30",
@@ -1479,7 +1169,7 @@
          "URL": "https://store.epicgames.com/p/jitsu-squad-af3f2f",
          "IMG": "https://cdn1.epicgames.com/spt-assets/3d32732efa1840208f6488d243407eff/jitsu-squad-offer-5qemb.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Mighty Fight Federation",
@@ -1489,7 +1179,7 @@
          "URL": "https://store.epicgames.com/p/mighty-fight-federation",
          "IMG": "https://cdn1.epicgames.com/offer/651d07f1eee8419e80eb2938f8f44cf0/EGS_MightyFightFederation_KomiGamesInc_S1_2560x1440-36750efe9ee51b49db0e85d4a577e4ff_2560x1440-36750efe9ee51b49db0e85d4a577e4ff",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Allavsoft Video Downloader Registration Code for Free",
@@ -1509,6 +1199,36 @@
          "URL": "https://giveaway.tickcoupon.com/allavsoft-for-mac-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/install-allavsoft-downloader-for-mac.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MEGALITH by Nikita Kryukov",
+         "Informacion": "Una novela visual corta hecha para un juego. Duraci\u00f3n: 15 minutos.",
+         "Desde": "",
+         "Hasta": "2023/12/09 17:00",
+         "URL": "https://nikita-kryukov.itch.io/megalith",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODk2OTE2LzUwNjIzNzEucG5n/347x500/xmBjw8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Milk inside a bag of milk inside a bag of milk by Nikita Kryukov",
+         "Informacion": "Una breve historia sobre qu\u00e9 tipo de desaf\u00edos pueden ser las peque\u00f1as cosas cotidianas. Ayuda a la ni\u00f1a a comprar leche, s\u00e9 el primero en no decepcionarla.",
+         "Desde": "",
+         "Hasta": "2023/12/09 17:00",
+         "URL": "https://nikita-kryukov.itch.io/pmkm",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzQxMzE4LzQxMjkwOTYucG5n/347x500/rt3%2BKM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Daiku no Medium by Nikita Kryukov",
+         "Informacion": "G\u00e9nero: terror psicol\u00f3gico, drama.",
+         "Desde": "",
+         "Hasta": "2023/12/09 17:00",
+         "URL": "https://nikita-kryukov.itch.io/daiku-no-medium",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTM1MTU4LzI3ODIwMDgucG5n/347x500/pokOIW.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1540,6 +1260,26 @@
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU5MjI3My85NDM1MjQ4LnBuZw==/347x500/N4DyiS.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "GigaBash",
+         "Informacion": "\u00a1Reclama tu lugar como rey de los Titans!  GigaBash es un juego de peleas multijugador con colosales kaijus inspirados en el cine, h\u00e9roes alucinantes, ataques especiales devastadores y entornos totalmente destruibles.",
+         "Desde": "2023/12/07",
+         "Hasta": "2023/12/14 17:00",
+         "URL": "https://store.epicgames.com/p/gigabash",
+         "IMG": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S1_2560x1440-f0d657610403750a33b2ed4a372d21ec",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Predecessor",
+         "Informacion": "Predecessor es un trepidante juego de acci\u00f3n impulsado por Paragon que combina mec\u00e1nicas de los MOBA y los juegos de disparos en primera persona para situarte en pleno combate con opciones estrat\u00e9gicas, control en tercera persona y acci\u00f3n envolvente.  ",
+         "Desde": "2023/12/07",
+         "Hasta": "2023/12/14 17:00",
+         "URL": "https://store.epicgames.com/p/predecessor",
+         "IMG": "https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_Predecessor_OmedaStudios_S1_2560x1440-dbbd785fef3aff87c52c44f156295418",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Leawo DVD Copy Free License Key 1-Year Giveaway",
@@ -1578,6 +1318,26 @@
          "Hasta": "2023/12/24 06:00",
          "URL": "https://itandfeel.itch.io/gravituz",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQwMzkwLzY3MTEyMjQucG5n/347x500/bjdGOe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Call Centre Simulator by Catch All",
+         "Informacion": "Est\u00e1s trabajando en un centro de llamadas y literalmente tienes que hablar con un cliente furioso. Escuche sus inquietudes a trav\u00e9s de sus auriculares y hable en voz alta para responderle. Se mostrar\u00e1n dos opciones de respuesta en la pantalla, diga una de ellas en voz alta para seleccionarla.",
+         "Desde": "",
+         "Hasta": "2023/12/30 16:00",
+         "URL": "https://catchall.itch.io/call-centre-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5OTQ5LzY4NjcwNy5wbmc=/347x500/3fhRoi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Temple of the Silver Dragon by Clevertop",
+         "Informacion": "Tienes cinco minutos en el reloj. \u00bfCu\u00e1nto tesoro puedes recolectar y escapar antes de que se acabe el tiempo?",
+         "Desde": "",
+         "Hasta": "2023/12/30 17:13",
+         "URL": "https://clevertop.itch.io/temple-of-the-silver-dragon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTAxMDIxOC81Nzc1OTYwLnBuZw==/347x500/T6xFTO.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
