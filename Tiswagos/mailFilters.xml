@@ -39,7 +39,7 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@b4workapp.com OR @mail.santander-grants.com OR @crehana.com OR @formate.es OR @gestiondeformacion.es OR @imancorp.es OR @accounts.infojobs.net OR @comms.infojobs.net OR @jobs.infojobs.net OR @notify.infojobs.net OR @push.infojobs.net OR @linkedin.com OR security-noreply@linkedin.com OR @mercadona.avature.net OR @miscursosyformacion.com OR @talent.com OR @tecnoempleo.com OR @trabeja.com'/>
+		<apps:property name='from' value='@b4workapp.com OR @mail.santander-grants.com OR @crehana.com OR @formate.es OR @gestiondeformacion.es OR @imancorp.es OR @accounts.infojobs.net OR @comms.infojobs.net OR @jobs.infojobs.net OR @notify.infojobs.net OR @push.infojobs.net OR @linkedin.com OR security-noreply@linkedin.com OR @mercadona.avature.net OR @miscursosyformacion.com OR @talent.com OR @tecnoempleo.com OR todofp@educacion.gob.es OR @trabeja.com'/>
 		<apps:property name='label' value='Registros/Study - Job'/>
 	</entry>
 	<entry>
