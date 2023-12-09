@@ -1,76 +1,6 @@
 {
-   "date_update": "08 Dec 2023 17:02 UTC",
+   "date_update": "09 Dec 2023 17:02 UTC",
    "values": [
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2023/12/08 10:00",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
-         "Desde": "",
-         "Hasta": "2023/12/08 10:00",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
-         "Desde": "",
-         "Hasta": "2023/12/08 10:00",
-         "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Allavsoft Downloader for Mac License Key Free",
-         "Informacion": "Como descargador y convertidor de videos todo en uno para macOS, herramienta Mac OS X, Allavsoft Downloader para Mac le permite descargar videos de todo tipo de sitios web para compartir videos como DailyMotion, Yahoo Video, eHow, Facebook, Google Video, etc. Adem\u00e1s, Allavsoft para Mac tambi\u00e9n proporciona la funci\u00f3n de convertir datos a formatos compatibles en diferentes dispositivos de reproducci\u00f3n de m\u00fasica.",
-         "Desde": "",
-         "Hasta": "2023/12/08 15:00",
-         "URL": "https://giveaway.tickcoupon.com/allavsoft-for-mac-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/install-allavsoft-downloader-for-mac.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "550 Gradient Backgrounds",
-         "Informacion": "Dale un ambiente aut\u00e9ntico a tus gr\u00e1ficos",
-         "Desde": "",
-         "Hasta": "2023/12/09 08:00",
-         "URL": "https://sharewareonsale.com/s/free-550-gradient-backgrounds-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/02/500-Gradient-Backgrounds-200x133.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "VSDC Video Editor PRO",
-         "Informacion": "VSDC Video Editor Pro es el paquete de edici\u00f3n de v\u00eddeo no lineal para crear una pel\u00edcula de cualquier complejidad, desde una tarjeta familiar, un dron o un clip de c\u00e1mara de acci\u00f3n en calidad UHD hasta una presentaci\u00f3n empresarial con una amplia gama de cuadros y diagramas.",
-         "Desde": "",
-         "Hasta": "2023/12/09 08:00",
-         "URL": "https://sharewareonsale.com/s/free-vsdc-video-editor-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/04/VSDC-Free-Video-Editor-Box-Cover-350x350-1-200x200.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "PhotoBuzzer",
-         "Informacion": "Genere 1000 im\u00e1genes variantes con un solo clic",
-         "Desde": "",
-         "Hasta": "2023/12/09 09:00",
-         "URL": "https://www.bitsdujour.com/software/photobuzzer/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/photobuzzer-wvxpl.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Daiku no Medium by Nikita Kryukov",
          "Informacion": "G\u00e9nero: terror psicol\u00f3gico, drama.",
@@ -79,7 +9,7 @@
          "URL": "https://nikita-kryukov.itch.io/daiku-no-medium",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTM1MTU4LzI3ODIwMDgucG5n/347x500/pokOIW.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "MEGALITH by Nikita Kryukov",
@@ -89,7 +19,7 @@
          "URL": "https://nikita-kryukov.itch.io/megalith",
          "IMG": "https://img.itch.zone/aW1hZ2UvODk2OTE2LzUwNjIzNzEucG5n/347x500/xmBjw8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Milk inside a bag of milk inside a bag of milk by Nikita Kryukov",
@@ -99,7 +29,7 @@
          "URL": "https://nikita-kryukov.itch.io/pmkm",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzQxMzE4LzQxMjkwOTYucG5n/347x500/rt3%2BKM.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Crimson Glaive Sigma by Remerai",
@@ -109,7 +39,7 @@
          "URL": "https://remerai.itch.io/crimson-glaive-sigma",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE2NjM3OC82Nzg3MDY2LnBuZw==/347x500/NrCHRs.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "Thief Character by MarwaMJ",
@@ -119,7 +49,7 @@
          "URL": "https://marwamj.itch.io/thief-character",
          "IMG": "https://img.itch.zone/aW1nLzE0MDEyNzI4LnBuZw==/347x500/sHgpya.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "WinX HD Video Converter Deluxe License Key Free 2023",
@@ -129,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/winx-hd-video-converter-deluxe-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/winx-hd-video-converter-deluxe-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Shoser by FOMDOM",
@@ -139,7 +69,7 @@
          "URL": "https://fomdom.itch.io/shoser",
          "IMG": "https://img.itch.zone/aW1nLzE0MjE3MjcyLmpwZw==/347x500/JfAzrM.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "The Convoy by Dragonaz",
@@ -149,7 +79,7 @@
          "URL": "https://dragonaz.itch.io/the-convoy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM3NzE1OS8xNDEzMDQwMi5qcGc=/347x500/aTCgGr.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "100 Ultimate Fonts Bundle",
@@ -159,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-100-ultimate-fonts-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/100-ultimate-fonts-bundle-giveaway.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Ashampoo UnInstaller 11",
@@ -169,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-11-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/boxshot-21.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Audials One 2024",
@@ -179,6 +109,16 @@
          "URL": "https://sharewareonsale.com/s/free-audials-one-2024-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/Audials-One-2024-SE_EN_4.png?9187",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "Coolmuster PDF Merger License Key Free Giveaway 2023",
+         "Informacion": "Coolmuster PDF Merger es un software de fusi\u00f3n de PDF f\u00e1cil e intuitivo para Windows que ofrece una multitud de funciones para ayudarle a combinar varios archivos PDF en uno. Esta herramienta garantiza que el estilo del texto, las im\u00e1genes, los gr\u00e1ficos, las tablas, los hiperv\u00ednculos, el dise\u00f1o y el formato de los archivos PDF conserven la calidad original.",
+         "Desde": "",
+         "Hasta": "2023/12/11 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-merger-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-merger-giveaway-page.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -188,16 +128,6 @@
          "Hasta": "2023/12/11 00:00",
          "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/thumbs_dir/wonderfox-hd-video-converter-factory-pro-icon-1wz19byyj74ht0f8vd1gl25miwzvhg8t1c5wl27gn94k.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Merger License Key Free Giveaway 2023",
-         "Informacion": "Coolmuster PDF Merger es un software de fusi\u00f3n de PDF f\u00e1cil e intuitivo para Windows que ofrece una multitud de funciones para ayudarle a combinar varios archivos PDF en uno. Esta herramienta garantiza que el estilo del texto, las im\u00e1genes, los gr\u00e1ficos, las tablas, los hiperv\u00ednculos, el dise\u00f1o y el formato de los archivos PDF conserven la calidad original.",
-         "Desde": "",
-         "Hasta": "2023/12/11 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-merger-free-license-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-merger-giveaway-page.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -329,6 +259,36 @@
          "URL": "https://sharewareonsale.com/s/free-stock-photos-mega-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/Bundle-Box-Camera.jpg?9187",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2023/12/11 10:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2023/12/11 10:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2023/12/11 10:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -509,6 +469,26 @@
          "URL": "https://giveaway.tickcoupon.com/pazu-spotify-music-converter-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/04/get-pazu-spotify-music-converter-license.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "All-In-One Password Recovery Pro 2023",
+         "Informacion": "XenArmor All-In-One Password Recovery Pro es el software empresarial para recuperar instant\u00e1neamente TODAS sus contrase\u00f1as olvidadas de cientos de aplicaciones populares de Windows",
+         "Desde": "",
+         "Hasta": "2023/12/16 08:00",
+         "URL": "https://sharewareonsale.com/s/free-all-in-one-password-recovery-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/allinonepasswordrecoverypro-box-250.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Snap 14",
+         "Informacion": "Ashampoo Snap captura su escritorio como capturas de pantalla y videos. Las capturas de pantalla se pueden editar, comentar y compartir libremente a trav\u00e9s de redes, nubes o correo electr\u00f3nico.",
+         "Desde": "",
+         "Hasta": "2023/12/16 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-snap-14-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/06/front-4.png?9187",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -712,56 +692,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "River Strike by Hoglet",
-         "Informacion": "Elige tu favorito, desde Apache hasta Chinook, \u00a18 helic\u00f3pteros legendarios te esperan para elegir! \u00a1La orientaci\u00f3n autom\u00e1tica de los ca\u00f1ones y los cohetes inteligentes te ayudar\u00e1n a cumplir las 24 misiones llenas de acci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2023/12/31 01:00",
-         "URL": "https://hoglet.itch.io/river-strike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTE0NzcwNC82NzA1Mjk2LmpwZw==/347x500/x42l%2Bf.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "ShootToon \u00c2\u00a1\u00c2\u00a1 Cartoon shooter by napoterulle",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2023/12/31 01:00",
-         "URL": "https://napoterulle.itch.io/shoottoon-cartoon-shooter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM5OTExOS8xNDIwMDYzMy5qcGc=/347x500/3kNj%2BC.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Whispersmith by qLes",
-         "Informacion": "The Whispersmith es un juego de terror inmersivo sobre la exploraci\u00f3n de un asilo abandonado... Pero pronto las cosas empiezan a tomar un mal giro... Atrapado por una fuerza siniestra, debes encontrar una manera de escapar, navegando por los escalofriantes corredores... \u00bfQuieres? \u00bfLiberarse o convertirse en otra alma perdida en el inquietante abrazo del asilo?",
-         "Desde": "",
-         "Hasta": "2023/12/31 01:00",
-         "URL": "https://q-les.itch.io/the-whispersmith",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQwNDIwNC8xNDI3MjUwMi5wbmc=/347x500/s0Yy0z.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "shoottoon 2 game cartoon by napoterulle",
-         "Informacion": "\u00f0\u00ae \u00a1Bienvenidos jugadores! Hoy estamos encantados de sumergirnos en el apasionante universo de ShootToon 2 en tiempo real. \u00f0 Prep\u00e1rate para una experiencia de juego llena de acci\u00f3n, estrategia y momentos \u00e9picos que te mantendr\u00e1n al borde de tu asiento.",
-         "Desde": "",
-         "Hasta": "2023/12/31 01:00",
-         "URL": "https://napoterulle.itch.io/shoottoon-2-game-cartoon",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQwOTk1Mi8xNDI2NDUyMS5wbmc=/347x500/bQR0OH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Haunting of Hollow Manor by qLes",
-         "Informacion": "[A\u00d1O 1999]",
-         "Desde": "",
-         "Hasta": "2023/12/31 01:00",
-         "URL": "https://q-les.itch.io/the-haunting-of-hollow-manor",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMyNTMyOS8xMzg1NzQ4Ny5wbmc=/347x500/h7yin8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Far Away 2 by qLes",
          "Informacion": "La secuela de mi juego anterior \"Far Away\". Dej\u00e9 de trabajar en \u00e9l hace casi un a\u00f1o, debido a la falta de tiempo y a que hay proyectos m\u00e1s interesantes en marcha, pero decid\u00ed publicarlo.",
          "Desde": "",
@@ -782,12 +712,62 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "River Strike by Hoglet",
+         "Informacion": "Elige tu favorito, desde Apache hasta Chinook, \u00a18 helic\u00f3pteros legendarios te esperan para elegir! \u00a1La orientaci\u00f3n autom\u00e1tica de los ca\u00f1ones y los cohetes inteligentes te ayudar\u00e1n a cumplir las 24 misiones llenas de acci\u00f3n!",
+         "Desde": "",
+         "Hasta": "2023/12/31 01:00",
+         "URL": "https://hoglet.itch.io/river-strike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE0NzcwNC82NzA1Mjk2LmpwZw==/347x500/x42l%2Bf.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "shoottoon 2 game cartoon by napoterulle",
+         "Informacion": "\u00f0\u00ae \u00a1Bienvenidos jugadores! Hoy estamos encantados de sumergirnos en el apasionante universo de ShootToon 2 en tiempo real. \u00f0 Prep\u00e1rate para una experiencia de juego llena de acci\u00f3n, estrategia y momentos \u00e9picos que te mantendr\u00e1n al borde de tu asiento.",
+         "Desde": "",
+         "Hasta": "2023/12/31 01:00",
+         "URL": "https://napoterulle.itch.io/shoottoon-2-game-cartoon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQwOTk1Mi8xNDI2NDUyMS5wbmc=/347x500/bQR0OH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ShootToon \u00c2\u00a1\u00c2\u00a1 Cartoon shooter by napoterulle",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2023/12/31 01:00",
+         "URL": "https://napoterulle.itch.io/shoottoon-cartoon-shooter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM5OTExOS8xNDIwMDYzMy5qcGc=/347x500/3kNj%2BC.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "T\u00c3\u00aate de clone by DeReel",
          "Informacion": "Un proceso de reclutamiento con c\u00e1mara oculta, un candidato que llama a sus clones.",
          "Desde": "",
          "Hasta": "2023/12/31 01:00",
          "URL": "https://dereel.itch.io/tete-de-clone",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTEzMjc5My8xMTYyNjA0MC5wbmc=/347x500/hKqgh9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Haunting of Hollow Manor by qLes",
+         "Informacion": "[A\u00d1O 1999]",
+         "Desde": "",
+         "Hasta": "2023/12/31 01:00",
+         "URL": "https://q-les.itch.io/the-haunting-of-hollow-manor",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMyNTMyOS8xMzg1NzQ4Ny5wbmc=/347x500/h7yin8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Whispersmith by qLes",
+         "Informacion": "The Whispersmith es un juego de terror inmersivo sobre la exploraci\u00f3n de un asilo abandonado... Pero pronto las cosas empiezan a tomar un mal giro... Atrapado por una fuerza siniestra, debes encontrar una manera de escapar, navegando por los escalofriantes corredores... \u00bfQuieres? \u00bfLiberarse o convertirse en otra alma perdida en el inquietante abrazo del asilo?",
+         "Desde": "",
+         "Hasta": "2023/12/31 01:00",
+         "URL": "https://q-les.itch.io/the-whispersmith",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQwNDIwNC8xNDI3MjUwMi5wbmc=/347x500/s0Yy0z.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -952,6 +932,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Formation Vee by NoiroVideoGames",
+         "Informacion": "Bienvenido a Formaci\u00f3n Vee. Un juego de carreras contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en Formation Vee. Usted conduce usando la potencia de la rueda para empujar la transmisi\u00f3n izquierda o derecha.",
+         "Desde": "",
+         "Hasta": "2023/12/31 10:00",
+         "URL": "https://noirovideogames.itch.io/formation-vee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODM5MjYzLzQ3MDQ2ODkucG5n/347x500/RSqFJU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Invasion Versus by John D. Moore",
          "Informacion": "Invasi\u00f3n versus",
          "Desde": "",
@@ -1068,16 +1058,6 @@
          "Hasta": "2023/12/31 10:00",
          "URL": "https://noirovideogames.itch.io/walk",
          "IMG": "https://img.itch.zone/aW1nLzY3MjY3MjEuanBn/347x500/AxoXQH.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Formation Vee by NoiroVideoGames",
-         "Informacion": "Bienvenido a Formaci\u00f3n Vee. Un juego de carreras contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en Formation Vee. Usted conduce usando la potencia de la rueda para empujar la transmisi\u00f3n izquierda o derecha.",
-         "Desde": "",
-         "Hasta": "2023/12/31 10:00",
-         "URL": "https://noirovideogames.itch.io/formation-vee",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODM5MjYzLzQ3MDQ2ODkucG5n/347x500/RSqFJU.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1262,6 +1242,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "XenArmor All-In-One Password Recovery Free License 2023",
+         "Informacion": "XenArmor All-In-One Password Recovery Pro es el programa que necesita si desea recuperar contrase\u00f1as perdidas u olvidadas de una variedad de plataformas y aplicaciones. Esta herramienta, que fue creada para ayudarlo a recuperar todas sus contrase\u00f1as, le permite recuperar inmediatamente todas sus contrase\u00f1as de m\u00e1s de 210 aplicaciones populares de Windows. Puede usarlo para recuperar contrase\u00f1as para iniciar sesi\u00f3n en sitios web, correos electr\u00f3nicos, cuentas de redes sociales, mensajer\u00eda instant\u00e1nea, administradores de descargas, cuentas FTP y mucho m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2024/01/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/xenarmor-all-in-one-password-recovery-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/get-xenarmor-all-in-one-password-recovery-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AudFree Amazon Music Converter License Key Free",
+         "Informacion": "AudFree Amazon Music Converter es uno de los mejores programas de conversi\u00f3n de Amazon Music que le permite descargar y convertir Amazon Music y Prime Music a MP3, Lossless, M4A, M4B, AAC, FLAC y WAV para reproducirlos sin conexi\u00f3n en todos los dispositivos y reproductores. Otro punto destacado de AudFree Amazon Music Converter es su funci\u00f3n de personalizaci\u00f3n, que puede configurar el formato de salida como Lossless y ajustar los par\u00e1metros de audio, como la tasa de bits, la frecuencia de muestreo, etc. manualmente.",
+         "Desde": "",
+         "Hasta": "2024/01/10 08:00",
+         "URL": "https://giveaway.tickcoupon.com/audfree-amazon-music-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/11/get-audfree-amazon-music-converter-license.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Gloomhaven",
          "Informacion": "Tanto si deseas venir a las tierras de Gloomhaven para ir en busca de aventuras como si lo que te mueve es un \u00e1vido deseo de hallar el fulgor del oro en medio de la oscuridad, con toda seguridad correr\u00e1s la misma suerte...",
          "Desde": "2023/12/13",
@@ -1270,6 +1270,16 @@
          "IMG": "https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "DRmare Tidal Music Converter License Key for Free",
+         "Informacion": "DRmare Tidal Music Converter es un software de conversi\u00f3n de m\u00fasica \u00fanico que le permite convertir m\u00fasica de alta calidad de Tidal a varios formatos diferentes en computadoras Windows y macOS. Con este incre\u00edble software, puedes convertir m\u00fasica de Tidal a MP3, FLAC, WAV, M4A, AAC y M4B conservando las etiquetas ID3 sin p\u00e9rdidas.",
+         "Desde": "",
+         "Hasta": "2024/01/11 00:00",
+         "URL": "https://giveaway.tickcoupon.com/drmare-tidal-music-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/DRmare-Tidal-Music-Converter-Get-Key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Vovsoft Text Edit Plus License Key Free 2024 Giveaway",
