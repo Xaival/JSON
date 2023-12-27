@@ -1,5 +1,5 @@
 {
-   "date_update": "10 Dec 2023 17:02 UTC",
+   "date_update": "27 Dec 2023 21:49 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -863,15 +863,15 @@
          "ID": "AAAACE",
          "Nombre": "Marina Barba Lozano",
          "NombreRol": "Meera Lykoh",
-         "Hermandad": "Midgard",
-         "Casa": "Reed",
-         "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
          "ImgURL": "https://i.ibb.co/tQnPfn6/AAAACE.webp",
-         "Descripcion": "Soldado/Leva casa Reed",
+         "Descripcion": "",
          "Ciudad": "Sevilla",
          "RRSS": {
-            "Insta1": "https://instagram.com/meera_lykoh",
-            "Insta2": "https://www.instagram.com/galegix_",
+            "Insta1": "https://www.instagram.com/galegix_",
+            "Insta2": "",
             "Insta3": "",
             "TikTok": "https://www.tiktok.com/@galegix_",
             "Twitter": "",
