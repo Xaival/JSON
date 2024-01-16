@@ -1,46 +1,6 @@
 {
-   "date_update": "11 Jan 2024 06:31 UTC",
+   "date_update": "16 Jan 2024 20:21 UTC",
    "values": [
-      {
-         "Nombre": "Marvel's Guardians of the Galaxy",
-         "Informacion": "Marvel's Guardians of the Galaxy",
-         "Desde": "2024/01/04",
-         "Hasta": "2024/01/11 17:00",
-         "URL": "https://store.epicgames.com/p/marvels-guardians-of-the-galaxy",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-17_1920x1080-5014a073a3666df3541f1913b3af38c1",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
-      },
-      {
-         "Nombre": "RecMaster Pro License Key 1-Year for Free",
-         "Informacion": "RecMaster Pro es un software de grabaci\u00f3n de pantalla profesional y \u00fatil. Admite la grabaci\u00f3n de pantalla precisa de cualquier actividad de escritorio, como presentaciones de escritorio, transmisiones web en vivo y videos de reuniones de negocios. Puede grabar una pantalla completa o un \u00e1rea personalizada seg\u00fan sus necesidades. Y el software tambi\u00e9n admite la grabaci\u00f3n con la c\u00e1mara de la computadora o la c\u00e1mara web y la grabaci\u00f3n de archivos de solo audio. Le permite completar la grabaci\u00f3n de manera f\u00e1cil, eficiente y estable en diferentes entornos de grabaci\u00f3n. Tambi\u00e9n puede ayudarle a editar los archivos grabados cort\u00e1ndolos, fusion\u00e1ndolos y m\u00e1s. Con esta grabadora de pantalla, tambi\u00e9n puedes configurar el formato de grabaci\u00f3n, la resoluci\u00f3n, la velocidad de fotogramas, la salida de la c\u00e1mara, la salida de audio, etc. por separado para poder grabar todo tipo de contenido de v\u00eddeo que desees. Es la mejor opci\u00f3n para tu trabajo, estudio y entretenimiento.",
-         "Desde": "",
-         "Hasta": "2024/01/14 12:00",
-         "URL": "https://giveaway.tickcoupon.com/recmaster-pro-license-key-for-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/03/install-recmaster-pro.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Vovsoft Text Edit Plus License Key Free 2024 Giveaway",
-         "Informacion": "Vovsoft Text Edit Plus es un software \u00fatil que le ayuda a crear f\u00e1cilmente nuevos documentos de texto o modificar los existentes. Adem\u00e1s, te ayuda a exportar estad\u00edsticas de texto a archivos CSV.",
-         "Desde": "",
-         "Hasta": "2024/01/14 12:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-text-edit-plus-free-key/",
-         "IMG": "https://tickcoupon.com/wp-content/uploads/2020/11/vovsoft-logo-180x110.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "DoYourClone for Windows License Key Free",
-         "Informacion": "DoYourClone para Windows es un programa de clonaci\u00f3n de discos potente, 100% seguro y f\u00e1cil de usar. Puede ayudarle a clonar de forma f\u00e1cil y segura un sistema de disco duro, HDD, SSD, unidad flash USB, tarjeta de memoria, RAID, servidor, etc. Es totalmente compatible con Windows 10, Windows 8/8.1, Windows 7, Windows Vista y Sistema operativo Windows Server.",
-         "Desde": "",
-         "Hasta": "2024/01/14 14:00",
-         "URL": "https://giveaway.tickcoupon.com/doyourclone-for-windows-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/03/install-doyourclone-for-windows.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "Sail Forth",
          "Informacion": "Dirige una flota de naves personalizables por un oc\u00e9ano en cuyas profundidades est\u00e1 la clave del misterioso pasado del planeta. Gana tripulantes entre los pescadores, enfr\u00e9ntate a piratas y traza un rumbo a trav\u00e9s de un mundo acu\u00e1tico en expansi\u00f3n.",
@@ -48,6 +8,16 @@
          "Hasta": "2024/01/18 17:00",
          "URL": "https://store.epicgames.com/p/sail-forth-51847e",
          "IMG": "https://cdn1.epicgames.com/spt-assets/bf6f7c896b214dd891aa10debb6fbf50/sail-forth-1h4ru.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "LOVE",
+         "Informacion": "LOVE is a reductive platforming game with a minimalist and a focus on a challenging difficulty. It has an custom respawn system, 16 levels, a 12 track original soundtrack, competitive scoring and time attack modes, and custom level support.",
+         "Desde": "2024/01/18",
+         "Hasta": "2024/01/25 17:00",
+         "URL": "https://store.epicgames.com/p/love-65c4d0",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/d4c3a9a3058c471fb5e18af6908f28f0/love-12c4i.png",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
