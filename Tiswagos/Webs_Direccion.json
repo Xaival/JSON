@@ -1,12 +1,6 @@
 {
-   "date_update": "16 Jan 2024 20:21 UTC",
+   "date_update": "07 Feb 2024 17:03 UTC",
    "values": [
-      {
-         "Direccion": "0.0.0.0 23.109.87.27 #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 rowdy-article.com #AntiSpam"
-      },
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
       },
@@ -17,19 +11,10 @@
          "Direccion": "0.0.0.0 blacknesskeepplan.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 challengecircuit.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 chirppronounceaccompany.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 cleardexchange.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 codedexchange.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 crueltyrefundye.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 crumbtypewriterhome.com #AntiSpam"
@@ -74,28 +59,16 @@
          "Direccion": "0.0.0.0 perryvolleyball.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 politicianbusplate.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 populationrind.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 princesinistervirus.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 reposemarshknot.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 roadmappenal.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 rosyruffian.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 scriptvealpatronage.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 serialwarning.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 shitcustody.com #AntiSpam"
@@ -107,16 +80,10 @@
          "Direccion": "0.0.0.0 successfulpatience.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 sunglassesmentallyproficient.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 syndication.exoclick.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 temperrunnersdale.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 toiletapparel.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 torrentfunk.123down.org #AntiSpam"
@@ -150,9 +117,6 @@
       },
       {
          "Direccion": "0.0.0.0 1045.littlmarsnews22.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 1d5e051bc65.traffic-c.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 accentneglectporter.com #AntiSpam"
@@ -305,9 +269,6 @@
          "Direccion": "0.0.0.0 funnyestdating.top #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 garglingirony.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 glersakr.com #AntiSpam"
       },
       {
@@ -449,9 +410,6 @@
          "Direccion": "0.0.0.0 onmarshtompor.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 opchikoritar.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 p131675.clksite.com #AntiSpam"
       },
       {
@@ -476,13 +434,7 @@
          "Direccion": "0.0.0.0 pricesandwinners.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 promo.codere.es #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 q8ntfhfngm.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 r.ftte.xyz #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 r.lnk8j7.com #AntiSpam"
@@ -501,6 +453,9 @@
       },
       {
          "Direccion": "0.0.0.0 richawhythi.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 rowdy-article.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 rpc-php.trafficfactory.biz #AntiSpam"
@@ -626,12 +581,6 @@
          "Direccion": "0.0.0.0 x-delivery.icu #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 xxxs.vip #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 ylasthepoityelthens.com.ua #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 zunsoach.com #AntiSpam"
       },
       {
@@ -639,9 +588,6 @@
       },
       {
          "Direccion": "0.0.0.0 campaign.aliexpress.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 ww12.land-secure.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 swiftfling.com #AntiSpam"
@@ -686,6 +632,9 @@
          "Direccion": "0.0.0.0 flirtyj0y.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 hotheartdates.life #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 hotsimulator.com #AntiSpam"
       },
       {
@@ -725,9 +674,6 @@
          "Direccion": "0.0.0.0 www.dirtydating.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 www.xvidzz.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 www.erotilink.com #AntiSpam"
       },
       {
@@ -737,13 +683,13 @@
          "Direccion": "0.0.0.0 www.quierorollo.es #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 www.saucyflirts.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 www.secretopasional.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.singleflirt.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 www.xvidzz.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 thebestgame2020.com #AntiSpam"
@@ -1199,9 +1145,6 @@
          "Direccion": "0.0.0.0 te-teen.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 teeenz.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 teen-wave.com #AntiSpam"
       },
       {
@@ -1332,9 +1275,6 @@
       },
       {
          "Direccion": "0.0.0.0 www.hotdreamsxxx.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 www.infinityteenmovies.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.itsfuck.com #AntiSpam"
@@ -3029,9 +2969,6 @@
          "Direccion": "0.0.0.0 www.freevirtualdolls.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 www.freexxxporngames.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 crt.livejasmin.com #AntiSpam"
       },
       {
@@ -3185,9 +3122,6 @@
          "Direccion": "0.0.0.0 cuevana-1.net #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 cuevana-2.to #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 cuevana-3.io #AntiSpam"
       },
       {
@@ -3201,9 +3135,6 @@
       },
       {
          "Direccion": "0.0.0.0 cuevana.shoes #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 cuevana3.poker #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 cuevana3.press #AntiSpam"
@@ -3233,6 +3164,9 @@
          "Direccion": "0.0.0.0 karin-hofmann.azpelis.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 macrofilmes.site #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 movie.cineeu.com #AntiSpam"
       },
       {
@@ -3251,9 +3185,6 @@
          "Direccion": "0.0.0.0 pelisfox.info #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 pelispedia.vc #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 play.flix4k.me #AntiSpam"
       },
       {
@@ -3266,16 +3197,10 @@
          "Direccion": "0.0.0.0 repelis-hd.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 repelisplus.sh #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 screenmax.xyz #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 stream.boxmovies.club #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 thara8.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 the-siege-of-firebase-gloria.azpelis.com #AntiSpam"
@@ -3357,9 +3282,6 @@
       },
       {
          "Direccion": "0.0.0.0 email.sl.safesecuremsg.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 filesdownloader.one #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.freevpn.win #AntiSpam"
@@ -3459,9 +3381,6 @@
       },
       {
          "Direccion": "0.0.0.0 adsfreewatch.net #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 adshieldme.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 advideoblock.com #AntiSpam"
@@ -3683,9 +3602,6 @@
          "Direccion": "0.0.0.0 watchadzfree.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 watchfreeofads.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 websurfguard.com #AntiSpam"
       },
       {
@@ -3839,6 +3755,9 @@
          "Direccion": "0.0.0.0 zsocf.nergyflexibilit.pics #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 ravishingriversofthewildwest-01.azurewebsites.net #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 www.totalav.com #AntiSpam"
       },
       {
@@ -3942,9 +3861,6 @@
       },
       {
          "Direccion": "0.0.0.0 pl16509289.highperformancecpm.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 tearpilotzoo.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 a.realsrv.com #AntiSpam"
@@ -4290,9 +4206,6 @@
       },
       {
          "Direccion": "0.0.0.0 www.adpmbtj.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 stossfussily.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 cdn10.trafficjunky.net #AntiSpam"
