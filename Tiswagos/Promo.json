@@ -1,96 +1,6 @@
 {
-   "date_update": "10 Feb 2024 17:04 UTC",
+   "date_update": "11 Feb 2024 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Project Z by KS GAMES",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/02/10 10:00",
-         "URL": "https://gamerevolutionx.itch.io/project-z",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0OTU3Ny8xNDUyMTA5NS5qcGc=/347x500/m8c3fA.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Until It\u00e2\u0080\u0099s Undone: Unmastered by ApeHardware",
-         "Informacion": "Hay un pueblo extra\u00f1o en las afueras.",
-         "Desde": "",
-         "Hasta": "2024/02/11 01:00",
-         "URL": "https://apehardware.itch.io/uh-oh-here-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NzUxMS8xNDU3MzE2My5wbmc=/347x500/rWqERy.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Ryza Roads by Felipe Godoy",
-         "Informacion": "\u00a1En este archipi\u00e9lago puedes explorar, competir, comprar veh\u00edculos nuevos, obtener logros y m\u00e1s!",
-         "Desde": "",
-         "Hasta": "2024/02/11 05:00",
-         "URL": "https://felipegodoy.itch.io/ryzaroads",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQ3NzQ0LzIyNjQ5NTUucG5n/347x500/iicv2r.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "AceThinker Wind Cut: Video Editor and Visual Effects",
-         "Informacion": "Software de edici\u00f3n de v\u00eddeo potente y f\u00e1cil de usar que te ayudar\u00e1 a crear v\u00eddeos de aspecto profesional en unos minutos.",
-         "Desde": "",
-         "Hasta": "2024/02/11 07:00",
-         "URL": "https://sharewareonsale.com/s/free-acethinker-wind-cut-video-editor-and-visual-effects-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/video-editor-boxshot2.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Backup Lite",
-         "Informacion": "Haga una copia de seguridad de sus archivos sin esfuerzo con Ashampoo Backup Lite. Gracias al monitoreo de archivos en tiempo real de Windows, el programa detecta instant\u00e1neamente cambios en los archivos mientras que el asistente incorporado hace que sea muy f\u00e1cil crear planes de respaldo individuales. El programa utiliza el formato Zip para un almacenamiento que ahorra espacio y una f\u00e1cil recuperaci\u00f3n de archivos.",
-         "Desde": "",
-         "Hasta": "2024/02/11 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-lite-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/02/backup_lite24.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Nero TuneItUp PRO",
-         "Informacion": "Software de limpieza de PC",
-         "Desde": "",
-         "Hasta": "2024/02/11 07:00",
-         "URL": "https://sharewareonsale.com/s/free-nero-tuneitup-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/nero.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "50 Deep Space Backgrounds",
-         "Informacion": "Crea dise\u00f1os asombrosos que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que tambi\u00e9n te permitir\u00e1n trabajar con tu imaginaci\u00f3n para construir algo divertido y genial.",
-         "Desde": "",
-         "Hasta": "2024/02/11 08:00",
-         "URL": "https://sharewareonsale.com/s/free-50-deep-space-backgrounds-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/2-min-1200x800-1.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo WinOptimizer 2024",
-         "Informacion": "Windows cambia constantemente, al igual que los requisitos para una optimizaci\u00f3n del sistema de primer nivel. \u00a1Ashampoo WinOptimizer 2024 garantiza una experiencia de Windows r\u00e1pida, sencilla y limpia!",
-         "Desde": "",
-         "Hasta": "2024/02/11 08:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2024-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/box_winoptimizer2024.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Secure-PDF",
-         "Informacion": "Proteja documentos PDF mediante cifrado, contrase\u00f1as y firma",
-         "Desde": "",
-         "Hasta": "2024/02/11 09:00",
-         "URL": "https://www.bitsdujour.com/software/secure-pdf/in=upcoming-freebies",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/secure-pdf-xwj24.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "2D Survivors by OnceForAllGames",
          "Informacion": "Bienvenido a Supervivientes 2D",
@@ -99,7 +9,7 @@
          "URL": "https://onceforallgames.itch.io/2d-survivors",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUxOTU5NS8xNDk4MjA0Ny5naWY=/347x500/lc7yhr.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "AceThinker Wind Cut 1-Year License Code Download 2024",
@@ -109,37 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/acethinker-video-editor-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/05/acethinker-wind-cut-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Puedes presionar \"P\" para reiniciar el nivel.",
-         "Desde": "",
-         "Hasta": "2024/02/11 16:24",
-         "URL": "https://magnus-froelund.itch.io/colossus",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
-         "Desde": "",
-         "Hasta": "2024/02/11 16:24",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
-         "Desde": "",
-         "Hasta": "2024/02/11 16:24",
-         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
@@ -149,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
@@ -159,7 +39,17 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
+      },
+      {
+         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
+         "Desde": "",
+         "Hasta": "2024/02/11 16:24",
+         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
@@ -169,7 +59,37 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Desde": "",
+         "Hasta": "2024/02/11 16:24",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Puedes presionar \"P\" para reiniciar el nivel.",
+         "Desde": "",
+         "Hasta": "2024/02/11 16:24",
+         "URL": "https://magnus-froelund.itch.io/colossus",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
+      },
+      {
+         "Nombre": "Lamps by mfffg",
+         "Informacion": "\u00d0\u02c6\u02d8\u00d0\u00b3\u00d1\u0192\u0192\u00d0\u00b0 \u00d0\u00ba\u00d0\u00be\u00d1\u0192\u0192\u00d0\u00be\u00d1\u0192\u0192\u00d0\u00b0\u00d1\u0192\u0192 \u00d0\u00b2\u00d0\u00b0\u00d0\u00bc \u00d0\u00bf\u00d0\u00be\u00d0\u00bd\u00d1\u0192\u0192\u00d0\u00b0\u00d0\u00b2\u00d0\u00b8\u00d1\u0192\u0192\u00d1\u0192\u00d1\u0192\u0192!! -",
+         "Desde": "",
+         "Hasta": "2024/02/11 23:00",
+         "URL": "https://mfffg.itch.io/lamps",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ5MTM0NC8xNDc5OTkzNC5wbmc=/347x500/%2Brl9fZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Ball Clicker 2 by HTGames",
@@ -179,7 +99,17 @@
          "URL": "https://houloude-team.itch.io/bc2",
          "IMG": "https://img.itch.zone/aW1nLzE0NjQ2NDgzLnBuZw==/347x500/ukEUfn.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "Until It\u00e2\u0080\u0099s Undone: Unmastered by ApeHardware",
+         "Informacion": "Hay un pueblo extra\u00f1o en las afueras.",
+         "Desde": "",
+         "Hasta": "2024/02/12 00:59",
+         "URL": "https://apehardware.itch.io/uh-oh-here-we-go-again",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NzUxMS8xNDU3MzE2My5wbmc=/347x500/rWqERy.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Vovsoft Health Break Reminder License Key Free",
@@ -189,7 +119,17 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-health-break-reminder-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/02/vovsoft-health-break-free-key-coupon-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
+      },
+      {
+         "Nombre": "Underground by NekitGames",
+         "Informacion": "Te encuentras en un sistema de t\u00faneles subterr\u00e1neos, llenos de monstruos deambulando y llenos de peligros. Veremos si logras superar tu miedo y salir.",
+         "Desde": "",
+         "Hasta": "2024/02/12 05:37",
+         "URL": "https://nekitgames.itch.io/underground",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUxOTE3NS8xNDk4Mjk0NS5wbmc=/347x500/p1iy%2B0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -199,7 +139,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -209,7 +149,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -219,7 +159,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Sticky Password Premium",
@@ -229,7 +169,27 @@
          "URL": "https://sharewareonsale.com/s/sticky-password-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/09/Sticky-Password-Premium-2017-200x147.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Secure-PDF",
+         "Informacion": "Proteja documentos PDF mediante cifrado, contrase\u00f1as y firma",
+         "Desde": "",
+         "Hasta": "2024/02/12 09:00",
+         "URL": "https://www.bitsdujour.com/software/secure-pdf/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/secure-pdf-xwj24.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Allavsoft",
+         "Informacion": "Descargar y convertir v\u00eddeos para verlos sin conexi\u00f3n",
+         "Desde": "",
+         "Hasta": "2024/02/12 09:00",
+         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=upcoming-freebies",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allavsoft-2-2nbl5.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Sticky Password Premium Key Free 1-Year",
@@ -268,6 +228,26 @@
          "Hasta": "2024/02/13 00:00",
          "URL": "https://axbt-studio-corporation.itch.io/nscardrivepc",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc2MTczNS8xMTU1MTE2Ny5qcGc=/347x500/O8IJJQ.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ButtonClicker 3 by rtvr5656",
+         "Informacion": "ButtonClicker 3, la nueva versi\u00f3n de ButtonClicker, \u00a1ahora para m\u00e1s dispositivos!",
+         "Desde": "",
+         "Hasta": "2024/02/13 02:00",
+         "URL": "https://rtvr5656.itch.io/buttonclicker3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3MDUwNy8xNDY2MjgxOS5wbmc=/347x500/Gphtza.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ButtonClicker 2 by rtvr5656",
+         "Informacion": "ButtonClicker 2 es la versi\u00f3n mejorada de ButtonClicker",
+         "Desde": "",
+         "Hasta": "2024/02/13 02:00",
+         "URL": "https://rtvr5656.itch.io/buttonclicker2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ2ODYyNi8xNDY1MDI0MC5wbmc=/347x500/QZ4CcQ.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -432,6 +412,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft Image Combiner License Key for Free",
+         "Informacion": "Si est\u00e1 buscando un software de uni\u00f3n de im\u00e1genes para crear webtoons, c\u00f3mics, dibujos animados o tiras de im\u00e1genes largos, entonces Vovsoft Image Combiner es definitivamente su opci\u00f3n. Vovsoft Image Combiner es una herramienta de combinaci\u00f3n de im\u00e1genes f\u00e1cil de usar que le permite combinar fotograf\u00edas. La interfaz de usuario es clara, ya que est\u00e1 dise\u00f1ada para editores de im\u00e1genes principiantes. Con \u00e9l, puedes arrastrar y soltar im\u00e1genes una por una o seleccionar una carpeta donde se encuentran y dejar que la aplicaci\u00f3n extraiga todas las im\u00e1genes compatibles. Esta herramienta admite todos los formatos populares, como PNG, JPG, JPEG, GIF, TIFF y BMP.",
+         "Desde": "",
+         "Hasta": "2024/02/18 00:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-image-combiner-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/09/vovsoft-image-combiner.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "KeyCtrl Professional",
+         "Informacion": "Automatiza tus tareas diarias ahora y define tus propias teclas de acceso r\u00e1pido con KeyCtrl. \u00a1Aumente su productividad y minimice el tiempo dedicado con los atajos de teclado adecuados!",
+         "Desde": "",
+         "Hasta": "2024/02/18 08:00",
+         "URL": "https://sharewareonsale.com/s/free-keyctrl-professional-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/02/KeyCtrl1000-EN.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Drug Dealer (The Re-Build and Re-Birth) by b._.render",
          "Informacion": "Tendr\u00e1s que trabajar duro y ganarte un camino en el inframundo criminal antes de conseguir los productos.",
          "Desde": "",
@@ -488,6 +488,16 @@
          "Hasta": "2024/02/20 01:00",
          "URL": "https://the-tree-gameworks.itch.io/who-am-i-remedy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUxNjMwMi8xNDk2MDA2Ny5qcGc=/347x500/t8d9ep.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
+         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
+         "Desde": "",
+         "Hasta": "2024/02/20 09:36",
+         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -689,6 +699,26 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-photo-bg-remover-license-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/leawo-photo-bg-remover-license-code-free.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "UnrealityDread by SDevScares",
+         "Informacion": "Nuestro sitio web oficial",
+         "Desde": "",
+         "Hasta": "2024/02/29 00:00",
+         "URL": "https://sdevscares.itch.io/unreality-dread",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwNjE5OS8xNDcwMzgwMS5qcGc=/347x500/eFS8W0.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Lost Apartment Demo by SDevScares",
+         "Informacion": "The Lost Apartment es un juego de Bodycam fotorrealista basado en un apartamento. \u00a1Prep\u00e1rate para una experiencia de terror inolvidable como ninguna otra! Jugabilidad intensa y una enorme historia lista para ser descubierta. \u00bfCrees que tienes lo necesario para explorar, descubrir y descubrir secretos? S\u00f3lo hay una manera de saberlo...",
+         "Desde": "",
+         "Hasta": "2024/02/29 00:00",
+         "URL": "https://sdevscares.itch.io/the-lost-apartment",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1ODc4OC8xNDQ5NDQzOS5qcGc=/347x500/LPmoDg.jpg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -902,6 +932,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Brightful Xmas by Fake Wolf",
+         "Informacion": "Ayuda a Pap\u00e1 Noel a decorar el \u00e1rbol de Navidad recogiendo regalos, intenta encender todas las luces navide\u00f1as.",
+         "Desde": "",
+         "Hasta": "2024/03/09 01:00",
+         "URL": "https://fakewolfgamestudio.itch.io/brightful-xmas",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODU5MTYxLzQ4MjIxODkucG5n/347x500/v7CvqW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Den:The Forgotten by Fake Wolf",
          "Informacion": "Historia",
          "Desde": "",
@@ -918,16 +958,6 @@
          "Hasta": "2024/03/09 01:00",
          "URL": "https://fakewolfgamestudio.itch.io/pumkinhead-john",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUyMzAyNS84OTA1OTgwLnBuZw==/347x500/tQbNCL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Brightful Xmas by Fake Wolf",
-         "Informacion": "Ayuda a Pap\u00e1 Noel a decorar el \u00e1rbol de Navidad recogiendo regalos, intenta encender todas las luces navide\u00f1as.",
-         "Desde": "",
-         "Hasta": "2024/03/09 01:00",
-         "URL": "https://fakewolfgamestudio.itch.io/brightful-xmas",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODU5MTYxLzQ4MjIxODkucG5n/347x500/v7CvqW.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
