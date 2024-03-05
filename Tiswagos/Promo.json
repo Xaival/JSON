@@ -1,16 +1,6 @@
 {
-   "date_update": "04 Mar 2024 17:02 UTC",
+   "date_update": "05 Mar 2024 17:01 UTC",
    "values": [
-      {
-         "Nombre": "Nightmare Labyrinth by KS GAMES",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/04 10:00",
-         "URL": "https://gamerevolutionx.itch.io/nightmare",
-         "IMG": "https://img.itch.zone/aW1nLzE0Mjc5ODU5LmpwZw==/347x500/dp9luP.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
       {
          "Nombre": "Revive by Guillotine",
          "Informacion": "Este juego trata sobre una persona llamada Luke que perdi\u00f3 a su perro llamado Kevin en un accidente. Luke vivi\u00f3 toda su vida s\u00f3lo con su perro. As\u00ed que no ten\u00eda a nadie m\u00e1s para continuar con su vida. Luke no puede soportar esta situaci\u00f3n y hace lo m\u00e1s siniestro para revivir a su perro.",
@@ -19,7 +9,7 @@
          "URL": "https://khoyman.itch.io/revive",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ5NDM4My8xNTEyMDU0Ny5naWY=/347x500/fDA6S8.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "50 Premium Modern Fonts",
@@ -29,7 +19,7 @@
          "URL": "https://sharewareonsale.com/s/free-50-premium-modern-fonts-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/50-Premium-Modern-Fonts.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Ashampoo Internet Accelerator 3",
@@ -39,7 +29,17 @@
          "URL": "https://sharewareonsale.com/s/ashampoo-internet-accelerator-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/05/box_ashampoo_internet_accelerator_3_800x800-200x200.jpg?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "WonderFox Document Manager",
+         "Informacion": "Administre, haga copias de seguridad y cifre sus documentos",
+         "Desde": "",
+         "Hasta": "2024/03/06 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-document-manager-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-document-manager-2-cla64.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Top Down Showdown by Ahsan Makes Games",
@@ -58,6 +58,16 @@
          "Hasta": "2024/03/07 08:00",
          "URL": "https://sharewareonsale.com/s/free-moviejack-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/11/moviejack-box-left-300-151x200.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mango Animation Maker",
+         "Informacion": "Mango Animation Maker permite a todos crear un v\u00eddeo animado en minutos. En el competitivo mercado digital actual, no es f\u00e1cil encontrar un excelente creador de videos de animaci\u00f3n con las herramientas adecuadas para crear contenido de video profesional sin gastar mucho dinero. Mango Animation Maker se puede utilizar en cualquier industria, ya sea para uso personal, empresarial o escolar.",
+         "Desde": "",
+         "Hasta": "2024/03/07 08:00",
+         "URL": "https://sharewareonsale.com/s/free-mango-animation-maker-enterprise-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/08/Mango_AM_image10-200x200.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -222,6 +232,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2024/03/09 06:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
          "Desde": "",
@@ -238,16 +258,6 @@
          "Hasta": "2024/03/09 06:00",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2024/03/09 06:00",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -292,6 +302,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Blended by Dragonaz",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/03/10 01:00",
+         "URL": "https://dragonaz.itch.io/blended",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUxMzUyMC8xNTI0OTczOS5wbmc=/347x500/i7MKPc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "I Don't Know. by CityStream",
          "Informacion": "\"Mi \u00faltimo recuerdo fue morir en 2025. Y ahora me encuentro 500 a\u00f1os despu\u00e9s. La \u00fanica compa\u00f1\u00eda en esta nave espacial es una IA llamada Avaniax, cuyas predicciones para 500 a\u00f1os en el futuro exceden su conocimiento. No puedo contactar con el exterior mundo, la nave espacial est\u00e1 vac\u00eda, \u00bfy estoy condenado a esperar aqu\u00ed y morir con esta est\u00fapida inteligencia artificial? \u00a1Maldita sea!",
          "Desde": "",
@@ -332,22 +352,52 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Juegos retro 5 en 1",
          "Desde": "",
          "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego de terror corto realizado en 1 semana.",
+         "Desde": "",
+         "Hasta": "2024/03/11 01:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/03/11 01:00",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2024/03/11 01:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -372,22 +422,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego de terror corto realizado en 1 semana.",
+         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "URL": "https://magnus-froelund.itch.io/stargates",
+         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -402,42 +442,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Juegos retro 5 en 1",
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
          "Desde": "",
          "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
          "Desde": "",
          "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/stargates",
-         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -512,6 +532,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Glary Utilities Pro 1-Year Free License Key Giveaway",
+         "Informacion": "Glary Utilities Pro es la mejor herramienta para limpiar y reparar su sistema, optimizar el inicio y la memoria, triturar y recuperar archivos, y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2024/03/12 12:00",
+         "URL": "https://giveaway.tickcoupon.com/free-license-key-for-glary-utilities-pro/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/glary-utilities-pro-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "how not to sink by RicoAlbe",
          "Informacion": "C\u00f3mo no hundirse es un juego inspirado en mi experiencia con la ansiedad. Te pedir\u00e1 que escribas sobre tu d\u00eda, tus miedos y sentimientos, ser\u00e1 una experiencia muy personal, aseg\u00farate de jugarlo por tu cuenta para que puedas sumergirte en \u00e9l sin restricciones.",
          "Desde": "",
@@ -552,6 +582,26 @@
          "Borde": "border-color: #ff9600;"
       },
       {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
+         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
+         "Desde": "",
+         "Hasta": "2024/03/15 10:30",
+         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning by SJ Logo transparent",
+         "Informacion": "Baldi's Basics Songkran In Education And Learning son juegos de terror de juegos de rol y juegos de rol, los juegos de aventuras de acci\u00f3n y estrategia t\u00e1ctica son una recreaci\u00f3n de Blue Archive Games de: Nexon Company Inc., con otros millones de jugadores que juegan, es un modo de juego m\u00e1s desafiante para jugando con amigos \u00a1\u00a1Advertencia!! \u00a1Los juegos de terror de los juegos de matem\u00e1ticas dan mucho miedo, no lo juegues! un personaje de simple llamado:\u00a0\u00a1los juegos de gacha ahora siempre giran como un cofre hacia la apertura!",
+         "Desde": "",
+         "Hasta": "2024/03/15 10:30",
+         "URL": "https://sj-logo-transparent.itch.io/baldi-basics-songkran-in-education-and-learning-145-not-decomplited",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTk1MTI1LzMxNDk3NTcucG5n/347x500/bV04sG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Johnny the Pigeon by Blue harpy",
          "Informacion": "",
          "Desde": "",
@@ -582,16 +632,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Skeletons by KevEatsCheese",
-         "Informacion": "Skeletons es un juego acogedor inspirado en Unpacking, sin giros ni rarezas. Si\u00e9ntate, rel\u00e1jate y decora su s\u00f3tano.",
-         "Desde": "",
-         "Hasta": "2024/03/18 13:00",
-         "URL": "https://keveatscheese.itch.io/skeletons",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjUyNDE5MS8xNTA3ODE3Ni5wbmc=/347x500/iWHFsD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Beneath the Waves by KevEatsCheese, Tom Scotch",
          "Informacion": "Un crucero regresa temprano a Florida, pero no hay ni un solo pasajero a bordo. El FBI Shelly Clark tiene la tarea de investigar las desapariciones. \u00bfDescubrir\u00e1 la verdad o se perder\u00e1 como los dem\u00e1s?",
          "Desde": "",
@@ -612,12 +652,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Skeletons by KevEatsCheese",
+         "Informacion": "Skeletons es un juego acogedor inspirado en Unpacking, sin giros ni rarezas. Si\u00e9ntate, rel\u00e1jate y decora su s\u00f3tano.",
+         "Desde": "",
+         "Hasta": "2024/03/18 13:00",
+         "URL": "https://keveatscheese.itch.io/skeletons",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUyNDE5MS8xNTA3ODE3Ni5wbmc=/347x500/iWHFsD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Who Am I: Remedy by The Tree Gameworks",
          "Informacion": "Esta versi\u00f3n de demostraci\u00f3n muestra mec\u00e1nicas de juego creadas y parte de la historia. Est\u00e1s jadeando, tu coraz\u00f3n late tan r\u00e1pido, adrenalina en tu sangre, \u00bfno est\u00e1s... asustado? Al despertarte sin recuerdos ni prop\u00f3sito, perdido en tu propia cabeza, \u00bfqu\u00e9 elegir\u00e1s: aprender la verdad sobre ti mismo o permanecer en la ignorancia? \u00bfImporta qui\u00e9n eres, hombre o mujer, adulto o ni\u00f1o? Descubra qu\u00e9 es este lugar y qu\u00e9 pas\u00f3 aqu\u00ed. Convi\u00e9rtete en detective, arma el rompecabezas de la historia pasada, convi\u00e9rtete en quien arrojar\u00e1 luz sobre la sombra...",
          "Desde": "",
          "Hasta": "2024/03/20 01:00",
          "URL": "https://the-tree-gameworks.itch.io/who-am-i-remedy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUxNjMwMi8xNDk2MDA2Ny5qcGc=/347x500/t8d9ep.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet 2 by TheThil",
+         "Informacion": "El juego tiene 3 finales posibles. Tiempo medio de juego: 30-45 minutos.",
+         "Desde": "",
+         "Hasta": "2024/03/21 20:00",
+         "URL": "https://thethil.itch.io/strange-toilet-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NzAxMS8xMzU4MDA1NC5qcGc=/347x500/fAMvKk.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet by TheThil",
+         "Informacion": "En el tranquilo barrio donde viven Nathan y Sarah, hay una presencia siniestra. Una amenaza potencial de un asesino suelto. Los residentes no esperaban que en esta tarde pac\u00edfica se enfrentar\u00edan a una realidad sombr\u00eda que nunca anticiparon.",
+         "Desde": "",
+         "Hasta": "2024/03/21 20:00",
+         "URL": "https://thethil.itch.io/strange-toilet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MjYwOC84MTg3NTUyLnBuZw==/347x500/A%2BcWTM.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
