@@ -1,126 +1,6 @@
 {
-   "date_update": "07 Mar 2024 17:01 UTC",
+   "date_update": "08 Mar 2024 17:01 UTC",
    "values": [
-      {
-         "Nombre": "Aerial_Knight's Never Yield",
-         "Informacion": "Encarnas a Wally, un personaje misterioso que ha recuperado algo que le hab\u00edan arrebatado. Con algo de suerte, ser\u00e1s capaz de aventajar a los enemigos.   Corre, salta, desl\u00edzate o abal\u00e1nzate de forma acrob\u00e1tica para efectuar combinaciones incre\u00edbles y superar los desaf\u00edos que ...",
-         "Desde": "2024/02/29",
-         "Hasta": "2024/03/07 17:00",
-         "URL": "https://store.epicgames.com/p/aerial-knights-never-yield",
-         "IMG": "https://cdn1.epicgames.com/offer/2ed7ed64d8604265924b85bbd5670220/EGS_Aerial_KnightsNeverYield_Aerial_Knight_S1_2560x1440-9699d7ad1cbf87e6cb570cba7efb5fa6",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "The Door! 2 by Nitish Thombre",
-         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/the-door-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
-         "Desde": "",
-         "Hasta": "2024/03/07 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! 3 by Nitish Thombre",
-         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/the-door-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
-         "Desde": "",
-         "Hasta": "2024/03/07 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! 4 by Nitish Thombre",
-         "Informacion": "Un ni\u00f1o solo en su habitaci\u00f3n, durmiendo, de repente ocurre una tormenta y se despierta. Se encuentra en una habitaci\u00f3n completamente diferente, ahora busca alguna manera de sacarlo de esta casa, pero encontr\u00f3 una habitaci\u00f3n desconocida con paredes y techo cubiertos de TEJAS. Y conoci\u00f3...",
-         "Desde": "",
-         "Hasta": "2024/03/07 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-4",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! by Nitish Thombre",
-         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/the-door-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
-         "Desde": "",
-         "Hasta": "2024/03/07 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "ALONE by NISHAD",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/07 21:00",
-         "URL": "https://nishad-games.itch.io/alone",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY4MDE5Ni85ODk0Mjg2LmpwZw==/347x500/vXsira.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "ALONE II by NISHAD",
-         "Informacion": "\u00a1\u00a1En el Cap\u00edtulo anterior sale de casa!! Ahora piensa que el exterior ya no es tan seguro. Llama a su amiga y decide ir a su casa cerca de su ciudad natal, pero el principal problema es que no sabe d\u00f3nde estoy.",
-         "Desde": "",
-         "Hasta": "2024/03/07 21:00",
-         "URL": "https://nishad-games.itch.io/alone-ii",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEwNzE0MC8xMjQwNDQ5Ni5qcGc=/347x500/aFvA3t.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "LAST NIGHT by NISHAD",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/07 21:00",
-         "URL": "https://nishad-games.itch.io/last-night",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA0OTIwNi8xMjIwNjY3NC5wbmc=/347x500/CKXDNO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "POPPY TIME PLUS by NISHAD",
-         "Informacion": "En la oscuridad, tienes que escapar de tu propia casa debido al Sr. An\u00f3nimo, donde est\u00e1s con tu amigo NICHO, pero para abrir las puertas tienes que encontrar las llaves y asegurarte de que el Cachorro no te mate, mant\u00e9n tus ojos. en el cron\u00f3metro o tu cachorro te matar\u00e1.",
-         "Desde": "",
-         "Hasta": "2024/03/07 21:00",
-         "URL": "https://nishad-games.itch.io/poppy-time-plus",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDIyNy8xMjk2NDYzOC5wbmc=/347x500/KWqPdB.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "GravMetal by Shmig",
-         "Informacion": "Safryn tiene que sobrevivir en mundos mortales llenos de los mercenarios m\u00e1s malvados y masas de armamento de guerra disfrazados de robots dom\u00e9sticos.",
-         "Desde": "",
-         "Hasta": "2024/03/08 02:00",
-         "URL": "https://shmig.itch.io/gravmetal",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg5MzgzMC8xMTEzMTExNC5wbmc=/347x500/aDgEqL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "iFinD Data Recovery",
-         "Informacion": "Recupere archivos perdidos con una tasa de \u00e9xito del 99%",
-         "Desde": "",
-         "Hasta": "2024/03/08 09:00",
-         "URL": "https://www.bitsdujour.com/software/ifind-data-recovery/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/ifind-data-recovery-xkktb.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Cleaning Suite",
-         "Informacion": "Limpiar datos innecesarios de computadoras con Windows",
-         "Desde": "",
-         "Hasta": "2024/03/08 09:00",
-         "URL": "https://www.bitsdujour.com/software/cleaning-suite/in=upcoming-freebies",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/cleaning-suite-hgkv8.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "WonderFox Video to Picture Converter Free Key 2024",
          "Informacion": "Quiz\u00e1s pensaste que extraer im\u00e1genes de un v\u00eddeo es algo dif\u00edcil. No, esta tarea se realizar\u00e1 f\u00e1cilmente con la ayuda de WonderFox Video to Picture Converter, una herramienta de conversi\u00f3n de v\u00eddeo. Como sugiere el nombre, est\u00e1 dise\u00f1ado para ayudarlo a tomar fotograf\u00edas del video y le permite controlar la cantidad de im\u00e1genes para cada cuadro con facilidad. Con la ayuda de esta herramienta de conversi\u00f3n de video, puede convertir m\u00faltiples formatos de video (AVI, MP4, MPG, WMV, MKV, MOV, etc.) al formato JPG, GIF, BMP, TGA, TIF, PCX, Ico, etc. mucho esfuerzo.",
@@ -129,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-video-to-picture-converter-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/02/wonderfox-video-to-picture-converter.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Berian the Explorer by Fake Wolf",
@@ -139,7 +19,7 @@
          "URL": "https://fakewolfgamestudio.itch.io/berian-the-explorer",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI2MDYyNi83MzU3NzI1LnBuZw==/347x500/PiEl7C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Brightful Xmas by Fake Wolf",
@@ -149,7 +29,7 @@
          "URL": "https://fakewolfgamestudio.itch.io/brightful-xmas",
          "IMG": "https://img.itch.zone/aW1hZ2UvODU5MTYxLzQ4MjIxODkucG5n/347x500/v7CvqW.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Den:The Forgotten by Fake Wolf",
@@ -159,7 +39,7 @@
          "URL": "https://fakewolfgamestudio.itch.io/denthe-forgotten",
          "IMG": "https://img.itch.zone/aW1hZ2UvODM1NTM1LzQ2ODIxNjUucG5n/347x500/Q6DMV7.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Pumkinhead John by Fake Wolf",
@@ -169,7 +49,7 @@
          "URL": "https://fakewolfgamestudio.itch.io/pumkinhead-john",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUyMzAyNS84OTA1OTgwLnBuZw==/347x500/tQbNCL.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Tank Blitzkrieg (Beta) by Anders Studio",
@@ -179,7 +59,7 @@
          "URL": "https://anders-studio.itch.io/tank-blitzkrieg",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjEyNDMzNS8xMjUxMjYyMi5wbmc=/347x500/mHnYlj.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -189,7 +69,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -199,7 +79,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -209,7 +89,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Pazu YouTube Music Converter Free License Key 2024",
@@ -219,7 +99,7 @@
          "URL": "https://giveaway.tickcoupon.com/pazu-youtube-music-converter-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/02/pazu-youtube-music-converter.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "IObit Software Updater PRO 6",
@@ -229,7 +109,17 @@
          "URL": "https://sharewareonsale.com/s/free-iobit-software-updater-pro-6-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/iobit-software-updater-pro-6.jpg?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "SurFlex Screen Recorder - 6 Months License",
+         "Informacion": "Grabe su pantalla en v\u00eddeo y audio de alta calidad",
+         "Desde": "",
+         "Hasta": "2024/03/09 09:00",
+         "URL": "https://www.bitsdujour.com/software/surflex-screen-recorder-6-months-license/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/surflex-screen-recorder-6-months-license-ygagv.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "AOBUNGA : CREEPYBOT Ep2 (Obunga, Ao Oni, Nextbots) by 999W STUDIO",
@@ -272,6 +162,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Internet Accelerator 3",
+         "Informacion": "Todos damos por sentado Internet hoy en d\u00eda, pero lo que tiene que hacer tu computadora para permitirte navegar es realmente incre\u00edblemente complicado. Windows tiene una larga lista de configuraciones para ajustar el rendimiento de su conexi\u00f3n a Internet. Eso est\u00e1 bien si eres un experto en inform\u00e1tica, el resto de nosotros generalmente empeoraremos las cosas en lugar de mejorarlas, si podemos encontrar todas las configuraciones bien ocultas en primer lugar.",
+         "Desde": "",
+         "Hasta": "2024/03/10 08:00",
+         "URL": "https://sharewareonsale.com/s/ashampoo-internet-accelerator-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/05/box_ashampoo_internet_accelerator_3_800x800-200x200.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Photo Optimizer 2024",
          "Informacion": "Photo Optimizer 2024 proporciona una edici\u00f3n completa de im\u00e1genes con solo unos pocos clics. El programa admite funciones populares como rotaci\u00f3n de im\u00e1genes, recorte, cambio de tama\u00f1o y mucho m\u00e1s.",
          "Desde": "",
@@ -292,12 +192,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ashampoo Internet Accelerator 3",
-         "Informacion": "Todos damos por sentado Internet hoy en d\u00eda, pero lo que tiene que hacer tu computadora para permitirte navegar es realmente incre\u00edblemente complicado. Windows tiene una larga lista de configuraciones para ajustar el rendimiento de su conexi\u00f3n a Internet. Eso est\u00e1 bien si eres un experto en inform\u00e1tica, el resto de nosotros generalmente empeoraremos las cosas en lugar de mejorarlas, si podemos encontrar todas las configuraciones bien ocultas en primer lugar.",
+         "Nombre": "MOVIEJACK",
+         "Informacion": "El `Destripador` est\u00e1 de vuelta, ahora disponible como descargador de videos con un nuevo dise\u00f1o.",
          "Desde": "",
          "Hasta": "2024/03/10 08:00",
-         "URL": "https://sharewareonsale.com/s/ashampoo-internet-accelerator-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/05/box_ashampoo_internet_accelerator_3_800x800-200x200.jpg?9187",
+         "URL": "https://sharewareonsale.com/s/free-moviejack-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/11/moviejack-box-left-300-151x200.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -712,16 +612,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Bridge",
-         "Informacion": "The Bridge es un juego de l\u00f3gica rompecabezas que obliga al jugador a reconsiderar sus ideas preconcebidas sobre la f\u00edsica y la perspectiva. Es como una fusi\u00f3n de Escher con Isaac Newton. Manipula la gravedad para convertir el techo en suelo mientras te adentras en arquitectur...",
-         "Desde": "2024/03/14",
-         "Hasta": "2024/03/21 17:00",
-         "URL": "https://store.epicgames.com/p/the-bridge",
-         "IMG": "https://cdn1.epicgames.com/epic/offer/Wide_TheBridge-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
-      },
-      {
          "Nombre": "Deus Ex - Mankind Divided",
          "Informacion": "Adam Jensen es un experimentado agente encubierto que se ve obligado a trabajar en un mundo que detesta a los de su clase. Equipado con un arsenal y aumentos de primera clase, deber\u00e1 elegir bien la estrategia y fiarse de la gente adecuada para destapar una conspiraci\u00f3n mundial.",
          "Desde": "2024/03/14",
@@ -732,24 +622,14 @@
          "Borde": "border-color: #ff9600;"
       },
       {
-         "Nombre": "Strange Toilet 2 by TheThil",
-         "Informacion": "El juego tiene 3 finales posibles. Tiempo medio de juego: 30-45 minutos.",
-         "Desde": "",
-         "Hasta": "2024/03/21 20:00",
-         "URL": "https://thethil.itch.io/strange-toilet-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NzAxMS8xMzU4MDA1NC5qcGc=/347x500/fAMvKk.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Strange Toilet by TheThil",
-         "Informacion": "En el tranquilo barrio donde viven Nathan y Sarah, hay una presencia siniestra. Una amenaza potencial de un asesino suelto. Los residentes no esperaban que en esta tarde pac\u00edfica se enfrentar\u00edan a una realidad sombr\u00eda que nunca anticiparon.",
-         "Desde": "",
-         "Hasta": "2024/03/21 20:00",
-         "URL": "https://thethil.itch.io/strange-toilet",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MjYwOC84MTg3NTUyLnBuZw==/347x500/A%2BcWTM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Nombre": "The Bridge",
+         "Informacion": "The Bridge es un juego de l\u00f3gica rompecabezas que obliga al jugador a reconsiderar sus ideas preconcebidas sobre la f\u00edsica y la perspectiva. Es como una fusi\u00f3n de Escher con Isaac Newton. Manipula la gravedad para convertir el techo en suelo mientras te adentras en arquitectur...",
+         "Desde": "2024/03/14",
+         "Hasta": "2024/03/21 17:00",
+         "URL": "https://store.epicgames.com/p/the-bridge",
+         "IMG": "https://cdn1.epicgames.com/epic/offer/Wide_TheBridge-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "NO Fungus! by TimmyMacarbey",
@@ -768,6 +648,26 @@
          "Hasta": "2024/03/21 20:00",
          "URL": "https://towi-1.itch.io/speed-of-life-3d",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg2NzUxNC8xMzcyMTg3NC5wbmc=/347x500/kjG7gC.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet 2 by TheThil",
+         "Informacion": "El juego tiene 3 finales posibles. Tiempo medio de juego: 30-45 minutos.",
+         "Desde": "",
+         "Hasta": "2024/03/21 20:00",
+         "URL": "https://thethil.itch.io/strange-toilet-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NzAxMS8xMzU4MDA1NC5qcGc=/347x500/fAMvKk.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet by TheThil",
+         "Informacion": "En el tranquilo barrio donde viven Nathan y Sarah, hay una presencia siniestra. Una amenaza potencial de un asesino suelto. Los residentes no esperaban que en esta tarde pac\u00edfica se enfrentar\u00edan a una realidad sombr\u00eda que nunca anticiparon.",
+         "Desde": "",
+         "Hasta": "2024/03/21 20:00",
+         "URL": "https://thethil.itch.io/strange-toilet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MjYwOC84MTg3NTUyLnBuZw==/347x500/A%2BcWTM.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1032,6 +932,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Leawo iTransfer License Key Free for Windows and Mac",
+         "Informacion": "Leawo iTransfer es un software de transferencia de iPod, iPad y iPhone simple, seguro y confiable que ayuda a transferir aplicaciones, fotos, m\u00fasica, contactos/SMS, pel\u00edculas, tonos de llamada, libros electr\u00f3nicos y archivos de c\u00e1mara entre dispositivos iOS, iTunes y computadoras. .",
+         "Desde": "",
+         "Hasta": "2024/03/31 12:00",
+         "URL": "https://giveaway.tickcoupon.com/leawo-itransfer-free-license-code/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/09/Leawo-iTransfer.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ball Down Hill by KasperV",
          "Informacion": "Meta:",
          "Desde": "",
@@ -1072,13 +982,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "AOMEI MyRecover Pro 1-Year License Key for Free",
-         "Informacion": "La p\u00e9rdida de datos es algo terrible en el mundo digital porque usted se ver\u00e1 afectado en un momento o en la pr\u00f3xima. Sus datos importantes pueden perderse, eliminarse accidentalmente, ser atacados por virus, formatearse, etc., lo que puede generarle un estr\u00e9s innecesario mientras lucha por encontrarlos y recuperarlos. Afortunadamente, AOMEI MyRecover Pro es una soluci\u00f3n integral y profesional para recuperar datos perdidos de HDD/SSD en Windows 11/10/8/7 con una alta tasa de recuperaci\u00f3n.",
+         "Nombre": "AOMEI Backupper Professional",
+         "Informacion": "AOMEI Backupper Professional es un software de copia de seguridad sencillo para PC y port\u00e1tiles con Windows, que contiene todas las funciones de AOMEI Backupper y admite copia de seguridad y restauraci\u00f3n del sistema/disco/archivos/particiones, sincronizaci\u00f3n de archivos y clonaci\u00f3n del sistema, adem\u00e1s de proporcionar copias de seguridad programadas, fusionar im\u00e1genes, copia de seguridad de vol\u00famenes din\u00e1micos, arranque UEFI y copia de seguridad de disco GPT.",
          "Desde": "",
-         "Hasta": "2024/04/03 12:00",
-         "URL": "https://giveaway.tickcoupon.com/aomei-myrecover-pro-license-key-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/12/aomei-myrecover-pro.png",
-         "Distribuidora": "Tickcoupon Giveaway",
+         "Hasta": "2024/04/01 09:00",
+         "URL": "https://sharewareonsale.com/s/aomei-backupper-pro-freebie-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/03/41tY3AxzjlL._AC_-200x258.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1092,6 +1002,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AOMEI MyRecover Pro 1-Year License Key for Free",
+         "Informacion": "La p\u00e9rdida de datos es algo terrible en el mundo digital porque usted se ver\u00e1 afectado en un momento o en la pr\u00f3xima. Sus datos importantes pueden perderse, eliminarse accidentalmente, ser atacados por virus, formatearse, etc., lo que puede generarle un estr\u00e9s innecesario mientras lucha por encontrarlos y recuperarlos. Afortunadamente, AOMEI MyRecover Pro es una soluci\u00f3n integral y profesional para recuperar datos perdidos de HDD/SSD en Windows 11/10/8/7 con una alta tasa de recuperaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2024/04/03 12:00",
+         "URL": "https://giveaway.tickcoupon.com/aomei-myrecover-pro-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/12/aomei-myrecover-pro.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "AOMEI FoneTool Professional 1-Year Key Free",
          "Informacion": "AOMEI FoneTool Professional se considera un software de copia de seguridad imprescindible para su iPhone. Con un rendimiento r\u00e1pido y seguro y una IU amigable, esta poderosa herramienta le permite realizar copias de seguridad y transferir datos del iPhone de manera f\u00e1cil y r\u00e1pida, incluidas fotos, videos, contactos, mensajes, m\u00fasica, etc. Adem\u00e1s, esta herramienta funciona como una herramienta de borrado y conversi\u00f3n que ayuda a los usuarios a eliminar todos los datos de iPhones antiguos para protegerlos y convertir fotos de HEIC a JPG/JPEG.",
          "Desde": "",
@@ -1099,6 +1019,36 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-fonetool-professional-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/04/aomei-fonetool-professional.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AOMEI Cyber Backup 1-Year License Key Free 2024",
+         "Informacion": "Muchos de nosotros creemos que nuestros datos en la empresa est\u00e1n bien protegidos ante cualquier situaci\u00f3n. Pero la verdad no es as\u00ed: tus datos se perder\u00e1n de todos modos en caso de que ocurra un desastre. Entonces, \u00bfc\u00f3mo se pueden recuperar todos los datos en el menor tiempo para volver a trabajar como si nada hubiera pasado? AOMEI Cyber \u200b\u200bBackup es una potente soluci\u00f3n de copia de seguridad empresarial que proporciona una amplia gama de opciones de copia de seguridad de datos empresariales para ayudarle a realizar copias de seguridad o recuperar datos en problemas de desastres para garantizar la mayor resiliencia.",
+         "Desde": "",
+         "Hasta": "2024/04/04 00:00",
+         "URL": "https://giveaway.tickcoupon.com/aomei-cyber-backup/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/03/aomei-cyber-backup.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Agent by Artisan Games",
+         "Informacion": "El agente",
+         "Desde": "",
+         "Hasta": "2024/04/06 20:30",
+         "URL": "https://artisangames.itch.io/theagent",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Mjg5My8xMjk1NDEzMi5wbmc=/347x500/EnZqb9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "\u00d0\u00a8\u00d0\u0090\u00d0\u0093\u00d0\u009d\u00d0\u0098! by Ammour Studio",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/04/06 22:00",
+         "URL": "https://ammour.itch.io/takeastep",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU1MzIxNy8xNTE5MzU0MS5qcGVn/347x500/fOmCCP.jpeg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
