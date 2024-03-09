@@ -570,6 +570,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 league-of-hentai.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 lovehomeporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 luxxxporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 members.seeking.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 morefunforyou.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 mygirls.me #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 nailedhard.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
