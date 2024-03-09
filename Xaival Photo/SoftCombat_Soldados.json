@@ -1,5 +1,5 @@
 {
-   "date_update": "08 Mar 2024 17:01 UTC",
+   "date_update": "09 Mar 2024 17:01 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -1780,28 +1780,6 @@
             "Facebook": "",
             "Youtube": "",
             "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
-         "ID": "AAAAES",
-         "Nombre": "",
-         "NombreRol": "Kuroi Ryuu",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "",
-         "Descripcion": "Ninfa",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/kuroi_ryuu_/",
-            "Insta2": "https://www.instagram.com/pi_ryuu_/",
-            "Insta3": "",
-            "TikTok": "https://www.tiktok.com/@kuroi_ryuu_?lang=es",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "https://www.twitch.tv/kuroi_ryuu_",
             "Web": ""
          }
       },
