@@ -1,146 +1,6 @@
 {
-   "date_update": "10 Mar 2024 17:01 UTC",
+   "date_update": "11 Mar 2024 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Hidden Facade by DeanTheDev",
-         "Informacion": "DESCRIPCI\u00d3N La vida de John da un giro oscuro cuando experimenta sue\u00f1os inquietantes sobre su hija fallecida. Mientras lidia con la p\u00e9rdida, se suceden sucesos extra\u00f1os que desdibujan la l\u00ednea entre la realidad y la pesadilla. Los l\u00edmites de la cordura de John se ponen a prueba mientras intenta escapar de las sombras de su pasado, s\u00f3lo para enfrentarse a manifestaciones espeluznantes que lo llevan al borde del terror. El fino velo entre los sue\u00f1os y la realidad se rompe en una secuencia de pesadilla, dejando a John enredado en una red de apariciones fantasmales y una fuerza siniestra que amenaza con consumirlo. La historia teje una narrativa llena de suspense, explorando los fr\u00e1giles l\u00edmites entre los vivos y los muertos, y las inquietantes consecuencias de una mente afligida. NOTA: Esta es una versi\u00f3n demo del juego. Espere algunos errores aqu\u00ed y all\u00e1. Todos los comentarios que recibo durante el desarrollo me ayudar\u00e1n a mejorar el juego. \u00a1Gracias por tu comprensi\u00f3n y feliz juego!",
-         "Desde": "",
-         "Hasta": "2024/03/10 17:00",
-         "URL": "https://deanthedev.itch.io/hiddenfacade",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0MTA0My8xNDc0Njc1NS5wbmc=/347x500/kV5G01.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
-      },
-      {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Juegos retro 5 en 1",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego de terror corto realizado en 1 semana.",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/stargates",
-         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
-         "Desde": "",
-         "Hasta": "2024/03/11 01:00",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Vovsoft JSON to CSV Converter License Key Free 2024",
-         "Informacion": "Vovsoft JSON to CSV Converter es una soluci\u00f3n ideal si necesita importar datos JSON a aplicaciones de hojas de c\u00e1lculo, realizar an\u00e1lisis de datos o compartir datos en formato CSV. Es una aplicaci\u00f3n de conversi\u00f3n de documentos muy conveniente y confiable cuyo objetivo principal es brindarle la capacidad de convertir f\u00e1cilmente archivos JSON (notaci\u00f3n de objetos JavaScript) a archivos CSV (valores separados por comas).",
-         "Desde": "",
-         "Hasta": "2024/03/11 04:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-json-to-csv-converter-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/03/vovsoft-json-to-csv-converter.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
-      },
-      {
-         "Nombre": "Cleaning Suite",
-         "Informacion": "Limpiar datos innecesarios de computadoras con Windows",
-         "Desde": "",
-         "Hasta": "2024/03/11 09:00",
-         "URL": "https://www.bitsdujour.com/software/cleaning-suite/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/cleaning-suite-hgkv8.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "Forest Stats For Fortnite Battle Royale by munegames",
          "Informacion": "Aplicaci\u00f3n no oficial de estad\u00edsticas, mapas, m\u00e1scaras y tienda diaria del juego Fortnite",
@@ -149,7 +9,7 @@
          "URL": "https://munegames.itch.io/forest-stats-for-battle-royale",
          "IMG": "https://img.itch.zone/aW1nLzYyNzE0MDUucG5n/347x500/xafBe0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Freeze Target by munegames",
@@ -159,7 +19,7 @@
          "URL": "https://munegames.itch.io/freeze-target",
          "IMG": "https://img.itch.zone/aW1nLzQ1ODg1NTYuanBn/347x500/nCKui9.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Tap Battle Challenge by munegames",
@@ -169,7 +29,7 @@
          "URL": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MjYzMy8xMTQ4MTM4NS5wbmc=/347x500/S2%2Fsbv.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Drug Dealer (The Re-Build and Re-Birth) by b._.render",
@@ -179,7 +39,7 @@
          "URL": "https://b-render.itch.io/drug-dealer",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc0NTcyMC8xMDI3MTE0Ny5wbmc=/347x500/sTRHRU.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "Drug Dealin Sim 2024 by b._.render",
@@ -189,7 +49,7 @@
          "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "E-Cell by b._.render",
@@ -199,7 +59,7 @@
          "URL": "https://b-render.itch.io/e-cell",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTU2MS83NTIwMzY4LnBuZw==/347x500/RqKwah.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "Candy Cartel by b._.render",
@@ -209,7 +69,7 @@
          "URL": "https://b-render.itch.io/candy-cartel",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIyMTczMy8xMzE0ODE0MC5wbmc=/347x500/ia6NrS.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
       },
       {
          "Nombre": "Controller Checker 2022 by b._.render",
@@ -219,7 +79,7 @@
          "URL": "https://b-render.itch.io/controller-checker",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
       },
       {
          "Nombre": "Assault Path by Normia Games Studio",
@@ -229,7 +89,7 @@
          "URL": "https://hassantarek123.itch.io/assault-path",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkxODk3Mi8xMTI4MDY2My5qcGc=/347x500/JL%2Fswm.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "500 Beauty Retouch Tools Pack",
@@ -239,7 +99,17 @@
          "URL": "https://sharewareonsale.com/s/free-500-beauty-retouch-tools-pack-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/11/500-Beauty-Retouch-Tools-Pack-200x133.jpg?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Up All Night by Fiendish Fiction",
+         "Informacion": "\u00bfTe gustan nuestros juegos? Considere unirse a nuestro\u00a0Patreon\u00a0para mantenerse actualizado sobre los proyectos\u00a0actuales y en curso\u00a0de Fiendish Fiction. \u00a1Cada d\u00f3lar vuelve a la producci\u00f3n, con incre\u00edbles ventajas para los patrocinadores!",
+         "Desde": "",
+         "Hasta": "2024/03/12 08:59",
+         "URL": "https://fiendishfiction.itch.io/up-all-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzYwNTQ4LzcyNDUwODkucG5n/347x500/aLiF1D.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Glary Utilities Pro 1-Year Free License Key Giveaway",
@@ -268,6 +138,16 @@
          "Hasta": "2024/03/13 08:00",
          "URL": "https://sharewareonsale.com/s/free-hide-files-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/06/hide-files-200x139.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MOVIEJACK",
+         "Informacion": "El `Destripador` est\u00e1 de vuelta, ahora disponible como descargador de videos con un nuevo dise\u00f1o.",
+         "Desde": "",
+         "Hasta": "2024/03/13 08:00",
+         "URL": "https://sharewareonsale.com/s/free-moviejack-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/11/moviejack-box-left-300-151x200.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -442,6 +322,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Photo Optimizer 2024",
+         "Informacion": "Photo Optimizer 2024 proporciona una edici\u00f3n completa de im\u00e1genes con solo unos pocos clics. El programa admite funciones populares como rotaci\u00f3n de im\u00e1genes, recorte, cambio de tama\u00f1o y mucho m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2024/03/16 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-optimizer-2024-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/02/scr-presentation-ashampoo-photo-optimizer-2024.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Internet Accelerator 3",
+         "Informacion": "Todos damos por sentado Internet hoy en d\u00eda, pero lo que tiene que hacer tu computadora para permitirte navegar es realmente incre\u00edblemente complicado. Windows tiene una larga lista de configuraciones para ajustar el rendimiento de su conexi\u00f3n a Internet. Eso est\u00e1 bien si eres un experto en inform\u00e1tica, el resto de nosotros generalmente empeoraremos las cosas en lugar de mejorarlas, si podemos encontrar todas las configuraciones bien ocultas en primer lugar.",
+         "Desde": "",
+         "Hasta": "2024/03/17 08:00",
+         "URL": "https://sharewareonsale.com/s/ashampoo-internet-accelerator-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/05/box_ashampoo_internet_accelerator_3_800x800-200x200.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Naughty Or Nice by Kerly26",
          "Informacion": "Creado para Big Mode Jam 2023. En el juego Naughty Or Nice, juegas como uno de los elfos bur\u00f3cratas de Santa. Es tu trabajo revisar cada caso y decidir qui\u00e9n est\u00e1 en la lista de malos o buenos de Santa. Juega en uno de los 7 modos de juego diferentes. En el modo Historia, juegas una breve historia de terror sobre un hombre atrapado en el cuerpo de un elfo y obligado a hacer este trabajo mundano d\u00eda tras d\u00eda sin control. En el modo cronometrado, intenta terminar cada caso antes de que se acabe el tiempo. En el modo Rebel Elf, haces lo contrario de lo que har\u00edas normalmente. Entonces los ni\u00f1os buenos son malos y los ni\u00f1os malos son buenos. \u00a1Prueba cada uno de estos modos de juego y muchos m\u00e1s en Naughty Or Nice!",
          "Desde": "",
@@ -449,6 +349,66 @@
          "URL": "https://kerly26.itch.io/naughty-or-nice",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQyMjA5MC8xNDMzNDQxOC5wbmc=/347x500/zm7dmV.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2024/03/18 01:00",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Desde": "",
+         "Hasta": "2024/03/18 01:00",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
+         "Desde": "",
+         "Hasta": "2024/03/18 01:00",
+         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego de terror corto realizado en 1 semana.",
+         "Desde": "",
+         "Hasta": "2024/03/18 01:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2024/03/18 01:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft QR Code and Barcode Reader Key Free 2024",
+         "Informacion": "\u00bfQuieres conocer informaci\u00f3n sobre un producto u organizaci\u00f3n a trav\u00e9s del c\u00f3digo QR o c\u00f3digo de barras en tus im\u00e1genes? Utilicemos Vovsoft QR Code y Barcode Reader para escanearlos y convertir c\u00f3digos legibles por m\u00e1quinas en texto legible por humanos. Dise\u00f1ada con una interfaz de usuario sencilla e intuitiva, esta herramienta tiene la capacidad de escanear y decodificar sin esfuerzo varios tipos de c\u00f3digos de barras y c\u00f3digos QR a partir de archivos de im\u00e1genes o c\u00e1maras web en computadoras port\u00e1tiles y de escritorio.",
+         "Desde": "",
+         "Hasta": "2024/03/18 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-qr-code-and-barcode-reader-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/03/vovsoft-qr-code-and-barcode-reader.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -479,6 +439,16 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "novaPDF 11.9",
+         "Informacion": "novaPDF es una impresora PDF para Windows que le permite crear f\u00e1cilmente archivos PDF 100% est\u00e1ndar de la industria (con capacidad de b\u00fasqueda y, opcionalmente, compatibles con PDF/A).",
+         "Desde": "",
+         "Hasta": "2024/03/18 08:00",
+         "URL": "https://sharewareonsale.com/s/free-novapdf-11-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/NovaPDF-11-Lite-boxshot-200x270.png?9187",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
