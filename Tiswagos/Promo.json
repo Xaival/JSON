@@ -1,116 +1,6 @@
 {
-   "date_update": "11 Mar 2024 17:02 UTC",
+   "date_update": "12 Mar 2024 17:01 UTC",
    "values": [
-      {
-         "Nombre": "Forest Stats For Fortnite Battle Royale by munegames",
-         "Informacion": "Aplicaci\u00f3n no oficial de estad\u00edsticas, mapas, m\u00e1scaras y tienda diaria del juego Fortnite",
-         "Desde": "",
-         "Hasta": "2024/03/11 19:00",
-         "URL": "https://munegames.itch.io/forest-stats-for-battle-royale",
-         "IMG": "https://img.itch.zone/aW1nLzYyNzE0MDUucG5n/347x500/xafBe0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Freeze Target by munegames",
-         "Informacion": "Puedes mejorar tu tiro r\u00e1pido y mec\u00e1nicas de armas valiosas.",
-         "Desde": "",
-         "Hasta": "2024/03/11 19:00",
-         "URL": "https://munegames.itch.io/freeze-target",
-         "IMG": "https://img.itch.zone/aW1nLzQ1ODg1NTYuanBn/347x500/nCKui9.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Tap Battle Challenge by munegames",
-         "Informacion": "Toca el desaf\u00edo de batalla para Tiktok",
-         "Desde": "",
-         "Hasta": "2024/03/11 19:00",
-         "URL": "https://munegames.itch.io/tap-battle-challenge-for-tiktok",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MjYzMy8xMTQ4MTM4NS5wbmc=/347x500/S2%2Fsbv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Drug Dealer (The Re-Build and Re-Birth) by b._.render",
-         "Informacion": "Tendr\u00e1s que trabajar duro y ganarte un camino en el inframundo criminal antes de conseguir los productos.",
-         "Desde": "",
-         "Hasta": "2024/03/11 21:00",
-         "URL": "https://b-render.itch.io/drug-dealer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc0NTcyMC8xMDI3MTE0Ny5wbmc=/347x500/sTRHRU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Drug Dealin Sim 2024 by b._.render",
-         "Informacion": "Obt\u00e9n este juego y otros 34 juegos de 24 desarrolladores diferentes por solo $15. Ahorras m\u00e1s del 80% en este paquete para obtener 35 JUEGOS INCRE\u00cdBLEMENTE DIVERTIDOS (apoya el paquete de desarrolladores 2023-24)",
-         "Desde": "",
-         "Hasta": "2024/03/11 21:00",
-         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "E-Cell by b._.render",
-         "Informacion": "Compite por el tiempo m\u00e1s r\u00e1pido. Batir el reloj. no te caigas",
-         "Desde": "",
-         "Hasta": "2024/03/11 21:00",
-         "URL": "https://b-render.itch.io/e-cell",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTU2MS83NTIwMzY4LnBuZw==/347x500/RqKwah.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Candy Cartel by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/03/11 23:00",
-         "URL": "https://b-render.itch.io/candy-cartel",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyMTczMy8xMzE0ODE0MC5wbmc=/347x500/ia6NrS.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
-      },
-      {
-         "Nombre": "Controller Checker 2022 by b._.render",
-         "Informacion": "Esta es una aplicaci\u00f3n que cre\u00e9 para verificar y comparar mis controladores. Despu\u00e9s de tantas horas de juego, algunos joysticks se desv\u00edan, esta aplicaci\u00f3n mostrar\u00e1 el valor actual y m\u00e1s alto de los dos joysticks. Esto puede ser \u00fatil porque si el juego detecta movimiento sin que presiones, eso se desv\u00eda y hace que sea muy dif\u00edcil jugar.",
-         "Desde": "",
-         "Hasta": "2024/03/11 23:00",
-         "URL": "https://b-render.itch.io/controller-checker",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
-      },
-      {
-         "Nombre": "Assault Path by Normia Games Studio",
-         "Informacion": "Sum\u00e9rgete en una aventura desconocida en la Isla de la Muerte intentando escapar de las bandas m\u00e1s mort\u00edferas de la isla que intentan robar el tesoro de la isla. Tienes el desaf\u00edo de enfrentarte a esas pandillas para escapar de la Isla de la Muerte con el barco al otro lado de la isla.",
-         "Desde": "",
-         "Hasta": "2024/03/12 00:00",
-         "URL": "https://hassantarek123.itch.io/assault-path",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkxODk3Mi8xMTI4MDY2My5qcGc=/347x500/JL%2Fswm.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "500 Beauty Retouch Tools Pack",
-         "Informacion": "\u00a1Paquete de herramientas de retoque de belleza que te permite crear ediciones limpias y profesionales con un solo clic!",
-         "Desde": "",
-         "Hasta": "2024/03/12 08:00",
-         "URL": "https://sharewareonsale.com/s/free-500-beauty-retouch-tools-pack-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/11/500-Beauty-Retouch-Tools-Pack-200x133.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Up All Night by Fiendish Fiction",
-         "Informacion": "\u00bfTe gustan nuestros juegos? Considere unirse a nuestro\u00a0Patreon\u00a0para mantenerse actualizado sobre los proyectos\u00a0actuales y en curso\u00a0de Fiendish Fiction. \u00a1Cada d\u00f3lar vuelve a la producci\u00f3n, con incre\u00edbles ventajas para los patrocinadores!",
-         "Desde": "",
-         "Hasta": "2024/03/12 08:59",
-         "URL": "https://fiendishfiction.itch.io/up-all-night",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzYwNTQ4LzcyNDUwODkucG5n/347x500/aLiF1D.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "Glary Utilities Pro 1-Year Free License Key Giveaway",
          "Informacion": "Glary Utilities Pro es la mejor herramienta para limpiar y reparar su sistema, optimizar el inicio y la memoria, triturar y recuperar archivos, y m\u00e1s.",
@@ -119,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/free-license-key-for-glary-utilities-pro/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/glary-utilities-pro-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Game Fire Professional License Key for Free 1-Year Code",
@@ -129,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/game-fire-professional-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/07/Game-Fire-Professional-Boxshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Hide Files",
@@ -139,7 +29,7 @@
          "URL": "https://sharewareonsale.com/s/free-hide-files-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/06/hide-files-200x139.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "MOVIEJACK",
@@ -149,7 +39,17 @@
          "URL": "https://sharewareonsale.com/s/free-moviejack-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/11/moviejack-box-left-300-151x200.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "RecoverXData - Data Recovery Software (1 Year License)",
+         "Informacion": "Recuperar datos perdidos y eliminados en almacenamiento interno y externo",
+         "Desde": "",
+         "Hasta": "2024/03/13 09:00",
+         "URL": "https://www.bitsdujour.com/software/recoverxdata-data-recovery-software-1-year-license/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/recoverxdata-data-recovery-software-1-year-license-9zbis.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Giveaway Wise Care 365 Pro License Key Free Download",
@@ -162,12 +62,72 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "RecoverXData Pro License Key for Free 1-Year",
+         "Informacion": "RecoverXData Pro admite la recuperaci\u00f3n de datos perdidos por eliminaci\u00f3n accidental, formateo, p\u00e9rdida de partici\u00f3n, problemas del sistema, fallas de aplicaciones, problemas de energ\u00eda de ataques de virus,\u2026 Escanear\u00e1 sus archivos perdidos de discos duros internos y externos, papeleras de reciclaje, tarjetas de memoria y unidades flash USB. Tambi\u00e9n proporciona una opci\u00f3n de escaneo avanzado para garantizar que se analice el 100% de los archivos eliminados.",
+         "Desde": "",
+         "Hasta": "2024/03/13 15:00",
+         "URL": "https://giveaway.tickcoupon.com/recoverxdata-pro-full-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/recoverxdata-pro-license-code-giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The cursed farm by Osama M.S.A",
          "Informacion": "La granja maldita",
          "Desde": "",
          "Hasta": "2024/03/13 23:00",
          "URL": "https://osamamsa123.itch.io/the-cursed-farm",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1MzgwOS8xNDU0Njk0OS5naWY=/347x500/24yOzi.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Candy Cartel by b._.render",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/03/14 02:00",
+         "URL": "https://b-render.itch.io/candy-cartel",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyMTczMy8xMzE0ODE0MC5wbmc=/347x500/ia6NrS.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Drug Dealer (The Re-Build and Re-Birth) by b._.render",
+         "Informacion": "Tendr\u00e1s que trabajar duro y ganarte un camino en el inframundo criminal antes de conseguir los productos.",
+         "Desde": "",
+         "Hasta": "2024/03/14 02:00",
+         "URL": "https://b-render.itch.io/drug-dealer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc0NTcyMC8xMDI3MTE0Ny5wbmc=/347x500/sTRHRU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Drug Dealin Sim 2024 by b._.render",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/03/14 02:00",
+         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "E-Cell by b._.render",
+         "Informacion": "Compite por el tiempo m\u00e1s r\u00e1pido. Batir el reloj. no te caigas",
+         "Desde": "",
+         "Hasta": "2024/03/14 02:00",
+         "URL": "https://b-render.itch.io/e-cell",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5MTU2MS83NTIwMzY4LnBuZw==/347x500/RqKwah.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Controller Checker 2022 by b._.render",
+         "Informacion": "Ve y suscr\u00edbete a mi\u00a0YouTube\u00a0a trav\u00e9s de un corto aleatorio y comenta \"Hola de Itch\". Eso ser\u00eda apreciado. 3 Estoy en 450, as\u00ed que veamos si puedo llegar a 500. 3",
+         "Desde": "",
+         "Hasta": "2024/03/14 02:00",
+         "URL": "https://b-render.itch.io/controller-checker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI1NDMyMC83MzIwOTE3LnBuZw==/347x500/0n7hrJ.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -189,6 +149,26 @@
          "URL": "https://sharewareonsale.com/s/free-simply-hdr-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/02/UserInterface-200x125.jpg?9187",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Photo Recovery 2",
+         "Informacion": "Ashampoo Photo Recovery 2 recupera im\u00e1genes borradas o corruptas de cualquier medio de almacenamiento (disco duro, USB, tarjeta SD, etc.). Incluso extrae fotograf\u00edas de archivos RAW da\u00f1ados y discos formateados, incluidos sus metadatos. Los sofisticados algoritmos de b\u00fasqueda ayudan a recuperar incluso im\u00e1genes incrustadas en documentos (PDF, Word, etc.). El programa admite numerosos formatos de im\u00e1genes y RAW, incluidos tipos de archivos ex\u00f3ticos. Los filtros de b\u00fasqueda inteligentes permiten escaneos basados \u200b\u200ben formato, tama\u00f1o o resoluci\u00f3n y ayudan a manejar grandes colecciones de fotograf\u00edas con facilidad. Ashampoo Photo Recovery 2 es totalmente compatible con Windows 11 y aprovecha al m\u00e1ximo los sistemas de 64 bits. Con un uso mejorado de c\u00f3decs, una amplia compatibilidad con formatos y una detecci\u00f3n mejorada de almacenamiento extra\u00edble, Ashampoo Photo Recovery 2 es el siguiente paso l\u00f3gico en la evoluci\u00f3n del software de recuperaci\u00f3n de fotograf\u00edas y un digno sucesor de su popular predecesor.",
+         "Desde": "",
+         "Hasta": "2024/03/14 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-recovery-2-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/boxshot_photo_rec_2.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VAULT by KevEatsCheese",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/03/14 09:00",
+         "URL": "https://keveatscheese.itch.io/vault",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NDA2OS8xNTMzNDI0MC5wbmc=/347x500/0aLeGu.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -352,36 +332,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
-         "Desde": "",
-         "Hasta": "2024/03/18 01:00",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
-         "Desde": "",
-         "Hasta": "2024/03/18 01:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
-         "Desde": "",
-         "Hasta": "2024/03/18 01:00",
-         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
          "Informacion": "Un juego de terror corto realizado en 1 semana.",
          "Desde": "",
@@ -398,6 +348,36 @@
          "Hasta": "2024/03/18 01:00",
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
+         "Desde": "",
+         "Hasta": "2024/03/18 01:00",
+         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Desde": "",
+         "Hasta": "2024/03/18 01:00",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2024/03/18 01:00",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -442,6 +422,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Pazu Apple TV+ Video Downloader License Key Free 2024",
+         "Informacion": "Si es suscriptor de Apple TV+ y desea ver programas y pel\u00edculas de Apple TV+ que nunca caduquen para verlos en cualquier momento y en cualquier lugar que desee, entonces debe usar Pazu Apple TV+ Video Downloader para descargar videos de Apple TV+. Pazu Apple TV+ Video Downloader es una \u00fatil aplicaci\u00f3n de descarga de v\u00eddeos especialmente dise\u00f1ada para ayudarte a descargar programas y pel\u00edculas de Apple TV+ en Mac y Windows. Despu\u00e9s de eso, podr\u00e1s ver tus episodios y pel\u00edculas favoritos en tu computadora sin conexi\u00f3n a Internet.",
+         "Desde": "",
+         "Hasta": "2024/03/18 07:00",
+         "URL": "https://giveaway.tickcoupon.com/pazu-apple-tv-video-downloader-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/pazu-apple-tv-video-downloader.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "novaPDF 11.9",
          "Informacion": "novaPDF es una impresora PDF para Windows que le permite crear f\u00e1cilmente archivos PDF 100% est\u00e1ndar de la industria (con capacidad de b\u00fasqueda y, opcionalmente, compatibles con PDF/A).",
          "Desde": "",
@@ -479,6 +469,16 @@
          "URL": "https://keveatscheese.itch.io/skeletons",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUyNDE5MS8xNTA3ODE3Ni5wbmc=/347x500/iWHFsD.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WinXvideo AI Giveaway License Key Free 2024",
+         "Informacion": "WinXvideo AI es un conjunto de herramientas de video todo en uno como conversor de video Ultra HD, potenciador de video/imagen con tecnolog\u00eda de IA, descargador de video y grabador de pantalla. Con su ayuda, puedes mejorar v\u00eddeos e im\u00e1genes con la mejor calidad posible. Esta herramienta aprovecha CineAI para mejorar v\u00eddeo/imagen, estabilizar v\u00eddeo y aumentar FPS. Puede mejorar videos de baja calidad a resoluciones 720P, 1080P y 4K, as\u00ed como tambi\u00e9n mejorar im\u00e1genes de baja resoluci\u00f3n a 4K/8K/10K con detalles reales.",
+         "Desde": "",
+         "Hasta": "2024/03/20 00:00",
+         "URL": "https://giveaway.tickcoupon.com/winxvideo-ai-free-key-download/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/winxvideo-ai-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -578,6 +578,36 @@
          "Hasta": "2024/03/22 05:52",
          "URL": "https://kuriokingdom.itch.io/kurio",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc5Mjc2MC8xNDk2MTg4My5wbmc=/347x500/pN9ecp.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town: Nightmare Night by David Pires",
+         "Informacion": "Est\u00e1s durmiendo en un hotel y tienes que protegerte de una pesadilla hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2024/03/22 22:00",
+         "URL": "https://david-pires.itch.io/sea-town-nightmare-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk2NjE0Ny8xNDM4ODA0Mi5wbmc=/347x500/6IsNwY.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 3 by David Pires",
+         "Informacion": "Trabajas como guardia de seguridad en un centro comercial y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2024/03/22 22:00",
+         "URL": "https://david-pires.itch.io/sea-town-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1Nzg1MS8xNDM4Nzk5NS5wbmc=/347x500/ANRAX8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 2 by David Pires",
+         "Informacion": "Est\u00e1s encerrado en una antigua f\u00e1brica y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2024/03/22 22:00",
+         "URL": "https://david-pires.itch.io/sea-town-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NTY0MS8xNDM4Nzk2My5wbmc=/347x500/tOzixM.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -958,6 +988,16 @@
          "Hasta": "2024/04/06 20:30",
          "URL": "https://artisangames.itch.io/theagent",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Mjg5My8xMjk1NDEzMi5wbmc=/347x500/EnZqb9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maze Runner 3D by Artisan Games",
+         "Informacion": "Corredor del laberinto 3D",
+         "Desde": "",
+         "Hasta": "2024/04/06 20:30",
+         "URL": "https://artisangames.itch.io/maze-runner-3d",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ2ODA4Mi8xNTEzMjQ5Mi5wbmc=/347x500/7GtkYS.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
