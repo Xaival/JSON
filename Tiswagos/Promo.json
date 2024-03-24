@@ -1,96 +1,6 @@
 {
-   "date_update": "23 Mar 2024 17:01 UTC",
+   "date_update": "24 Mar 2024 17:01 UTC",
    "values": [
-      {
-         "Nombre": "Bamm by Bukmand",
-         "Informacion": "Recoge cr\u00e9ditos para desbloquear m\u00e1s cartas, alcanza el nivel 10 para desbloquear m\u00e9ritos que puedes usar para personalizar tus cartas, crea las mejores cartas para ganar y llegar a la cima.",
-         "Desde": "",
-         "Hasta": "2024/03/24 00:00",
-         "URL": "https://bukmand.itch.io/bamm",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTk2My8xNDc4MTUwNi5wbmc=/347x500/TZ4FPw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Clicky Cat by meoowe, LeoNunk",
-         "Informacion": "Clicky\u00a0Cat\u00a0: un juego sobre c\u00f3mo escalar obst\u00e1culos, como monta\u00f1as, haciendo clic.",
-         "Desde": "",
-         "Hasta": "2024/03/24 02:00",
-         "URL": "https://meoowe.itch.io/clicky-cat",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM5OTI1Ny8xNDIwMTU1Ni5wbmc=/347x500/vH30iH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Internet Accelerator 3",
-         "Informacion": "Todos damos por sentado Internet hoy en d\u00eda, pero lo que tiene que hacer tu computadora para permitirte navegar es realmente incre\u00edblemente complicado. Windows tiene una larga lista de configuraciones para ajustar el rendimiento de su conexi\u00f3n a Internet. Eso est\u00e1 bien si eres un experto en inform\u00e1tica, el resto de nosotros generalmente empeoraremos las cosas en lugar de mejorarlas, si podemos encontrar todas las configuraciones bien ocultas en primer lugar.",
-         "Desde": "",
-         "Hasta": "2024/03/24 08:00",
-         "URL": "https://sharewareonsale.com/s/ashampoo-internet-accelerator-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/05/box_ashampoo_internet_accelerator_3_800x800-200x200.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Optimizer 2024",
-         "Informacion": "Photo Optimizer 2024 proporciona una edici\u00f3n completa de im\u00e1genes con solo unos pocos clics. El programa admite funciones populares como rotaci\u00f3n de im\u00e1genes, recorte, cambio de tama\u00f1o y mucho m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2024/03/24 08:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-optimizer-2024-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/02/scr-presentation-ashampoo-photo-optimizer-2024.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "MG PDF Split Merge",
-         "Informacion": "\u00bfEst\u00e1s cansado de lidiar con los desaf\u00edos de administrar archivos PDF? \u00bfAlguna vez ha pasado un tiempo valioso navegando por extensos documentos PDF, buscando desesperadamente informaci\u00f3n espec\u00edfica? \u00bfAlguna vez has querido compartir un archivo PDF o una parte de \u00e9l? \u00bfO fusionar varios archivos PDF o las secciones que desee en un solo PDF?",
-         "Desde": "",
-         "Hasta": "2024/03/24 08:00",
-         "URL": "https://sharewareonsale.com/s/free-mg-pdf-split-merge-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/PDF.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "MOVIEJACK",
-         "Informacion": "El `Destripador` est\u00e1 de vuelta, ahora disponible como descargador de videos con un nuevo dise\u00f1o.",
-         "Desde": "",
-         "Hasta": "2024/03/24 08:00",
-         "URL": "https://sharewareonsale.com/s/free-moviejack-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/11/moviejack-box-left-300-151x200.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Photomizer 2 Pro",
-         "Informacion": "Photomizer mejora tus fotos en muy poco tiempo. S\u00f3lo realza las partes de una imagen que realmente lo necesitan. Y muchos otros efectos a una velocidad impresionante.",
-         "Desde": "",
-         "Hasta": "2024/03/24 08:00",
-         "URL": "https://sharewareonsale.com/s/free-photomizer-2-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/09/photomizerpro-box_en-186x200.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "R v B: minimal-battle-sim by Mamora.me",
-         "Informacion": "Simmal Unit Battle Sim a\u00fan en desarrollo Experimental.",
-         "Desde": "",
-         "Hasta": "2024/03/24 08:00",
-         "URL": "https://mamorame.itch.io/rvbminimal-battle-sim",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2ODIxNS8xNTM3MjUwMy5wbmc=/347x500/67MBcn.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "AWZ Screen Recorder",
-         "Informacion": "Con AWZ Screen Recorder, grabar su pantalla es muy sencillo. El mejor grabador de pantalla para Windows le permite grabar una pantalla completa o parte de la pantalla de manera oportuna. Admite elegir un tama\u00f1o de grabaci\u00f3n preestablecido y dibujar un \u00e1rea de grabaci\u00f3n espec\u00edfica usted mismo. Al usarlo, puede grabar su pantalla con audio o c\u00e1mara web al mismo tiempo o grabar videos o solo audio.",
-         "Desde": "",
-         "Hasta": "2024/03/24 09:00",
-         "URL": "https://www.bitsdujour.com/software/awz-screen-recorder/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/awz-screen-recorder-fbw2k.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "MG PDF Split Merge License Key for Free 2024",
          "Informacion": "Est\u00e1 trabajando con muchos documentos PDF y desea fusionar todos los archivos PDF seleccionados en un solo archivo. MG PDF Split Merge es la mejor opci\u00f3n para usted. Este software le permite agregar sus archivos PDF desde el men\u00fa contextual de Windows. Adem\u00e1s, le proporciona varias opciones para dividir sus archivos PDF, como archivos PDF de una sola p\u00e1gina, dividir cada p\u00e1gina, dividirlos en archivos o dividirlos en m\u00faltiples rangos personalizados.",
@@ -99,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/mg-pdf-split-merge-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/06/mg-pdf-split-merge-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "Sukuna (version 2.2) by Ken's studio",
@@ -109,7 +19,7 @@
          "URL": "https://ken-pham.itch.io/sukuna",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU2MDMzOS8xNTM4MjY1OS5qcGc=/347x500/osxAQT.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Vovsoft Merge Multiple Folders License Key Free 2024",
@@ -119,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-merge-multiple-folders-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/07/vovsoft-merge-multiple-folders.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -129,7 +39,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -139,7 +49,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -149,37 +59,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Creative Fabrica PNG Images Bundle",
-         "Informacion": "\u00a1Descarga The Ultimate Graphic Bundle ahora para acceder a 75 dise\u00f1os PNG exclusivos de forma gratuita! Este paquete se presenta en asociaci\u00f3n con Creative Fabrica, su plataforma en l\u00ednea de referencia para todas sus necesidades creativas. Con Creative Fabrica puedes acceder a una extensa biblioteca de m\u00e1s de 15 millones de activos creativos digitales, clases en l\u00ednea y m\u00e1s. \u00a1Con Studio, el intuitivo editor de dise\u00f1o digital en l\u00ednea de Creative Fabrica, puedes crear sin l\u00edmites!",
-         "Desde": "",
-         "Hasta": "2024/03/25 08:00",
-         "URL": "https://sharewareonsale.com/s/free-creative-fabrica-png-images-bundle-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/Creative-Fabrica-The-Ultimate-Graphic-Bundle.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "SwifDoo PDF Pro",
-         "Informacion": "Soluciones definitivas para sus documentos PDF",
-         "Desde": "",
-         "Hasta": "2024/03/25 08:00",
-         "URL": "https://sharewareonsale.com/s/free-swifdoo-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/pdf-advanced-200x109.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Replay Media Catcher 10",
-         "Informacion": "Replay Media Catcher es el descargador de v\u00eddeos en l\u00ednea m\u00e1s potente y conveniente del mundo. Y tambi\u00e9n admite descarga o grabaci\u00f3n de audio/MP3. Replay Media Catcher descarga archivos de v\u00eddeo y audio de millones de sitios. Incluye nuestra enorme Gu\u00eda multimedia para ayudarle a encontrar r\u00e1pidamente el contenido que desea y descargarlo a su PC. Simplemente enci\u00e9ndelo y reproduce lo que quieras capturar: Replay Media Catcher hace el resto.",
-         "Desde": "",
-         "Hasta": "2024/03/25 08:00",
-         "URL": "https://sharewareonsale.com/s/free-replay-media-catcher-10-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/RCAT-box-640.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Ashampoo WinOptimizer 25",
@@ -189,7 +69,47 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-25-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/scr-ashampoo-winoptimizer-25-automate.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Creative Fabrica PNG Images Bundle",
+         "Informacion": "\u00a1Descarga The Ultimate Graphic Bundle ahora para acceder a 75 dise\u00f1os PNG exclusivos de forma gratuita! Este paquete se presenta en asociaci\u00f3n con Creative Fabrica, su plataforma en l\u00ednea de referencia para todas sus necesidades creativas. Con Creative Fabrica puedes acceder a una extensa biblioteca de m\u00e1s de 15 millones de activos creativos digitales, clases en l\u00ednea y m\u00e1s. \u00a1Con Studio, el intuitivo editor de dise\u00f1o digital en l\u00ednea de Creative Fabrica, puedes crear sin l\u00edmites!",
+         "Desde": "",
+         "Hasta": "2024/03/25 08:00",
+         "URL": "https://sharewareonsale.com/s/free-creative-fabrica-png-images-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/Creative-Fabrica-The-Ultimate-Graphic-Bundle.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Replay Media Catcher 10",
+         "Informacion": "Replay Media Catcher es el descargador de v\u00eddeos en l\u00ednea m\u00e1s potente y conveniente del mundo. Y tambi\u00e9n admite descarga o grabaci\u00f3n de audio/MP3. Replay Media Catcher descarga archivos de v\u00eddeo y audio de millones de sitios. Incluye nuestra enorme Gu\u00eda multimedia para ayudarle a encontrar r\u00e1pidamente el contenido que desea y descargarlo a su PC. Simplemente enci\u00e9ndelo y reproduce lo que quieras capturar: Replay Media Catcher hace el resto.",
+         "Desde": "",
+         "Hasta": "2024/03/25 08:00",
+         "URL": "https://sharewareonsale.com/s/free-replay-media-catcher-10-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/RCAT-box-640.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "SwifDoo PDF Pro",
+         "Informacion": "Soluciones definitivas para sus documentos PDF",
+         "Desde": "",
+         "Hasta": "2024/03/25 08:00",
+         "URL": "https://sharewareonsale.com/s/free-swifdoo-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/07/pdf-advanced-200x109.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Snap 14",
+         "Informacion": "Capture y anote cualquier cosa en la pantalla",
+         "Desde": "",
+         "Hasta": "2024/03/25 09:00",
+         "URL": "https://www.bitsdujour.com/software/ashampoo-snap-14/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/ashampoo-snap-14-tpl8v.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "1500 High Resolution Backgrounds Bundle",
@@ -198,6 +118,16 @@
          "Hasta": "2024/03/26 08:00",
          "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Money",
+         "Informacion": "Ashampoo Money es un planificador de presupuestos para realizar un seguimiento de los ingresos y gastos de forma r\u00e1pida y sencilla para una o varias cuentas. Las transacciones recurrentes, como pagos de impuestos y seguros, se agregan f\u00e1cilmente. La descripci\u00f3n general incorporada muestra la progresi\u00f3n del equilibrio a lo largo del tiempo, desglosada por prop\u00f3sito (comida, compras, ocio, etc.). Los usuarios pueden ver exactamente a d\u00f3nde va su dinero, incluso con cientos de transacciones presentes. M\u00faltiples filtros ayudan a buscar transacciones por destinatario, monto y prop\u00f3sito. Los usuarios tambi\u00e9n pueden personalizar visualmente filas y columnas para presentaciones tabulares. Finalmente, los usuarios pueden comparar la evoluci\u00f3n del saldo presente y pasado para identificar tendencias y ajustar su comportamiento de gasto de manera significativa. Ashampoo Money busca reemplazar la planificaci\u00f3n presupuestaria basada en Excel ofreciendo un mejor manejo y un minimalismo visual que no resta valor a lo que importa, es decir, los n\u00fameros.",
+         "Desde": "",
+         "Hasta": "2024/03/26 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-money-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/Ashampoo-Money-boxshot.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -592,6 +522,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft Domain Checker License Key for Free",
+         "Informacion": "Domain Checker de Vovsoft es una herramienta de b\u00fasqueda masiva de dominios dise\u00f1ada para ayudarle a comprobar la disponibilidad de varios nombres de dominio a la vez. Este software es compatible con los TLD m\u00e1s comunes y los usuarios pueden agregar otros nuevos.",
+         "Desde": "",
+         "Hasta": "2024/03/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-domain-checker-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/01/vovsoft-domain-checker-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DRmare Audio Converter Giveaway License Key Free",
+         "Informacion": "DRmare Audio Converter para Windows es una herramienta de eliminaci\u00f3n de restricciones de audio bien dise\u00f1ada para desbloquear audio protegido, incluidas Apple Music, canciones de iTunes M4P y audiolibros Audible AA, AAX en PC. Con la ayuda de este conversor de audio integral, puede disfrutar libremente de cualquier m\u00fasica o audiolibro en streaming en cualquier dispositivo m\u00f3vil popular o reproductor de MP3 con control total.",
+         "Desde": "",
+         "Hasta": "2024/03/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/drmare-audio-converter-win-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/drmare-audio-converter.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "\u00f0\u009f\u009b\u00b8Giraffe fury - alien invasion (beta)\u00f0\u009f\u009b\u00b8 by Neptune_gaimon",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/03/31 01:00",
+         "URL": "https://neptune-gaimon.itch.io/giraffe-fury-alien-invasion",
+         "IMG": "https://img.itch.zone/aW1nLzE1NTA2NDgyLnBuZw==/347x500/%2BMBzr6.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "An Uaf\u00c3\u00a1is - The Horror by EOneT",
          "Informacion": "An Uaf\u00c3\u00a1is - The Horror (en irland\u00e9s) es un juego de terror corto estilo PSX creado por un estudiante como un proyecto de experiencia laboral. \u00c1brete camino a trav\u00e9s de la mansi\u00f3n resolviendo acertijos y acertijos. Gestiona tus recursos mientras te enfrentas a los enemigos.",
          "Desde": "",
@@ -702,6 +662,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "FOCUS Projects 4 PRO",
+         "Informacion": "Crea macros de libros de texto, n\u00edtidas y con detalles como nunca antes hab\u00edas visto. Con las nuevas tecnolog\u00edas de FOCUS Projects 4 Professional podr\u00e1s crear fotograf\u00edas macro de \u00faltima generaci\u00f3n que tienen una profundidad de enfoque fascinante y sacan a la luz detalles extraordinarios.",
+         "Desde": "",
+         "Hasta": "2024/03/31 09:00",
+         "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/focus415-519-1.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Nightmare Labyrinth by KS GAMES",
          "Informacion": "",
          "Desde": "",
@@ -728,6 +698,16 @@
          "Hasta": "2024/03/31 11:00",
          "URL": "https://gamerevolutionx.itch.io/zinvasion2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM3ODI5OS8xNDIxMDQ4MS5qcGc=/347x500/JkYtJ%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
+         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
+         "Desde": "",
+         "Hasta": "2024/03/31 11:35",
+         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -882,6 +862,56 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "ULTRA REAL GLASS BRIDGE TOURNAMENT by ULTRA FUN GAMES",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/04/03 01:00",
+         "URL": "https://ultra-fun-games.itch.io/ultra-real-glass-bridge-tournament-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyOTg3MS83NzM0Mjg3LmpwZw==/347x500/oWIs30.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLIMB & SHOOT (VR Shooting Game for Oculus Quest ) by ULTRA FUN GAMES",
+         "Informacion": "Este es un divertido parque de tiro y escalada con 32 armas ocultas diferentes de muchos tipos: pistolas modernas, pistolas de iluminaci\u00f3n, lanzacohetes, sables de iluminaci\u00f3n, katanas, martillos, martillos de iluminaci\u00f3n, etc.",
+         "Desde": "",
+         "Hasta": "2024/04/03 01:00",
+         "URL": "https://ultra-fun-games.itch.io/climb-shoot",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIyODc2MC83MTkzNTMwLnBuZw==/347x500/vBQZ8C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FUN SHOOTING RANGE (VR Shooting Game for Oculus Quest ) by ULTRA FUN GAMES",
+         "Informacion": "Este es un campo de tiro divertido con muchas armas de muchos tipos: pistolas modernas, pistolas de iluminaci\u00f3n, lanzacohetes, sables de iluminaci\u00f3n, katanas, martillos, martillos de iluminaci\u00f3n, etc.",
+         "Desde": "",
+         "Hasta": "2024/04/03 01:00",
+         "URL": "https://ultra-fun-games.itch.io/fun-shooting-playground",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTIyNTUzMS83MTQ2MDIzLnBuZw==/347x500/CbvXLL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ULTRA CLIMBING PLAYGROUNDS (VR  Platformer/Climbing Game for Oculus Quest) by ULTRA FUN GAMES",
+         "Informacion": "\u00a1Este es un juego si quieres experimentar con escalada libre, tirolesa, plataformas y caminatas en planchas, pero en niveles que a\u00fan no has visto!",
+         "Desde": "",
+         "Hasta": "2024/04/03 01:00",
+         "URL": "https://ultra-fun-games.itch.io/climbing-playgrounds",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA3MzU4Ny82MTU0NzgwLmpwZw==/347x500/u6WZin.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ultra Explorer: Jurassic Forest ( VR Dinosaurs Game for Oculus Quest) by ULTRA FUN GAMES",
+         "Informacion": "UItra Fun Games presenta Ultra Explorer: \u00a1Bosque Jur\u00e1sico!",
+         "Desde": "",
+         "Hasta": "2024/04/03 01:00",
+         "URL": "https://ultra-fun-games.itch.io/ultra-explorer-jurassic-forest",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTAyMDk3MS81ODIwMDU2LmpwZw==/347x500/QA9sc7.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "AOMEI MyRecover for iOS 1-Year Free License Key",
          "Informacion": "Si tambi\u00e9n est\u00e1s buscando una herramienta de recuperaci\u00f3n de datos de iPhone que pueda ayudarte a recuperar todos los datos perdidos o eliminados en el iPhone, entonces AOMEI MyRecover para iOS es definitivamente tu mejor opci\u00f3n. Con esta aplicaci\u00f3n simple y f\u00e1cil de usar, puede recuperar f\u00e1cilmente todos los datos vitales eliminados accidentalmente, como fotos, videos, notas de voz, contactos, notas, historial de llamadas, calendario, marcadores de Safari, recordatorios, etc. Tambi\u00e9n es compatible con diferentes dispositivos iOS, incluidos iPad Air, iPad mini, iPad Pro, iPod touch y iPad.",
          "Desde": "",
@@ -1009,6 +1039,16 @@
          "URL": "https://ammour.itch.io/takeastep",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU1MzIxNy8xNTE5MzU0MS5qcGVn/347x500/fOmCCP.jpeg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "500 Beauty Retouch Tools Pack",
+         "Informacion": "\u00a1Paquete de herramientas de retoque de belleza que te permite crear ediciones limpias y profesionales con un solo clic!",
+         "Desde": "",
+         "Hasta": "2024/04/07 09:00",
+         "URL": "https://sharewareonsale.com/s/free-500-beauty-retouch-tools-pack-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/11/500-Beauty-Retouch-Tools-Pack-200x133.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
