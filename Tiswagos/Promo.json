@@ -1,26 +1,6 @@
 {
-   "date_update": "25 Mar 2024 17:02 UTC",
+   "date_update": "26 Mar 2024 17:01 UTC",
    "values": [
-      {
-         "Nombre": "1500 High Resolution Backgrounds Bundle",
-         "Informacion": "Crea dise\u00f1os incre\u00edbles que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que tambi\u00e9n te permitir\u00e1n trabajar con tu imaginaci\u00f3n para crear algo divertido y genial.",
-         "Desde": "",
-         "Hasta": "2024/03/26 08:00",
-         "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Money",
-         "Informacion": "Ashampoo Money es un planificador de presupuestos para realizar un seguimiento de los ingresos y gastos de forma r\u00e1pida y sencilla para una o varias cuentas. Las transacciones recurrentes, como pagos de impuestos y seguros, se agregan f\u00e1cilmente. La descripci\u00f3n general incorporada muestra la progresi\u00f3n del equilibrio a lo largo del tiempo, desglosada por prop\u00f3sito (comida, compras, ocio, etc.). Los usuarios pueden ver exactamente a d\u00f3nde va su dinero, incluso con cientos de transacciones presentes. M\u00faltiples filtros ayudan a buscar transacciones por destinatario, monto y prop\u00f3sito. Los usuarios tambi\u00e9n pueden personalizar visualmente filas y columnas para presentaciones tabulares. Finalmente, los usuarios pueden comparar la evoluci\u00f3n del saldo presente y pasado para identificar tendencias y ajustar su comportamiento de gasto de manera significativa. Ashampoo Money busca reemplazar la planificaci\u00f3n presupuestaria basada en Excel ofreciendo un mejor manejo y un minimalismo visual que no resta valor a lo que importa, es decir, los n\u00fameros.",
-         "Desde": "",
-         "Hasta": "2024/03/26 08:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-money-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/Ashampoo-Money-boxshot.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
       {
          "Nombre": "Office Cat by Ken's studio",
          "Informacion": "Cat run en tu escritorio te ayuda a relajarte y reducir el estr\u00e9s",
@@ -29,7 +9,7 @@
          "URL": "https://ken-pham.itch.io/office-cat",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MTczOC8xNTQzMzcyNi5wbmc=/347x500/BSm7F5.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
@@ -39,7 +19,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
@@ -49,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
@@ -59,7 +39,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
@@ -69,7 +49,7 @@
          "URL": "https://magnus-froelund.itch.io/asteroids",
          "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
@@ -79,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
@@ -89,7 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
@@ -99,7 +79,7 @@
          "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
@@ -109,7 +89,7 @@
          "URL": "https://magnus-froelund.itch.io/stargates",
          "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
@@ -119,7 +99,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
@@ -129,7 +109,7 @@
          "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
@@ -139,27 +119,7 @@
          "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Recovery 2",
-         "Informacion": "Ashampoo Photo Recovery 2 recupera im\u00e1genes borradas o corruptas de cualquier medio de almacenamiento (disco duro, USB, tarjeta SD, etc.). Incluso extrae fotograf\u00edas de archivos RAW da\u00f1ados y discos formateados, incluidos sus metadatos. Los sofisticados algoritmos de b\u00fasqueda ayudan a recuperar incluso im\u00e1genes incrustadas en documentos (PDF, Word, etc.). El programa admite numerosos formatos de im\u00e1genes y RAW, incluidos tipos de archivos ex\u00f3ticos. Los filtros de b\u00fasqueda inteligentes permiten escaneos basados \u200b\u200ben formato, tama\u00f1o o resoluci\u00f3n y ayudan a manejar grandes colecciones de fotograf\u00edas con facilidad. Ashampoo Photo Recovery 2 es totalmente compatible con Windows 11 y aprovecha al m\u00e1ximo los sistemas de 64 bits. Con un uso mejorado de c\u00f3decs, una amplia compatibilidad con formatos y una detecci\u00f3n mejorada de almacenamiento extra\u00edble, Ashampoo Photo Recovery 2 es el siguiente paso l\u00f3gico en la evoluci\u00f3n del software de recuperaci\u00f3n de fotograf\u00edas y un digno sucesor de su popular predecesor.",
-         "Desde": "",
-         "Hasta": "2024/03/27 08:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-recovery-2-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/boxshot_photo_rec_2.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Privacy Protector for Windows 10 and 11",
-         "Informacion": "Privacy Protector para Windows 10 y 11 ayuda a hacer frente a los problemas de privacidad en este sistema operativo. Existen numerosos servicios en Windows 10/11 que recopilan datos privados de usuarios de todo tipo posible. Esta herramienta de software ayuda a resolver todos los problemas de privacidad de Windows 10/11 que violan el derecho de cada usuario a realizar actividades confidenciales en su PC. El programa est\u00e1 orientado tanto a usuarios particulares como a empresas con est\u00e1ndares exclusivos de confidencialidad de datos.",
-         "Desde": "",
-         "Hasta": "2024/03/27 08:00",
-         "URL": "https://sharewareonsale.com/s/softorbits-privacy-protector-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/01/box_ppw.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ashampoo Internet Accelerator 3",
@@ -169,7 +129,57 @@
          "URL": "https://sharewareonsale.com/s/ashampoo-internet-accelerator-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/05/box_ashampoo_internet_accelerator_3_800x800-200x200.jpg?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Photo Recovery 2",
+         "Informacion": "Ashampoo Photo Recovery 2 recupera im\u00e1genes borradas o corruptas de cualquier medio de almacenamiento (disco duro, USB, tarjeta SD, etc.). Incluso extrae fotograf\u00edas de archivos RAW da\u00f1ados y discos formateados, incluidos sus metadatos. Los sofisticados algoritmos de b\u00fasqueda ayudan a recuperar incluso im\u00e1genes incrustadas en documentos (PDF, Word, etc.). El programa admite numerosos formatos de im\u00e1genes y RAW, incluidos tipos de archivos ex\u00f3ticos. Los filtros de b\u00fasqueda inteligentes permiten escaneos basados \u200b\u200ben formato, tama\u00f1o o resoluci\u00f3n y ayudan a manejar grandes colecciones de fotograf\u00edas con facilidad. Ashampoo Photo Recovery 2 es totalmente compatible con Windows 11 y aprovecha al m\u00e1ximo los sistemas de 64 bits. Con un uso mejorado de c\u00f3decs, una amplia compatibilidad con formatos y una detecci\u00f3n mejorada de almacenamiento extra\u00edble, Ashampoo Photo Recovery 2 es el siguiente paso l\u00f3gico en la evoluci\u00f3n del software de recuperaci\u00f3n de fotograf\u00edas y un digno sucesor de su popular predecesor.",
+         "Desde": "",
+         "Hasta": "2024/03/27 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-recovery-2-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/boxshot_photo_rec_2.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Privacy Protector for Windows 10 and 11",
+         "Informacion": "Privacy Protector para Windows 10 y 11 ayuda a hacer frente a los problemas de privacidad en este sistema operativo. Existen numerosos servicios en Windows 10/11 que recopilan datos privados de usuarios de todo tipo posible. Esta herramienta de software ayuda a resolver todos los problemas de privacidad de Windows 10/11 que violan el derecho de cada usuario a realizar actividades confidenciales en su PC. El programa est\u00e1 orientado tanto a usuarios particulares como a empresas con est\u00e1ndares exclusivos de confidencialidad de datos.",
+         "Desde": "",
+         "Hasta": "2024/03/27 08:00",
+         "URL": "https://sharewareonsale.com/s/softorbits-privacy-protector-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/01/box_ppw.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Replay Media Catcher 10",
+         "Informacion": "Replay Media Catcher es el descargador de v\u00eddeos en l\u00ednea m\u00e1s potente y conveniente del mundo. Y tambi\u00e9n admite descarga o grabaci\u00f3n de audio/MP3. Replay Media Catcher descarga archivos de v\u00eddeo y audio de millones de sitios. Incluye nuestra enorme Gu\u00eda multimedia para ayudarle a encontrar r\u00e1pidamente el contenido que desea y descargarlo a su PC. Simplemente enci\u00e9ndelo y reproduce lo que quieras capturar: Replay Media Catcher hace el resto.",
+         "Desde": "",
+         "Hasta": "2024/03/27 08:00",
+         "URL": "https://sharewareonsale.com/s/free-replay-media-catcher-10-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/RCAT-box-640.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Protected Folder",
+         "Informacion": "Proteja archivos importantes y confidenciales",
+         "Desde": "",
+         "Hasta": "2024/03/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/protected-folder/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/protected-folder-bzbci.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "IM-Magic Partition Resizer Pro",
+         "Informacion": "Cambie el tama\u00f1o de las particiones de forma segura y obtenga m\u00e1s espacio libre",
+         "Desde": "",
+         "Hasta": "2024/03/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/im-magic-partition-resizer-pro/in=upcoming-freebies",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/im-magic-partition-resizer-pro-ppgyy.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Privacy Protector for Windows 11 License Key Free",
@@ -178,6 +188,16 @@
          "Hasta": "2024/03/27 14:00",
          "URL": "https://giveaway.tickcoupon.com/privacy-protector-for-windows-10-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/05/Privacy-Protector-for-Windows-10.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "IObit Protected Folder Pro License Key Free",
+         "Informacion": "IObit Protected Folder Pro es un potente software de protecci\u00f3n de archivos para mantener seguros los archivos importantes. Con \u00e9l, puede proteger sus archivos y datos importantes contra robos, p\u00e9rdidas o filtraciones. Simplemente establezca una contrase\u00f1a para bloquear archivos y datos importantes y obtendr\u00e1 una protecci\u00f3n m\u00e1s eficaz para estas carpetas.",
+         "Desde": "",
+         "Hasta": "2024/03/27 14:00",
+         "URL": "https://giveaway.tickcoupon.com/iobit-protected-folder-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/08/iobit-protected-folder-pro-coupon-free-key.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -199,6 +219,26 @@
          "URL": "https://sharewareonsale.com/s/free-mstech-easy-desktop-organizer-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/EDOB.png?9187",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo WinOptimizer 25",
+         "Informacion": "Windows es fant\u00e1stico, pero siempre se puede mejorar. \u00a1Ah\u00ed es donde entra Ashampoo WinOptimizer! Porque, con el tiempo, los sistemas operativos tienden a ralentizarse, volverse inestables y desordenados. Tambi\u00e9n faltan configuraciones importantes o est\u00e1n ocultas en lo m\u00e1s profundo del sistema. Y luego est\u00e1 la constante intrusi\u00f3n en la privacidad introducida con Windows 10 y 11, eufem\u00edsticamente denominada \u201ctelemetr\u00eda\u201d. \u00a1WinOptimizer pone fin a esto, de manera r\u00e1pida, f\u00e1cil y efectiva! Le devuelve la forma a su PC y la hace sentir como nueva nuevamente. Deje que WinOptimizer limpie, optimice y proteja su m\u00e1quina y disfrute de una PC con Windows r\u00e1pida, sencilla y segura con privacidad intacta, \u00a1permanentemente!",
+         "Desde": "",
+         "Hasta": "2024/03/28 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-25-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/scr-ashampoo-winoptimizer-25-automate.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MG Easy Desktop Organizer License Key Free 2024",
+         "Informacion": "Normalmente, crea accesos directos para archivos, carpetas y aplicaciones en su escritorio para que sean accesibles f\u00e1cil y r\u00e1pidamente. Cuantos m\u00e1s accesos directos cree, m\u00e1s desordenado se ver\u00e1 el escritorio. Por esta raz\u00f3n, se desarroll\u00f3 MG Easy Desktop Organizer. Est\u00e1 equipado con funciones \u00fatiles para ayudarlo a limpiar y organizar su escritorio con facilidad y al mismo tiempo le brinda la posibilidad de acceder y controlar todos los documentos en su computadora. Con otras herramientas integradas de la aplicaci\u00f3n, puedes ocultar los \u00edconos del escritorio, cambiar el fondo de tu escritorio o incluso dise\u00f1ar tus propios fondos de pantalla con EDO Wallpaper Designer.",
+         "Desde": "",
+         "Hasta": "2024/03/28 14:00",
+         "URL": "https://giveaway.tickcoupon.com/mg-easy-desktop-organizer-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/03/mg-easy-desktop-organizer-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -312,6 +352,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2024/03/30 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
          "Desde": "",
@@ -332,12 +382,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Nombre": "The Infinity Saga by Taco",
+         "Informacion": "Despu\u00e9s de despertar en una isla, decides explorar un poco y descubrir mucho, mucho m\u00e1s...",
          "Desde": "",
-         "Hasta": "2024/03/30 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Hasta": "2024/03/30 06:00",
+         "URL": "https://taco2009.itch.io/the-infinity-saga",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ4OTY2Ny8xNDc4OTU2NC5wbmc=/347x500/w04xGl.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -502,6 +552,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "iMobie Vozard PRO Giveaway License Key for Free 2024",
+         "Informacion": "Si eres un jugador, un transmisor en vivo y un creador de contenido, y quieres alterar tu voz para darle nuevas dimensiones a tus videos, entonces iMobie Vozard podr\u00eda ser la utilidad que te eche una mano. Esta herramienta, que funciona como un software de cambio de voz para PC, incluidos Windows y Mac, puede ayudarle a convertir su voz en diferentes voces de dibujos animados y otros personajes que le gusten, incluidas voces de IA. Ya sea que est\u00e9 jugando, chateando en l\u00ednea, transmitiendo en vivo o creando contenido, puede agregar m\u00e1s de 180 maravillosos efectos de sonido y los mejores memes sonoros para crear videos \u00fanicos y atractivos.",
+         "Desde": "",
+         "Hasta": "2024/03/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/imobie-vozard-pro-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/03/imobie-vozard-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Johnny the Pigeon by Blue harpy",
          "Informacion": "",
          "Desde": "",
@@ -518,16 +578,6 @@
          "Hasta": "2024/03/31 00:00",
          "URL": "https://giveaway.tickcoupon.com/vovsoft-domain-checker-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/01/vovsoft-domain-checker-giveaway-free-key.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "iMobie Vozard PRO Giveaway License Key for Free 2024",
-         "Informacion": "Si eres un jugador, un transmisor en vivo y un creador de contenido, y quieres alterar tu voz para darle nuevas dimensiones a tus videos, entonces iMobie Vozard podr\u00eda ser la utilidad que te eche una mano. Esta herramienta, que funciona como un software de cambio de voz para PC, incluidos Windows y Mac, puede ayudarle a convertir su voz en diferentes voces de dibujos animados y otros personajes que le gusten, incluidas voces de IA. Ya sea que est\u00e9 jugando, chateando en l\u00ednea, transmitiendo en vivo o creando contenido, puede agregar m\u00e1s de 180 maravillosos efectos de sonido y los mejores memes sonoros para crear videos \u00fanicos y atractivos.",
-         "Desde": "",
-         "Hasta": "2024/03/31 00:00",
-         "URL": "https://giveaway.tickcoupon.com/imobie-vozard-pro-license-code-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/03/imobie-vozard-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -642,22 +692,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "To The Flame by Ezra Szanton, Fergus Ferguson",
-         "Informacion": "Eres una polilla en un brutal peregrinaje para encontrarse con Dios. Salta con cuidado: cada abismo es una oportunidad para volver al principio. Cuando veas la ara\u00f1a, esc\u00f3ndete. Puede escuchar tus peque\u00f1os pasos.",
-         "Desde": "",
-         "Hasta": "2024/03/31 08:00",
-         "URL": "https://ezra-szanton.itch.io/to-the-flame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MTkyMi8xNTE0MDg2Ny5wbmc=/347x500/i%2Fb8KT.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "R v B: minimal-battle-sim by Mamora.me",
          "Informacion": "Simmal Unit Battle Sim a\u00fan en desarrollo Experimental.",
          "Desde": "",
          "Hasta": "2024/03/31 08:00",
          "URL": "https://mamorame.itch.io/rvbminimal-battle-sim",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU2ODIxNS8xNTM3MjUwMy5wbmc=/347x500/67MBcn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "To The Flame by Ezra Szanton, Fergus Ferguson",
+         "Informacion": "Eres una polilla en un brutal peregrinaje para encontrarse con Dios. Salta con cuidado: cada abismo es una oportunidad para volver al principio. Cuando veas la ara\u00f1a, esc\u00f3ndete. Puede escuchar tus peque\u00f1os pasos.",
+         "Desde": "",
+         "Hasta": "2024/03/31 08:00",
+         "URL": "https://ezra-szanton.itch.io/to-the-flame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MTkyMi8xNTE0MDg2Ny5wbmc=/347x500/i%2Fb8KT.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1092,6 +1142,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Leawo PowerPoint to Video Pro License Key for Free",
+         "Informacion": "Leawo PowerPoint to Video Pro es un programa \u00fatil y f\u00e1cil de usar que ayuda a los usuarios a convertir cualquier archivo de PowerPoint a video en todos los formatos populares, como PowerPoint a AVI, MP4, FLV, 3GP, MOV, MPEG, WMV, VOB, MP3. , AAC, M4A, etc. con todas las caracter\u00edsticas y elementos originales conservados para disfrutar mejor de la presentaci\u00f3n de diapositivas. Las poderosas funciones de PowerPoint to Video Pro lo convierten en la mejor opci\u00f3n para profesores, profesores y personas que desean compartir presentaciones de PowerPoint en sitios para compartir videos. Normalmente cuesta $ 79,95 por una licencia de 1 a\u00f1o, pero puede obtener la clave de obsequio Leawo PowerPoint to Video Pro aqu\u00ed mismo.",
+         "Desde": "",
+         "Hasta": "2024/04/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/leawo-powerpoint-to-video-pro-giveaway-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/07/Leawo-PowerPoin-to-Video-Pro.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battle Mage Academy by Shakey Jakey",
+         "Informacion": "Bienvenido a Terramas Academy: has sido aceptado en la escuela de magia m\u00e1s majestuosa y famosa del mundo. Aqu\u00ed aprender\u00e1s las costumbres de los Magos: crear hechizos a partir de cartas, llamar e invocar criaturas, hechizos y muros.",
+         "Desde": "",
+         "Hasta": "2024/04/15 07:00",
+         "URL": "https://fraternitygames.itch.io/battle-mage-academy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ2Nzk0My8xNDY1NDcwOS5wbmc=/347x500/laq15s.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Miner Maxine by Shakey Jakey",
+         "Informacion": "Maxine es una minera despedida que se ocupa de un santuario de animales en el oeste de Texas. La ayuda su mejor amigo perrito, Borker. Pero un d\u00eda, mientras disfrutaba del atardecer, \u00a1un nuevo enemigo aparece desde el suelo y captura a Borker! Los responsables son los extra\u00f1os y cobardes gusanos. Ahora Maxine debe apresurarse a rescatar a su amiga de un destino incierto.",
+         "Desde": "",
+         "Hasta": "2024/04/15 07:00",
+         "URL": "https://fraternitygames.itch.io/miner-maxine",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg3NTcyMy8xMTAxODkyNy5wbmc=/347x500/qFRei%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Downstab by Shakey Jakey",
+         "Informacion": "Downstab es un juego de plataformas/excavaci\u00f3n estilo arcade. \u00a1Elige a tu concursante y prep\u00e1rate para abrirte camino hacia una nueva vida! Todos los concursantes necesitan dinero r\u00e1pidamente por cualquier motivo, as\u00ed que ay\u00fadalos a recorrer las 30 etapas, explotando a todos los enemigos que veas y ganando todos los puntos. Para despejar un escenario debes hacer explotar a todos los enemigos hasta convertirlos en polvo fino, pero ten cuidado de conseguir tantos puntos como puedas: el escenario termina cuando todos los enemigos son destruidos O ya no est\u00e1s entre los vivos.",
+         "Desde": "",
+         "Hasta": "2024/04/15 07:00",
+         "URL": "https://fraternitygames.itch.io/downstab",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQxNTA4NS84MjQyNjc4LnBuZw==/347x500/K8A5Gz.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Zal vs May by CoffeeDogTeam",
          "Informacion": "La malvada reina May O'Niece est\u00e1 invadiendo un planeta, es tu deber ser enviado contra ella y ser t\u00fa quien sufra su ira.",
          "Desde": "",
@@ -1112,6 +1202,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Space Cadets 2D by Nutty Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/04/24 14:47",
+         "URL": "https://nutty-studios.itch.io/spacecadets2d",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk4NTMwLzY5NzQ3NjkucG5n/347x500/DHWofa.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Space Invaders by Nutty Studios",
          "Informacion": "",
          "Desde": "",
@@ -1122,13 +1222,23 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Space Cadets 2D by Nutty Studios",
-         "Informacion": "",
+         "Nombre": "WinxVideo AI",
+         "Informacion": "Mejorador y conversor de v\u00eddeo/imagen impulsado por IA. Mejore, estabilice, convierta, grabe y edite videos. Calidad cinematogr\u00e1fica. GPU completa acelerada.",
          "Desde": "",
-         "Hasta": "2024/04/24 14:47",
-         "URL": "https://nutty-studios.itch.io/spacecadets2d",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk4NTMwLzY5NzQ3NjkucG5n/347x500/DHWofa.png",
-         "Distribuidora": "Itch io",
+         "Hasta": "2024/04/25 09:00",
+         "URL": "https://sharewareonsale.com/s/free-winxvideo-ai-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/winxvideo_ai_icon_512_512.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WinXvideo AI Giveaway License Key Free 2024",
+         "Informacion": "WinXvideo AI es un conjunto de herramientas de video todo en uno como conversor de video Ultra HD, potenciador de video/imagen con tecnolog\u00eda de IA, descargador de video y grabador de pantalla. Con su ayuda, puedes mejorar v\u00eddeos e im\u00e1genes con la mejor calidad posible. Esta herramienta aprovecha CineAI para mejorar v\u00eddeo/imagen, estabilizar v\u00eddeo y aumentar FPS. Puede mejorar videos de baja calidad a resoluciones 720P, 1080P y 4K, as\u00ed como tambi\u00e9n mejorar im\u00e1genes de baja resoluci\u00f3n a 4K/8K/10K con detalles reales.",
+         "Desde": "",
+         "Hasta": "2024/04/25 14:00",
+         "URL": "https://giveaway.tickcoupon.com/winxvideo-ai-free-key-download/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/winxvideo-ai-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
