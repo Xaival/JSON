@@ -1,126 +1,6 @@
 {
-   "date_update": "01 Apr 2024 16:02 UTC",
+   "date_update": "02 Apr 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Death Paralysis full game by Darted Games",
-         "Informacion": "Par\u00e1lisis de la escasez: Simulador de terror con un toque diferente y acertijos \u00fanicos.",
-         "Desde": "",
-         "Hasta": "2024/04/02 00:00",
-         "URL": "https://darted-games.itch.io/death-pararlys",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI1MzU1Mi8xMzM3MTg3MS5wbmc=/347x500/QBzs%2B%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Blackness by gamesbyrd",
-         "Informacion": "CONTROL S:",
-         "Desde": "",
-         "Hasta": "2024/04/02 00:00",
-         "URL": "https://gamesbyrd.itch.io/blackness",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NjM2OC8xNTQwMzA4My5qcGc=/347x500/iv0EZ9.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Solace Inc. by aplovestudio",
-         "Informacion": "\u00a1Somos la compa\u00f1\u00eda de mercenarios que viaja en el tiempo n\u00famero uno de la galaxia! \u00bfTiene un problema? \u00a1Nosotros nos encargaremos de ello! Nuestra tecnolog\u00eda de punta permite soluciones r\u00e1pidas y confiables a sus inquietudes. \u00a1En cualquier momento, en cualquier lugar! \u00a1Nuestros cientos de empleados est\u00e1n ansiosos por hacerse cargo de su negocio, sin dolores de cabeza ni sangre en sus manos! \u00a1Ll\u00e1manos hoy!",
-         "Desde": "",
-         "Hasta": "2024/04/02 05:59",
-         "URL": "https://aplovestudio.itch.io/solace-inc",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI4OTE1OS8xNDkxMTYxMy5wbmc=/347x500/E3U0xO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Project Malice by aplovestudio",
-         "Informacion": "El a\u00f1o es 213X. La Tierra se ha ido a la mierda.",
-         "Desde": "",
-         "Hasta": "2024/04/02 05:59",
-         "URL": "https://aplovestudio.itch.io/malice",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2MDU4NS8xMDExNjgxNi5wbmc=/347x500/4mQ47Z.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Roseblight by aplovestudio",
-         "Informacion": "Un juego de rol sobre un jardinero con un oscuro secreto y un visitante del cosmos. Explora lo salvaje, desaf\u00eda a tus enemigos, recluta aliados y abraza tus cadenas en un mundo implacable plagado de malicia y destrucci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2024/04/02 05:59",
-         "URL": "https://aplovestudio.itch.io/roseblight",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjEyOTA0LzY4MTUxMzkucG5n/347x500/Yng4dU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
-         "Desde": "",
-         "Hasta": "2024/04/02 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Buckler 2 by aplovestudio",
-         "Informacion": "BUCKLER 2 es un juego de plataformas roguelite de estilo retro que cuenta una historia sobre el amor, el odio y todo lo dem\u00e1s.",
-         "Desde": "",
-         "Hasta": "2024/04/02 05:59",
-         "URL": "https://aplovestudio.itch.io/buckler2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzQ2NTc5LzE4ODY3MTIuZ2lm/347x500/seItur.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
-         "Desde": "",
-         "Hasta": "2024/04/02 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2024/04/02 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Bill Blast by RadBot Games",
-         "Informacion": "Bill Blast es un juego de estilo arcade en el que debes desactivar todo el Blastonium antes de que su detonaci\u00f3n desestabilice el continuo espacio-tiempo.",
-         "Desde": "",
-         "Hasta": "2024/04/02 07:59",
-         "URL": "https://radbot-games.itch.io/billblast",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ4NzQ5Ni8xNDc3NTkzNC5wbmc=/347x500/nU%2FghA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Fotor Photo Editor",
-         "Informacion": "Fotor es conocido por sus poderosas herramientas de edici\u00f3n y su interfaz de usuario intuitiva, pero la Edici\u00f3n Especial libera todo el potencial creativo de tus im\u00e1genes. Adem\u00e1s de las caracter\u00edsticas bien conocidas y valoradas de la edici\u00f3n gratuita, la Edici\u00f3n Especial ofrece acceso a herramientas premium que pueden elevar tus fotos de aceptables a incre\u00edbles.",
-         "Desde": "",
-         "Hasta": "2024/04/02 09:00",
-         "URL": "https://sharewareonsale.com/s/free-fotor-photo-editor-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/Fotor-Pro-Boxshot.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "MG QR Code Generator",
-         "Informacion": "\u00bfLe preocupa compartir informaci\u00f3n personal al crear c\u00f3digos QR en l\u00ednea? MG QR Code Generator prioriza su privacidad. A diferencia de muchos otros servicios que pueden recopilar datos personales durante el proceso de generaci\u00f3n del c\u00f3digo QR, MG garantiza que usted puede crear c\u00f3digos QR personalizados sin la necesidad de divulgar informaci\u00f3n confidencial.",
-         "Desde": "",
-         "Hasta": "2024/04/02 09:00",
-         "URL": "https://sharewareonsale.com/s/free-mg-qr-code-generator-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/QR-Code.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Office Cat by Ken's studio",
          "Informacion": "Parque para gatos para tu oficina que te ayuda a relajarte y reducir el estr\u00e9s",
@@ -129,7 +9,7 @@
          "URL": "https://ken-pham.itch.io/office-cat",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MTczOC8xNTU0MTYyOC5wbmc=/347x500/Pz9R6c.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Office Cats by Ken's studio",
@@ -139,7 +19,17 @@
          "URL": "https://ken-pham.itch.io/office-cats",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MTczOC8xNTQzMzcyOC5wbmc=/347x500/QZl%2Bgb.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
+      },
+      {
+         "Nombre": "Cubes in Danger 2 by gamesbyrd",
+         "Informacion": "CONTROL S:",
+         "Desde": "",
+         "Hasta": "2024/04/03 00:00",
+         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzI2My8xNTQwNTA3MS5wbmc=/347x500/2sE%2BRY.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "CLIMB & SHOOT (VR Shooting Game for Oculus Quest ) by ULTRA FUN GAMES",
@@ -149,7 +39,7 @@
          "URL": "https://ultra-fun-games.itch.io/climb-shoot",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIyODc2MC83MTkzNTMwLnBuZw==/347x500/vBQZ8C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Disturbed Timeline by TheThil, Miengat",
@@ -159,7 +49,7 @@
          "URL": "https://thethil.itch.io/disturbed-timeline",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQzMjAzMS8xNDQxMDQyMy5wbmc=/347x500/VeV4Hf.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "FUN SHOOTING RANGE (VR Shooting Game for Oculus Quest ) by ULTRA FUN GAMES",
@@ -169,7 +59,7 @@
          "URL": "https://ultra-fun-games.itch.io/fun-shooting-playground",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIyNTUzMS83MTQ2MDIzLnBuZw==/347x500/CbvXLL.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "ULTRA CLIMBING PLAYGROUNDS (VR  Platformer/Climbing Game for Oculus Quest) by ULTRA FUN GAMES",
@@ -179,7 +69,7 @@
          "URL": "https://ultra-fun-games.itch.io/climbing-playgrounds",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA3MzU4Ny82MTU0NzgwLmpwZw==/347x500/u6WZin.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Ultra Explorer: Jurassic Forest ( VR Dinosaurs Game for Oculus Quest) by ULTRA FUN GAMES",
@@ -189,7 +79,7 @@
          "URL": "https://ultra-fun-games.itch.io/ultra-explorer-jurassic-forest",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTAyMDk3MS81ODIwMDU2LmpwZw==/347x500/QA9sc7.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "ULTRA REAL GLASS BRIDGE TOURNAMENT by ULTRA FUN GAMES",
@@ -199,17 +89,7 @@
          "URL": "https://ultra-fun-games.itch.io/ultra-real-glass-bridge-tournament-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMyOTg3MS83NzM0Mjg3LmpwZw==/347x500/oWIs30.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "FOCUS Projects 4 PRO",
-         "Informacion": "Crea macros de libros de texto, n\u00edtidas y con detalles como nunca antes hab\u00edas visto. Con las nuevas tecnolog\u00edas de FOCUS Projects 4 Professional podr\u00e1s crear fotograf\u00edas macro de \u00faltima generaci\u00f3n que tienen una profundidad de enfoque fascinante y sacan a la luz detalles extraordinarios.",
-         "Desde": "",
-         "Hasta": "2024/04/03 09:00",
-         "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/focus415-519-1.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Ashampoo WinOptimizer 25",
@@ -219,7 +99,27 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-25-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/scr-ashampoo-winoptimizer-25-automate.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "FOCUS Projects 4 PRO",
+         "Informacion": "Crea macros de libros de texto, n\u00edtidas y con detalles como nunca antes hab\u00edas visto. Con las nuevas tecnolog\u00edas de FOCUS Projects 4 Professional podr\u00e1s crear fotograf\u00edas macro de \u00faltima generaci\u00f3n que tienen una profundidad de enfoque fascinante y sacan a la luz detalles extraordinarios.",
+         "Desde": "",
+         "Hasta": "2024/04/03 09:00",
+         "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/focus415-519-1.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Photo Commander",
+         "Informacion": "Administre, edite y vea sus fotos digitales",
+         "Desde": "",
+         "Hasta": "2024/04/03 09:00",
+         "URL": "https://www.bitsdujour.com/software/ashampoo-photo-commander/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/ashampoo-photo-commander-ufgz1.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "AOMEI MyRecover for iOS 1-Year Free License Key",
@@ -392,6 +292,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2024/04/06 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2024/04/06 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2024/04/06 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Money",
          "Informacion": "Ashampoo Money es un planificador de presupuestos para realizar un seguimiento de los ingresos y gastos de forma r\u00e1pida y sencilla para una o varias cuentas. Las transacciones recurrentes, como pagos de impuestos y seguros, se agregan f\u00e1cilmente. La descripci\u00f3n general incorporada muestra la progresi\u00f3n del equilibrio a lo largo del tiempo, desglosada por prop\u00f3sito (comida, compras, ocio, etc.). Los usuarios pueden ver exactamente a d\u00f3nde va su dinero, incluso con cientos de transacciones presentes. M\u00faltiples filtros ayudan a buscar transacciones por destinatario, monto y prop\u00f3sito. Los usuarios tambi\u00e9n pueden personalizar visualmente filas y columnas para presentaciones tabulares. Finalmente, los usuarios pueden comparar la evoluci\u00f3n del saldo presente y pasado para identificar tendencias y ajustar su comportamiento de gasto de manera significativa. Ashampoo Money busca reemplazar la planificaci\u00f3n presupuestaria basada en Excel ofreciendo un mejor manejo y un minimalismo visual que no resta valor a lo que importa, es decir, los n\u00fameros.",
          "Desde": "",
@@ -402,22 +332,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "SecuPerts First Aid Kit",
-         "Informacion": "\u00a1El botiqu\u00edn de primeros auxilios para tus datos y tu instalaci\u00f3n de Windows!",
-         "Desde": "",
-         "Hasta": "2024/04/06 09:00",
-         "URL": "https://sharewareonsale.com/s/free-secuperts-first-aid-kit-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/firstaidkit-box-left-1000-1-1-200x258.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Ashampoo Undeleter",
          "Informacion": "Nunca m\u00e1s tendr\u00e1s problemas con archivos borrados accidentalmente",
          "Desde": "",
          "Hasta": "2024/04/06 09:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-undeleter-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/boxshot-19.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SecuPerts First Aid Kit",
+         "Informacion": "\u00a1El botiqu\u00edn de primeros auxilios para tus datos y tu instalaci\u00f3n de Windows!",
+         "Desde": "",
+         "Hasta": "2024/04/06 09:00",
+         "URL": "https://sharewareonsale.com/s/free-secuperts-first-aid-kit-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/firstaidkit-box-left-1000-1-1-200x258.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -482,22 +412,52 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2024/04/08 00:00",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Juegos retro 5 en 1",
          "Desde": "",
          "Hasta": "2024/04/08 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego de terror corto realizado en 1 semana.",
+         "Desde": "",
+         "Hasta": "2024/04/08 00:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/04/08 00:00",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2024/04/08 00:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -522,22 +482,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego de terror corto realizado en 1 semana.",
+         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2024/04/08 00:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2024/04/08 00:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "URL": "https://magnus-froelund.itch.io/stargates",
+         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -552,42 +502,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Juegos retro 5 en 1",
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
          "Desde": "",
          "Hasta": "2024/04/08 00:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
          "Desde": "",
          "Hasta": "2024/04/08 00:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/04/08 00:00",
-         "URL": "https://magnus-froelund.itch.io/stargates",
-         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/04/08 00:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -602,22 +532,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ashampoo Internet Accelerator 3",
-         "Informacion": "Todos damos por sentado Internet hoy en d\u00eda, pero lo que tiene que hacer tu computadora para permitirte navegar es realmente incre\u00edblemente complicado. Windows tiene una larga lista de configuraciones para ajustar el rendimiento de su conexi\u00f3n a Internet. Eso est\u00e1 bien si eres un experto en inform\u00e1tica, el resto de nosotros generalmente empeoraremos las cosas en lugar de mejorarlas, si podemos encontrar todas las configuraciones bien ocultas en primer lugar.",
-         "Desde": "",
-         "Hasta": "2024/04/08 09:00",
-         "URL": "https://sharewareonsale.com/s/ashampoo-internet-accelerator-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/05/box_ashampoo_internet_accelerator_3_800x800-200x200.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "40 Creative Fonts",
          "Informacion": "Es una fuente maravillosa con un aspecto \u00fanico, detallado y hecho a mano.",
          "Desde": "",
          "Hasta": "2024/04/08 09:00",
          "URL": "https://sharewareonsale.com/s/free-40-creative-fonts-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/03/Main-Image-min-3-1200x800-1-200x133.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Internet Accelerator 3",
+         "Informacion": "Todos damos por sentado Internet hoy en d\u00eda, pero lo que tiene que hacer tu computadora para permitirte navegar es realmente incre\u00edblemente complicado. Windows tiene una larga lista de configuraciones para ajustar el rendimiento de su conexi\u00f3n a Internet. Eso est\u00e1 bien si eres un experto en inform\u00e1tica, el resto de nosotros generalmente empeoraremos las cosas en lugar de mejorarlas, si podemos encontrar todas las configuraciones bien ocultas en primer lugar.",
+         "Desde": "",
+         "Hasta": "2024/04/08 09:00",
+         "URL": "https://sharewareonsale.com/s/ashampoo-internet-accelerator-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/05/box_ashampoo_internet_accelerator_3_800x800-200x200.jpg?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -632,6 +562,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Disk Space Explorer",
+         "Informacion": "Disk Space Explorer 2023 brinda a los usuarios una imagen clara del uso del espacio en disco de sus unidades y les ayuda a encontrar archivos redundantes. A diferencia del Explorador de Windows, el programa tambi\u00e9n puede mostrar resultados por carpeta o tipo de archivo. Esto hace que sea muy f\u00e1cil encontrar posibles acaparadores de recursos, por ejemplo, archivos de v\u00eddeo, utilizando los filtros de tipo de archivo integrados. Cuando se trata del uso de espacio en disco por carpetas, los gr\u00e1ficos de barras revelan r\u00e1pidamente sus porcentajes del espacio total en disco. Los filtros de tipo de archivo tambi\u00e9n brindan a los usuarios una nueva perspectiva de sus unidades y los archivos que contienen. Despu\u00e9s de todo, \u00bfqui\u00e9n puede decir realmente cu\u00e1ntas fotos o canciones contiene una unidad y cu\u00e1nto espacio ocupan los archivos de inmediato? Todos los filtros basados \u200b\u200ben formatos son totalmente personalizables y los usuarios pueden incluso agregar o eliminar formatos adicionales y agrupar varios formatos para ejecutar an\u00e1lisis personalizados. Disk Space Explorer 2023 se basa en la \u00faltima tecnolog\u00eda WinOptimizer y ofrece informaci\u00f3n r\u00e1pida y precisa sobre el uso del espacio en disco local.",
+         "Desde": "",
+         "Hasta": "2024/04/09 11:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-disk-space-explorer-2023-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/front1-1.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Temple of the Silver Dragon by Clevertop",
          "Informacion": "Tienes cinco minutos en el reloj. \u00bfCu\u00e1nto tesoro puedes recolectar y escapar antes de que se acabe el tiempo?",
          "Desde": "",
@@ -639,6 +579,16 @@
          "URL": "https://clevertop.itch.io/temple-of-the-silver-dragon",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTAxMDIxOC81Nzc1OTYwLnBuZw==/347x500/T6xFTO.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox Video Watermark Free License Key",
+         "Informacion": "Es posible que hayas tardado unas horas en crear un v\u00eddeo o un clip para compartir en Facebook, Twitter u otras redes sociales y luego los hayas encontrado en los muros de desconocidos. \u00bfAlguna vez has conocido lo mismo? Lo que debe hacer ahora es agregar su informaci\u00f3n personal a su clip o video como un mensaje para el espectador de que este clip o video es suyo. WonderFox Video Watermark ayuda a los usuarios a insertar un logotipo en videos y clips para mostrar que son videos y clips con derechos de autor. Al utilizar Video Watermark, los videos y clips ser\u00e1n verificados como suyos y cuando otros usuarios los usen, deber\u00e1n obtener su permiso.",
+         "Desde": "",
+         "Hasta": "2024/04/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-video-watermark-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2018/10/WonderFox-Video-Watermark.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -759,6 +709,16 @@
          "URL": "https://fraternitygames.itch.io/miner-maxine",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg3NTcyMy8xMTAxODkyNy5wbmc=/347x500/qFRei%2B.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SwifDoo PDF Pro 6-Month Giveaway License Key Free",
+         "Informacion": "SwifDoo PDF Pro es el mejor software de edici\u00f3n de PDF que no s\u00f3lo le permite crear archivos PDF, sino tambi\u00e9n convertir, fusionar, comprimir y firmar documentos PDF. Con \u00e9l, puede agregar o eliminar texto hacia/desde sus archivos PDF y cambiar los tama\u00f1os y colores de fuente. M\u00e1s all\u00e1 de esto, puede convertir PDF a Microsoft Word, Excel y PowerPoint (y viceversa) o convertir PDF a imagen (PNG, JPG, TIFF, BMP) y viceversa.",
+         "Desde": "",
+         "Hasta": "2024/04/15 15:00",
+         "URL": "https://giveaway.tickcoupon.com/swifdoo-pdf-pro-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/12/swifdoo-pro-free-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1202,6 +1162,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ball Down Hill by KasperV",
+         "Informacion": "Meta:",
+         "Desde": "",
+         "Hasta": "2024/04/30 23:00",
+         "URL": "https://kasperv.itch.io/ball-down-hill",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Kasperias Arenas by KasperV",
          "Informacion": "- Crea un personaje con apariencia y habilidades personalizadas.",
          "Desde": "",
@@ -1212,12 +1182,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ball Down Hill by KasperV",
-         "Informacion": "Meta:",
+         "Nombre": "Sky Lab Defender by KasperV",
+         "Informacion": "Defensor del laboratorio a\u00e9reo",
          "Desde": "",
          "Hasta": "2024/04/30 23:00",
-         "URL": "https://kasperv.itch.io/ball-down-hill",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
+         "URL": "https://kasperv.itch.io/skylabdefender",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1232,12 +1202,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sky Lab Defender by KasperV",
-         "Informacion": "Defensor del laboratorio a\u00e9reo",
+         "Nombre": "Strange Toilet 2 by TheThil",
+         "Informacion": "El juego tiene 3 finales posibles. Tiempo medio de juego: 30-45 minutos.",
          "Desde": "",
-         "Hasta": "2024/04/30 23:00",
-         "URL": "https://kasperv.itch.io/skylabdefender",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
+         "Hasta": "2024/05/01 09:00",
+         "URL": "https://thethil.itch.io/strange-toilet-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NzAxMS8xMzU4MDA1NC5qcGc=/347x500/fAMvKk.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet by TheThil",
+         "Informacion": "En el tranquilo barrio donde viven Nathan y Sarah, hay una presencia siniestra. Una amenaza potencial de un asesino suelto. Los residentes no esperaban que en esta tarde pac\u00edfica se enfrentar\u00edan a una realidad sombr\u00eda que nunca anticiparon.",
+         "Desde": "",
+         "Hasta": "2024/05/01 09:00",
+         "URL": "https://thethil.itch.io/strange-toilet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MjYwOC84MTg3NTUyLnBuZw==/347x500/A%2BcWTM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Night Milking by winabees",
+         "Informacion": "Una peque\u00f1a aventura sobre el orde\u00f1o de noche",
+         "Desde": "",
+         "Hasta": "2024/05/01 20:00",
+         "URL": "https://winabees.itch.io/night-milking",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NDM5OC8xNDU1MTA1OS5wbmc=/347x500/tCUZMW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Plumbing Night by winabees",
+         "Informacion": "Eres fontanero y alguien quiere arreglar sus tuber\u00edas en el s\u00f3tano.",
+         "Desde": "",
+         "Hasta": "2024/05/01 20:00",
+         "URL": "https://winabees.itch.io/plumbing-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzkxNC8xMzEyMTYzOC5wbmc=/347x500/FBEPq1.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1258,6 +1258,46 @@
          "Hasta": "2024/05/10 08:00",
          "URL": "https://bee-tea.itch.io/rainyday",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Circuit 7 by Funky Tiger Highsaturn",
+         "Informacion": "3 2 1 \u00a1\u00a1\u00a1INDIE 700 WORLD TOURMINI LOOP TRUCO CONTRARRELOJ",
+         "Desde": "",
+         "Hasta": "2024/07/01 07:00",
+         "URL": "https://qjzsezhi.itch.io/circuit-7",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjY0NjA5Lzg1NTU3MDcuZ2lm/347x500/Xmxgkx.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Iota by Funky Tiger Highsaturn",
+         "Informacion": "mascota de escritorio virtual",
+         "Desde": "",
+         "Hasta": "2024/07/01 07:00",
+         "URL": "https://qjzsezhi.itch.io/iota",
+         "IMG": "https://img.itch.zone/aW1nLzI5MjE4NjIucG5n/347x500/ouoxq0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Key by Funky Tiger Highsaturn",
+         "Informacion": "[+\u00e2\u00a2\u00e2\u00a2] Proyecto 24solo",
+         "Desde": "",
+         "Hasta": "2024/07/01 07:00",
+         "URL": "https://qjzsezhi.itch.io/key",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzc0MTU3LzE4NzY0MjQucG5n/347x500/fUhihI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Geograph by Funky Tiger Highsaturn",
+         "Informacion": "infinitas formaciones para relajarse y dejarse perplejo",
+         "Desde": "",
+         "Hasta": "2024/07/01 07:00",
+         "URL": "https://qjzsezhi.itch.io/geograph",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTg2MTUvOTIwMzI5LmdpZg==/347x500/89EXBO.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
