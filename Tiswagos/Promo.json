@@ -1,126 +1,6 @@
 {
-   "date_update": "02 Apr 2024 16:02 UTC",
+   "date_update": "03 Apr 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Office Cat by Ken's studio",
-         "Informacion": "Parque para gatos para tu oficina que te ayuda a relajarte y reducir el estr\u00e9s",
-         "Desde": "",
-         "Hasta": "2024/04/02 19:00",
-         "URL": "https://ken-pham.itch.io/office-cat",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MTczOC8xNTU0MTYyOC5wbmc=/347x500/Pz9R6c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "Office Cats by Ken's studio",
-         "Informacion": "Cats se ejecuta en tu escritorio y te ayuda a relajarte y reducir el estr\u00e9s.",
-         "Desde": "",
-         "Hasta": "2024/04/02 19:00",
-         "URL": "https://ken-pham.itch.io/office-cats",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MTczOC8xNTQzMzcyOC5wbmc=/347x500/QZl%2Bgb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "Cubes in Danger 2 by gamesbyrd",
-         "Informacion": "CONTROL S:",
-         "Desde": "",
-         "Hasta": "2024/04/03 00:00",
-         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzI2My8xNTQwNTA3MS5wbmc=/347x500/2sE%2BRY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "CLIMB & SHOOT (VR Shooting Game for Oculus Quest ) by ULTRA FUN GAMES",
-         "Informacion": "Este es un divertido parque de tiro y escalada con 32 armas ocultas diferentes de muchos tipos: pistolas modernas, pistolas de iluminaci\u00f3n, lanzacohetes, sables de iluminaci\u00f3n, katanas, martillos, martillos de iluminaci\u00f3n, etc.",
-         "Desde": "",
-         "Hasta": "2024/04/03 01:00",
-         "URL": "https://ultra-fun-games.itch.io/climb-shoot",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIyODc2MC83MTkzNTMwLnBuZw==/347x500/vBQZ8C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "Disturbed Timeline by TheThil, Miengat",
-         "Informacion": "El juego est\u00e1 hecho por \"miengat\" tambi\u00e9n conocido como \"Miengat\" Publicado por \"TheThil\"",
-         "Desde": "",
-         "Hasta": "2024/04/03 01:00",
-         "URL": "https://thethil.itch.io/disturbed-timeline",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQzMjAzMS8xNDQxMDQyMy5wbmc=/347x500/VeV4Hf.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "FUN SHOOTING RANGE (VR Shooting Game for Oculus Quest ) by ULTRA FUN GAMES",
-         "Informacion": "Este es un campo de tiro divertido con muchas armas de muchos tipos: pistolas modernas, pistolas de iluminaci\u00f3n, lanzacohetes, sables de iluminaci\u00f3n, katanas, martillos, martillos de iluminaci\u00f3n, etc.",
-         "Desde": "",
-         "Hasta": "2024/04/03 01:00",
-         "URL": "https://ultra-fun-games.itch.io/fun-shooting-playground",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIyNTUzMS83MTQ2MDIzLnBuZw==/347x500/CbvXLL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "ULTRA CLIMBING PLAYGROUNDS (VR  Platformer/Climbing Game for Oculus Quest) by ULTRA FUN GAMES",
-         "Informacion": "\u00a1Este es un juego si quieres experimentar con escalada libre, tirolesa, plataformas y caminatas en planchas, pero en niveles que a\u00fan no has visto!",
-         "Desde": "",
-         "Hasta": "2024/04/03 01:00",
-         "URL": "https://ultra-fun-games.itch.io/climbing-playgrounds",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA3MzU4Ny82MTU0NzgwLmpwZw==/347x500/u6WZin.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "Ultra Explorer: Jurassic Forest ( VR Dinosaurs Game for Oculus Quest) by ULTRA FUN GAMES",
-         "Informacion": "UItra Fun Games presenta Ultra Explorer: \u00a1Bosque Jur\u00e1sico!",
-         "Desde": "",
-         "Hasta": "2024/04/03 01:00",
-         "URL": "https://ultra-fun-games.itch.io/ultra-explorer-jurassic-forest",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTAyMDk3MS81ODIwMDU2LmpwZw==/347x500/QA9sc7.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "ULTRA REAL GLASS BRIDGE TOURNAMENT by ULTRA FUN GAMES",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/04/03 01:00",
-         "URL": "https://ultra-fun-games.itch.io/ultra-real-glass-bridge-tournament-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTMyOTg3MS83NzM0Mjg3LmpwZw==/347x500/oWIs30.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo WinOptimizer 25",
-         "Informacion": "Windows es fant\u00e1stico, pero siempre se puede mejorar. \u00a1Ah\u00ed es donde entra Ashampoo WinOptimizer! Porque, con el tiempo, los sistemas operativos tienden a ralentizarse, volverse inestables y desordenados. Tambi\u00e9n faltan configuraciones importantes o est\u00e1n ocultas en lo m\u00e1s profundo del sistema. Y luego est\u00e1 la constante intrusi\u00f3n en la privacidad introducida con Windows 10 y 11, eufem\u00edsticamente denominada \u201ctelemetr\u00eda\u201d. \u00a1WinOptimizer pone fin a esto, de manera r\u00e1pida, f\u00e1cil y efectiva! Le devuelve la forma a su PC y la hace sentir como nueva nuevamente. Deje que WinOptimizer limpie, optimice y proteja su m\u00e1quina y disfrute de una PC con Windows r\u00e1pida, sencilla y segura con privacidad intacta, \u00a1permanentemente!",
-         "Desde": "",
-         "Hasta": "2024/04/03 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-25-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/scr-ashampoo-winoptimizer-25-automate.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "FOCUS Projects 4 PRO",
-         "Informacion": "Crea macros de libros de texto, n\u00edtidas y con detalles como nunca antes hab\u00edas visto. Con las nuevas tecnolog\u00edas de FOCUS Projects 4 Professional podr\u00e1s crear fotograf\u00edas macro de \u00faltima generaci\u00f3n que tienen una profundidad de enfoque fascinante y sacan a la luz detalles extraordinarios.",
-         "Desde": "",
-         "Hasta": "2024/04/03 09:00",
-         "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/09/focus415-519-1.jpg?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Commander",
-         "Informacion": "Administre, edite y vea sus fotos digitales",
-         "Desde": "",
-         "Hasta": "2024/04/03 09:00",
-         "URL": "https://www.bitsdujour.com/software/ashampoo-photo-commander/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/ashampoo-photo-commander-ufgz1.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "AOMEI MyRecover for iOS 1-Year Free License Key",
          "Informacion": "Si tambi\u00e9n est\u00e1s buscando una herramienta de recuperaci\u00f3n de datos de iPhone que pueda ayudarte a recuperar todos los datos perdidos o eliminados en el iPhone, entonces AOMEI MyRecover para iOS es definitivamente tu mejor opci\u00f3n. Con esta aplicaci\u00f3n simple y f\u00e1cil de usar, puede recuperar f\u00e1cilmente todos los datos vitales eliminados accidentalmente, como fotos, videos, notas de voz, contactos, notas, historial de llamadas, calendario, marcadores de Safari, recordatorios, etc. Tambi\u00e9n es compatible con diferentes dispositivos iOS, incluidos iPad Air, iPad mini, iPad Pro, iPod touch y iPad.",
@@ -129,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-myrecover-for-ios-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/03/aomei-myrecover-for-ios-boxshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "AOMEI MyRecover Pro 1-Year License Key for Free",
@@ -139,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-myrecover-pro-license-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/12/aomei-myrecover-pro.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Beanman by Archimedean Gaming",
@@ -149,7 +29,7 @@
          "URL": "https://archimedean-gaming.itch.io/beanman",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU3Nzk3OS8xNTM0NTY1NS5wbmc=/347x500/nPryXH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "AOMEI Cyber Backup 1-Year License Key Free 2024",
@@ -159,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-cyber-backup/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/03/aomei-cyber-backup.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "AOMEI FoneTool Professional 1-Year Key Free",
@@ -169,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-fonetool-professional-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/04/aomei-fonetool-professional.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coding Rabbits by Dragonaz",
@@ -179,7 +59,17 @@
          "URL": "https://dragonaz.itch.io/coddingrabbits",
          "IMG": "https://img.itch.zone/aW1hZ2UvODI0OTE2LzU2MzM4MDIucG5n/347x500/%2B0xMJX.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "Cubes in Danger 3 by gamesbyrd",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/04/04 00:00",
+         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzM1OC8xNTQwNTY4MS5wbmc=/347x500/T0Vthd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "To The Flame by Ezra Szanton, Fergus Ferguson",
@@ -189,7 +79,7 @@
          "URL": "https://ezra-szanton.itch.io/to-the-flame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MTkyMi8xNTE0MDg2Ny5wbmc=/347x500/i%2Fb8KT.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Replay Media Catcher 10",
@@ -199,6 +89,36 @@
          "URL": "https://sharewareonsale.com/s/free-replay-media-catcher-10-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/RCAT-box-640.png?9187",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Start Menu 8",
+         "Informacion": "Recupere su men\u00fa Inicio en Win8/Win10",
+         "Desde": "",
+         "Hasta": "2024/04/04 09:00",
+         "URL": "https://www.bitsdujour.com/software/start-menu-8/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/start-menu-8-xcrbv.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Start Menu 8 PRO Giveaway License Key for Free",
+         "Informacion": "Start Menu 8 es una aplicaci\u00f3n \u00fatil que devuelve el men\u00fa de inicio de Windows 10 al estilo familiar de Windows 7 y permite una mayor personalizaci\u00f3n con solo unos pocos clics del mouse. Adem\u00e1s, le brinda la opci\u00f3n de recuperar la barra de b\u00fasqueda local e intercambiar b\u00fasquedas web con Cortana.",
+         "Desde": "",
+         "Hasta": "2024/04/04 14:00",
+         "URL": "https://giveaway.tickcoupon.com/iobit-start-menu-8-pro-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/05/start-menu-8-pro.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MobiKin Assistant for iOS License Key Free 1-Year Giveaway",
+         "Informacion": "\u00bfEst\u00e1 buscando formas sencillas de realizar copias de seguridad, restaurar, transferir o administrar archivos en iPhone/iPad/iPod? MobiKin Assistant para iOS es adecuado para usted. MobiKin Assistant para iOS permite a los usuarios transferir archivos como m\u00fasica, pel\u00edculas, fotos, listas de reproducci\u00f3n, iTunes U, etc. a su computadora sin tener que usar iTunes de una manera f\u00e1cil y r\u00e1pida. Con \u00e9l, puedes deshacerte de la limitaci\u00f3n de iTunes y administrar los contenidos de iOS transferidos en la PC sin ning\u00fan problema. Funciona bien en plataformas Windows y Mac.",
+         "Desde": "",
+         "Hasta": "2024/04/04 15:00",
+         "URL": "https://giveaway.tickcoupon.com/free-license-mobikin-assistant-for-ios/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/09/mobikin-assistant-for-ios.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -292,6 +212,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2024/04/06 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
          "Desde": "",
@@ -308,16 +238,6 @@
          "Hasta": "2024/04/06 05:59",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2024/04/06 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -552,6 +472,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft Document Manager License Key Free 2024",
+         "Informacion": "Vovsoft Document Manager es una herramienta de administraci\u00f3n de archivos dise\u00f1ada para ayudarlo a administrar archivos de Word, Excel, PowerPoint y PDF en una sola pantalla. Tambi\u00e9n puede personalizar los tipos de archivos que desea administrar.",
+         "Desde": "",
+         "Hasta": "2024/04/08 15:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-document-manager-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/vovsoft-document-manager-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "First Person Stapler by Intimidation Crab",
          "Informacion": "\u00a1Obt\u00e9n la demostraci\u00f3n para probar los dos primeros niveles gratis!",
          "Desde": "",
@@ -578,6 +508,16 @@
          "Hasta": "2024/04/09 12:12",
          "URL": "https://clevertop.itch.io/temple-of-the-silver-dragon",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTAxMDIxOC81Nzc1OTYwLnBuZw==/347x500/T6xFTO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Office Cats by Ken's Studio",
+         "Informacion": "Los gatos corren en tu escritorio ayud\u00e1ndote a relajarte y reducir el estr\u00e9s",
+         "Desde": "",
+         "Hasta": "2024/04/09 19:00",
+         "URL": "https://ken-pham.itch.io/office-cats",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MTczOC8xNTQzMzcyOC5wbmc=/347x500/QZl%2Bgb.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -629,6 +569,26 @@
          "URL": "https://bulletwinter-games.itch.io/pumpkin-boi",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzk5NDcwLzQ0NzY5NDcucG5n/347x500/hK4zOL.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Auto Mouse Clicker",
+         "Informacion": "Software para mover y hacer clic con el mouse",
+         "Desde": "",
+         "Hasta": "2024/04/10 09:00",
+         "URL": "https://sharewareonsale.com/s/free-auto-mouse-clicker-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/auto-mouse-clicker.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DearMob iPhone Manager Giveaway License Key Free",
+         "Informacion": "DearMob iPhone Manager es el primer administrador de iOS del mundo que transfiere datos de iPhone con un m\u00e9todo de cifrado. Le permite administrar completamente sus datos de iOS. Incorporada est\u00e1 la capacidad de transferir fotos, videos y contactos de iPhone con grado de cifrado militar para evitar fugas de privacidad, realizar copias de seguridad y restaurar datos de iOS en orden temporal, y opciones para transferir selectivamente contenidos de 2 v\u00edas desde la computadora al iPhone, ya sea un foto, video, m\u00fasica, contacto, mensaje, iTunes U, Podcast, aplicaci\u00f3n, calendario, voz, archivo, etc. Su privacidad no es inmune a las filtraciones, prot\u00e9jala para evitar amenazas con DearMob iPhone Manager.",
+         "Desde": "",
+         "Hasta": "2024/04/10 15:00",
+         "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/dearmob-iphone-manager-giveaway-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -728,6 +688,16 @@
          "Hasta": "2024/04/16 08:59",
          "URL": "https://coffeedogteam.itch.io/zal-vs-may",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MDI1Mi8xNTQyNDk4OS5wbmc=/347x500/0OXSkV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Swarleynaut by MazskiGames",
+         "Informacion": "Swarleynaut es un shooter arcade de acci\u00f3n para un jugador. Lucha contra oleadas de naves espaciales enemigas e intenta superar tu puntuaci\u00f3n m\u00e1s alta.",
+         "Desde": "",
+         "Hasta": "2024/04/17 06:00",
+         "URL": "https://mazskigames.itch.io/swarleynaut",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM2NjgxNy8xNDAxNzUzOS5wbmc=/347x500/3UYu0O.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1272,6 +1242,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Geograph by Funky Tiger Highsaturn",
+         "Informacion": "infinitas formaciones para relajarse y dejarse perplejo",
+         "Desde": "",
+         "Hasta": "2024/07/01 07:00",
+         "URL": "https://qjzsezhi.itch.io/geograph",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTg2MTUvOTIwMzI5LmdpZg==/347x500/89EXBO.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Iota by Funky Tiger Highsaturn",
          "Informacion": "mascota de escritorio virtual",
          "Desde": "",
@@ -1288,16 +1268,6 @@
          "Hasta": "2024/07/01 07:00",
          "URL": "https://qjzsezhi.itch.io/key",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzc0MTU3LzE4NzY0MjQucG5n/347x500/fUhihI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Geograph by Funky Tiger Highsaturn",
-         "Informacion": "infinitas formaciones para relajarse y dejarse perplejo",
-         "Desde": "",
-         "Hasta": "2024/07/01 07:00",
-         "URL": "https://qjzsezhi.itch.io/geograph",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTg2MTUvOTIwMzI5LmdpZg==/347x500/89EXBO.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
