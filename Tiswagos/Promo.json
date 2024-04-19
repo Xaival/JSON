@@ -1,86 +1,6 @@
 {
-   "date_update": "18 Apr 2024 16:02 UTC",
+   "date_update": "19 Apr 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Ghostrunner",
-         "Informacion": "Ghostrunner ofrece una experiencia \u00fanica para un solo jugador con combates trepidantes y violentos, adem\u00e1s de una ambientaci\u00f3n que combina la ciencia ficci\u00f3n con temas postapocal\u00edpticos. Descubre la historia de un mundo que ha llegado a su fin y cuyos habitantes luchan por sob...",
-         "Desde": "2024/04/11",
-         "Hasta": "2024/04/18 17:00",
-         "URL": "https://store.epicgames.com/p/ghostrunner",
-         "IMG": "https://cdn1.epicgames.com/95d0b9561be1464cb43bd029e94cf526/offer/GR_Epic_Landscape_Offer2560x1440-2560x1440-08987c0c3e1701ea6a7217ed5616922d.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "A Peaceful Camping by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/04/18 23:00",
-         "URL": "https://al7ussain.itch.io/a-peacful-camping",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzMjY0NC8xNTExNjc5OS5wbmc=/347x500/PHT4im.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "RPG MK. II Beta by BlueEagle421",
-         "Informacion": "Este es un juego de disparos trepidante en 2D que pondr\u00e1 a prueba tus habilidades en m\u00faltiples \u00e1reas. Tendr\u00e1s que actuar y pensar r\u00e1pido para derrotar a tus enemigos. El juego cuenta con dos campa\u00f1as apasionantes, cada una con una historia \u00fanica, y ofrece muchos elementos desbloqueables.",
-         "Desde": "",
-         "Hasta": "2024/04/18 23:14",
-         "URL": "https://blueeagle421.itch.io/rpg-mk-ii",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5MTA0Mi8xMjk0MTk4OS5wbmc=/347x500/1Ak5te.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "Super Space Siege by BlueEagle421",
-         "Informacion": "Juego creado para\u00a0GBJam 11. El tema era \"Espacio\" y decid\u00ed seguirlo literalmente. La jugabilidad es principalmente una defensa de torres est\u00e1ndar con un peque\u00f1o giro: tu personaje principal es una de las torretas. Tu misi\u00f3n es\u00a0defender los nueve artefactos\u00a0mientras oleadas de enemigos se acercan a ti.\r\nVersi\u00f3n actual:\u00a01.32",
-         "Desde": "",
-         "Hasta": "2024/04/18 23:14",
-         "URL": "https://blueeagle421.itch.io/super-space-siege",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMjEwNy8xMzY0MjMyOS5wbmc=/347x500/VJbm5r.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "Tooth Fairy by BlueEagle421",
-         "Informacion": "Un juego de construcci\u00f3n con clicker que hice en tres d\u00edas para Mini Jam 139. Mientras dise\u00f1aba este proyecto decid\u00ed centrarme mucho en el tema y, en general, en la limitaci\u00f3n. Sin embargo, presenta una gran cantidad de RNG (que es como yo interpretar\u00eda el lanzamiento de una moneda).",
-         "Desde": "",
-         "Hasta": "2024/04/18 23:14",
-         "URL": "https://blueeagle421.itch.io/tooth-fairy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyNzM2MC8xMzE4Mzg4My5wbmc=/347x500/XmOdn8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "Airships and Trains Tilesets by Starbird Game Art",
-         "Informacion": "Esta colecci\u00f3n de 8 hojas de mosaicos presenta muchas aeronaves, aviones, trenes y objetos de tem\u00e1tica similar.",
-         "Desde": "",
-         "Hasta": "2024/04/19 06:00",
-         "URL": "https://starbirdresources.itch.io/airships-and-trains-tilesets",
-         "IMG": "https://img.itch.zone/aW1nLzMyMTcyNTEucG5n/347x500/0HJGwx.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Card 2",
-         "Informacion": "Ashampoo Photo Card 2 es la soluci\u00f3n intuitiva y sencilla para convertir tus fotos en impresionantes tarjetas de felicitaci\u00f3n con bordes y textos con unos pocos clics. Mu\u00e9strale a alguien que te importa y env\u00eda tu propia tarjeta de felicitaci\u00f3n personalizada. Con Ashampoo Photo Card 2, convertir fotos en tarjetas de felicitaci\u00f3n se convierte en una simple operaci\u00f3n de apuntar y hacer clic: seleccionar una foto o tomar una instant\u00e1nea de la c\u00e1mara web, seleccionar un tema, editar texto, enviar una tarjeta.",
-         "Desde": "",
-         "Hasta": "2024/04/19 09:00",
-         "URL": "https://sharewareonsale.com/s/ashampoo-photo-card-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/01/box_ashampoo_photo_card_2_800x800-200x200.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Video Watermark Pro",
-         "Informacion": "Aplique marcas de agua a videos r\u00e1pidamente",
-         "Desde": "",
-         "Hasta": "2024/04/19 09:00",
-         "URL": "https://www.bitsdujour.com/software/video-watermark-pro-2/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/video-watermark-pro-2-lu1lc.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "MacX Video Converter PRO Free License Key",
          "Informacion": "MacX Video Converter Pro es un software todo en uno para Mac para descargar, convertir, editar y grabar videos en pantalla. MacX Video Converter Pro le permite descargar videos y m\u00fasica de sitios web y convertir videos de Youtube a Mp3 y Mp4 para reproducirlos sin conexi\u00f3n.",
@@ -89,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/macx-video-converter-pro-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/macx-video-converter-pro.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Jumping Slime by M_earn",
@@ -99,7 +19,7 @@
          "URL": "https://m-earn.itch.io/jumping-slime",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY1MTE0NS8xNTc5NTQxOC5wbmc=/347x500/q2d%2BiP.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "CHOMBY THE ZOMBIE by LEGACY STUDIOS / SkyWolf Music",
@@ -109,7 +29,7 @@
          "URL": "https://legacy-studios-germany.itch.io/chomby-the-zombie",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIwMjY0NS83MDE2NjEwLmpwZw==/347x500/so0MwF.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "GORE TRIP by LEGACY STUDIOS / SkyWolf Music",
@@ -119,7 +39,7 @@
          "URL": "https://legacy-studios-germany.itch.io/gore-trip",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIyNzU3OC83MTU4MzM5LnBuZw==/347x500/XYqfMO.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "GUARDIAN OF NATURE - Green Blood Edition (Anime-Style-First Person Shooter) by LEGACY STUDIOS / SkyWolf Music",
@@ -129,7 +49,7 @@
          "URL": "https://legacy-studios-germany.itch.io/guardian-of-nature-green-blood-edition-anime-style-first-person-shooter",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU4NDU4My85MjYwNjM2LnBuZw==/347x500/1hyOLy.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "KILL IT WITH STYLE by LEGACY STUDIOS / SkyWolf Music",
@@ -139,7 +59,7 @@
          "URL": "https://legacy-studios-germany.itch.io/kill-it-with-style",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg0OTI0OC8xMTA3NjA0MC5qcGc=/347x500/yJhto0.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "MAMA Ball - a mother\u00c2\u00b4s day game (Android & Windows) by LEGACY STUDIOS / SkyWolf Music",
@@ -149,7 +69,7 @@
          "URL": "https://legacy-studios-germany.itch.io/mama-ball-a-mothers-day-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUxNjk2MS84ODQ2NDQ4LmpwZw==/347x500/aLOJjt.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Super Danny  (3D - Jump and Run for ANDROID and WINDOWS) by LEGACY STUDIOS / SkyWolf Music",
@@ -159,7 +79,7 @@
          "URL": "https://legacy-studios-germany.itch.io/super-danny",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMwNDM4Ni83NTg3Mjg4LnBuZw==/347x500/uUR45g.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -169,7 +89,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -179,7 +99,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -189,7 +109,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "1500 High Resolution Backgrounds Bundle",
@@ -199,7 +119,7 @@
          "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Allavsoft Downloader",
@@ -209,7 +129,7 @@
          "URL": "https://sharewareonsale.com/s/free-allavsoft-downloader-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/01/screen-shot-600-200x141.jpg?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Ashampoo Money",
@@ -219,27 +139,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-money-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/Ashampoo-Money-boxshot.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "DoYourClone",
-         "Informacion": "Software de clonaci\u00f3n de discos potente, seguro y f\u00e1cil de usar.",
-         "Desde": "",
-         "Hasta": "2024/04/20 09:00",
-         "URL": "https://sharewareonsale.com/s/free-doyourclone-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/01/doyourclone-200-200.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "SecuPerts First Aid Kit",
-         "Informacion": "\u00a1El botiqu\u00edn de primeros auxilios para tus datos y tu instalaci\u00f3n de Windows!",
-         "Desde": "",
-         "Hasta": "2024/04/20 09:00",
-         "URL": "https://sharewareonsale.com/s/free-secuperts-first-aid-kit-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/firstaidkit-box-left-1000-1-1-200x258.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Audials One 2024",
@@ -249,7 +149,37 @@
          "URL": "https://sharewareonsale.com/s/free-audials-one-2024-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/Audials-One-2024-SE_EN_4.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "DoYourClone",
+         "Informacion": "Software de clonaci\u00f3n de discos potente, seguro y f\u00e1cil de usar.",
+         "Desde": "",
+         "Hasta": "2024/04/20 09:00",
+         "URL": "https://sharewareonsale.com/s/free-doyourclone-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/01/doyourclone-200-200.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "SecuPerts First Aid Kit",
+         "Informacion": "\u00a1El botiqu\u00edn de primeros auxilios para tus datos y tu instalaci\u00f3n de Windows!",
+         "Desde": "",
+         "Hasta": "2024/04/20 09:00",
+         "URL": "https://sharewareonsale.com/s/free-secuperts-first-aid-kit-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/firstaidkit-box-left-1000-1-1-200x258.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Snap 15",
+         "Informacion": "Capture y anote cualquier cosa en la pantalla",
+         "Desde": "",
+         "Hasta": "2024/04/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/ashampoo-snap-15/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/ashampoo-snap-15-dwklu.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Ashampoo Disk Space Explorer",
@@ -262,22 +192,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "DoYourClone for Windows License Key Free 2024",
-         "Informacion": "DoYourClone para Windows es un programa de clonaci\u00f3n de discos potente, 100% seguro y f\u00e1cil de usar. Puede ayudarle a clonar de forma f\u00e1cil y segura un sistema de disco duro, HDD, SSD, unidad flash USB, tarjeta de memoria, RAID, servidor, etc. Es totalmente compatible con Windows 10, Windows 8/8.1, Windows 7, Windows Vista y Sistema operativo Windows Server.",
-         "Desde": "",
-         "Hasta": "2024/04/20 15:00",
-         "URL": "https://giveaway.tickcoupon.com/doyourclone-for-windows-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/03/doyourclone-for-windows-2022.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "DoYourClone for Mac Free License Key 2024",
          "Informacion": "Si desea clonar un disco duro en Mac o hacer una copia de seguridad de los datos de su disco duro, pruebe DoYourClone para Mac. Es un software de clonaci\u00f3n de disco 100% seguro y limpio para Mac OS. DoYourClone para Mac es un software de clonaci\u00f3n de discos Mac potente pero f\u00e1cil de usar. Puede ayudarle a clonar discos duros, copiar datos y crear im\u00e1genes de disco de forma segura y sencilla en Mac.",
          "Desde": "",
          "Hasta": "2024/04/20 15:00",
          "URL": "https://giveaway.tickcoupon.com/free-license-key-doyourclone-for-mac/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/doyourclone-giveaway-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DoYourClone for Windows License Key Free 2024",
+         "Informacion": "DoYourClone para Windows es un programa de clonaci\u00f3n de discos potente, 100% seguro y f\u00e1cil de usar. Puede ayudarle a clonar de forma f\u00e1cil y segura un sistema de disco duro, HDD, SSD, unidad flash USB, tarjeta de memoria, RAID, servidor, etc. Es totalmente compatible con Windows 10, Windows 8/8.1, Windows 7, Windows Vista y Sistema operativo Windows Server.",
+         "Desde": "",
+         "Hasta": "2024/04/20 15:00",
+         "URL": "https://giveaway.tickcoupon.com/doyourclone-for-windows-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/03/doyourclone-for-windows-2022.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -322,6 +252,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Duplicate File Finder",
+         "Informacion": "Casi todos los sistemas Windows contienen numerosos archivos duplicados. Ashampoo Duplicate Finder busca y elimina archivos redundantes y permite a los usuarios recuperar su espacio en disco. Para garantizar que sus aplicaciones sigan funcionando sin problemas, el programa mantiene un archivo maestro y reemplaza todas las copias redundantes con enlaces f\u00edsicos a ese archivo. Cuando una aplicaci\u00f3n intenta acceder a una copia eliminada, utilizar\u00e1 el archivo maestro. \u00a1Es un enfoque inteligente que evita por completo los problemas con los archivos y simplemente no es factible solo con la eliminaci\u00f3n manual de archivos! \u00bfPero de d\u00f3nde vienen los archivos duplicados? Pueden deberse a descargas repetidas o configuraciones de programas en las que cada uno proporciona su propia copia de los archivos de la biblioteca del sistema. Incluso el propio Windows tiende a crear archivos redundantes en unidades y ubicaciones de guardado. Ashampoo Duplicate File Finder escanea sistemas Windows a velocidades vertiginosas y presenta los resultados claramente ordenados por tipo de archivo, incluidos documentos, archivos de audio y video. Los usuarios pueden revisar coincidencias individuales y excluir permanentemente archivos para que no se eliminen, si es necesario. Pruebas exhaustivas han demostrado que los archivos duplicados pueden ocupar una cantidad significativa de espacio en disco y al mismo tiempo proporcionar poco o ning\u00fan beneficio aparte de la redundancia de archivos. Reemplazarlos con enlaces f\u00edsicos a un \u00fanico archivo maestro libera instant\u00e1neamente espacio en disco sin costo de rendimiento perceptible y con poco o ning\u00fan riesgo. Y Ashampoo Duplicate File Finder viene con un mecanismo de seguridad: \u00a1se crea una copia de seguridad antes de cada modificaci\u00f3n del sistema para que los usuarios puedan revertirla en cuesti\u00f3n de segundos!",
+         "Desde": "",
+         "Hasta": "2024/04/21 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-duplicate-file-finder-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/front1-1-1.png?9187",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Undeleter",
          "Informacion": "Nunca m\u00e1s tendr\u00e1s problemas con archivos borrados accidentalmente",
          "Desde": "",
@@ -342,12 +282,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ashampoo Duplicate File Finder",
-         "Informacion": "Casi todos los sistemas Windows contienen numerosos archivos duplicados. Ashampoo Duplicate Finder busca y elimina archivos redundantes y permite a los usuarios recuperar su espacio en disco. Para garantizar que sus aplicaciones sigan funcionando sin problemas, el programa mantiene un archivo maestro y reemplaza todas las copias redundantes con enlaces f\u00edsicos a ese archivo. Cuando una aplicaci\u00f3n intenta acceder a una copia eliminada, utilizar\u00e1 el archivo maestro. \u00a1Es un enfoque inteligente que evita por completo los problemas con los archivos y simplemente no es factible solo con la eliminaci\u00f3n manual de archivos! \u00bfPero de d\u00f3nde vienen los archivos duplicados? Pueden deberse a descargas repetidas o configuraciones de programas en las que cada uno proporciona su propia copia de los archivos de la biblioteca del sistema. Incluso el propio Windows tiende a crear archivos redundantes en unidades y ubicaciones de guardado. Ashampoo Duplicate File Finder escanea sistemas Windows a velocidades vertiginosas y presenta los resultados claramente ordenados por tipo de archivo, incluidos documentos, archivos de audio y video. Los usuarios pueden revisar coincidencias individuales y excluir permanentemente archivos para que no se eliminen, si es necesario. Pruebas exhaustivas han demostrado que los archivos duplicados pueden ocupar una cantidad significativa de espacio en disco y al mismo tiempo proporcionar poco o ning\u00fan beneficio aparte de la redundancia de archivos. Reemplazarlos con enlaces f\u00edsicos a un \u00fanico archivo maestro libera instant\u00e1neamente espacio en disco sin costo de rendimiento perceptible y con poco o ning\u00fan riesgo. Y Ashampoo Duplicate File Finder viene con un mecanismo de seguridad: \u00a1se crea una copia de seguridad antes de cada modificaci\u00f3n del sistema para que los usuarios puedan revertirla en cuesti\u00f3n de segundos!",
+         "Nombre": "MonsterWriter Pro",
+         "Informacion": "\u00a1Diga adi\u00f3s a las dificultades para escribir tesis y hola a una productividad y un \u00e9xito inigualables!",
          "Desde": "",
          "Hasta": "2024/04/21 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-duplicate-file-finder-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/front1-1-1.png?9187",
+         "URL": "https://sharewareonsale.com/s/free-monsterwriter-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/screenshot_monster_writer_pro.png?9187",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -539,6 +479,16 @@
          "URL": "https://thatasiankid69.itch.io/abasicplatformer",
          "IMG": "https://img.itch.zone/aW1nLzE1NjYyNjkzLnBuZw==/347x500/po5x8K.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "2000 Professional Lightroom Presets",
+         "Informacion": "\u00a1Ahora no necesitas pasar horas en Lightroom!",
+         "Desde": "",
+         "Hasta": "2024/04/27 09:00",
+         "URL": "https://sharewareonsale.com/s/free-1000-professional-lightroom-presets-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/06/Main-Image-9-min-4-200x109.jpg?9187",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
