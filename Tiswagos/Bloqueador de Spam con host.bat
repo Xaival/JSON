@@ -59,6 +59,8 @@ mode con:cols=65 lines=16
   REM Añadir nuevas lineas dentro del host >> para agregar
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo. >> %systemroot%\System32\drivers\etc\hosts
+  echo 0.0.0.0  #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 api.adultdeepfakes.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 886.novitrk6.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 aeffe3nhrua5hua.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 blacknesskeepplan.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -291,6 +293,9 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.secretopasional.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.singleflirt.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.topmaduras.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 meetyoursoulmate.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 bsdatingservice.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 creative.mnaspm.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.xvidzz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 thebestgame2020.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 best.aliexpress.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
