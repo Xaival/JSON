@@ -60,7 +60,6 @@ mode con:cols=65 lines=16
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo. >> %systemroot%\System32\drivers\etc\hosts
   echo 0.0.0.0  #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 api.adultdeepfakes.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 886.novitrk6.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 aeffe3nhrua5hua.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 blacknesskeepplan.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -116,6 +115,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 alleviatepracticableaddicted.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 alpidoveon.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ammankeyan.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 api.adultdeepfakes.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 apprefaculty.pro #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 apps-prm.ctengine.io #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ashcdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -268,6 +268,8 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 bestlike-girl.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bigjoynow.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bl.flirtme.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 bsdatingservice.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 creative.mnaspm.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 creative.xlivrdr.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 eu.adultporno.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 familysimulatorgames.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -282,6 +284,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 local-sexx.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 lonelypartners.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 maidr.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 meetyoursoulmate.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 onlyfreelatinaporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 secret-flirt-hub.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 t49.citasconmujeres.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -293,9 +296,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.secretopasional.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.singleflirt.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.topmaduras.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 meetyoursoulmate.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 bsdatingservice.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 creative.mnaspm.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.xvidzz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 thebestgame2020.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 best.aliexpress.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
