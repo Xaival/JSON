@@ -1,46 +1,6 @@
 {
-   "date_update": "01 May 2024 16:03 UTC",
+   "date_update": "02 May 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Night Milking by winabees",
-         "Informacion": "Una peque\u00f1a aventura sobre el orde\u00f1o de noche",
-         "Desde": "",
-         "Hasta": "2024/05/01 20:00",
-         "URL": "https://winabees.itch.io/night-milking",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NDM5OC8xNDU1MTA1OS5wbmc=/347x500/tCUZMW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Plumbing Night by winabees",
-         "Informacion": "Eres fontanero y alguien quiere arreglar sus tuber\u00edas en el s\u00f3tano.",
-         "Desde": "",
-         "Hasta": "2024/05/01 20:00",
-         "URL": "https://winabees.itch.io/plumbing-night",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzkxNC8xMzEyMTYzOC5wbmc=/347x500/FBEPq1.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "O&O SafeErase 17 Pro",
-         "Informacion": "La soluci\u00f3n completa para la protecci\u00f3n de tus datos",
-         "Desde": "",
-         "Hasta": "2024/05/02 09:00",
-         "URL": "https://sharewareonsale.com/s/free-oo-safeerase-17-pro-100-discount",
-         "IMG": "https://sharewareonsale.com/wp-content/uploads/2024/04/O-O-SafeErase-Professional-Boxshot.png",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Photo Enhancer AI",
-         "Informacion": "Una soluci\u00f3n de mejora de im\u00e1genes y fotograf\u00edas basada en IA para ampliar fotograf\u00edas, reducir el ruido y eliminar las im\u00e1genes borrosas.",
-         "Desde": "",
-         "Hasta": "2024/05/02 09:00",
-         "URL": "https://sharewareonsale.com/s/free-photo-enhancer-ai-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/901-200x200.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Firelinker by SeeOne",
          "Informacion": "\"Cada 500 a\u00f1os, nace un legendario drag\u00f3n enlazador de fuego, con el \u00fanico prop\u00f3sito de unir la llama y mantener vivos a los dragonantes\".",
@@ -49,7 +9,7 @@
          "URL": "https://seeone.itch.io/firelinker",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU4OTI1MS8xNTYxOTM2Ni5wbmc=/347x500/xYUkxy.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "INDUSTRIA",
@@ -59,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/industria",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_INDUSTRIA_Bleakmill_S1_2560x1440-6ac8f445f036547e0f7cc20dd4fd814f",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Agony by Guillotine",
@@ -69,7 +29,7 @@
          "URL": "https://khoyman.itch.io/agony",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ4MTUyMy8xNDc2MjAxMC5qcGc=/347x500/bN%2FVfF.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "ChronoPhobia by Guillotine",
@@ -79,7 +39,7 @@
          "URL": "https://khoyman.itch.io/chronophobia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDkyNC8xMjgzODUwOC5naWY=/347x500/Hya3B1.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "ChronoPhobia_Ep2(TheCross) by Guillotine",
@@ -89,7 +49,7 @@
          "URL": "https://khoyman.itch.io/chronophobia-ep2thecross",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE5OTUzOS8xMzAxMzQ3Mi5qcGc=/347x500/f02fCw.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Delusion by Guillotine",
@@ -99,7 +59,7 @@
          "URL": "https://khoyman.itch.io/delusion",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NzYyOC8xNDY0NDE4Ny5qcGc=/347x500/Fc8DCk.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Devil's Valley by Guillotine",
@@ -109,7 +69,7 @@
          "URL": "https://khoyman.itch.io/devils-valley",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjYzNDM0Ny8xNTcyMDI2OS5qcGc=/347x500/vufTs%2F.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "IRON BELLY by Guillotine",
@@ -119,7 +79,7 @@
          "URL": "https://khoyman.itch.io/iron-belly",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5OTA5OS8xNTUwNjM2Mi5qcGc=/347x500/tll25s.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Midnight Hobbies - Collection 1 by Guillotine",
@@ -129,7 +89,7 @@
          "URL": "https://khoyman.itch.io/midnight-hobbies1",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY1MDk3NS8xNTgwMTY1Ny5naWY=/347x500/hMz%2FXV.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "One Night in Baiko by Guillotine",
@@ -139,7 +99,7 @@
          "URL": "https://khoyman.itch.io/one-night-in-baiko",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI3ODEwMC8xMzQ5OTA2OC5wbmc=/347x500/baQMbK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Revive by Guillotine",
@@ -149,7 +109,7 @@
          "URL": "https://khoyman.itch.io/revive",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ5NDM4My8xNTEyMDU0Ny5naWY=/347x500/fDA6S8.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "The Deepest Frequency by Guillotine",
@@ -159,7 +119,7 @@
          "URL": "https://khoyman.itch.io/thedeepestfrequency",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIzNTQ1MC8xMzIzOTE1Ny5qcGc=/347x500/Gl8rnM.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Dino X Gost TD by Elxuj777",
@@ -169,7 +129,7 @@
          "URL": "https://elxuj777.itch.io/dino-x-gost-td",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY2NzA3NS8xNTg5NDAxNi5qcGVn/347x500/YisZRf.jpeg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Forest Beta version 1.0 by Monster Energi Games",
@@ -179,7 +139,7 @@
          "URL": "https://poop-game-makers.itch.io/forest-beta-version-10",
          "IMG": "https://img.itch.zone/aW1nLzExMjY5NDc2LnBuZw==/347x500/%2FcCvlN.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Gost Shooter by Elxuj777",
@@ -189,7 +149,7 @@
          "URL": "https://elxuj777.itch.io/gost-shooter",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MjY0MS8xNTg5NDA4MS5wbmc=/347x500/M0K%2Bfz.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "GTA V lite (mobile) by Elxuj777",
@@ -199,7 +159,7 @@
          "URL": "https://elxuj777.itch.io/gta-v-lite-mobile",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY2OTQ1My8xNTkwODQ5Ni5qcGVn/347x500/4L8wpp.jpeg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "High Life Racing by Elxuj777",
@@ -209,7 +169,7 @@
          "URL": "https://elxuj777.itch.io/high-life-racing",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY2MDMxNS8xNTg1MjcyMS5qcGc=/347x500/QgGhqZ.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ashampoo Snap 15",
@@ -219,7 +179,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-snap-15-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/scr-ashampoo-snap-15-presentation.jpg?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Smart Game Booster 5 Pro",
@@ -229,6 +189,26 @@
          "URL": "https://sharewareonsale.com/s/free-smart-game-booster-5-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/sgb-box1.png?9187",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "SWF to GIF Converter",
+         "Informacion": "Convierta archivos SWF en GIF compatibles con dispositivos m\u00f3viles",
+         "Desde": "",
+         "Hasta": "2024/05/03 09:00",
+         "URL": "https://www.bitsdujour.com/software/swf-to-gif-converter/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/swf-to-gif-converter-uuazw.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "SWF to GIF Converter License Key for Free Giveaway 2024",
+         "Informacion": "SWF to GIF Converter es un software de conversi\u00f3n que le ayudar\u00e1 a convertir archivos Flash SWF a animaciones GIF y mantener las im\u00e1genes din\u00e1micas y la calidad original sin utilizar ning\u00fan complemento. Tambi\u00e9n admite la captura de una sola imagen de los archivos SWF. Adem\u00e1s, tambi\u00e9n puedes utilizar el software de marcas de agua para dise\u00f1ar tu propio logotipo GIF.",
+         "Desde": "",
+         "Hasta": "2024/05/03 14:00",
+         "URL": "https://giveaway.tickcoupon.com/swf-to-gif-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/08/SWF-to-GIF-Converter.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -272,6 +252,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "2000 Professional Lightroom Presets",
+         "Informacion": "\u00a1Ahora no necesitas pasar horas en Lightroom!",
+         "Desde": "",
+         "Hasta": "2024/05/04 09:00",
+         "URL": "https://sharewareonsale.com/s/free-1000-professional-lightroom-presets-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/06/Main-Image-9-min-4-200x109.jpg?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Minesweeper: ESCAPE by DV GameDev",
          "Informacion": "",
          "Desde": "",
@@ -302,6 +292,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vov Sticky Notes License Key for Free 2024",
+         "Informacion": "Vov Sticky Notes es un software \u00fatil que te ayuda a crear pegatinas, recordatorios y a tener a mano informaci\u00f3n importante. La funci\u00f3n principal del software es permitirle colocar pegatinas coloridas en su escritorio. Por lo tanto, puede crear tantos como desee, cambiar su tama\u00f1o y cambiar la fuente del texto, pero no hay ninguna opci\u00f3n para ocultar la barra de t\u00edtulo y los botones Eliminar y Nuevo.",
+         "Desde": "",
+         "Hasta": "2024/05/06 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vov-sticky-notes-license-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/11/vov-sticky-notes-license-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2024/05/06 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2024/05/06 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2024/05/06 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "3300 Transparent People Stock Images Mega Bundle",
          "Informacion": "Este enorme paquete presenta m\u00e1s de 3300 im\u00e1genes de archivo de personas transparentes organizadas en m\u00e1s de 90 categor\u00edas diversas y \u00fanicas para ahorrar tiempo para su conveniencia. Eche un vistazo r\u00e1pido a las im\u00e1genes vers\u00e1tiles incluidas en este mega paquete:",
          "Desde": "",
@@ -312,22 +342,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "EMOTION Projects Pro",
-         "Informacion": "Experimente la diferencia que puede hacer una nueva atm\u00f3sfera de imagen con EMOTION Projects Professional. \u00a1Edita fotos de forma creativa como nunca antes!",
-         "Desde": "",
-         "Hasta": "2024/05/07 09:00",
-         "URL": "https://sharewareonsale.com/s/free-emotion-projects-pro-100-discount",
-         "IMG": "https://sharewareonsale.com/wp-content/uploads/2024/04/emotion_projects_pro.png",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "500 Professional Photoshop Actions Bundle",
          "Informacion": "\u00a1Presentamos las 500 incre\u00edbles acciones de Photoshop que te permitir\u00e1n crear fotograf\u00edas incre\u00edbles con un solo clic!",
          "Desde": "",
          "Hasta": "2024/05/07 09:00",
          "URL": "https://sharewareonsale.com/s/free-500-professional-photoshop-actions-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/500-Professional-Photoshop-Actions-Bundle-200x133.jpg?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "EMOTION Projects Pro",
+         "Informacion": "Experimente la diferencia que puede hacer una nueva atm\u00f3sfera de imagen con EMOTION Projects Professional. \u00a1Edita fotos de forma creativa como nunca antes!",
+         "Desde": "",
+         "Hasta": "2024/05/07 09:00",
+         "URL": "https://sharewareonsale.com/s/free-emotion-projects-pro-100-discount",
+         "IMG": "https://sharewareonsale.com/wp-content/uploads/2024/04/emotion_projects_pro.png",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -389,7 +419,7 @@
          "URL": "https://store.epicgames.com/p/cat-quest-ii-9dbefc",
          "IMG": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Orcs Must Die! 3",
@@ -399,7 +429,7 @@
          "URL": "https://store.epicgames.com/p/combo-a7e03a",
          "IMG": "https://cdn1.epicgames.com/spt-assets/af503dd7e8b64218b69c22a9003de268/orcs-must-die-3-1puow.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "SCAFFOLDEDGE by Snekjar",
@@ -482,16 +512,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Last Tree by gamesbyrd",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/05/11 00:00",
-         "URL": "https://gamesbyrd.itch.io/the-last-tree",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxNzUxOC8xNTU5MjM2NC5wbmc=/347x500/ZzpRmP.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "The cursed cake! by Tuftuf-Games",
          "Informacion": "versi\u00f3n en ingl\u00e9s a continuaci\u00f3n.",
          "Desde": "",
@@ -502,13 +522,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "PURE HDR",
-         "Informacion": "PURE HDR es la herramienta para todos los profesionales de HDR que buscan inculcar detalles fascinantes y v\u00edvidos en sus trabajos fotogr\u00e1ficos mediante la utilizaci\u00f3n de espectros completos de luz y color. En forma de extensi\u00f3n de complemento, PURE HDR funciona con las \u00faltimas capacidades de edici\u00f3n HDR de 32 bits de las galardonadas colecciones de proyectos FRANZIS HDR directamente en Lightroom\u00ae y Photoshop\u00ae.",
+         "Nombre": "The Last Tree by gamesbyrd",
+         "Informacion": "",
          "Desde": "",
-         "Hasta": "2024/05/11 09:00",
-         "URL": "https://sharewareonsale.com/s/free-pure-hdr-100-discount",
-         "IMG": "https://sharewareonsale.com/wp-content/uploads/2022/05/x30979-0_01_1280x1280_png_pagespeed_ic_dk_N3-wugc-200x287.png",
-         "Distribuidora": "SharewareOnSale",
+         "Hasta": "2024/05/11 00:00",
+         "URL": "https://gamesbyrd.itch.io/the-last-tree",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxNzUxOC8xNTU5MjM2NC5wbmc=/347x500/ZzpRmP.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -518,6 +538,16 @@
          "Hasta": "2024/05/11 09:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-duplicate-file-finder-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/front1-1-1.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PURE HDR",
+         "Informacion": "PURE HDR es la herramienta para todos los profesionales de HDR que buscan inculcar detalles fascinantes y v\u00edvidos en sus trabajos fotogr\u00e1ficos mediante la utilizaci\u00f3n de espectros completos de luz y color. En forma de extensi\u00f3n de complemento, PURE HDR funciona con las \u00faltimas capacidades de edici\u00f3n HDR de 32 bits de las galardonadas colecciones de proyectos FRANZIS HDR directamente en Lightroom\u00ae y Photoshop\u00ae.",
+         "Desde": "",
+         "Hasta": "2024/05/11 09:00",
+         "URL": "https://sharewareonsale.com/s/free-pure-hdr-100-discount",
+         "IMG": "https://sharewareonsale.com/wp-content/uploads/2022/05/x30979-0_01_1280x1280_png_pagespeed_ic_dk_N3-wugc-200x287.png",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -562,6 +592,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AudKit Apple Music Converter License Key for Free 2024",
+         "Informacion": "Si est\u00e1 buscando una aplicaci\u00f3n de conversi\u00f3n de audio que pueda ayudarlo a cambiar archivos bloqueados en iTunes de MP4 a MP3 de excelente calidad, definitivamente deber\u00eda darle una oportunidad a AudKit Apple Music Converter. Dise\u00f1ada con una interfaz simple y f\u00e1cil de usar, esta herramienta de conversi\u00f3n de audio le permite convertir canciones, listas de reproducci\u00f3n, \u00e1lbumes, etc. de Apple Music a MP3, FLAC, WAV, M4A, AAC y M4B para reproducirlos sin conexi\u00f3n sin ninguna restricci\u00f3n. .",
+         "Desde": "",
+         "Hasta": "2024/05/15 18:00",
+         "URL": "https://giveaway.tickcoupon.com/audkit-apple-music-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/05/audkit-apple-music-converter.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ExiDourus by Green Woltec",
          "Informacion": "Te despiertas en mitad de la noche y escuchas un ruido. Mira lo que te espera en el juego de supervivencia de ExiDourus. \u00bfQu\u00e9 te espera? Habitaciones l\u00fagubres y oscuras y un monstruo que te persigue. Intenta encontrar la salida a tiempo.",
          "Desde": "",
@@ -590,6 +630,26 @@
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg0ODUxNS8xMDg1MDAzNC5wbmc=/347x500/EOghGr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Circus Electrique",
+         "Informacion": "Circus Electrique es mezcla de RPG narrativo, t\u00e1cticas y gesti\u00f3n circense. Cuando los londinenses de a pie se convierten misteriosamente en despiadados asesinos, solo los prodigiosos artistas del espect\u00e1culo poseen las habilidades necesarias para salvar la ciudad. ",
+         "Desde": "2024/05/09",
+         "Hasta": "2024/05/16 17:00",
+         "URL": "https://store.epicgames.com/p/circus-electrique",
+         "IMG": "https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S1_2560x1440-0f035a36376dd51b907662f4cd121553",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Firestone Free Offer",
+         "Informacion": "Get 200 Gems, 10 Common chests, 5 Uncommon chests, 10 Wooden chests, 5 Iron Chests, 360 Strange Dust, 50 Scrolls, 2 exclusive Avatars, 35 Game Tokens, 5 Prestige Token and 2 exclusive Skins.",
+         "Desde": "2024/05/09",
+         "Hasta": "2024/05/16 17:00",
+         "URL": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-orbit.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "onlineTV 19",
@@ -712,52 +772,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego dif\u00edcil en 2D con trampas dif\u00edciles.",
+         "Nombre": "Fish Runner by AL7USSAIN",
+         "Informacion": "Fish Runner es un divertido juego 2d sin fin",
          "Desde": "",
          "Hasta": "2024/05/30 23:00",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/05/30 23:00",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2024/05/30 23:00",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/05/30 23:00",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2024/05/30 23:00",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "URL": "https://al7ussain.itch.io/fish-runner",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDU2Ny8xMjgzNTM0My5wbmc=/347x500/FOKU8J.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -772,12 +792,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "STRIKE by AL7USSAIN",
+         "Nombre": "Here We Go Again by AL7USSAIN",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2024/05/30 23:00",
-         "URL": "https://al7ussain.itch.io/strike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDM2MC8xMzAzMzA0Ny5qcGc=/347x500/fIRkaF.jpg",
+         "URL": "https://al7ussain.itch.io/hear-we-go-again",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
+         "Desde": "",
+         "Hasta": "2024/05/30 23:00",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego dif\u00edcil en 2D con trampas dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2024/05/30 23:00",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/05/30 23:00",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -792,22 +842,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Fish Runner by AL7USSAIN",
-         "Informacion": "Fish Runner es un divertido juego 2d sin fin",
+         "Nombre": "STRIKE by AL7USSAIN",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2024/05/30 23:00",
-         "URL": "https://al7ussain.itch.io/fish-runner",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NDU2Ny8xMjgzNTM0My5wbmc=/347x500/FOKU8J.png",
+         "URL": "https://al7ussain.itch.io/strike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwNDM2MC8xMzAzMzA0Ny5qcGc=/347x500/fIRkaF.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Zombie Town_ Living In The City by Yuneek",
-         "Informacion": "Un sencillo juego de zombies que hice con emparejamiento en l\u00ednea. Tiene un modo para un jugador bastante simple, todo lo que tienes que hacer es cargar un juego t\u00fa mismo y te dar\u00e1 un cron\u00f3metro e intentar\u00e1s sobrevivir el mayor tiempo posible.",
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2024/05/30 23:00",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Risky Jump Journey by Yuneek",
+         "Informacion": "\u00a1Salta y esquiva las trampas y supera los 20 niveles para ganar! Pero si pierdes... reinicias desde el principio.",
          "Desde": "",
          "Hasta": "2024/05/31 06:00",
-         "URL": "https://yuneek.itch.io/zombie-townghost-town",
-         "IMG": "https://img.itch.zone/aW1nLzE0Mzg5MDI0LnBuZw==/347x500/myGucj.png",
+         "URL": "https://yuneek.itch.io/risky-jump-journey",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzk1ODg3LzQ0NjAwNzgucG5n/347x500/uUCqRa.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -822,12 +882,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Risky Jump Journey by Yuneek",
-         "Informacion": "\u00a1Salta y esquiva las trampas y supera los 20 niveles para ganar! Pero si pierdes... reinicias desde el principio.",
+         "Nombre": "Zombie Town_ Living In The City by Yuneek",
+         "Informacion": "Un sencillo juego de zombies que hice con emparejamiento en l\u00ednea. Tiene un modo para un jugador bastante simple, todo lo que tienes que hacer es cargar un juego t\u00fa mismo y te dar\u00e1 un cron\u00f3metro e intentar\u00e1s sobrevivir el mayor tiempo posible.",
          "Desde": "",
          "Hasta": "2024/05/31 06:00",
-         "URL": "https://yuneek.itch.io/risky-jump-journey",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzk1ODg3LzQ0NjAwNzgucG5n/347x500/uUCqRa.png",
+         "URL": "https://yuneek.itch.io/zombie-townghost-town",
+         "IMG": "https://img.itch.zone/aW1nLzE0Mzg5MDI0LnBuZw==/347x500/myGucj.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "COLUMNS by VIRTUA WORLDS",
+         "Informacion": "COLUMNS, una experiencia art\u00edstica Vaporwave VR (y no VR)",
+         "Desde": "",
+         "Hasta": "2024/05/31 09:00",
+         "URL": "https://virtuaworlds.itch.io/columns",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -852,22 +922,72 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "COLUMNS by VIRTUA WORLDS",
-         "Informacion": "COLUMNS, una experiencia art\u00edstica Vaporwave VR (y no VR)",
-         "Desde": "",
-         "Hasta": "2024/05/31 09:00",
-         "URL": "https://virtuaworlds.itch.io/columns",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Z invasion by KS GAMES",
          "Informacion": "-------------------------------------------------- -------------------",
          "Desde": "",
          "Hasta": "2024/05/31 12:00",
          "URL": "https://gamerevolutionx.itch.io/zinvasion2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM3ODI5OS8xNDIxMDQ4MS5qcGc=/347x500/JkYtJ%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kasperias Arenas by KasperV",
+         "Informacion": "- Crea un personaje con apariencia y habilidades personalizadas.",
+         "Desde": "",
+         "Hasta": "2024/05/31 23:00",
+         "URL": "https://kasperv.itch.io/kasperias-arenas",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjEwMDMyMi8xMjQzOTQxNy5wbmc=/347x500/NqbI72.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ball Down Hill by KasperV",
+         "Informacion": "Meta:",
+         "Desde": "",
+         "Hasta": "2024/05/31 23:00",
+         "URL": "https://kasperv.itch.io/ball-down-hill",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MTA5Ny85MjM2ODk2LnBuZw==/347x500/wjOoCN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Simple Life by KasperV",
+         "Informacion": "La vida simple",
+         "Desde": "",
+         "Hasta": "2024/05/31 23:00",
+         "URL": "https://kasperv.itch.io/the-simple-life",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU1MTY4Ny85MDU0MDU2LnBuZw==/347x500/ThLrWi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sky Lab Defender by KasperV",
+         "Informacion": "Defensor del laboratorio a\u00e9reo",
+         "Desde": "",
+         "Hasta": "2024/05/31 23:00",
+         "URL": "https://kasperv.itch.io/skylabdefender",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIyMDczLzE3MTkzOTEucG5n/347x500/pwKYLh.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Jumping Slime by M_earn",
+         "Informacion": "\"Jumping Slime\": juego sencillo creado con Unity Engine. 45 niveles en los que debes hacer clic y mantener presionado el mouse para saltar. Todos los controles del jugador, como la altura del salto y la fuerza del salto. Buena suerte.",
+         "Desde": "",
+         "Hasta": "2024/06/01 00:59",
+         "URL": "https://m-earn.itch.io/jumping-slime",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjY1MTE0NS8xNTc5NTQxOC5wbmc=/347x500/q2d%2BiP.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Smuggler by StrigopStudios",
+         "Informacion": "The Smuggler es un juego de rol urbano, moderno, para un jugador, exigente y basado en estad\u00edsticas que proporcionar\u00e1 cientos de horas de juego llenas de niveles sustanciales y gratificantes. Ubicado en un entorno urbano, podr\u00e1s olvidarte de la artesan\u00eda, la magia y el tiro con arco; en su lugar, dedique su tiempo a nivelar sus niveles de hurto, hurto, peleas en jaulas, tr\u00e1fico de drogas y fabricaci\u00f3n de narc\u00f3ticos. Construye tu imperio de las drogas, desbloquea poderosas mejoras permanentes de estad\u00edsticas, compra bienes ra\u00edces y toma el control de la ciudad.",
+         "Desde": "",
+         "Hasta": "2024/06/01 06:00",
+         "URL": "https://strigopstudios.itch.io/the-smuggler",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODM2NzU0LzQ2ODk5MjgucG5n/347x500/ST5P2R.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
