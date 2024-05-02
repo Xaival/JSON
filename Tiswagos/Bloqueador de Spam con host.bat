@@ -89,6 +89,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 torrentfunk.123down.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 weaponsnondescriptperceive.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 widezealconstant.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 wiseinsurebiz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.asdf2233.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ww.blogiess.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 wxhiojortldjyegtkx.bid #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -233,6 +234,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 unreshiramor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 urlzs.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 velocitycdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 videocampaign.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 vindahlia.blogspot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 visariomedia.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 waisheph.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -294,8 +296,8 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.xvidzz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 thebestgame2020.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 best.aliexpress.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 betonred.pro #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1xbet.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 betonred.pro #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 blancoshrimp.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 play.pulpower.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.888casino.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1100,7 +1102,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 jhzuzgh5h01-be1ea5.ingress-earth.ewp.live #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 special-offer.iahjhsgqumhk.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 3cuevana3.cc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 stream-access.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 best.verpelisgo.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 box-locker.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cuevana-1.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1130,6 +1131,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 premiumfilm.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 repelis-hd.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 screenmax.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 stream-access.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 stream.boxmovies.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 the-siege-of-firebase-gloria.azpelis.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 verpeliculas4k.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1140,7 +1142,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 pelis-online.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 chromewebstore.google.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 freemoney123.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 luxurylivingnamibia.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 expertsofty.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 apptok.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d18e74vjvmvza1.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1151,6 +1152,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 flaggeraeric.website #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 install-check.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 install.getgamesearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 luxurylivingnamibia.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 opengive.monster #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 plmnds.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 realusercheck.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1160,12 +1162,12 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 yieldtrk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 email.sl.safesecuremsg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.freevpn.win #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 adstructor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cadcompleto.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 es.exefull.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 mundoportables.mundoword.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 spsstutoriales.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.civilmac.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 adstructor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pollstover.guru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 lx.xfffx.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 2050.one #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1268,6 +1270,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 content.ourdailyfinds.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sharetop.actualidad.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.elperiodicomediterraneo.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 alarmcontraplexinherits.monster #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 winnersofvouchers.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1d6cb18935a.app2link.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 allprizesforme.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1287,15 +1290,15 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 marcasdemaquillaje.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 offer.getfuzebug.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.sciaticasos.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 rhichateriams.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 bestchoicevpn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 canangafierier.uno #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 confirm.95urbehxy2dh.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 gvemv.ukindwouldm.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 overelly.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 gyntb.nergyflexibilit.pics #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hcdwj.oratefinaukn.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 myrrhisunition.store #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 overelly.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 rhichateriams.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 sblvc.kentinedaug.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 vmyzq.nergyflexibilit.pics #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 wbucq.nergyflexibilit.pics #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
