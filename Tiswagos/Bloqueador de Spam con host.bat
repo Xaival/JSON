@@ -117,6 +117,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 apprefaculty.pro #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 apps-prm.ctengine.io #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ashcdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ativesathyas.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ausoafab.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 away.vk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 awejmp.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -309,9 +310,12 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.playuzu.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.thetvdb.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 6f59e.gossipmag.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 brnok.check-tl-ver-154-2.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 brnok.check-tl-ver-94-1.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 dentedco.azurewebsites.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 denteds.azurewebsites.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ditcherstorify.guru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 es.bot-protect.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 fbhww.nergyflexibilit.pics #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 juicycelebinfo.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ntmadz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1143,19 +1147,31 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 chromewebstore.google.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 freemoney123.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 expertsofty.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 anypdf.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 apptok.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d18e74vjvmvza1.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 dataspeed.monster #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 digitalpilotsoft.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 drcesargalvan.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 factor1right.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 fallstring.website #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 filesapps.monster #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 flaggeraeric.website #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 godata.monster #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 inboxtext.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 install-check.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 install.getgamesearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 install1check.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 lp.filezstor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 luxurylivingnamibia.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 newincomingmessage.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 nowforfile.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 opengive.monster #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 plmnds.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ptv352.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 realusercheck.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 skh731.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 slk594.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 softfilesavesite.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.opera.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.secure-online-browsing.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
