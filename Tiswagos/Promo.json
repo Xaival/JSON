@@ -1,56 +1,6 @@
 {
-   "date_update": "04 May 2024 16:01 UTC",
+   "date_update": "05 May 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Minesweeper: ESCAPE by DV GameDev",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/05/04 23:00",
-         "URL": "https://dv-gamedev.itch.io/minesweeper-escape",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNDgzMy8xMzE1MzQ1My5wbmc=/347x500/b3WS9y.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Cubix: Mazes Unfold by KitCatGuy",
-         "Informacion": "EL JUEGO EST\u00c1 ACTUALMENTE EN BETA. ESPERA ERRORES.",
-         "Desde": "",
-         "Hasta": "2024/05/05 00:00",
-         "URL": "https://kitcatguy.itch.io/cubix-mazes-unfold",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjYwMDc1Ny8xNTQ5MTMzOC5wbmc=/347x500/nzm1I1.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Easy Photo Denoise 9",
-         "Informacion": "Easy Photo Denoise ayuda a reducir el ruido en fotograf\u00edas tomadas en la oscuridad o con poca luz, temblores de manos o configuraciones ISO incorrectas.",
-         "Desde": "",
-         "Hasta": "2024/05/05 09:00",
-         "URL": "https://sharewareonsale.com/s/free-easy-photo-denoise-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/11/box_epd.png?9187",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Photo Enhancer AI",
-         "Informacion": "Una soluci\u00f3n de mejora de im\u00e1genes y fotograf\u00edas basada en IA para ampliar fotograf\u00edas, reducir el ruido y eliminar las im\u00e1genes borrosas.",
-         "Desde": "",
-         "Hasta": "2024/05/05 09:00",
-         "URL": "https://sharewareonsale.com/s/free-photo-enhancer-ai-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/901-200x200.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Snap 15",
-         "Informacion": "Ashampoo Snap captura su escritorio como capturas de pantalla y videos. Las capturas de pantalla se pueden editar, comentar y compartir libremente a trav\u00e9s de redes, nubes o correo electr\u00f3nico.",
-         "Desde": "",
-         "Hasta": "2024/05/05 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-snap-15-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/scr-ashampoo-snap-15-presentation.jpg?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Vov Sticky Notes License Key for Free 2024",
          "Informacion": "Vov Sticky Notes es un software \u00fatil que te ayuda a crear pegatinas, recordatorios y a tener a mano informaci\u00f3n importante. La funci\u00f3n principal del software es permitirle colocar pegatinas coloridas en su escritorio. Por lo tanto, puede crear tantos como desee, cambiar su tama\u00f1o y cambiar la fuente del texto, pero no hay ninguna opci\u00f3n para ocultar la barra de t\u00edtulo y los botones Eliminar y Nuevo.",
@@ -59,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/vov-sticky-notes-license-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/11/vov-sticky-notes-license-free.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -69,7 +19,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -79,7 +29,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -89,7 +39,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "3300 Transparent People Stock Images Mega Bundle",
@@ -99,7 +49,7 @@
          "URL": "https://sharewareonsale.com/s/free-3300-transparent-people-stock-images-mega-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/transparent-mega-bundle.png?9187",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Ashampoo Undeleter",
@@ -109,25 +59,25 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-undeleter-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/boxshot-19.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "AudFun Spotify Music Converter 6-Month License Key Free",
+         "Informacion": "AudFun Spotify Music Converter es una herramienta \u00fatil para los usuarios de Spotify, puede descargar y convertir todas las canciones, listas de reproducci\u00f3n o \u00e1lbumes de Spotify de forma gratuita y premium. Ahora puedes escuchar m\u00fasica sin conexi\u00f3n en todos los dispositivos sin conexi\u00f3n a Internet. Este software admite la conversi\u00f3n de Spotify a MP3, FLAC, WAV, AAC y otros formatos de alta compatibilidad.",
+         "Desde": "",
+         "Hasta": "2024/05/06 15:00",
+         "URL": "https://giveaway.tickcoupon.com/audfun-spotify-music-converter-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/audfun-spotify-music-converter-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "POPPY TIME PLUS by NISHAD",
-         "Informacion": "En la oscuridad, tienes que escapar de tu propia casa debido al Sr. An\u00f3nimo, donde est\u00e1s con tu amigo NICHO, pero para abrir las puertas tienes que encontrar las llaves y asegurarte de que el Cachorro no te mate, mant\u00e9n tus ojos. en el cron\u00f3metro o tu cachorro te matar\u00e1.",
+         "Nombre": "ALONE by NISHAD",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2024/05/06 21:00",
-         "URL": "https://nishad-games.itch.io/poppy-time-plus",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDIyNy8xMjk2NDYzOC5wbmc=/347x500/KWqPdB.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "PARK IT by NISHAD",
-         "Informacion": "Park it es un juego de aparcamiento extremo. Donde hay que aparcar el coche.",
-         "Desde": "",
-         "Hasta": "2024/05/06 21:00",
-         "URL": "https://nishad-games.itch.io/park-it",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1MDIxMi8xMjY4NTYxNS5wbmc=/347x500/Y7ajSz.png",
+         "URL": "https://nishad-games.itch.io/alone",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY4MDE5Ni85ODk0Mjg2LmpwZw==/347x500/vXsira.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -152,12 +102,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "ALONE by NISHAD",
-         "Informacion": "",
+         "Nombre": "PARK IT by NISHAD",
+         "Informacion": "Park it es un juego de aparcamiento extremo. Donde hay que aparcar el coche.",
          "Desde": "",
          "Hasta": "2024/05/06 21:00",
-         "URL": "https://nishad-games.itch.io/alone",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY4MDE5Ni85ODk0Mjg2LmpwZw==/347x500/vXsira.jpg",
+         "URL": "https://nishad-games.itch.io/park-it",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1MDIxMi8xMjY4NTYxNS5wbmc=/347x500/Y7ajSz.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "POPPY TIME PLUS by NISHAD",
+         "Informacion": "En la oscuridad, tienes que escapar de tu propia casa debido al Sr. An\u00f3nimo, donde est\u00e1s con tu amigo NICHO, pero para abrir las puertas tienes que encontrar las llaves y asegurarte de que el Cachorro no te mate, mant\u00e9n tus ojos. en el cron\u00f3metro o tu cachorro te matar\u00e1.",
+         "Desde": "",
+         "Hasta": "2024/05/06 21:00",
+         "URL": "https://nishad-games.itch.io/poppy-time-plus",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDIyNy8xMjk2NDYzOC5wbmc=/347x500/KWqPdB.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -189,6 +149,36 @@
          "URL": "https://sharewareonsale.com/s/free-emotion-projects-pro-100-discount",
          "IMG": "https://sharewareonsale.com/wp-content/uploads/2024/04/emotion_projects_pro.png",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Donemax Disk Clone",
+         "Informacion": "El mejor software de clonaci\u00f3n de discos duros para Windows y Mac OS",
+         "Desde": "",
+         "Hasta": "2024/05/07 09:00",
+         "URL": "https://sharewareonsale.com/s/free-dmclone-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/box_dmclone_200x200.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Donemax Disk Clone for Windows Free Key 2024",
+         "Informacion": "Donemax Disk Clone para Windows (DMclone) es un software confiable de clonaci\u00f3n de discos. Puede ayudar a los usuarios de Windows a clonar de forma segura y sencilla HDD, SSD, unidad flash USB, tarjeta de memoria, RAID y servidor de una ubicaci\u00f3n a otra. Ofrece una soluci\u00f3n de clonaci\u00f3n de discos sector por sector para copiar discos duros sin p\u00e9rdida de datos. Este potente software de clonaci\u00f3n de discos ofrece dos soluciones de clonaci\u00f3n de discos: clonaci\u00f3n de particiones y clonaci\u00f3n de discos. Puede clonar una partici\u00f3n de disco o una unidad de disco duro completa con este software de clonaci\u00f3n de discos. Donemax Disk Clone para Windows es totalmente compatible con Windows 11, 10, 8, 8.1, 7, Vista y Windows Server.",
+         "Desde": "",
+         "Hasta": "2024/05/07 14:00",
+         "URL": "https://giveaway.tickcoupon.com/donemax-disk-clone-for-windows/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/donemax-disk-clone.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Donemax Disk Clone for Mac License Key for Free",
+         "Informacion": "Donemax Disk Clone para Mac es un potente software de clonaci\u00f3n de discos. Puede clonar cualquier tipo de disco duro de una ubicaci\u00f3n a otra de forma f\u00e1cil y r\u00e1pida. S\u00f3lo necesita elegir la unidad de origen y la unidad de destino, luego hacer clic en el bot\u00f3n Clonar para copiar los datos de la unidad de origen a la unidad de destino.",
+         "Desde": "",
+         "Hasta": "2024/05/07 14:00",
+         "URL": "https://giveaway.tickcoupon.com/donemax-disk-clone-for-mac-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/05/Donemax-DMclone-for-Mac-Boxshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -248,6 +238,26 @@
          "Hasta": "2024/05/08 10:19",
          "URL": "https://boredleviathan.itch.io/oneirophobia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MjY3NS8xNjAwMDY1NC5naWY=/347x500/9%2Fkahu.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Super Retro Font and Graphics Bundle",
+         "Informacion": "Cree dise\u00f1os asombrosos con este paquete de fuentes, que incluye 23 fuentes exclusivas de alta calidad y 47 gr\u00e1ficos, disponibles ahora GRATIS en asociaci\u00f3n con SharewareOnSale.com (\u00a1valorado en $401!). Esta colecci\u00f3n re\u00fane fuentes en estilos antiguos, perfectas para crear una apariencia elevada para tu pr\u00f3ximo proyecto de dise\u00f1o.",
+         "Desde": "",
+         "Hasta": "2024/05/09 09:00",
+         "URL": "https://sharewareonsale.com/s/free-super-retro-font-and-graphics-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/05/Super-Retro-Font-and-Graphics-Bundle.jpg?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FRANK SIMULATOR by JACORE",
+         "Informacion": "\u00a1ACTUALIZACI\u00d3N MASIVA MUY PRONTO!",
+         "Desde": "",
+         "Hasta": "2024/05/09 14:00",
+         "URL": "https://jacore.itch.io/frank-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU1MjY1Mi8xNjAyNjQ5MS5wbmc=/347x500/ra0w17.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -422,12 +432,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Text to MP3 Converter",
+         "Informacion": "Convertir texto a voz",
+         "Desde": "",
+         "Hasta": "2024/05/11 09:00",
+         "URL": "https://sharewareonsale.com/s/free-text-to-mp3-converter-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/text-to-mp3-converter.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
          "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
          "Desde": "",
          "Hasta": "2024/05/11 10:31",
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODkzNy84Nzk1MDA0LmpwZw==/347x500/yIuU8%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Beak to Beak Delivery Co. by Erizux",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/05/11 21:30",
+         "URL": "https://erizux.itch.io/beak-to-beak",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAxMjAzMC8xNDMzMzEzMC5wbmc=/347x500/G%2Bzn1S.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -458,6 +488,16 @@
          "Hasta": "2024/05/13 23:00",
          "URL": "https://davideldev.itch.io/cant-sleep-with-the-lights-off",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY3ODY0Ny8xNTk2NDY2Mi5wbmc=/347x500/FcbLGH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Crazy Scientist 2 by Infinite Studio",
+         "Informacion": "Idea de juego:",
+         "Desde": "",
+         "Hasta": "2024/05/15 02:00",
+         "URL": "https://infinite-studio.itch.io/crazy-scientist-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDMwMy8xNDg3MzA4Mi5qcGVn/347x500/Q73PsT.jpeg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
