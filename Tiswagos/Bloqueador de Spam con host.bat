@@ -66,6 +66,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 codedexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 crumbtypewriterhome.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cylindermonastery.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 tigerking.world #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 datetime.date #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 daughterinlawrib.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 holdsoutset.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -323,6 +324,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.justwatch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.palomitacas.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.thetvdb.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 wheitclcium.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 0bc095m1m9la5dza5e.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 0e2fd5m1mxo37fe705.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 206fb5m1mtwsy038b.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
