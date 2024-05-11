@@ -66,7 +66,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 codedexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 crumbtypewriterhome.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cylindermonastery.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 tigerking.world #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 datetime.date #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 daughterinlawrib.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 holdsoutset.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -165,6 +164,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 greatdexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 greenplasticdua.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 gunreset.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 helseeftie.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 href.li #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hugfromoctopus.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 hzoti.thesensualnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -208,7 +208,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 p131675.clksite.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 p4uvo.thesensualnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 peech2eecha.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 helseeftie.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pelisplus3.vc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pierisrapgae.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pokebtc.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -237,6 +236,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 taghaugh.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 tczzzlwpss.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 thaudray.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 tigerking.world #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 tm-offers.gamingadult.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 topwwnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 tracking.actualidad.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -325,9 +325,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 www.justwatch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.palomitacas.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.thetvdb.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 wheitclcium.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 0bc095m1m9la5dza5e.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 ceousity.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 0e2fd5m1mxo37fe705.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 206fb5m1mtwsy038b.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 26f955m1m9lhodz9b4.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -343,6 +341,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 brnok.check-tl-ver-154-2.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 brnok.check-tl-ver-94-1.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ce6e55m1mhoe2fe95d.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ceousity.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cor594u071bc73agsreg.baseauthenticity.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d106f5m1mtw168nce7.miwgh.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 da7185m1m9lfnbl2a2.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -361,6 +360,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 seforbouslac.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 subaswan.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 thehouseofportable.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 wheitclcium.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 yowa.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 best-content-hub.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 stylesandeals.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
