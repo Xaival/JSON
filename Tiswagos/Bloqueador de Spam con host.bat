@@ -96,6 +96,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 yonxatuor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1045.bordsnewsjule.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 1045.littlmarsnews22.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 27997.2477april2024.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 a.kgorilla.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 accentneglectporter.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 acdcdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
