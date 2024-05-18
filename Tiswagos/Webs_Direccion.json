@@ -1,5 +1,5 @@
 {
-   "date_update": "18 May 2024 13:18 UTC",
+   "date_update": "18 May 2024 13:19 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
@@ -129,6 +129,12 @@
       },
       {
          "Direccion": "0.0.0.0 ad-network.site #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 ak.ossfloetteor.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 podeonchaped.top #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 adblockerapp.com #AntiSpam"
@@ -3408,6 +3414,12 @@
       },
       {
          "Direccion": "0.0.0.0 expertsofty.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 objects.githubusercontent.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 timoandisa.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 anypdf.com #AntiSpam"
