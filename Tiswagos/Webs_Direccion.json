@@ -1,5 +1,5 @@
 {
-   "date_update": "18 May 2024 16:01 UTC",
+   "date_update": "19 May 2024 16:01 UTC",
    "values": [
       {
          "Direccion": "0.0.0.0 886.novitrk6.com #AntiSpam"
@@ -131,12 +131,6 @@
          "Direccion": "0.0.0.0 ad-network.site #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 ak.ossfloetteor.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 podeonchaped.top #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 adblockerapp.com #AntiSpam"
       },
       {
@@ -162,6 +156,9 @@
       },
       {
          "Direccion": "0.0.0.0 ak.naxadrug.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 ak.ossfloetteor.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 ak.phumpauk.com #AntiSpam"
@@ -471,6 +468,9 @@
       },
       {
          "Direccion": "0.0.0.0 pierisrapgae.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 podeonchaped.top #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 pokebtc.com #AntiSpam"
@@ -3416,12 +3416,6 @@
          "Direccion": "0.0.0.0 expertsofty.com #AntiSpam"
       },
       {
-         "Direccion": "0.0.0.0 objects.githubusercontent.com #AntiSpam"
-      },
-      {
-         "Direccion": "0.0.0.0 timoandisa.com #AntiSpam"
-      },
-      {
          "Direccion": "0.0.0.0 anypdf.com #AntiSpam"
       },
       {
@@ -3488,6 +3482,9 @@
          "Direccion": "0.0.0.0 nowforfile.com #AntiSpam"
       },
       {
+         "Direccion": "0.0.0.0 objects.githubusercontent.com #AntiSpam"
+      },
+      {
          "Direccion": "0.0.0.0 opengive.monster #AntiSpam"
       },
       {
@@ -3513,6 +3510,9 @@
       },
       {
          "Direccion": "0.0.0.0 softfilesavesite.com #AntiSpam"
+      },
+      {
+         "Direccion": "0.0.0.0 timoandisa.com #AntiSpam"
       },
       {
          "Direccion": "0.0.0.0 www.opera.com #AntiSpam"
