@@ -102,8 +102,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 acdcdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 acscdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ad-network.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 ak.ossfloetteor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 podeonchaped.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adblockerapp.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ads.trafficjunky.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 adstean.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -113,6 +111,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 ak.hetartwg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ak.hetaruvg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ak.naxadrug.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 ak.ossfloetteor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ak.phumpauk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 ak.roudoduor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 alleviatepracticableaddicted.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -216,6 +215,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 peech2eecha.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pelisplus3.vc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pierisrapgae.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 podeonchaped.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pokebtc.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pornlindo_com.imedia-stream.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 pricesandwinners.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1197,8 +1197,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 freemoney123.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.biconomy.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 expertsofty.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 objects.githubusercontent.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 timoandisa.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 anypdf.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 apptok.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 d18e74vjvmvza1.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1221,6 +1219,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 luxurylivingnamibia.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 newincomingmessage.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 nowforfile.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 objects.githubusercontent.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 opengive.monster #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 plmnds.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 preparedfile.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1230,6 +1229,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 skh731.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 slk594.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 softfilesavesite.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 timoandisa.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.opera.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.relativeads.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.secure-online-browsing.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
