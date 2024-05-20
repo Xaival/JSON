@@ -1,36 +1,6 @@
 {
-   "date_update": "20 May 2024 16:03 UTC",
+   "date_update": "20 May 2024 20:56 UTC",
    "values": [
-      {
-         "Nombre": "Killing Floor 2",
-         "Informacion": "\u00a1Juega gratis! En KILLING FLOOR 2, los jugadores descienden a Europa continental despu\u00e9s de haber sido invadida por clones horribles y asesinos llamados Zeds que fueron creados por elementos rebeldes de Horzine Corporation. Cooperativo para 6 jugadores y caos masacrador VS Zed para 12 jugadores.",
-         "Desde": "",
-         "Hasta": "2024/05/20 10:00",
-         "URL": "https://store.steampowered.com/app/232090/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/232090/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Police Stories: Zombie Case",
-         "Informacion": "Este contenido requiere el juego base Police Stories en Steam para poder jugar.",
-         "Desde": "",
-         "Hasta": "2024/05/20 10:00",
-         "URL": "https://store.steampowered.com/app/1329730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1329730/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Wizard with a Gun",
-         "Informacion": "\u00a1Juega gratis! Wizard with a Gun es un juego de supervivencia sandbox en l\u00ednea para 1 a 4 jugadores ambientado en un desierto m\u00e1gico plagado de criaturas peligrosas y misterios arcanos. Emb\u00e1rcate en un viaje solo o con un amigo para coleccionar, crear y equipar a tu mago como mejor te parezca mientras exploras lo desconocido.",
-         "Desde": "",
-         "Hasta": "2024/05/20 10:00",
-         "URL": "https://store.steampowered.com/app/1150530/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1150530/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
          "Informacion": "",
@@ -39,7 +9,7 @@
          "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xNTk3ODA2MS5qcGVn/347x500/nSAvT2.jpeg",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "CLIMB & SHOOT (VR Shooting Game for Oculus Quest ) by ULTRA FUN GAMES",
@@ -49,7 +19,7 @@
          "URL": "https://ultra-fun-games.itch.io/climb-shoot",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIyODc2MC83MTkzNTMwLnBuZw==/347x500/vBQZ8C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
       },
       {
          "Nombre": "FUN SHOOTING RANGE (VR Shooting Game for Oculus Quest ) by ULTRA FUN GAMES",
@@ -59,7 +29,7 @@
          "URL": "https://ultra-fun-games.itch.io/fun-shooting-playground",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIyNTUzMS83MTQ2MDIzLnBuZw==/347x500/CbvXLL.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
       },
       {
          "Nombre": "ULTRA CLIMBING PLAYGROUNDS (VR  Platformer/Climbing Game for Oculus Quest) by ULTRA FUN GAMES",
@@ -69,7 +39,7 @@
          "URL": "https://ultra-fun-games.itch.io/climbing-playgrounds",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA3MzU4Ny82MTU0NzgwLmpwZw==/347x500/u6WZin.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
       },
       {
          "Nombre": "Ultra Explorer: Jurassic Forest ( VR Dinosaurs Game for Oculus Quest) by ULTRA FUN GAMES",
@@ -79,7 +49,7 @@
          "URL": "https://ultra-fun-games.itch.io/ultra-explorer-jurassic-forest",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTAyMDk3MS81ODIwMDU2LmpwZw==/347x500/QA9sc7.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
       },
       {
          "Nombre": "Drug Dealin Sim 2024 by b._.render",
@@ -89,7 +59,7 @@
          "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -99,7 +69,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -109,7 +79,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -119,7 +89,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Ashampoo Duplicate File Finder",
@@ -129,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-duplicate-file-finder-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/front1-1-1.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Oceanox by oceanoxstudios",
@@ -508,16 +478,6 @@
          "Hasta": "2024/05/27 00:00",
          "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2024/05/27 00:00",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
