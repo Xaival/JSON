@@ -1,16 +1,6 @@
 {
-   "date_update": "21 May 2024 06:06 UTC",
+   "date_update": "21 May 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Ashampoo Duplicate File Finder",
-         "Informacion": "Casi todos los sistemas Windows contienen numerosos archivos duplicados. Ashampoo Duplicate Finder busca y elimina archivos redundantes y permite a los usuarios recuperar su espacio en disco. Para garantizar que sus aplicaciones sigan funcionando sin problemas, el programa mantiene un archivo maestro y reemplaza todas las copias redundantes con enlaces f\u00edsicos a ese archivo. Cuando una aplicaci\u00f3n intenta acceder a una copia eliminada, utilizar\u00e1 el archivo maestro. \u00a1Es un enfoque inteligente que evita por completo los problemas con los archivos y simplemente no es factible solo con la eliminaci\u00f3n manual de archivos! \u00bfPero de d\u00f3nde vienen los archivos duplicados? Pueden deberse a descargas repetidas o configuraciones de programas en las que cada uno proporciona su propia copia de los archivos de la biblioteca del sistema. Incluso el propio Windows tiende a crear archivos redundantes en unidades y ubicaciones de guardado. Ashampoo Duplicate File Finder escanea sistemas Windows a velocidades vertiginosas y presenta los resultados claramente ordenados por tipo de archivo, incluidos documentos, archivos de audio y video. Los usuarios pueden revisar coincidencias individuales y excluir permanentemente archivos para que no se eliminen, si es necesario. Pruebas exhaustivas han demostrado que los archivos duplicados pueden ocupar una cantidad significativa de espacio en disco y al mismo tiempo proporcionar poco o ning\u00fan beneficio aparte de la redundancia de archivos. Reemplazarlos con enlaces f\u00edsicos a un \u00fanico archivo maestro libera instant\u00e1neamente espacio en disco sin costo de rendimiento perceptible y con poco o ning\u00fan riesgo. Y Ashampoo Duplicate File Finder viene con un mecanismo de seguridad: \u00a1se crea una copia de seguridad antes de cada modificaci\u00f3n del sistema para que los usuarios puedan revertirla en cuesti\u00f3n de segundos!",
-         "Desde": "",
-         "Hasta": "2024/05/21 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-duplicate-file-finder-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/front1-1-1.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
       {
          "Nombre": "Oceanox by oceanoxstudios",
          "Informacion": "Era el a\u00f1o 2077 y los humanos estaban causando demasiada contaminaci\u00f3n. Un equipo de cient\u00edficos crea una grieta temporal en una isla aleatoria, hace millones de a\u00f1os. Ahora est\u00e1s atrapado y tienes que sobrevivir, salir de la isla, explorar y construir un lugar seguro.",
@@ -19,7 +9,7 @@
          "URL": "https://oceanoxstudios.itch.io/oceanox",
          "IMG": "https://img.itch.zone/aW1nLzE0MTM0ODU3LnBuZw==/347x500/giwCrH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
       },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -29,7 +19,7 @@
          "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xNTk3ODA2MS5qcGVn/347x500/nSAvT2.jpeg",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "First Person Stapler by Intimidation Crab",
@@ -39,7 +29,7 @@
          "URL": "https://intimidation-crab.itch.io/first-person-stapler",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUwNjg4Ny8xNTQ3MTU5MS5wbmc=/347x500/dndOea.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "SpiritShine by VAIVAICORP",
@@ -49,7 +39,7 @@
          "URL": "https://vaivaicorp.itch.io/spirits",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjYyOTI5Ni8xNTY2NzE2Mi5qcGc=/347x500/t7gz86.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "Nero BackItUp PRO",
@@ -59,7 +49,7 @@
          "URL": "https://sharewareonsale.com/s/free-nero-backitup-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/05/Nero-BackItUp-Pro.jpg?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "onlineTV 19",
@@ -69,7 +59,17 @@
          "URL": "https://sharewareonsale.com/s/free-onlinetv-19-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/otv18ohneandroid.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Background Remover",
+         "Informacion": "Ashampoo Background Remover recorta personas y objetos autom\u00e1ticamente gracias a la detecci\u00f3n inteligente de objetos; en muchos casos no se requiere edici\u00f3n manual. Los objetos detectados se pueden guardar individualmente o copiar al portapapeles del sistema para usarlos con otros programas. Se reconocen incluso los detalles m\u00e1s peque\u00f1os, como mechones de pelo. Los usuarios tambi\u00e9n pueden reemplazar los fondos de las im\u00e1genes o aplicar un elegante efecto Bokeh. Esto hace que sea f\u00e1cil enfatizar visualmente o colocar a las personas en escenas completamente nuevas. Agregar o eliminar objetos manualmente requiere solo unos pocos trazos con el pincel de correcci\u00f3n incorporado. Ashampoo Background Remover es la soluci\u00f3n que ahorra tiempo tanto a principiantes como a profesionales para recortar/compartir objetos y reemplazar fondos de im\u00e1genes, sin necesidad de curva de aprendizaje.",
+         "Desde": "",
+         "Hasta": "2024/05/22 09:00",
+         "URL": "https://www.bitsdujour.com/software/ashampoo-background-remover/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/ashampoo-background-remover-307f3.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "100% Orange Juice",
@@ -162,6 +162,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Mango AI",
+         "Informacion": "Mango Animate es un innovador desarrollador de software de animaci\u00f3n que proporciona un generador de v\u00eddeos de IA en l\u00ednea, llamado Mango AI. Est\u00e1 repleto de una amplia gama de funciones para cualquiera que intente crear videos impactantes para diferentes canales. Sin necesidad de conocimientos de edici\u00f3n de v\u00eddeo, Mango AI es f\u00e1cil de usar. Es ideal para que los creadores de contenido produzcan videos que promuevan, eduquen, incorporen y entretengan. Los videos creados con la poderosa herramienta presentan avatares de IA realistas, voces de IA con sonido humano y un flujo fluido. Si desea obtener una ventaja competitiva en el campo de la creaci\u00f3n de videos, Mango AI cambiar\u00e1 las reglas del juego para hacer realidad su idea.",
+         "Desde": "",
+         "Hasta": "2024/05/23 09:00",
+         "URL": "https://sharewareonsale.com/s/free-mango-ai-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/05/mango_ai_box.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ENDLESS\u2122 Legend",
          "Informacion": "ENDLESS\u2122 Legend es un juego de estrategia de fantas\u00eda por turnos 4X de los creadores de ENDLESS\u2122 Space y Dungeon of the ENDLESS\u2122. Controla todos los aspectos de tu civilizaci\u00f3n mientras luchas por salvar tu mundo natal, Auriga. \u00a1Crea tu propia leyenda!",
          "Desde": "",
@@ -169,6 +179,16 @@
          "URL": "https://store.steampowered.com/app/289130/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/289130/header.jpg",
          "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mango AI 6-Month Giveaway License Code for Free 2024",
+         "Informacion": "Desarrollado por Mango Animate, Mango AI es un innovador generador de videos en l\u00ednea impulsado por IA que puede ayudarlo a generar f\u00e1cilmente videos impactantes, atractivos y de alta calidad para diferentes canales. Ya sea creador de contenido, educador, comercializador o empresario, esta herramienta es particularmente \u00fatil para producir videos profesionales sin grandes conocimientos t\u00e9cnicos. Con la ayuda de la IA, esta herramienta puede convertir texto en animaci\u00f3n, convertir texto e im\u00e1genes en v\u00eddeo, crear un avatar de IA que hable directamente a la c\u00e1mara con subt\u00edtulos o convertir un retrato fijo en un presentador parlante.",
+         "Desde": "",
+         "Hasta": "2024/05/23 16:00",
+         "URL": "https://giveaway.tickcoupon.com/mango-ai-video-generator-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/05/mango-ai-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -248,6 +268,36 @@
          "Hasta": "2024/05/25 00:00",
          "URL": "https://venova-studios.itch.io/space-fight",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUyOTI2My8xNTkyODkwMi5wbmc=/347x500/bsT4EU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2024/05/25 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "JUEGO EN CASA\u00a0se trata del ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2024/05/25 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2024/05/25 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -718,6 +768,36 @@
          "Hasta": "2024/05/31 00:00",
          "URL": "https://onequidgames.itch.io/the-cropping-night",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM3MjkxOC8xNjAwNTgwNy5naWY=/347x500/FAXEvu.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Enchated Hour {Early Demo} by maicrogamestudios",
+         "Informacion": "Demostraci\u00f3n muy temprana: mes de trabajo.",
+         "Desde": "",
+         "Hasta": "2024/05/31 00:00",
+         "URL": "https://maicrogamestudios.itch.io/spellfire-chronicles",
+         "IMG": "https://img.itch.zone/aW1nLzE1Nzc4MTM1LnBuZw==/347x500/YCT9Ep.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "3gg Condition by NALIo",
+         "Informacion": "DESCRIPCI\u00d3N DEL JUEGO:",
+         "Desde": "",
+         "Hasta": "2024/05/31 00:00",
+         "URL": "https://nalio.itch.io/3gg-condition",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM4MzUyMy8xNDExMTM5OC5wbmc=/347x500/CXTy3F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Egg Condition: Unblinded by NALIo",
+         "Informacion": "ADVERTENCIA:\u00a0Para jugar debes ejecutar el archivo ejecutable como administrador; de lo contrario, los gr\u00e1ficos no funcionar\u00e1n.",
+         "Desde": "",
+         "Hasta": "2024/05/31 00:00",
+         "URL": "https://nalio.itch.io/egg-condition-unblinded",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0MTM5NC8xMTQyMDEzNS5wbmc=/347x500/QKjUmM.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
