@@ -134,6 +134,7 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 buildershub.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 c.adsco.re #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cagothie.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 0.0.0.0 camps.target-mobi.biz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 camsexpartner.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 celeritascdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cine24.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1407,7 +1408,6 @@ mode con:cols=65 lines=16
   echo 0.0.0.0 ezodn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 superonclick.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 yqmxfz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 0.0.0.0 cdn.jsdelivr.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 cdn.rawgit.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 raw.githack.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 0.0.0.0 www.varietyofdisplayformats.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
