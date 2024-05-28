@@ -1231,6 +1231,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 freemoney123.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.biconomy.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 expertsofty.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 anydebrid.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 anypdf.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 apptok.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 d18e74vjvmvza1.cloudfront.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1269,7 +1270,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.secure-online-browsing.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.uploadedpremiumlink.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 yieldtrk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 anydebrid.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 email.sl.safesecuremsg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.freevpn.win #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 adstructor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
