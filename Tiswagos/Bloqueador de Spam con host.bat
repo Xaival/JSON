@@ -76,6 +76,8 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 nonepushed.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 owenexposure.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 parkingridiculous.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 groapeeque.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 trackmyorderz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 paychat.fuse-cloud.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 perryvolleyball.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 reposemarshknot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1425,6 +1427,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 winalert.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.user-shield.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 xmjkg.mwoukrkskills.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 3c64a6jtlbz4pi4ea8.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.totalav.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 go.etoro.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.digifinex.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
