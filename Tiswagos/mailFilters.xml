@@ -88,31 +88,31 @@
 		<title>2.Propaganda oficial</title>
 		<apps:property name='from' value='@g2a.com OR @email2.gog.com OR @mailer.humblebundle.com OR @indiegala.com OR @newsletter.rockstargames.com OR community@sega.co.uk OR newsletter@steelseries.com OR @news.ubisoft.com OR @ubisoft-news.com OR news@updates.ubisoft.com'/>
 		<apps:property name='label' value='Registros/Juegos'/>
-		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
 		<apps:property name='from' value='noreply@pccomponentes.com'/>
 		<apps:property name='label' value='Registros/Oficial'/>
-		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
 		<apps:property name='from' value='@awafterwork.com OR @aliexpress.com OR mailing@artelista.com OR @news.ashampoo.com OR @mailersp1.binance.com OR @mailersp2.binance.com OR notify@bitsdujour.com OR @update.clipchamp.com OR @6574136.m-sender-sib.com OR notify@dvdfab.cn OR @mailer.grabpoints.com OR newsletter@email.hofmann.es OR @myminifactory.com OR news@oo-software.com OR @mailout.plex.tv OR @rollerc.com OR @mails.teamviewer.com OR @thangs.com OR @toggl.com OR blog@zapier.com'/>
 		<apps:property name='label' value='Registros/Otros'/>
-		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
 		<apps:property name='from' value='@discord.com OR newsletter@streamlabs.com'/>
 		<apps:property name='label' value='Registros/RRSS'/>
-		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
 		<apps:property name='from' value='comunidad@crehana.com OR @ads.infojobs.net OR @info.infojobs.net OR @training.infojobs.net OR ofertas@push.infojobs.net OR messages-noreply@linkedin.com OR notifications-noreply@linkedin.com OR updates-noreply@linkedin.com OR jobs-listings@linkedin.com'/>
 		<apps:property name='label' value='Registros/Study - Job'/>
-		<apps:property name='shouldTrash' value='true'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
 	<entry>
 		<title>3.Phishing - Fraude</title>
