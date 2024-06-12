@@ -1,136 +1,6 @@
 {
-   "date_update": "11 Jun 2024 16:01 UTC",
+   "date_update": "12 Jun 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo mover",
-         "Desde": "",
-         "Hasta": "2024/06/11 23:00",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/06/11 23:00",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2024/06/11 23:00",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego dif\u00edcil en 2D con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2024/06/11 23:00",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/06/11 23:00",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2024/06/11 23:00",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Godot Suika by Ryhon",
-         "Informacion": "Haz que 2 frutas del mismo tipo se toquen entre s\u00ed dejando caer fruta nueva para crear frutas m\u00e1s grandes y ganar puntos.\u00a0\u00a1Intenta conseguir tantos puntos como sand\u00edas!",
-         "Desde": "",
-         "Hasta": "2024/06/12 00:00",
-         "URL": "https://ryhon.itch.io/suika",
-         "IMG": "https://img.itch.zone/aW1nLzEzODg3OTk4LnBuZw==/347x500/4qYN0D.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Profiteer by Hrust, Laq020",
-         "Informacion": "Emb\u00e1rcate en un emocionante viaje en Profiteer, un juego de estrategia por turnos en el que tu objetivo principal es ganar riqueza por cualquier medio necesario. Utiliza los diversos recursos del mundo del juego para construir y expandir tu imperio empresarial.",
-         "Desde": "",
-         "Hasta": "2024/06/12 00:00",
-         "URL": "https://hrust-inc.itch.io/profiteer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNjYyNy8xNjQ0Nzk1OC5naWY=/347x500/S3yxCv.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Simple Golf by Dancing Dots",
-         "Informacion": "Golf simple: una relajante experiencia de golf informal en 2D",
-         "Desde": "",
-         "Hasta": "2024/06/12 06:00",
-         "URL": "https://15joldersmat.itch.io/simple-golf",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NjAzNi8xNjM4NjExMy5wbmc=/347x500/moH2QC.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Ondesoft YouTube Music Converter 1-Year License Key Free",
-         "Informacion": "Obtenga la forma m\u00e1s f\u00e1cil pero profesional de descargar m\u00fasica MP3 de YouTube Music. Ondesoft YouTube Music Converter es un software de conversi\u00f3n de m\u00fasica altamente intuitivo que le brinda la posibilidad de descargar una cantidad ilimitada de canciones MP3 de YouTube Music en una computadora Mac o Windows. Con su ayuda, puedes escuchar tus canciones, listas de reproducci\u00f3n y \u00e1lbumes favoritos de YouTube Music de forma gratuita, en cualquier momento y donde quieras.",
-         "Desde": "",
-         "Hasta": "2024/06/12 07:00",
-         "URL": "https://giveaway.tickcoupon.com/ondesoft-youtube-music-converter-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/05/ondesoft-youtube-music-converter.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "FileRestorePlus",
-         "Informacion": "Ya sea que haya eliminado un archivo por accidente, haya perdido todo en una falla del sistema o haya formateado el disco duro, FileRestorePlus recupera cualquier tipo de archivo en muy poco tiempo. Tenga la tranquilidad de saber que tiene un plan de respaldo despu\u00e9s de eliminar archivos accidentalmente. \u00a1FileRestorePlus es la aplicaci\u00f3n de recuperaci\u00f3n de archivos m\u00e1s f\u00e1cil de usar! Y si desea recuperar fotos, utilice el modo Photo SmartScan para una recuperaci\u00f3n avanzada de archivos de im\u00e1genes eliminados.",
-         "Desde": "",
-         "Hasta": "2024/06/12 09:00",
-         "URL": "https://sharewareonsale.com/s/free-filerestoreplus-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/FRP.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "WonderFox Photo Watermark",
-         "Informacion": "Proteja sus derechos sobre sus im\u00e1genes digitales",
-         "Desde": "",
-         "Hasta": "2024/06/12 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-photo-watermark/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-photo-watermark-gscdn.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Exiland Backup Standard",
-         "Informacion": "Realice copias de seguridad y sincronice f\u00e1cilmente archivos y carpetas importantes",
-         "Desde": "",
-         "Hasta": "2024/06/12 09:00",
-         "URL": "https://www.bitsdujour.com/software/exiland-backup-standard/in=upcoming-freebies",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/exiland-backup-standard-kf38i.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Aquatic Adventure by Yoeri Staal",
          "Informacion": "Fuertes lluvias han inundado el pueblo. \u00a1Habla con un elenco de coloridos personajes y juega minijuegos para salvar la ciudad! Aprender\u00e1 mucho sobre las diferentes formas de agua y d\u00f3nde encontrarlas.",
@@ -139,7 +9,7 @@
          "URL": "https://yoeristaal.itch.io/aquatic-adventure",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUxMDY4MC8xNDkyMjA3Ni5wbmc=/347x500/AHQkP2.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Equivalence by Yoeri Staal",
@@ -149,7 +19,7 @@
          "URL": "https://yoeristaal.itch.io/equivalence",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NDc3MS8xNTQ2MjIwNy5wbmc=/347x500/bnDkH8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Fix the Future by Yoeri Staal",
@@ -159,7 +29,7 @@
          "URL": "https://yoeristaal.itch.io/fix-the-future",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU1MzU0Mi8xNTM1NzY4Ny5wbmc=/347x500/Cm6k%2Bz.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Fracture by Yoeri Staal",
@@ -169,7 +39,7 @@
          "URL": "https://yoeristaal.itch.io/fracture",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3NDE5MC8xNDY4ODAxMC5wbmc=/347x500/u47SIY.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Plantopia by Yoeri Staal",
@@ -179,7 +49,7 @@
          "URL": "https://yoeristaal.itch.io/plantopia",
          "IMG": "https://img.itch.zone/aW1nLzE2NDEwOTg5LnBuZw==/347x500/JH28M3.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Trash to Treasure by Yoeri Staal",
@@ -189,7 +59,7 @@
          "URL": "https://yoeristaal.itch.io/trash-to-treasure",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3NTQ1Ni8xNDY5NjQwNi5wbmc=/347x500/nXCV8C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Network Alarmer",
@@ -199,7 +69,27 @@
          "URL": "https://sharewareonsale.com/s/free-network-alarmer-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/10/network-alarmer-200x158.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Exiland Backup Standard",
+         "Informacion": "Realice copias de seguridad y sincronice f\u00e1cilmente archivos y carpetas importantes",
+         "Desde": "",
+         "Hasta": "2024/06/13 09:00",
+         "URL": "https://www.bitsdujour.com/software/exiland-backup-standard/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/exiland-backup-standard-kf38i.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "IM-Magic Partition Resizer Pro",
+         "Informacion": "Cambie el tama\u00f1o de las particiones de forma segura y obtenga m\u00e1s espacio libre",
+         "Desde": "",
+         "Hasta": "2024/06/13 09:00",
+         "URL": "https://www.bitsdujour.com/software/im-magic-partition-resizer-pro/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/im-magic-partition-resizer-pro-ppgyy.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Vovsoft Network Alarmer License Key Free 2024",
@@ -208,6 +98,36 @@
          "Hasta": "2024/06/13 14:00",
          "URL": "https://giveaway.tickcoupon.com/vovsoft-network-alarmer-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/vovsoft-network-alarmer.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exiland Backup Standard License Key Free 2024",
+         "Informacion": "Exiland Backup Standard es un software dise\u00f1ado para realizar copias de seguridad de sus archivos esenciales. Este excelente software puede copiar autom\u00e1ticamente sus archivos importantes a varias ubicaciones: discos de red o locales, servidores FTP/SSH remotos, NAS u otros medios extra\u00edbles (como unidades flash USB o discos duros externos). Tambi\u00e9n le ayuda a cifrar y proteger con contrase\u00f1a sus archivos para mantenerlos privados.",
+         "Desde": "",
+         "Hasta": "2024/06/13 14:00",
+         "URL": "https://giveaway.tickcoupon.com/exiland-backup-standard-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/10/Exiland-Backup-Standard.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "IM-Magic Partition Resizer Pro Free License Key 2024",
+         "Informacion": "Se dice que IM-Magic Partition Resizer Pro es el software perfecto para cambiar el tama\u00f1o de particiones, ya que permite a los usuarios ampliar, mover, reducir, formatear, copiar, eliminar, crear particiones y redistribuir el espacio libre en el disco sin destruir ni cambiar los datos de la partici\u00f3n.",
+         "Desde": "",
+         "Hasta": "2024/06/13 15:00",
+         "URL": "https://giveaway.tickcoupon.com/im-magic-partition-resizer-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2017/08/im-magic-partition-resizer-pro.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TunesKit Activation Unlocker 6-Month License Key Free",
+         "Informacion": "TunesKit Activation Unlocker es una gran herramienta que facilita eludir f\u00e1cilmente el bloqueo de activaci\u00f3n de iCloud. Ya sea que haya olvidado sus credenciales de ID de Apple o haya comprado un dispositivo iOS usado que est\u00e1 bloqueado con iCloud, TunesKit Activation Unlocker le permite eliminar el bloqueo y reactivar su dispositivo sin esfuerzo. Despu\u00e9s de eso, la antigua ID de Apple o cuenta y contrase\u00f1a de iCloud tambi\u00e9n se eliminar\u00e1n autom\u00e1ticamente.",
+         "Desde": "",
+         "Hasta": "2024/06/13 15:00",
+         "URL": "https://giveaway.tickcoupon.com/tuneskit-activation-unlocker/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/03/tuneskit-activation-unlocker.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -632,6 +552,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "VideoProc Converter AI",
+         "Informacion": "VideoProc Converter AI es un paquete integral para mejorar videos/fotos antiguos, SD y de baja calidad a 4K/8K/10K utilizando los \u00faltimos modelos de IA. Adem\u00e1s, puede convertir v\u00eddeos grandes/4K/HD, transcodificar v\u00eddeos/audios/DVD, mejorarlos, suavizarlos, estabilizarlos, comprimirlos, editarlos, descargarlos y grabarlos. Resuelva los problemas de calidad de v\u00eddeo, formatos y tama\u00f1os de archivos con la tecnolog\u00eda de aceleraci\u00f3n de hardware de nivel 3.",
+         "Desde": "",
+         "Hasta": "2024/06/19 09:00",
+         "URL": "https://sharewareonsale.com/s/free-videoproc-converter-ai-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/videoproc-converter-ai-box.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Idle Champions de Forgotten Realms",
          "Informacion": "Idle Champions es un videojuego de gesti\u00f3n estrat\u00e9gica con licencia de Dungeons & Dragons en el que personajes emblem\u00e1ticos de las novelas, las campa\u00f1as y las series se unen en una \u00e9pica aventura.",
          "Desde": "2024/06/13",
@@ -718,6 +648,16 @@
          "Hasta": "2024/06/23 06:00",
          "URL": "https://mazskigames.itch.io/swarleynaut",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM2NjgxNy8xNDAxNzUzOS5wbmc=/347x500/3UYu0O.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Grain Beta 1.9.6 - A bit more of everything by Pixel Fist Games",
+         "Informacion": "Grain es un juego de supervivencia sandbox basado en la f\u00edsica actualmente en versi\u00f3n beta.",
+         "Desde": "",
+         "Hasta": "2024/06/26 06:00",
+         "URL": "https://pixel-fist-games.itch.io/grain",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE2OTMwMi8xMDE3NjUzMS5wbmc=/347x500/fJ6%2Boj.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
