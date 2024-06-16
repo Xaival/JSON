@@ -1,5 +1,5 @@
 {
-   "date_update": "15 Jun 2024 16:02 UTC",
+   "date_update": "16 Jun 2024 16:02 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -860,28 +860,6 @@
          }
       },
       {
-         "ID": "AAAACE",
-         "Nombre": "Marina Barba Lozano",
-         "NombreRol": "Meera Lykoh",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "https://i.ibb.co/tQnPfn6/AAAACE.webp",
-         "Descripcion": "",
-         "Ciudad": "Sevilla",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/galegix_",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "https://www.tiktok.com/@galegix_",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "",
-            "Twitch": "",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAACF",
          "Nombre": "Oscar (Osuka)",
          "NombreRol": "Rodrick Pyne",
@@ -1556,6 +1534,28 @@
             "Insta2": "",
             "Insta3": "",
             "TikTok": "",
+            "Twitter": "",
+            "Facebook": "",
+            "Youtube": "",
+            "Twitch": "",
+            "Web": ""
+         }
+      },
+      {
+         "ID": "AAAACE",
+         "Nombre": "Marina Barba Lozano",
+         "NombreRol": "Meera Lykoh",
+         "Hermandad": "",
+         "Casa": "",
+         "HermandadImgURL": "",
+         "ImgURL": "https://i.ibb.co/tQnPfn6/AAAACE.webp",
+         "Descripcion": "",
+         "Ciudad": "Sevilla",
+         "RRSS": {
+            "Insta1": "https://www.instagram.com/galegix_",
+            "Insta2": "",
+            "Insta3": "",
+            "TikTok": "https://www.tiktok.com/@galegix_",
             "Twitter": "",
             "Facebook": "",
             "Youtube": "",
