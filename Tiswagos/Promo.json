@@ -1,66 +1,6 @@
 {
-   "date_update": "17 Jun 2024 16:02 UTC",
+   "date_update": "18 Jun 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Deep Rock Galactic",
-         "Informacion": "\u00a1Juega gratis! Deep Rock Galactic es un FPS cooperativo de 1 a 4 jugadores que presenta enanos espaciales rudos, entornos 100% destructibles, cuevas generadas procedimentalmente y hordas interminables de monstruos alien\u00edgenas.",
-         "Desde": "",
-         "Hasta": "2024/06/17 10:00",
-         "URL": "https://store.steampowered.com/app/548430/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "GTFO",
-         "Informacion": "\u00a1Juega gratis! GTFO es un shooter de terror cooperativo intenso que te lleva del suspenso apasionante a la acci\u00f3n explosiva en un abrir y cerrar de ojos. El sigilo, la estrategia y el trabajo en equipo son necesarios para sobrevivir en tu mortal prisi\u00f3n subterr\u00e1nea. Trabajar juntos o morir juntos.",
-         "Desde": "",
-         "Hasta": "2024/06/17 10:00",
-         "URL": "https://store.steampowered.com/app/493520/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/493520/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Hell Let Loose",
-         "Informacion": "\u00a1Juega gratis! \u00danase a la experiencia en constante expansi\u00f3n de Hell Let Loose, un juego de disparos en primera persona de la Segunda Guerra Mundial con batallas \u00e9picas de 100 jugadores con infanter\u00eda, tanques, artiller\u00eda, una l\u00ednea del frente que cambia din\u00e1micamente y un metajuego inspirado en RTS basado en recursos \u00fanicos.",
-         "Desde": "",
-         "Hasta": "2024/06/17 10:00",
-         "URL": "https://store.steampowered.com/app/686810/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/686810/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Ondesoft Deezer Music Converter 1-Year License Key Free",
-         "Informacion": "D\u00edgale adi\u00f3s a las conexiones a Internet poco confiables: Ondesoft Deezer Music Converter le garantiza que pueda disfrutar de su contenido de audio de Deezer en cualquier momento y en cualquier lugar. Dise\u00f1ada para funcionar en computadoras con Windows 11/10/8.1/8/7 y Mac OS X 10.11 a macOS 12, esta herramienta profesional de conversi\u00f3n de m\u00fasica puede ayudarlo a descargar cualquier canci\u00f3n de cualquier \u00e1lbum, mezcla y lista de reproducci\u00f3n de las plataformas Deezer sin esfuerzo. Ofrece una amplia gama de funciones, incluida la capacidad de guardar audio en formatos muy solicitados como MP3, M4A, AC, FLAC, WAV y AIFF a 320 kbps o calidad de alta fidelidad.",
-         "Desde": "",
-         "Hasta": "2024/06/18 07:00",
-         "URL": "https://giveaway.tickcoupon.com/ondesoft-deezer-music-converter-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/06/ondesoft-deezer-music-converter.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo WinOptimizer 2024",
-         "Informacion": "Windows cambia constantemente, al igual que los requisitos para una optimizaci\u00f3n del sistema de primer nivel. \u00a1Ashampoo WinOptimizer 2024 garantiza una experiencia de Windows r\u00e1pida, sencilla y limpia!",
-         "Desde": "",
-         "Hasta": "2024/06/18 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2024-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/box_winoptimizer2024.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Replay Music",
-         "Informacion": "Replay Music es una grabadora de m\u00fasica \u00fanica, especialmente optimizada para audio, que captura archivos de canciones desde cualquier sitio web o reproductor de PC. Guarde su m\u00fasica en archivos MP3 de alta calidad, perfectamente separados en pistas individuales y etiquetados autom\u00e1ticamente con toda la informaci\u00f3n de la canci\u00f3n. Adem\u00e1s, la avanzada tecnolog\u00eda de grabaci\u00f3n de audio de Replay Music elimina los sonidos del sistema y otros ruidos de fondo, brind\u00e1ndote una grabaci\u00f3n n\u00edtida y limpia.",
-         "Desde": "",
-         "Hasta": "2024/06/18 09:00",
-         "URL": "https://sharewareonsale.com/s/free-replay-music-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/RM-box-640.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
          "Informacion": "",
@@ -69,7 +9,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
@@ -79,7 +19,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
@@ -89,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
@@ -99,7 +39,7 @@
          "URL": "https://magnus-froelund.itch.io/asteroids",
          "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
@@ -109,7 +49,7 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
@@ -119,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
@@ -129,7 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
@@ -139,7 +79,7 @@
          "URL": "https://magnus-froelund.itch.io/stargates",
          "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
@@ -149,7 +89,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
@@ -159,7 +99,7 @@
          "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
@@ -169,7 +109,7 @@
          "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The False Immortality Paradox by gingerchris",
@@ -179,7 +119,7 @@
          "URL": "https://gingerchris.itch.io/the-false-immortality-paradox",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU0ODg5Lzc2NTc2NzEucG5n/347x500/K2ZDTe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Audials Music 2024",
@@ -189,7 +129,7 @@
          "URL": "https://sharewareonsale.com/s/free-audials-music-2024-se-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/amuBoxShotatmedium.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "FileRestorePlus",
@@ -199,7 +139,7 @@
          "URL": "https://sharewareonsale.com/s/free-filerestoreplus-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/FRP.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "VideoProc Converter AI",
@@ -209,6 +149,26 @@
          "URL": "https://sharewareonsale.com/s/free-videoproc-converter-ai-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/videoproc-converter-ai-box.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "WonderFox DVD Video Converter",
+         "Informacion": "Extraiga y convierta DVD m\u00e1s r\u00e1pido que nunca",
+         "Desde": "",
+         "Hasta": "2024/06/19 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-video-converter-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-dvd-video-converter-2-uuega.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "WonderFox DVD Video Converter Free License Key 2024",
+         "Informacion": "WonderFox DVD Video Converter es un conversor de v\u00eddeo y DVD bien revisado que puede ayudarle a convertir DVD y v\u00eddeos m\u00e1s r\u00e1pido que nunca. Puede copiar todo tipo de pel\u00edculas en DVD y programas de televisi\u00f3n a su PC, televisores inteligentes, iPhone, iPad y tel\u00e9fonos y tabletas con Android. Adem\u00e1s, el software le permite capturar v\u00eddeos en l\u00ednea de plataformas populares como YouTube, Vimeo, Facebook y m\u00e1s de 1000 sitios web.",
+         "Desde": "",
+         "Hasta": "2024/06/19 15:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/10/wonderfox-dvd-video-converter-giveaway-coupon.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -412,6 +372,106 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Text Trivia Pro by Ahsan Makes Games",
+         "Informacion": "Texto de trivia profesional",
+         "Desde": "",
+         "Hasta": "2024/06/22 21:00",
+         "URL": "https://ahsanmakesgames.itch.io/text-trivia-pro",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3NjU2OC8xNjU2Nzg0My5wbmc=/347x500/yPx8kh.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kamon Santa Baster by KamonGD",
+         "Informacion": "Kamon Santa Baster r5",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/kamon-santa-baster",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg1ODEzNS8xMDkxMzg2MS5qcGc=/347x500/UeTUc8.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zizzya by KamonGD",
+         "Informacion": "-...",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/zizzya",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ3NzYxNi84NzE3Mjk0LnBuZw==/347x500/ryx8Df.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tyanki 1999 by KamonGD",
+         "Informacion": "Mitad chica, mitad tanque, abandonada en el centro de las hostilidades, no hay conexi\u00f3n con el cuartel general, no hay salvaci\u00f3n.- 1 Super modo secreto",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/tyanki-1999",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQyNDgxMS84MzAzMDgxLmdpZg==/347x500/xoo7Cd.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dithercarrot by KamonGD",
+         "Informacion": "Necesitamos cosechar zanahoriasControles de flecha",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/dithercarrot",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI0MDI5MC83MzEzNjM3LnBuZw==/347x500/yg4WDw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cheburbot (beta) by KamonGD",
+         "Informacion": "-\u00a0 \u00a0ASCII",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/cheburbot",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzNjAxNC83NTE2MTI2LnBuZw==/347x500/dKyFRy.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MechVilkarrior by KamonGD",
+         "Informacion": "-",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/mechvilkarrior",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODkxNTQxLzUxNjI5NjIucG5n/347x500/vK4wBj.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Serious Head by KamonGD",
+         "Informacion": "Aventura de un serio geek, a trav\u00e9s de laberintos con trampas.",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/serioushead",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODMwOTkzLzQ2NTY3NjAucG5n/347x500/rr%2Fz92.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "\u00d0\u009a\u00d1\u0080\u00d1\u0083\u00d1\u0082\u00d0\u00b0\u00d1\u008f \u00d0\u0093\u00d0\u00be\u00d0\u00bb\u00d0\u00be\u00d0\u00b2\u00d0\u00b0 by KamonGD",
+         "Informacion": "- \u00d0\u00b1\u00d0\u00b8\u00d1\u1e0d\u1000\u00d0\u00b8\u00d0\u00bd\u00d1\u1ea1\u00d0\u00b0\u00d0\u00bc \u00d1\u1ea1 \u00d0\u00bb\u00d0\u00be\u00d0\u00b2\u00d1\u1ea1\u00d1\u1ea1\u00d0\u00ba\u00d0\u00b0\u00d0\u00bc\u00d0\u00b8.",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/krutayagolova",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzI4ODMwLzQ2NTY4NjcucG5n/347x500/lqmmzd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "\u00d0\u009a\u00d0\u00be\u00d0\u00b2\u00d0\u00b8\u00d0\u00b419 by KamonGD",
+         "Informacion": "- 19.",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/kovid19",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjQ2MjA2LzM0NjE3MDgucG5n/347x500/oKfvrV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Beanman by Archimedean Gaming",
          "Informacion": "Un frijol (en Jack and the Beanstalk) se escapa de Jack y trepa \u00e9l mismo por el tallo de las habichuelas. Beanman viaja por el espacio en su patineta para descubrir mundos con los que s\u00f3lo pod\u00eda so\u00f1ar. La idea del juego es ser una experiencia divertida y divertida y utiliza divertidos efectos de sonido, laberintos y giros.\u00a0 \u00a1Viaja a mundos diferentes, recoge monedas de frijol, encuentra huevos de oro y haz geniales volteretas hacia atr\u00e1s en una patineta!",
          "Desde": "",
@@ -442,6 +502,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2024/06/24 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "JUEGO EN CASA 2 trata sobre el ERMITA\u00d1O que vive solo.",
          "Desde": "",
@@ -458,16 +528,6 @@
          "Hasta": "2024/06/24 05:59",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2024/06/24 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -489,6 +549,16 @@
          "URL": "https://intimidation-crab.itch.io/first-person-stapler",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUwNjg4Ny8xNTQ3MTU5MS5wbmc=/347x500/dndOea.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo UnInstaller 12",
+         "Informacion": "Ashampoo\u00ae UnInstaller 12 elimina programas sin restos y le permite instalar, probar y eliminar software sin preocupaciones. Cuatro m\u00e9todos de eliminaci\u00f3n garantizan una eliminaci\u00f3n m\u00e1s completa de la que es posible con los medios predeterminados de Windows. Incluso las configuraciones anidadas est\u00e1n completamente registradas y son extra\u00edbles. La tecnolog\u00eda de monitoreo de instalaci\u00f3n integrada en UnInstaller registra todas las modificaciones de archivos y sistemas y las revierte por completo durante la eliminaci\u00f3n del software. El programa detecta autom\u00e1ticamente la mayor\u00eda de las instalaciones de principio a fin para que los usuarios no tengan que realizar acciones manuales. Las instalaciones que no fueron registradas por UnInstaller a\u00fan se pueden eliminar completamente gracias a la base de datos incorporada con cientos de perfiles de software y nuestra propia tecnolog\u00eda de limpieza profunda. El programa tambi\u00e9n cuenta con tecnolog\u00eda de instant\u00e1neas para comparar diferentes estados del sistema y detectar modificaciones al instante. Tambi\u00e9n es posible la eliminaci\u00f3n del software por lotes o mediante arrastrar y soltar. La versi\u00f3n 12 presenta hibernaci\u00f3n que suspende temporalmente las aplicaciones instaladas y las entradas, tareas y servicios de Windows relacionados con el inicio autom\u00e1tico para liberar recursos. Las aplicaciones permanecen instaladas pero permanecen inactivas hasta que se \u201cactivan\u201d nuevamente. Los limpiadores de UnInstaller 12 han sido revisados \u200b\u200by ahora son un 50% m\u00e1s r\u00e1pidos y eficientes. Adem\u00e1s, un nuevo administrador de cookies permite eliminar y incluir en la lista blanca de cookies en todos los navegadores.",
+         "Desde": "",
+         "Hasta": "2024/06/25 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-12-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/scr-ashampoo-uninstaller-12-main-on.png?7297",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -562,12 +632,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ondesoft TIDAL Converter License Key Free 2024",
+         "Informacion": "Cuando quieras tomar tus canciones favoritas en Tidal para disfrutar escuch\u00e1ndolas sin conexi\u00f3n a Internet, pensemos en Ondesoft TIDAL Converter, un excelente conversor de m\u00fasica TIDAL. Dise\u00f1ado para ayudarte a descargar y convertir m\u00fasica de Tidal a MP3, M4A, AAC, FLAC, WAV, AIFF y m\u00e1s formatos a la velocidad del rayo, hasta 10 veces m\u00e1s r\u00e1pido. Es una soluci\u00f3n de software confiable y pragm\u00e1tica para usuarios de Windows y macOS.",
+         "Desde": "",
+         "Hasta": "2024/06/29 07:00",
+         "URL": "https://giveaway.tickcoupon.com/ondesoft-tidal-converter-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/06/ondesoft-tidal-converter.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Primal Slideee by Zippy Games",
          "Informacion": "-------------------------------------------------- ----------------------------",
          "Desde": "",
          "Hasta": "2024/06/29 17:00",
          "URL": "https://zippy-game.itch.io/primalslideee",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MzY4MS8xNjUyMDQ5Ny5qcGVn/347x500/1EZYcs.jpeg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BallVania - hard game by Ambitious Game Studio",
+         "Informacion": "\"Ballvania\" est\u00e1 inspirado en juegos retro dif\u00edciles y dif\u00edciles. En estos juegos retro, juegas como pelotas de diferentes deportes como tenis, f\u00fatbol americano o f\u00fatbol, \u200b\u200bbaloncesto y b\u00e9isbol. En estos juegos de pelota, tu objetivo es mover la pelota a trav\u00e9s de un controlador en pantalla y evitar obst\u00e1culos mortales como l\u00e1seres, cuchillas giratorias, ca\u00f1ones, lanzas y otros obst\u00e1culos mortales dif\u00edciles que a\u00f1aden jugo a estos juegos creados con Unity 2D. Tambi\u00e9n te enfrentas a agujeros que transportan la bola a otro hoyo para mejorar tu experiencia de juego. Son juegos bastante simples y gratuitos para adultos. Este juego dif\u00edcil presenta 20 variantes de pelota diferentes para jugar y una lista superior de juegos de pelota. Debes probar una y otra vez la l\u00f3gica de tus juegos 2D y la estrategia para completar este juego hecho con Unity. Los juegos retro cuentan con 24 niveles de juego dif\u00edciles que te brindan un desaf\u00edo serio en juegos gratuitos para adultos. \"Ballvania\" tambi\u00e9n presenta un juego no lineal de ritmo r\u00e1pido para emocionar tu experiencia de juego. La banda sonora de estos juegos de pelota es incre\u00edble y coincide con el nivel de los juegos dif\u00edciles del mundo. Necesitas movimientos de precisi\u00f3n y juegos gratuitos de precisi\u00f3n para adultos para completar cada nivel de mi juego hecho con unidad. Nivel de dificultad de los niveles de juegos retro inspirados en algunos de los juegos 2D. Fabricado en la plataforma de los mejores juegos del mercado, \"Unity Game Engine\". El juego Made with Unity es fant\u00e1stico para dispositivos m\u00f3viles. Tambi\u00e9n utilizo el mismo motor de juego Unity para este juego Made with Unity. Sinceramente, hice estos juegos retro por mi cuenta. es decir, hago toda la programaci\u00f3n, el arte, el dise\u00f1o de niveles, todo excepto las bandas sonoras. Hice estos juegos en 2D para todos los que aman los desaf\u00edos en juegos como los juegos de pelota y a quienes les encantan los desaf\u00edos en el juego. Estos juegos dif\u00edciles son adecuados para juegos gratuitos para adultos, etc. Lo \u00fanico de estos juegos retro es que ning\u00fan desarrollador cre\u00f3 este tipo de juegos de pelota que brindan una jugabilidad \u00fanica, juegos dif\u00edciles y una experiencia de juego dif\u00edcil. Caracter\u00edstica \u00fanica como teletransportaci\u00f3n, nivel completo en pantalla \u00fanica, etc. Debido a toda esta singularidad, este juego hecho con Unity ser\u00e1 bueno en juegos de pelota y juegos en 2D. Otra caracter\u00edstica \u00fanica de este juego de pelota es que es \"f\u00e1cil de aprender y dif\u00edcil de dominar\". S\u00ed amigos, en los juegos gratuitos para adultos, al principio, juegas niveles simples. al completar los niveles iniciales, te enfrentaste a niveles de dificultad media y luego a los niveles m\u00e1s dif\u00edciles de los juegos dif\u00edciles. Como sabes, este juego hecho con Unity est\u00e1 inspirado en juegos dif\u00edciles de los juegos retro de la era de la nostalgia de los 90, metroidvania, juegos de pelota, juegos en 2D, tu desaf\u00edo. Ser\u00e1 dif\u00edcil completar cada nivel. y experimentas una mec\u00e1nica de juego nueva y una jugabilidad m\u00e1s fluida en estos juegos dif\u00edciles. Este juego es adictivo, as\u00ed que juega con prudencia. Este juego de pelota tambi\u00e9n presenta algunos elementos de juegos de rompecabezas. como si fueras nuevo en elegir el hoyo correcto para ir al hoyo correcto, encontrar la llave correcta para desbloquear puertas y tomar decisiones con precisi\u00f3n para completar este juego dif\u00edcil y gratuito para adultos.CARACTER\u00cdSTICAS DE ESTE JUEGO INDIE.1. Este juego viene en tama\u00f1o peque\u00f1o, menos de 50 MB.2. A diferencia de otros juegos, mi juego Made with proporciona una experiencia de juego \u00fanica.3. Desaf\u00eda obst\u00e1culos mortales como l\u00e1seres, cuchillas, cuchillas giratorias, cohetes, p\u00faas, ca\u00f1ones, flechas, encogidos, etc.4. F\u00e1cil de aprender dif\u00edcil de dominar.5. Juegos dif\u00edciles del mundo, inspirados en juegos de pelota, juegos cl\u00e1sicos, juegos retro6. juegos de pelota y juegos gratis para adultos.7. Juego de ritmo r\u00e1pido y no lineal.8. hecho con juegos unity 2d con excelentes gr\u00e1ficos.9. Las bandas sonoras son simplemente incre\u00edbles.10. controles de precisi\u00f3n y suaves.11. 24 niveles de desaf\u00edo. y agregue m\u00e1s en la pr\u00f3xima actualizaci\u00f3n.12. hecho con la plataforma unity \"Unity Game Engine\".13. mejores juegos en juegos de pelota.14. Juegos independientes en 2D desarrollados por un solo desarrollador.15. Juego con elementos de juego arcade y juegos de pelota gratuitos.16. viene con elementos de juegos de rompecabezas dif\u00edciles para desafiarte.17. debes pensar como un jugador profesional incondicional en juegos retro para completar cada uno de estos niveles de juegos dif\u00edciles.18. Si\u00e9ntete como si estuvieras jugando juegos de pelota hechos con Unity.",
+         "Desde": "",
+         "Hasta": "2024/06/29 20:30",
+         "URL": "https://ambitious-game-studio.itch.io/ballvania",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5NDMzOS83NTMwNjM1LnBuZw==/347x500/TnvKqJ.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -598,16 +688,6 @@
          "Hasta": "2024/06/29 20:30",
          "URL": "https://gamedevmkss.itch.io/horror-hotel-3",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTI0MjI2LzI3MjI1NzAuanBn/347x500/n79sGH.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "BallVania - hard game by Ambitious Game Studio",
-         "Informacion": "\"Ballvania\" est\u00e1 inspirado en juegos retro dif\u00edciles y dif\u00edciles. En estos juegos retro, juegas como pelotas de diferentes deportes como tenis, f\u00fatbol americano o f\u00fatbol, \u200b\u200bbaloncesto y b\u00e9isbol. En estos juegos de pelota, tu objetivo es mover la pelota a trav\u00e9s de un controlador en pantalla y evitar obst\u00e1culos mortales como l\u00e1seres, cuchillas giratorias, ca\u00f1ones, lanzas y otros obst\u00e1culos mortales dif\u00edciles que a\u00f1aden jugo a estos juegos creados con Unity 2D. Tambi\u00e9n te enfrentas a agujeros que transportan la bola a otro hoyo para mejorar tu experiencia de juego. Son juegos bastante simples y gratuitos para adultos. Este juego dif\u00edcil presenta 20 variantes de pelota diferentes para jugar y una lista superior de juegos de pelota. Debes probar una y otra vez la l\u00f3gica de tus juegos 2D y la estrategia para completar este juego hecho con Unity. Los juegos retro cuentan con 24 niveles de juego dif\u00edciles que te brindan un desaf\u00edo serio en juegos gratuitos para adultos. \"Ballvania\" tambi\u00e9n presenta un juego no lineal de ritmo r\u00e1pido para emocionar tu experiencia de juego. La banda sonora de estos juegos de pelota es incre\u00edble y coincide con el nivel de los juegos dif\u00edciles del mundo. Necesitas movimientos de precisi\u00f3n y juegos gratuitos de precisi\u00f3n para adultos para completar cada nivel de mi juego hecho con unidad. Nivel de dificultad de los niveles de juegos retro inspirados en algunos de los juegos 2D. Fabricado en la plataforma de los mejores juegos del mercado, \"Unity Game Engine\". El juego Made with Unity es fant\u00e1stico para dispositivos m\u00f3viles. Tambi\u00e9n utilizo el mismo motor de juego Unity para este juego Made with Unity. Sinceramente, hice estos juegos retro por mi cuenta. es decir, hago toda la programaci\u00f3n, el arte, el dise\u00f1o de niveles, todo excepto las bandas sonoras. Hice estos juegos en 2D para todos los que aman los desaf\u00edos en juegos como los juegos de pelota y a quienes les encantan los desaf\u00edos en el juego. Estos juegos dif\u00edciles son adecuados para juegos gratuitos para adultos, etc. Lo \u00fanico de estos juegos retro es que ning\u00fan desarrollador cre\u00f3 este tipo de juegos de pelota que brindan una jugabilidad \u00fanica, juegos dif\u00edciles y una experiencia de juego dif\u00edcil. Caracter\u00edstica \u00fanica como teletransportaci\u00f3n, nivel completo en pantalla \u00fanica, etc. Debido a toda esta singularidad, este juego hecho con Unity ser\u00e1 bueno en juegos de pelota y juegos en 2D. Otra caracter\u00edstica \u00fanica de este juego de pelota es que es \"f\u00e1cil de aprender y dif\u00edcil de dominar\". S\u00ed amigos, en los juegos gratuitos para adultos, al principio, juegas niveles simples. al completar los niveles iniciales, te enfrentaste a niveles de dificultad media y luego a los niveles m\u00e1s dif\u00edciles de los juegos dif\u00edciles. Como sabes, este juego hecho con Unity est\u00e1 inspirado en juegos dif\u00edciles de los juegos retro de la era de la nostalgia de los 90, metroidvania, juegos de pelota, juegos en 2D, tu desaf\u00edo. Ser\u00e1 dif\u00edcil completar cada nivel. y experimentas una mec\u00e1nica de juego nueva y una jugabilidad m\u00e1s fluida en estos juegos dif\u00edciles. Este juego es adictivo, as\u00ed que juega con prudencia. Este juego de pelota tambi\u00e9n presenta algunos elementos de juegos de rompecabezas. como si fueras nuevo en elegir el hoyo correcto para ir al hoyo correcto, encontrar la llave correcta para desbloquear puertas y tomar decisiones con precisi\u00f3n para completar este juego dif\u00edcil y gratuito para adultos.CARACTER\u00cdSTICAS DE ESTE JUEGO INDIE.1. Este juego viene en tama\u00f1o peque\u00f1o, menos de 50 MB.2. A diferencia de otros juegos, mi juego Made with proporciona una experiencia de juego \u00fanica.3. Desaf\u00eda obst\u00e1culos mortales como l\u00e1seres, cuchillas, cuchillas giratorias, cohetes, p\u00faas, ca\u00f1ones, flechas, encogidos, etc.4. F\u00e1cil de aprender dif\u00edcil de dominar.5. Juegos dif\u00edciles del mundo, inspirados en juegos de pelota, juegos cl\u00e1sicos, juegos retro6. juegos de pelota y juegos gratis para adultos.7. Juego de ritmo r\u00e1pido y no lineal.8. hecho con juegos unity 2d con excelentes gr\u00e1ficos.9. Las bandas sonoras son simplemente incre\u00edbles.10. controles de precisi\u00f3n y suaves.11. 24 niveles de desaf\u00edo. y agregue m\u00e1s en la pr\u00f3xima actualizaci\u00f3n.12. hecho con la plataforma unity \"Unity Game Engine\".13. mejores juegos en juegos de pelota.14. Juegos independientes en 2D desarrollados por un solo desarrollador.15. Juego con elementos de juego arcade y juegos de pelota gratuitos.16. viene con elementos de juegos de rompecabezas dif\u00edciles para desafiarte.17. debes pensar como un jugador profesional incondicional en juegos retro para completar cada uno de estos niveles de juegos dif\u00edciles.18. Si\u00e9ntete como si estuvieras jugando juegos de pelota hechos con Unity.",
-         "Desde": "",
-         "Hasta": "2024/06/29 20:30",
-         "URL": "https://ambitious-game-studio.itch.io/ballvania",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI5NDMzOS83NTMwNjM1LnBuZw==/347x500/TnvKqJ.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
