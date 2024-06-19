@@ -1,166 +1,6 @@
 {
-   "date_update": "18 Jun 2024 16:02 UTC",
+   "date_update": "19 Jun 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Juegos retro 5 en 1",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego de terror corto realizado en 1 semana.",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/stargates",
-         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por\u00a0Grantech.shop",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores.",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
-         "Desde": "",
-         "Hasta": "2024/06/19 00:00",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The False Immortality Paradox by gingerchris",
-         "Informacion": "Una novela visual sobre un chico que adquiere la capacidad de viajar en el tiempo.",
-         "Desde": "",
-         "Hasta": "2024/06/19 07:00",
-         "URL": "https://gingerchris.itch.io/the-false-immortality-paradox",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTU0ODg5Lzc2NTc2NzEucG5n/347x500/K2ZDTe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Audials Music 2024",
-         "Informacion": "Spotify, Amazon, Tidal y muchos m\u00e1s. Busque y guarde canciones de Deezer, Amazon Music, Soundcloud, Tidal, Spotify, otros servicios de streaming y portales de v\u00eddeo como copias privadas.",
-         "Desde": "",
-         "Hasta": "2024/06/19 09:00",
-         "URL": "https://sharewareonsale.com/s/free-audials-music-2024-se-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/11/amuBoxShotatmedium.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "FileRestorePlus",
-         "Informacion": "Ya sea que haya eliminado un archivo por accidente, haya perdido todo en una falla del sistema o haya formateado el disco duro, FileRestorePlus recupera cualquier tipo de archivo en muy poco tiempo. Tenga la tranquilidad de saber que tiene un plan de respaldo despu\u00e9s de eliminar archivos accidentalmente. \u00a1FileRestorePlus es la aplicaci\u00f3n de recuperaci\u00f3n de archivos m\u00e1s f\u00e1cil de usar! Y si desea recuperar fotos, utilice el modo Photo SmartScan para una recuperaci\u00f3n avanzada de archivos de im\u00e1genes eliminados.",
-         "Desde": "",
-         "Hasta": "2024/06/19 09:00",
-         "URL": "https://sharewareonsale.com/s/free-filerestoreplus-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/FRP.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "VideoProc Converter AI",
-         "Informacion": "VideoProc Converter AI es un paquete integral para mejorar videos/fotos antiguos, SD y de baja calidad a 4K/8K/10K utilizando los \u00faltimos modelos de IA. Adem\u00e1s, puede convertir v\u00eddeos grandes/4K/HD, transcodificar v\u00eddeos/audios/DVD, mejorarlos, suavizarlos, estabilizarlos, comprimirlos, editarlos, descargarlos y grabarlos. Resuelva los problemas de calidad de v\u00eddeo, formatos y tama\u00f1os de archivos con la tecnolog\u00eda de aceleraci\u00f3n de hardware de nivel 3.",
-         "Desde": "",
-         "Hasta": "2024/06/19 09:00",
-         "URL": "https://sharewareonsale.com/s/free-videoproc-converter-ai-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/videoproc-converter-ai-box.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "WonderFox DVD Video Converter",
-         "Informacion": "Extraiga y convierta DVD m\u00e1s r\u00e1pido que nunca",
-         "Desde": "",
-         "Hasta": "2024/06/19 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-video-converter-2/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wonderfox-dvd-video-converter-2-uuega.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "WonderFox DVD Video Converter Free License Key 2024",
          "Informacion": "WonderFox DVD Video Converter es un conversor de v\u00eddeo y DVD bien revisado que puede ayudarle a convertir DVD y v\u00eddeos m\u00e1s r\u00e1pido que nunca. Puede copiar todo tipo de pel\u00edculas en DVD y programas de televisi\u00f3n a su PC, televisores inteligentes, iPhone, iPad y tel\u00e9fonos y tabletas con Android. Adem\u00e1s, el software le permite capturar v\u00eddeos en l\u00ednea de plataformas populares como YouTube, Vimeo, Facebook y m\u00e1s de 1000 sitios web.",
@@ -169,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/10/wonderfox-dvd-video-converter-giveaway-coupon.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Aquatic Adventure by Yoeri Staal",
@@ -179,7 +19,7 @@
          "URL": "https://yoeristaal.itch.io/aquatic-adventure",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUxMDY4MC8xNDkyMjA3Ni5wbmc=/347x500/AHQkP2.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Equivalence by Yoeri Staal",
@@ -189,7 +29,7 @@
          "URL": "https://yoeristaal.itch.io/equivalence",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NDc3MS8xNTQ2MjIwNy5wbmc=/347x500/bnDkH8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Fix the Future by Yoeri Staal",
@@ -199,7 +39,7 @@
          "URL": "https://yoeristaal.itch.io/fix-the-future",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU1MzU0Mi8xNTM1NzY4Ny5wbmc=/347x500/Cm6k%2Bz.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Fracture by Yoeri Staal",
@@ -209,7 +49,7 @@
          "URL": "https://yoeristaal.itch.io/fracture",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3NDE5MC8xNDY4ODAxMC5wbmc=/347x500/u47SIY.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Plantopia by Yoeri Staal",
@@ -219,7 +59,7 @@
          "URL": "https://yoeristaal.itch.io/plantopia",
          "IMG": "https://img.itch.zone/aW1nLzE2NDEwOTg5LnBuZw==/347x500/JH28M3.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "HDR Projects 7",
@@ -229,7 +69,17 @@
          "URL": "https://sharewareonsale.com/s/free-hdr-projects-7-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/70800-7_01Adqd77Pe9uUw0_1280x1280@2x.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Replay Music",
+         "Informacion": "Replay Music es una grabadora de m\u00fasica \u00fanica, especialmente optimizada para audio, que captura archivos de canciones desde cualquier sitio web o reproductor de PC. Guarde su m\u00fasica en archivos MP3 de alta calidad, perfectamente separados en pistas individuales y etiquetados autom\u00e1ticamente con toda la informaci\u00f3n de la canci\u00f3n. Adem\u00e1s, la avanzada tecnolog\u00eda de grabaci\u00f3n de audio de Replay Music elimina los sonidos del sistema y otros ruidos de fondo, brind\u00e1ndote una grabaci\u00f3n n\u00edtida y limpia.",
+         "Desde": "",
+         "Hasta": "2024/06/20 09:00",
+         "URL": "https://sharewareonsale.com/s/free-replay-music-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/RM-box-640.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Idle Champions de Forgotten Realms",
@@ -322,6 +172,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "FTPie - Your Ultimate FTP Client License Key Free 2024",
+         "Informacion": "FTPie es un cliente FTP simple y potente que se integra perfectamente con Google Docs y las aplicaciones de Microsoft 365. Ofrece una soluci\u00f3n integral y vers\u00e1til para todas sus necesidades de transferencia de archivos. Este programa admite muchas funciones avanzadas, como procesamiento por lotes, aplicaciones integradas y edici\u00f3n de documentos. Ya sea que se trate de tareas de administraci\u00f3n de archivos cotidianas o de migraciones de datos complejas, puede usarlo para administrar y transferir archivos de manera eficiente y segura.",
+         "Desde": "",
+         "Hasta": "2024/06/22 12:00",
+         "URL": "https://giveaway.tickcoupon.com/ftpie-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/06/ftpie-boxshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Photo Optimizer 9 License Key Free",
          "Informacion": "Ashampoo Photo Optimizer es un software de edici\u00f3n de fotograf\u00edas dise\u00f1ado para ayudarle a obtener fotograf\u00edas impresionantes con solo un clic de distancia. Este sorprendente software puede mejorar cualquier imagen sin importar las circunstancias en las que se grab\u00f3. A\u00fan m\u00e1s, la optimizaci\u00f3n autom\u00e1tica de im\u00e1genes de Photo Optimizer le ahorra mucho tiempo.",
          "Desde": "",
@@ -382,32 +242,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Kamon Santa Baster by KamonGD",
-         "Informacion": "Kamon Santa Baster r5",
+         "Nombre": "Cheburbot (beta) by KamonGD",
+         "Informacion": "-\u00a0 \u00a0ASCII",
          "Desde": "",
          "Hasta": "2024/06/22 23:00",
-         "URL": "https://kamongd.itch.io/kamon-santa-baster",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg1ODEzNS8xMDkxMzg2MS5qcGc=/347x500/UeTUc8.jpg",
+         "URL": "https://kamongd.itch.io/cheburbot",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzNjAxNC83NTE2MTI2LnBuZw==/347x500/dKyFRy.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Zizzya by KamonGD",
-         "Informacion": "-...",
+         "Nombre": "\u00d0\u009a\u00d0\u00be\u00d0\u00b2\u00d0\u00b8\u00d0\u00b419 by KamonGD",
+         "Informacion": "- 19.",
          "Desde": "",
          "Hasta": "2024/06/22 23:00",
-         "URL": "https://kamongd.itch.io/zizzya",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ3NzYxNi84NzE3Mjk0LnBuZw==/347x500/ryx8Df.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Tyanki 1999 by KamonGD",
-         "Informacion": "Mitad chica, mitad tanque, abandonada en el centro de las hostilidades, no hay conexi\u00f3n con el cuartel general, no hay salvaci\u00f3n.- 1 Super modo secreto",
-         "Desde": "",
-         "Hasta": "2024/06/22 23:00",
-         "URL": "https://kamongd.itch.io/tyanki-1999",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQyNDgxMS84MzAzMDgxLmdpZg==/347x500/xoo7Cd.gif",
+         "URL": "https://kamongd.itch.io/kovid19",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjQ2MjA2LzM0NjE3MDgucG5n/347x500/oKfvrV.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -422,12 +272,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Cheburbot (beta) by KamonGD",
-         "Informacion": "-\u00a0 \u00a0ASCII",
+         "Nombre": "\u00d0\u009a\u00d1\u0080\u00d1\u0083\u00d1\u0082\u00d0\u00b0\u00d1\u008f \u00d0\u0093\u00d0\u00be\u00d0\u00bb\u00d0\u00be\u00d0\u00b2\u00d0\u00b0 by KamonGD",
+         "Informacion": "- \u00d0\u00b1\u00d0\u00b8\u00d1\u1e0d\u1000\u00d0\u00b8\u00d0\u00bd\u00d1\u1ea1\u00d0\u00b0\u00d0\u00bc \u00d1\u1ea1 \u00d0\u00bb\u00d0\u00be\u00d0\u00b2\u00d1\u1ea1\u00d1\u1ea1\u00d0\u00ba\u00d0\u00b0\u00d0\u00bc\u00d0\u00b8.",
          "Desde": "",
          "Hasta": "2024/06/22 23:00",
-         "URL": "https://kamongd.itch.io/cheburbot",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzNjAxNC83NTE2MTI2LnBuZw==/347x500/dKyFRy.png",
+         "URL": "https://kamongd.itch.io/krutayagolova",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzI4ODMwLzQ2NTY4NjcucG5n/347x500/lqmmzd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kamon Santa Baster by KamonGD",
+         "Informacion": "Kamon Santa Baster r5",
+         "Desde": "",
+         "Hasta": "2024/06/22 23:00",
+         "URL": "https://kamongd.itch.io/kamon-santa-baster",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg1ODEzNS8xMDkxMzg2MS5qcGc=/347x500/UeTUc8.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -452,22 +312,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "\u00d0\u009a\u00d1\u0080\u00d1\u0083\u00d1\u0082\u00d0\u00b0\u00d1\u008f \u00d0\u0093\u00d0\u00be\u00d0\u00bb\u00d0\u00be\u00d0\u00b2\u00d0\u00b0 by KamonGD",
-         "Informacion": "- \u00d0\u00b1\u00d0\u00b8\u00d1\u1e0d\u1000\u00d0\u00b8\u00d0\u00bd\u00d1\u1ea1\u00d0\u00b0\u00d0\u00bc \u00d1\u1ea1 \u00d0\u00bb\u00d0\u00be\u00d0\u00b2\u00d1\u1ea1\u00d1\u1ea1\u00d0\u00ba\u00d0\u00b0\u00d0\u00bc\u00d0\u00b8.",
+         "Nombre": "Tyanki 1999 by KamonGD",
+         "Informacion": "Mitad chica, mitad tanque, abandonada en el centro de las hostilidades, no hay conexi\u00f3n con el cuartel general, no hay salvaci\u00f3n.- 1 Super modo secreto",
          "Desde": "",
          "Hasta": "2024/06/22 23:00",
-         "URL": "https://kamongd.itch.io/krutayagolova",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzI4ODMwLzQ2NTY4NjcucG5n/347x500/lqmmzd.png",
+         "URL": "https://kamongd.itch.io/tyanki-1999",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQyNDgxMS84MzAzMDgxLmdpZg==/347x500/xoo7Cd.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "\u00d0\u009a\u00d0\u00be\u00d0\u00b2\u00d0\u00b8\u00d0\u00b419 by KamonGD",
-         "Informacion": "- 19.",
+         "Nombre": "Zizzya by KamonGD",
+         "Informacion": "-...",
          "Desde": "",
          "Hasta": "2024/06/22 23:00",
-         "URL": "https://kamongd.itch.io/kovid19",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjQ2MjA2LzM0NjE3MDgucG5n/347x500/oKfvrV.png",
+         "URL": "https://kamongd.itch.io/zizzya",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ3NzYxNi84NzE3Mjk0LnBuZw==/347x500/ryx8Df.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -539,6 +399,26 @@
          "URL": "https://sharewareonsale.com/s/free-50-animated-video-backgrounds-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/06/Main-Image-200x133.jpg?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "iCare Format Recovery Pro 8",
+         "Informacion": "Herramienta profesional de recuperaci\u00f3n de formato que puede deshacer el formateo de medios digitales como discos duros, unidades flash USB y tarjetas de memoria.",
+         "Desde": "",
+         "Hasta": "2024/06/24 09:00",
+         "URL": "https://sharewareonsale.com/s/free-icare-format-recovery-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/01/formatpro-200x200.jpg?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "iCare Format Recovery Pro 1-Year License Key for Free",
+         "Informacion": "Es posible que ocasionalmente reciba datos da\u00f1ados o perdidos de los sistemas de almacenamiento. \u00bfC\u00f3mo vas a recuperar tu informaci\u00f3n desde all\u00ed? Recuperemos datos de un disco duro formateado, una unidad flash USB o una tarjeta de memoria utilizando la poderosa herramienta de recuperaci\u00f3n de datos de Windows, iCare Format Recovery.",
+         "Desde": "",
+         "Hasta": "2024/06/24 14:00",
+         "URL": "https://giveaway.tickcoupon.com/icare-format-recovery-pro-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/icare-format-recovery-pro-license-code-free.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -708,6 +588,16 @@
          "Hasta": "2024/06/29 23:00",
          "URL": "https://al3cs71.itch.io/the-dark-retributionist",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTExNTI5LzczMzY2OTMucG5n/347x500/TKX6Mc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Laserfield by isikenes",
+         "Informacion": "\u00a1Bienvenidos a Laserfield! Prep\u00e1rate para ser el heroico capit\u00e1n de una nave espacial en un viaje lleno de acci\u00f3n por el espacio. Usa tus ca\u00f1ones l\u00e1ser para derribar naves espaciales enemigas en una emocionante batalla entre las estrellas. Mejora tu nave espacial para obtener a\u00fan m\u00e1s potencia mientras te enfrentas a desaf\u00edos infinitos. Evade r\u00e1pidamente los ataques enemigos y demuestra tus habilidades. \u00a0\u00bfEst\u00e1s preparado para la aventura c\u00f3smica de tu vida? \u00a1Toma el control ahora y demuestra que eres el mejor as espacial! \u00a1Participa y emb\u00e1rcate en esta emocionante misi\u00f3n!",
+         "Desde": "",
+         "Hasta": "2024/06/29 23:00",
+         "URL": "https://isikenes.itch.io/laserfield",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4NjkxNC8xMjkxNTIwNi5wbmc=/347x500/PCzJuP.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
