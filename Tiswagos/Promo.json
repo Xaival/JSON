@@ -1,36 +1,6 @@
 {
-   "date_update": "26 Jun 2024 16:03 UTC",
+   "date_update": "27 Jun 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Fear the light by Tomython",
-         "Informacion": "El juego actualmente se encuentra en etapas muy tempranas de desarrollo, todas las mec\u00e1nicas b\u00e1sicas y su imagen est\u00e1n listas, sin embargo, pueden haber errores en el juego que originalmente no exist\u00edan, nos disculpamos de antemano por el inconveniente. Tambi\u00e9n hay que tener en cuenta que el juego a\u00fan se actualizar\u00e1 y se lanzar\u00e1n parches, ya que todav\u00eda no es un lanzamiento, sino solo un prototipo listo para usar.",
-         "Desde": "",
-         "Hasta": "2024/06/26 23:00",
-         "URL": "https://tomython.itch.io/fear-the-light",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjczMzMyMS8xNjMwMzk4OS5wbmc=/347x500/SAbEwU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "SENTRY: Protect The Core by SentryMaker",
-         "Informacion": "ENTRADAS :",
-         "Desde": "",
-         "Hasta": "2024/06/27 01:00",
-         "URL": "https://sentrymaker.itch.io/sentry",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2NzkyOS8xNjUyODExMi5wbmc=/347x500/RkiAJZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Glarysoft Software Update PRO 6",
-         "Informacion": "Software Update Pro es un cliente de software de calidad dise\u00f1ado para informarle sobre las actualizaciones de software disponibles para su computadora.\n\u2022 Gratis, peque\u00f1o, f\u00e1cil de usar y altamente funcional con una interfaz intuitiva.\n\u2022 Proporciona notificaciones e informaci\u00f3n sobre actualizaciones de software disponibles.\n\u2022 Respaldado por una biblioteca de software en crecimiento.\n\u2022 No hay filtraci\u00f3n de informaci\u00f3n personal.",
-         "Desde": "",
-         "Hasta": "2024/06/27 09:00",
-         "URL": "https://sharewareonsale.com/s/free-glarysoft-software-update-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/12/1-1-200x140.jpg?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "FliFlik KlearMax for Photo 6-Month License Key for Free",
          "Informacion": "\u00bfEst\u00e1 buscando el mejor potenciador de im\u00e1genes con IA para convertir sus im\u00e1genes de `meh` a `magn\u00edficas`? \u00a1No busque m\u00e1s! En la publicaci\u00f3n de hoy, descubramos FliFlik KlearMax for Photo, la mejor herramienta impulsada por IA, que har\u00e1 que sus fotos canten con una claridad visual placentera. Con solo un clic, puedes mejorar la foto usando esta aplicaci\u00f3n de mejora de fotos con IA aumentando la resoluci\u00f3n, eliminando el desenfoque, ajustando el balance de color y afinando los detalles.",
@@ -39,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/fliflik-klearmax-for-photo-free-license/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/06/fliflik-klearmax-for-photo-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Freshly Frosted",
@@ -49,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/freshly-frosted-c636d0",
          "IMG": "https://cdn1.epicgames.com/spt-assets/8856ac3296214cc086bc101382ee8ffa/freshly-frosted-offer-1tpl2.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "LEGO\u00ae Builder's Journey",
@@ -59,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/lego-builders-journey",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LEGOBuildersJourney_LightBrickStudio_S1_2560x1440-6ae618ef78b4fe194f6f349a4fae9101",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Rumble Club - Free Game of the Week Bonus",
@@ -69,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/rumble-club-674364",
          "IMG": "https://cdn1.epicgames.com/spt-assets/dcc6ac462e384ff1a3b388fe7be5d51c/rumble-club-nrfyr.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Lost Castle: The Old Ones Awaken",
@@ -79,7 +49,7 @@
          "URL": "https://store.epicgames.com/p/lost-castle-abb2e2",
          "IMG": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Exo Track by NOTAHEK",
@@ -89,67 +59,7 @@
          "URL": "https://notahek.itch.io/exo-track",
          "IMG": "https://img.itch.zone/aW1nLzE2NjE3MjE4LmpwZWc=/347x500/0Ewvdj.jpeg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres perdidos hace mucho tiempo. Pero el mundo submarino est\u00e1 lleno de peligros: corrientes traicioneras, depredadores astutos y trampas antiguas que guardan secretos olvidados. Whaley debe recorrer este camino traicionero, mientras evita a los enemigos. \u00bfVolver\u00e1 con sus padres?",
-         "Desde": "",
-         "Hasta": "2024/06/27 23:00",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego dif\u00edcil en 2D con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2024/06/27 23:00",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/06/27 23:00",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2024/06/27 23:00",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/06/27 23:00",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2024/06/27 23:00",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Foxy Man by AL7USSAIN",
@@ -159,7 +69,67 @@
          "URL": "https://al7ussain.itch.io/foxy-man",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+      },
+      {
+         "Nombre": "Here We Go Again by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/06/27 23:00",
+         "URL": "https://al7ussain.itch.io/hear-we-go-again",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+      },
+      {
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
+         "Desde": "",
+         "Hasta": "2024/06/27 23:00",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+      },
+      {
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego dif\u00edcil en 2D con trampas dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2024/06/27 23:00",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/06/27 23:00",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+      },
+      {
+         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
+         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres perdidos hace mucho tiempo. Pero el mundo submarino est\u00e1 lleno de peligros: corrientes traicioneras, depredadores astutos y trampas antiguas que guardan secretos olvidados. Whaley debe recorrer este camino traicionero, mientras evita a los enemigos. \u00bfVolver\u00e1 con sus padres?",
+         "Desde": "",
+         "Hasta": "2024/06/27 23:00",
+         "URL": "https://al7ussain.itch.io/whale-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2024/06/27 23:00",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "The Devil Inside by jojo_dev",
@@ -169,7 +139,7 @@
          "URL": "https://jojo-dev.itch.io/the-devil-inside",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MzAxMC8xNjY3NDMxNS5wbmc=/347x500/ICUgW9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "The Green Screen Club",
@@ -179,7 +149,7 @@
          "URL": "https://sharewareonsale.com/s/free-the-green-screen-club-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/480x326px.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
@@ -272,6 +242,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo UnInstaller 12",
+         "Informacion": "Ashampoo\u00ae UnInstaller 12 elimina programas sin restos y le permite instalar, probar y eliminar software sin preocupaciones. Cuatro m\u00e9todos de eliminaci\u00f3n garantizan una eliminaci\u00f3n m\u00e1s completa de la que es posible con los medios predeterminados de Windows. Incluso las configuraciones anidadas est\u00e1n completamente registradas y son extra\u00edbles. La tecnolog\u00eda de monitoreo de instalaci\u00f3n integrada en UnInstaller registra todas las modificaciones de archivos y sistemas y las revierte por completo durante la eliminaci\u00f3n del software. El programa detecta autom\u00e1ticamente la mayor\u00eda de las instalaciones de principio a fin para que los usuarios no tengan que realizar acciones manuales. Las instalaciones que no fueron registradas por UnInstaller a\u00fan se pueden eliminar completamente gracias a la base de datos incorporada con cientos de perfiles de software y nuestra propia tecnolog\u00eda de limpieza profunda. El programa tambi\u00e9n cuenta con tecnolog\u00eda de instant\u00e1neas para comparar diferentes estados del sistema y detectar modificaciones al instante. Tambi\u00e9n es posible la eliminaci\u00f3n del software por lotes o mediante arrastrar y soltar. La versi\u00f3n 12 presenta hibernaci\u00f3n que suspende temporalmente las aplicaciones instaladas y las entradas, tareas y servicios de Windows relacionados con el inicio autom\u00e1tico para liberar recursos. Las aplicaciones permanecen instaladas pero permanecen inactivas hasta que se \u201cactivan\u201d nuevamente. Los limpiadores de UnInstaller 12 han sido revisados \u200b\u200by ahora son un 50% m\u00e1s r\u00e1pidos y eficientes. Adem\u00e1s, un nuevo administrador de cookies permite eliminar y incluir en la lista blanca de cookies en todos los navegadores.",
+         "Desde": "",
+         "Hasta": "2024/06/29 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-12-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/scr-ashampoo-uninstaller-12-main-on.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Audials Music 2024",
          "Informacion": "Spotify, Amazon, Tidal y muchos m\u00e1s. Busque y guarde canciones de Deezer, Amazon Music, Soundcloud, Tidal, Spotify, otros servicios de streaming y portales de v\u00eddeo como copias privadas.",
          "Desde": "",
@@ -292,12 +272,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ashampoo UnInstaller 12",
-         "Informacion": "Ashampoo\u00ae UnInstaller 12 elimina programas sin restos y le permite instalar, probar y eliminar software sin preocupaciones. Cuatro m\u00e9todos de eliminaci\u00f3n garantizan una eliminaci\u00f3n m\u00e1s completa de la que es posible con los medios predeterminados de Windows. Incluso las configuraciones anidadas est\u00e1n completamente registradas y son extra\u00edbles. La tecnolog\u00eda de monitoreo de instalaci\u00f3n integrada en UnInstaller registra todas las modificaciones de archivos y sistemas y las revierte por completo durante la eliminaci\u00f3n del software. El programa detecta autom\u00e1ticamente la mayor\u00eda de las instalaciones de principio a fin para que los usuarios no tengan que realizar acciones manuales. Las instalaciones que no fueron registradas por UnInstaller a\u00fan se pueden eliminar completamente gracias a la base de datos incorporada con cientos de perfiles de software y nuestra propia tecnolog\u00eda de limpieza profunda. El programa tambi\u00e9n cuenta con tecnolog\u00eda de instant\u00e1neas para comparar diferentes estados del sistema y detectar modificaciones al instante. Tambi\u00e9n es posible la eliminaci\u00f3n del software por lotes o mediante arrastrar y soltar. La versi\u00f3n 12 presenta hibernaci\u00f3n que suspende temporalmente las aplicaciones instaladas y las entradas, tareas y servicios de Windows relacionados con el inicio autom\u00e1tico para liberar recursos. Las aplicaciones permanecen instaladas pero permanecen inactivas hasta que se \u201cactivan\u201d nuevamente. Los limpiadores de UnInstaller 12 han sido revisados \u200b\u200by ahora son un 50% m\u00e1s r\u00e1pidos y eficientes. Adem\u00e1s, un nuevo administrador de cookies permite eliminar y incluir en la lista blanca de cookies en todos los navegadores.",
+         "Nombre": "FTPie Pro",
+         "Informacion": "El cliente FTP simple y potente con perfecta integraci\u00f3n de Google Docs y aplicaciones de Microsoft 365.",
          "Desde": "",
          "Hasta": "2024/06/29 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-12-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/scr-ashampoo-uninstaller-12-main-on.png?7297",
+         "URL": "https://sharewareonsale.com/s/free-ftpie-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/3d.png?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -809,7 +789,7 @@
          "URL": "https://store.epicgames.com/p/sunless-skies-bb4947",
          "IMG": "https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1v5ll.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "DRmare Audible Converter License Key Free 2024",
@@ -862,6 +842,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ondesoft Amazon Music Converter 1-Year Key Free",
+         "Informacion": "Ondesoft Amazon Music Converter es una herramienta poderosa y confiable que tiene la capacidad de convertir canciones, \u00e1lbumes y listas de reproducci\u00f3n de Amazon Music. Con un reproductor web de Amazon integrado dentro del software, puedes descargar todas las pistas proporcionadas por Amazon Music sin ninguna limitaci\u00f3n. Las canciones descargadas de Amazon Music tambi\u00e9n se guardar\u00e1n en formatos convencionales, incluidos M4A, MP3, AAC, FLAC, WAV y AIFF, para escucharlas sin conexi\u00f3n de manera flexible.",
+         "Desde": "",
+         "Hasta": "2024/07/09 07:00",
+         "URL": "https://giveaway.tickcoupon.com/ondesoft-amazon-music-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/06/ondesoft-amazon-music-converter.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "LAST NIGHT by NISHAD",
          "Informacion": "\u00bfUn juego de historia CORTA sobre un YOUTUBER que lucha por conseguir un BOT\u00d3N DE JUEGO ORO pero le sucede algo extra\u00f1o a su PC y quiere realizar una encuesta?",
          "Desde": "",
@@ -882,6 +872,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Falconeer: Standard Edition",
+         "Informacion": "Soar through the skies aboard a majestic warbird, explore a stunning oceanic world and engage in epic aerial dogfights, in this BAFTA nominated air combat game from solo developer, Tomas Sala.",
+         "Desde": "2024/07/04",
+         "Hasta": "2024/07/11 17:00",
+         "URL": "https://store.epicgames.com/p/the-falconeer",
+         "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Strange Toilet The Forgotten Shit by TheThil",
+         "Informacion": "El juego tiene 3 finales posibles. Tiempo medio de juego: 30-45 minutos.",
+         "Desde": "",
+         "Hasta": "2024/07/13 07:00",
+         "URL": "https://thethil.itch.io/strange-toilet-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NzAxMS8xMzU4MDA1NC5qcGc=/347x500/fAMvKk.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet by TheThil",
+         "Informacion": "En el tranquilo barrio donde viven Nathan y Sarah, hay una presencia siniestra. Una amenaza potencial de un asesino suelto. Los residentes no esperaban que en esta tarde pac\u00edfica se enfrentar\u00edan a una realidad sombr\u00eda que nunca anticiparon.",
+         "Desde": "",
+         "Hasta": "2024/07/13 07:00",
+         "URL": "https://thethil.itch.io/strange-toilet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MjYwOC84MTg3NTUyLnBuZw==/347x500/A%2BcWTM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Aiarty Image Enhancer [with Generative AI]",
          "Informacion": "Software de mejora de fotograf\u00edas e im\u00e1genes con tecnolog\u00eda de inteligencia artificial para eliminar ruido, desenfocar, mejorar im\u00e1genes y generar m\u00e1s detalles de imagen.",
          "Desde": "",
@@ -889,6 +909,56 @@
          "URL": "https://sharewareonsale.com/s/free-aiarty-image-enhancer-with-generative-ai-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/06/box.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town: Forgotten Lives by David Pires",
+         "Informacion": "Trabajas como guardia de seguridad en un antiguo teatro y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2024/07/14 23:00",
+         "URL": "https://david-pires.itch.io/sea-town-forgotten-lives",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYyMTYxMi8xNTYyMTYwOS5wbmc=/347x500/twindD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town: Party Over by David Pires",
+         "Informacion": "Est\u00e1s encerrado en un hospital abandonado y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2024/07/14 23:00",
+         "URL": "https://david-pires.itch.io/sea-town-party-over",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2MDYyOS8xNTIzNzYxOS5wbmc=/347x500/OTjnng.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town: Nightmare Night by David Pires",
+         "Informacion": "Est\u00e1s durmiendo en una habitaci\u00f3n de hotel y tienes que protegerte de una pesadilla hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2024/07/14 23:00",
+         "URL": "https://david-pires.itch.io/sea-town-nightmare-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk2NjE0Ny8xNDM4ODA0MS5wbmc=/347x500/fK49r%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 3 by David Pires",
+         "Informacion": "Trabajas como guardia de seguridad en un centro comercial y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2024/07/14 23:00",
+         "URL": "https://david-pires.itch.io/sea-town-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1Nzg1MS8xNDM4Nzk5NC5wbmc=/347x500/KpVd0a.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 2 by David Pires",
+         "Informacion": "Est\u00e1s encerrado en una f\u00e1brica abandonada y tienes que protegerte de personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2024/07/14 23:00",
+         "URL": "https://david-pires.itch.io/sea-town-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NTY0MS8xNDM4Nzk2MS5wbmc=/347x500/3m5IfX.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
