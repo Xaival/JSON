@@ -459,6 +459,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 clubdelas25.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 contactos.follamigas.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 contactos.sexy.nicobronipago.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 creative.camterest.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 derechoaroce.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 es-es2.wyylde.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 eu1.hotornot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -489,7 +490,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.deseosyplacer.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.encuentratuchica.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.estoycachonda.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 creative.camterest.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.fling.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.fuckworld.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.fuegodevida.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
