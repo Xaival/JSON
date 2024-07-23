@@ -1,156 +1,6 @@
 {
-   "date_update": "22 Jul 2024 16:03 UTC",
+   "date_update": "23 Jul 2024 16:03 UTC",
    "values": [
-      {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora el siguiente cap\u00edtulo de la historia de CS est\u00e1 a punto de comenzar. Este es Counter-Strike 2.",
-         "Desde": "",
-         "Hasta": "2024/07/22 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Once Human",
-         "Informacion": "Once Human es un juego de supervivencia multijugador en mundo abierto ambientado en un extra\u00f1o futuro post-apocal\u00edptico. \u00danete a amigos para luchar contra enemigos monstruosos, descubrir complots secretos, competir por recursos y construir tu propio territorio. Una vez fuiste meramente humano. Ahora tienes el poder de rehacer el mundo.",
-         "Desde": "",
-         "Hasta": "2024/07/22 10:00",
-         "URL": "https://store.steampowered.com/app/2139460/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PGA TOUR 2K23",
-         "Informacion": "\u00a1Juega gratis! Golpea los campos con m\u00e1s arrogancia en PGA TOUR 2K23. \u00a1Ahora incluye profesionales masculinos y femeninos jugables, incluido Tiger Woods, nuevos campos con licencia, m\u00e1s opciones de control, un aut\u00e9ntico PGA TOUR MyCAREER, Course Designer y nuevas habilidades y arquetipos de MyPLAYER! TOUR DE LA PGA 2K23. M\u00e1s golf. M\u00e1s juego.",
-         "Desde": "",
-         "Hasta": "2024/07/22 10:00",
-         "URL": "https://store.steampowered.com/app/1588010/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1588010/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PUBG: BATTLEGROUNDS",
-         "Informacion": "Juega PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un equipo y \u00fanete a los campos de batalla para disfrutar de la experiencia Battle Royale original que solo PUBG: BATTLEGROUNDS puede ofrecer.",
-         "Desde": "",
-         "Hasta": "2024/07/22 10:00",
-         "URL": "https://store.steampowered.com/app/578080/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/07/22 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Trackmania",
-         "Informacion": "\u00a1Bienvenido al club! Toma el volante y juega Trackmania\u00ae GRATIS ahora.",
-         "Desde": "",
-         "Hasta": "2024/07/22 10:00",
-         "URL": "https://store.steampowered.com/app/2225070/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Daunting by SDevScares",
-         "Informacion": "Recordatorio:",
-         "Desde": "",
-         "Hasta": "2024/07/23 00:00",
-         "URL": "https://sdevscares.itch.io/daunting",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNjM5Ny8xNTA4NzY2My5qcGc=/347x500/Xs4XaS.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The Lost Apartment Demo by SDevScares",
-         "Informacion": "Si quieres que yo desarrolle tu propio videojuego, cont\u00e1ctame en fiverr:",
-         "Desde": "",
-         "Hasta": "2024/07/23 00:00",
-         "URL": "https://sdevscares.itch.io/the-lost-apartment",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA1ODc4OC8xNDQ5NDQzOS5qcGc=/347x500/LPmoDg.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "UnrealityDread by SDevScares",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/07/23 00:00",
-         "URL": "https://sdevscares.itch.io/unreality-dread",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwNjE5OS8xNDcwMzgwMS5qcGc=/347x500/eFS8W0.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Sentry: Core Protection Service by MasterDevMed",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/07/23 01:00",
-         "URL": "https://masterdevmed.itch.io/sentry-core-protection",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODMzMi8xNjY0MzQyNi5wbmc=/347x500/OH2tF7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Bots of Boria (N-body Simulation) by Dancing Dots",
-         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
-         "Desde": "",
-         "Hasta": "2024/07/23 04:09",
-         "URL": "https://15joldersmat.itch.io/bots-of-boria",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyODM3NS8xNjI3Mjk2NC5wbmc=/347x500/fqD1mf.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
-      },
-      {
-         "Nombre": "Pazu Video Cutter 1-Year License Key Free",
-         "Informacion": "Pazu Video Cutter es uno de los mejores programas de divisi\u00f3n de videos del mercado. Est\u00e1 disponible para Windows y Mac. Este software est\u00e1 dise\u00f1ado para ayudarlo a dividir cualquier archivo de video en m\u00faltiples segmentos por tiempo, duraci\u00f3n o fotograma clave. Puedes utilizar esta herramienta para cortar formatos de v\u00eddeo como AVI, MP4, MOV, M4V, MKV, MPEG, MPG, DAT, VOB, FLV, WMV, etc., de forma sencilla y sin p\u00e9rdidas. Pazu Video Cutter proporciona dos modos, Modo de corte y Modo de tiempo, para dividir archivos de video grandes en m\u00faltiples segmentos o recortar partes no deseadas de cualquier video sin p\u00e9rdida de calidad.",
-         "Desde": "",
-         "Hasta": "2024/07/23 07:00",
-         "URL": "https://giveaway.tickcoupon.com/pazu-video-cutter-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/pazu-video-cutter-boxshot.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Larger Than Light by 1010meha",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/07/23 08:55",
-         "URL": "https://1010meha.itch.io/larger-than-light",
-         "IMG": "https://img.itch.zone/aW1hZ2UvOTk5MjM1LzU5ODMzMjUuZ2lm/347x500/HuLApM.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Commander 16",
-         "Informacion": "El nuevo Ashampoo Photo Commander 16 es la soluci\u00f3n completa para ver, editar y organizar tus fotograf\u00edas. Ponga orden en su colecci\u00f3n, optimice varias im\u00e1genes de una sola vez y cree calendarios, tarjetas fotogr\u00e1ficas y presentaciones de diapositivas completas con facilidad. Ya seas un fot\u00f3grafo principiante, novato o profesional, siempre tendr\u00e1s excelentes resultados a solo unos clics de distancia.",
-         "Desde": "",
-         "Hasta": "2024/07/23 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-16-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-15.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Power-user Premium",
-         "Informacion": "Power-user es un complemento de productividad para PowerPoint, Excel y Word",
-         "Desde": "",
-         "Hasta": "2024/07/23 09:00",
-         "URL": "https://sharewareonsale.com/s/free-power-user-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/0.-PowerPoint-Templates-l-Power-user-Logo_2x-scaled.jpg?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "WarmeY2K Engine + Templates by jay19240",
          "Informacion": "WarmeY2K es un motor de juegos 2D/3D totalmente gratuito dedicado a los juegos independientes. Proporciona una forma sencilla de crear juegos \"de la vieja escuela\" basados \u200b\u200ben la web como la era PS1/PS2/XBOX en un entorno moderno Typescript y HTML5, CSS3. Viene con un complemento de Blender para exportar f\u00e1cilmente todo tipo de objetos 3D compatibles con el marco. Lo mismo se est\u00e1 trabajando actualmente para 2D con herramientas de itch.io como TileKit, Spritemancer y Asesprite. Este marco viene en la versi\u00f3n paga con 16 plantillas de juego comunes, una para cada gran familia de juegos. Cada plantilla est\u00e1 escrita en Typescript/Javascript y construida para ser limpia y extensible. Si no quieres pagar, el motor principal est\u00e1 disponible gratuitamente como un paquete npm o un kit de inicio con una documentaci\u00f3n completa.",
@@ -159,7 +9,7 @@
          "URL": "https://jay19240.itch.io/warme-y2k",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3NTI0Ny8xNjk0MzY5Ni5wbmc=/347x500/pv03So.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Power-user Premium Software License Key Free 1-Year",
@@ -169,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/power-user-software-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/power-user-add-in-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Campus Killer \u00e6\u00a0\u00a1\u00e5\u009c\u0092\u00e6\u00ae\u00ba\u00e6\u0089\u008b by JohnMenbo",
@@ -179,7 +29,7 @@
          "URL": "https://johnmenbo.itch.io/campuskiller",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgwMDEzOC8xNjk0MzYzMS5wbmc=/347x500/mSWm6E.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Giveaway Aiseesoft MobieSync Registration Code 1-Year",
@@ -189,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/aiseesoft-mobiesync-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/01/aiseesoft-mobiesync-boxshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Mafia by VAIVAICORP",
@@ -199,7 +49,7 @@
          "URL": "https://vaivaicorp.itch.io/mafia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjcyODYwOS8xNjI3NDU2NC5wbmc=/347x500/89CM0R.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "SpiritShine by VAIVAICORP",
@@ -209,7 +59,7 @@
          "URL": "https://vaivaicorp.itch.io/spirits",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjYyOTI5Ni8xNTY2NzE2Mi5qcGc=/347x500/t7gz86.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "Text Trivia Pro by Ahsan Makes Games",
@@ -219,7 +69,7 @@
          "URL": "https://ahsanmakesgames.itch.io/text-trivia-pro",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3NjU2OC8xNjU2Nzg0My5wbmc=/347x500/yPx8kh.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
       },
       {
          "Nombre": "1000 Professional Light Leaks Photo Overlays",
@@ -229,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-1000-professional-light-leaks-photo-overlays-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/02/1000_only_Main-Image-200x133.jpg?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "DiReec Screen Recorder",
@@ -239,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-direec-screen-recorder-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/Direec-Windows_ss.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "O&O DiskImage 17 Pro",
@@ -249,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-oo-diskimage-17-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/oodi17_startseite.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Arcade Paradise",
@@ -282,6 +132,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BRUD by Splif",
+         "Informacion": "\u00bfQuieres saber qu\u00e9 pas\u00f3 en Ucrania, Nadvirna, en 1999?",
+         "Desde": "",
+         "Hasta": "2024/07/25 23:00",
+         "URL": "https://bodyisnumb.itch.io/brud",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU5NDQwOC8xNTQ0OTcxMi5wbmc=/347x500/rHORO1.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Battle Hell : Hazel! by Dancing Dots",
          "Informacion": "Infierno de batalla: \u00a1Hazel! Un simulador de guerra con IA: mira c\u00f3mo se desarrollan las batallas \u00e9picas en un mundo basado en mosaicos",
          "Desde": "",
@@ -308,6 +168,26 @@
          "Hasta": "2024/07/26 03:45",
          "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NzQ0My8xNjM5NTE1OS5wbmc=/347x500/PBz1yb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cursed Robot by GamingTGT",
+         "Informacion": "NOTA IMPORTANTE: NUEVA ACTUALIZACI\u00d3N!!!!!!!!!!!!.",
+         "Desde": "",
+         "Hasta": "2024/07/26 07:00",
+         "URL": "https://gamingtgt.itch.io/there-is-someone-inside-the-bedroom",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MzM0NC8xMjg0ODk3NC5naWY=/347x500/Gg87hr.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Plasma by GamingTGT",
+         "Informacion": "Un hombre rodeado en su sue\u00f1o por una criatura llamada \"Dream Killer\". Una criatura rodeada en esta ciudad humana. Su misi\u00f3n es controlar su sue\u00f1o, apoyar y destruir a su cliente en aproximadamente 10 d\u00edas. Ser\u00e1s arrojado a tantos lugares diferentes. y descubrir diferentes entidades.",
+         "Desde": "",
+         "Hasta": "2024/07/26 07:00",
+         "URL": "https://gamingtgt.itch.io/plasma",
+         "IMG": "https://img.itch.zone/aW1nLzExMzY4OTI0LnBuZw==/347x500/H602ta.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -492,6 +372,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Fear Assessment by ALEXANDERWISEMAN",
+         "Informacion": "El programa FEAR ASSESSMENT\u00a0es una prueba especializada desarrollada e implementada por agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web y la informaci\u00f3n de su disco duro.",
+         "Desde": "",
+         "Hasta": "2024/07/30 07:25",
+         "URL": "https://alexanderwiseman.itch.io/fear-assessment",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjExOTgzNy8xMjY3MTUxMS5wbmc=/347x500/bBN61Y.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Geekersoft Compressor",
+         "Informacion": "Geekersoft Compressor es un software profesional de compresi\u00f3n de im\u00e1genes/v\u00eddeo, compresi\u00f3n eficiente e inteligente, ajuste gratuito de par\u00e1metros, tasa de compresi\u00f3n de hasta el 95%",
+         "Desde": "",
+         "Hasta": "2024/07/30 09:00",
+         "URL": "https://sharewareonsale.com/s/free-geekersoft-compressor-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/geekersoft-compressor.webp?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Whispers In The Dark by Celestar Studios",
          "Informacion": "\u00bfPuedes encontrar la salida?",
          "Desde": "",
@@ -509,6 +409,16 @@
          "URL": "https://seanteb16.itch.io/whispers-in-the-dark",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgyMTQ4OS8xNjg1NDYxNy5wbmc=/347x500/%2FDC76y.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Geekersoft Compressor License Key Free 2024 Giveaway",
+         "Informacion": "\u00bfBusca un software de compresi\u00f3n r\u00e1pida de im\u00e1genes y v\u00eddeos? Bueno, intenta usar Geekersoft Compressor. El software de Windows es conocido no s\u00f3lo por comprimir varios formatos de imagen, sino que tambi\u00e9n puede comprimir varios formatos de v\u00eddeo. Con esta herramienta, puede reducir el tama\u00f1o de sus archivos de imagen/video manipulando su proporci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2024/07/30 14:00",
+         "URL": "https://giveaway.tickcoupon.com/geekersoft-compressor-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/geekersoft-compressor_box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -842,6 +752,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "survival island by survivalisland",
+         "Informacion": "Esta es una versi\u00f3n de demostraci\u00f3n y la estamos desarrollando. Si es posible para usted, h\u00e1gamelo saber. Esto es muy importante para nosotros para hacer el juego m\u00e1s grande.",
+         "Desde": "",
+         "Hasta": "2024/07/31 21:17",
+         "URL": "https://survivalisland.itch.io/survival-island",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0OTEyOS8xNzAzMTk0MS5wbmc=/347x500/SbPVqx.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Tower Ascent by KGP1125",
          "Informacion": "Tower Ascent es un juego de plataformas que consta de enemigos, que el jugador debe evitar, y monedas, que debe recolectar para ascender a la torre. El jugador gana al evadir con \u00e9xito a todos los enemigos a lo largo de los 3 niveles del juego.",
          "Desde": "",
@@ -982,6 +902,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "UNFORGIVEN : Oblivion's Edge by MasterDevMed",
+         "Informacion": "Luego de despertar en lo profundo del olvido, con un recuerdo confuso, Lumen escucha una voz amigable que lo gu\u00eda hacia la barrera conocida como \"Oblivion's Edge\". M\u00e1s all\u00e1 de esta barrera se encuentra el Inframundo, donde Lumen puede comenzar a preparar su venganza contra el Susurrador.",
+         "Desde": "",
+         "Hasta": "2024/08/06 06:55",
+         "URL": "https://masterdevmed.itch.io/unforgiven-oblivions-edge",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNjYxNy8xNzA0MTE4OC5wbmc=/347x500/WZqFoO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "UNFORGIVEN : Carry The Pain by MasterDevMed",
+         "Informacion": "Entradas:",
+         "Desde": "",
+         "Hasta": "2024/08/06 06:55",
+         "URL": "https://masterdevmed.itch.io/unforgiven-carry-the-pain",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTE5NzgzNS82OTg4MDI3LnBuZw==/347x500/366rva.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "coffee boy by bee tea",
          "Informacion": "En este encantador juego corto, juegas como el chico del caf\u00e9 reci\u00e9n contratado. \u00a1Depende de ti encontrar el True Coffee y entreg\u00e1rselo al Jefe! Podr\u00e1s hacer amigos extravagantes, explorar las misteriosas instalaciones, leer textos divertidos y... \u00bfencontrar al chico del caf\u00e9 desaparecido? De todos modos, no te preocupes por eso \u00faltimo y \u00a1conc\u00e9ntrate en LLEVARLE EL CAF\u00c9 AL JEFE!",
          "Desde": "",
@@ -1022,22 +962,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres perdidos hace mucho tiempo. Pero el mundo submarino est\u00e1 lleno de peligros: corrientes traicioneras, depredadores astutos y trampas antiguas que guardan secretos olvidados. Whaley debe recorrer este camino traicionero, mientras evita a los enemigos. \u00bfVolver\u00e1 con sus padres?",
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo mover",
          "Desde": "",
          "Hasta": "2024/08/10 20:31",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego dif\u00edcil en 2D con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2024/08/10 20:31",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
+         "URL": "https://al7ussain.itch.io/foxy-man",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1052,12 +982,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA MOVIMIENTO",
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
          "Desde": "",
          "Hasta": "2024/08/10 20:31",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego dif\u00edcil en 2D con trampas dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2024/08/10 20:31",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1072,22 +1012,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
+         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
+         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres perdidos hace mucho tiempo. Pero el mundo submarino est\u00e1 lleno de peligros: corrientes traicioneras, depredadores astutos y trampas antiguas que guardan secretos olvidados. Whaley debe recorrer este camino traicionero, mientras evita a los enemigos. \u00bfVolver\u00e1 con sus padres?",
          "Desde": "",
          "Hasta": "2024/08/10 20:31",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "URL": "https://al7ussain.itch.io/whale-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo mover",
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA MOVIMIENTO",
          "Desde": "",
          "Hasta": "2024/08/10 20:31",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1150,6 +1090,16 @@
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY4OTg1MC8xMzA5NDg0OC5wbmc=/347x500/PjUzR0.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lost Castle: The Old Ones Awaken",
+         "Informacion": "The Old Ones Awaken adds new levels to explore, new enemies to de\u00a1The Old Ones Awaken incluye nuevos niveles que explorar!feat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
+         "Desde": "2024/08/05",
+         "Hasta": "2024/08/19 17:00",
+         "URL": "https://store.epicgames.com/p/lost-castle-abb2e2",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "The Cropping Night by Onequid Games",
