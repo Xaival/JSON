@@ -315,6 +315,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 local-sexx.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 maidr.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 onlyfreelatinaporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 pretty-sluts-nearby.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 rr.tracker.mobiletracking.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 s.viizichp.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 secret-flirt-hub.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
