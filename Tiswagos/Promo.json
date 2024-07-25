@@ -1,5 +1,5 @@
 {
-   "date_update": "24 Jul 2024 16:03 UTC",
+   "date_update": "25 Jul 2024 16:03 UTC",
    "values": [
       {
          "Nombre": "Arcade Paradise",
@@ -9,7 +9,7 @@
          "URL": "https://store.epicgames.com/p/arcade-paradise",
          "IMG": "https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S1_2560x1440-5a8ca84efde851f3ca2b0d30b393543e",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Maid of Sker",
@@ -19,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/maid-of-sker-2ae24e",
          "IMG": "https://cdn1.epicgames.com/spt-assets/964693002c1b447c949b155c71727c45/maid-of-sker-1ig0g.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Easter Clicker - Idle Egg Hunter by Nutty Studios",
@@ -29,7 +29,7 @@
          "URL": "https://nutty-studios.itch.io/easter-clicker",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4ODI1Mi8xMTgxNTM5OC5wbmc=/347x500/YR43Ex.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "BRUD by Splif",
@@ -39,7 +39,7 @@
          "URL": "https://bodyisnumb.itch.io/brud",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5NDQwOC8xNTQ0OTcxMi5wbmc=/347x500/rHORO1.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Battle Hell : Hazel! by Dancing Dots",
@@ -49,7 +49,7 @@
          "URL": "https://15joldersmat.itch.io/hazel",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MzA5OC8xNjQyODcxOC5wbmc=/347x500/u68iT%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Battle Hell: Arder! by Dancing Dots",
@@ -59,7 +59,7 @@
          "URL": "https://15joldersmat.itch.io/battle-hell-arder",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NDE3OS8xNjQyNDUwMy5wbmc=/347x500/fZ21SD.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Battle Hell: Crastle Valley! by Dancing Dots",
@@ -69,7 +69,37 @@
          "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NzQ0My8xNjM5NTE1OS5wbmc=/347x500/PBz1yb.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
+      },
+      {
+         "Nombre": "The Very Little Bang by Dancing Dots",
+         "Informacion": "Al principio hab\u00eda... \u00a1\u00a1\u00a1GUERRA!!!",
+         "Desde": "",
+         "Hasta": "2024/07/26 06:36",
+         "URL": "https://15joldersmat.itch.io/the-very-little-bang",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgzMTI4Ni8xNjkxMzYzNy5wbmc=/347x500/bH8mTn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Veins : Hearts At War by Dancing Dots",
+         "Informacion": "Veins es un juego inactivo minimalista y s\u00faper sencillo. Observe c\u00f3mo los corazones de colores bombean y luchan por el control de la pantalla mientras extienden sus vastas redes de venas invasivas.",
+         "Desde": "",
+         "Hasta": "2024/07/26 06:36",
+         "URL": "https://15joldersmat.itch.io/veins",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyMTQzMi8xNjg1NDI4Mi5wbmc=/347x500/Ir0SLX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Minimperiums by Dancing Dots",
+         "Informacion": "**Minimperiums 1.0: una simulaci\u00f3n de guerra con IA**",
+         "Desde": "",
+         "Hasta": "2024/07/26 06:36",
+         "URL": "https://15joldersmat.itch.io/minimperiums",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4NTQ2OS8xNjYyNjcxMS5wbmc=/347x500/MnNz6r.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "Cursed Robot by GamingTGT",
@@ -79,7 +109,7 @@
          "URL": "https://gamingtgt.itch.io/there-is-someone-inside-the-bedroom",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MzM0NC8xMjg0ODk3NC5naWY=/347x500/Gg87hr.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Plasma by GamingTGT",
@@ -89,7 +119,17 @@
          "URL": "https://gamingtgt.itch.io/plasma",
          "IMG": "https://img.itch.zone/aW1nLzExMzY4OTI0LnBuZw==/347x500/H602ta.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Paranormal Place by ASKGAMES",
+         "Informacion": "Paranormal Place es un thriller psicol\u00f3gico en primera persona. El \u00e9nfasis principal del juego est\u00e1 en el proceso de exploraci\u00f3n, la tensi\u00f3n aumenta lentamente, creando un efecto de inmersi\u00f3n completo y v\u00edvido. Breve descripci\u00f3n:El personaje principal es el blogger Alex. Dirige su propio canal y busca tendencias paranormales all\u00ed. Ahora se dirige a un edificio abandonado, donde antiguamente hab\u00eda cuarteles militares, seg\u00fan la informaci\u00f3n oficial. Lleva consigo todos sus dispositivos: una c\u00e1mara y un sistema de videovigilancia. No tendr\u00e1s dudas sobre la existencia del otro mundo despu\u00e9s de explorar este edificio. \u00a1Crea contenido que te convertir\u00e1 en una estrella de Internet! Caracter\u00edsticas del juego: - UE 5.3; - Efecto Bodycam; - El g\u00e9nero de \"Walking Simulator\"; - Sonido envolvente 3D; - Gr\u00e1ficos realistas. El tiempo estimado de recorrido es 60 minutos.",
+         "Desde": "",
+         "Hasta": "2024/07/26 09:00",
+         "URL": "https://askgames.itch.io/paranorm-place",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg1MzExNC8xNzA1MzYzMS5wbmc=/347x500/lbQ4ys.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Wise Data Recovery Pro License Key Free 2024",
@@ -98,6 +138,16 @@
          "Hasta": "2024/07/26 15:00",
          "URL": "https://giveaway.tickcoupon.com/wise-data-recovery-full-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/04/wise-data-recovery-giveaway-license-key-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DRmare Audible Converter License Key Free 2024",
+         "Informacion": "Para resolver el problema de incompatibilidad, DRmare Audible Converter est\u00e1 desarrollado para ayudarlo a convertir audiolibros Audible de AA/AAX a varios formatos de audio de uso com\u00fan. Con esta aplicaci\u00f3n, puede descargar y convertir archivos Audible AA/AAX a MP3, FLAC, M4A, etc., a una velocidad de conversi\u00f3n rel\u00e1mpago de 100x sin la autorizaci\u00f3n de la cuenta de Audible. Adem\u00e1s, esta herramienta de conversi\u00f3n de Audible proporciona la funci\u00f3n de mantener una calidad de tono 100% sin p\u00e9rdidas para garantizar que la calidad de audio de sus archivos Audible permanezca intacta.",
+         "Desde": "",
+         "Hasta": "2024/07/26 15:00",
+         "URL": "https://giveaway.tickcoupon.com/drmare-audible-converter-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/06/drmare-audible-converter-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -118,6 +168,26 @@
          "Hasta": "2024/07/27 09:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2024-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/burningstudio24.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Taskbar Customizer",
+         "Informacion": "Ashampoo Taskbar Customizer altera el color y la opacidad de su barra de tareas. Con un solo clic, puedes hacerlo semitransl\u00facido o aplicar el color que quieras.",
+         "Desde": "",
+         "Hasta": "2024/07/27 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-taskbar-customizer-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/scr-ashampoo-taskbar-customizer.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "O&O DiskImage 17 Pro",
+         "Informacion": "O&O DiskImage 17 le permite realizar copias de seguridad de una computadora completa o de archivos individuales cuando lo desee, incluso mientras la computadora est\u00e1 en uso. En caso de que pierda sus datos personales, podr\u00e1 restaurarlos r\u00e1pidamente con s\u00f3lo unos pocos clics del mouse, incluso cuando Windows ya no pueda iniciarse. Tambi\u00e9n admite unidades SSD y el \u00faltimo sistema UEFI.",
+         "Desde": "",
+         "Hasta": "2024/07/27 09:00",
+         "URL": "https://sharewareonsale.com/s/free-oo-diskimage-17-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/oodi17_startseite.png?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -232,6 +302,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Get Coolmuster iOS Eraser 1-Year Free License Key Giveaway",
+         "Informacion": "Coolmuster iOS Eraser le permite eliminar completa y permanentemente todos los datos de sus iDevices y liberar espacio en su dispositivo. Puede borrar datos privados como registros bancarios, cuentas y contrase\u00f1as, datos financieros, etc., y datos existentes como fotos, v\u00eddeos, mensajes de texto, registros de llamadas, etc.",
+         "Desde": "",
+         "Hasta": "2024/07/29 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-eraser-full-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/coolmuster-ios-eraser.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
          "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
          "Desde": "",
@@ -339,6 +419,16 @@
          "URL": "https://giveaway.tickcoupon.com/geekersoft-compressor-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/geekersoft-compressor_box.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Running Through Backrooms by GabM2K",
+         "Informacion": "Bienvenido a Running Through Backrooms, una experiencia de terror inmersiva con mec\u00e1nicas de parkour que te sumerge en el inquietante e inquietante mundo de Backrooms. Navega a trav\u00e9s de pasillos aparentemente interminables y habitaciones abandonadas mientras exploras el Nivel 0, el Nivel 0.2, el Nivel 1, el Nivel 2 y el Nivel 3. Cada nivel presenta un desaf\u00edo \u00fanico, que combina la emoci\u00f3n del parkour con el terror de lo desconocido.",
+         "Desde": "",
+         "Hasta": "2024/07/30 14:10",
+         "URL": "https://gabm2k.itch.io/running-through-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0NDg3Mi8xNzA0NTQ4Ny5wbmc=/347x500/ROb7lZ.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -452,22 +542,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Audials TV Recorder 2024",
-         "Informacion": "Audials TV Recorder\u00a0combina visualizaci\u00f3n y grabaci\u00f3n de contenido de televisi\u00f3n y podcasts",
-         "Desde": "",
-         "Hasta": "2024/07/31 09:00",
-         "URL": "https://sharewareonsale.com/s/free-audials-tv-recorder-2024-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/Audials-TV-Recorder-2024_EN_2.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Ashampoo Photo Commander 16",
          "Informacion": "El nuevo Ashampoo Photo Commander 16 es la soluci\u00f3n completa para ver, editar y organizar tus fotograf\u00edas. Ponga orden en su colecci\u00f3n, optimice varias im\u00e1genes de una sola vez y cree calendarios, tarjetas fotogr\u00e1ficas y presentaciones de diapositivas completas con facilidad. Ya seas un fot\u00f3grafo principiante, novato o profesional, siempre tendr\u00e1s excelentes resultados a solo unos clics de distancia.",
          "Desde": "",
          "Hasta": "2024/07/31 09:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-16-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-15.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Audials TV Recorder 2024",
+         "Informacion": "Audials TV Recorder\u00a0combina visualizaci\u00f3n y grabaci\u00f3n de contenido de televisi\u00f3n y podcasts",
+         "Desde": "",
+         "Hasta": "2024/07/31 09:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-tv-recorder-2024-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/Audials-TV-Recorder-2024_EN_2.png?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -702,6 +792,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Gods of Crastle by Dancing Dots",
+         "Informacion": "\u00a1Bienvenido a \"Gods of Crastle\", el reino de la guerra santa donde llevas a los adoradores de tu culto a la victoria! Participa en batallas \u00e9picas y construcciones estrat\u00e9gicas mientras te esfuerzas por conquistar la tierra de Crastle y establecer tu dominio.",
+         "Desde": "",
+         "Hasta": "2024/08/01 02:21",
+         "URL": "https://15joldersmat.itch.io/gods-of-crastle",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg1NDEwNi8xNzA1OTc2MS5wbmc=/347x500/%2FnlL5B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Tower Ascent by KGP1125",
          "Informacion": "Tower Ascent es un juego de plataformas que consta de enemigos, que el jugador debe evitar, y monedas, que debe recolectar para ascender a la torre. El jugador gana al evadir con \u00e9xito a todos los enemigos a lo largo de los 3 niveles del juego.",
          "Desde": "",
@@ -732,6 +832,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "FliFlik KlearMax for Photo 6-Month License Key for Free",
+         "Informacion": "\u00bfEst\u00e1 buscando el mejor potenciador de im\u00e1genes con IA para convertir sus im\u00e1genes de `meh` a `magn\u00edficas`? \u00a1No busque m\u00e1s! En la publicaci\u00f3n de hoy, descubramos FliFlik KlearMax for Photo, la mejor herramienta impulsada por IA, que har\u00e1 que sus fotos canten con una claridad visual placentera. Con solo un clic, puedes mejorar la foto usando esta aplicaci\u00f3n de mejora de fotos con IA aumentando la resoluci\u00f3n, eliminando el desenfoque, ajustando el balance de color y afinando los detalles.",
+         "Desde": "",
+         "Hasta": "2024/08/01 15:00",
+         "URL": "https://giveaway.tickcoupon.com/fliflik-klearmax-for-photo-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/06/fliflik-klearmax-for-photo-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "F.I.S.T.: Forged In Shadow Torch",
          "Informacion": "Explora m\u00e1s de una decena de zonas \u00fanicas en un mapa de estilo metroidvania. \nEl Fist (pu\u00f1o), el Drill (taladro) y el Whip (l\u00e1tigo) son tres armas con estilos de lucha completamente diferentes que te permiten alternar entre combo alto, da\u00f1o elevado y ataques de largo alcance de forma fluida. ",
          "Desde": "2024/07/25",
@@ -739,7 +849,7 @@
          "URL": "https://store.epicgames.com/p/fist-forged-in-shadow-torch",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Paquete de trajes exclusivos",
@@ -749,7 +859,7 @@
          "URL": "https://store.epicgames.com/p/olympics-go-paris-2024-5d5f77",
          "IMG": "https://cdn1.epicgames.com/spt-assets/16c163a44eea408c94b388cb63aafe6d/olympics-go-paris-2024-1dgi6.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Cat Quest II",
@@ -872,6 +982,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Clean ATTACK! by diadas",
+         "Informacion": "Mi entrada para el Bolt Jam #2. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
+         "Desde": "",
+         "Hasta": "2024/08/06 20:22",
+         "URL": "https://diadas.itch.io/clean-attack",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzEyMDU0LzE1NDIyOTAuanBn/347x500/MW86Ra.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "GRAVITY Pilot! by diadas",
          "Informacion": "Mi entrada para el Bolt Jam #6. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
          "Desde": "",
@@ -892,14 +1012,14 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Clean ATTACK! by diadas",
-         "Informacion": "Mi entrada para el Bolt Jam #2. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
-         "Desde": "",
-         "Hasta": "2024/08/06 20:22",
-         "URL": "https://diadas.itch.io/clean-attack",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzEyMDU0LzE1NDIyOTAuanBn/347x500/MW86Ra.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Nombre": "LumbearJack",
+         "Informacion": "Agarra tu hacha y salva el medioambiente cortando y reciclando todo lo que se interponga en tu camino y resuelve puzles con tus encantadores amigos animales.",
+         "Desde": "2024/08/01",
+         "Hasta": "2024/08/08 17:00",
+         "URL": "https://store.epicgames.com/p/lumbearjack-b5bedf",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/lumbearjack-offer-13qa5.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "coffee boy by bee tea",
