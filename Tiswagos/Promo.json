@@ -1,106 +1,6 @@
 {
-   "date_update": "27 Jul 2024 16:02 UTC",
+   "date_update": "28 Jul 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "When Spongebob Attacks:Prologue by GamingTGT",
-         "Informacion": "Cuando Bob Esponja ataca es una serie de cap\u00edtulos que habla de que el crust\u00e1ceo cascarudo es un lugar que tiene una historia muy extra\u00f1a.",
-         "Desde": "",
-         "Hasta": "2024/07/27 21:43",
-         "URL": "https://gamingtgt.itch.io/when-spongebob-attacksprologuee",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNDQ0MC8xNjg3NDEzNi5naWY=/347x500/sNhuXa.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "No symetry by DobyaGame",
-         "Informacion": "Este es un juego de rompecabezas basado en la idea de simetr\u00eda (a pesar de que los jugadores se mueven de forma sincr\u00f3nica en lugar de sim\u00e9trica). Cada uno de los lados puede tener objetos que pueden ser tanto obst\u00e1culos como clave de salida.",
-         "Desde": "",
-         "Hasta": "2024/07/27 23:00",
-         "URL": "https://dobyagame.itch.io/no-symetry",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4MjQzNC8xNjYwNzU2My5wbmc=/347x500/F6iidM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Because of Magic by gamesbyrd",
-         "Informacion": "Criaturas oscuras de la Dimensi\u00f3n de la Oscuridad buscan destruir la Gran Fuente de Todo Poder. Si lo logran, el equilibrio se romper\u00e1 y el universo entero colapsar\u00e1.",
-         "Desde": "",
-         "Hasta": "2024/07/27 23:59",
-         "URL": "https://gamesbyrd.itch.io/becauseofmagic",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU3ODgyMS8xNTM1OTcxNi5wbmc=/347x500/tB0rpJ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Vovsoft Math Practice License Key for Free",
-         "Informacion": "Al asistir a la escuela primaria, los ni\u00f1os estar\u00e1n expuestos a c\u00e1lculos b\u00e1sicos como suma, resta, multiplicaci\u00f3n y divisi\u00f3n. Vovsoft Math Practice est\u00e1 dise\u00f1ado para ayudar a sus hijos a realizar c\u00e1lculos matem\u00e1ticos entre tres niveles, desde f\u00e1cil hasta medio y dif\u00edcil. Para cada sesi\u00f3n, esta herramienta ofrece diez preguntas y, cuando los ni\u00f1os hayan terminado, aparecer\u00e1n las estad\u00edsticas y usted ver\u00e1 algunos n\u00fameros que indican qu\u00e9 tan bien les fue a sus hijos.",
-         "Desde": "",
-         "Hasta": "2024/07/28 00:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-math-practice-key-free-coupon/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/10/vovsoft-math-practice.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Non-Euclidean Minesweeper by Sci-Tech Binary",
-         "Informacion": "Esta aplicaci\u00f3n es un juego de buscaminas geom\u00e9trico no euclidiano que no requiere conjeturas. Utiliza nuestro motor de juego original desarrollado para geometr\u00eda hiperb\u00f3lica, que es una de las geometr\u00edas no euclidianas, y nuestro solucionador de acertijos original optimizado para juegos de buscaminas. Puedes jugar ese cl\u00e1sico juego de rompecabezas en un espacio hiperb\u00f3lico curvo y resolver todos los problemas usando pura l\u00f3gica \u00fanicamente.",
-         "Desde": "",
-         "Hasta": "2024/07/28 02:00",
-         "URL": "https://sci-tech-binary.itch.io/non-euclidean-minesweeper",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1NDY4Mi8xNjk0MDQxOC5wbmc=/347x500/wfSCM9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "1000 Missiles by Dancing Dots",
-         "Informacion": "Objetivo: defender tu naci\u00f3n de 1000 ataques con misiles enemigos utilizando sistemas antia\u00e9reos (AA).",
-         "Desde": "",
-         "Hasta": "2024/07/28 02:24",
-         "URL": "https://15joldersmat.itch.io/1000-missiles",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2MjI4Ni8xNjQ4NzYzMS5wbmc=/347x500/pKCXAX.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
-      },
-      {
-         "Nombre": "Orbital Empires by Dancing Dots",
-         "Informacion": "Mira c\u00f3mo las facciones de la IA luchan por el control de la galaxia.",
-         "Desde": "",
-         "Hasta": "2024/07/28 02:24",
-         "URL": "https://15joldersmat.itch.io/orbital-empires",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzg1Mi8xNjkyNTI5NS5wbmc=/347x500/zvMnGO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
-      },
-      {
-         "Nombre": "Wysaddle Tribe Simulator: 2D Spectator Experience by Dancing Dots",
-         "Informacion": "\u00a1Bienvenidos a los bosques de Wysaddle!",
-         "Desde": "",
-         "Hasta": "2024/07/28 02:24",
-         "URL": "https://15joldersmat.itch.io/wysaddle",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MTQ3NC8xNjY4ODc0OC5wbmc=/347x500/HWWyzT.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
-      },
-      {
-         "Nombre": "Serimusu by Kacchyan",
-         "Informacion": "Serimusu",
-         "Desde": "",
-         "Hasta": "2024/07/28 03:28",
-         "URL": "https://garakutaya.itch.io/serimusu",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU0ODM2MC8xNTE2MzI3OC5qcGc=/347x500/5h3tmz.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
-      },
-      {
-         "Nombre": "Ondesoft Pandora Music Converter 1-Year License Key Free",
-         "Informacion": "Naci\u00f3 con un descargador de m\u00fasica profesional de Pandora y un conversor de Pandora a MP3, Ondesoft Pandora Music Converter est\u00e1 disponible para cuentas Pandora Free, Pandora Plus y Pandora Premium. Esta poderosa aplicaci\u00f3n de conversi\u00f3n de m\u00fasica tiene la capacidad de descargar canciones, \u00e1lbumes, listas de reproducci\u00f3n y podcasts desde el reproductor web Pandora a una PC/Mac a una velocidad 10x. Con su ayuda, puedes convertir Pandora Music a MP3, M4A, AAC, FLAC, WAV y AIFF si tienes una suscripci\u00f3n a Pandora Music, ya sea gratuita o Premium.",
-         "Desde": "",
-         "Hasta": "2024/07/28 07:00",
-         "URL": "https://giveaway.tickcoupon.com/ondesoft-pandora-music-converter-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/07/ondesoft-pandora-music-converter.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "Evidence of 96' by Team Melon, Danial Jumagaliyev, cinnamew, Pxl Dev",
          "Informacion": "Experimente una novela visual oscura desde la perspectiva de un estudiante de secundaria trastornado que cometi\u00f3 un delito grave y ahora debe intentar destruir todas las evidencias que apuntan a \u00e9l.",
@@ -109,7 +9,7 @@
          "URL": "https://teammelon.itch.io/evidence-of-96",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzQ0Mi8xNjgzMTgxMS5wbmc=/347x500/yD1S4E.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Trespasser's Labyrinth by Ethan Winters",
@@ -119,7 +19,17 @@
          "URL": "https://ethan-winters.itch.io/trespassers-labyrinth",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODE1MC8xNjY0NDE0MC5wbmc=/347x500/HvuWVd.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
+      },
+      {
+         "Nombre": "Blackness by gamesbyrd",
+         "Informacion": "CONTROL S:",
+         "Desde": "",
+         "Hasta": "2024/07/28 23:59",
+         "URL": "https://gamesbyrd.itch.io/blackness",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NjM2OC8xNTQwMzA4My5qcGc=/347x500/iv0EZ9.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "AnyViewer Professional License Key for Free",
@@ -129,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/anyviewer-professional-vip-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/anyviewer-professional-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Get Coolmuster iOS Eraser 1-Year Free License Key Giveaway",
@@ -139,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-eraser-full-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/coolmuster-ios-eraser.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -149,7 +59,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -159,7 +69,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -169,7 +79,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "BANANANATER 3000 by pilotspud",
@@ -179,7 +89,7 @@
          "URL": "https://spudboy6.itch.io/banananater",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgwMzU3OS8xNjc1OTc2Mi5wbmc=/347x500/tdzDXc.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "MiniTool MovieMaker 6-Month License Key Free",
@@ -189,7 +99,7 @@
          "URL": "https://giveaway.tickcoupon.com/minitool-moviemaker-license-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/minitool-moviemaker-box.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Counter-Strike 2",
@@ -272,6 +182,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ryza Roads by Felipe Godoy",
+         "Informacion": "\u00a1En este archipi\u00e9lago, podr\u00e1s explorar, competir, comprar nuevos veh\u00edculos, conseguir logros y mucho m\u00e1s!",
+         "Desde": "",
+         "Hasta": "2024/07/30 05:00",
+         "URL": "https://felipegodoy.itch.io/ryzaroads",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDQ3NzQ0LzIyNjQ5NTUucG5n/347x500/iicv2r.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Dark Labyrinth by Ohani Studio",
          "Informacion": "Ad\u00e9ntrate en el Laberinto Oscuro, un viaje escalofriante a trav\u00e9s de un antiguo laberinto envuelto en oscuridad y misterio. Como un intr\u00e9pido explorador, debes recorrer los sinuosos corredores y oscuros pasadizos para descubrir los secretos enterrados en lo m\u00e1s profundo de tu ser. Pero cuidado: este laberinto est\u00e1 perseguido por esp\u00edritus mal\u00e9volos y criaturas de pesadilla que acechan en cada rinc\u00f3n. Con solo una antorcha parpadeante y tu ingenio para guiarte, \u00bfescapar\u00e1s de los horrores del Laberinto Oscuro o te convertir\u00e1s en otra alma perdida atrapada para siempre en sus profundidades malditas?",
          "Desde": "",
@@ -338,6 +258,16 @@
          "Hasta": "2024/07/30 14:10",
          "URL": "https://gabm2k.itch.io/running-through-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg0NDg3Mi8xNzA0NTQ4Ny5wbmc=/347x500/ROb7lZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Monsters Idle RPG by Overaction Game Studio",
+         "Informacion": "Acerca de",
+         "Desde": "",
+         "Hasta": "2024/07/30 18:33",
+         "URL": "https://overactiongames.itch.io/monsters-idle-rpg",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4NjExOS8xMzAzNDY1My5wbmc=/347x500/wzudv%2B.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -478,6 +408,26 @@
          "Hasta": "2024/07/31 09:00",
          "URL": "https://sharewareonsale.com/s/free-audials-tv-recorder-2024-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/Audials-TV-Recorder-2024_EN_2.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Image Compressor",
+         "Informacion": "\u00bfQuieres comprimir im\u00e1genes para ahorrar espacio de almacenamiento sin comprometer la calidad? \u00a1Ashampoo Image Compressor lo hace en un instante!",
+         "Desde": "",
+         "Hasta": "2024/07/31 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-image-compressor-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/Ashampoo-Image-Compressor.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Burning Studio 2024",
+         "Informacion": "Ashampoo\u00ae Burning Studio 2024 es la forma r\u00e1pida y confiable de grabar pel\u00edculas, m\u00fasica y archivos en cualquier disco grabable. Adem\u00e1s de las copias de seguridad de datos, este programa de grabaci\u00f3n tambi\u00e9n extrae audio de CD de m\u00fasica y crea portadas e incrustaciones elegantes.",
+         "Desde": "",
+         "Hasta": "2024/07/31 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2024-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/burningstudio24.png?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -922,12 +872,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Taskbar Customizer",
+         "Informacion": "Ashampoo Taskbar Customizer modifica el color y la opacidad de la barra de tareas. Con un solo clic, puede hacerla semitransl\u00facida o aplicar cualquier color que desee.",
+         "Desde": "",
+         "Hasta": "2024/08/03 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-taskbar-customizer-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/scr-ashampoo-taskbar-customizer.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "SHUL by RABA GAMES",
          "Informacion": "En enero de 2005, la historiadora Juno Whitaker entr\u00f3 en los antiguos t\u00faneles debajo de una sinagoga de la ciudad de Nueva York para investigar misteriosas desapariciones.",
          "Desde": "",
          "Hasta": "2024/08/03 20:00",
          "URL": "https://raba-games.itch.io/shul",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgxOTE0Mi8xNjgzOTkzMC5wbmc=/347x500/q1vsNi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "No symetry by DobyaGame",
+         "Informacion": "Se trata de un juego de rompecabezas basado en la idea de simetr\u00eda (a pesar de que los jugadores se mueven de forma sincronizada en lugar de sim\u00e9trica). Cada uno de los lados puede tener objetos que pueden ser tanto obst\u00e1culos como una llave para la salida.",
+         "Desde": "",
+         "Hasta": "2024/08/03 23:00",
+         "URL": "https://dobyagame.itch.io/no-symetry",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4MjQzNC8xNjYwNzU2My5wbmc=/347x500/F6iidM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fear the light by Tomython",
+         "Informacion": "El juego se encuentra actualmente en las primeras etapas de desarrollo, toda la mec\u00e1nica b\u00e1sica y su imagen est\u00e1n listas, sin embargo, puede haber errores en el juego que no exist\u00edan originalmente, nos disculpamos de antemano por las molestias. Tambi\u00e9n hay que tener en cuenta que el juego seguir\u00e1 actualiz\u00e1ndose y se lanzar\u00e1n parches, ya que esto a\u00fan no es un lanzamiento, sino solo un prototipo listo para usar.",
+         "Desde": "",
+         "Hasta": "2024/08/04 16:28",
+         "URL": "https://tomython.itch.io/fear-the-light",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjczMzMyMS8xNjMwMzk4OS5wbmc=/347x500/SAbEwU.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
