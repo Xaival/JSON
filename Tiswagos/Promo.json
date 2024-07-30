@@ -1,136 +1,6 @@
 {
-   "date_update": "29 Jul 2024 16:04 UTC",
+   "date_update": "30 Jul 2024 16:03 UTC",
    "values": [
-      {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
-         "Desde": "",
-         "Hasta": "2024/07/29 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Dead by Daylight",
-         "Informacion": "\u00a1Juega gratis! Dead by Daylight es un juego de terror multijugador (4vs1) en el que un jugador asume el papel del salvaje asesino y los otros cuatro jugadores juegan como supervivientes, intentando escapar del asesino y evitar ser atrapados y asesinados.",
-         "Desde": "",
-         "Hasta": "2024/07/29 10:00",
-         "URL": "https://store.steampowered.com/app/381210/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Once Human",
-         "Informacion": "Once Human es un juego de supervivencia multijugador de mundo abierto ambientado en un extra\u00f1o futuro postapocal\u00edptico. \u00danete a tus amigos para luchar contra monstruos enemigos, descubrir conspiraciones secretas, competir por recursos y construir tu propio territorio. Antes, eras simplemente un humano. Ahora, tienes el poder de rehacer el mundo.",
-         "Desde": "",
-         "Hasta": "2024/07/29 10:00",
-         "URL": "https://store.steampowered.com/app/2139460/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PUBG: BATTLEGROUNDS",
-         "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia Battle Royale original que solo PUBG: BATTLEGROUNDS puede ofrecer.",
-         "Desde": "",
-         "Hasta": "2024/07/29 10:00",
-         "URL": "https://store.steampowered.com/app/578080/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/07/29 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Trackmania",
-         "Informacion": "\u00a1Bienvenido al Club! Coge el volante y juega a Trackmania\u00ae GRATIS ahora.",
-         "Desde": "",
-         "Hasta": "2024/07/29 10:00",
-         "URL": "https://store.steampowered.com/app/2225070/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PC Trek Browser Password Recovery Tool License Key Free",
-         "Informacion": "Si ha olvidado o extraviado las contrase\u00f1as de sus sitios web favoritos, necesita un software que pueda ayudarlo a recuperarlas con solo unos pocos clics. PC Trek Browser Password Recovery Tool es un software de recuperaci\u00f3n de contrase\u00f1as de alta calidad dise\u00f1ado para restaurar las credenciales de su sitio web. Con su ayuda, puede recuperar instant\u00e1neamente los nombres de usuario y las contrase\u00f1as de Google Chrome, Microsoft Edge, Mozilla Firefox, Internet Explorer, Opera, Vivaldi, Brave, Epic Privacy Browser y Torch.",
-         "Desde": "",
-         "Hasta": "2024/07/29 15:00",
-         "URL": "https://giveaway.tickcoupon.com/pc-trek-browser-password-recovery-tool/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/pc-trek-browser-password-recovery-tool-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "lost brother by AtmoPixel",
-         "Informacion": "\"Lost Brother\" es un juego de terror independiente de estilo retro de PSX.",
-         "Desde": "",
-         "Hasta": "2024/07/29 19:59",
-         "URL": "https://atmopixel.itch.io/lost-brother",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg1Njk4NS8xNzA3NzczMy5naWY=/347x500/byPNKv.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Trespasser's Labyrinth by Ethan Winters",
-         "Informacion": "Historia: Te han secuestrado y ahora est\u00e1s atrapado en un laberinto. Resuelve acertijos, sobrevive a encuentros mortales y descubre secretos para asegurar tu libertad. \u00bfPodr\u00e1s salir con vida y escapar del laberinto antes de que sea demasiado tarde?",
-         "Desde": "",
-         "Hasta": "2024/07/29 23:59",
-         "URL": "https://ethan-winters.itch.io/trespassers-labyrinth",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODE1MC8xNjY0NDE0MC5wbmc=/347x500/HvuWVd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Ryza Roads by Felipe Godoy",
-         "Informacion": "\u00a1En este archipi\u00e9lago, podr\u00e1s explorar, competir, comprar nuevos veh\u00edculos, conseguir logros y mucho m\u00e1s!",
-         "Desde": "",
-         "Hasta": "2024/07/30 05:00",
-         "URL": "https://felipegodoy.itch.io/ryzaroads",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQ3NzQ0LzIyNjQ5NTUucG5n/347x500/iicv2r.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Dark Labyrinth by Ohani Studio",
-         "Informacion": "Ad\u00e9ntrate en el Laberinto Oscuro, un viaje escalofriante a trav\u00e9s de un antiguo laberinto envuelto en oscuridad y misterio. Como un intr\u00e9pido explorador, debes recorrer los sinuosos corredores y oscuros pasadizos para descubrir los secretos enterrados en lo m\u00e1s profundo de tu ser. Pero cuidado: este laberinto est\u00e1 perseguido por esp\u00edritus mal\u00e9volos y criaturas de pesadilla que acechan en cada rinc\u00f3n. Con solo una antorcha parpadeante y tu ingenio para guiarte, \u00bfescapar\u00e1s de los horrores del Laberinto Oscuro o te convertir\u00e1s en otra alma perdida atrapada para siempre en sus profundidades malditas?",
-         "Desde": "",
-         "Hasta": "2024/07/30 07:00",
-         "URL": "https://jgaming0802gmailcom.itch.io/dark-labyrinth",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyOTA5OC8xNjkwMDY1Ny5wbmc=/347x500/0Lww09.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Fear Assessment by ALEXANDERWISEMAN",
-         "Informacion": "El programa FEAR ASSESSMENT\u00a0es una prueba especializada desarrollada e implementada por agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web y la informaci\u00f3n de su disco duro.",
-         "Desde": "",
-         "Hasta": "2024/07/30 07:25",
-         "URL": "https://alexanderwiseman.itch.io/fear-assessment",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjExOTgzNy8xMjY3MTUxMS5wbmc=/347x500/bBN61Y.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "Geekersoft Compressor",
-         "Informacion": "Geekersoft Compressor es un software profesional de compresi\u00f3n de im\u00e1genes/v\u00eddeo, compresi\u00f3n eficiente e inteligente, ajuste gratuito de par\u00e1metros, tasa de compresi\u00f3n de hasta el 95%",
-         "Desde": "",
-         "Hasta": "2024/07/30 09:00",
-         "URL": "https://sharewareonsale.com/s/free-geekersoft-compressor-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/geekersoft-compressor.webp?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Whispers In The Dark by Celestar Studios",
          "Informacion": "\u00bfPuedes encontrar la salida?",
@@ -139,7 +9,7 @@
          "URL": "https://celestar-studios.itch.io/whispers-in-the-dark",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgyMTQ4OS8xNjg1NDYxNy5wbmc=/347x500/%2FDC76y.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
       },
       {
          "Nombre": "Whispers In The Dark by Seanteb16",
@@ -149,7 +19,7 @@
          "URL": "https://seanteb16.itch.io/whispers-in-the-dark",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgyMTQ4OS8xNjg1NDYxNy5wbmc=/347x500/%2FDC76y.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
       },
       {
          "Nombre": "Geekersoft Compressor License Key Free 2024 Giveaway",
@@ -159,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/geekersoft-compressor-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/geekersoft-compressor_box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Running Through Backrooms by GabM2K",
@@ -169,7 +39,7 @@
          "URL": "https://gabm2k.itch.io/running-through-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg0NDg3Mi8xNzA0NTQ4Ny5wbmc=/347x500/ROb7lZ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Mango Animation Maker Pro License Key Free",
@@ -179,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/mango-animation-maker-enterprise-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/03/mango-animation-maker-enterprise-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Monsters Idle RPG by Overaction Game Studio",
@@ -189,7 +59,7 @@
          "URL": "https://overactiongames.itch.io/monsters-idle-rpg",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE4NjExOS8xMzAzNDY1My5wbmc=/347x500/wzudv%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "Office Cats by Ken's Studio",
@@ -199,7 +69,7 @@
          "URL": "https://ken-pham.itch.io/office-cats",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MTczOC8xNTQzMzcyOC5wbmc=/347x500/QZl%2Bgb.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Sukuna by Ken's Studio",
@@ -209,7 +79,7 @@
          "URL": "https://ken-pham.itch.io/sukuna",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU2MDMzOS8xNTM4MjY1OS5qcGc=/347x500/osxAQT.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "The Devil Inside by jojo_dev",
@@ -219,7 +89,7 @@
          "URL": "https://jojo-dev.itch.io/the-devil-inside",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MzAxMC8xNjY3NDMxNS5wbmc=/347x500/ICUgW9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
       },
       {
          "Nombre": "Johnny the Pigeon by Blue harpy",
@@ -229,7 +99,7 @@
          "URL": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3MzU0OS8xMzA5NjE0MS5qcGc=/347x500/VboeIP.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Pigeon West: El Diablo by Blue harpy",
@@ -239,7 +109,7 @@
          "URL": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MDAwMi8xNTQyMjYyOS5wbmc=/347x500/S5wnIz.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Quiet West: Butcher noose by Blue harpy",
@@ -249,7 +119,7 @@
          "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNTc4OC8xMzEwNzg1OC5qcGc=/347x500/7kGM3F.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "MacX MediaTrans Giveaway - Get License Key for Free 2024",
@@ -259,7 +129,7 @@
          "URL": "https://giveaway.tickcoupon.com/macx-mediatrans-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/macx-mediatrans-giveaway-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Drug Dealin Sim 2024 by b._.render",
@@ -269,7 +139,7 @@
          "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "Mafia by VAIVAICORP",
@@ -279,7 +149,7 @@
          "URL": "https://vaivaicorp.itch.io/mafia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjcyODYwOS8xNjI3NDU2NC5wbmc=/347x500/89CM0R.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "SpiritShine by VAIVAICORP",
@@ -289,7 +159,7 @@
          "URL": "https://vaivaicorp.itch.io/spirits",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjYyOTI5Ni8xNTY2NzE2Mi5qcGc=/347x500/t7gz86.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "Primal Slideee by Zippy Games",
@@ -299,7 +169,7 @@
          "URL": "https://zippy-game.itch.io/primalslideee",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MzY4MS8xNjUyMDQ5Ny5qcGVn/347x500/1EZYcs.jpeg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "The Cruel One 2 by Sky High Games",
@@ -309,7 +179,7 @@
          "URL": "https://sky-high-games.itch.io/the-cruel-one-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTgzNjc0OS8xMDc3Nzg5MC5qcGc=/347x500/pZS6Gm.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "The Cruel One by Sky High Games",
@@ -319,7 +189,7 @@
          "URL": "https://sky-high-games.itch.io/the-cruel-one",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMyODkwNi83NzI3ODY2LnBuZw==/347x500/O9xIbe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "AcePDF Editor",
@@ -329,7 +199,7 @@
          "URL": "https://sharewareonsale.com/s/free-acepdf-editor-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/06/acepdf-boxshot2.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Ashampoo Burning Studio 2024",
@@ -339,7 +209,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2024-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/burningstudio24.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Ashampoo Image Compressor",
@@ -349,7 +219,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-image-compressor-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/Ashampoo-Image-Compressor.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Ashampoo Photo Commander 16",
@@ -359,7 +229,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-16-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/02/boxshot-15.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Audials TV Recorder 2024",
@@ -369,7 +239,7 @@
          "URL": "https://sharewareonsale.com/s/free-audials-tv-recorder-2024-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/Audials-TV-Recorder-2024_EN_2.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "NetOptimizer",
@@ -379,7 +249,7 @@
          "URL": "https://sharewareonsale.com/s/free-netoptimizer-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/NetOpt_box_shadow.jpg?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Sinister Visions (Chapter 1) by AR92",
@@ -562,6 +432,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Othello in the Playground by Gemmy Arcadia Interactive",
+         "Informacion": "Vuelve a la vibrante d\u00e9cada de 1970 y sum\u00e9rgete en la vida de Ollie, un ni\u00f1o carism\u00e1tico y popular que se enfrenta a los desaf\u00edos y dramas de la escuela primaria. \"Othello in the Playground\" es un juego interactivo basado en una historia en el que tus decisiones dan forma al resultado de la narraci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2024/07/31 15:59",
+         "URL": "https://gemmy-arcadia-interactive.itch.io/oi-tp",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2NTAzMi8xNzEyNzA0MC5wbmc=/347x500/80dzig.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Whimsical Wonders- The silent factory by SoulsNightmare",
          "Informacion": "En el encantador mundo de \"Whimsical Wonders\" se encuentra la misteriosa f\u00e1brica, un lugar envuelto tanto en curiosidad como en nostalgia.",
          "Desde": "",
@@ -622,12 +502,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Orbital Empires by Dancing Dots",
-         "Informacion": "Observa c\u00f3mo las facciones de la IA luchan por el control de la galaxia.",
+         "Nombre": "Bots of Boria by Dancing Dots",
+         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
          "Desde": "",
          "Hasta": "2024/07/31 20:38",
-         "URL": "https://15joldersmat.itch.io/orbital-empires",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzg1Mi8xNjkyNTI5NS5wbmc=/347x500/zvMnGO.png",
+         "URL": "https://15joldersmat.itch.io/bots-of-boria",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyODM3NS8xNjI3Mjk2NC5wbmc=/347x500/fqD1mf.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -642,12 +522,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Bots of Boria by Dancing Dots",
-         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
+         "Nombre": "Orbital Empires by Dancing Dots",
+         "Informacion": "Observa c\u00f3mo las facciones de la IA luchan por el control de la galaxia.",
          "Desde": "",
          "Hasta": "2024/07/31 20:38",
-         "URL": "https://15joldersmat.itch.io/bots-of-boria",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyODM3NS8xNjI3Mjk2NC5wbmc=/347x500/fqD1mf.png",
+         "URL": "https://15joldersmat.itch.io/orbital-empires",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzg1Mi8xNjkyNTI5NS5wbmc=/347x500/zvMnGO.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -682,12 +562,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Wind Turbine by jakejem@outlook.com",
-         "Informacion": "!!!EN ACCESO TEMPRANO!!!",
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
          "Desde": "",
          "Hasta": "2024/08/01 06:00",
-         "URL": "https://jemcraftstudios.itch.io/the-wind-turbine",
-         "IMG": "https://img.itch.zone/aW1nLzE1MzcyNzkzLnBuZw==/347x500/RZ%2BW3Z.png",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -712,12 +592,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Nombre": "The Wind Turbine by jakejem@outlook.com",
+         "Informacion": "!!!EN ACCESO TEMPRANO!!!",
          "Desde": "",
          "Hasta": "2024/08/01 06:00",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "URL": "https://jemcraftstudios.itch.io/the-wind-turbine",
+         "IMG": "https://img.itch.zone/aW1nLzE1MzcyNzkzLnBuZw==/347x500/RZ%2BW3Z.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -872,6 +752,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Covens of Xetta by Dancing Dots",
+         "Informacion": "Objetivo: liderar a tu aquelarre hacia la victoria a trav\u00e9s de Conquista o Puntos de Victoria.",
+         "Desde": "",
+         "Hasta": "2024/08/03 07:53",
+         "URL": "https://15joldersmat.itch.io/covens-of-xetta",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2NTEzNS8xNzEyNzcyNi5wbmc=/347x500/AvNFnm.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "AI Secrets Vault",
          "Informacion": "Acceda a The Deal Quokka AI Secrets Vault, que incluye 18 nuevos informes y gu\u00edas sobre c\u00f3mo aprovechar la IA en todos los aspectos de su negocio a trav\u00e9s de trucos de crecimiento, redes sociales, publicidad y mucho m\u00e1s.",
          "Desde": "",
@@ -962,6 +852,116 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores.",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego a\u00fan est\u00e1 en desarrollo y est\u00e1 previsto su lanzamiento completo en un futuro pr\u00f3ximo.",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego de terror corto creado en una semana.",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por Grantech.shop",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Juegos retro 5 en 1",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/stargates",
+         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/08/06 09:44",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Clean ATTACK! by diadas",
          "Informacion": "Mi entrada para el Bolt Jam #2. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
          "Desde": "",
@@ -988,6 +988,16 @@
          "Hasta": "2024/08/06 20:22",
          "URL": "https://diadas.itch.io/thermo-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NTE1LzE1NzQ2NjYuZ2lm/347x500/oSPwgM.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "When Spongebob Attacks:Prologue by GamingTGT",
+         "Informacion": "Cuando Bob Esponja Ataca es una serie de cap\u00edtulos que habla sobre el Crust\u00e1ceo Cascarudo como un lugar que tiene una historia muy extra\u00f1a.",
+         "Desde": "",
+         "Hasta": "2024/08/06 21:43",
+         "URL": "https://gamingtgt.itch.io/when-spongebob-attacksprologuee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNDQ0MC8xNjg3NDEzNi5naWY=/347x500/sNhuXa.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1182,6 +1192,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Apex Legends\u2122: Lote desbloqueo gratuito de Conduit",
+         "Informacion": "\u00a1Pack de supervivencia! Hazte con el lote de desbloqueo gratuito de Conduit y l\u00e1nzate en Apex Legends\u2122: Onda de choque para disfrutar del caos energ\u00e9tico.",
+         "Desde": "2024/08/06",
+         "Hasta": "2024/08/13 17:00",
+         "URL": "https://store.epicgames.com/p/apex-legends-006cde",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-wfmde.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Lost Castle: The Old Ones Awaken",
          "Informacion": "The Old Ones Awaken adds new levels to explore, new enemies to de\u00a1The Old Ones Awaken incluye nuevos niveles que explorar!feat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
          "Desde": "2024/08/05",
@@ -1198,6 +1218,16 @@
          "Hasta": "2024/08/26 12:30",
          "URL": "https://anders-studio.itch.io/notes",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MTczNC8xNjY2MzYwOC5wbmc=/347x500/P17z5l.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Evidence of 96' by Team Melon, Danial Jumagaliyev, cinnamew, Pxl Dev",
+         "Informacion": "Experimente una novela visual oscura desde la perspectiva de un estudiante de secundaria trastornado que cometi\u00f3 un delito grave y ahora debe tratar de destruir todas las evidencias que apuntan a \u00e9l.",
+         "Desde": "",
+         "Hasta": "2024/08/29 13:00",
+         "URL": "https://teammelon.itch.io/evidence-of-96",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzQ0Mi8xNjgzMTgxMS5wbmc=/347x500/yD1S4E.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
