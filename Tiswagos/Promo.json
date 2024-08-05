@@ -1,56 +1,6 @@
 {
-   "date_update": "04 Aug 2024 16:03 UTC",
+   "date_update": "05 Aug 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Fear the light by Tomython",
-         "Informacion": "El juego se encuentra actualmente en las primeras etapas de desarrollo, toda la mec\u00e1nica b\u00e1sica y su imagen est\u00e1n listas, sin embargo, puede haber errores en el juego que no exist\u00edan originalmente, nos disculpamos de antemano por las molestias. Tambi\u00e9n hay que tener en cuenta que el juego seguir\u00e1 actualiz\u00e1ndose y se lanzar\u00e1n parches, ya que esto a\u00fan no es un lanzamiento, sino solo un prototipo listo para usar.",
-         "Desde": "",
-         "Hasta": "2024/08/04 16:28",
-         "URL": "https://tomython.itch.io/fear-the-light",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjczMzMyMS8xNjMwMzk4OS5wbmc=/347x500/SAbEwU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
-      },
-      {
-         "Nombre": "Cubes in Danger 3 by gamesbyrd",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/08/04 23:59",
-         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzM1OC8xNTQwNTY4MS5wbmc=/347x500/T0Vthd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Crazy Scientist 2 by Infinite Studio",
-         "Informacion": "Historia del juego:",
-         "Desde": "",
-         "Hasta": "2024/08/05 02:00",
-         "URL": "https://infinite-studio.itch.io/crazy-scientist-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5NDMwMy8xNDg3MzA4Mi5qcGVn/347x500/Q73PsT.jpeg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Vovsoft Collect URL License Key Free 2024",
-         "Informacion": "Vovsoft Collect URL es un software de extracci\u00f3n de datos web ligero para Windows con las siguientes caracter\u00edsticas clave: b\u00fasqueda de URL a partir de la URL ingresada por el usuario, filtrado de enlaces y exportaci\u00f3n de los mismos a archivos de texto. Esta herramienta le permite recopilar solo un dominio o subdominio. Esta aplicaci\u00f3n tambi\u00e9n le ayuda a editar la lista de extensiones de archivo ignoradas (excepciones). El valor del agente de usuario para conexiones HTTP y HTTPS se puede cambiar.",
-         "Desde": "",
-         "Hasta": "2024/08/05 04:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-collect-url-key-free-coupon/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/11/vovsoft-collect-url.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
-      },
-      {
-         "Nombre": "Allavsoft",
-         "Informacion": "Descargar y convertir v\u00eddeos para verlos sin conexi\u00f3n",
-         "Desde": "",
-         "Hasta": "2024/08/05 09:00",
-         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=upcoming-freebies",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allavsoft-2-2nbl5.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Myth of Empires",
          "Informacion": "\u00a1Juega gratis! Myth of Empires es un juego de guerra multijugador sandbox que ofrece un alto grado de libertad y m\u00faltiples civilizaciones. Los jugadores deben sobrevivir, crear, crear y liderar tropas en su misi\u00f3n de conquistar territorios PvE o PvP y construir su propio imperio. \u00a1El DLC Civilizaci\u00f3n hel\u00e9nica ya est\u00e1 disponible!",
@@ -59,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/1371580/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1371580/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "WWE 2K24",
@@ -69,7 +19,7 @@
          "URL": "https://store.steampowered.com/app/2315690/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2315690/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "ThunderSoft Slideshow Factory License Key Free",
@@ -79,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/thundersoft-slideshow-factory-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/11/ThunderSoft-Slideshow-Factory.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Cult of the Frog by BachoGames",
@@ -89,7 +39,7 @@
          "URL": "https://bachogames.itch.io/cult-of-the-frog",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg2NTUwNC8xNzE4MjkxMi5qcGc=/347x500/gtOY36.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "BadFame by Benaiez",
@@ -99,7 +49,7 @@
          "URL": "https://benaiez.itch.io/badfame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0ODAyNy8xNDUwNTgyNy5wbmc=/347x500/PeOPdf.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "The Level 1 by WickedDEV",
@@ -109,7 +59,7 @@
          "URL": "https://wickeddev.itch.io/level-1",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgxOTY5MS8xNjg0MzM4Mi5wbmc=/347x500/A%2FZ6CI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "UNFORGIVEN : Carry The Pain by MasterDevMed",
@@ -119,7 +69,7 @@
          "URL": "https://masterdevmed.itch.io/unforgiven-carry-the-pain",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE5NzgzNS82OTg4MDI3LnBuZw==/347x500/366rva.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "UNFORGIVEN : Oblivion's Edge by MasterDevMed",
@@ -129,7 +79,7 @@
          "URL": "https://masterdevmed.itch.io/unforgiven-oblivions-edge",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNjYxNy8xNzA0MTE4OC5wbmc=/347x500/WZqFoO.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
@@ -282,6 +232,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster HEIC Converter 1-Year License Key Free",
+         "Informacion": "El problema de compatibilidad de HEIC en Android o Windows le provoca problemas. Coolmuster HEIC Converter le sacar\u00e1 de apuros en minutos. Como sugiere el nombre, Coolmuster HEIC Converter es una aplicaci\u00f3n de conversi\u00f3n de im\u00e1genes dise\u00f1ada para ayudarle a convertir sus im\u00e1genes HEIC a JPG/JPEG/PNG con la calidad original de forma r\u00e1pida y sencilla. Adem\u00e1s, esta herramienta tambi\u00e9n facilita la conversi\u00f3n por lotes de varios archivos HEIC al formato JPG o PNG a la vez.",
+         "Desde": "",
+         "Hasta": "2024/08/08 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-heic-converter-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/05/coolmuster-heic-converter.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "VCap Downloader PRO",
          "Informacion": "VCap Downloader (VCapDL) es un software universal que permite capturar v\u00eddeo y audio de sitios de Internet. La interfaz del software integra la interfaz habitual del navegador. El usuario solo tiene que copiar y pegar la URL del v\u00eddeo desde el navegador favorito y transferirla a VCap Downloader. VCap Downloader capturar\u00e1 el v\u00eddeo y ofrecer\u00e1 la calidad disponible para su descarga. Tambi\u00e9n puede extraer solo la pista de audio de cualquier v\u00eddeo y convertirla al formato MP3.",
          "Desde": "",
@@ -362,6 +322,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Taskbar Customizer",
+         "Informacion": "Ashampoo Taskbar Customizer modifica el color y la opacidad de la barra de tareas. Con un solo clic, puede hacerla semitransl\u00facida o aplicar cualquier color que desee.",
+         "Desde": "",
+         "Hasta": "2024/08/10 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-taskbar-customizer-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/scr-ashampoo-taskbar-customizer.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "SEO Checker 9",
          "Informacion": "Analizador de sitios web y herramienta de auditor\u00eda SEO",
          "Desde": "",
@@ -378,16 +348,6 @@
          "Hasta": "2024/08/10 09:00",
          "URL": "https://sharewareonsale.com/s/free-winxvideo-ai-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/winxvideo_ai_icon_512_512.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ashampoo Taskbar Customizer",
-         "Informacion": "Ashampoo Taskbar Customizer modifica el color y la opacidad de la barra de tareas. Con un solo clic, puede hacerla semitransl\u00facida o aplicar cualquier color que desee.",
-         "Desde": "",
-         "Hasta": "2024/08/10 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-taskbar-customizer-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/scr-ashampoo-taskbar-customizer.png?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -542,12 +502,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft Read Mode License Key Free Full Version",
+         "Informacion": "\u00bfC\u00f3mo son f\u00e1ciles de leer las publicaciones de blogs, art\u00edculos y p\u00e1ginas web? Con la ayuda de Vovsoft Read Mode, una aplicaci\u00f3n de modo lectura, todo ser\u00e1 m\u00e1s f\u00e1cil. Dise\u00f1ada con tres temas simples: Claro, Oscuro y Sephia, esta herramienta reducir\u00e1 las p\u00e1ginas web al m\u00ednimo y ser\u00e1 m\u00e1s f\u00e1cil de leer. Tiene la capacidad de eliminar todo lo que no se merece y mostrar s\u00f3lo el texto.",
+         "Desde": "",
+         "Hasta": "2024/08/12 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-read-mode-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/11/vovsoft-read-mode.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Special Mega Clipart Bundle",
+         "Informacion": "Crea proyectos incre\u00edbles con este paquete, que incluye 30 gr\u00e1ficos de alta calidad, disponibles ahora GRATIS en asociaci\u00f3n con SharewareOnSale.com (\u00a1valorados en $193!). Perfecto para camisetas, arte mural, tazas y m\u00e1s. Personal\u00edzalo y ed\u00edtalo como quieras. \u00a1Viene con una licencia comercial!",
+         "Desde": "",
+         "Hasta": "2024/08/12 09:00",
+         "URL": "https://sharewareonsale.com/s/free-special-mega-clipart-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/08/Special-Mega-Clipart-Bundle-FREE.jpg?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Late Night Shift by M1mo0",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2024/08/12 19:58",
          "URL": "https://m1mo0.itch.io/late-night-shift",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNzEyMi8xNjg5MzcyNy5wbmc=/347x500/CpiMQE.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Drug Dealin Sim 2024 by b._.render",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/08/13 02:00",
+         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -679,7 +669,7 @@
          "URL": "https://store.epicgames.com/p/lost-castle-abb2e2",
          "IMG": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "No symetry by DobyaGame",
