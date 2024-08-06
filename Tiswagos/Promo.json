@@ -1,86 +1,6 @@
 {
-   "date_update": "05 Aug 2024 16:02 UTC",
+   "date_update": "06 Aug 2024 16:03 UTC",
    "values": [
-      {
-         "Nombre": "Myth of Empires",
-         "Informacion": "\u00a1Juega gratis! Myth of Empires es un juego de guerra multijugador sandbox que ofrece un alto grado de libertad y m\u00faltiples civilizaciones. Los jugadores deben sobrevivir, crear, crear y liderar tropas en su misi\u00f3n de conquistar territorios PvE o PvP y construir su propio imperio. \u00a1El DLC Civilizaci\u00f3n hel\u00e9nica ya est\u00e1 disponible!",
-         "Desde": "",
-         "Hasta": "2024/08/05 10:00",
-         "URL": "https://store.steampowered.com/app/1371580/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1371580/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "WWE 2K24",
-         "Informacion": "\u00a1Juega gratis! Experimenta un apasionante relato de los mejores momentos de WrestleMania en 2K Showcase of the Immortals en WWE 2K24, donde podr\u00e1s revivir una colecci\u00f3n de algunos de los combates m\u00e1s inolvidables que definieron tu carrera.",
-         "Desde": "",
-         "Hasta": "2024/08/05 10:00",
-         "URL": "https://store.steampowered.com/app/2315690/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2315690/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "ThunderSoft Slideshow Factory License Key Free",
-         "Informacion": "ThunderSoft Slideshow Factory es un software \u00fatil que le permite crear presentaciones de diapositivas a partir de sus fotos y videoclips. Con este incre\u00edble software, puede agregar efectos de transici\u00f3n, m\u00fasica de fondo, aplicar subt\u00edtulos, usar im\u00e1genes predise\u00f1adas, etc. Tambi\u00e9n puede crear presentaciones de diapositivas de fotos y publicarlas como video MP4, ejecutable, pel\u00edcula SWF, protector de pantalla e incluso crear videos HTML5 para su sitio web con m\u00e1s de 70 plantillas animadas diferentes.",
-         "Desde": "",
-         "Hasta": "2024/08/05 15:00",
-         "URL": "https://giveaway.tickcoupon.com/thundersoft-slideshow-factory-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/11/ThunderSoft-Slideshow-Factory.jpg",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Cult of the Frog by BachoGames",
-         "Informacion": "\u00a1Estamos lanzando una versi\u00f3n de acceso anticipado en itch.io! \u00a1Cons\u00edguela ahora o agr\u00e9gala a tu lista de deseos en Steam! Esta es la versi\u00f3n completa del juego, pero no incluye partidas guardadas ni reasignaci\u00f3n de teclado.",
-         "Desde": "",
-         "Hasta": "2024/08/05 17:45",
-         "URL": "https://bachogames.itch.io/cult-of-the-frog",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2NTUwNC8xNzE4MjkxMi5qcGc=/347x500/gtOY36.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
-      },
-      {
-         "Nombre": "BadFame by Benaiez",
-         "Informacion": "Mala fama:",
-         "Desde": "",
-         "Hasta": "2024/08/06 03:46",
-         "URL": "https://benaiez.itch.io/badfame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0ODAyNy8xNDUwNTgyNy5wbmc=/347x500/PeOPdf.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
-      {
-         "Nombre": "The Level 1 by WickedDEV",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/08/06 06:00",
-         "URL": "https://wickeddev.itch.io/level-1",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxOTY5MS8xNjg0MzM4Mi5wbmc=/347x500/A%2FZ6CI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "UNFORGIVEN : Carry The Pain by MasterDevMed",
-         "Informacion": "Entradas:",
-         "Desde": "",
-         "Hasta": "2024/08/06 06:55",
-         "URL": "https://masterdevmed.itch.io/unforgiven-carry-the-pain",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTE5NzgzNS82OTg4MDI3LnBuZw==/347x500/366rva.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "UNFORGIVEN : Oblivion's Edge by MasterDevMed",
-         "Informacion": "Luego de despertar en lo profundo del olvido, con un recuerdo confuso, Lumen escucha una voz amigable que lo gu\u00eda hacia la barrera conocida como \"Oblivion's Edge\". M\u00e1s all\u00e1 de esta barrera se encuentra el Inframundo, donde Lumen puede comenzar a preparar su venganza contra el Susurrador.",
-         "Desde": "",
-         "Hasta": "2024/08/06 06:55",
-         "URL": "https://masterdevmed.itch.io/unforgiven-oblivions-edge",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNjYxNy8xNzA0MTE4OC5wbmc=/347x500/WZqFoO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
          "Informacion": "",
@@ -89,7 +9,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
@@ -99,7 +19,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
@@ -109,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
@@ -119,7 +39,7 @@
          "URL": "https://magnus-froelund.itch.io/asteroids",
          "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
@@ -129,7 +49,7 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "DarkViperAU The Game by Magnus Fr\u00c3\u00b8lund",
@@ -139,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/darkviperau-the-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE4OTUyMC8xMjkzMTU1MC5wbmc=/347x500/wnmgX8.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
@@ -149,7 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
@@ -159,7 +79,7 @@
          "URL": "https://magnus-froelund.itch.io/stargates",
          "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
@@ -169,7 +89,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
@@ -179,7 +99,7 @@
          "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
@@ -189,7 +109,7 @@
          "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Clean ATTACK! by diadas",
@@ -199,7 +119,7 @@
          "URL": "https://diadas.itch.io/clean-attack",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzEyMDU0LzE1NDIyOTAuanBn/347x500/MW86Ra.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "GRAVITY Pilot! by diadas",
@@ -209,7 +129,7 @@
          "URL": "https://diadas.itch.io/gravity-pilot",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDY2MzgxLzIzODU3NzQuanBn/347x500/rPuoAL.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "Thermo Puzzle by diadas",
@@ -219,7 +139,7 @@
          "URL": "https://diadas.itch.io/thermo-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NTE1LzE1NzQ2NjYuZ2lm/347x500/oSPwgM.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "When Spongebob Attacks:Prologue by GamingTGT",
@@ -229,7 +149,17 @@
          "URL": "https://gamingtgt.itch.io/when-spongebob-attacksprologuee",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNDQ0MC8xNjg3NDEzNi5naWY=/347x500/sNhuXa.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
+      },
+      {
+         "Nombre": "Allavsoft",
+         "Informacion": "Descargar y convertir v\u00eddeos para verlos sin conexi\u00f3n",
+         "Desde": "",
+         "Hasta": "2024/08/07 09:00",
+         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allavsoft-2-2nbl5.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Coolmuster HEIC Converter 1-Year License Key Free",
@@ -248,6 +178,16 @@
          "Hasta": "2024/08/08 09:00",
          "URL": "https://sharewareonsale.com/s/free-vcap-downloader-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/06/vcap_box-200x289.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zortam Mp3 Media Studio PRO 31",
+         "Informacion": "Zortam Mp3 Media Studio: \u00a1la mejor manera de etiquetar autom\u00e1ticamente tu colecci\u00f3n de Mp3!",
+         "Desde": "",
+         "Hasta": "2024/08/08 09:00",
+         "URL": "https://sharewareonsale.com/s/zortam-mp3-media-studio-pro-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/05/prog_all_slider-200x152.jpg?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -522,12 +462,62 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Fear the light by Tomython",
+         "Informacion": "El juego se encuentra actualmente en las primeras etapas de desarrollo, toda la mec\u00e1nica b\u00e1sica y su imagen est\u00e1n listas, sin embargo, puede haber errores en el juego que no exist\u00edan originalmente, nos disculpamos de antemano por las molestias. Tambi\u00e9n hay que tener en cuenta que el juego seguir\u00e1 actualiz\u00e1ndose y se lanzar\u00e1n parches, ya que esto a\u00fan no es un lanzamiento, sino solo un prototipo listo para usar.",
+         "Desde": "",
+         "Hasta": "2024/08/12 18:01",
+         "URL": "https://tomython.itch.io/fear-the-light",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjczMzMyMS8xNjMwMzk4OS5wbmc=/347x500/SAbEwU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Late Night Shift by M1mo0",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2024/08/12 19:58",
          "URL": "https://m1mo0.itch.io/late-night-shift",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNzEyMi8xNjg5MzcyNy5wbmc=/347x500/CpiMQE.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Door! 4 by Nitish Thombre",
+         "Informacion": "Un ni\u00f1o solo en su habitaci\u00f3n, durmiendo, de repente se produce una tormenta el\u00e9ctrica y se despierta. Se encuentra en una habitaci\u00f3n completamente diferente, ahora busca alguna forma de salir de esta casa, pero encuentra una habitaci\u00f3n desconocida con paredes y techo cubierto de TEJAS. Y se encuentra con...",
+         "Desde": "",
+         "Hasta": "2024/08/12 20:30",
+         "URL": "https://nitish-thombre.itch.io/the-door-4",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Door! 3 by Nitish Thombre",
+         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/la-puerta-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
+         "Desde": "",
+         "Hasta": "2024/08/12 20:30",
+         "URL": "https://nitish-thombre.itch.io/the-door-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Door! 2 by Nitish Thombre",
+         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/la-puerta-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
+         "Desde": "",
+         "Hasta": "2024/08/12 20:30",
+         "URL": "https://nitish-thombre.itch.io/the-door-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Door! by Nitish Thombre",
+         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/la-puerta-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
+         "Desde": "",
+         "Hasta": "2024/08/12 20:30",
+         "URL": "https://nitish-thombre.itch.io/the-door",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -579,7 +569,7 @@
          "URL": "https://store.epicgames.com/p/apex-legends-006cde",
          "IMG": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-wfmde.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Francium 1: A Museum for Robots by The Icehouse",
@@ -622,6 +612,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Cursed Robot by GamingTGT",
+         "Informacion": "NOTA IMPORTANTE: \u00a1\u00a1\u00a1NUEVA ACTUALIZACI\u00d3N!!!!!!!!!!.",
+         "Desde": "",
+         "Hasta": "2024/08/14 07:00",
+         "URL": "https://gamingtgt.itch.io/there-is-someone-inside-the-bedroom",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MzM0NC8xMjg0ODk3NC5naWY=/347x500/Gg87hr.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Plasma by GamingTGT",
+         "Informacion": "Un hombre rodeado en su sue\u00f1o por una criatura llamada \"Dream Killer\". Una criatura rodeada en esta ciudad humana. Su misi\u00f3n es controlar su sue\u00f1o, apoyar y destruir a su cliente en aproximadamente 10 d\u00edas. Ser\u00e1s arrojado a tantos lugares diferentes. y descubrir diferentes entidades.",
+         "Desde": "",
+         "Hasta": "2024/08/14 07:00",
+         "URL": "https://gamingtgt.itch.io/plasma",
+         "IMG": "https://img.itch.zone/aW1nLzExMzY4OTI0LnBuZw==/347x500/H602ta.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Assassin at Crimson Keep by ShadowGlass",
          "Informacion": "Assassin at Crimson Keep es una novela visual corta ambientada en un mundo oscuro y casi fant\u00e1stico.",
          "Desde": "",
@@ -650,6 +660,16 @@
          "IMG": "https://cdn1.epicgames.com/spt-assets/98cdc7484b264021ad8a3a6e1e721989/dnf-duel-1alsy.jpg",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Betrayal Hell by Shwampy",
+         "Informacion": "Ciencia:",
+         "Desde": "",
+         "Hasta": "2024/08/17 14:25",
+         "URL": "https://shwampy.itch.io/betrayal-hell",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2ODkwNy8xNzE1MzMwNi5wbmc=/347x500/EQNqcY.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "survival island by survivalisland",
@@ -782,6 +802,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Liminal Leap by Wenudu",
+         "Informacion": "Liminal Leap es una emocionante experiencia de escape room ambientada en el inquietante mundo de Backrooms. Aqu\u00ed, la realidad se desenreda y los espacios familiares se transforman en pasillos implacables e inquietantes. Te despiertas atrapado en una instalaci\u00f3n laber\u00edntica, un reflejo retorcido de la vida cotidiana, ahora deformada y hostil.",
+         "Desde": "",
+         "Hasta": "2024/08/30 12:48",
+         "URL": "https://wenudu.itch.io/liminal-leap",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjY5MTkxOC8xNjA0NzM4NC5qcGc=/347x500/Qlk1Lm.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Leawo Screen Recorder License Key Free Giveaway 2024",
          "Informacion": "Leawo Screen Recorder es un software de grabaci\u00f3n de pantalla de computadora profesional con muchas m\u00e1s funciones que otros. Adem\u00e1s de grabar la pantalla de su computadora y el sonido del sistema y/o micr\u00f3fono, tambi\u00e9n puede grabar videos de su c\u00e1mara web. Y lo m\u00e1s importante, es muy f\u00e1cil de usar. Con su ayuda, puede hacer videos tutoriales, grabar clases en l\u00ednea, grabar presentaciones de PowerPoint, grabar juegos, grabar reuniones de Zoom y agregar m\u00fasica de fondo o voz en off a los videos. El siguiente punto destacado del software Leawo Screen Recorder es la funci\u00f3n de agregar marca de agua. Esta herramienta le permite insertar su texto, imagen, logotipo o marca de agua en su grabaci\u00f3n.",
          "Desde": "",
@@ -828,6 +858,16 @@
          "Hasta": "2024/08/31 07:00",
          "URL": "https://red-clouds.itch.io/themissionofdoggamer",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTYwODg2OC85NDE3MDc3LnBuZw==/347x500/VWnVjs.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sinister Visions (Chapter 1) by AR92",
+         "Informacion": "Emb\u00e1rcate en un escalofriante viaje a trav\u00e9s de la oscuridad de 'Sinister Visions', un juego que pondr\u00e1 a prueba tu determinaci\u00f3n frente a un terror indescriptible. Ambientado en una casa abandonada envuelta en misterio y miedo, deber\u00e1s atravesar una serie de encuentros escalofriantes y resolver acertijos desconcertantes para desentra\u00f1ar los siniestros secretos que han plagado la casa durante generaciones. A medida que te adentres en la inquietante historia, te encontrar\u00e1s cara a cara con las fuerzas mal\u00e9volas que buscan arrastrarte al abismo. \u00bfTendr\u00e1s el coraje de enfrentarte a la oscuridad y descubrir la verdad, o te convertir\u00e1s en otra v\u00edctima de los susurros en la oscuridad? Prep\u00e1rate para enfrentarte a tus miedos m\u00e1s profundos en esta apasionante historia de terror y suspenso.",
+         "Desde": "",
+         "Hasta": "2024/08/31 09:51",
+         "URL": "https://ar92.itch.io/sinister-v",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQxNjcyMS8xNDMwMzQ3My5wbmc=/347x500/yKit3%2F.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1059,6 +1099,16 @@
          "URL": "https://roomahgaming.itch.io/techna",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE3NDg0MC82ODcyMTMzLnBuZw==/347x500/zsIjb1.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WebSite X5 Go 2024 License Key Free Lifetime",
+         "Informacion": "WebSite X5 Go es una potente y f\u00e1cil de usar aplicaci\u00f3n de creaci\u00f3n de sitios web que permite a cualquier persona crear un hermoso sitio web en poco tiempo. Con su ayuda, las personas y las peque\u00f1as empresas tambi\u00e9n pueden crear sitios web impresionantes, presentaciones interactivas, blogs o sitios de comercio electr\u00f3nico con facilidad.",
+         "Desde": "",
+         "Hasta": "2024/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/website-x5-go-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/03/website-x5-go-2023-free.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
