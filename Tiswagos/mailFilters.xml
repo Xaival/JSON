@@ -23,7 +23,7 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@notice.aliexpress.com OR @amazon.com OR @amazon.es OR no-reply@verify.signin.aws OR twitch-verify@amazon.com OR @atm.it OR @cp.pt OR @nomail.ec.europa.eu OR @fpfis.tech.ec.europa.eu OR @transportes.gob.es OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @juntademocratica.com OR juntademocraticadesevilla@gmail.com OR @paypal.es OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es OR @tussam.info'/>
+		<apps:property name='from' value='@notice.aliexpress.com OR @aliexpress.com OR @amazon.com OR @amazon.es OR no-reply@verify.signin.aws OR twitch-verify@amazon.com OR @atm.it OR @cp.pt OR @nomail.ec.europa.eu OR @fpfis.tech.ec.europa.eu OR @transportes.gob.es OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @juntademocratica.com OR juntademocraticadesevilla@gmail.com OR @paypal.es OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es OR @tussam.info'/>
 		<apps:property name='label' value='Registros/Oficial'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
@@ -92,7 +92,7 @@
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
-		<apps:property name='from' value='@aliexpress.com OR @deals.aliexpress.com OR noreply@pccomponentes.com'/>
+		<apps:property name='from' value='@deals.aliexpress.com OR noreply@pccomponentes.com'/>
 		<apps:property name='label' value='Registros/Oficial'/>
 		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
