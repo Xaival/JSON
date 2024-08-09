@@ -471,6 +471,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 contactos.sexy.nicobronipago.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 creative.camterest.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 derechoaroce.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 desirablecrackeru7k.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 es-es2.wyylde.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 eu1.hotornot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 flirtooy.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
