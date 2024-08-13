@@ -1,146 +1,6 @@
 {
-   "date_update": "12 Aug 2024 16:02 UTC",
+   "date_update": "13 Aug 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Fear the light by Tomython",
-         "Informacion": "El juego se encuentra actualmente en las primeras etapas de desarrollo, toda la mec\u00e1nica b\u00e1sica y su imagen est\u00e1n listas, sin embargo, puede haber errores en el juego que no exist\u00edan originalmente, nos disculpamos de antemano por las molestias. Tambi\u00e9n hay que tener en cuenta que el juego seguir\u00e1 actualiz\u00e1ndose y se lanzar\u00e1n parches, ya que esto a\u00fan no es un lanzamiento, sino solo un prototipo listo para usar.",
-         "Desde": "",
-         "Hasta": "2024/08/12 18:01",
-         "URL": "https://tomython.itch.io/fear-the-light",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjczMzMyMS8xNjMwMzk4OS5wbmc=/347x500/SAbEwU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Late Night Shift by M1mo0",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/08/12 19:58",
-         "URL": "https://m1mo0.itch.io/late-night-shift",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNzEyMi8xNjg5MzcyNy5wbmc=/347x500/CpiMQE.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "The Door! 2 by Nitish Thombre",
-         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/la-puerta-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
-         "Desde": "",
-         "Hasta": "2024/08/12 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! 3 by Nitish Thombre",
-         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/la-puerta-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
-         "Desde": "",
-         "Hasta": "2024/08/12 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! 4 by Nitish Thombre",
-         "Informacion": "Un ni\u00f1o solo en su habitaci\u00f3n, durmiendo, de repente se produce una tormenta el\u00e9ctrica y se despierta. Se encuentra en una habitaci\u00f3n completamente diferente, ahora busca alguna forma de salir de esta casa, pero encuentra una habitaci\u00f3n desconocida con paredes y techo cubierto de TEJAS. Y se encuentra con...",
-         "Desde": "",
-         "Hasta": "2024/08/12 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door-4",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "The Door! by Nitish Thombre",
-         "Informacion": "a href=\"La\" clase=\"redactor-linkify-object\"https://nitish-thombre.itch.io/la-puerta-4\"\u00a1La puerta! 4 por Nitish Thombre/a",
-         "Desde": "",
-         "Hasta": "2024/08/12 20:30",
-         "URL": "https://nitish-thombre.itch.io/the-door",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "Radio Check by StrangeSoftworks",
-         "Informacion": "ACTUALIZACI\u00d3N: La nueva compilaci\u00f3n corrige errores. Actualice a la \u00faltima compilaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2024/08/12 20:38",
-         "URL": "https://strangesoftworks.itch.io/radio-check",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg3OTAzNi8xNzIzMjY2Mi5qcGc=/347x500/284ktb.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "Trespasser's Labyrinth by Ethan Winters",
-         "Informacion": "Historia: Te han secuestrado y ahora est\u00e1s atrapado en un laberinto. Resuelve acertijos, sobrevive a encuentros mortales y descubre secretos para asegurar tu libertad. \u00bfPodr\u00e1s salir con vida y escapar del laberinto antes de que sea demasiado tarde?",
-         "Desde": "",
-         "Hasta": "2024/08/12 21:16",
-         "URL": "https://ethan-winters.itch.io/trespassers-labyrinth",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODE1MC8xNjY0NDE0MC5wbmc=/347x500/HvuWVd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "Drug Dealin Sim 2024 by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/08/13 02:00",
-         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Dusk Slayer by 1Frodox",
-         "Informacion": "Este es un juego roguelike en 2D, de arriba hacia abajo. En esta experiencia de combate basada en oleadas, debes enfrentarte a oleadas implacables de enemigos, eliminarlos a todos y elegir estrat\u00e9gicamente mejoras para volverte m\u00e1s fuerte con cada oleada.",
-         "Desde": "",
-         "Hasta": "2024/08/13 07:00",
-         "URL": "https://1frodox.itch.io/dusk-slayer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNDM3Mi8xNjgxMDMzMC5wbmc=/347x500/nDcPBy.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "\u00d8\u00ad\u00d9\u0085\u00d8\u00a7\u00d9\u008a\u00d8\u00a9 \u00d9\u0082\u00d8\u00b1\u00d9\u008a\u00d8\u00a9 : \u00d9\u0085\u00d8\u00b9\u00d8\u00b1\u00d9\u0083\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d8\u00ba\u00d8\u00b1\u00d8\u00b3 by crocodile",
-         "Informacion": "\u00d8\u00aaEl juego habla de un granjero a quien se le pidi\u00f3 desde una de las aldeas pobres junto con otro mercenario que plantaran cultivos y recolectaran frutas para el invierno que se acercaba y protegieran la aldea de algunos ladrones, que siempre roban todas las frutas de la aldea. La tarea del jugador requiere utilizar ambos personajes, el granjero y el mercenario, para realizar todas las tareas, ya sea proteger la aldea. O recolecta 100 plantas para ganar el juego.",
-         "Desde": "",
-         "Hasta": "2024/08/13 07:00",
-         "URL": "https://momkl.itch.io/gharsa",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2MzA5Ni8xNTI2NTk1OC5wbmc=/347x500/awsw6V.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "robot B (durdobegg) by crocodile",
-         "Informacion": "La historia sencilla donde gira en torno a un robot egipcio sobre su muy amigo que fue secuestrado por humanos hace un tiempo (este es el primer cap\u00edtulo del juego y el resto de cap\u00edtulos se lanzar\u00e1n a partir de septiembre)",
-         "Desde": "",
-         "Hasta": "2024/08/13 07:00",
-         "URL": "https://momkl.itch.io/robot-in-the-dark",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY4OTg1MC8xMzA5NDg0OC5wbmc=/347x500/PjUzR0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "AweClone 3",
-         "Informacion": "Software de clonaci\u00f3n de discos confiable y f\u00e1cil de usar.",
-         "Desde": "",
-         "Hasta": "2024/08/13 09:00",
-         "URL": "https://sharewareonsale.com/s/free-aweclone-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/05/diskclone1-200x148.jpg?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Qiling Fast Cache 3",
-         "Informacion": "QILING Fast Cache Standard es una herramienta de almacenamiento en cach\u00e9 de datos que mejora el rendimiento general del sistema y permite leer r\u00e1pidamente los datos a los que se accede con frecuencia.",
-         "Desde": "",
-         "Hasta": "2024/08/13 09:00",
-         "URL": "https://sharewareonsale.com/s/free-qiling-fast-cache-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/01/set_cache.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Magoshare AweClone Free License Key Download",
          "Informacion": "\u00bfEst\u00e1 buscando una soluci\u00f3n de clonaci\u00f3n de discos para SSD que pueda clonar todo el contenido de un disco duro a otro disco duro/dispositivo? Magoshare AweClone le ofrecer\u00e1 una forma f\u00e1cil, segura y r\u00e1pida de clonar todos los datos, incluidos archivos/software/configuraciones, a otro disco duro/dispositivo sin ninguna p\u00e9rdida.",
@@ -149,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/magoshare-aweclone-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/magoshare-aweclone.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Qiling Fast Cache Giveaway License Key for Free 2024",
@@ -159,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/qiling-fast-cache-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/qiling-fast-cache-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "PC Trek Advanced Password Recovery Suite License Key Free",
@@ -169,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/pc-trek-advanced-password-recovery-suite-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/04/advanced-password-recovery-suite.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Apex Legends\u2122: Lote desbloqueo gratuito de Conduit",
@@ -179,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/apex-legends-006cde",
          "IMG": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-wfmde.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "When Spongebob Attacks:Prologue by GamingTGT",
@@ -189,7 +49,7 @@
          "URL": "https://gamingtgt.itch.io/when-spongebob-attacksprologuee",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNDQ0MC8xNjg3NDEzNi5naWY=/347x500/sNhuXa.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Delirium Lumen by another_one_psihoz",
@@ -199,7 +59,7 @@
          "URL": "https://another-one-psihoz.itch.io/delirium",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg3ODI0My8xNzIyMDg3Mi5naWY=/347x500/jLTngx.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "House Cleaner 2 by AL7USSAIN",
@@ -209,7 +69,7 @@
          "URL": "https://al7ussain.itch.io/house-cleaner-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIyMzIyMy8xMzE2MDc1NC5wbmc=/347x500/Icf6je.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "House Cleaner by AL7USSAIN",
@@ -219,7 +79,7 @@
          "URL": "https://al7ussain.itch.io/housecleaner",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNDg2NC8xMTM1NzY5MC5qcGc=/347x500/JJ1S7y.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Phone Call by AL7USSAIN",
@@ -229,7 +89,7 @@
          "URL": "https://al7ussain.itch.io/phonecall",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5NjE3NS8xNTk4MzU0MS5wbmc=/347x500/XEClHH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Foxy Man by AL7USSAIN",
@@ -239,7 +99,7 @@
          "URL": "https://al7ussain.itch.io/foxy-man",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Here We Go Again by AL7USSAIN",
@@ -249,7 +109,7 @@
          "URL": "https://al7ussain.itch.io/hear-we-go-again",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Maze by AL7USSAIN",
@@ -259,7 +119,7 @@
          "URL": "https://al7ussain.itch.io/maze",
          "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "One Spike by AL7USSAIN",
@@ -269,7 +129,7 @@
          "URL": "https://al7ussain.itch.io/one-spike",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Simple Tasks by AL7USSAIN",
@@ -279,7 +139,7 @@
          "URL": "https://al7ussain.itch.io/simple-tasks",
          "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
@@ -289,7 +149,7 @@
          "URL": "https://al7ussain.itch.io/whale-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Zombie Hunter by AL7USSAIN",
@@ -299,7 +159,7 @@
          "URL": "https://al7ussain.itch.io/zombie-hunter",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Francium 1: A Museum for Robots by The Icehouse",
@@ -309,7 +169,7 @@
          "URL": "https://the-icehouse.itch.io/francium",
          "IMG": "https://img.itch.zone/aW1hZ2UvNzQ1MzIxLzQxNTg5MzUuanBn/347x500/XjZALc.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Francium 5: The Wheel of Life by The Icehouse",
@@ -319,7 +179,7 @@
          "URL": "https://the-icehouse.itch.io/francium-5",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY4NDY1My85OTIyNDA3LmpwZw==/347x500/sgnaR3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Mon Village est Magique: A Druidic Adventure by The Icehouse, Esmeralda, The Argonauts",
@@ -329,7 +189,7 @@
          "URL": "https://the-icehouse.itch.io/mon-village-est-magique-a-druidic-adventure",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE4MDg3My82ODc5MjEyLmpwZw==/347x500/zKSQNG.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The World is Strange by The Icehouse",
@@ -339,27 +199,7 @@
          "URL": "https://the-icehouse.itch.io/the-world-is-strange",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIzMjIyMi8xMzIxNjUzNS5qcGc=/347x500/%2FSVloS.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Orbital Empires by Dancing Dots",
-         "Informacion": "Observa c\u00f3mo las facciones de la IA luchan por el control de la galaxia.",
-         "Desde": "",
-         "Hasta": "2024/08/14 03:05",
-         "URL": "https://15joldersmat.itch.io/orbital-empires",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzg1Mi8xNjkyNTI5NS5wbmc=/347x500/zvMnGO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Minimperiums by Dancing Dots",
-         "Informacion": "**Minimperiums 1.0 - Una simulaci\u00f3n de guerra con IA**",
-         "Desde": "",
-         "Hasta": "2024/08/14 03:05",
-         "URL": "https://15joldersmat.itch.io/minimperiums",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4NTQ2OS8xNjYyNjcxMS5wbmc=/347x500/MnNz6r.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Battle Hell : Hazel! by Dancing Dots",
@@ -369,7 +209,7 @@
          "URL": "https://15joldersmat.itch.io/hazel",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MzA5OC8xNjQyODcxOC5wbmc=/347x500/u68iT%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
       },
       {
          "Nombre": "Battle Hell: Crastle Valley! by Dancing Dots",
@@ -379,7 +219,27 @@
          "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NzQ0My8xNjM5NTE1OS5wbmc=/347x500/PBz1yb.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
+      },
+      {
+         "Nombre": "Minimperiums by Dancing Dots",
+         "Informacion": "**Minimperiums 1.0 - Una simulaci\u00f3n de guerra con IA**",
+         "Desde": "",
+         "Hasta": "2024/08/14 03:05",
+         "URL": "https://15joldersmat.itch.io/minimperiums",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4NTQ2OS8xNjYyNjcxMS5wbmc=/347x500/MnNz6r.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
+      },
+      {
+         "Nombre": "Orbital Empires by Dancing Dots",
+         "Informacion": "Observa c\u00f3mo las facciones de la IA luchan por el control de la galaxia.",
+         "Desde": "",
+         "Hasta": "2024/08/14 03:05",
+         "URL": "https://15joldersmat.itch.io/orbital-empires",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzg1Mi8xNjkyNTI5NS5wbmc=/347x500/zvMnGO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
       },
       {
          "Nombre": "Cursed Robot by GamingTGT",
@@ -389,7 +249,7 @@
          "URL": "https://gamingtgt.itch.io/there-is-someone-inside-the-bedroom",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MzM0NC8xMjg0ODk3NC5naWY=/347x500/Gg87hr.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Plasma by GamingTGT",
@@ -399,7 +259,7 @@
          "URL": "https://gamingtgt.itch.io/plasma",
          "IMG": "https://img.itch.zone/aW1nLzExMzY4OTI0LnBuZw==/347x500/H602ta.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "SoftOrbits PDF Logo Remover Giveaway Key Free 2024",
@@ -459,6 +319,26 @@
          "URL": "https://store.epicgames.com/p/dnf-duel-07d055",
          "IMG": "https://cdn1.epicgames.com/spt-assets/98cdc7484b264021ad8a3a6e1e721989/dnf-duel-1alsy.jpg",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Skeletons by KevEatsCheese",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/08/15 18:10",
+         "URL": "https://keveatscheese.itch.io/skeletons",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUyNDE5MS8xNTA3ODE3Ni5wbmc=/347x500/iWHFsD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Molegan's Quest by KevEatsCheese",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/08/15 18:10",
+         "URL": "https://keveatscheese.itch.io/molegans-quest",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI1NDI3OC8xMzM2ODk1OC5wbmc=/347x500/ngL08J.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -602,6 +482,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Children Ebooks Bundle",
+         "Informacion": "\u00a1Puedes beneficiarte del enorme mercado de literatura infantil de 12 mil millones de d\u00f3lares con un mega paquete de m\u00e1s de 1000 libros electr\u00f3nicos infantiles famosos!",
+         "Desde": "",
+         "Hasta": "2024/08/20 09:00",
+         "URL": "https://sharewareonsale.com/s/free-children-ebooks-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/08/children-ebooks.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Text Trivia Pro by Ahsan Makes Games",
          "Informacion": "Texto de trivia profesional",
          "Desde": "",
@@ -630,6 +520,16 @@
          "IMG": "https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_S1_2560x1440-f1fc6756bfdca0304c3cfbbb7da76b15",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Radio Check by StrangeSoftworks",
+         "Informacion": "ACTUALIZACI\u00d3N: Parece que todav\u00eda hay un problema con la reproducci\u00f3n correcta del video de introducci\u00f3n, as\u00ed que si\u00e9ntete libre de abrirlo en la carpeta CompleteVHS - contenido - Pel\u00edculas O mirarlo aqu\u00ed hasta que se resuelva el problema.",
+         "Desde": "",
+         "Hasta": "2024/08/22 18:25",
+         "URL": "https://strangesoftworks.itch.io/radio-check",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg3OTAzNi8xNzIzMjY2Mi5qcGc=/347x500/284ktb.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Notes... by Anders Studio",
@@ -742,42 +642,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Last Tree by gamesbyrd",
-         "Informacion": "",
+         "Nombre": "Because of Magic by gamesbyrd",
+         "Informacion": "Las criaturas oscuras de la Dimensi\u00f3n de la Oscuridad buscan destruir la Gran Fuente de Todo Poder. Si lo logran, el equilibrio se romper\u00e1 y el universo entero colapsar\u00e1.",
          "Desde": "",
          "Hasta": "2024/08/30 23:59",
-         "URL": "https://gamesbyrd.itch.io/the-last-tree",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxNzUxOC8xNTU5MjM2NC5wbmc=/347x500/ZzpRmP.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cubes in Danger 3 by gamesbyrd",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/08/30 23:59",
-         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzM1OC8xNTQwNTY4MS5wbmc=/347x500/T0Vthd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cubes in Danger 2 by gamesbyrd",
-         "Informacion": "CONTROLES:",
-         "Desde": "",
-         "Hasta": "2024/08/30 23:59",
-         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzI2My8xNTQwNTA3MS5wbmc=/347x500/2sE%2BRY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "IncorpoScape by gamesbyrd",
-         "Informacion": "COLOCA TABLAS EN EL AIRE Y SALTA SOBRE ELLAS, ASCENDIENDO CADA VEZ M\u00c1S ALTO EN UNA TORRE INFINITA.",
-         "Desde": "",
-         "Hasta": "2024/08/30 23:59",
-         "URL": "https://gamesbyrd.itch.io/incorposcape",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NjQ0MS8xNTQxNzIxMy5wbmc=/347x500/1%2Fm5Bi.png",
+         "URL": "https://gamesbyrd.itch.io/becauseofmagic",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU3ODgyMS8xNTM1OTcxNi5wbmc=/347x500/tB0rpJ.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -792,12 +662,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Because of Magic by gamesbyrd",
-         "Informacion": "Las criaturas oscuras de la Dimensi\u00f3n de la Oscuridad buscan destruir la Gran Fuente de Todo Poder. Si lo logran, el equilibrio se romper\u00e1 y el universo entero colapsar\u00e1.",
+         "Nombre": "Cubes in Danger 2 by gamesbyrd",
+         "Informacion": "CONTROLES:",
          "Desde": "",
          "Hasta": "2024/08/30 23:59",
-         "URL": "https://gamesbyrd.itch.io/becauseofmagic",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU3ODgyMS8xNTM1OTcxNi5wbmc=/347x500/tB0rpJ.png",
+         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzI2My8xNTQwNTA3MS5wbmc=/347x500/2sE%2BRY.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cubes in Danger 3 by gamesbyrd",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/08/30 23:59",
+         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzM1OC8xNTQwNTY4MS5wbmc=/347x500/T0Vthd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "IncorpoScape by gamesbyrd",
+         "Informacion": "COLOCA TABLAS EN EL AIRE Y SALTA SOBRE ELLAS, ASCENDIENDO CADA VEZ M\u00c1S ALTO EN UNA TORRE INFINITA.",
+         "Desde": "",
+         "Hasta": "2024/08/30 23:59",
+         "URL": "https://gamesbyrd.itch.io/incorposcape",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NjQ0MS8xNTQxNzIxMy5wbmc=/347x500/1%2Fm5Bi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Tree by gamesbyrd",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/08/30 23:59",
+         "URL": "https://gamesbyrd.itch.io/the-last-tree",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxNzUxOC8xNTU5MjM2NC5wbmc=/347x500/ZzpRmP.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
