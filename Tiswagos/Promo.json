@@ -1,66 +1,6 @@
 {
-   "date_update": "15 Aug 2024 16:01 UTC",
+   "date_update": "16 Aug 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Apex Legends\u2122: Lote desbloqueo gratuito de Conduit",
-         "Informacion": "\u00a1Pack de supervivencia! Hazte con el lote de desbloqueo gratuito de Conduit y l\u00e1nzate en Apex Legends\u2122: Onda de choque para disfrutar del caos energ\u00e9tico.",
-         "Desde": "2024/08/08",
-         "Hasta": "2024/08/15 17:00",
-         "URL": "https://store.epicgames.com/p/apex-legends-006cde",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1gerg.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "CYGNI - All Guns Blazing",
-         "Informacion": "Una avalancha de im\u00e1genes incre\u00edbles, intensos paisajes sonoros y acci\u00f3n alucinante sit\u00faa a CYGNI a la vanguardia de la pr\u00f3xima generaci\u00f3n. Al estar en desventaja num\u00e9rica y de armas, y por tu cuenta, sum\u00e9rgete en un cielo infernal en una \u00faltima batalla por sobrevivir.",
-         "Desde": "2024/08/08",
-         "Hasta": "2024/08/15 17:00",
-         "URL": "https://store.epicgames.com/p/cygni-all-guns-blazing-98f872",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-8dsax.png",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "DNF Duel",
-         "Informacion": "\u00a1Lucha y acci\u00f3n en estado puro! Dungeon and Fighter, uno de los RPG m\u00e1s populares y jugados del mundo, vuelve ahora como un juego de lucha en 2,5D. Elige entre 16\u00a0cautivadores personajes, cada uno con sus propias habilidades y personalidades.",
-         "Desde": "2024/08/08",
-         "Hasta": "2024/08/15 17:00",
-         "URL": "https://store.epicgames.com/p/dnf-duel-07d055",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/98cdc7484b264021ad8a3a6e1e721989/dnf-duel-1alsy.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Molegan's Quest by KevEatsCheese",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/08/15 18:10",
-         "URL": "https://keveatscheese.itch.io/molegans-quest",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI1NDI3OC8xMzM2ODk1OC5wbmc=/347x500/ngL08J.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
-      },
-      {
-         "Nombre": "Skeletons by KevEatsCheese",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/08/15 18:10",
-         "URL": "https://keveatscheese.itch.io/skeletons",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjUyNDE5MS8xNTA3ODE3Ni5wbmc=/347x500/iWHFsD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
-      },
-      {
-         "Nombre": "Hard Disk Sentinel Standard Edition",
-         "Informacion": "Controle la salud de su disco duro",
-         "Desde": "",
-         "Hasta": "2024/08/16 09:00",
-         "URL": "https://www.bitsdujour.com/software/hard-disk-sentinel/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/hard-disk-sentinel-4h1bf.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "rekisenTCG by rgame157631",
          "Informacion": "Idiomas admitidos:",
@@ -69,7 +9,7 @@
          "URL": "https://rgame157631.itch.io/rekisentcg",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg4NTYxMi8xNzI1NzE3Ni5wbmc=/347x500/okhDk9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "The Ripper Wash by Fear Scape",
@@ -79,7 +19,17 @@
          "URL": "https://fear-scape.itch.io/the-ripper-wash",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg3NzU4OS8xNzIwNjc1MC5naWY=/347x500/DXvm3P.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
+      },
+      {
+         "Nombre": "Interrogator by WildRedChicken",
+         "Informacion": "Se ha producido un asesinato y tienes que averiguar qui\u00e9n mat\u00f3 a la v\u00edctima. Tienes que interrogar a la IA para averiguar qui\u00e9n es el asesino.",
+         "Desde": "",
+         "Hasta": "2024/08/16 23:31",
+         "URL": "https://wildredchicken.itch.io/interrogator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0ODQ0MS8xNzE2NDYxOC5wbmc=/347x500/RWaYtX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Betrayal Hell by Shwampy",
@@ -142,22 +92,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "WLAN-LIVE-SCANNER 2024",
-         "Informacion": "abylon WLAN-LIVE-SCANNER busca redes inal\u00e1mbricas a intervalos regulares. Las redes Wi-Fi encontradas se mostrar\u00e1n en una clara estructura de \u00e1rbol. Un clic establece la conexi\u00f3n a la red seleccionada.",
-         "Desde": "",
-         "Hasta": "2024/08/18 09:00",
-         "URL": "https://sharewareonsale.com/s/abylon-wlan-live-scanner-giveaway-coupon-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/06/wlan-live-scanner_box-154x200.jpg?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "WiFi Password Recovery Pro 2024",
          "Informacion": "Software empresarial para recuperar instant\u00e1neamente todas tus contrase\u00f1as Wi-Fi olvidadas",
          "Desde": "",
          "Hasta": "2024/08/18 09:00",
          "URL": "https://sharewareonsale.com/s/free-xenarmor-wifi-password-recovery-pro-2022-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/wifipasswordrecoverypro-box-256.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WLAN-LIVE-SCANNER 2024",
+         "Informacion": "abylon WLAN-LIVE-SCANNER busca redes inal\u00e1mbricas a intervalos regulares. Las redes Wi-Fi encontradas se mostrar\u00e1n en una clara estructura de \u00e1rbol. Un clic establece la conexi\u00f3n a la red seleccionada.",
+         "Desde": "",
+         "Hasta": "2024/08/18 09:00",
+         "URL": "https://sharewareonsale.com/s/abylon-wlan-live-scanner-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/06/wlan-live-scanner_box-154x200.jpg?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -189,6 +139,26 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-home-design-9-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/boxshot.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Need for Speed\u2122 Unbound",
+         "Informacion": "\u00a1Juega gratis! Corre hacia la cima, definitivamente no fracases. Supera a la polic\u00eda y participa en las clasificatorias semanales para The Grand: la carrera callejera definitiva. Llena tu garaje con veh\u00edculos personalizados y ajustados con precisi\u00f3n e ilumina las calles con tu estilo.",
+         "Desde": "",
+         "Hasta": "2024/08/19 10:00",
+         "URL": "https://store.steampowered.com/app/1846380/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1846380/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Unseen Carnage by DanLaj",
+         "Informacion": "En 'Unseen Carnage', no hagas ruido, enfr\u00e9ntate a horrores invisibles y enfr\u00e9ntate a un asesino en un escalofriante misterio de barrio. \n(juego de estilo pixel art).",
+         "Desde": "",
+         "Hasta": "2024/08/19 10:01",
+         "URL": "https://aljuland.itch.io/unseen-carnage",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg4NzYxMy8xNzI4ODkxNS5wbmc=/347x500/NXkkuG.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -239,6 +209,16 @@
          "URL": "https://sharewareonsale.com/s/free-children-ebooks-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/08/children-ebooks.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FPS + by PurpleGuy coyote",
+         "Informacion": "\u00a1HOLA!",
+         "Desde": "",
+         "Hasta": "2024/08/20 19:00",
+         "URL": "https://purpleguy-coyote.itch.io/fps-shooter",
+         "IMG": "https://img.itch.zone/aW1nLzE0NDI4MjcwLmpwZWc=/347x500/sx2DVC.jpeg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -299,6 +279,16 @@
          "URL": "https://strangesoftworks.itch.io/radio-check",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg3OTAzNi8xNzIzMjY2Mi5qcGc=/347x500/284ktb.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo WinOptimizer 25",
+         "Informacion": "Windows es fant\u00e1stico, pero siempre se puede mejorar. \u00a1Ah\u00ed es donde entra Ashampoo WinOptimizer! Porque, con el tiempo, los sistemas operativos tienden a ralentizarse, volverse inestables y desordenados. Tambi\u00e9n faltan configuraciones importantes o est\u00e1n ocultas en lo m\u00e1s profundo del sistema. Y luego est\u00e1 la constante intrusi\u00f3n en la privacidad introducida con Windows 10 y 11, eufem\u00edsticamente denominada \u201ctelemetr\u00eda\u201d. \u00a1WinOptimizer pone fin a esto, de manera r\u00e1pida, f\u00e1cil y efectiva! Le devuelve la forma a su PC y la hace sentir como nueva nuevamente. Deje que WinOptimizer limpie, optimice y proteja su m\u00e1quina y disfrute de una PC con Windows r\u00e1pida, sencilla y segura con privacidad intacta, \u00a1permanentemente!",
+         "Desde": "",
+         "Hasta": "2024/08/23 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-25-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/scr-ashampoo-winoptimizer-25-automate.png?7297",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -568,6 +558,16 @@
          "Hasta": "2024/08/31 09:51",
          "URL": "https://ar92.itch.io/sinister-v",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQxNjcyMS8xNDMwMzQ3My5wbmc=/347x500/yKit3%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hypercore DEMO by Hyperfrog",
+         "Informacion": "Hypercore es un juego de plataformas en 3D con mec\u00e1nicas detalladas, \u00a1en el que podr\u00e1s competir en la tabla de clasificaci\u00f3n hasta la bandera! En esta demostraci\u00f3n hay una campa\u00f1a, \u00a1pero solo unos pocos niveles seleccionados! Este mundo de dibujos animados tiene mec\u00e1nicas detalladas como mejoras de salto y mucho m\u00e1s, incluidos cofres que te dan elementos aleatorios.",
+         "Desde": "",
+         "Hasta": "2024/08/31 10:40",
+         "URL": "https://hyperforg.itch.io/hypercore",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyNzQ5Mi8xNjc1MjE4Mi5wbmc=/347x500/5SJAua.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
