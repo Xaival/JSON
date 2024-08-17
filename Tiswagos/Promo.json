@@ -1,36 +1,6 @@
 {
-   "date_update": "16 Aug 2024 16:01 UTC",
+   "date_update": "17 Aug 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "rekisenTCG by rgame157631",
-         "Informacion": "Idiomas admitidos:",
-         "Desde": "",
-         "Hasta": "2024/08/16 09:55",
-         "URL": "https://rgame157631.itch.io/rekisentcg",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg4NTYxMi8xNzI1NzE3Ni5wbmc=/347x500/okhDk9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The Ripper Wash by Fear Scape",
-         "Informacion": "Eres Mia, una mujer que recientemente se mud\u00f3 a otra ciudad. Trabajabas en un restaurante como camarera, pero como el lugar estaba lejos decidiste cambiarlo a uno de atenci\u00f3n al p\u00fablico y llamas a una lavander\u00eda autom\u00e1tica en el turno de noche.",
-         "Desde": "",
-         "Hasta": "2024/08/16 17:30",
-         "URL": "https://fear-scape.itch.io/the-ripper-wash",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg3NzU4OS8xNzIwNjc1MC5naWY=/347x500/DXvm3P.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
-      },
-      {
-         "Nombre": "Interrogator by WildRedChicken",
-         "Informacion": "Se ha producido un asesinato y tienes que averiguar qui\u00e9n mat\u00f3 a la v\u00edctima. Tienes que interrogar a la IA para averiguar qui\u00e9n es el asesino.",
-         "Desde": "",
-         "Hasta": "2024/08/16 23:31",
-         "URL": "https://wildredchicken.itch.io/interrogator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0ODQ0MS8xNzE2NDYxOC5wbmc=/347x500/RWaYtX.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
-      },
       {
          "Nombre": "Betrayal Hell by Shwampy",
          "Informacion": "Ciencia:",
@@ -39,7 +9,7 @@
          "URL": "https://shwampy.itch.io/betrayal-hell",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg2ODkwNy8xNzE1MzMwNi5wbmc=/347x500/EQNqcY.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
       },
       {
          "Nombre": "PicsTrick - Face Swapper Free License Key 2024",
@@ -49,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/picstrick-face-swapper-free-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/08/picstrick-free-face-swap.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Gem Jump! by Astra Games Studios",
@@ -59,7 +29,7 @@
          "URL": "https://astra-games-studios.itch.io/gem-jump",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTYyNjU2My85NTc0MjYxLnBuZw==/347x500/tJyVS%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Roller Extreme by Astra Games Studios",
@@ -69,7 +39,7 @@
          "URL": "https://astra-games-studios.itch.io/roller-extreme-with-trailer",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ0NDQ4MS84NDMxNzM1LnBuZw==/347x500/V4lCeZ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "SunnyLand - FoxTrot by Astra Games Studios",
@@ -79,7 +49,7 @@
          "URL": "https://astra-games-studios.itch.io/foxtrot",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU5NTM1MS85MzI5Mzg4LnBuZw==/347x500/jsrzmC.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Topple Tower - Tower Building by Astra Games Studios",
@@ -89,7 +59,7 @@
          "URL": "https://astra-games-studios.itch.io/topple-tower",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjEzMzAzMy8xMjg0MzI3MC5qcGc=/347x500/v74iI4.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "WiFi Password Recovery Pro 2024",
@@ -99,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-xenarmor-wifi-password-recovery-pro-2022-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/wifipasswordrecoverypro-box-256.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "WLAN-LIVE-SCANNER 2024",
@@ -109,6 +79,16 @@
          "URL": "https://sharewareonsale.com/s/abylon-wlan-live-scanner-giveaway-coupon-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/06/wlan-live-scanner_box-154x200.jpg?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "TS DataWiper for Windows License Key Free 2024",
+         "Informacion": "TogetherShare TS DataWiper es un software simple y seguro para borrar datos de la manera m\u00e1s f\u00e1cil y segura de varios dispositivos de almacenamiento, incluidos ordenadores, unidades flash USB, tarjetas de memoria, c\u00e1maras, discos port\u00e1tiles, HDD, SSD, etc. Una vez que TogetherShare DataWiper borra los datos, estos desaparecen para siempre y no se pueden recuperar con ning\u00fan software de recuperaci\u00f3n de datos.",
+         "Desde": "",
+         "Hasta": "2024/08/18 15:00",
+         "URL": "https://giveaway.tickcoupon.com/togethershare-ts-datawiper-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/04/ts-datawiper-for-windows.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -118,6 +98,16 @@
          "Hasta": "2024/08/18 21:17",
          "URL": "https://survivalisland.itch.io/survival-island",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg0OTEyOS8xNzAzMTk0MS5wbmc=/347x500/SbPVqx.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cheese Knight by Elastiskalinjen",
+         "Informacion": "(Pero ten cuidado con el giro...)",
+         "Desde": "",
+         "Hasta": "2024/08/18 23:55",
+         "URL": "https://elastiskalinjen.itch.io/cheese-knight",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzODI4OC8xNTEyMjc4OS5naWY=/347x500/t2zkzh.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -138,6 +128,16 @@
          "Hasta": "2024/08/19 09:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-home-design-9-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/boxshot.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Glary Malware Hunter Pro",
+         "Informacion": "Malware Hunter es un producto galardonado que ofrece protecci\u00f3n integral contra todo tipo de amenazas, protege sus datos, su privacidad y garantiza que su PC se mantenga libre de virus. Hyper Scan le permite disfrutar de una velocidad de escaneo m\u00e1s r\u00e1pida. Detecta y elimina malware persistente contra posibles peligros.",
+         "Desde": "",
+         "Hasta": "2024/08/19 09:00",
+         "URL": "https://sharewareonsale.com/s/free-glary-malware-hunter-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/08/mh-200x129.png?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -292,6 +292,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2024/08/24 09:48",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Desde": "",
+         "Hasta": "2024/08/24 09:48",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Notes... by Anders Studio",
          "Informacion": "Notas... es un peque\u00f1o juego de terror en 3D que fue creado en un motor 2D.",
          "Desde": "",
@@ -388,6 +408,16 @@
          "Hasta": "2024/08/29 17:05",
          "URL": "https://jojo-dev.itch.io/the-devil-inside",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MzAxMC8xNjY3NDMxNS5wbmc=/347x500/ICUgW9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Claudia Plus by Flagimtoshi Games",
+         "Informacion": "Esta cosa es actualmente algo as\u00ed como un LBP3 b\u00e1sico :3",
+         "Desde": "",
+         "Hasta": "2024/08/30 07:00",
+         "URL": "https://flagimtoshi.itch.io/claudia-plus",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxOTMzMC8xNTYwNDgxMS5naWY=/347x500/LXTEEP.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
