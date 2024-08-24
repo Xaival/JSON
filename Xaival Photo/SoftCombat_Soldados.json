@@ -1,5 +1,5 @@
 {
-   "date_update": "23 Aug 2024 16:01 UTC",
+   "date_update": "24 Aug 2024 16:02 UTC",
    "values": [
       {
          "ID": "AAAAAA",
@@ -1020,7 +1020,7 @@
          "Hermandad": "Midgard",
          "Casa": "",
          "HermandadImgURL": "https://i.ibb.co/84tnzWR/Midgard.webp",
-         "ImgURL": "https://i.ibb.co/YNMNKgw/AAAACP.webp",
+         "ImgURL": "",
          "Descripcion": "",
          "Ciudad": "Sevilla",
          "RRSS": {
@@ -1388,28 +1388,6 @@
          }
       },
       {
-         "ID": "AAAACS",
-         "Nombre": "Elias Antonio Dominguez Villadiego",
-         "NombreRol": "",
-         "Hermandad": "",
-         "Casa": "",
-         "HermandadImgURL": "",
-         "ImgURL": "https://i.ibb.co/xskCrzZ/AAAACS.webp",
-         "Descripcion": "",
-         "Ciudad": "",
-         "RRSS": {
-            "Insta1": "https://www.instagram.com/elias_dvilladiego",
-            "Insta2": "",
-            "Insta3": "",
-            "TikTok": "",
-            "Twitter": "",
-            "Facebook": "",
-            "Youtube": "https://www.youtube.com/channel/UCK51qQsgjLZxINXJhNcyDyA",
-            "Twitch": "https://www.twitch.tv/dovigames",
-            "Web": ""
-         }
-      },
-      {
          "ID": "AAAACU",
          "Nombre": "Irene",
          "NombreRol": "",
@@ -1548,7 +1526,7 @@
          "Hermandad": "",
          "Casa": "",
          "HermandadImgURL": "",
-         "ImgURL": "https://i.ibb.co/tQnPfn6/AAAACE.webp",
+         "ImgURL": "",
          "Descripcion": "",
          "Ciudad": "Sevilla",
          "RRSS": {
