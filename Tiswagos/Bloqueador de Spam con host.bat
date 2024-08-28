@@ -1458,6 +1458,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 3c64a6jtlbz4pi4ea8.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 4d23d6jc8tw1z6o095.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 araparbrus.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 openwwws.space #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 c6799b7hqbz176o9f4.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 c91a86jc8lpejbl3da.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 confirm.95urbehxy2dh.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
