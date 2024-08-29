@@ -1,236 +1,6 @@
 {
-   "date_update": "28 Aug 2024 16:01 UTC",
+   "date_update": "29 Aug 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
-         "Desde": "",
-         "Hasta": "2024/08/28 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Drawful 2",
-         "Informacion": "\u00a1Para 3-8 jugadores y una audiencia de miles de personas! \u00a1Tus tel\u00e9fonos o tabletas son tus controladores! El juego de dibujos terribles y respuestas incorrectas desternillantes.",
-         "Desde": "",
-         "Hasta": "2024/08/28 10:00",
-         "URL": "https://store.steampowered.com/app/442070/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/442070/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Once Human",
-         "Informacion": "Once Human es un juego de supervivencia multijugador de mundo abierto ambientado en un extra\u00f1o futuro postapocal\u00edptico. \u00danete a tus amigos para luchar contra monstruos enemigos, descubrir conspiraciones secretas, competir por recursos y construir tu propio territorio. Antes, eras simplemente un humano. Ahora, tienes el poder de rehacer el mundo.",
-         "Desde": "",
-         "Hasta": "2024/08/28 10:00",
-         "URL": "https://store.steampowered.com/app/2139460/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PUBG: BATTLEGROUNDS",
-         "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia Battle Royale original que solo PUBG: BATTLEGROUNDS puede ofrecer.",
-         "Desde": "",
-         "Hasta": "2024/08/28 10:00",
-         "URL": "https://store.steampowered.com/app/578080/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/08/28 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Trackmania",
-         "Informacion": "\u00a1Bienvenido al Club! Coge el volante y juega a Trackmania\u00ae GRATIS ahora.",
-         "Desde": "",
-         "Hasta": "2024/08/28 10:00",
-         "URL": "https://store.steampowered.com/app/2225070/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Artificial Evolution by Yoeri Staal",
-         "Informacion": "\u00a1Prep\u00e1rate para sumergirte profundamente en el coraz\u00f3n de la gen\u00e9tica y descubrir los secretos del ADN! Explorar\u00e1s los misterios de los componentes b\u00e1sicos de la vida como nunca antes.",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-artificial-evolution",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzMjIwMy8xNTA3NTMyMi5wbmc=/347x500/8ToO3W.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Black Flag by Yoeri Staal",
-         "Informacion": "\u00a1Ahoy! \u00danete a esta tripulaci\u00f3n pirata en su misi\u00f3n por proteger los ecosistemas fr\u00e1giles.",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-black-flag",
-         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2NDA2LnBuZw==/347x500/crXQ4W.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Digitizer by Yoeri Staal",
-         "Informacion": "Haz equipo con un Nikola Tesla mejorado cibern\u00e9ticamente en esta aventura de point-and-click y comienza a desentra\u00f1ar los misterios de las se\u00f1ales digitales de una manera que es a la vez educativa y electrizante.",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-digitizer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU0NTI3NS8xNTE3MjI4NS5wbmc=/347x500/DphUDE.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Fluxcharger by Yoeri Staal",
-         "Informacion": "Haz equipo con Nikola Tesla en esta aventura de point-and-click y comienza a desentra\u00f1ar los misterios de las ondas mec\u00e1nicas y las ondas electromagn\u00e9ticas de una manera que es a la vez educativa y electrizante.",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-fluxcharger",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU0NTI3Ni8xNTI3NjA5NS5wbmc=/347x500/oXdhr7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Force of Nature by Yoeri Staal",
-         "Informacion": "\u00danete a Montana en sus exploraciones de un templo abandonado. Haz clic para abrirte paso a trav\u00e9s de las pistas y descubrir la verdad sobre las caracter\u00edsticas de los animales. El juego consta de una serie de rompecabezas de apuntar y hacer clic. Haz clic para encontrar objetos ocultos, conectar palabras y completar un rompecabezas.",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-force-of-nature",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ4NTQ0Ni8xNDc2NjU0Ny5wbmc=/347x500/YMFzv7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - High Temperature by Yoeri Staal",
-         "Informacion": "Esc\u00e1pate a los tr\u00f3picos con Adita. Navega por una lujosa mansi\u00f3n, juega a minijuegos din\u00e1micos y descubre tesoros ocultos sobre el calor.",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-high-temperature",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3NTMyNC8xNDY5NTcwNy5wbmc=/347x500/m81Jnk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Jolly Roger by Yoeri Staal",
-         "Informacion": "\u00a1Ahoy! Emb\u00e1rcate en una aventura de capa y espada y navega por los siete mares con una tripulaci\u00f3n pirata de personajes pintorescos. Desde costas arenosas hasta una ciudad bulliciosa, \u00a1enfrentar\u00e1s desaf\u00edos ambientales y salvar\u00e1s a los animales!",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-jolly-roger",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NDc3Mi8xNTQ4NTkzNi5wbmc=/347x500/2hkN1Q.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - New Dawn by Yoeri Staal",
-         "Informacion": "\u00bfPor qu\u00e9 el zorro del desierto tiene orejas grandes y por qu\u00e9 los osos polares son blancos? \u00a1Averig\u00fcemos por qu\u00e9 los animales tienen un aspecto diferente debido a su mundo!",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-new-dawn",
-         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2MDk0LnBuZw==/347x500/6T0SXn.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Resounding Wave by Yoeri Staal",
-         "Informacion": "\u00bfTienes lo que hace falta para entrar en el tenebroso castillo del pr\u00edncipe Vasko? \u00a1Aprende los secretos de las ondas sonoras! \u00danete a esta aventura de rompecabezas de point and click y explora las misteriosas habitaciones. El juego consta de una serie de rompecabezas de point and click. Haz clic para encontrar objetos ocultos, conectar palabras y completar un rompecabezas.",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-resounding-wave",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3MTg1OC8xNDY3NDcxNS5wbmc=/347x500/Nahl9M.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Synthesizer by Yoeri Staal",
-         "Informacion": "\u00a1\u00danete a Tesla 2.0 en esta emocionante aventura de point-and-click! Explora su laboratorio futurista y sum\u00e9rgete en las maravillas de la informaci\u00f3n digital, la comunicaci\u00f3n inal\u00e1mbrica y la energ\u00eda lum\u00ednica.",
-         "Desde": "",
-         "Hasta": "2024/08/28 14:39",
-         "URL": "https://yoeristaal.itch.io/eureka-synthesizer",
-         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2MzE1LnBuZw==/347x500/%2BmDBlz.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "Glarysoft Malware Hunter Pro 1-Year License Free",
-         "Informacion": "Glarysoft Malware Hunter Pro es un potente software dise\u00f1ado para proporcionar a los clientes capacidades integrales de detecci\u00f3n y protecci\u00f3n contra virus. Ayuda a proteger contra todo tipo de amenazas, proteger los datos, proteger la privacidad y garantizar que su PC se mantenga libre de virus. El software ofrece un modo de hiperescaneo r\u00e1pido, que permite a los usuarios identificar y eliminar r\u00e1pidamente archivos maliciosos y amenazas potenciales. Su sistema de protecci\u00f3n activa monitorea constantemente la actividad sospechosa. Adem\u00e1s, Malware Hunter Pro incluye herramientas de optimizaci\u00f3n del sistema para optimizar el rendimiento del PC y mantenerlo siempre limpio y seguro.",
-         "Desde": "",
-         "Hasta": "2024/08/28 15:00",
-         "URL": "https://giveaway.tickcoupon.com/malware-hunter-pro-free-license-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/glarysoft-malware-hunter-pro-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell : Hazel! by Dancing Dots",
-         "Informacion": "Battle Hell: Hazel! Un simulador de guerra de IA: observa c\u00f3mo se desarrollan batallas \u00e9picas en un mundo basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2024/08/29 00:13",
-         "URL": "https://15joldersmat.itch.io/hazel",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MzA5OC8xNjQyODcxOC5wbmc=/347x500/u68iT%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Arder! by Dancing Dots",
-         "Informacion": "Observa c\u00f3mo The United Cities y Arder luchan entre s\u00ed en el simulador de guerra exclusivo de IA.",
-         "Desde": "",
-         "Hasta": "2024/08/29 00:13",
-         "URL": "https://15joldersmat.itch.io/battle-hell-arder",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NDE3OS8xNjQyNDUwMy5wbmc=/347x500/fZ21SD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Crastle Valley! by Dancing Dots",
-         "Informacion": "Battle Hell: Crastle Valley! Un simulador de guerra de IA: presencia batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2024/08/29 00:13",
-         "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NzQ0My8xNjM5NTE1OS5wbmc=/347x500/PBz1yb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "\u00d8\u00ad\u00d9\u0085\u00d8\u00a7\u00d9\u008a\u00d8\u00a9 \u00d9\u0082\u00d8\u00b1\u00d9\u008a\u00d8\u00a9 : \u00d9\u0085\u00d8\u00b9\u00d8\u00b1\u00d9\u0083\u00d8\u00a9 \u00d8\u00a7\u00d9\u0084\u00d8\u00ba\u00d8\u00b1\u00d8\u00b3 by crocodile",
-         "Informacion": "\u00d8\u00aaEl juego trata de un granjero al que se le pide, junto con otro mercenario, que plante cultivos y recolecte frutas para el invierno que se acerca y proteja al pueblo de unos ladrones, que siempre roban todas las frutas del pueblo. La tarea del jugador requiere el uso de ambos personajes, el granjero y el mercenario, para realizar todas las tareas, ya sea proteger el pueblo o recolectar 100 plantas para ganar el juego.",
-         "Desde": "",
-         "Hasta": "2024/08/29 07:00",
-         "URL": "https://momkl.itch.io/gharsa",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2MzA5Ni8xNTI2NTk1OC5wbmc=/347x500/awsw6V.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "robot B (durdobegg) by crocodile",
-         "Informacion": "La historia sencilla que gira en torno a un robot egipcio sobre su muy amigo que fue secuestrado por humanos hace un tiempo (este es el primer cap\u00edtulo del juego y el resto de los cap\u00edtulos se lanzar\u00e1n a partir de septiembre)",
-         "Desde": "",
-         "Hasta": "2024/08/29 07:00",
-         "URL": "https://momkl.itch.io/robot-in-the-dark",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY4OTg1MC8xMzA5NDg0OC5wbmc=/347x500/PjUzR0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "AnyViewer Pro 4",
-         "Informacion": "AnyViewer Pro es un software integral de conexi\u00f3n de escritorio remoto para PC con Windows y Windows Server con cifrado de extremo a extremo a trav\u00e9s de un s\u00f3lido algoritmo de criptograf\u00eda de curva el\u00edptica (ECC) de 256 bits.",
-         "Desde": "",
-         "Hasta": "2024/08/29 09:00",
-         "URL": "https://sharewareonsale.com/s/free-anyviewer-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/07/e41970ce9cbbc5e94c22343506e76c9d1.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Five Nights at Nikocado's 2: Cheese Breach by TsarBlyatinum",
          "Informacion": "Este es el segundo juego de la trilog\u00eda \"Nikocado\". Esta vez, volvemos con un juego completamente en 3D con acci\u00f3n de terror emocionante. Y s\u00ed, no nos olvidamos de agregar muchos memes...",
@@ -239,7 +9,7 @@
          "URL": "https://tsarblyatinum.itch.io/cheese-breach",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQxMjk0OS84MjYzMzEwLnBuZw==/347x500/L4skvm.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Evidence of 96' by Team Melon, Danial Jumagaliyev, cinnamew, Pxl Dev",
@@ -249,7 +19,7 @@
          "URL": "https://teammelon.itch.io/evidence-of-96",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzQ0Mi8xNjgzMTgxMS5wbmc=/347x500/yD1S4E.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "AnyViewer Professional License Key for Free",
@@ -259,17 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/anyviewer-professional-vip-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/anyviewer-professional-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "YT Saver Video Downloader License Key for Free",
-         "Informacion": "YT Saver Video Downloader es un software de descarga de videos que te permite descargar videos, audio y listas de reproducci\u00f3n de m\u00e1s de 10,000 sitios web, como YouTube, Facebook, Instagram, Twitter, Dailymotion y m\u00e1s. Tambi\u00e9n te ayudar\u00e1 a convertir videos a MP4, MOV, AAC, WAV y m\u00e1s sin perder calidad. YT Saver tiene un navegador integrado que te facilita la navegaci\u00f3n en sitios de videos y m\u00fasica. Tambi\u00e9n puedes descargar videos directamente desde el sitio web.",
-         "Desde": "",
-         "Hasta": "2024/08/29 15:00",
-         "URL": "https://giveaway.tickcoupon.com/yt-saver-video-downloader-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/11/yt-saver-video-downloader.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Magoshare AweClone Free License Key Download",
@@ -279,7 +39,17 @@
          "URL": "https://giveaway.tickcoupon.com/magoshare-aweclone-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/magoshare-aweclone.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
+      },
+      {
+         "Nombre": "YT Saver Video Downloader License Key for Free",
+         "Informacion": "YT Saver Video Downloader es un software de descarga de videos que te permite descargar videos, audio y listas de reproducci\u00f3n de m\u00e1s de 10,000 sitios web, como YouTube, Facebook, Instagram, Twitter, Dailymotion y m\u00e1s. Tambi\u00e9n te ayudar\u00e1 a convertir videos a MP4, MOV, AAC, WAV y m\u00e1s sin perder calidad. YT Saver tiene un navegador integrado que te facilita la navegaci\u00f3n en sitios de videos y m\u00fasica. Tambi\u00e9n puedes descargar videos directamente desde el sitio web.",
+         "Desde": "",
+         "Hasta": "2024/08/29 15:00",
+         "URL": "https://giveaway.tickcoupon.com/yt-saver-video-downloader-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/11/yt-saver-video-downloader.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Saparit: Tommy's Brother by DanLaj",
@@ -289,7 +59,7 @@
          "URL": "https://aljuland.itch.io/saparit-tommys-brother",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjkyMzU4Ny8xNzUxNjA3OC5wbmc=/347x500/19nDOT.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "The Callisto Protocol",
@@ -299,7 +69,7 @@
          "URL": "https://store.epicgames.com/p/the-callisto-protocol",
          "IMG": "https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "The Devil Inside by jojo_dev",
@@ -309,7 +79,7 @@
          "URL": "https://jojo-dev.itch.io/the-devil-inside",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MzAxMC8xNjY3NDMxNS5wbmc=/347x500/ICUgW9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
       },
       {
          "Nombre": "Claudia Plus by Flagimtoshi Games",
@@ -319,7 +89,7 @@
          "URL": "https://flagimtoshi.itch.io/claudia-plus",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjYxOTMzMC8xNTYwNDgxMS5naWY=/347x500/LXTEEP.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "2000 Professional Lightroom Presets",
@@ -329,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-1000-professional-lightroom-presets-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/06/Main-Image-9-min-4-200x109.jpg?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Running Through Backrooms by GabM2K",
@@ -349,6 +119,16 @@
          "URL": "https://wenudu.itch.io/liminal-leap",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY5MTkxOC8xNjA0NzM4NC5qcGc=/347x500/Qlk1Lm.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DiReec Screen Recorder 6-Month License Key Free",
+         "Informacion": "Amoyshare DiReec Screen Recorder es una aplicaci\u00f3n de grabaci\u00f3n de pantalla perfecta que ofrece varias funciones para ayudarte a crear tutoriales en v\u00eddeo, grabar reuniones en l\u00ednea o capturar sesiones de juegos. Con un funcionamiento sencillo, puedes grabar f\u00e1cilmente tu pantalla mientras muestras una gu\u00eda paso a paso a los espectadores. Adem\u00e1s de grabar pantallas, tambi\u00e9n te permite grabar audio y c\u00e1mara web al mismo tiempo.",
+         "Desde": "",
+         "Hasta": "2024/08/30 15:00",
+         "URL": "https://giveaway.tickcoupon.com/amoyshare-direec-screen-recorder-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/07/amoyshare-direec-screen-recorder.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -512,6 +292,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Battle Hell : Hazel! by Dancing Dots",
+         "Informacion": "Battle Hell: Hazel! Un simulador de guerra de IA: observa c\u00f3mo se desarrollan batallas \u00e9picas en un mundo basado en mosaicos",
+         "Desde": "",
+         "Hasta": "2024/08/31 00:17",
+         "URL": "https://15joldersmat.itch.io/hazel",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MzA5OC8xNjQyODcxOC5wbmc=/347x500/u68iT%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battle Hell: Crastle Valley! by Dancing Dots",
+         "Informacion": "Battle Hell: Crastle Valley! Un simulador de guerra de IA: presencia batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
+         "Desde": "",
+         "Hasta": "2024/08/31 00:17",
+         "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NzQ0My8xNjM5NTE1OS5wbmc=/347x500/PBz1yb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battle Hell: Arder! by Dancing Dots",
+         "Informacion": "Observa c\u00f3mo The United Cities y Arder luchan entre s\u00ed en el simulador de guerra exclusivo de IA.",
+         "Desde": "",
+         "Hasta": "2024/08/31 00:17",
+         "URL": "https://15joldersmat.itch.io/battle-hell-arder",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NDE3OS8xNjQyNDUwMy5wbmc=/347x500/fZ21SD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Bedrotting DEMO by Marginalact",
          "Informacion": "Este juego trata sobre un estado de descomposici\u00f3n. Este t\u00e9rmino de la cultura de Internet suele describir a una persona que est\u00e1 acostada en la cama sin voluntad de levantarse. Este acto puede realizarse de forma voluntaria, pero, por lo general, es consecuencia de problemas mentales como la depresi\u00f3n.",
          "Desde": "",
@@ -582,16 +392,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ashampoo WinOptimizer 25",
-         "Informacion": "Windows es genial, pero siempre hay margen de mejora. \u00a1Ah\u00ed es donde entra en juego Ashampoo WinOptimizer! Porque, con el tiempo, los sistemas operativos tienden a ralentizarse, volverse inestables y desordenarse. Tambi\u00e9n faltan configuraciones importantes o est\u00e1n ocultas en lo profundo del sistema. Y luego est\u00e1 la constante intrusi\u00f3n en la privacidad introducida con Windows 10 y 11, denominada eufem\u00edsticamente `telemetr\u00eda`. \u00a1WinOptimizer pone fin a esto de manera r\u00e1pida, f\u00e1cil y efectiva! Devuelve su PC a su estado original y lo hace sentir como nuevo nuevamente. Deje que WinOptimizer limpie, optimice y proteja su m\u00e1quina y disfrute de un PC con Windows r\u00e1pido, eficiente y seguro con privacidad intacta, \u00a1de forma permanente!",
-         "Desde": "",
-         "Hasta": "2024/08/31 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-25-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/scr-ashampoo-winoptimizer-25-automate.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Ashampoo Photo Optimizer 2024",
          "Informacion": "Photo Optimizer 2024 ofrece una edici\u00f3n de im\u00e1genes completa con tan solo unos clics. El programa admite funciones populares como rotaci\u00f3n de im\u00e1genes, recorte, cambio de tama\u00f1o y mucho m\u00e1s.",
          "Desde": "",
@@ -602,13 +402,23 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "THE DRILLING by Voxelvoid",
-         "Informacion": "THE DRILLING es un juego de terror psicol\u00f3gico de estilo retro sobre una expedici\u00f3n subterr\u00e1nea.",
+         "Nombre": "Ashampoo WinOptimizer 25",
+         "Informacion": "Windows es genial, pero siempre hay margen de mejora. \u00a1Ah\u00ed es donde entra en juego Ashampoo WinOptimizer! Porque, con el tiempo, los sistemas operativos tienden a ralentizarse, volverse inestables y desordenarse. Tambi\u00e9n faltan configuraciones importantes o est\u00e1n ocultas en lo profundo del sistema. Y luego est\u00e1 la constante intrusi\u00f3n en la privacidad introducida con Windows 10 y 11, denominada eufem\u00edsticamente `telemetr\u00eda`. \u00a1WinOptimizer pone fin a esto de manera r\u00e1pida, f\u00e1cil y efectiva! Devuelve su PC a su estado original y lo hace sentir como nuevo nuevamente. Deje que WinOptimizer limpie, optimice y proteja su m\u00e1quina y disfrute de un PC con Windows r\u00e1pido, eficiente y seguro con privacidad intacta, \u00a1de forma permanente!",
          "Desde": "",
-         "Hasta": "2024/08/31 09:05",
-         "URL": "https://voxelvoid.itch.io/the-drilling",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM0NTkyOC8xMzg5NzA5Ny5wbmc=/347x500/0wbdzt.png",
-         "Distribuidora": "Itch io",
+         "Hasta": "2024/08/31 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-25-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/10/scr-ashampoo-winoptimizer-25-automate.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "500 Realistic Professional Photo Overlays",
+         "Informacion": "500+ Realistic Photo Overlays es la colecci\u00f3n m\u00e1s grande y diversa de superposiciones en 2022 para verdaderos profesionales. Ahorra tiempo valioso y domina tus habilidades con m\u00e1s de 500 superposiciones de fotos realistas. Agrega vibraciones suaves y geniales a tus dise\u00f1os.",
+         "Desde": "",
+         "Hasta": "2024/08/31 09:00",
+         "URL": "https://sharewareonsale.com/s/free-500-realistic-professional-photo-overlays-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/500-Professional-Photo-Overlays-Bundle-Image-scaled.jpg?7297",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -618,6 +428,16 @@
          "Hasta": "2024/08/31 09:05",
          "URL": "https://voxelvoid.itch.io/dark-lords-maze",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDY4MC8xMjQ0OTExNy5wbmc=/347x500/w%2Bp1ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE DRILLING by Voxelvoid",
+         "Informacion": "THE DRILLING es un juego de terror psicol\u00f3gico de estilo retro sobre una expedici\u00f3n subterr\u00e1nea.",
+         "Desde": "",
+         "Hasta": "2024/08/31 09:05",
+         "URL": "https://voxelvoid.itch.io/the-drilling",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM0NTkyOC8xMzg5NzA5Ny5wbmc=/347x500/0wbdzt.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -892,6 +712,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Apeaksoft Screen Recorder License Key Free 2024",
+         "Informacion": "Apeaksoft Screen Recorder es una herramienta profesional que puede ayudarte a grabar cualquier video y audio que se reproduzca en tu PC con Windows y Mac. Con ella, puedes grabar cualquier actividad en pantalla que desees con la calidad de imagen y sonido original. Por ejemplo, puedes grabar videos en l\u00ednea, llamadas de Skype, GoToMeeting, juegos, podcasts, seminarios web, conferencias, conferencias en l\u00ednea, videos de c\u00e1maras web, etc. en pantalla completa o en un tama\u00f1o de pantalla personalizado. Tambi\u00e9n puedes anotar la grabaci\u00f3n con un cuadro de texto, una flecha, un resaltado y m\u00e1s. Te permite realizar varias configuraciones antes de grabar videos y audio.",
+         "Desde": "",
+         "Hasta": "2024/09/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/apeaksoft-screen-recorder-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/08/apeaksoft-screen-recorder-box.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Eldoria (beta) by Raccoon Expert Games",
          "Informacion": "",
          "Desde": "",
@@ -918,16 +748,6 @@
          "Hasta": "2024/09/01 00:00",
          "URL": "https://giveaway.tickcoupon.com/renamekit-free-license-key-full-version/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/07/renamekit-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Apeaksoft Screen Recorder License Key Free 2024",
-         "Informacion": "Apeaksoft Screen Recorder es una herramienta profesional que puede ayudarte a grabar cualquier video y audio que se reproduzca en tu PC con Windows y Mac. Con ella, puedes grabar cualquier actividad en pantalla que desees con la calidad de imagen y sonido original. Por ejemplo, puedes grabar videos en l\u00ednea, llamadas de Skype, GoToMeeting, juegos, podcasts, seminarios web, conferencias, conferencias en l\u00ednea, videos de c\u00e1maras web, etc. en pantalla completa o en un tama\u00f1o de pantalla personalizado. Tambi\u00e9n puedes anotar la grabaci\u00f3n con un cuadro de texto, una flecha, un resaltado y m\u00e1s. Te permite realizar varias configuraciones antes de grabar videos y audio.",
-         "Desde": "",
-         "Hasta": "2024/09/01 00:00",
-         "URL": "https://giveaway.tickcoupon.com/apeaksoft-screen-recorder-key-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/08/apeaksoft-screen-recorder-box.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -1002,6 +822,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster iPhone Backup Extractor License Key Free 2023",
+         "Informacion": "Los usuarios de iPhone reconocen que iTunes es una gran herramienta para realizar copias de seguridad peri\u00f3dicas de sus im\u00e1genes, v\u00eddeos y otros datos importantes en caso de que su dispositivo se pierda, se da\u00f1e o se reemplace. Pero, \u00bfc\u00f3mo recuperar sus datos si pierde su iPhone/iPad/iPod? Coolmuster iPhone Backup Extractor es un software de extracci\u00f3n de copias de seguridad de iPhone profesional que permite extraer archivos de iPhone desde una copia de seguridad de iTunes a una computadora sin necesidad de conectar el iPhone a la computadora.",
+         "Desde": "",
+         "Hasta": "2024/09/02 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-backup-extractor-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/01/coolmuster-iphone-backup-extractor-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Zombie Town_ Living In The City by Yuneek",
          "Informacion": "Un juego de zombies simple que cre\u00e9 con matchmaking en l\u00ednea. Tiene un modo de un jugador bastante simple, todo lo que tienes que hacer es cargar un juego por ti mismo y te dar\u00e1 un cron\u00f3metro y tratar\u00e1s de sobrevivir tanto como puedas.",
          "Desde": "",
@@ -1072,6 +902,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Drug Dealin Sim 2024 by b._.render",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/03 02:00",
+         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hasleo Disk Clone Professional",
          "Informacion": "Software de clonaci\u00f3n de discos todo en uno para Windows",
          "Desde": "",
@@ -1102,6 +942,136 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "All-In-One Key Finder Pro",
+         "Informacion": "Software empresarial para recuperar claves de licencia perdidas de Windows, Office y m\u00e1s de 10 000 programas populares",
+         "Desde": "",
+         "Hasta": "2024/09/04 09:00",
+         "URL": "https://sharewareonsale.com/s/free-xenarmor-all-in-one-key-finder-pro-2020-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/10/allinonekeyfinderpro-box-250-200x219.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Black Flag by Yoeri Staal",
+         "Informacion": "\u00a1Ahoy! \u00danete a esta tripulaci\u00f3n pirata en su misi\u00f3n por proteger los ecosistemas fr\u00e1giles.",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-black-flag",
+         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2NDA2LnBuZw==/347x500/crXQ4W.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Synthesizer by Yoeri Staal",
+         "Informacion": "\u00a1\u00danete a Tesla 2.0 en esta emocionante aventura de point-and-click! Explora su laboratorio futurista y sum\u00e9rgete en las maravillas de la informaci\u00f3n digital, la comunicaci\u00f3n inal\u00e1mbrica y la energ\u00eda lum\u00ednica.",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-synthesizer",
+         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2MzE1LnBuZw==/347x500/%2BmDBlz.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - New Dawn by Yoeri Staal",
+         "Informacion": "\u00bfPor qu\u00e9 el zorro del desierto tiene orejas grandes y por qu\u00e9 los osos polares son blancos? \u00a1Averig\u00fcemos por qu\u00e9 los animales tienen un aspecto diferente debido a su mundo!",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-new-dawn",
+         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2MDk0LnBuZw==/347x500/6T0SXn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Jolly Roger by Yoeri Staal",
+         "Informacion": "\u00a1Ahoy! Emb\u00e1rcate en una aventura de capa y espada y navega por los siete mares con una tripulaci\u00f3n pirata de personajes pintorescos. Desde costas arenosas hasta una ciudad bulliciosa, \u00a1enfrentar\u00e1s desaf\u00edos ambientales y salvar\u00e1s a los animales!",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-jolly-roger",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NDc3Mi8xNTQ4NTkzNi5wbmc=/347x500/2hkN1Q.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Fluxcharger by Yoeri Staal",
+         "Informacion": "Haz equipo con Nikola Tesla en esta aventura de point-and-click y comienza a desentra\u00f1ar los misterios de las ondas mec\u00e1nicas y las ondas electromagn\u00e9ticas de una manera que es a la vez educativa y electrizante.",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-fluxcharger",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU0NTI3Ni8xNTI3NjA5NS5wbmc=/347x500/oXdhr7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Digitizer by Yoeri Staal",
+         "Informacion": "Haz equipo con un Nikola Tesla mejorado cibern\u00e9ticamente en esta aventura de point-and-click y comienza a desentra\u00f1ar los misterios de las se\u00f1ales digitales de una manera que es a la vez educativa y electrizante.",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-digitizer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU0NTI3NS8xNTE3MjI4NS5wbmc=/347x500/DphUDE.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Artificial Evolution by Yoeri Staal",
+         "Informacion": "\u00a1Prep\u00e1rate para sumergirte en las profundidades de la gen\u00e9tica y descubrir los secretos del ADN! Explorar\u00e1s los misterios de los componentes b\u00e1sicos de la vida como nunca antes.",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-artificial-evolution",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzMjIwMy8xNTA3NTMyMi5wbmc=/347x500/8ToO3W.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Force of Nature by Yoeri Staal",
+         "Informacion": "\u00danete a Montana en sus exploraciones de un templo abandonado. Haz clic para abrirte paso a trav\u00e9s de las pistas y descubrir la verdad sobre las caracter\u00edsticas de los animales. El juego consta de una serie de rompecabezas de apuntar y hacer clic. Haz clic para encontrar objetos ocultos, conectar palabras y completar un rompecabezas.",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-force-of-nature",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ4NTQ0Ni8xNDc2NjU0Ny5wbmc=/347x500/YMFzv7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - High Temperature by Yoeri Staal",
+         "Informacion": "Esc\u00e1pate a los tr\u00f3picos con Adita. Navega por una lujosa mansi\u00f3n, juega a minijuegos din\u00e1micos y descubre tesoros ocultos sobre el calor.",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-high-temperature",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3NTMyNC8xNDY5NTcwNy5wbmc=/347x500/m81Jnk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Resounding Wave by Yoeri Staal",
+         "Informacion": "\u00bfTienes lo que hace falta para entrar en el tenebroso castillo del pr\u00edncipe Vasko? \u00a1Aprende los secretos de las ondas sonoras! \u00danete a esta aventura de rompecabezas de point and click y explora las misteriosas habitaciones. El juego consta de una serie de rompecabezas de point and click. Haz clic para encontrar objetos ocultos, conectar palabras y completar un rompecabezas.",
+         "Desde": "",
+         "Hasta": "2024/09/04 14:39",
+         "URL": "https://yoeristaal.itch.io/eureka-resounding-wave",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3MTg1OC8xNDY3NDcxNS5wbmc=/347x500/Nahl9M.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fear Assessment by ALEXANDER WISEMAN",
+         "Informacion": "El programa FEAR ASSESSMENT es una prueba especializada desarrollada e implementada por agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web y la informaci\u00f3n de su disco duro.",
+         "Desde": "",
+         "Hasta": "2024/09/05 07:00",
+         "URL": "https://alexander-wiseman.itch.io/fear-assessment",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjExOTgzNy8xMjY3MTUxMS5wbmc=/347x500/bBN61Y.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "50 Vintage Film Photo Overlays",
+         "Informacion": "\u00a1Acelere su flujo de trabajo con todo un universo de superposiciones de fotograf\u00edas cinematogr\u00e1ficas!",
+         "Desde": "",
+         "Hasta": "2024/09/05 09:00",
+         "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/4-min-1-1300x867-1.jpg?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wild Card Football",
          "Informacion": "Wild Card Football is a fun pick-up-and-play arcade-style football game featuring 7v7 team-focused gameplay with the unique Wild Card system that lets you change the course of the action in an instant with special power-ups and rule-breaking abilities.",
          "Desde": "2024/08/29",
@@ -1109,7 +1079,17 @@
          "URL": "https://store.epicgames.com/p/wild-card-football",
          "IMG": "https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S1_2560x1440-8a226b013b7731e5b5d905d82747a1f8",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ViWizard Netflix Video Downloader License Key Free 2024",
+         "Informacion": "En el vertiginoso mundo actual, ya no tienes m\u00e1s tiempo libre para ver tus pel\u00edculas y programas favoritos de Netflix en l\u00ednea. ViWizard Netflix Video Downloader naci\u00f3 para ayudarte a descargar y disfrutar de contenido de Netflix sin conexi\u00f3n en cualquier momento y en cualquier lugar. Este descargador de videos de Netflix ofrece varias funciones clave para ayudarte a descargar videos de Netflix, incluidas pel\u00edculas, programas de TV, anime y m\u00e1s, en alta definici\u00f3n, preservando la calidad original del contenido. Con su ayuda, puedes descargar videos de Netflix y guardarlos en formatos MP4 y MKV.",
+         "Desde": "",
+         "Hasta": "2024/09/06 01:00",
+         "URL": "https://giveaway.tickcoupon.com/viwizard-netflix-video-downloader-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/08/viwizard-netflix-video-downloader.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "BadFame by Benaiez",
@@ -1202,6 +1182,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Football Manager 2024",
+         "Informacion": "Football Manager 2024",
+         "Desde": "2024/09/05",
+         "Hasta": "2024/09/12 17:00",
+         "URL": "https://store.epicgames.com/p/football-manager-2024",
+         "IMG": "https://cdn1.epicgames.com/offer/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024_SportsInteractive_S1_2560x1440-3f607ee3653065afb4ae73fcb5ff5e0c",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Sniper Ghost Warrior Contracts",
+         "Informacion": "Convi\u00e9rtete en el asesino perfecto en el juego de francotiradores militar m\u00e1s realista del mercado. Vive una intensa campa\u00f1a para un jugador con grandes mapas abiertos. Necesitar\u00e1s dotes t\u00e1cticas, un enfoque sigiloso y precisi\u00f3n en los disparos de largo alcance.",
+         "Desde": "2024/09/05",
+         "Hasta": "2024/09/12 17:00",
+         "URL": "https://store.epicgames.com/p/sniper-ghost-warrior-contracts-c772b9",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-erbx1.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "VideoProc Converter AI License Key Free 2024",
+         "Informacion": "VideoProc Converter AI es un software de procesamiento de video r\u00e1pido que aprovecha al m\u00e1ximo la aceleraci\u00f3n de GPU de nivel 3. Como una caja de herramientas de video completa, puede editar, convertir y procesar f\u00e1cilmente sus videos 4K. No solo esto, tambi\u00e9n se destaca en la descarga y grabaci\u00f3n de videos. La versi\u00f3n para Windows de VideoProc Converter AI acaba de actualizarse con tres caracter\u00edsticas notables: S\u00faper resoluci\u00f3n: mejora el video/imagen a 2x, 3x, 4x sin perder calidad; Interpolaci\u00f3n de cuadros: aumenta los fps y Estabilizaci\u00f3n: corrige las im\u00e1genes movidas.",
+         "Desde": "",
+         "Hasta": "2024/09/13 12:00",
+         "URL": "https://giveaway.tickcoupon.com/videoproc-converter-full-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/10/videoproc-converter-ai-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Gigantic: Rampage Edition",
          "Informacion": "GIGANTIC: RAMPAGE EDITION is a premium and definitive release of the original 5v5 MOBA Hero Shooter, GIGANTIC. Choose a unique hero and team up with other players to control objectives. GIGANTIC: RAMPAGE EDITION includes a new game mode, cross platform play, new heroes, new maps.",
          "Desde": "2024/09/02",
@@ -1238,6 +1248,56 @@
          "Hasta": "2024/09/22 12:00",
          "URL": "https://store.steampowered.com/app/373600/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/373600/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Once Human",
+         "Informacion": "Once Human es un juego de supervivencia multijugador de mundo abierto ambientado en un extra\u00f1o futuro postapocal\u00edptico. \u00danete a tus amigos para luchar contra monstruos enemigos, descubrir conspiraciones secretas, competir por recursos y construir tu propio territorio. Antes, eras simplemente un humano. Ahora, tienes el poder de rehacer el mundo.",
+         "Desde": "",
+         "Hasta": "2024/09/22 12:00",
+         "URL": "https://store.steampowered.com/app/2139460/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The First Descendant",
+         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
+         "Desde": "",
+         "Hasta": "2024/09/22 12:00",
+         "URL": "https://store.steampowered.com/app/2074920/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PUBG: BATTLEGROUNDS",
+         "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia Battle Royale original que solo PUBG: BATTLEGROUNDS puede ofrecer.",
+         "Desde": "",
+         "Hasta": "2024/09/22 12:00",
+         "URL": "https://store.steampowered.com/app/578080/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Counter-Strike 2",
+         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
+         "Desde": "",
+         "Hasta": "2024/09/22 12:00",
+         "URL": "https://store.steampowered.com/app/730/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Trackmania",
+         "Informacion": "\u00a1Bienvenido al Club! Coge el volante y juega a Trackmania\u00ae GRATIS ahora.",
+         "Desde": "",
+         "Hasta": "2024/09/22 12:00",
+         "URL": "https://store.steampowered.com/app/2225070/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
          "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
