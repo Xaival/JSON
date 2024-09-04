@@ -69,7 +69,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 daughterinlawrib.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 holdsoutset.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 infesthazardous.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 otoadom.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 initiallycoffee.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 junkieswudge.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 live.pushub.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -217,6 +216,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 onclickprediction.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 onemboaran.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 onmarshtompor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 otoadom.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 p131675.clksite.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 p4uvo.thesensualnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 peech2eecha.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1446,6 +1446,8 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.sciaticasos.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 3c64a6jtlbz4pi4ea8.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 4d23d6jc8tw1z6o095.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 9ba03hoxs17p2vrbed.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 9e67ahousslzwdzf08.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 araparbrus.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 c6799b7hqbz176o9f4.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 c91a86jc8lpejbl3da.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1459,11 +1461,9 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 openwwws.space #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 overelly.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 pramentatied.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 9e67ahousslzwdzf08.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 profecrotize.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 rafkxx.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 rhichateriams.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 9ba03hoxs17p2vrbed.hgooes.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.user-shield.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.totalav.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 online-file-converter.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
