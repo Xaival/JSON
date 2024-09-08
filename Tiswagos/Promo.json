@@ -1,136 +1,6 @@
 {
-   "date_update": "07 Sep 2024 16:01 UTC",
+   "date_update": "08 Sep 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "THE MISSING ONE by MechMen",
-         "Informacion": "Eres un detective que est\u00e1 buscando a un ni\u00f1o desaparecido. Has encontrado un apartamento que se sospecha que est\u00e1 relacionado con el caso. Explora el apartamento y descubre qu\u00e9 ha ocurrido en su interior.",
-         "Desde": "",
-         "Hasta": "2024/09/07 09:47",
-         "URL": "https://mechmen.itch.io/the-missing-one",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MTYwNS8xNjQxOTM3My5qcGc=/347x500/DaMTdK.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo moverse",
-         "Desde": "",
-         "Hasta": "2024/09/07 14:05",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/07 14:05",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2024/09/07 14:05",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2024/09/07 14:05",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/07 14:05",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino, mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
-         "Desde": "",
-         "Hasta": "2024/09/07 14:05",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA EL MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2024/09/07 14:05",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Text Trivia Pro by Ahsan Makes Games",
-         "Informacion": "Texto de trivia profesional",
-         "Desde": "",
-         "Hasta": "2024/09/07 20:01",
-         "URL": "https://ahsanmakesgames.itch.io/text-trivia-pro",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3NjU2OC8xNjU2Nzg0My5wbmc=/347x500/yPx8kh.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "survival island by survivalisland",
-         "Informacion": "Si es posible, por favor h\u00e1ganmelo saber. Esto es muy importante para que podamos hacer que el juego sea m\u00e1s grande.",
-         "Desde": "",
-         "Hasta": "2024/09/07 21:17",
-         "URL": "https://survivalisland.itch.io/survival-island",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0OTEyOS8xNzAzMTk0MS5wbmc=/347x500/SbPVqx.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "MiniTool ShadowMaker Pro 6-Month License Key Free",
-         "Informacion": "MiniTool ShadowMaker Pro es un software de copia de seguridad de datos profesional que ayuda a los usuarios a crear, administrar y restaurar datos de copia de seguridad de unidades de ordenador o unidades externas. Con su ayuda, puede sincronizar los archivos y carpetas abiertos con otras ubicaciones para mantener sus datos seguros. Tambi\u00e9n le ayuda a realizar copias de seguridad de archivos y carpetas para restaurarlos en caso de que los archivos se pierdan o eliminen.",
-         "Desde": "",
-         "Hasta": "2024/09/08 00:00",
-         "URL": "https://giveaway.tickcoupon.com/minitool-shadowmaker-pro-for-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/03/minitool-shadowmaker-pro.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "2000 Professional Lightroom Presets",
-         "Informacion": "\u00a1Ahora no necesitas pasar horas en Lightroom!",
-         "Desde": "",
-         "Hasta": "2024/09/08 09:00",
-         "URL": "https://sharewareonsale.com/s/free-1000-professional-lightroom-presets-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/06/Main-Image-9-min-4-200x109.jpg?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "IObit Software Updater PRO 7",
-         "Informacion": "IObit Software Updater es un programa liviano y f\u00e1cil de usar que le ayuda a actualizar programas obsoletos e instalar los programas m\u00e1s populares e imprescindibles con solo 1 clic.",
-         "Desde": "",
-         "Hasta": "2024/09/08 09:00",
-         "URL": "https://sharewareonsale.com/s/free-iobit-software-updater-pro-6-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/isu_boxshot.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "SurviveMaster 2 by fixcode, infDevTeam",
          "Informacion": "Tienes manos de exoesqueleto totalmente rob\u00f3ticas que tienen una funcionalidad similar a Iron Man del universo Marvel, a saber: realizar disparos repulsores, as\u00ed como crear una poderosa carga de energ\u00eda en forma de l\u00e1seres.",
@@ -139,7 +9,7 @@
          "URL": "https://fixcode.itch.io/survivemaster2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc2MTQzMi8xNzU4OTc1MC5qcGc=/347x500/A7s8zD.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
       },
       {
          "Nombre": "Sapphire City Part 2 by Pehriska",
@@ -149,7 +19,7 @@
          "URL": "https://pehriska.itch.io/sapphire-city-part-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjA3MjY4MS8xMjE5MjMwNC5wbmc=/347x500/2hbnA0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
       },
       {
          "Nombre": "Vovsoft Speech to Text Converter License Key Free 2024",
@@ -159,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/speech-to-text-converter-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/vovsoft-speech-to-text-converter-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Omega No Sunshine 24 standard edition by Galoxyum",
@@ -169,7 +39,7 @@
          "URL": "https://galoxyum.itch.io/ons24",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA4OTU1Mi8xNzI3ODg4Ni5qcGc=/347x500/QllJm1.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
       },
       {
          "Nombre": "Techna \u00e2\u009a\u00ac Alpha by Roomah Gaming",
@@ -179,7 +49,7 @@
          "URL": "https://roomahgaming.itch.io/techna",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTE3NDg0MC82ODcyMTMzLnBuZw==/347x500/zsIjb1.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "The Handheld Game Console Encyclopedia vol.2 by DaddaRuleKonge",
@@ -189,7 +59,7 @@
          "URL": "https://daddarulekonge.itch.io/the-handheld-game-console-encyclopedia-vol2",
          "IMG": "https://img.itch.zone/aW1hZ2UvODY0NzcwLzQ4NTYwMjkuanBn/347x500/j63V%2FE.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Me and My Eldritch Parasite by ApeHardware",
@@ -199,7 +69,7 @@
          "URL": "https://apehardware.itch.io/m-a-m-e-p",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTUwODI0Ni84NzkwODQ0LnBuZw==/347x500/UVrI1u.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Until It\u00e2\u0080\u0099s Undone: Unmastered by ApeHardware",
@@ -209,7 +79,7 @@
          "URL": "https://apehardware.itch.io/uh-oh-here-we-go-again",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NzUxMS8xNDU3MzE2My5wbmc=/347x500/rWqERy.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sensational Font Bundle",
@@ -219,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-sensational-font-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/09/Sensational-Font-Bundle-FREE.jpg?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Wise Care 365 PRO",
@@ -229,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-wise-care-365-pro-39-95-value",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/06/wisecare365.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Expeditions: A MudRunner Game",
@@ -248,6 +118,86 @@
          "Hasta": "2024/09/09 14:00",
          "URL": "https://giveaway.tickcoupon.com/vovsoft-photos-to-video-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/11/vovsoft-photos-to-video.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
+         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
+         "Desde": "",
+         "Hasta": "2024/09/09 14:05",
+         "URL": "https://al7ussain.itch.io/whale-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2024/09/09 14:05",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Here We Go Again by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/09 14:05",
+         "URL": "https://al7ussain.itch.io/hear-we-go-again",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA EL MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2024/09/09 14:05",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/09 14:05",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
+         "Desde": "",
+         "Hasta": "2024/09/09 14:05",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo moverse",
+         "Desde": "",
+         "Hasta": "2024/09/09 14:05",
+         "URL": "https://al7ussain.itch.io/foxy-man",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AudFree Tidal Music Converter License Key Free",
+         "Informacion": "AudFree Tidal Music Converter puede descargar y convertir canciones, listas de reproducci\u00f3n o \u00e1lbumes de Tidal para suscriptores de Tidal Premium y Hi-Fi. Te ayuda a convertir archivos protegidos a archivos de audio simples como MP3, FLAC, WAV, etc., manteniendo todas las etiquetas ID3. Utilizando tecnolog\u00eda avanzada, AudFree Tidal Music Converter alcanza una velocidad de conversi\u00f3n hasta 5X en Windows y 1X en Mac. Puede descargar m\u00fasica de Tidal en lotes sin problemas. Es compatible con varios dispositivos, incluidos tel\u00e9fonos inteligentes, reproductores de MP3, consolas de juegos y parlantes inteligentes.",
+         "Desde": "",
+         "Hasta": "2024/09/09 15:00",
+         "URL": "https://giveaway.tickcoupon.com/audfree-tidal-music-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/audfree-tidal-music-converter-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -372,6 +322,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "FliFlik Voice Changer 1-Month Giveaway License Key Free",
+         "Informacion": "En la actualidad, existen numerosas soluciones disponibles en el mercado para cambiar la voz en tiempo real. Es dif\u00edcil encontrar una herramienta que sea b\u00e1sica y f\u00e1cil de usar para todos. FliFlik Voice Changer fue creado para ayudarlo a responder la pregunta anterior. Este software de cambio de voz para usuarios de Windows lo ayuda a cambiar la voz instant\u00e1neamente durante llamadas, clases en l\u00ednea, transmisiones, juegos o mensajes.",
+         "Desde": "",
+         "Hasta": "2024/09/11 15:00",
+         "URL": "https://giveaway.tickcoupon.com/fliflik-voice-changer-free-license-code/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/fliflik-voice-changer-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FliFlik KlearMax for Photo 1-Month License Key for Free",
+         "Informacion": "\u00bfBuscas el mejor potenciador de im\u00e1genes con IA para convertir tus fotos de `meh` a `magn\u00edficas`? \u00a1No busques m\u00e1s! En la publicaci\u00f3n de hoy, descubramos FliFlik KlearMax for Photo, la mejor herramienta impulsada por IA, que har\u00e1 que tus fotos brillen con una claridad visual deleitante. Con solo un clic, puedes mejorar la foto usando esta aplicaci\u00f3n de mejora de fotos con IA aumentando la resoluci\u00f3n, eliminando el desenfoque, ajustando el balance de color y enfocando los detalles.",
+         "Desde": "",
+         "Hasta": "2024/09/11 15:00",
+         "URL": "https://giveaway.tickcoupon.com/fliflik-klearmax-for-photo-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/06/fliflik-klearmax-for-photo-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PassWiper for Excel License Key for Free",
+         "Informacion": "PassWiper for Excel es una potente herramienta dise\u00f1ada para desbloquear archivos de Excel protegidos con contrase\u00f1a con una tasa de recuperaci\u00f3n alt\u00edsima. Esta herramienta de recuperaci\u00f3n de contrase\u00f1as de Excel ofrece una soluci\u00f3n integral para diversos problemas de contrase\u00f1as de Excel, incluida la eliminaci\u00f3n de restricciones de edici\u00f3n, copia, impresi\u00f3n y cambio de la estructura del libro de trabajo.",
+         "Desde": "",
+         "Hasta": "2024/09/11 16:00",
+         "URL": "https://giveaway.tickcoupon.com/passwiper-for-excel-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/09/passwiper-for-excel.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "UnlockGo Windows Password Recovery Key Free 2024",
+         "Informacion": "UnlockGo Windows Password Recovery es una herramienta de recuperaci\u00f3n de contrase\u00f1as de Windows todo en uno que puede ayudarte a encontrar tu contrase\u00f1a de Windows perdida en poco tiempo. Con ella, puedes restablecer, eliminar o eludir las contrase\u00f1as de Windows, lo que garantiza que nunca perder\u00e1s el acceso a tus datos importantes.",
+         "Desde": "",
+         "Hasta": "2024/09/11 20:00",
+         "URL": "https://giveaway.tickcoupon.com/unlockgo-windows-password-recovery-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/09/unlockgo-windows-password-recovery-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Drug Dealin Sim 2024 by b._.render",
          "Informacion": "",
          "Desde": "",
@@ -462,6 +452,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Maze Runner 3D by Artisan Games",
+         "Informacion": "El corredor del laberinto 3D",
+         "Desde": "",
+         "Hasta": "2024/09/15 02:28",
+         "URL": "https://artisangames.itch.io/maze-runner-3d",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ2ODA4Mi8xNTEzMjQ5Mi5wbmc=/347x500/7GtkYS.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Agent by Artisan Games",
+         "Informacion": "El agente",
+         "Desde": "",
+         "Hasta": "2024/09/15 02:28",
+         "URL": "https://artisangames.itch.io/theagent",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Mjg5My8xMjk1NDEzMi5wbmc=/347x500/EnZqb9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "BANANA CLICKER by PAUL",
          "Informacion": "Este es un divertido juego de clicker de pl\u00e1tano. \u00a1Ser\u00eda genial para m\u00ed si lo descargaras!",
          "Desde": "",
@@ -520,6 +530,16 @@
          "IMG": "https://cdn1.epicgames.com/spt-assets/3e4cea34f89d440d97cf22ddf6c122f2/super-crazy-rhythm-castle-166b4.jpg",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Looping Doors: Diner by Normal Cup Dev",
+         "Informacion": "Est\u00e1s en un c\u00edrculo vicioso en un restaurante y tienes que salir de \u00e9l. Todo lo que tienes que hacer es encontrar las diferencias en el restaurante y pasar por las puertas correctas. Buena suerte.",
+         "Desde": "",
+         "Hasta": "2024/09/19 19:00",
+         "URL": "https://normalcup.itch.io/looping-doors-diner",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg1OTY1MC8xNzA5MjI2OS5wbmc=/347x500/W00trF.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Guardians of the Zodiac by Evans Infinity Creations",
@@ -672,6 +692,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo WinOptimizer 26",
+         "Informacion": "Ashampoo WinOptimizer 26 es una completa suite de optimizaci\u00f3n para PC con m\u00e1s de 30 m\u00f3dulos de funciones. El programa mejora el rendimiento, soluciona problemas del sistema y reduce el desorden de archivos.",
+         "Desde": "",
+         "Hasta": "2024/09/28 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-26-100-discount-copy",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/09/boxshot.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hypercore DEMO by Hyperfrog",
          "Informacion": "Hypercore es un juego de plataformas en 3D con mec\u00e1nicas detalladas, \u00a1en el que podr\u00e1s competir en la tabla de clasificaci\u00f3n hasta la bandera! En esta demostraci\u00f3n hay una campa\u00f1a, \u00a1pero solo unos pocos niveles seleccionados! Este mundo de dibujos animados tiene mec\u00e1nicas detalladas como mejoras de salto y mucho m\u00e1s, incluidos cofres que te dan elementos aleatorios.",
          "Desde": "",
@@ -712,6 +742,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Dr. Watermark License Key For 1-Year Free",
+         "Informacion": "La edici\u00f3n de im\u00e1genes en el entorno Office siempre es una pesadilla cuando la imagen de su PPT/Word contiene accidentalmente una marca de agua. Dr. Watermark es un excelente ejemplo de un complemento de eliminaci\u00f3n de marcas de agua que integra tecnolog\u00eda de inteligencia artificial para el entorno Office (PPT, Word). Sus caracter\u00edsticas originales, como la eliminaci\u00f3n de fondo con un solo clic y la eliminaci\u00f3n de marcas de agua molestas con un solo clic, le brindar\u00e1n eficiencia en la transmisi\u00f3n de informaci\u00f3n en Office (PPT, Word).",
+         "Desde": "",
+         "Hasta": "2024/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/dr-watermark-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/09/dr-watermark-icon.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Good Dog Show by owof games, Insalatuera, QueerginiaWolf, Mattia \"RedGlow\" Belletti",
          "Informacion": "Un show de talentos narrativo hecho de crimen, perros espaciales y un rosario de Gucci.",
          "Desde": "",
@@ -738,16 +778,6 @@
          "Hasta": "2024/09/30 00:00",
          "URL": "https://giveaway.tickcoupon.com/winxvideo-ai-free-key-download/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/winxvideo-ai-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Dr. Watermark License Key For 1-Year Free",
-         "Informacion": "La edici\u00f3n de im\u00e1genes en el entorno Office siempre es una pesadilla cuando la imagen de su PPT/Word contiene accidentalmente una marca de agua. Dr. Watermark es un excelente ejemplo de un complemento de eliminaci\u00f3n de marcas de agua que integra tecnolog\u00eda de inteligencia artificial para el entorno Office (PPT, Word). Sus caracter\u00edsticas originales, como la eliminaci\u00f3n de fondo con un solo clic y la eliminaci\u00f3n de marcas de agua molestas con un solo clic, le brindar\u00e1n eficiencia en la transmisi\u00f3n de informaci\u00f3n en Office (PPT, Word).",
-         "Desde": "",
-         "Hasta": "2024/09/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/dr-watermark-license-code-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/09/dr-watermark-icon.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -942,16 +972,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Survivor by SoowekGames",
-         "Informacion": "En una misteriosa y l\u00fagubre instalaci\u00f3n militar debes encontrar Panaceum, la cura para todas las enfermedades.",
-         "Desde": "",
-         "Hasta": "2024/10/07 09:16",
-         "URL": "https://soowekgames.itch.io/survivor",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1MDczMC8xNzY1OTQyMC5wbmc=/347x500/%2F6Ovjj.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
          "Informacion": "Un misterioso viajero busca la verdad sobre el legendario Wyvern del castillo de Czersk. Basado en hechos reales (de forma muy libre, por supuesto ;))",
          "Desde": "",
@@ -968,6 +988,16 @@
          "Hasta": "2024/10/07 09:16",
          "URL": "https://soowekgames.itch.io/dungeon-maze-of-fate",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NjQ1MS8xMDM1MzkzNC5qcGc=/347x500/I5XGaU.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Survivor by SoowekGames",
+         "Informacion": "En una misteriosa y l\u00fagubre instalaci\u00f3n militar debes encontrar Panaceum, la cura para todas las enfermedades.",
+         "Desde": "",
+         "Hasta": "2024/10/07 09:16",
+         "URL": "https://soowekgames.itch.io/survivor",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1MDczMC8xNzY1OTQyMC5wbmc=/347x500/%2F6Ovjj.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1128,6 +1158,16 @@
          "Hasta": "2027/05/09 21:00",
          "URL": "https://ahsanmakesgames.itch.io/tubey-paingiver",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk3NDI2NS8xMTc0NTk0OC5wbmc=/347x500/94t4qA.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Text Trivia Pro by Ahsan Makes Games",
+         "Informacion": "Texto de trivia profesional",
+         "Desde": "",
+         "Hasta": "2027/05/09 21:00",
+         "URL": "https://ahsanmakesgames.itch.io/text-trivia-pro",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3NjU2OC8xNjU2Nzg0My5wbmc=/347x500/yPx8kh.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       }
