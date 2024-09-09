@@ -1,5 +1,5 @@
 {
-   "date_update": "08 Sep 2024 16:01 UTC",
+   "date_update": "09 Sep 2024 16:01 UTC",
    "values": [
       {
          "Direccion": "8.8.8.8 886.novitrk6.com #AntiSpam"
@@ -4148,13 +4148,28 @@
          "Direccion": "8.8.8.8 content.ourdailyfinds.com #AntiSpam"
       },
       {
+         "Direccion": "8.8.8.8 elpais.com #AntiSpam"
+      },
+      {
          "Direccion": "8.8.8.8 sharetop.actualidad.es #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 wjv4s9bg4bser5psibak9q14.celebsinvest.com #AntiSpam"
       },
       {
+         "Direccion": "8.8.8.8 www.bbc.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 www.elconfidencial.com #AntiSpam"
+      },
+      {
          "Direccion": "8.8.8.8 www.elperiodicomediterraneo.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 www.rtve.es #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 www.telemundo.com #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 winnersofvouchers.com #AntiSpam"
