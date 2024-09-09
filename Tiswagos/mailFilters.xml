@@ -105,7 +105,7 @@
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
-		<apps:property name='from' value='@awafterwork.com OR mailing@artelista.com OR @news.ashampoo.com OR @mailersp1.binance.com OR @mailersp2.binance.com OR notify@bitsdujour.com OR @update.clipchamp.com OR @6574136.m-sender-sib.com OR notify@dvdfab.cn OR @mailer.grabpoints.com OR newsletter@email.hofmann.es OR mail@ifttt.com OR @myminifactory.com OR newsletter@news.native-instruments.com OR @help.nextcloud.org OR news@oo-software.com OR @mailout.plex.tv OR @rollerc.com OR @mails.teamviewer.com OR @thangs.com OR @toggl.com OR team@wirestock.io OR blog@zapier.com'/>
+		<apps:property name='from' value='@awafterwork.com OR mailing@artelista.com OR @news.ashampoo.com OR @mailersp1.binance.com OR @mailersp2.binance.com OR notify@bitsdujour.com OR @update.clipchamp.com OR @6574136.m-sender-sib.com OR notify@dvdfab.cn OR @mailer.grabpoints.com OR newsletter@email.hofmann.es OR mail@ifttt.com OR @hostmessage.info OR @myminifactory.com OR newsletter@news.native-instruments.com OR @help.nextcloud.org OR news@oo-software.com OR @mailout.plex.tv OR @rollerc.com OR @mails.teamviewer.com OR @thangs.com OR @toggl.com OR team@wirestock.io OR blog@zapier.com'/>
 		<apps:property name='label' value='Registros/Otros'/>
 		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
