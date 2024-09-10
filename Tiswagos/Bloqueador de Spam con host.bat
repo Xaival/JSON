@@ -1438,6 +1438,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 kvjko.deiicatedates.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ofans.xyz #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 unlockfreecontent6.wixsite.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 my.pcloud.cam #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 news-fancy.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 article.smartasset.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 content.ourdailyfinds.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
