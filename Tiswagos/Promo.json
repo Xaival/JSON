@@ -1,106 +1,6 @@
 {
-   "date_update": "12 Sep 2024 16:02 UTC",
+   "date_update": "13 Sep 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Sapphire City Part 2 by Pehriska",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/12 13:20",
-         "URL": "https://pehriska.itch.io/sapphire-city-part-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjA3MjY4MS8xMjE5MjMwNC5wbmc=/347x500/2hbnA0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
-      },
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo moverse",
-         "Desde": "",
-         "Hasta": "2024/09/12 14:05",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/12 14:05",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2024/09/12 14:05",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2024/09/12 14:05",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/12 14:05",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
-         "Desde": "",
-         "Hasta": "2024/09/12 14:05",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA EL MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2024/09/12 14:05",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Football Manager 2024",
-         "Informacion": "Football Manager 2024",
-         "Desde": "2024/09/05",
-         "Hasta": "2024/09/12 17:00",
-         "URL": "https://store.epicgames.com/p/football-manager-2024",
-         "IMG": "https://cdn1.epicgames.com/offer/610a546d4e204215a0b9a1c8a382bacb/EGS_FootballManager2024_SportsInteractive_S1_2560x1440-3f607ee3653065afb4ae73fcb5ff5e0c",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Sniper Ghost Warrior Contracts",
-         "Informacion": "Convi\u00e9rtete en el asesino perfecto en el juego de francotiradores militar m\u00e1s realista del mercado. Vive una intensa campa\u00f1a para un jugador con grandes mapas abiertos. Necesitar\u00e1s dotes t\u00e1cticas, un enfoque sigiloso y precisi\u00f3n en los disparos de largo alcance.",
-         "Desde": "2024/09/05",
-         "Hasta": "2024/09/12 17:00",
-         "URL": "https://store.epicgames.com/p/sniper-ghost-warrior-contracts-c772b9",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/4ad9b2d4a92141a09e3ca4df8bfbcfea/sniper-ghost-warrior-contracts-erbx1.png",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
       {
          "Nombre": "VideoProc Converter AI License Key Free 2024",
          "Informacion": "VideoProc Converter AI es un software de procesamiento de video r\u00e1pido que aprovecha al m\u00e1ximo la aceleraci\u00f3n de GPU de nivel 3. Como una caja de herramientas de video completa, puede editar, convertir y procesar f\u00e1cilmente sus videos 4K. No solo esto, tambi\u00e9n se destaca en la descarga y grabaci\u00f3n de videos. La versi\u00f3n para Windows de VideoProc Converter AI acaba de actualizarse con tres caracter\u00edsticas notables: S\u00faper resoluci\u00f3n: mejora el video/imagen a 2x, 3x, 4x sin perder calidad; Interpolaci\u00f3n de cuadros: aumenta los fps y Estabilizaci\u00f3n: corrige las im\u00e1genes movidas.",
@@ -109,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/videoproc-converter-full-license-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/10/videoproc-converter-ai-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Giveaway Wise Care 365 Pro License Key Free Download",
@@ -119,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/wise-care-365-pro-free-license-key-full/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/11/wise-care-365-pro.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Fear the light by Tomython",
@@ -129,7 +29,17 @@
          "URL": "https://tomython.itch.io/fear-the-light",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjczMzMyMS8xNjMwMzk4OS5wbmc=/347x500/SAbEwU.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
+      },
+      {
+         "Nombre": "Horror Fan House by Pizza & Games",
+         "Informacion": "Realizado en Unity, una corta aventura de terror para los fan\u00e1ticos del terror m\u00e1s valientes.",
+         "Desde": "",
+         "Hasta": "2024/09/13 21:41",
+         "URL": "https://pizzaandgames.itch.io/horror-fan-house",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY1NzI2MS85NzUyMjM3LmpwZw==/347x500/c89cp6.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Photo Stamp Remover 15",
@@ -139,6 +49,16 @@
          "URL": "https://sharewareonsale.com/s/softorbits-photo-stamp-remover-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/08/ico-Photo-Stamp-Remover-200x200.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Glarysoft Malware Hunter Pro 1-Year License Free",
+         "Informacion": "Glarysoft Malware Hunter Pro es un potente software dise\u00f1ado para proporcionar a los clientes capacidades integrales de detecci\u00f3n y protecci\u00f3n contra virus. Ayuda a proteger contra todo tipo de amenazas, proteger los datos, proteger la privacidad y garantizar que su PC se mantenga libre de virus. El software ofrece un modo de hiperescaneo r\u00e1pido, que permite a los usuarios identificar y eliminar r\u00e1pidamente archivos maliciosos y amenazas potenciales. Su sistema de protecci\u00f3n activa monitorea constantemente la actividad sospechosa. Adem\u00e1s, Malware Hunter Pro incluye herramientas de optimizaci\u00f3n del sistema para optimizar el rendimiento del PC y mantenerlo siempre limpio y seguro.",
+         "Desde": "",
+         "Hasta": "2024/09/14 15:00",
+         "URL": "https://giveaway.tickcoupon.com/malware-hunter-pro-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/glarysoft-malware-hunter-pro-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -262,6 +182,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Trespasser's Labyrinth by Ethan Winters",
+         "Informacion": "Historia: Te han secuestrado y ahora est\u00e1s atrapado en un laberinto. Resuelve acertijos, sobrevive a encuentros mortales y descubre secretos para asegurar tu libertad. \u00bfPodr\u00e1s salir con vida y escapar del laberinto antes de que sea demasiado tarde?",
+         "Desde": "",
+         "Hasta": "2024/09/16 05:04",
+         "URL": "https://ethan-winters.itch.io/trespassers-labyrinth",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODE1MC8xNjY0NDE0MC5wbmc=/347x500/HvuWVd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Valhalla Simulator by xa44",
          "Informacion": "B\u00e1\u00f1ate en sangre mientras luchas sin fin, elimina a cientos de soldados recolectando nuevas armas y ganando poder con cada muerte.",
          "Desde": "",
@@ -279,6 +209,26 @@
          "URL": "https://sharewareonsale.com/s/free-itop-screen-recorder-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/isr-256-200x200.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Background Remover",
+         "Informacion": "Ashampoo Background Remover recorta autom\u00e1ticamente los objetos y hace que cambiar de fondo sea a\u00fan m\u00e1s f\u00e1cil. Tambi\u00e9n se pueden eliminar o agregar objetos manualmente. La detecci\u00f3n inteligente de objetos incorporada ahorra mucho tiempo.",
+         "Desde": "",
+         "Hasta": "2024/09/16 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/image001.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "V Rising",
+         "Informacion": "\u00a1Juega gratis! Despierta como un vampiro. Busca sangre en los asentamientos cercanos para recuperar fuerzas y evade el sol abrasador para sobrevivir. Construye tu castillo y prospera en un mundo abierto en constante cambio y lleno de misterio. Consigue aliados en l\u00ednea y conquista la tierra de los vivos.",
+         "Desde": "",
+         "Hasta": "2024/09/16 10:00",
+         "URL": "https://store.steampowered.com/app/1604030/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1604030/header.jpg",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -309,6 +259,16 @@
          "URL": "https://store.epicgames.com/p/gigantic-rampage-edition-03f532",
          "IMG": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-19wce.jpg",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kairotic Nightmare by Keera",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/17 01:30",
+         "URL": "https://ikeera.itch.io/kairotic-nightmare",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1Njk0OS8xNzY5MzM2MC5wbmc=/347x500/6LaRh4.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -392,6 +352,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Photo Recovery 2",
+         "Informacion": "Ashampoo Photo Recovery 2 recupera im\u00e1genes borradas o da\u00f1adas de cualquier medio de almacenamiento (disco duro, USB, tarjeta SD, etc.). Incluso extrae fotos de archivos RAW da\u00f1ados y discos formateados, incluidos sus metadatos. Los sofisticados algoritmos de b\u00fasqueda ayudan a recuperar incluso im\u00e1genes incrustadas en documentos (PDF, Word, etc.). El programa admite numerosos formatos RAW y de imagen, incluidos tipos de archivos ex\u00f3ticos. Los filtros de b\u00fasqueda inteligentes permiten realizar escaneos basados \u200b\u200ben formato, tama\u00f1o o resoluci\u00f3n y ayudan a manejar grandes colecciones de fotos con facilidad. Ashampoo Photo Recovery 2 es totalmente compatible con Windows 11 y aprovecha al m\u00e1ximo los sistemas de 64 bits. Con un uso mejorado de c\u00f3decs, una amplia compatibilidad de formatos y una detecci\u00f3n mejorada de almacenamiento extra\u00edble, Ashampoo Photo Recovery 2 es el siguiente paso l\u00f3gico en la evoluci\u00f3n del software de recuperaci\u00f3n de fotos y un digno sucesor de su popular predecesor.",
+         "Desde": "",
+         "Hasta": "2024/09/20 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-recovery-2-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/boxshot_photo_rec_2.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ThunderSoft PDF Converter License Key Free",
+         "Informacion": "Como ya sabes, el formato PDF se ha vuelto muy utilizado en el trabajo y el estudio debido a su estabilidad, alta resoluci\u00f3n, alta seguridad y facilidad de transmisi\u00f3n. \u00bfBuscas una herramienta que te ayude a convertir otros formatos de archivo a PDF, como JPG/PNG a PDF? Entonces ThunderSoft PDF Converter Pro es tu elecci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2024/09/20 15:00",
+         "URL": "https://giveaway.tickcoupon.com/thundersoft-pdf-converter-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/05/thundersoft-pdf-converter-pro-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Guardians of the Zodiac by Evans Infinity Creations",
          "Informacion": "Juego Guardianes del Zodiaco Ryalin Systems Universe",
          "Desde": "",
@@ -409,6 +389,76 @@
          "URL": "https://sharewareonsale.com/s/free-denoise-projects-3-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/08/a34c204abe437269b41f2c9adfa4599c.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
+         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
+         "Desde": "",
+         "Hasta": "2024/09/21 14:05",
+         "URL": "https://al7ussain.itch.io/whale-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2024/09/21 14:05",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Here We Go Again by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/21 14:05",
+         "URL": "https://al7ussain.itch.io/hear-we-go-again",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA EL MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2024/09/21 14:05",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/21 14:05",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
+         "Desde": "",
+         "Hasta": "2024/09/21 14:05",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo moverse",
+         "Desde": "",
+         "Hasta": "2024/09/21 14:05",
+         "URL": "https://al7ussain.itch.io/foxy-man",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -502,22 +552,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "TOEM",
-         "Informacion": "Emb\u00e1rcate en una agradable expedici\u00f3n y usa tu talento fotogr\u00e1fico para descubrir los misterios del TOEM en este juego de aventura dibujado a mano. Habla con extravagantes personajes y resuelve sus problemas sacando fotos.",
-         "Desde": "2024/09/19",
-         "Hasta": "2024/09/26 17:00",
-         "URL": "https://store.epicgames.com/p/toem",
-         "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TOEM_SomethingWeMade_S1 (1)_2560x1440-8ba2b054cf944aa40a90211650d388b7",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
-      },
-      {
          "Nombre": "The Last Stand: Aftermath",
          "Informacion": "From the creators of The Last Stand: Union City comes a new singleplayer rogue-lite action adventure. After you are infected by the zombie virus, set out to explore the apocalypse and find hope for your colony. You can make a difference. Don't give up.",
          "Desde": "2024/09/19",
          "Hasta": "2024/09/26 17:00",
          "URL": "https://store.epicgames.com/p/the-last-stand-aftermath",
          "IMG": "https://cdn1.epicgames.com/offer/8d296e80f3ec42a79881f0693f3bded0/EGS_TheLastStandAftermath_ConArtistGames_S1_2560x1440-cbc4b6fe8b2a64436720d45b01148d10",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "TOEM",
+         "Informacion": "Emb\u00e1rcate en una agradable expedici\u00f3n y usa tu talento fotogr\u00e1fico para descubrir los misterios del TOEM en este juego de aventura dibujado a mano. Habla con extravagantes personajes y resuelve sus problemas sacando fotos.",
+         "Desde": "2024/09/19",
+         "Hasta": "2024/09/26 17:00",
+         "URL": "https://store.epicgames.com/p/toem",
+         "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TOEM_SomethingWeMade_S1 (1)_2560x1440-8ba2b054cf944aa40a90211650d388b7",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
@@ -722,6 +772,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AIS (Artificial Intelligence and Soul) by yao-games",
+         "Informacion": "\u00a1Une fuerzas con tu robot compa\u00f1ero para derrotar a la IA infectada!",
+         "Desde": "",
+         "Hasta": "2024/09/30 17:00",
+         "URL": "https://yao-games.itch.io/ais",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgwMDI3Ny8xNzc1Njg3MC5wbmc=/347x500/re61i6.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "circle+ [prologue] by l a r i",
          "Informacion": "",
          "Desde": "",
@@ -808,6 +868,26 @@
          "Hasta": "2024/10/01 01:25",
          "URL": "https://virtuaworlds.itch.io/remako-visualizer",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjUyNDEwLzM1MDE1OTUuZ2lm/347x500/lcZcae.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RoadCube by Benaiez",
+         "Informacion": "\u00a1\u00a1\u00a1Esto es RoadCube!!!",
+         "Desde": "",
+         "Hasta": "2024/10/01 05:57",
+         "URL": "https://benaiez.itch.io/roadcube",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0NzU4NS8xNzI0Mzc0Mi5wbmc=/347x500/wOtmJt.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BadFame by Benaiez",
+         "Informacion": "Mala fama:",
+         "Desde": "",
+         "Hasta": "2024/10/01 05:57",
+         "URL": "https://benaiez.itch.io/badfame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0ODAyNy8xNDUwNTgyNy5wbmc=/347x500/PeOPdf.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -902,12 +982,52 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "GameDay Mayhem!! by Indifferent Penguin",
+         "Informacion": "Un juego de deportes r\u00e1pido, jugador contra jugador, que se juega desde el sof\u00e1.",
+         "Desde": "",
+         "Hasta": "2024/10/12 05:32",
+         "URL": "https://indifferentpenguin.itch.io/gamedaymayhem",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUwMjczNy8xNDg2ODM2NC5qcGc=/347x500/9yDs7D.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Dark Retributionist by al3cs71",
+         "Informacion": "\u00a1Te despiertas de tu sue\u00f1o eterno en busca de venganza!",
+         "Desde": "",
+         "Hasta": "2024/10/12 20:01",
+         "URL": "https://al3cs71.itch.io/the-dark-retributionist",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTExNTI5LzczMzY2OTMucG5n/347x500/TKX6Mc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A Date to Remember by JJBEATS",
+         "Informacion": "Una fecha para recordar",
+         "Desde": "",
+         "Hasta": "2024/10/13 01:41",
+         "URL": "https://jjbeats99.itch.io/a-date-to-remember",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkxMTQ0OS8xNzQxNDk5MS5qcGc=/347x500/Em8jR0.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Leawo Photo Enlarger License Key for 1-Year Free",
          "Informacion": "\u00bfAlguna vez has tomado una foto que te encantaba pero te diste cuenta de que estaba demasiado borrosa y no pod\u00edas publicarla en l\u00ednea? \u00bfO tienes una c\u00e1mara vieja que ya no puede tomar buenas fotos? Deja de preocuparte por la resoluci\u00f3n de la imagen: mejora las im\u00e1genes y mejora tus instant\u00e1neas de baja resoluci\u00f3n con la ayuda de Leawo Photo Enlarger. Como sugiere el nombre, esta herramienta es una aplicaci\u00f3n de edici\u00f3n de fotos dise\u00f1ada para ayudarte a aumentar la resoluci\u00f3n de la imagen y ampliar y mejorar las im\u00e1genes a una calidad superior a una velocidad 5 veces mayor.",
          "Desde": "",
          "Hasta": "2024/10/15 00:00",
          "URL": "https://giveaway.tickcoupon.com/leawo-photo-enlarger-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/09/leawo-photo-enlarger-license-key.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WinX MediaTrans License Free Key Full Version Download",
+         "Informacion": "WinX MediaTrans te permite transferir f\u00e1cilmente datos desde dispositivos iPhone y iPad a computadoras y viceversa. Con esta transferencia, podr\u00e1s administrar f\u00e1cilmente los archivos de tu dispositivo y tambi\u00e9n podr\u00e1s liberar espacio para que tu iPhone guarde nuevos datos importantes.",
+         "Desde": "",
+         "Hasta": "2024/10/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/08/giveaway-key-for-winx-mediatrans.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -949,6 +1069,26 @@
          "URL": "https://jdmgames.itch.io/village-vampire-feast",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE2Mjg4LzE1NTcyMTMucG5n/347x500/caO9Uj.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MacBooster 8 PRO License Key Free 6-Month",
+         "Informacion": "\u00bfSu computadora Mac funciona con lentitud? Seguramente necesita una soluci\u00f3n para liberar espacio en el disco y optimizar los discos de almacenamiento. El software todo en uno que nos gustar\u00eda presentarle es MacBooster 8 PRO. Es una herramienta poderosa que ayuda a borrar por completo archivos basura, archivos de programas antiguos y archivos duplicados para brindarles a los usuarios m\u00e1s espacio para ejecutar Mac m\u00e1s r\u00e1pido.",
+         "Desde": "",
+         "Hasta": "2024/10/31 12:00",
+         "URL": "https://giveaway.tickcoupon.com/macbooster-pro-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/macbooster-pro-giveaway-coupon-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AWZ Anyporter Giveaway License Key for 6-Month Free",
+         "Informacion": "Si ha estado buscando un software de cambio de ubicaci\u00f3n que le permita cambiar f\u00e1cilmente la ubicaci\u00f3n en dispositivos iOS para simular un movimiento real, entonces AWZ Anyporter (falsificaci\u00f3n de ubicaci\u00f3n en Windows/iOS) es su elecci\u00f3n. Con la soluci\u00f3n avanzada de cambio de ubicaci\u00f3n que ofrece AWZ Anyporter, puede cambiar su ubicaci\u00f3n desde una ubicaci\u00f3n diferente en Windows/iOS, simular la ubicaci\u00f3n en aplicaciones de juegos, simular el movimiento del GPS y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2024/10/31 12:00",
+         "URL": "https://giveaway.tickcoupon.com/awz-anyporter-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/awz-anyporter-pro-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
