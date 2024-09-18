@@ -1,126 +1,6 @@
 {
-   "date_update": "16 Sep 2024 16:01 UTC",
+   "date_update": "18 Sep 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "V Rising",
-         "Informacion": "\u00a1Juega gratis! Despierta como un vampiro. Busca sangre en los asentamientos cercanos para recuperar fuerzas y evade el sol abrasador para sobrevivir. Construye tu castillo y prospera en un mundo abierto en constante cambio y lleno de misterio. Consigue aliados en l\u00ednea y conquista la tierra de los vivos.",
-         "Desde": "",
-         "Hasta": "2024/09/16 10:00",
-         "URL": "https://store.steampowered.com/app/1604030/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1604030/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Cats vs Cthulhu by JokerDDZZ",
-         "Informacion": "Los \u00fanicos que pueden protegernos son nuestros amados gatos.",
-         "Desde": "",
-         "Hasta": "2024/09/16 12:00",
-         "URL": "https://jokerddzz.itch.io/cats-vs-cthulhu",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg3NTE5Ny8xNzMwMDIxNC5naWY=/347x500/v7OB13.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "Cubes in Danger 2 by gamesbyrd",
-         "Informacion": "CONTROLES:",
-         "Desde": "",
-         "Hasta": "2024/09/16 14:52",
-         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzI2My8xNTQwNTA3MS5wbmc=/347x500/2sE%2BRY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "Gigantic: Rampage Edition",
-         "Informacion": "GIGANTIC: RAMPAGE EDITION is a premium and definitive release of the original 5v5 MOBA Hero Shooter, GIGANTIC. Choose a unique hero and team up with other players to control objectives. GIGANTIC: RAMPAGE EDITION includes a new game mode, cross platform play, new heroes, new maps.",
-         "Desde": "2024/09/02",
-         "Hasta": "2024/09/16 17:00",
-         "URL": "https://store.epicgames.com/p/gigantic-rampage-edition-03f532",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/6630e3dcc72a4e2285e91ca48aa0eb4b/gigantic-rampage-edition-19wce.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Kairotic Nightmare by Keera",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/17 01:30",
-         "URL": "https://ikeera.itch.io/kairotic-nightmare",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1Njk0OS8xNzY5MzM2MC5wbmc=/347x500/6LaRh4.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
-      },
-      {
-         "Nombre": "1500 High Resolution Backgrounds Bundle",
-         "Informacion": "Crea dise\u00f1os incre\u00edbles que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que tambi\u00e9n te permitir\u00e1n trabajar con tu imaginaci\u00f3n para construir algo divertido y genial.",
-         "Desde": "",
-         "Hasta": "2024/09/17 09:00",
-         "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "AWZ AnyPorter Pro",
-         "Informacion": "Ocultar la ubicaci\u00f3n para evitar el seguimiento de la ubicaci\u00f3n",
-         "Desde": "",
-         "Hasta": "2024/09/17 09:00",
-         "URL": "https://sharewareonsale.com/s/free-awz-anyporter-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/09/awz-anyporter.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "AnyViewer Professional",
-         "Informacion": "Acceda y controle su escritorio o computadora port\u00e1til de forma remota desde cualquier dispositivo y en cualquier lugar para brindar soporte remoto r\u00e1pido y trabajo remoto veloz.",
-         "Desde": "",
-         "Hasta": "2024/09/17 09:00",
-         "URL": "https://www.bitsdujour.com/software/anyviewer-professional/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/anyviewer-professional-jl6s6.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Dark Stories by NekitGames",
-         "Informacion": "Este juego cuenta la historia de un hombre consumido por la locura. Algo se ha apoderado de su mente y ahora est\u00e1 condenado a vagar por los mundos de la conciencia.",
-         "Desde": "",
-         "Hasta": "2024/09/17 09:42",
-         "URL": "https://nekitgames.itch.io/dark-stories",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk3NTExMS8xNzc5NjExOC5wbmc=/347x500/N8UAug.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sticky Password for Mac License Key Free 1-Year",
-         "Informacion": "Sticky Password para Mac es uno de los mejores administradores de contrase\u00f1as del mundo. Con muchas funciones \u00fatiles y potentes, Sticky Password es altamente recomendado por millones de usuarios. Normalmente tiene un precio de $19,99 por una clave de licencia de 1 a\u00f1o. Pero ahora puedes obtener la licencia de Sticky Password de forma gratuita.",
-         "Desde": "",
-         "Hasta": "2024/09/17 15:00",
-         "URL": "https://giveaway.tickcoupon.com/get-sticky-password-key-for-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2015/11/Sticky-Password-Mac.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sticky Password Premium Key Free 1-Year",
-         "Informacion": "Sticky Password Premium reconoce tus destinos protegidos con contrase\u00f1a y te permite iniciar sesi\u00f3n autom\u00e1ticamente en cualquier dispositivo que est\u00e9s usando. \u00a1Est\u00e1 integrado directamente en tu navegador, por lo que es c\u00f3modo y seguro!",
-         "Desde": "",
-         "Hasta": "2024/09/17 15:00",
-         "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/Sticky-Password-Premium.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Stock Music Ace: 3,000 Incredible Royalty-Free Audio Tracks",
-         "Informacion": "Presentamos Stock Music Ace: \u00a1Una colecci\u00f3n fenomenal de m\u00e1s de 3000 incre\u00edbles pistas de audio libres de regal\u00edas, absolutamente gratis!",
-         "Desde": "",
-         "Hasta": "2024/09/18 09:00",
-         "URL": "https://sharewareonsale.com/s/free-stock-music-ace-3000-incredible-royalty-free-audio-tracks-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/3174f3_6abcd4d601684608948740658b7341d3mv2_d_2915_2644_s_4_2.jpg?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "Nuclear Lizard Island Rampage by Intimidation Crab",
          "Informacion": "Juega como un Godzilla poco convencional que busca venganza contra una empresa que est\u00e1 despojando de los recursos naturales a una cadena de islas.",
@@ -129,7 +9,17 @@
          "URL": "https://intimidation-crab.itch.io/nuclear-lizard-island-rampage",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjcyMzU4OC8xNzM4OTM5NS5wbmc=/347x500/XiL2Gf.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
+      },
+      {
+         "Nombre": "Covens of Xetta by Dancing Dots",
+         "Informacion": "Objetivo: liderar a tu aquelarre hacia la victoria a trav\u00e9s de Conquista o Puntos de Victoria.",
+         "Desde": "",
+         "Hasta": "2024/09/19 01:44",
+         "URL": "https://15joldersmat.itch.io/covens-of-xetta",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2NTEzNS8xNzEyNzcyNi5wbmc=/347x500/AvNFnm.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
       },
       {
          "Nombre": "HT System Administrator 23",
@@ -139,7 +29,27 @@
          "URL": "https://sharewareonsale.com/s/free-ht-system-administrator-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/03/ht-system-administrator-main.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "AnyViewer Professional",
+         "Informacion": "Acceda y controle su escritorio o computadora port\u00e1til de forma remota desde cualquier dispositivo y en cualquier lugar para brindar soporte remoto r\u00e1pido y trabajo remoto veloz.",
+         "Desde": "",
+         "Hasta": "2024/09/19 09:00",
+         "URL": "https://www.bitsdujour.com/software/anyviewer-professional/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/anyviewer-professional-jl6s6.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "DearMob iPhone Manager",
+         "Informacion": "Realice copias de seguridad, encripte y restaure todos los datos de su dispositivo iOS",
+         "Desde": "",
+         "Hasta": "2024/09/19 09:00",
+         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/dearmob-iphone-manager-_2uyi.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "HT System Administrator 12-Month License Key Free 2024",
@@ -148,6 +58,16 @@
          "Hasta": "2024/09/19 14:00",
          "URL": "https://giveaway.tickcoupon.com/ht-system-administrator-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/07/ht-system-administrator-box.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TunesKit WhatsApp Transfer 6-Month License Free",
+         "Informacion": "TunesKit WhatsApp Transfer es una aplicaci\u00f3n especializada desarrollada para facilitar la transferencia f\u00e1cil y eficiente de datos de WhatsApp entre dispositivos iOS de manera efectiva. Al comprender la importancia de transferir datos de WhatsApp, esta herramienta de transferencia de WhatsApp transfiere datos, incluido el historial de chat, fotos, videos, audio, chats grupales, stickers y emojis, y otros datos desde su antiguo dispositivo iOS a su nuevo dispositivo iOS de manera r\u00e1pida, sin p\u00e9rdida de datos y sin problemas.",
+         "Desde": "",
+         "Hasta": "2024/09/19 15:00",
+         "URL": "https://giveaway.tickcoupon.com/tuneskit-whatsapp-transfer-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/09/tuneskit-whatsapp-transfer.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -182,6 +102,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DearMob iPhone Manager Giveaway License Key Free",
+         "Informacion": "DearMob iPhone Manager es el primer administrador de iOS del mundo que transfiere datos de iPhone con un m\u00e9todo de cifrado. Te permite administrar completamente tus datos de iOS. Tiene incorporada la capacidad de transferir fotos, videos y contactos de iPhone con un nivel de cifrado militar para evitar fugas de privacidad, realizar copias de seguridad y restaurar datos de iOS en orden cronol\u00f3gico y opciones para transferir selectivamente contenidos de la computadora al iPhone en dos direcciones, ya sean fotos, videos, m\u00fasica, contactos, mensajes, iTunes U, podcasts, aplicaciones, calendarios, mensajes de voz, archivos, etc. Tu privacidad no es inmune a las fugas; prot\u00e9gela para evitar amenazas con DearMob iPhone Manager.",
+         "Desde": "",
+         "Hasta": "2024/09/20 00:00",
+         "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/dearmob-iphone-manager-giveaway-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Photo Recovery 2",
          "Informacion": "Ashampoo Photo Recovery 2 recupera im\u00e1genes borradas o da\u00f1adas de cualquier medio de almacenamiento (disco duro, USB, tarjeta SD, etc.). Incluso extrae fotos de archivos RAW da\u00f1ados y discos formateados, incluidos sus metadatos. Los sofisticados algoritmos de b\u00fasqueda ayudan a recuperar incluso im\u00e1genes incrustadas en documentos (PDF, Word, etc.). El programa admite numerosos formatos RAW y de imagen, incluidos tipos de archivos ex\u00f3ticos. Los filtros de b\u00fasqueda inteligentes permiten realizar escaneos basados \u200b\u200ben formato, tama\u00f1o o resoluci\u00f3n y ayudan a manejar grandes colecciones de fotos con facilidad. Ashampoo Photo Recovery 2 es totalmente compatible con Windows 11 y aprovecha al m\u00e1ximo los sistemas de 64 bits. Con un uso mejorado de c\u00f3decs, una amplia compatibilidad de formatos y una detecci\u00f3n mejorada de almacenamiento extra\u00edble, Ashampoo Photo Recovery 2 es el siguiente paso l\u00f3gico en la evoluci\u00f3n del software de recuperaci\u00f3n de fotos y un digno sucesor de su popular predecesor.",
          "Desde": "",
@@ -212,6 +142,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BANANA CLICKER by PAUL",
+         "Informacion": "Este es un divertido juego de clicker de pl\u00e1tano. \u00a1Ser\u00eda genial para m\u00ed si lo descargaras!",
+         "Desde": "",
+         "Hasta": "2024/09/20 16:46",
+         "URL": "https://mrpaul667.itch.io/banana-clicker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2OTY3NC8xNzM3NDg0OS5wbmc=/347x500/G6xpQi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "War of Ants! by Dancing Dots",
          "Informacion": "Juego de simulaci\u00f3n de hormigas",
          "Desde": "",
@@ -219,6 +159,16 @@
          "URL": "https://15joldersmat.itch.io/ants",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjcyOTY1Ni8xNjI4MTExMi5wbmc=/347x500/5CYd4M.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster Android WhatsApp Recovery License Key Free 2024",
+         "Informacion": "Tienes muchos mensajes antiguos pero importantes de WhatsApp en tu Samsung Galaxy, pero desafortunadamente los borraste accidentalmente de tu tel\u00e9fono. Si est\u00e1s buscando una herramienta de recuperaci\u00f3n que pueda ayudarte a recuperar tus mensajes y archivos multimedia de WhatsApp, Coolmuster Android WhatsApp Recovery puede ser la herramienta para ti.",
+         "Desde": "",
+         "Hasta": "2024/09/21 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-whatsapp-recovery-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/10/coolmuster-android-whatsapp-recovery-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -342,6 +292,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Background Remover",
+         "Informacion": "Ashampoo Background Remover recorta autom\u00e1ticamente los objetos y hace que cambiar de fondo sea a\u00fan m\u00e1s f\u00e1cil. Tambi\u00e9n se pueden eliminar o agregar objetos manualmente. La detecci\u00f3n inteligente de objetos incorporada ahorra mucho tiempo.",
+         "Desde": "",
+         "Hasta": "2024/09/22 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/image001.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Counter-Strike 2",
          "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
          "Desde": "",
@@ -432,12 +392,52 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Sons by Pehriska",
+         "Informacion": "Durante a\u00f1os, la pandilla de los Hijos ha aterrorizado la ciudad de Sapphire desde su aislada fortaleza en la isla, operan por encima de la ley y sus cr\u00edmenes quedan impunes. Sin embargo, en una noche larga y agitada, la pandilla puede haber cruzado una l\u00ednea. Han secuestrado a un ciudadano de Sapphire City, uno cuyo destino est\u00e1 estrechamente relacionado con eventos importantes que se est\u00e1n desarrollando. Al estar retenido en la cima del complejo de los Hijos, est\u00e1 atrapado, pero no est\u00e1 sin aliados. Dos han respondido a su llamado y han convergido en la Isla dispuestos a luchar a trav\u00e9s de los niveles del complejo para llegar hasta \u00e9l. Los dos rescatadores, anta\u00f1o hermanos de armas pero que desde entonces se han visto destrozados por una terrible tragedia, deben dejar de lado su problem\u00e1tica historia para ascender a la torre y salvar a su amigo en com\u00fan...",
+         "Desde": "",
+         "Hasta": "2024/09/24 03:37",
+         "URL": "https://pehriska.itch.io/the-sons",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIzODQ2MS8xNDAzNDI3Ni5wbmc=/347x500/seW06n.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Photomizer 2 Pro",
+         "Informacion": "Photomizer mejora tus fotos en un abrir y cerrar de ojos. Solo mejora las partes de la imagen que realmente lo necesitan. Y muchos otros efectos a una velocidad asombrosa.",
+         "Desde": "",
+         "Hasta": "2024/09/24 09:00",
+         "URL": "https://sharewareonsale.com/s/free-photomizer-2-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/09/photomizerpro-box_en-186x200.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Victorian Deathbed Simulator by JeraWizard",
+         "Informacion": "Eres una persona victoriana que se est\u00e1 muriendo de alguna enfermedad horrible.",
+         "Desde": "",
+         "Hasta": "2024/09/24 15:14",
+         "URL": "https://jerawizard.itch.io/victorian-deathbed-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgzNjk4OC8xNjk1MTI4NS5wbmc=/347x500/ai9obR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Whitaker's Library: Part 1 by Lorex Games",
          "Informacion": "Bienvenidos a los \u00faltimos d\u00edas de la biblioteca de James Whitaker...",
          "Desde": "",
          "Hasta": "2024/09/24 21:58",
          "URL": "https://lorex-games.itch.io/the-whitakers-library-part-1",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjkzNjcxNy8xNzU5NDMzOS5naWY=/347x500/P2Mzgf.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Touch Is Jump by ErdArjen",
+         "Informacion": "El tacto es saltar",
+         "Desde": "",
+         "Hasta": "2024/09/24 23:00",
+         "URL": "https://erdarjen.itch.io/touchisjump",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjEwNDI1MC8xNTExMjY0MC5qcGc=/347x500/qx73Wm.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -449,6 +449,36 @@
          "URL": "https://shimmersoft.itch.io/paws-effect",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjA2MTAvMzA0MzU1Mi5wbmc=/347x500/%2FQMQmA.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battle Hell: Tral! by Dancing Dots",
+         "Informacion": "Battle Hell: Tral! Un simulador de guerra de IA: presencia batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
+         "Desde": "",
+         "Hasta": "2024/09/25 06:08",
+         "URL": "https://15joldersmat.itch.io/battle-hell-tral",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDMxMy8xNzgyODI2MC5wbmc=/347x500/U5cHon.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Jumping Journey by Jonathan Steadman",
+         "Informacion": "Este es un desafiante juego de plataformas que tendr\u00e1 solo un nivel. No hay malos, pero si te caes y mueres, debes reiniciar desde el principio nuevamente para molestarte. Algunos de los bloques ser\u00e1n visibles, pero es posible que no haya colusi\u00f3n. JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA Risa malvada Risa malvada.",
+         "Desde": "",
+         "Hasta": "2024/09/25 08:00",
+         "URL": "https://jonathan-linux.itch.io/jumping-journey",
+         "IMG": "https://img.itch.zone/aW1nLzE2NDQ0OTk4LnBuZw==/347x500/NSM7HS.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Video Password Protection Pro",
+         "Informacion": "Video Password Protection Pro protege los v\u00eddeos con una contrase\u00f1a. La aplicaci\u00f3n envuelve el v\u00eddeo dentro de un shell ejecutable que se puede reproducir en cualquier lugar y no se reproducir\u00e1 a menos que el usuario introduzca la contrase\u00f1a correcta.",
+         "Desde": "",
+         "Hasta": "2024/09/25 09:00",
+         "URL": "https://sharewareonsale.com/s/free-video-password-protection-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/09/video-password-protection-pro.png?7297",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -538,6 +568,16 @@
          "Hasta": "2024/09/28 09:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-26-100-discount-copy",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/09/boxshot.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1500 High Resolution Backgrounds Bundle",
+         "Informacion": "Crea dise\u00f1os incre\u00edbles que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que tambi\u00e9n te permitir\u00e1n trabajar con tu imaginaci\u00f3n para construir algo divertido y genial.",
+         "Desde": "",
+         "Hasta": "2024/09/29 09:00",
+         "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -682,6 +722,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo WinOptimizer 26 License Key Free Lifetime",
+         "Informacion": "Ashampoo WinOptimizer 26 es un software de optimizaci\u00f3n para Windows. Limpiar\u00e1, proteger\u00e1 y aumentar\u00e1 al m\u00e1ximo el rendimiento de su PC. Esta herramienta tambi\u00e9n le ayuda a ganar nuevo espacio en disco, desactivar servicios no deseados, proteger su privacidad y personalizar Windows seg\u00fan sus necesidades. Con su ayuda, tambi\u00e9n puede disfrutar de un rendimiento estable y un sistema seguro y optimizado, mejorar su seguridad y privacidad o analizar su sistema en profundidad.",
+         "Desde": "",
+         "Hasta": "2024/09/30 12:00",
+         "URL": "https://giveaway.tickcoupon.com/ashampoo-winoptimizer-license-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/02/ashampoo-winoptimizer-26-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Worst nightmare by IGBRdev",
          "Informacion": "Te quedaste dormido y est\u00e1s teniendo una pesadilla. Debes escapar de tu peor pesadilla. Si no puedes hacerlo, tu pesadilla se volver\u00e1 real. Abre las puertas usando herramientas. Debes encontrarlas en el bosque. Hay dos tipos de criaturas horribles que intentar\u00e1n matarte, pero puedes protegerte. Para el primer tipo, debes apagar el encendedor. Para el segundo tipo, debes cerrar los ojos. Son diferentes.",
          "Desde": "",
@@ -792,6 +842,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Delta Squared by Thiago Avidos",
+         "Informacion": "\u00a1Cambia el destino de Ciudad Delta!",
+         "Desde": "",
+         "Hasta": "2024/10/01 05:00",
+         "URL": "https://thiago-avidos.itch.io/delta-squared",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTQyNDMxLzYyNTE1NTQucG5n/347x500/zsSI6c.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "BadFame by Benaiez",
          "Informacion": "Mala fama:",
          "Desde": "",
@@ -849,6 +909,36 @@
          "URL": "https://max-horror.itch.io/room-202",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg4OTQxMS8xNzI4MDc0MC5wbmc=/347x500/g2HeR9.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gods of Crastle by Dancing Dots",
+         "Informacion": "\u00a1Bienvenido a \"Gods of Crastle\", el reino de la guerra santa donde lideras a los adoradores de tu culto hacia la victoria! Participa en batallas \u00e9picas y crea estrategias mientras te esfuerzas por conquistar la tierra de Crastle y establecer tu dominio.",
+         "Desde": "",
+         "Hasta": "2024/10/01 19:27",
+         "URL": "https://15joldersmat.itch.io/gods-of-crastle",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg1NDEwNi8xNzA1OTc2MS5wbmc=/347x500/%2FnlL5B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Duels of The Nombish by Dancing Dots",
+         "Informacion": "Domina las calles peligrosas de Gato-Cat: \u00a1convi\u00e9rtete en el duelista definitivo en este juego de disparos estilo arcade!",
+         "Desde": "",
+         "Hasta": "2024/10/01 19:27",
+         "URL": "https://15joldersmat.itch.io/duels-of-the-nombish",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgwODQxMy8xNjc3MTk1OS5wbmc=/347x500/kkbXxV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Apeaksoft iPhone Transfer Registration Code 1-Year Free",
+         "Informacion": "Apeaksoft iPhone Transfer te permite transferir datos iOS entre PC y dispositivos iOS sin perderlos (puedes transferir de iPhone a iPhone, de PC/Mac a iPhone, de iPhone a PC/Mac o entre PC/dispositivos iOS e iTunes). Puede transferir fotos, m\u00fasica, videos, contactos, mensajes y otros tipos de archivos.",
+         "Desde": "",
+         "Hasta": "2024/10/03 00:00",
+         "URL": "https://giveaway.tickcoupon.com/apeaksoft-iphone-transfer-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/01/apeaksoft-iphone-transfer-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -942,6 +1032,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Evidence of 96' by Team Melon, Danial Jumagaliyev, cinnamew, Pxl Dev",
+         "Informacion": "Experimente una novela visual oscura desde la perspectiva de un estudiante de secundaria trastornado que cometi\u00f3 un delito grave y ahora debe tratar de destruir todas las evidencias que apuntan a \u00e9l.",
+         "Desde": "",
+         "Hasta": "2024/10/18 17:00",
+         "URL": "https://teammelon.itch.io/evidence-of-96",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzQ0Mi8xNjgzMTgxMS5wbmc=/347x500/yD1S4E.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "DoYourClone for Mac Free License Key 2024",
          "Informacion": "Si desea clonar un disco duro en una Mac o hacer una copia de seguridad de los datos de su disco duro, pruebe DoYourClone para Mac. Es un software de clonaci\u00f3n de discos 100 % seguro y limpio para Mac OS. DoYourClone para Mac es un software de clonaci\u00f3n de discos Mac potente y f\u00e1cil de usar. Puede ayudarlo a clonar discos duros, copiar datos y hacer im\u00e1genes de disco en una Mac de manera segura y sencilla.",
          "Desde": "",
@@ -968,6 +1068,16 @@
          "Hasta": "2024/10/31 00:00",
          "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/08/giveaway-key-for-winx-mediatrans.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MacX Video Converter PRO Free License Key",
+         "Informacion": "MacX Video Converter Pro es un software todo en uno para Mac que incluye un compresor de video, un descargador, un editor, un grabador de pantalla y un creador de presentaciones de diapositivas. Tambi\u00e9n te permite descargar videos y m\u00fasica de sitios web y convertir videos de YouTube a MP3 y MP4 para reproducirlos sin conexi\u00f3n. Adem\u00e1s, es capaz de realizar cualquier actividad en tu pantalla, capturar videos en streaming y editar videos f\u00e1cilmente con herramientas de edici\u00f3n como cortar, recortar, dividir, fusionar y rotar. Tambi\u00e9n est\u00e1 disponible para la creaci\u00f3n sencilla de presentaciones de diapositivas de fotos.",
+         "Desde": "",
+         "Hasta": "2024/10/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/macx-video-converter-pro-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/macx-video-converter-pro.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -1039,6 +1149,36 @@
          "URL": "https://giveaway.tickcoupon.com/macbooster-pro-license-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/macbooster-pro-giveaway-coupon-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "JJBEATS GAMING by JJBEATS",
+         "Informacion": "Hola,",
+         "Desde": "",
+         "Hasta": "2024/11/01 01:48",
+         "URL": "https://jjbeats99.itch.io/jjbeats-gaming",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkzNDcyNy8xNzU4NDcwNS5wbmc=/347x500/Qccskm.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kookie by JJBEATS",
+         "Informacion": "Eishin se grad\u00faa de la escuela secundaria en su cumplea\u00f1os n\u00famero 18. Decide que se confesar\u00e1 con la chica de sus sue\u00f1os. Cuando decidi\u00f3 confes\u00e1rselo, accidentalmente termin\u00f3 confes\u00e1ndole sus sentimientos a ELLA. Durante la confesi\u00f3n, explota una bomba en una f\u00e1brica de galletas, lo que hace que el mundo sea erradicado. Se desmaya y se despierta al lado de una puerta. Reproduce el resto para ver c\u00f3mo se desarrolla la historia.",
+         "Desde": "",
+         "Hasta": "2024/11/02 02:46",
+         "URL": "https://jjbeats99.itch.io/kookie",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1OTQ0MS8xNzc4MjE2OC5wbmc=/347x500/nRTK8p.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Please Remember Me! by JJBEATS",
+         "Informacion": "\u00a1Descubre la verdad detr\u00e1s de un escalofriante juego de texto!",
+         "Desde": "",
+         "Hasta": "2024/11/03 02:43",
+         "URL": "https://jjbeats99.itch.io/please-remember-me",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyOTk4OC8xNzIyNjgyOS5wbmc=/347x500/kzixr1.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
