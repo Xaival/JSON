@@ -322,6 +322,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 landing.hentaiheroes.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 local-sexx.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 maidr.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 mediasama.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 onlyfreelatinaporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 pauthoovul.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 pretty-sluts-nearby.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
