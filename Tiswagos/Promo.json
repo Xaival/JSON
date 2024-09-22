@@ -1,146 +1,6 @@
 {
-   "date_update": "21 Sep 2024 16:01 UTC",
+   "date_update": "22 Sep 2024 16:01 UTC",
    "values": [
-      {
-         "Nombre": "Lost In The Woods by DespairLab Games",
-         "Informacion": "Fuiste de excursi\u00f3n al bosque con tus amigos, pero no encontraste el camino de regreso por la noche, as\u00ed que hiciste una fogata. Sin embargo, mientras la fogata estaba encendida, te quedaste dormido y tus amigos murieron. Alguien los mat\u00f3, \u00a1y ahora ese alguien te quiere a ti! \u00a1Ten cuidado, no dejes que la fogata se apague porque si lo hace, puede atacar! Has pedido ayuda, pero desafortunadamente, \u00a1la ayuda est\u00e1 tardando mucho! \u00a1La ayuda solo te encontrar\u00e1 en cinco noches! Hasta entonces, debes tener cuidado todas las noches para mantener viva la fogata y debes encontrar palos para mantenerla viva.",
-         "Desde": "",
-         "Hasta": "2024/09/21 12:23",
-         "URL": "https://despairlab-games.itch.io/lost-in-the-woods",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkxODA2NS8xNzgwNzk0NC5naWY=/347x500/uu0WS6.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo moverse",
-         "Desde": "",
-         "Hasta": "2024/09/21 14:05",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/21 14:05",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2024/09/21 14:05",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2024/09/21 14:05",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/21 14:05",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
-         "Desde": "",
-         "Hasta": "2024/09/21 14:05",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA EL MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2024/09/21 14:05",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "4Easysoft DVD Ripper 1-Year License Key Free",
-         "Informacion": "Si desea archivar DVD, debe contar con un software de extracci\u00f3n de DVD, y 4Easysoft DVD Ripper es una herramienta maravillosa para su elecci\u00f3n. Dise\u00f1ada con una interfaz sencilla, esta herramienta le permite extraer discos DVD y Blu-ray a formatos de audio/video populares y ajustes preestablecidos del dispositivo, como MP4, MKV, MP3, FLAC y m\u00e1s, sin limitaciones. Despu\u00e9s de extraer, puede reproducir el contenido extra\u00eddo en cualquier dispositivo (tel\u00e9fonos inteligentes, tabletas, consolas de juegos o televisores inteligentes).",
-         "Desde": "",
-         "Hasta": "2024/09/21 15:00",
-         "URL": "https://giveaway.tickcoupon.com/4easysoft-dvd-ripper-free-license-code/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/09/4easysoft-dvd-ripper-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "AceThinker Wind Cut 1-Year License Code Download 2024",
-         "Informacion": "AceThinker Wind Cut es un software de edici\u00f3n de v\u00eddeo potente y f\u00e1cil de usar que cuenta con todas las funciones necesarias para crear v\u00eddeos de aspecto profesional. Funciona bien con una amplia gama de formatos de v\u00eddeo, audio e imagen, como AVI, WMV, MP4, MPEG, MP3, WAV, AAC, M4A, OGG, JPG, PNG, GIF y m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2024/09/21 15:00",
-         "URL": "https://giveaway.tickcoupon.com/acethinker-video-editor-giveaway/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/05/acethinker-wind-cut-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Omega No Sunshine 24 by Galoxyum",
-         "Informacion": "Omega No Sunshine es un juego arcade/coleccionismo/exploraci\u00f3n, los humanos se preocuparon poco por su propio mundo y el sol desapareci\u00f3, el final llegar\u00e1 pronto. Sin embargo, hay una vieja leyenda que nos puede ense\u00f1ar que un d\u00eda ya sucedi\u00f3 y que un h\u00e9roe legendario nos salv\u00f3 recolectando anillos solares en diferentes lugares.",
-         "Desde": "",
-         "Hasta": "2024/09/22 00:00",
-         "URL": "https://galoxyum.itch.io/ons24",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA4OTU1Mi8xNzI3ODg4Ni5qcGc=/347x500/QllJm1.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Death Rings of Jupiter by Albatross Wirehead",
-         "Informacion": "Death Rings of Jupiter es un juego de disparos estilo bullet hell retro en 2D, ambientado en los densos campos de asteroides que forman los anillos de J\u00fapiter. Presenta una jugabilidad original que mezcla juegos de gravedad cl\u00e1sicos y plataformas.",
-         "Desde": "",
-         "Hasta": "2024/09/22 02:45",
-         "URL": "https://wirehead42.itch.io/death-rings-of-jupiter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQ4MjkzLzIyNjY1OTkucG5n/347x500/h0P72%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Endless Math Challenge by notRitter",
-         "Informacion": "* La versi\u00f3n paga desbloquea sprites de jugador adicionales, fondos y dificultades Muy dif\u00edcil + INSANITY. *Las funciones pagas no est\u00e1n disponibles en el navegador.",
-         "Desde": "",
-         "Hasta": "2024/09/22 05:59",
-         "URL": "https://notritter.itch.io/endless-math-challenge",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwNTAyMS8xNTU2MzMxNy5wbmc=/347x500/ZqQD8%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Background Remover",
-         "Informacion": "Ashampoo Background Remover recorta autom\u00e1ticamente los objetos y hace que cambiar de fondo sea a\u00fan m\u00e1s f\u00e1cil. Tambi\u00e9n se pueden eliminar o agregar objetos manualmente. La detecci\u00f3n inteligente de objetos incorporada ahorra mucho tiempo.",
-         "Desde": "",
-         "Hasta": "2024/09/22 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/image001.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Counter-Strike 2",
          "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
@@ -149,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/730/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Once Human",
@@ -159,7 +19,7 @@
          "URL": "https://store.steampowered.com/app/2139460/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "PUBG: BATTLEGROUNDS",
@@ -169,7 +29,7 @@
          "URL": "https://store.steampowered.com/app/578080/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "The First Descendant",
@@ -179,7 +39,7 @@
          "URL": "https://store.steampowered.com/app/2074920/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Trackmania",
@@ -189,7 +49,7 @@
          "URL": "https://store.steampowered.com/app/2225070/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Weapon of Choice DX",
@@ -199,7 +59,7 @@
          "URL": "https://store.steampowered.com/app/373600/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/373600/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Vov Screen Recorder License Key Free 2024",
@@ -209,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/vov-screen-recorder-lifetime-free-license/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/vov-screen-recorder-lifetime-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "ThunderSoft Video Password Protect",
@@ -219,7 +79,17 @@
          "URL": "https://sharewareonsale.com/s/free-thundersoft-video-password-protect-100-discount-2",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/09/video-password-protector-box.png?7297",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "AnyViewer Professional",
+         "Informacion": "Acceda y controle su escritorio o computadora port\u00e1til de forma remota desde cualquier dispositivo y en cualquier lugar para brindar soporte remoto r\u00e1pido y trabajo remoto veloz.",
+         "Desde": "",
+         "Hasta": "2024/09/23 09:00",
+         "URL": "https://www.bitsdujour.com/software/anyviewer-professional/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/anyviewer-professional-jl6s6.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Drug Dealin Sim 2024 by b._.render",
@@ -252,6 +122,76 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
+         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
+         "Desde": "",
+         "Hasta": "2024/09/23 14:05",
+         "URL": "https://al7ussain.itch.io/whale-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2024/09/23 14:05",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Here We Go Again by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/23 14:05",
+         "URL": "https://al7ussain.itch.io/hear-we-go-again",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA EL MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2024/09/23 14:05",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/23 14:05",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
+         "Desde": "",
+         "Hasta": "2024/09/23 14:05",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo moverse",
+         "Desde": "",
+         "Hasta": "2024/09/23 14:05",
+         "URL": "https://al7ussain.itch.io/foxy-man",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Coolmuster iPhone Backup Extractor License Key Free 2023",
          "Informacion": "Los usuarios de iPhone reconocen que iTunes es una gran herramienta para realizar copias de seguridad peri\u00f3dicas de sus im\u00e1genes, v\u00eddeos y otros datos importantes en caso de que su dispositivo se pierda, se da\u00f1e o se reemplace. Pero, \u00bfc\u00f3mo recuperar sus datos si pierde su iPhone/iPad/iPod? Coolmuster iPhone Backup Extractor es un software de extracci\u00f3n de copias de seguridad de iPhone profesional que permite extraer archivos de iPhone desde una copia de seguridad de iTunes a una computadora sin necesidad de conectar el iPhone a la computadora.",
          "Desde": "",
@@ -278,6 +218,16 @@
          "Hasta": "2024/09/24 09:00",
          "URL": "https://sharewareonsale.com/s/free-photomizer-2-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2017/09/photomizerpro-box_en-186x200.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Replay Media Catcher 10",
+         "Informacion": "Replay Media Catcher es el descargador de videos en l\u00ednea m\u00e1s potente y pr\u00e1ctico del mundo. Adem\u00e1s, admite la descarga o grabaci\u00f3n de audio/MP3. Replay Media Catcher descarga archivos de video y audio en tiempo real de millones de sitios. Incluye nuestra enorme Gu\u00eda de medios para ayudarlo a encontrar r\u00e1pidamente el contenido que desea y descargarlo a su PC. Simplemente enci\u00e9ndalo y reproduzca lo que desee capturar; Replay Media Catcher hace el resto.",
+         "Desde": "",
+         "Hasta": "2024/09/24 09:00",
+         "URL": "https://sharewareonsale.com/s/free-replay-media-catcher-10-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/03/RCAT-box-640.png?7297",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -352,6 +302,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "XI O'Clock by Keera",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/25 19:02",
+         "URL": "https://ikeera.itch.io/xi-oclock",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDY4Ni8xNzgzMDI4Ny5wbmc=/347x500/pSrsNe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Dear Daddy by So-pa",
          "Informacion": "Dear Daddy: es un juego de terror y supervivencia en primera persona. En la historia, asumes el papel de un hijo atrapado en una familia disfuncional. Te enfrentas a un padre amenazante y peligroso y tu \u00fanica posibilidad de sobrevivir es encontrar una forma de escapar de la casa antes de que sea demasiado tarde.",
          "Desde": "",
@@ -399,6 +359,26 @@
          "URL": "https://daiconv.itch.io/vesper-charm",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU0Mzg4MC85NjI4NzIzLmdpZg==/347x500/BLZo34.gif",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "QILING Disk Master Professional",
+         "Informacion": "QILING Disk Master Professional es un programa de protecci\u00f3n de datos todo en uno para su computadora: QILING Disk Master Professional ofrece una variedad de funciones, que incluyen respaldo y restauraci\u00f3n de unidad/partici\u00f3n/sistema, copia/movimiento/cambio de tama\u00f1o de unidad/partici\u00f3n/sistema, monitoreo del estado del disco duro, disco virtual, disco seguro y disco RAM, que lo ayudan con diferentes aspectos del respaldo, la protecci\u00f3n y la seguridad de los datos.",
+         "Desde": "",
+         "Hasta": "2024/09/27 09:00",
+         "URL": "https://sharewareonsale.com/s/dayu-disk-master-giveaway-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2015/02/box-pro-160x200.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "QILING Disk Master License Key Free 2024",
+         "Informacion": "QILING Disk Master Professional cubre todas las necesidades para recuperar sus datos perdidos y restaurar sistemas da\u00f1ados en minutos. Es un software avanzado y confiable de copia de seguridad de datos y recuperaci\u00f3n de desastres del sistema para computadoras de escritorio y port\u00e1tiles de oficinas dom\u00e9sticas y comerciales.",
+         "Desde": "",
+         "Hasta": "2024/09/27 14:00",
+         "URL": "https://giveaway.tickcoupon.com/qiling-disk-master-professional-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/qiling-disk-master-professional.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -452,6 +432,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "150 Blurred Backgrounds",
+         "Informacion": "\u00a1Descubre el hermoso paquete de fondos de alta resoluci\u00f3n! Son extremadamente vers\u00e1tiles y se pueden utilizar en una gran variedad de dise\u00f1os.",
+         "Desde": "",
+         "Hasta": "2024/09/28 09:00",
+         "URL": "https://sharewareonsale.com/s/free-150-blurred-backgrounds-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/10/150-Blurred-Backgrounds-copy.jpg?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Endless Math Challenge by notRitter",
+         "Informacion": "* La versi\u00f3n paga desbloquea sprites de jugador adicionales, fondos y dificultades Muy dif\u00edcil + INSANITY. *Las funciones pagas no est\u00e1n disponibles en el navegador.",
+         "Desde": "",
+         "Hasta": "2024/09/29 05:59",
+         "URL": "https://notritter.itch.io/endless-math-challenge",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwNTAyMS8xNTU2MzMxNy5wbmc=/347x500/ZqQD8%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "1500 High Resolution Backgrounds Bundle",
          "Informacion": "Crea dise\u00f1os incre\u00edbles que no solo llamar\u00e1n la atenci\u00f3n de todos, sino que tambi\u00e9n te permitir\u00e1n trabajar con tu imaginaci\u00f3n para construir algo divertido y genial.",
          "Desde": "",
@@ -459,6 +459,16 @@
          "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SkyWobble Part 1 [BETA] by minteyestudios",
+         "Informacion": "SkyWobble es un relajante juego de plataformas en 3D de desplazamiento lateral en el que los jugadores controlan un robot que navega por entornos din\u00e1micos y visualmente atractivos. Con una jugabilidad fluida y un ambiente relajado, el objetivo es superar varios obst\u00e1culos y desaf\u00edos para llegar a la meta. El juego enfatiza la exploraci\u00f3n, el tiempo y la precisi\u00f3n, ofreciendo a los jugadores una experiencia relajante pero inmersiva mientras gu\u00edan a su personaje robot hacia la victoria.Ctrl izquierdo para correr",
+         "Desde": "",
+         "Hasta": "2024/09/29 15:52",
+         "URL": "https://minteyestudios.itch.io/skywobble-part-1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4ODk0OC8xNzg3ODc4Mi5wbmc=/347x500/lpyv6z.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
