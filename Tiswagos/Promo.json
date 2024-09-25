@@ -1,115 +1,15 @@
 {
-   "date_update": "24 Sep 2024 16:02 UTC",
+   "date_update": "25 Sep 2024 16:01 UTC",
    "values": [
       {
-         "Nombre": "Victorian Deathbed Simulator by JeraWizard",
-         "Informacion": "Eres una persona victoriana que se est\u00e1 muriendo de alguna enfermedad horrible.",
-         "Desde": "",
-         "Hasta": "2024/09/24 15:14",
-         "URL": "https://jerawizard.itch.io/victorian-deathbed-simulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgzNjk4OC8xNjk1MTI4NS5wbmc=/347x500/ai9obR.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
-      },
-      {
-         "Nombre": "The Whitaker's Library: Part 1 by Lorex Games",
-         "Informacion": "Bienvenidos a los \u00faltimos d\u00edas de la biblioteca de James Whitaker...",
-         "Desde": "",
-         "Hasta": "2024/09/24 21:58",
-         "URL": "https://lorex-games.itch.io/the-whitakers-library-part-1",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkzNjcxNy8xNzU5NDMzOS5naWY=/347x500/P2Mzgf.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
-      },
-      {
-         "Nombre": "Touch Is Jump by ErdArjen",
-         "Informacion": "El tacto es saltar",
-         "Desde": "",
-         "Hasta": "2024/09/24 23:00",
-         "URL": "https://erdarjen.itch.io/touchisjump",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEwNDI1MC8xNTExMjY0MC5qcGc=/347x500/qx73Wm.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Touch Is Jump by TawusGames",
-         "Informacion": "El tacto es saltar",
-         "Desde": "",
-         "Hasta": "2024/09/24 23:00",
-         "URL": "https://tawusgames.itch.io/touchisjump",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEwNDI1MC8xNTExMjY0MC5qcGc=/347x500/qx73Wm.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Paws & Effect: My Dogs Are Human! by Shimmersoft",
-         "Informacion": "Sadie es una joven que se encuentra en una de las primeras encrucijadas de la vida: decidir qu\u00e9 hacer con el resto de su vida. Ambivalente respecto de sus aspiraciones profesionales y recuper\u00e1ndose de una reciente ruptura, es un alma a la deriva en un mar de incertidumbre. Pero bueno, al menos tiene a sus perros como apoyo emocional, por muy peculiares que sean. Ojal\u00e1 fueran personas, capaces de comprender de verdad...",
-         "Desde": "",
-         "Hasta": "2024/09/24 23:16",
-         "URL": "https://shimmersoft.itch.io/paws-effect",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNjA2MTAvMzA0MzU1Mi5wbmc=/347x500/%2FQMQmA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Tral! by Dancing Dots",
-         "Informacion": "Battle Hell: Tral! Un simulador de guerra de IA: presencia batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2024/09/25 06:08",
-         "URL": "https://15joldersmat.itch.io/battle-hell-tral",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDMxMy8xNzgyODI2MC5wbmc=/347x500/U5cHon.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "Jumping Journey by Jonathan Steadman",
-         "Informacion": "Este es un desafiante juego de plataformas que tendr\u00e1 solo un nivel. No hay malos, pero si te caes y mueres, debes reiniciar desde el principio nuevamente para molestarte. Algunos de los bloques ser\u00e1n visibles, pero es posible que no haya colusi\u00f3n. JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA Risa malvada Risa malvada.",
-         "Desde": "",
-         "Hasta": "2024/09/25 08:00",
-         "URL": "https://jonathan-linux.itch.io/jumping-journey",
-         "IMG": "https://img.itch.zone/aW1nLzE2NDQ0OTk4LnBuZw==/347x500/NSM7HS.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Video Password Protection Pro",
-         "Informacion": "Video Password Protection Pro protege los v\u00eddeos con una contrase\u00f1a. La aplicaci\u00f3n envuelve el v\u00eddeo dentro de un shell ejecutable que se puede reproducir en cualquier lugar y no se reproducir\u00e1 a menos que el usuario introduzca la contrase\u00f1a correcta.",
-         "Desde": "",
-         "Hasta": "2024/09/25 09:00",
-         "URL": "https://sharewareonsale.com/s/free-video-password-protection-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/09/video-password-protection-pro.png?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "AnyViewer Professional",
-         "Informacion": "Acceda y controle su escritorio o computadora port\u00e1til de forma remota desde cualquier dispositivo y en cualquier lugar para brindar soporte remoto r\u00e1pido y trabajo remoto veloz.",
-         "Desde": "",
-         "Hasta": "2024/09/25 09:00",
-         "URL": "https://www.bitsdujour.com/software/anyviewer-professional/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/anyviewer-professional-jl6s6.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo moverse",
          "Desde": "",
          "Hasta": "2024/09/25 14:05",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
+         "URL": "https://al7ussain.itch.io/foxy-man",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2024/09/25 14:05",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Here We Go Again by AL7USSAIN",
@@ -119,27 +19,7 @@
          "URL": "https://al7ussain.itch.io/hear-we-go-again",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA EL MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2024/09/25 14:05",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/09/25 14:05",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Maze by AL7USSAIN",
@@ -149,17 +29,47 @@
          "URL": "https://al7ussain.itch.io/maze",
          "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo moverse",
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
          "Desde": "",
          "Hasta": "2024/09/25 14:05",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/09/25 14:05",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
+      },
+      {
+         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
+         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
+         "Desde": "",
+         "Hasta": "2024/09/25 14:05",
+         "URL": "https://al7ussain.itch.io/whale-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA EL MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2024/09/25 14:05",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "XI O'Clock by Keera",
@@ -169,7 +79,7 @@
          "URL": "https://ikeera.itch.io/xi-oclock",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDY4Ni8xNzgzMDI4Ny5wbmc=/347x500/pSrsNe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Dear Daddy by So-pa",
@@ -179,7 +89,7 @@
          "URL": "https://so-pa.itch.io/dear-daddy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU1OTI1MC8xNTIyOTY0MS5wbmc=/347x500/8pLy6Z.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
       },
       {
          "Nombre": "The Sons by Pehriska",
@@ -189,7 +99,7 @@
          "URL": "https://pehriska.itch.io/the-sons",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIzODQ2MS8xNDAzNDI3Ni5wbmc=/347x500/seW06n.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
       },
       {
          "Nombre": "The Last Stand: Aftermath",
@@ -209,6 +119,16 @@
          "URL": "https://store.epicgames.com/p/toem",
          "IMG": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TOEM_SomethingWeMade_S1 (1)_2560x1440-8ba2b054cf944aa40a90211650d388b7",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Whitaker's Library by Lorex Games",
+         "Informacion": "Este juego se hizo en 1 semana.",
+         "Desde": "",
+         "Hasta": "2024/09/26 21:58",
+         "URL": "https://lorex-games.itch.io/the-whitakers-library-part-1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkzNjcxNy8xNzU5NDMzOS5naWY=/347x500/P2Mzgf.gif",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -258,6 +178,16 @@
          "Hasta": "2024/09/27 21:56",
          "URL": "https://tomython.itch.io/fear-the-light",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjczMzMyMS8xNjMwMzk4OS5wbmc=/347x500/SAbEwU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
+         "Informacion": "En una elecci\u00f3n elegante, tu misi\u00f3n es asegurar puntos de victoria ganando estados en el continente elegante. Cada estado contiene ciudades con diferentes valores de poblaci\u00f3n y el jugador compite con un oponente NPC para obtener una mayor\u00eda de votos en estas ciudades. El objetivo es ganar m\u00e1s estados que tu oponente aumentando tus cifras de votaci\u00f3n en cada ciudad mediante clics estrat\u00e9gicos.",
+         "Desde": "",
+         "Hasta": "2024/09/27 22:10",
+         "URL": "https://15joldersmat.itch.io/a-dandy-election",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk2NDcxOS8xNzczMjM5NC5wbmc=/347x500/gfz75C.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -442,6 +372,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Get Coolmuster iOS Eraser 1-Year Free License Key Giveaway",
+         "Informacion": "Coolmuster iOS Eraser te permite borrar de forma completa y permanente todos los datos de tus iDevices y liberar espacio en tu dispositivo. Puede borrar datos privados como registros bancarios, cuentas y contrase\u00f1as, datos financieros, etc., y datos existentes como fotos, videos, mensajes de texto, registros de llamadas, etc.",
+         "Desde": "",
+         "Hasta": "2024/09/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-eraser-full-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/coolmuster-ios-eraser.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "MiniTool ShadowMaker Pro 6-Month License Key Free",
          "Informacion": "MiniTool ShadowMaker Pro es un software de copia de seguridad de datos profesional que ayuda a los usuarios a crear, administrar y restaurar datos de copia de seguridad de unidades de computadora o unidades externas. Con su ayuda, puede sincronizar los archivos y carpetas abiertos con otras ubicaciones para mantener sus datos seguros. Tambi\u00e9n lo ayuda a realizar copias de seguridad de archivos y carpetas para restaurarlos en caso de que los archivos se pierdan o eliminen.",
          "Desde": "",
@@ -478,16 +418,6 @@
          "Hasta": "2024/09/30 00:00",
          "URL": "https://giveaway.tickcoupon.com/winxvideo-ai-free-key-download/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/winxvideo-ai-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Get Coolmuster iOS Eraser 1-Year Free License Key Giveaway",
-         "Informacion": "Coolmuster iOS Eraser te permite borrar de forma completa y permanente todos los datos de tus iDevices y liberar espacio en tu dispositivo. Puede borrar datos privados como registros bancarios, cuentas y contrase\u00f1as, datos financieros, etc., y datos existentes como fotos, videos, mensajes de texto, registros de llamadas, etc.",
-         "Desde": "",
-         "Hasta": "2024/09/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-eraser-full-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/coolmuster-ios-eraser.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -932,6 +862,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Tales from the Attic by Dreamcube",
+         "Informacion": "\u00a1Recoge pilas para salvar a tu colonia de ratones que se esconde en el \u00e1tico! \u00a1Quiz\u00e1s alg\u00fan d\u00eda incluso encuentres una fuente de energ\u00eda infinita para ellos! Esta casa esconde muchos secretos extra\u00f1os.",
+         "Desde": "",
+         "Hasta": "2024/10/01 09:00",
+         "URL": "https://dreamcube.itch.io/tales-from-the-attic",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI4MDQ2OS8xNzE2NTMwOS5qcGc=/347x500/Gydsb5.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Burrow by Saladin786",
          "Informacion": "--PROYECTO EN DESARROLLO, A\u00daN NO TERMINADO--",
          "Desde": "",
@@ -988,6 +928,26 @@
          "Hasta": "2024/10/01 19:27",
          "URL": "https://15joldersmat.itch.io/gods-of-crastle",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg1NDEwNi8xNzA1OTc2MS5wbmc=/347x500/%2FnlL5B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Audials One 2024",
+         "Informacion": "Audials One 2024 es el mejor grabador de streaming para m\u00fasica, v\u00eddeo, radio y podcast.",
+         "Desde": "",
+         "Hasta": "2024/10/02 09:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-one-2024-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/Audials-One-2024-SE_EN_4.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "jamtulo by JJBEATS",
+         "Informacion": "Nos llev\u00f3 30 minutos hacer este juego, no esperes demasiado.",
+         "Desde": "",
+         "Hasta": "2024/10/02 13:46",
+         "URL": "https://jjbeats99.itch.io/jamtulo",
+         "IMG": "https://img.itch.zone/aW1nLzE2MzQ1OTU4LnBuZw==/347x500/OAicsH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1052,6 +1012,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Dusty Tale by crisPlease",
+         "Informacion": "Dusty Tale es un juego multijugador en l\u00ednea. La acci\u00f3n se desarrolla en un mundo t\u00f3xico postapocal\u00edptico. Despu\u00e9s de elegir a tu personaje y su equipo inicial, participar\u00e1s en batallas cortas por turnos entre dos equipos (jugadores 1 contra 1, 2 contra 2 y 3 contra 3).",
+         "Desde": "",
+         "Hasta": "2024/10/08 08:48",
+         "URL": "https://crisplease.itch.io/dusty-tale",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MzY1MS8xNzg2MzIzOS5wbmc=/347x500/TyQiP2.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "AnyViewer Professional License Key for Free",
          "Informacion": "AnyViewer Professional es una herramienta de acceso y soporte remoto a computadoras sencilla pero de primera clase que le ayudar\u00e1 a eliminar los controles de la PC y trabajar de forma remota a trav\u00e9s de Internet desde cualquier lugar. La herramienta permite a las peque\u00f1as y medianas empresas o a los usuarios individuales supervisar, administrar y reparar la PC de forma remota con facilidad. Tambi\u00e9n incluye una funci\u00f3n de transferencia de archivos para ayudarle a cambiar la posici\u00f3n de los archivos de una PC a otra o a varias PC a la vez con alta calidad.",
          "Desde": "",
@@ -1112,22 +1082,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Push Me... The Puzzle Game by WisePot^",
-         "Informacion": "Hola, soy Enram Rohsik, cre\u00e9 este juego para disfrutar resolviendo rompecabezas.",
-         "Desde": "",
-         "Hasta": "2024/10/19 20:30",
-         "URL": "https://wisepot.itch.io/push-me-the-puzzle-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg0ODQ5My8xMDg0OTkzMy5wbmc=/347x500/PXoRJI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "ONI RANDOMIZER By WisePot^ by WisePot^",
          "Informacion": "Te ayudar\u00e1 a jugar tu juego de ox\u00edgeno no incluido totalmente con elecciones aleatorias. Todo depende de tu suerte.",
          "Desde": "",
          "Hasta": "2024/10/19 20:30",
          "URL": "https://wisepot.itch.io/oni-randomizer-by-wisepot",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5Mjk0Ny84NzAzNTYxLnBuZw==/347x500/vci0Om.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Push Me... The Puzzle Game by WisePot^",
+         "Informacion": "Hola, soy Enram Rohsik, cre\u00e9 este juego para disfrutar resolviendo rompecabezas.",
+         "Desde": "",
+         "Hasta": "2024/10/19 20:30",
+         "URL": "https://wisepot.itch.io/push-me-the-puzzle-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg0ODQ5My8xMDg0OTkzMy5wbmc=/347x500/PXoRJI.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
