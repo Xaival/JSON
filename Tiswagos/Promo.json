@@ -1,166 +1,6 @@
 {
-   "date_update": "07 Oct 2024 16:01 UTC",
+   "date_update": "08 Oct 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
-         "Informacion": "Un misterioso viajero busca la verdad sobre el legendario Wyvern del castillo de Czersk. Basado en hechos reales (de forma muy libre, por supuesto ;))",
-         "Desde": "",
-         "Hasta": "2024/10/07 09:16",
-         "URL": "https://soowekgames.itch.io/mij-wyvern",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc0MDgyNy8xNjM4MjIxOC5wbmc=/347x500/e6hKkg.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Dungeon: Maze of Fate by SoowekGames",
-         "Informacion": "\u00a1En la tierra de la luz acecha la oscuridad!",
-         "Desde": "",
-         "Hasta": "2024/10/07 09:16",
-         "URL": "https://soowekgames.itch.io/dungeon-maze-of-fate",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NjQ1MS8xMDM1MzkzNC5qcGc=/347x500/I5XGaU.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Survivor by SoowekGames",
-         "Informacion": "En una misteriosa y l\u00fagubre instalaci\u00f3n militar debes encontrar Panaceum, la cura para todas las enfermedades.",
-         "Desde": "",
-         "Hasta": "2024/10/07 09:16",
-         "URL": "https://soowekgames.itch.io/survivor",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1MDczMC8xNzY1OTQyMC5wbmc=/347x500/%2F6Ovjj.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Bone-ER-Clicker by b._.render",
-         "Informacion": "Ve y dale una suscripci\u00f3n a mi YouTube a trav\u00e9s de un corto al azar y comenta \"Hola desde Itch\". Eso ser\u00eda apreciado. 3 Estoy en 450, as\u00ed que veamos si puedo llegar a 500. 3",
-         "Desde": "",
-         "Hasta": "2024/10/07 14:00",
-         "URL": "https://b-render.itch.io/bone-clicker",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI2ODQ4Mi8xMzQ5ODIyOS5wbmc=/347x500/1H3%2F6F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Drug Dealin Sim 2024 by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/10/07 14:00",
-         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Dummy Smasher by b._.render",
-         "Informacion": "Ve y dale una suscripci\u00f3n a mi YouTube a trav\u00e9s de un corto al azar y comenta \"Hola desde Itch\". Eso ser\u00eda apreciado. 3 Estoy en 450, as\u00ed que veamos si puedo llegar a 500. 3",
-         "Desde": "",
-         "Hasta": "2024/10/07 14:00",
-         "URL": "https://b-render.itch.io/dummy-smasher",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAyOTg1NC8xMjA4NTkwMS5wbmc=/347x500/fxdpHO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Gold Digger by b._.render",
-         "Informacion": "En Gold Digger, \u00a1buscas oro! Tambi\u00e9n puedes encontrar diamantes y esquivar a esos molestos gusanos. Hasta ahora, podr\u00e1s explorar el mineral de 7 niveles en 3 \u00e1reas \u00fanicas. No pasa nada si no puedes superar el nivel, porque siempre puedes ir a la tienda y mejorar m\u00e1s... si puedes permit\u00edrtelo.",
-         "Desde": "",
-         "Hasta": "2024/10/07 14:00",
-         "URL": "https://b-render.itch.io/gold-digger",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyMzcwNi8xNzUxNjgwMS5wbmc=/347x500/f7hrdK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Small RPG by b._.render",
-         "Informacion": "Ve y dale una suscripci\u00f3n a mi YouTube a trav\u00e9s de un corto al azar y comenta \"Hola desde Itch\". Eso ser\u00eda apreciado. 3 Estoy en 450, as\u00ed que veamos si puedo llegar a 500. 3",
-         "Desde": "",
-         "Hasta": "2024/10/07 14:00",
-         "URL": "https://b-render.itch.io/small-rpg",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYyODgyMC8xNTcyODExOC5wbmc=/347x500/69fpy1.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "AutoAudioRecorder License Key for Free 2024",
-         "Informacion": "\u00bfEres un podcaster, m\u00fasico, creador de contenido o alguien que necesita grabar audio para el trabajo o para uso personal y busca una grabadora de audio para capturar audio directamente desde su dispositivo de manera r\u00e1pida y precisa? Deja que AutoAudioRecorder te ayude. Como su nombre lo indica, AutoAudioRecorder es un software bien dise\u00f1ado desarrollado para capturar audio interno de alta calidad desde tu computadora sin necesidad de configuraciones de micr\u00f3fono. Te permite grabar audio directamente en formatos MP3 o WAV, ideal para reuniones en l\u00ednea, transmisiones en vivo y llamadas VoIP.",
-         "Desde": "",
-         "Hasta": "2024/10/07 15:00",
-         "URL": "https://giveaway.tickcoupon.com/autoaudiorecorder-free-key-download/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/10/autoaudiorecorder-pro-boxshot.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Gem Jump! by Astra Games Studios",
-         "Informacion": "\u00a1Hola, chicos! \u00a1He creado otro juego! \u00a1Pueden jugarlo en el navegador, en la PC o en el m\u00f3vil! \u00a1Espero que se diviertan! \u00a1Por favor, d\u00edganme lo que piensan en los comentarios y dejen una rese\u00f1a! \u00a1Realmente aprecio su apoyo! \u00bfQu\u00e9 tan alto pueden llegar? \u00a1Mi r\u00e9cord personal es 83! \u00f0\u009f\u0098\u008e \u00bfPueden superarlo? \u00f0\u009f\u00a4\u0094\u00f0\u009f\u0098\u008e",
-         "Desde": "",
-         "Hasta": "2024/10/08 06:59",
-         "URL": "https://astra-games-studios.itch.io/gem-jump",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYyNjU2My85NTc0MjYxLnBuZw==/347x500/tJyVS%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Roller Extreme by Astra Games Studios",
-         "Informacion": "Hola, mi nombre es Josiah. Soy un desarrollador de juegos de 15 a\u00f1os que est\u00e1 publicando su primer juego \"comercial\". \u00a1Realmente espero que lo disfrutes!",
-         "Desde": "",
-         "Hasta": "2024/10/08 06:59",
-         "URL": "https://astra-games-studios.itch.io/roller-extreme-with-trailer",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ0NDQ4MS84NDMxNzM1LnBuZw==/347x500/V4lCeZ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "SunnyLand - FoxTrot by Astra Games Studios",
-         "Informacion": "\u00a1Hola a todos! \u00a1Estoy muy emocionado de traerles otro juego! Este es un juego de plataformas en el que he estado trabajando por un tiempo... \u00a1pero finalmente est\u00e1 terminado! \u00a1Realmente espero que lo disfruten! \u00a1Tiene 5 niveles grandes m\u00e1s habitaciones ocultas y muchas sorpresas! El zorro corre por hermosos pastizales y explora en t\u00faneles y colinas. \u00a1Este tambi\u00e9n viene con una versi\u00f3n m\u00f3vil! \u00a1Dime lo que piensas en los comentarios! Puedes ver mis otros juegos aqu\u00ed: https://astragamesstudios.itch.io/",
-         "Desde": "",
-         "Hasta": "2024/10/08 06:59",
-         "URL": "https://astra-games-studios.itch.io/foxtrot",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU5NTM1MS85MzI5Mzg4LnBuZw==/347x500/jsrzmC.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Topple Tower - Tower Building by Astra Games Studios",
-         "Informacion": "\u00a1Hola a todos! Ha pasado un tiempo desde el lanzamiento de mi \u00faltimo juego, pero estoy muy emocionado de anunciar la finalizaci\u00f3n de mi \u00faltimo juego: \u00a1Topple Tower!",
-         "Desde": "",
-         "Hasta": "2024/10/08 06:59",
-         "URL": "https://astra-games-studios.itch.io/topple-tower",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjEzMzAzMy8xMjg0MzI3MC5qcGc=/347x500/v74iI4.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Dusty Tale by crisPlease",
-         "Informacion": "Dusty Tale es un juego multijugador en l\u00ednea. La acci\u00f3n se desarrolla en un mundo t\u00f3xico postapocal\u00edptico. Despu\u00e9s de elegir a tu personaje y su equipo inicial, participar\u00e1s en batallas cortas por turnos entre dos equipos (jugadores 1 contra 1, 2 contra 2 y 3 contra 3).",
-         "Desde": "",
-         "Hasta": "2024/10/08 08:48",
-         "URL": "https://crisplease.itch.io/dusty-tale",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MzY1MS8xNzg2MzIzOS5wbmc=/347x500/TyQiP2.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Snap 15",
-         "Informacion": "Ashampoo Snap captura tu escritorio en forma de capturas de pantalla y v\u00eddeos. Las capturas de pantalla se pueden editar, comentar y compartir libremente a trav\u00e9s de redes, nubes o correo electr\u00f3nico.",
-         "Desde": "",
-         "Hasta": "2024/10/08 09:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-snap-15-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/scr-ashampoo-snap-15-presentation.jpg?7297",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "AnyViewer Professional",
-         "Informacion": "Acceda y controle su escritorio o computadora port\u00e1til de forma remota desde cualquier dispositivo y en cualquier lugar para brindar soporte remoto r\u00e1pido y trabajo remoto veloz.",
-         "Desde": "",
-         "Hasta": "2024/10/08 09:00",
-         "URL": "https://www.bitsdujour.com/software/anyviewer-professional/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/anyviewer-professional-jl6s6.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Beanman by Archimedean Gaming",
          "Informacion": "Un frijol (en Jack y las habichuelas m\u00e1gicas) se escapa de Jack y trepa por el tallo \u00e9l mismo. Beanman viaja a trav\u00e9s del espacio en su patineta para descubrir mundos con los que solo podr\u00eda so\u00f1ar. La idea del juego es ser una experiencia hilarante y divertida y utiliza efectos de sonido, laberintos y giros hilarantes. \u00a1Viaja a diferentes mundos, recoge monedas de frijol, encuentra huevos dorados y haz volteretas geniales en una patineta!",
@@ -169,7 +9,7 @@
          "URL": "https://archimedean-gaming.itch.io/beanman",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU3Nzk3OS8xNTM0NTY1NS5wbmc=/347x500/nPryXH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 100%, yellow 100%) 1;"
       },
       {
          "Nombre": "MobiKin Assistant for iOS License Key Free 1-Year Giveaway",
@@ -179,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/free-license-mobikin-assistant-for-ios/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/09/mobikin-assistant-for-ios.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "The Door! 2 by Nitish Thombre",
@@ -189,7 +29,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM2Njg0NS83OTU2Nzc0LnBuZw==/347x500/E42hh0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! 3 by Nitish Thombre",
@@ -199,7 +39,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-3",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ1NTUxMC84NTA0MzUxLnBuZw==/347x500/BXLApA.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! 4 by Nitish Thombre",
@@ -209,7 +49,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-4",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjA4MzQwOC8xMjU0MjEyMi5qcGc=/347x500/g%2FPKx3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! by Nitish Thombre",
@@ -219,7 +59,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM0NDU2NS83ODI1MzY2LnBuZw==/347x500/YjQvSI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "DearMob iPhone Manager Giveaway License Key Free 2024",
@@ -229,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/dearmob-iphone-manager-giveaway-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "50 Vintage Film Photo Overlays",
@@ -239,6 +79,26 @@
          "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/4-min-1-1300x867-1.jpg?7297",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "EMOTION Projects Pro",
+         "Informacion": "Experimente la diferencia que puede generar una nueva atm\u00f3sfera de imagen con los proyectos profesionales de EMOTION. \u00a1Edite fotos de forma creativa como nunca antes!",
+         "Desde": "",
+         "Hasta": "2024/10/09 09:00",
+         "URL": "https://sharewareonsale.com/s/free-emotion-projects-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/04/emotion_projects_pro.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "AudFree Netflix Video Downloader 6-Month License Key Free",
+         "Informacion": "AudFree Netflix Video Downloader es una soluci\u00f3n confiable y definitiva para descargar videos de calidad HD de Netflix con pistas de audio Dolby Atmos 5.1. Con su navegador integrado, puede descargar pel\u00edculas y episodios de Netflix en resoluci\u00f3n nativa de 1080p de alta calidad en formato MP4 o MKV. Esta herramienta tambi\u00e9n admite descargas por lotes, lo que le permite descargar y guardar varios videos simult\u00e1neamente, lo que le ayuda a ahorrar tiempo.",
+         "Desde": "",
+         "Hasta": "2024/10/09 15:00",
+         "URL": "https://giveaway.tickcoupon.com/audfree-netflix-video-downloader-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/10/audfree-netflix-video-downloader.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -258,6 +118,16 @@
          "Hasta": "2024/10/10 09:00",
          "URL": "https://sharewareonsale.com/s/free-website-watcher-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/10/website-watcher.png?7297",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "UnHackMe 16",
+         "Informacion": "UnHackMe te permite eliminar redirecciones de B\u00fasqueda de Google, rootkits, troyanos, puertas traseras, virus, gusanos, adware, spyware, keyloggers, programas no deseados, etc.",
+         "Desde": "",
+         "Hasta": "2024/10/10 09:00",
+         "URL": "https://sharewareonsale.com/s/unhackme-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/02/unhackme_boxshot.png?7462",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -298,6 +168,16 @@
          "Hasta": "2024/10/10 14:00",
          "URL": "https://giveaway.tickcoupon.com/vovsoft-website-watcher-free-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/vovsoft-website-watcher.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "UnHackMe 16 Full License Key Free Download",
+         "Informacion": "UnHackMe es una potente suite que permite detectar y eliminar una gran variedad de malware, incluidos troyanos, programas potencialmente no deseados y rootkits. Adem\u00e1s, comprueba si hay archivos basura, analiza el inicio de Windows, los servicios y los controladores, prueba los accesos directos de Windows, busca rootkits, prueba los archivos del host y la configuraci\u00f3n de DNS, y prueba todos los archivos utilizados en Virustotal.",
+         "Desde": "",
+         "Hasta": "2024/10/10 14:00",
+         "URL": "https://giveaway.tickcoupon.com/unhackme-free-license-key-full-download/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/unhackme-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -402,6 +282,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Omega No Sunshine 2 by Galoxyum",
+         "Informacion": "Omega No Sunshine es un juego arcade/coleccionismo/exploraci\u00f3n, los humanos se preocuparon poco por su propio mundo y el sol desapareci\u00f3, el final llegar\u00e1 pronto. Sin embargo, hay una vieja leyenda que nos puede ense\u00f1ar que un d\u00eda ya sucedi\u00f3 y que un h\u00e9roe legendario nos salv\u00f3 recolectando anillos solares en diferentes lugares.",
+         "Desde": "",
+         "Hasta": "2024/10/10 23:59",
+         "URL": "https://galoxyum.itch.io/ons24",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTA4OTU1Mi8xNzI3ODg4Ni5qcGc=/347x500/QllJm1.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Coolmuster Word to PDF Converter 1-Year License Key Free",
          "Informacion": "El archivo PDF es muy popular y tiene muchas ventajas, como la posibilidad de compartir f\u00e1cilmente un documento sin correr el riesgo de que alguien altere el contenido. Tienes varios archivos de Word y, si en alg\u00fan momento quieres convertir un archivo de Word en un PDF, \u00a1utilicemos ahora mismo Coolmuster Word to PDF Converter! Esta herramienta es una buena idea cuando buscas una aplicaci\u00f3n de conversi\u00f3n que te ayude a convertir documentos de Word (.docx) a PDF. Esta herramienta tiene una interfaz clara y f\u00e1cil de usar que no puede resultar abrumadora para los principiantes.",
          "Desde": "",
@@ -502,6 +392,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Backup Pro 17",
+         "Informacion": "Ashampoo\u00ae Backup Pro 17 crea copias de seguridad de forma segura de cualquier tipo de archivo, incluso de sistemas operativos completos. El programa funciona de forma totalmente autom\u00e1tica en segundo plano para evitar la p\u00e9rdida de datos. Las copias de seguridad son una forma fiable de solucionar los fallos del sistema.",
+         "Desde": "",
+         "Hasta": "2024/10/12 09:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-pro-17-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/ashampoo_backup_pro_17_box2.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Limited '96 by minteyestudios",
          "Informacion": "Limited '96 es un juego creado en Unreal Engine por un \u00fanico desarrollador en 24 horas. Se inspira en gran medida en DOOM (1993) y le a\u00f1ade elementos de juego \u00fanicos. El juego contar\u00e1 con actualizaciones mensuales frecuentes en el futuro. El juego no es un producto final, sino una demostraci\u00f3n con 1 nivel.",
          "Desde": "",
@@ -559,6 +459,16 @@
          "URL": "https://sharewareonsale.com/s/free-cutout-9-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/boxshot.png?7462",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Don't live Alone by Osama M.S.A",
+         "Informacion": "Hemos actualizado el juego y cambiado por completo el aterrador personaje del juego, y tambi\u00e9n hemos agregado algunas actualizaciones simples al juego.",
+         "Desde": "",
+         "Hasta": "2024/10/13 18:54",
+         "URL": "https://osamamsa123.itch.io/dont-live-alone",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzAyMzk2NC8xODA4MTAzOC5naWY=/347x500/egKE4S.gif",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1218,6 +1128,16 @@
          "Hasta": "2024/11/06 01:00",
          "URL": "https://jarpdzonson.itch.io/mechanical-void",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM3NzIyNC8xNDA3NzE0OC5wbmc=/347x500/RFs9th.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Whitaker's Library by Lorex Games",
+         "Informacion": "Este juego se hizo en 1 semana.",
+         "Desde": "",
+         "Hasta": "2024/11/06 22:58",
+         "URL": "https://lorex-games.itch.io/the-whitakers-library-part-1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkzNjcxNy8xNzU5NDMzOS5naWY=/347x500/P2Mzgf.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
