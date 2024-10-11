@@ -91,6 +91,9 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 1045.bordsnewsjule.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 27997.2477april2024.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 738ne9dt.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 netuplayer.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 yt.behintrakija.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 unclicksoulx.shop #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 812655.theirbellstudio.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 a.kgorilla.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 accentneglectporter.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -402,6 +405,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.tomatazos.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 dns.google #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 0bc095m1m9la5dza5e.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 cs4pcjm071bc73a1csfg.baseauthenticity.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 fetchingping.b-cdn.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 0e2fd5m1mxo37fe705.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 206fb5m1mtwsy038b.gotte.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1566,6 +1570,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 rhichateriams.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.user-shield.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 6707c984dc6856224a24b7a8--stellar-empanada-b4fa0d.netlify.app #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 ar-amordiario.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 67092aff2e4f8c66f63483e3--benevolent-bonbon-364da7.netlify.app #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.totalav.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 online-file-converter.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
