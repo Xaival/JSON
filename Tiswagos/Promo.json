@@ -1,136 +1,6 @@
 {
-   "date_update": "24 Oct 2024 16:02 UTC",
+   "date_update": "25 Oct 2024 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Being Stalked by GamingTGT",
-         "Informacion": "Un chico regresa a su dormitorio y descubre que no hay comida. Sali\u00f3 y descubri\u00f3 que le suced\u00edan cosas y eventos extra\u00f1os.",
-         "Desde": "",
-         "Hasta": "2024/10/24 13:53",
-         "URL": "https://gamingtgt.itch.io/being-stalked",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA0MTMyMy8xODE4OTY3OC5naWY=/347x500/W7Wtgf.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "DON'T OPEN by GamingTGT",
-         "Informacion": "Regresaste a casa despu\u00e9s de un d\u00eda muy ocupado. Fuiste a comer, ver televisi\u00f3n y dormir, pero sucedi\u00f3 algo inesperado.",
-         "Desde": "",
-         "Hasta": "2024/10/24 13:53",
-         "URL": "https://gamingtgt.itch.io/dont-open",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk5NDkwOC8xNzkyMDMxMi5naWY=/347x500/aoDLPs.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "Stalker by GamingTGT",
-         "Informacion": "Un trabajador agotado regres\u00f3 a su casa y no encontr\u00f3 nada. Fue a la tienda cercana y encontr\u00f3 a su primo que regresaba del trabajo. Pero algo extra\u00f1o estaba sucediendo detr\u00e1s de \u00e9l.",
-         "Desde": "",
-         "Hasta": "2024/10/24 13:53",
-         "URL": "https://gamingtgt.itch.io/stalker",
-         "IMG": "https://img.itch.zone/aW1nLzE3NzI5ODg0LnBuZw==/347x500/18KLql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "When Spongebob Attacks:Prologue by GamingTGT",
-         "Informacion": "Cuando Bob Esponja Ataca es una serie de cap\u00edtulos que habla sobre el Crust\u00e1ceo Cascarudo como un lugar que tiene una historia muy extra\u00f1a.",
-         "Desde": "",
-         "Hasta": "2024/10/24 13:53",
-         "URL": "https://gamingtgt.itch.io/when-spongebob-attacksprologuee",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNDQ0MC8xNjg3NDEzNi5naWY=/347x500/sNhuXa.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "Invincible Presents: Atom Eve",
-         "Informacion": "Become Atom Eve and take control of your own path as one of the most powerful superheroes in the Invincible universe! Unravel a mystery and balance the dangers and responsibilities of being a superhero with the relatable challenges of everyday life.",
-         "Desde": "2024/10/17",
-         "Hasta": "2024/10/24 17:00",
-         "URL": "https://store.epicgames.com/p/atom-eve-ff090d",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/bf00db0c53ad40f09bc1331b34cd58b6/atom-eve-nfh8q.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Kardboard Kings",
-         "Informacion": "Open your own Card shop by the seaside! Buy, trade and sell Cards, OR keep them for your own collection! Earn reputation with customers, beat your shop goals, unlock new decorations, and host exciting events to bring everyone to the best Card shop in town!",
-         "Desde": "2024/10/17",
-         "Hasta": "2024/10/24 17:00",
-         "URL": "https://store.epicgames.com/p/kardboard-kings-0962f8",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/16244a18d39c4d30919ead91c7860397/kardboard-kings-ji5l9.png",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Limited '96 by minteyestudios",
-         "Informacion": "Limited '96 es un juego creado en Unreal Engine por un \u00fanico desarrollador en 24 horas. Se inspira en gran medida en DOOM (1993) y le a\u00f1ade elementos de juego \u00fanicos. El juego contar\u00e1 con actualizaciones mensuales frecuentes en el futuro. El juego no es un producto final, sino una demostraci\u00f3n con un nivel.",
-         "Desde": "",
-         "Hasta": "2024/10/24 17:18",
-         "URL": "https://minteyestudios.itch.io/limited-96",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzAxNjg4OS8xODE1NTQwNC5wbmc=/347x500/t7h7pl.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
-      },
-      {
-         "Nombre": "Hypercore DEMO by Hyperfrog",
-         "Informacion": "Hypercore es un juego de plataformas en 3D con mec\u00e1nicas detalladas, \u00a1en el que podr\u00e1s competir en la tabla de clasificaci\u00f3n hasta la bandera! En esta demostraci\u00f3n hay una campa\u00f1a, \u00a1pero solo unos pocos niveles seleccionados! Este mundo de dibujos animados tiene mec\u00e1nicas detalladas como mejoras de salto y mucho m\u00e1s, incluidos cofres que te dan elementos aleatorios.",
-         "Desde": "",
-         "Hasta": "2024/10/24 19:00",
-         "URL": "https://hyperforg.itch.io/hypercore",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyNzQ5Mi8xNjc1MjE4Mi5wbmc=/347x500/5SJAua.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "Omega No Sunshine 24 by Galoxyum",
-         "Informacion": "Omega No Sunshine es un juego arcade/coleccionismo/exploraci\u00f3n, los humanos se preocuparon poco por su propio mundo y el sol desapareci\u00f3, el final llegar\u00e1 pronto. Sin embargo, hay una vieja leyenda que nos puede ense\u00f1ar que un d\u00eda ya sucedi\u00f3 y que un h\u00e9roe legendario nos salv\u00f3 recolectando anillos solares en diferentes lugares.",
-         "Desde": "",
-         "Hasta": "2024/10/24 23:59",
-         "URL": "https://galoxyum.itch.io/ons24",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA4OTU1Mi8xNzI3ODg4Ni5qcGc=/347x500/QllJm1.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Nevren: Ancient Gods by Green Woltec",
-         "Informacion": "Historia:",
-         "Desde": "",
-         "Hasta": "2024/10/24 23:59",
-         "URL": "https://greenwoltec.itch.io/nevren-ancient-gods",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDk3OC8xNTk3ODk0Ni5wbmc=/347x500/EM%2FXpi.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster iPhone Backup Extractor 1-Year Key Free",
-         "Informacion": "Los usuarios de iPhone reconocen que iTunes es una gran herramienta para realizar copias de seguridad peri\u00f3dicas de sus im\u00e1genes, v\u00eddeos y otros datos importantes en caso de que su dispositivo se pierda, se da\u00f1e o se reemplace. Pero, \u00bfc\u00f3mo recuperar sus datos si pierde su iPhone/iPad/iPod? Coolmuster iPhone Backup Extractor es un software de extracci\u00f3n de copias de seguridad de iPhone profesional que permite extraer archivos de iPhone desde una copia de seguridad de iTunes a una computadora sin necesidad de conectar el iPhone a la computadora.",
-         "Desde": "",
-         "Hasta": "2024/10/25 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-backup-extractor-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/01/coolmuster-iphone-backup-extractor-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "MouseAxisLocker",
-         "Informacion": "MouseAxisLocker es una peque\u00f1a utilidad de software de Windows que bloquea f\u00e1cilmente el eje del mouse y limita el movimiento del cursor en modo horizontal, vertical o diagonal de 45 grados mientras se mantengan presionadas las teclas de acceso r\u00e1pido. El programa recibe la acci\u00f3n de las teclas de acceso r\u00e1pido en el entorno global de Windows, incluso en programas de terceros.",
-         "Desde": "",
-         "Hasta": "2024/10/25 09:00",
-         "URL": "https://sharewareonsale.com/s/free-mouseaxislocker-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/10/Mouse-Axis-Locker-Pro-box.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Photo Retoucher PRO 11",
-         "Informacion": "Si no eres un fot\u00f3grafo profesional (o incluso si lo eres), no siempre es posible tomar una foto limpia. Las personas o los objetos no deseados son cosas que pueden arruinar una buena foto, pero no te apresures a eliminarla. SoftOrbits Photo Retoucher PRO tambi\u00e9n est\u00e1 dise\u00f1ado para trabajar con otras tareas: eliminar imperfecciones de la piel, limpiar el grano de la pel\u00edcula y el ruido digital, eliminar rayones y manchas, reconstruir im\u00e1genes da\u00f1adas, etc.",
-         "Desde": "",
-         "Hasta": "2024/10/25 09:00",
-         "URL": "https://sharewareonsale.com/s/softorbits-photo-retoucher-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/07/main-en-200x124.jpg?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "SoftOrbits Photo Retoucher License Key Free",
          "Informacion": "\u00bfNo has sacado fotos perfectas de tus vacaciones, viajes, d\u00edas festivos, etc.? No te preocupes; SoftOrbits Photo Retoucher ser\u00e1 la mejor opci\u00f3n para ti. Ayuda a limpiar fotos antiguas, eliminar objetos no deseados o hacer peque\u00f1os retoques para producir una imagen perfecta a partir de una instant\u00e1nea normal.",
@@ -139,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/softorbits-photo-retoucher-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/01/SoftOrbits-Photo-Retoucher.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "WonderFox DVD Video Converter Free License Key 2024",
@@ -149,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-video-converter-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/10/wonderfox-dvd-video-converter-giveaway-coupon.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Coolmuster iCloud Backup Recovery 1-Year License Key Free",
@@ -159,17 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-icloud-backup-recovery/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/03/coolmuster-icloud-backup-recovery-coupon-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Image Extractor 1-Year License Key Free",
-         "Informacion": "Es muy dif\u00edcil extraer im\u00e1genes de archivos PDF. Pero Coolmuster PDF Image Extractor lo hace todo m\u00e1s f\u00e1cil. Esta utilidad PDF es una herramienta \u00fatil que te permite extraer im\u00e1genes de archivos PDF para reutilizarlas. Adem\u00e1s, puedes extraer im\u00e1genes de todos los archivos PDF que hayas importado a la vez.",
-         "Desde": "",
-         "Hasta": "2024/10/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-image-extractor-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/10/coolmuster-pdf-image-extractor-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster iPhone WhatsApp Recovery 1-Year Key Free",
@@ -179,7 +39,17 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-whatsapp-recovery-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/10/coolmuster-iphone-whatsapp-recovery-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "Coolmuster PDF Image Extractor 1-Year License Key Free",
+         "Informacion": "Es muy dif\u00edcil extraer im\u00e1genes de archivos PDF. Pero Coolmuster PDF Image Extractor lo hace todo m\u00e1s f\u00e1cil. Esta utilidad PDF es una herramienta \u00fatil que te permite extraer im\u00e1genes de archivos PDF para reutilizarlas. Adem\u00e1s, puedes extraer im\u00e1genes de todos los archivos PDF que hayas importado a la vez.",
+         "Desde": "",
+         "Hasta": "2024/10/26 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-image-extractor-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/10/coolmuster-pdf-image-extractor-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "1500 High Resolution Backgrounds Bundle",
@@ -189,7 +59,17 @@
          "URL": "https://sharewareonsale.com/s/free-1500-high-resolution-backgrounds-bundle-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/HD-backgrounds-giveaway.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Snap 15",
+         "Informacion": "Captura y anota cualquier cosa en la pantalla",
+         "Desde": "",
+         "Hasta": "2024/10/26 09:00",
+         "URL": "https://www.bitsdujour.com/software/ashampoo-snap-15/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/ashampoo-snap-15-dwklu.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "BANANA CLICKER by PAUL",
@@ -212,22 +92,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "URL Capture Pro",
-         "Informacion": "Guardar p\u00e1ginas web en im\u00e1genes y PDF",
-         "Desde": "",
-         "Hasta": "2024/10/27 08:00",
-         "URL": "https://sharewareonsale.com/s/free-url-capture-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/URLCapturePro.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Ashampoo WinOptimizer 2024",
          "Informacion": "Windows cambia constantemente, al igual que los requisitos para una optimizaci\u00f3n del sistema de primer nivel. Ashampoo WinOptimizer 2024 garantiza una experiencia de Windows r\u00e1pida, sencilla y limpia.",
          "Desde": "",
          "Hasta": "2024/10/27 08:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2024-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/01/box_winoptimizer2024.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "URL Capture Pro",
+         "Informacion": "Guardar p\u00e1ginas web en im\u00e1genes y PDF",
+         "Desde": "",
+         "Hasta": "2024/10/27 08:00",
+         "URL": "https://sharewareonsale.com/s/free-url-capture-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/08/URLCapturePro.png?7462",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -312,6 +192,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Counter-Strike 2",
+         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
+         "Desde": "",
+         "Hasta": "2024/10/28 10:00",
+         "URL": "https://store.steampowered.com/app/730/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Fallout 76",
          "Informacion": "\u00a1Juega gratis! Bethesda Game Studios te da la bienvenida a Fallout 76. Veinticinco a\u00f1os despu\u00e9s de la ca\u00edda de las bombas, t\u00fa y tus compa\u00f1eros moradores del refugio emergen a los Estados Unidos posnucleares. Explora un vasto p\u00e1ramo en esta incorporaci\u00f3n multijugador de mundo abierto a la historia de Fallout.",
          "Desde": "",
@@ -332,16 +222,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/10/28 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "PUBG: BATTLEGROUNDS",
          "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia original de Battle Royale que solo PUBG: BATTLEGROUNDS puede ofrecer.",
          "Desde": "",
@@ -352,12 +232,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
+         "Nombre": "The First Descendant",
+         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
          "Desde": "",
          "Hasta": "2024/10/28 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+         "URL": "https://store.steampowered.com/app/2074920/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
          "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
@@ -419,6 +299,16 @@
          "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MjcyMi8xODI2MjAyNi5qcGc=/347x500/CgF0oE.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF Splitter 1-Year Giveaway Key Free",
+         "Informacion": "Si desea dividir un PDF para crear partes m\u00e1s peque\u00f1as o p\u00e1ginas separadas, vale la pena probar Coolmuster PDF Splitter. Esta aplicaci\u00f3n para dividir PDF ofrece la funci\u00f3n que lo ayudar\u00e1 a dividir y extraer p\u00e1ginas PDF de manera f\u00e1cil y eficiente. Esta herramienta presenta tres modos de divisi\u00f3n para elegir: dividir archivos PDF en cada p\u00e1gina o cada dos, tres o cuatro p\u00e1ginas, dividir el PDF en varios archivos y extraer p\u00e1ginas PDF seg\u00fan el rango que necesite.",
+         "Desde": "",
+         "Hasta": "2024/10/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-splitter-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-splitter-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -622,6 +512,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "IObit Uninstaller 14 PRO",
+         "Informacion": "IObit Uninstaller Pro es la soluci\u00f3n perfecta para desinstalar programas no deseados, paquetes de software, complementos del navegador y aplicaciones de Windows. Elimina complementos del navegador maliciosos, barras de herramientas y programas inyectados para brindarle una experiencia de navegaci\u00f3n en l\u00ednea segura y fluida.",
+         "Desde": "",
+         "Hasta": "2024/10/31 08:00",
+         "URL": "https://sharewareonsale.com/s/free-iobit-uninstaller-6-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/03/iobit-uninstaller-pro-box-300x260-200x173.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Monster Hug by John D. Moore",
          "Informacion": "Bienvenidos a MONSTER HUG.",
          "Desde": "",
@@ -639,16 +539,6 @@
          "URL": "https://jdmgames.itch.io/village-vampire-feast",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE2Mjg4LzE1NTcyMTMucG5n/347x500/caO9Uj.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "IObit Uninstaller 14 PRO",
-         "Informacion": "IObit Uninstaller Pro es la soluci\u00f3n perfecta para desinstalar programas no deseados, paquetes de software, complementos del navegador y aplicaciones de Windows. Elimina complementos del navegador maliciosos, barras de herramientas y programas inyectados para brindarle una experiencia de navegaci\u00f3n en l\u00ednea segura y fluida.",
-         "Desde": "",
-         "Hasta": "2024/10/31 08:00",
-         "URL": "https://sharewareonsale.com/s/free-iobit-uninstaller-6-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/03/iobit-uninstaller-pro-box-300x260-200x173.png?7462",
-         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -758,6 +648,36 @@
          "Hasta": "2024/10/31 13:53",
          "URL": "https://gamingtgt.itch.io/the-parking",
          "IMG": "https://img.itch.zone/aW1nLzE4Mjg0NTE3LnBuZw==/347x500/b8%2F4G4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Being Stalked by GamingTGT",
+         "Informacion": "Un chico regresa a su dormitorio y descubre que no hay comida. Sali\u00f3 y descubri\u00f3 que le suced\u00edan cosas y eventos extra\u00f1os.",
+         "Desde": "",
+         "Hasta": "2024/10/31 13:53",
+         "URL": "https://gamingtgt.itch.io/being-stalked",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA0MTMyMy8xODE4OTY3OC5naWY=/347x500/W7Wtgf.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stalker(Update) by GamingTGT",
+         "Informacion": "Un trabajador agotado regres\u00f3 a su casa y no encontr\u00f3 comida. Fue a la tienda cercana y encontr\u00f3 a su primo que regresaba del trabajo. Pero algo extra\u00f1o estaba sucediendo detr\u00e1s de \u00e9l.",
+         "Desde": "",
+         "Hasta": "2024/10/31 13:53",
+         "URL": "https://gamingtgt.itch.io/stalker",
+         "IMG": "https://img.itch.zone/aW1nLzE3NzI5ODg0LnBuZw==/347x500/18KLql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "When Spongebob Attacks:Prologue by GamingTGT",
+         "Informacion": "Cuando Bob Esponja Ataca es una serie de cap\u00edtulos que habla sobre el Crust\u00e1ceo Cascarudo como un lugar que tiene una historia muy extra\u00f1a.",
+         "Desde": "",
+         "Hasta": "2024/10/31 13:53",
+         "URL": "https://gamingtgt.itch.io/when-spongebob-attacksprologuee",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyNDQ0MC8xNjg3NDEzNi5naWY=/347x500/sNhuXa.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1022,6 +942,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Audials One 2025",
+         "Informacion": "Audials One 2025 es el mejor grabador de streaming para m\u00fasica, v\u00eddeo, radio y podcast.",
+         "Desde": "",
+         "Hasta": "2024/11/01 08:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-one-2025-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/10/Audials-One-2025_specialEdition.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
          "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 no descompilado mod es un juego real que actualizaci\u00f3n publicar juego completado! gracias a mystman12 por no descompilar ese mod para enviar ya env\u00edo ya para actualizar al juego acceso no reportar mi cuenta y el juego por favor y ahora para enviarte a ti!",
          "Desde": "",
@@ -1232,12 +1162,172 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Push Me... The Puzzle Game by WisePot^",
-         "Informacion": "Hola, soy Enram Rohsik, cre\u00e9 este juego para disfrutar resolviendo rompecabezas.",
+         "Nombre": "Crumbling Structure by Yoeri Staal",
+         "Informacion": "\u00danete a un grupo de criaturas m\u00e1gicas mientras exploran el impacto de la erosi\u00f3n y el desgaste en diversos entornos. Desde acantilados escarpados hasta un ca\u00f1\u00f3n caliente, \u00a1descubre c\u00f3mo estas fuerzas naturales dan forma a nuestro mundo!",
          "Desde": "",
-         "Hasta": "2024/11/04 20:30",
-         "URL": "https://wisepot.itch.io/push-me-the-puzzle-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTg0ODQ5My8xMDg0OTkzMy5wbmc=/347x500/PXoRJI.png",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/crumbling-structure",
+         "IMG": "https://img.itch.zone/aW1nLzE3MzU0MjIxLnBuZw==/347x500/PBZ3BY.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Black Flag by Yoeri Staal",
+         "Informacion": "\u00a1Ahoy! \u00danete a esta tripulaci\u00f3n pirata en su misi\u00f3n por proteger los ecosistemas fr\u00e1giles.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-black-flag",
+         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2NDA2LnBuZw==/347x500/crXQ4W.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Synthesizer by Yoeri Staal",
+         "Informacion": "\u00a1\u00danete a Tesla 2.0 en esta emocionante aventura de point-and-click! Explora su laboratorio futurista y sum\u00e9rgete en las maravillas de la informaci\u00f3n digital, la comunicaci\u00f3n inal\u00e1mbrica y la energ\u00eda lum\u00ednica.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-synthesizer",
+         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2MzE1LnBuZw==/347x500/%2BmDBlz.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - New Dawn by Yoeri Staal",
+         "Informacion": "\u00bfPor qu\u00e9 el zorro del desierto tiene orejas grandes y por qu\u00e9 los osos polares son blancos? \u00a1Averig\u00fcemos por qu\u00e9 los animales tienen un aspecto diferente debido a su mundo!",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-new-dawn",
+         "IMG": "https://img.itch.zone/aW1nLzE3Mjc2MDk0LnBuZw==/347x500/6T0SXn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fix the Future by Yoeri Staal",
+         "Informacion": "Vaya a una isla tropical y aprenda c\u00f3mo las actividades humanas cambian el medio ambiente.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/fix-the-future",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU1MzU0Mi8xNTM1NzY4Ny5wbmc=/347x500/Cm6k%2Bz.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Plantopia by Yoeri Staal",
+         "Informacion": "\u00a1Un juego divertido para los jardineros m\u00e1s j\u00f3venes! Planta verduras y frutas, como pimientos y manzanas, para hacer crecer \u00e1rboles incre\u00edbles. \u00a1Aprende sobre el papel del agua y la luz solar en el crecimiento de las plantas mientras cultivas tu para\u00edso de jard\u00edn!",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/plantopia",
+         "IMG": "https://img.itch.zone/aW1nLzE2NDEwOTg5LnBuZw==/347x500/JH28M3.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Equivalence by Yoeri Staal",
+         "Informacion": "\u00a1Es hora de m\u00e1s pociones! Ayuda a una maga en su tienda de pociones. \u00a1Aprende sobre equivalencia y compara fracciones similares!",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/equivalence",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NDc3MS8xNTQ2MjIwNy5wbmc=/347x500/bnDkH8.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Jolly Roger by Yoeri Staal",
+         "Informacion": "\u00a1Ahoy! Emb\u00e1rcate en una aventura de capa y espada y navega por los siete mares con una tripulaci\u00f3n pirata de coloridos personajes. Desde costas arenosas hasta una ciudad bulliciosa, \u00a1enfrentar\u00e1s desaf\u00edos ambientales y salvar\u00e1s a los animales!",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-jolly-roger",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NDc3Mi8xNTQ4NTkzNi5wbmc=/347x500/2hkN1Q.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Fluxcharger by Yoeri Staal",
+         "Informacion": "Haz equipo con Nikola Tesla en esta aventura de point-and-click y comienza a desentra\u00f1ar los misterios de las ondas mec\u00e1nicas y las ondas electromagn\u00e9ticas de una manera educativa y electrizante.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-fluxcharger",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU0NTI3Ni8xNTI3NjA5NS5wbmc=/347x500/oXdhr7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Digitizer by Yoeri Staal",
+         "Informacion": "Haz equipo con un Nikola Tesla mejorado cibern\u00e9ticamente en esta aventura de point-and-click y comienza a desentra\u00f1ar los misterios de las se\u00f1ales digitales de una manera que es a la vez educativa y electrizante.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-digitizer",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU0NTI3NS8xNTE3MjI4NS5wbmc=/347x500/DphUDE.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Artificial Evolution by Yoeri Staal",
+         "Informacion": "\u00a1Prep\u00e1rate para sumergirte en las profundidades de la gen\u00e9tica y descubrir los secretos del ADN! Explorar\u00e1s los misterios de los componentes b\u00e1sicos de la vida como nunca antes.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-artificial-evolution",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzMjIwMy8xNTA3NTMyMi5wbmc=/347x500/8ToO3W.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Aquatic Adventure by Yoeri Staal",
+         "Informacion": "Las fuertes lluvias han inundado el pueblo. \u00a1Habla con un grupo de coloridos personajes y juega a minijuegos para salvar la ciudad! Aprender\u00e1s mucho sobre las diferentes formas de agua y d\u00f3nde encontrarlas.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/aquatic-adventure",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUxMDY4MC8xNDkyMjA3Ni5wbmc=/347x500/AHQkP2.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Force of Nature by Yoeri Staal",
+         "Informacion": "\u00danete a Montana en sus exploraciones de un templo abandonado. Haz clic para abrirte paso a trav\u00e9s de las pistas y descubrir la verdad sobre las caracter\u00edsticas de los animales. El juego consta de una serie de rompecabezas de apuntar y hacer clic. Haz clic para encontrar objetos ocultos, conectar palabras y completar un rompecabezas.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-force-of-nature",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ4NTQ0Ni8xNDc2NjU0Ny5wbmc=/347x500/YMFzv7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Trash to Treasure by Yoeri Staal",
+         "Informacion": "Juega a trav\u00e9s de minijuegos para aprender sobre los recursos naturales, la contaminaci\u00f3n y las formas de salvar el medio ambiente. Conoce a un colorido elenco de personajes que te ense\u00f1ar\u00e1n y estar\u00e1n felices cuando los ayudes a limpiar la ciudad.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/trash-to-treasure",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3NTQ1Ni8xNDY5NjQwNi5wbmc=/347x500/nXCV8C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - High Temperature by Yoeri Staal",
+         "Informacion": "Esc\u00e1pate a los tr\u00f3picos con Adita. Navega por una lujosa mansi\u00f3n, juega a minijuegos din\u00e1micos y descubre tesoros ocultos sobre el calor.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-high-temperature",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3NTMyNC8xNDY5NTcwNy5wbmc=/347x500/m81Jnk.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fracture by Yoeri Staal",
+         "Informacion": "\u00a1Es hora de hacer pociones! Ayuda a una hechicera en su tienda de pociones. \u00a1Ve al bosque a buscar hongos y flores y c\u00f3rtalos en fracciones perfectas para vender pociones a un grupo variado de clientes!",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/fracture",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3NDE5MC8xNDY4ODAxMC5wbmc=/347x500/u47SIY.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Resounding Wave by Yoeri Staal",
+         "Informacion": "\u00bfTienes lo que hace falta para entrar en el tenebroso castillo del pr\u00edncipe Vasko? \u00a1Aprende los secretos de las ondas sonoras! \u00danete a esta aventura de rompecabezas de point and click y explora las misteriosas habitaciones. El juego consta de una serie de rompecabezas de point and click. Haz clic para encontrar objetos ocultos, conectar palabras y completar un rompecabezas.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:00",
+         "URL": "https://yoeristaal.itch.io/eureka-resounding-wave",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ3MTg1OC8xNDY3NDcxNS5wbmc=/347x500/Nahl9M.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1248,6 +1338,16 @@
          "Hasta": "2024/11/04 20:30",
          "URL": "https://wisepot.itch.io/oni-randomizer-by-wisepot",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ5Mjk0Ny84NzAzNTYxLnBuZw==/347x500/vci0Om.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Push Me... The Puzzle Game by WisePot^",
+         "Informacion": "Hola, soy Enram Rohsik, cre\u00e9 este juego para disfrutar resolviendo rompecabezas.",
+         "Desde": "",
+         "Hasta": "2024/11/04 20:30",
+         "URL": "https://wisepot.itch.io/push-me-the-puzzle-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg0ODQ5My8xMDg0OTkzMy5wbmc=/347x500/PXoRJI.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1368,6 +1468,16 @@
          "Hasta": "2024/11/05 14:24",
          "URL": "https://zippy-game.itch.io/primalslideee",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MzY4MS8xNjUyMDQ5Ny5qcGVn/347x500/1EZYcs.jpeg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town Shopping Mall by David Pires",
+         "Informacion": "Ciudad del Mar, 2006",
+         "Desde": "",
+         "Hasta": "2024/11/05 20:00",
+         "URL": "https://david-pires.itch.io/sea-town-shopping-mall",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA1NjI1NC8xODI3ODU1NC5wbmc=/347x500/HmzwKw.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
