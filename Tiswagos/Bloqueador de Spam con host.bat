@@ -1569,6 +1569,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.user-shield.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 6707c984dc6856224a24b7a8--stellar-empanada-b4fa0d.netlify.app #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 67092aff2e4f8c66f63483e3--benevolent-bonbon-364da7.netlify.app #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 install.kolishot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ar-amordiario.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.totalav.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 online-file-converter.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
