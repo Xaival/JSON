@@ -1,46 +1,6 @@
 {
-   "date_update": "06 Nov 2024 17:02 UTC",
+   "date_update": "07 Nov 2024 17:02 UTC",
    "values": [
-      {
-         "Nombre": "The Whitaker's Library by Lorex Games",
-         "Informacion": "Este juego se hizo en 1 semana.",
-         "Desde": "",
-         "Hasta": "2024/11/06 22:58",
-         "URL": "https://lorex-games.itch.io/the-whitakers-library-part-1",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkzNjcxNy8xNzU5NDMzOS5naWY=/347x500/P2Mzgf.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Zookaa Fruits by Dimeao",
-         "Informacion": "Zookaa Fruits es un juego basado en la f\u00edsica en el que arrojas y fusionas frutas en un recipiente grande, como en el cl\u00e1sico juego de ensalada de frutas: Suika.",
-         "Desde": "",
-         "Hasta": "2024/11/07 01:00",
-         "URL": "https://dimeao.itch.io/zookaafruits",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjY0MjAwNy8xNzAxMzI0NS5qcGc=/347x500/sDxCJR.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "Advanced SystemCare 18 PRO",
-         "Informacion": "Advanced SystemCare es una utilidad todo en uno f\u00e1cil de usar para computadoras con Windows. Puede limpiar, acelerar, optimizar y proteger su PC, adem\u00e1s de salvaguardar su privacidad.",
-         "Desde": "",
-         "Hasta": "2024/11/07 08:00",
-         "URL": "https://sharewareonsale.com/s/advanced-systemcare-pro-sale",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/10/image.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Sticky Password Premium",
-         "Informacion": "No olvides nunca m\u00e1s una contrase\u00f1a.",
-         "Desde": "",
-         "Hasta": "2024/11/07 09:00",
-         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/sticky-password-premium-.ddr0.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
          "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se estropea.",
@@ -49,7 +9,7 @@
          "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Advanced SystemCare PRO 18 License Key Free Giveaway",
@@ -59,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/advanced-systemcare-pro-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/advanced-systemcare-pro-16-giveaway-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "The Backrooms: Lights Out by Through My Eyes",
@@ -69,27 +29,7 @@
          "URL": "https://through-my-eyes.itch.io/the-backrooms-lights-out",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzAzMjI1Ny8xODEzNjAzOS5wbmc=/347x500/jyL6NB.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Magic Recovery Key 1-Year License Code Free",
-         "Informacion": "Magic Recovery Key es un potente software de b\u00fasqueda de claves para Windows que le permite recuperar y hacer copias de seguridad de todas las claves de producto de su computadora al instante. Con \u00e9l, puede recuperar claves de producto del sistema Windows, lo que significa que puede ver claves de producto para Windows (Windows 11/10/8/7 y Windows Server) y SQL Server. Tambi\u00e9n le permite obtener m\u00e1s de 10 000 n\u00fameros de serie de software.",
-         "Desde": "",
-         "Hasta": "2024/11/07 15:00",
-         "URL": "https://giveaway.tickcoupon.com/magic-recovery-key-license-key-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/11/magic-recovery-key-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "UnHackMe 16 Full License Key Free Download",
-         "Informacion": "UnHackMe es una potente suite que permite detectar y eliminar una gran variedad de malware, incluidos troyanos, programas potencialmente no deseados y rootkits. Adem\u00e1s, comprueba si hay archivos basura, analiza el inicio de Windows, los servicios y los controladores, prueba los accesos directos de Windows, busca rootkits, prueba los archivos del host y la configuraci\u00f3n de DNS, y prueba todos los archivos utilizados en Virustotal.",
-         "Desde": "",
-         "Hasta": "2024/11/07 15:00",
-         "URL": "https://giveaway.tickcoupon.com/unhackme-free-license-key-full-download/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/unhackme-free-license-code.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "DRmare Tidal Music Converter 6-Month License Key Free",
@@ -99,7 +39,27 @@
          "URL": "https://giveaway.tickcoupon.com/drmare-tidal-music-converter-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/DRmare-Tidal-Music-Converter.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
+      },
+      {
+         "Nombre": "Magic Recovery Key 1-Year License Code Free",
+         "Informacion": "Magic Recovery Key es un potente software de b\u00fasqueda de claves para Windows que le permite recuperar y hacer copias de seguridad de todas las claves de producto de su computadora al instante. Con \u00e9l, puede recuperar claves de producto del sistema Windows, lo que significa que puede ver claves de producto para Windows (Windows 11/10/8/7 y Windows Server) y SQL Server. Tambi\u00e9n le permite obtener m\u00e1s de 10 000 n\u00fameros de serie de software.",
+         "Desde": "",
+         "Hasta": "2024/11/07 15:00",
+         "URL": "https://giveaway.tickcoupon.com/magic-recovery-key-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/11/magic-recovery-key-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
+      },
+      {
+         "Nombre": "UnHackMe 16 Full License Key Free Download",
+         "Informacion": "UnHackMe es una potente suite que permite detectar y eliminar una gran variedad de malware, incluidos troyanos, programas potencialmente no deseados y rootkits. Adem\u00e1s, comprueba si hay archivos basura, analiza el inicio de Windows, los servicios y los controladores, prueba los accesos directos de Windows, busca rootkits, prueba los archivos del host y la configuraci\u00f3n de DNS, y prueba todos los archivos utilizados en Virustotal.",
+         "Desde": "",
+         "Hasta": "2024/11/07 15:00",
+         "URL": "https://giveaway.tickcoupon.com/unhackme-free-license-key-full-download/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/unhackme-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman",
@@ -109,7 +69,7 @@
          "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MjcyMi8xODI2MjAyNi5qcGc=/347x500/CgF0oE.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Ghostwire: Tokyo",
@@ -119,7 +79,7 @@
          "URL": "https://store.epicgames.com/p/ghostwire-tokyo",
          "IMG": "https://cdn1.epicgames.com/offer/a93cd6111251461c953776a0c4ea4d80/EGS_GhostwireTokyoWide_2560x1440-4bc1a83c819408d33e29e61f1a9d66e4",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Witch It",
@@ -129,7 +89,7 @@
          "URL": "https://store.epicgames.com/p/witch-it-3624a9",
          "IMG": "https://cdn1.epicgames.com/spt-assets/03887d7e03fd460eb1c3074d1de865dd/witch-it-ia44y.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Dark Stories by NekitGames",
@@ -139,17 +99,7 @@
          "URL": "https://nekitgames.itch.io/dark-stories",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk3NTExMS8xNzc5NjExOC5wbmc=/347x500/N8UAug.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Underground by NekitGames",
-         "Informacion": "Te encuentras en un sistema de t\u00faneles subterr\u00e1neos, lleno de monstruos que deambulan por ah\u00ed y lleno de peligros. Veremos si puedes superar tu miedo y salir.",
-         "Desde": "",
-         "Hasta": "2024/11/07 17:22",
-         "URL": "https://nekitgames.itch.io/underground",
-         "IMG": "https://img.itch.zone/aW1nLzE0OTc4NzQ2LnBuZw==/347x500/2O1opu.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
       },
       {
          "Nombre": "Nightmare by NekitGames",
@@ -159,7 +109,17 @@
          "URL": "https://nekitgames.itch.io/nightmare",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUwNTE4NC8xNDg4NDI3MS5wbmc=/347x500/taSR%2F7.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
+      },
+      {
+         "Nombre": "Underground by NekitGames",
+         "Informacion": "Te encuentras en un sistema de t\u00faneles subterr\u00e1neos, lleno de monstruos que deambulan por ah\u00ed y lleno de peligros. Veremos si puedes superar tu miedo y salir.",
+         "Desde": "",
+         "Hasta": "2024/11/07 17:22",
+         "URL": "https://nekitgames.itch.io/underground",
+         "IMG": "https://img.itch.zone/aW1nLzE0OTc4NzQ2LnBuZw==/347x500/2O1opu.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Password Remover 1-Year Free License Key",
@@ -169,7 +129,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/pdf-password-remover-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sketch Drawer Pro 11",
@@ -179,7 +139,7 @@
          "URL": "https://sharewareonsale.com/s/free-softorbits-sketch-drawer-pro-79-95-value",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2014/11/skt-4-200x157.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Worst nightmare by IGBRdev",
@@ -202,13 +162,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "XenArmor PDF Password Remover Pro",
-         "Informacion": "XenArmor PDF Password Remover Pro es el software empresarial para desbloquear instant\u00e1neamente su archivo PDF eliminando la contrase\u00f1a y todas las restricciones como copiar, editar, firmar e imprimir archivos PDF.",
+         "Nombre": "The Whitaker's Library by Lorex Games",
+         "Informacion": "Este juego se hizo en 1 semana.",
          "Desde": "",
-         "Hasta": "2024/11/09 08:00",
-         "URL": "https://sharewareonsale.com/s/free-xenarmor-pdf-password-remover-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/11/pdfpasswordremoverpro-box-250.png?7462",
-         "Distribuidora": "SharewareOnSale",
+         "Hasta": "2024/11/08 20:00",
+         "URL": "https://lorex-games.itch.io/the-whitakers-library-part-1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkzNjcxNy8xNzU5NDMzOS5naWY=/347x500/P2Mzgf.gif",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -218,6 +178,16 @@
          "Hasta": "2024/11/09 08:00",
          "URL": "https://sharewareonsale.com/s/wise-folder-hider-pro-giveaway-coupon-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/10/640x480-200x150.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "XenArmor PDF Password Remover Pro",
+         "Informacion": "XenArmor PDF Password Remover Pro es el software empresarial para desbloquear instant\u00e1neamente su archivo PDF eliminando la contrase\u00f1a y todas las restricciones como copiar, editar, firmar e imprimir archivos PDF.",
+         "Desde": "",
+         "Hasta": "2024/11/09 08:00",
+         "URL": "https://sharewareonsale.com/s/free-xenarmor-pdf-password-remover-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/11/pdfpasswordremoverpro-box-250.png?7462",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -232,6 +202,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Celestial Front by Dancing Dots",
+         "Informacion": "Observa c\u00f3mo las estrellas luchan por el control de una sencilla galaxia simulada. Cada estrella pertenece a una facci\u00f3n, indicada por su color, y el combate se produce autom\u00e1ticamente entre estrellas vecinas. Tu funci\u00f3n es observar el din\u00e1mico campo de batalla a medida que las estrellas cambian de propietario.",
+         "Desde": "",
+         "Hasta": "2024/11/10 00:56",
+         "URL": "https://15joldersmat.itch.io/celestial-front",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MTMxMC8xODM2NzkxNS5wbmc=/347x500/j%2Bdel7.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Covens of Xetta by Dancing Dots",
+         "Informacion": "Objetivo: liderar a tu aquelarre hacia la victoria a trav\u00e9s de la conquista o puntos de victoria.",
+         "Desde": "",
+         "Hasta": "2024/11/10 00:56",
+         "URL": "https://15joldersmat.itch.io/covens-of-xetta",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2NTEzNS8xNzEyNzcyNi5wbmc=/347x500/AvNFnm.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Minimperiums by Dancing Dots",
+         "Informacion": "**Minimperiums 1.0: una simulaci\u00f3n de guerra con IA**",
+         "Desde": "",
+         "Hasta": "2024/11/10 00:56",
+         "URL": "https://15joldersmat.itch.io/minimperiums",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4NTQ2OS8xNjYyNjcxMS5wbmc=/347x500/MnNz6r.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Filename Lister",
          "Informacion": "Listar todos los archivos y directorios en Windows r\u00e1pidamente",
          "Desde": "",
@@ -239,6 +239,16 @@
          "URL": "https://sharewareonsale.com/s/free-filename-lister-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/07/filename-lister-1-200x160.png?7462",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Jungle Jumper by adamnn",
+         "Informacion": "En el coraz\u00f3n de la m\u00edstica jungla de Xylaria, las historias de un tesoro escondido atraen a los aventureros m\u00e1s atrevidos. La jungla, que alguna vez fue un para\u00edso vibrante, se ha convertido en un reino peligroso, envuelto en misterio y peligro.",
+         "Desde": "",
+         "Hasta": "2024/11/10 20:00",
+         "URL": "https://adamnn.itch.io/jungle-jumpertt",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxMDY5MC8xNjE2MDc1NC5wbmc=/347x500/MYNcPh.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -502,6 +512,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Stalker by GamingTGT",
+         "Informacion": "Un trabajador agotado regres\u00f3 a su casa y no encontr\u00f3 comida. Fue a la tienda cercana y encontr\u00f3 a su primo que regresaba del trabajo. Pero algo extra\u00f1o estaba sucediendo detr\u00e1s de \u00e9l.",
+         "Desde": "",
+         "Hasta": "2024/11/13 13:53",
+         "URL": "https://gamingtgt.itch.io/stalker",
+         "IMG": "https://img.itch.zone/aW1nLzE4MzM4OTU3LnBuZw==/347x500/UKCWFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Parking by GamingTGT",
          "Informacion": "Un hombre fue al estacionamiento y encontr\u00f3 actividades paranormales sucediendo dentro del estacionamiento.",
          "Desde": "",
@@ -512,12 +532,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Stalker by GamingTGT",
-         "Informacion": "Un trabajador agotado regres\u00f3 a su casa y no encontr\u00f3 comida. Fue a la tienda cercana y encontr\u00f3 a su primo que regresaba del trabajo. Pero algo extra\u00f1o estaba sucediendo detr\u00e1s de \u00e9l.",
+         "Nombre": "Ashampoo Photo Converter 2",
+         "Informacion": "Ashampoo Photo Converter 2 es nuestra navaja suiza para procesar sus fotos. Ya no tendr\u00e1 que buscar manualmente montones de fotos: Ashampoo Photo Converter 2 procesa colecciones enteras de una sola vez, ya sean 1 o 1000 archivos.",
          "Desde": "",
-         "Hasta": "2024/11/13 13:53",
-         "URL": "https://gamingtgt.itch.io/stalker",
-         "IMG": "https://img.itch.zone/aW1nLzE4MzM4OTU3LnBuZw==/347x500/UKCWFe.png",
+         "Hasta": "2024/11/14 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-converter-2-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/03/boxshot-20.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Being Stalked by GamingTGT",
+         "Informacion": "Un chico regresa a su dormitorio y descubre que no hay comida. Sali\u00f3 y descubri\u00f3 que le suced\u00edan cosas y eventos extra\u00f1os.",
+         "Desde": "",
+         "Hasta": "2024/11/14 13:00",
+         "URL": "https://gamingtgt.itch.io/being-stalked",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA0MTMyMy8xODE4OTY3OC5naWY=/347x500/W7Wtgf.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Autismo \"vroom\" by Bustijin Teller, Adam101001011010Jstin",
+         "Informacion": "\"Woooooooooooooooooooooooooooooooooooooooooooo\"",
+         "Desde": "",
+         "Hasta": "2024/11/14 13:00",
+         "URL": "https://bustijinteller.itch.io/autismo",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMyNjYxNC8xMzc5NzA0MC5wbmc=/347x500/G%2BCdfy.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strategy of the Enslaved by Bustijin Teller",
+         "Informacion": "Actualmente estamos trabajando en una nueva versi\u00f3n: https://www.tiktok.com/@bastijnteller/video/7401261824596872481",
+         "Desde": "",
+         "Hasta": "2024/11/14 13:00",
+         "URL": "https://bustijinteller.itch.io/strategy-of-the-enslaved",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjExMjA3OC8xMjgwNTIwMy5wbmc=/347x500/RalT7z.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -529,7 +579,7 @@
          "URL": "https://store.epicgames.com/p/apex-legends-006cde",
          "IMG": "https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1szf2.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Deceive Inc.",
@@ -539,7 +589,7 @@
          "URL": "https://store.epicgames.com/p/deceive-inc",
          "IMG": "https://cdn1.epicgames.com/offer/eca9a86adffa4605b8250d383fc01098/EGS_DeceiveInc_SweetBanditsStudios_S1_2560x1440-3a1e885fd642564a44875bf005d8ffb3",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Beerus the Puzzle by BulletWinter Games, Viktor",
@@ -592,22 +642,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Devil's Artifact by CrispyStars",
-         "Informacion": "CAPITULO UNO: LA ESTATUA",
-         "Desde": "",
-         "Hasta": "2024/11/15 21:13",
-         "URL": "https://crispystars.itch.io/the-devils-artifact",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MDA3OC8xODM2MTE4MS5qcGc=/347x500/CG0ZXQ.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Jaws of the Sewer by CrispyStars",
          "Informacion": "ACCESO ANTICIPADO\n\nUna emocionante escapada desde las profundidades",
          "Desde": "",
          "Hasta": "2024/11/15 21:13",
          "URL": "https://crispystars.itch.io/jaws-of-the-sewer",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzA2NzA4MS8xODM0MzE3OC5qcGc=/347x500/1vakxl.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Devil's Artifact by CrispyStars",
+         "Informacion": "CAPITULO UNO: LA ESTATUA",
+         "Desde": "",
+         "Hasta": "2024/11/15 21:13",
+         "URL": "https://crispystars.itch.io/the-devils-artifact",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MDA3OC8xODM2MTE4MS5qcGc=/347x500/CG0ZXQ.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -628,6 +678,16 @@
          "Hasta": "2024/11/17 07:38",
          "URL": "https://kittycreampuff.itch.io/sd",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjkzNTgyMS8xODA0NjQ5MC5qcGc=/347x500/kkYan3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Space Adventure by Ahsan Makes Games",
+         "Informacion": "\u00f0\u009f\u009a\u0080 \u00a1Aventura espacial: tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0\u009f\u008c\u008c",
+         "Desde": "",
+         "Hasta": "2024/11/17 16:02",
+         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA5Mjc1OS8xODQ5Mjk2Ni5wbmc=/347x500/ftqiSW.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -680,6 +740,16 @@
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3OTMwOS8xMzkzODQ5OS5qcGc=/347x500/SVdKb%2F.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Castlevania Anniversary Collection",
+         "Informacion": "Castlevania Anniversary Collection de Konami busca los or\u00edgenes de la hist\u00f3rica franquicia de vampiros.",
+         "Desde": "2024/11/14",
+         "Hasta": "2024/11/21 17:00",
+         "URL": "https://store.epicgames.com/p/castlevania-anniversary-collection-a61f94",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "WINTER GAMES PC by Jorava Games",
@@ -922,16 +992,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Red Tail by Musialkov",
-         "Informacion": "Bienvenido a Red Tail, un juego de aventuras de plataformas en 3D. En este juego, seguir\u00e1s el viaje de un zorro llamado F\u00e9lix, que debe encontrar los ingredientes para un ant\u00eddoto que cure a sus amigos que han sido infectados con una enfermedad desconocida.",
-         "Desde": "",
-         "Hasta": "2024/11/30 17:15",
-         "URL": "https://musialkov.itch.io/redtail",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwMDgzNS8xMzAwOTc4OS5wbmc=/347x500/vS56cK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Ancient Evil by Musialkov",
          "Informacion": "Como el elegido, debes salvar la tierra de Gryneland del antiguo mal.",
          "Desde": "",
@@ -948,6 +1008,36 @@
          "Hasta": "2024/11/30 17:15",
          "URL": "https://musialkov.itch.io/forgotten-cobwoys",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY1MTA4Ni85NzE0MTE1LnBuZw==/347x500/SRnxgQ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Red Tail by Musialkov",
+         "Informacion": "Bienvenido a Red Tail, un juego de aventuras de plataformas en 3D. En este juego, seguir\u00e1s el viaje de un zorro llamado F\u00e9lix, que debe encontrar los ingredientes para un ant\u00eddoto que cure a sus amigos que han sido infectados con una enfermedad desconocida.",
+         "Desde": "",
+         "Hasta": "2024/11/30 17:15",
+         "URL": "https://musialkov.itch.io/redtail",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIwMDgzNS8xMzAwOTc4OS5wbmc=/347x500/vS56cK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "flappy effects by alessandro06_0",
+         "Informacion": "Descripci\u00f3n:",
+         "Desde": "",
+         "Hasta": "2024/11/30 18:57",
+         "URL": "https://alessandro06-0.itch.io/flappy-effects",
+         "IMG": "https://img.itch.zone/aW1nLzE4NDk0NDIyLnBuZw==/347x500/e6Ysj%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Rise Above! by alessandro06_0",
+         "Informacion": "Rise Above es un juego de plataformas que desaf\u00eda la gravedad y que lleva a los jugadores a un viaje sin fin a trav\u00e9s del espacio y el tiempo, donde el \u00fanico camino hacia adelante es hacia arriba. En esta aventura c\u00f3smica, los jugadores escalan a trav\u00e9s de paisajes surrealistas y cambiantes, cada uno de los cuales representa una era diferente en la historia o un futuro fant\u00e1stico. Con cada nuevo nivel, desbloqueas un nuevo reino y, con \u00e9l, nuevos desaf\u00edos y misterios.",
+         "Desde": "",
+         "Hasta": "2024/11/30 18:57",
+         "URL": "https://alessandro06-0.itch.io/rise-above",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA1MTM1OS8xODM3NTI5Ni5wbmc=/347x500/sHDmJe.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1112,6 +1202,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "JACKER by Rise",
+         "Informacion": "Bienvenido al juego basado en la suerte llamado Jacker,",
+         "Desde": "",
+         "Hasta": "2024/12/01 13:00",
+         "URL": "https://ry2110.itch.io/jacker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MDQzMy8xODQ0Mzc5NS5wbmc=/347x500/jdwjY1.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Kookie by JJBEATS",
          "Informacion": "Eishin se grad\u00faa de la escuela secundaria en su cumplea\u00f1os n\u00famero 18. Decide que se confesar\u00e1 con la chica de sus sue\u00f1os. Cuando decidi\u00f3 confes\u00e1rselo, accidentalmente termin\u00f3 confes\u00e1ndole sus sentimientos a ELLA. Durante la confesi\u00f3n, explota una bomba en una planta de galletas, lo que hace que el mundo sea erradicado. Se desmaya y se despierta al lado de una puerta. Reproduce el resto para ver c\u00f3mo se desarrolla la historia.",
          "Desde": "",
@@ -1148,6 +1248,16 @@
          "Hasta": "2024/12/03 00:54",
          "URL": "https://15joldersmat.itch.io/wysaddle",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MTQ3NC8xNjY4ODc0OC5wbmc=/347x500/HWWyzT.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Car Bomb by Jorava Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/12/03 13:43",
+         "URL": "https://p-ecagon-gamer.itch.io/arwe",
+         "IMG": "https://img.itch.zone/aW1nLzE4NDkyMTQ1LmpwZw==/347x500/rlWBCY.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
