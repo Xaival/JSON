@@ -1,166 +1,6 @@
 {
-   "date_update": "11 Nov 2024 17:01 UTC",
+   "date_update": "12 Nov 2024 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Opus Cortex: a Nonogram Puzzle Story by Rainier Games",
-         "Informacion": "Eres una IA que se encuentra en un lugar extra\u00f1o sin recordar qu\u00e9 sucedi\u00f3 antes de que terminaras aqu\u00ed. Intenta descubrir la verdad y averiguar m\u00e1s sobre qui\u00e9n eres y por qu\u00e9 est\u00e1s aqu\u00ed. \u00a1Pero quiz\u00e1s puedas empezar por [i]d\u00f3nde est\u00e1s[/i] primero!",
-         "Desde": "",
-         "Hasta": "2024/11/11 09:59",
-         "URL": "https://rainiergames.itch.io/opus-cortex-nonogram-puzzle-story",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM1ODY3My8xNjM5Nzc5Ni5wbmc=/347x500/k6WLXA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Age of Water",
-         "Informacion": "\u00a1Juega gratis! Age of Water es un juego de aventuras en l\u00ednea ambientado en una Tierra postapocal\u00edptica completamente cubierta de agua. Navega a trav\u00e9s de tormentas, lucha y comercia, captura los barcos de otras personas o construye el tuyo propio, extrae recursos del fondo del oc\u00e9ano y revela los secretos del mundo de Age of Water.",
-         "Desde": "",
-         "Hasta": "2024/11/11 10:00",
-         "URL": "https://store.steampowered.com/app/2695490/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2695490/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Age of Wonders 4",
-         "Informacion": "\u00a1Juega gratis! \u00a1Gobierna un reino de fantas\u00eda dise\u00f1ado por ti! Explora nuevos reinos m\u00e1gicos en la combinaci\u00f3n caracter\u00edstica de Age of Wonders de estrategia 4X y combate t\u00e1ctico por turnos. \u00a1Controla una facci\u00f3n que crece y cambia a medida que expandes tu imperio en cada turno!",
-         "Desde": "",
-         "Hasta": "2024/11/11 10:00",
-         "URL": "https://store.steampowered.com/app/1669000/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1669000/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
-         "Desde": "",
-         "Hasta": "2024/11/11 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "ICARUS",
-         "Informacion": "\u00a1Juega gratis! ICARUS es un juego de supervivencia PvE para hasta ocho jugadores. Explora un desierto salvaje despu\u00e9s de que la terraformaci\u00f3n sali\u00f3 mal. Sobrevive en el mundo abierto, completa misiones contrarreloj o construye tu puesto de avanzada. Explora, construye, fabrica y caza mientras buscas fortuna y buscas material ex\u00f3tico.",
-         "Desde": "",
-         "Hasta": "2024/11/11 10:00",
-         "URL": "https://store.steampowered.com/app/1149460/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1149460/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Once Human",
-         "Informacion": "Once Human es un juego de supervivencia multijugador de mundo abierto ambientado en un extra\u00f1o futuro postapocal\u00edptico. \u00danete a tus amigos para luchar contra monstruos enemigos, descubrir conspiraciones secretas, competir por recursos y construir tu propio territorio. Antes, eras simplemente un humano. Ahora, tienes el poder de rehacer el mundo.",
-         "Desde": "",
-         "Hasta": "2024/11/11 10:00",
-         "URL": "https://store.steampowered.com/app/2139460/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PUBG: BATTLEGROUNDS",
-         "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia original de Battle Royale que solo PUBG: BATTLEGROUNDS puede ofrecer.",
-         "Desde": "",
-         "Hasta": "2024/11/11 10:00",
-         "URL": "https://store.steampowered.com/app/578080/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/11/11 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Trackmania",
-         "Informacion": "\u00a1Bienvenido al Club! Coge el volante y juega a Trackmania\u00ae GRATIS ahora.",
-         "Desde": "",
-         "Hasta": "2024/11/11 10:00",
-         "URL": "https://store.steampowered.com/app/2225070/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Extracted by Warlines Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/11/11 15:05",
-         "URL": "https://warlines.itch.io/extracted",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNjEwNC8xNjg0NDQwNC5naWY=/347x500/VVeNZl.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2024/11/11 20:00",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
-         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que vive solo.",
-         "Desde": "",
-         "Hasta": "2024/11/11 20:00",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "HOME GAME trata sobre el ERMITA\u00d1O en casa.",
-         "Desde": "",
-         "Hasta": "2024/11/11 20:00",
-         "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "XI O'Clock by Keera",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/11/12 07:53",
-         "URL": "https://ikeera.itch.io/xi-oclock",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDY4Ni8xNzgzMDI4Ny5wbmc=/347x500/pSrsNe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
-      {
-         "Nombre": "Audials Music 2025",
-         "Informacion": "Audials Music 2025 ofrece una amplia gama de funciones interesantes y, adem\u00e1s, es un gestor multimedia muy sofisticado. Como resultado, hay muchas vistas diferentes y numerosos contenidos.",
-         "Desde": "",
-         "Hasta": "2024/11/12 08:00",
-         "URL": "https://sharewareonsale.com/s/free-audials-music-2025-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/11/Audials-Music-2025-Special-Edition_small_square.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Easy File Shredder 2",
-         "Informacion": "\u00bfRealmente desaparecieron sus archivos eliminados? \u00a1Elimine archivos de forma segura en segundos! Vaciar la papelera de reciclaje e incluso formatear r\u00e1pidamente su disco duro no significa que sus archivos se eliminen de forma segura. Cualquiera con un software de recuperaci\u00f3n de archivos puede recuperarlos en solo un par de minutos y acceder a sus datos confidenciales. Por eso es especialmente peligroso vender o regalar su computadora sin eliminar de forma segura todos los archivos confidenciales de la misma. Easy File Shredder es una aplicaci\u00f3n de borrado de archivos que lo ayudar\u00e1 a destruir archivos sin posibilidad de recuperaci\u00f3n, limpiar el espacio libre en el disco y mantener su informaci\u00f3n privada segura.",
-         "Desde": "",
-         "Hasta": "2024/11/12 08:00",
-         "URL": "https://sharewareonsale.com/s/free-easy-file-shredder-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/10/visual-200x161.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
          "Informacion": "Un misterioso viajero busca la verdad sobre el legendario Wyvern del castillo de Czersk. Basado en hechos reales (de forma muy libre, por supuesto ;))",
@@ -169,7 +9,7 @@
          "URL": "https://soowekgames.itch.io/mij-wyvern",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc0MDgyNy8xNjM4MjIxOC5wbmc=/347x500/e6hKkg.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
       },
       {
          "Nombre": "Dungeon: Maze of Fate by SoowekGames",
@@ -179,7 +19,7 @@
          "URL": "https://soowekgames.itch.io/dungeon-maze-of-fate",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NjQ1MS8xMDM1MzkzNC5qcGc=/347x500/I5XGaU.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
       },
       {
          "Nombre": "Survivor by SoowekGames",
@@ -189,7 +29,7 @@
          "URL": "https://soowekgames.itch.io/survivor",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk1MDczMC8xNzY1OTQyMC5wbmc=/347x500/%2F6Ovjj.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
       },
       {
          "Nombre": "Audials Music 2025 Edition License Key Free",
@@ -199,17 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/audials-music-full-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/04/audials-music-2025-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "OneConv Video Converter 6-Month License Key for Free",
-         "Informacion": "Deje que OneConv Video Converter lo ayude cuando necesite una herramienta de conversi\u00f3n potente para convertir sin esfuerzo archivos de video y audio a una amplia gama de formatos. Con su ayuda, puede convertir archivos de video o audio a MP4, MKV, MOV, MP3, AAC, WAV, FLAC, OGG u otros formatos. Esta herramienta de conversi\u00f3n garantiza una experiencia de conversi\u00f3n r\u00e1pida y de alta calidad, ya sea que est\u00e9 buscando convertir videos para reproducirlos en diferentes dispositivos o ajustar el audio para necesidades espec\u00edficas.",
-         "Desde": "",
-         "Hasta": "2024/11/12 15:00",
-         "URL": "https://giveaway.tickcoupon.com/oneconv-video-converter-license-code-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/11/oneconv-icon.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "MobiKin Transfer for Mobile Giveaway License Key Free",
@@ -219,7 +49,17 @@
          "URL": "https://giveaway.tickcoupon.com/mobikin-transfer-for-mobile-deal/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/11/mobikin-transfer-for-mobile-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
+      },
+      {
+         "Nombre": "OneConv Video Converter 6-Month License Key for Free",
+         "Informacion": "Deje que OneConv Video Converter lo ayude cuando necesite una herramienta de conversi\u00f3n potente para convertir sin esfuerzo archivos de video y audio a una amplia gama de formatos. Con su ayuda, puede convertir archivos de video o audio a MP4, MKV, MOV, MP3, AAC, WAV, FLAC, OGG u otros formatos. Esta herramienta de conversi\u00f3n garantiza una experiencia de conversi\u00f3n r\u00e1pida y de alta calidad, ya sea que est\u00e9 buscando convertir videos para reproducirlos en diferentes dispositivos o ajustar el audio para necesidades espec\u00edficas.",
+         "Desde": "",
+         "Hasta": "2024/11/12 15:00",
+         "URL": "https://giveaway.tickcoupon.com/oneconv-video-converter-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/11/oneconv-icon.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Earth Clicker by minteyestudios",
@@ -229,7 +69,7 @@
          "URL": "https://minteyestudios.itch.io/earth-clicker",
          "IMG": "https://img.itch.zone/aW1nLzE4NDcwNzg4LnBuZw==/347x500/Zb0Ycf.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
       },
       {
          "Nombre": "Gem Jump! by Astra Games Studios",
@@ -239,7 +79,7 @@
          "URL": "https://astra-games-studios.itch.io/gem-jump",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTYyNjU2My85NTc0MjYxLnBuZw==/347x500/tJyVS%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "Roller Extreme by Astra Games Studios",
@@ -249,7 +89,7 @@
          "URL": "https://astra-games-studios.itch.io/roller-extreme-with-trailer",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ0NDQ4MS84NDMxNzM1LnBuZw==/347x500/V4lCeZ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "SunnyLand - FoxTrot by Astra Games Studios",
@@ -259,7 +99,7 @@
          "URL": "https://astra-games-studios.itch.io/foxtrot",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTU5NTM1MS85MzI5Mzg4LnBuZw==/347x500/jsrzmC.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "Topple Tower - Tower Building by Astra Games Studios",
@@ -269,7 +109,7 @@
          "URL": "https://astra-games-studios.itch.io/topple-tower",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjEzMzAzMy8xMjg0MzI3MC5qcGc=/347x500/v74iI4.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "Evidence of 96' by Team Melon, Danial Jumagaliyev, cinnamew, Pxl Dev",
@@ -279,7 +119,7 @@
          "URL": "https://teammelon.itch.io/evidence-of-96",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzQ0Mi8xNjgzMTgxMS5wbmc=/347x500/yD1S4E.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "Gladiator Way To Freedom by papervane",
@@ -289,7 +129,7 @@
          "URL": "https://papervane.itch.io/gladiator-way-to-freedom-android",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg5ODE1NC8xNzMzODI2OC5wbmc=/347x500/XRRAm0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Kairotic Nightmare by Keera",
@@ -299,7 +139,17 @@
          "URL": "https://ikeera.itch.io/kairotic-nightmare",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk1Njk0OS8xNzY5MzM2MC5wbmc=/347x500/6LaRh4.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
+      },
+      {
+         "Nombre": "Sticky Password Premium",
+         "Informacion": "No olvides nunca m\u00e1s una contrase\u00f1a.",
+         "Desde": "",
+         "Hasta": "2024/11/13 09:00",
+         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/sticky-password-premium-.ddr0.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "MAD? FROGG - Multiplayer PVP by PUMPP STUDIOS",
@@ -329,6 +179,16 @@
          "URL": "https://gamingtgt.itch.io/the-parking",
          "IMG": "https://img.itch.zone/aW1nLzE4Mjg0NTE3LnBuZw==/347x500/b8%2F4G4.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MiniTool MovieMaker 6-Month License Key Free",
+         "Informacion": "Editar un v\u00eddeo con MiniTool MovieMaker es sencillo si no tienes mucha experiencia en edici\u00f3n de v\u00eddeo. Esta herramienta est\u00e1 dise\u00f1ada para ayudarte a rehacer tu v\u00eddeo como si fuera una pel\u00edcula de estilo Hollywood con una interfaz intuitiva y funciones avanzadas. Sube tus archivos multimedia desde el disco local y luego podr\u00e1s usar transiciones y efectos para que tu contenido destaque.",
+         "Desde": "",
+         "Hasta": "2024/11/13 15:00",
+         "URL": "https://giveaway.tickcoupon.com/minitool-moviemaker-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/minitool-moviemaker-box.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -522,6 +382,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "HALF LIFE 1 by Jorava Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/11/16 19:51",
+         "URL": "https://p-ecagon-gamer.itch.io/half-life-1",
+         "IMG": "https://img.itch.zone/aW1nLzE4MDE2MzYwLnBuZw==/347x500/0q1%2FM%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SLHC by Jorava Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/11/16 19:51",
+         "URL": "https://p-ecagon-gamer.itch.io/cricket-1",
+         "IMG": "https://img.itch.zone/aW1nLzE4MDIzMDkzLnBuZw==/347x500/bLjJuG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Sheris Dungeon by KittyCreamPuff",
          "Informacion": "Acerca de:",
          "Desde": "",
@@ -549,6 +429,16 @@
          "URL": "https://pressfstudio.itch.io/their-navy-is-their-doom",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk4OTEzMC8xODA3NDE2Ny5wbmc=/347x500/nENjVH.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Giveaway Coolmuster Android Eraser License Key for Free",
+         "Informacion": "Coolmuster Android Eraser te permite eliminar todo en tu tel\u00e9fono o tableta Android, incluidos contactos, mensajes de texto, registros de llamadas, fotos, videos, m\u00fasica, correo de voz, nombres de usuario, cuenta de Gmail, contrase\u00f1as, aplicaciones, libros, historial de b\u00fasqueda (historial de Google, historial de Snapchat, historial web, etc.), historial del teclado y otra informaci\u00f3n personal.",
+         "Desde": "",
+         "Hasta": "2024/11/18 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-eraser-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/coolmuster-android-eraser-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -622,6 +512,126 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo UnInstaller 12",
+         "Informacion": "Ashampoo\u00ae UnInstaller 12 elimina programas sin dejar restos y le permite instalar, probar y eliminar software sin preocupaciones. Cuatro m\u00e9todos de eliminaci\u00f3n garantizan una eliminaci\u00f3n m\u00e1s completa que la que es posible con los m\u00e9todos predeterminados de Windows. Incluso las configuraciones anidadas se registran por completo y se pueden eliminar. La tecnolog\u00eda de monitoreo de instalaci\u00f3n integrada en UnInstaller registra todas las modificaciones de archivos y sistema y las revierte por completo durante la eliminaci\u00f3n de software. El programa detecta autom\u00e1ticamente la mayor\u00eda de las instalaciones de principio a fin para que los usuarios no tengan que realizar acciones manuales. Las instalaciones que no fueron registradas por UnInstaller a\u00fan se pueden eliminar por completo gracias a la base de datos incorporada con cientos de perfiles de software y nuestra propia tecnolog\u00eda de limpieza profunda. El programa tambi\u00e9n cuenta con tecnolog\u00eda de instant\u00e1neas para comparar diferentes estados del sistema y detectar modificaciones al instante. Tambi\u00e9n es posible eliminar software por lotes o arrastrando y soltando. La versi\u00f3n 12 cuenta con hibernaci\u00f3n que suspende temporalmente las aplicaciones instaladas y las entradas de inicio autom\u00e1tico, tareas y servicios de Windows relacionados para liberar recursos. Las aplicaciones permanecen instaladas pero inactivas hasta que se `despiertan` nuevamente. Los limpiadores de UnInstaller 12 han sido redise\u00f1ados y ahora son un 50 % m\u00e1s r\u00e1pidos y eficientes. Adem\u00e1s, un nuevo administrador de cookies permite eliminar y agregar cookies a la lista blanca de todos los navegadores.",
+         "Desde": "",
+         "Hasta": "2024/11/19 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-12-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/scr-ashampoo-uninstaller-12-main-on.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores.",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego de terror corto creado en una semana.",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por Grantech.shop",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Juegos retro 5 en 1",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/stargates",
+         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:32",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Proster by rtvr5656",
+         "Informacion": "Haz clic en la pantalla,\u00a0\u00a0\u00a0Obt\u00e9n tarjetas,\u00a0\u00a0\u00a0V\u00e9ndelas,\u00a0\u00a0\u00a0Mejora,",
+         "Desde": "",
+         "Hasta": "2024/11/19 12:41",
+         "URL": "https://rtvr5656.itch.io/proster",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzEwMTYxNS8xODU1NDk3Ny5wbmc=/347x500/BKhL7c.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Pigeon West: El Diablo by Blue harpy",
          "Informacion": "",
          "Desde": "",
@@ -668,6 +678,16 @@
          "Hasta": "2024/11/21 17:00",
          "URL": "https://store.epicgames.com/p/castlevania-anniversary-collection-a61f94",
          "IMG": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Snakebird Complete",
+         "Informacion": "Disfruta del exitoso rompecabezas cl\u00e1sico Snakebird y Snakebird Primer en Snakebird Complete, un nuevo pack que ofrece ambos t\u00edtulos reunidos en una experiencia accesible. \u00a1Ahora con un sistema de pistas!",
+         "Desde": "2024/11/14",
+         "Hasta": "2024/11/21 17:00",
+         "URL": "https://store.epicgames.com/p/snakebird-complete-e6f0ae",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/8ecb2895d94f4c64a743c1c4f056743f/snakebird-complete-m29wh.jpg",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
@@ -802,12 +822,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Extracted by Warlines Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/11/30 03:00",
+         "URL": "https://warlines.itch.io/extracted",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNjEwNC8xNjg0NDQwNC5naWY=/347x500/VVeNZl.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Evolvedustry by Evolvedustry",
          "Informacion": "Evolvedustry es un juego de defensa de torres de aventuras estrat\u00e9gicas en el que construyes tu f\u00e1brica con materiales complejos y tuber\u00edas de fabricaci\u00f3n y progresas a trav\u00e9s de la tecnolog\u00eda mientras criaturas de otros mundos y dimensiones asedian tu imperio. Descubre los misterios de este mundo olvidado mientras recuperas lo que se perdi\u00f3.",
          "Desde": "",
          "Hasta": "2024/11/30 09:00",
          "URL": "https://evolvedustry.itch.io/evolvedustry",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjYyMDU5LzM1NjY5NDAuanBn/347x500/bksyvh.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Badass simulator full by DarkslayerX69X",
+         "Informacion": "Un shooter de 2,5 fps con todas las caracter\u00edsticas locas",
+         "Desde": "",
+         "Hasta": "2024/11/30 11:45",
+         "URL": "https://darkslayerx69x.itch.io/badass-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA4MDUwOC8xODU1Njc4NC5wbmc=/347x500/a9s0Bd.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1172,6 +1212,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2024/12/01 07:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME trata sobre el ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2024/12/01 07:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2024/12/01 07:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Burrow by Saladin786",
          "Informacion": "--PROYECTO EN DESARROLLO, A\u00daN NO TERMINADO--",
          "Desde": "",
@@ -1202,22 +1272,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Orbital Empires by Dancing Dots",
-         "Informacion": "Observa c\u00f3mo las facciones de IA luchan por el control de la galaxia.",
-         "Desde": "",
-         "Hasta": "2024/12/01 23:19",
-         "URL": "https://15joldersmat.itch.io/orbital-empires",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzg1Mi8xNjkyNTI5NS5wbmc=/347x500/zvMnGO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Minimperiums by Dancing Dots",
          "Informacion": "**Minimperiums 1.0: una simulaci\u00f3n de guerra con IA**",
          "Desde": "",
          "Hasta": "2024/12/01 23:19",
          "URL": "https://15joldersmat.itch.io/minimperiums",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc4NTQ2OS8xNjYyNjcxMS5wbmc=/347x500/MnNz6r.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Orbital Empires by Dancing Dots",
+         "Informacion": "Observa c\u00f3mo las facciones de IA luchan por el control de la galaxia.",
+         "Desde": "",
+         "Hasta": "2024/12/01 23:19",
+         "URL": "https://15joldersmat.itch.io/orbital-empires",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzg1Mi8xNjkyNTI5NS5wbmc=/347x500/zvMnGO.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1280,6 +1350,16 @@
          "IMG": "https://img.itch.zone/aW1nLzE4NDkyMTQ1LmpwZw==/347x500/rlWBCY.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lost Castle: The Old Ones Awaken",
+         "Informacion": "The Old Ones Awaken adds new levels to explore, new enemies to de\u00a1The Old Ones Awaken incluye nuevos niveles que explorar!feat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
+         "Desde": "2024/11/19",
+         "Hasta": "2024/12/03 17:00",
+         "URL": "https://store.epicgames.com/p/lost-castle-abb2e2",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Chaotic Ascent by max levine stuff",
