@@ -1,5 +1,5 @@
 {
-   "date_update": "17 Nov 2024 17:01 UTC",
+   "date_update": "18 Nov 2024 17:02 UTC",
    "values": [
       {
          "Direccion": "8.8.8.8 886.novitrk6.com #AntiSpam"
@@ -1043,6 +1043,9 @@
          "Direccion": "8.8.8.8 dns.google #AntiSpam"
       },
       {
+         "Direccion": "8.8.8.8 sos-ch-dk-2.exo.io #AntiSpam"
+      },
+      {
          "Direccion": "8.8.8.8 0bc095m1m9la5dza5e.gotte.co.in #AntiSpam"
       },
       {
@@ -1188,6 +1191,9 @@
       },
       {
          "Direccion": "8.8.8.8 imnaines.co.in #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 ipiphqnf.eyedropper.homes #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 juicycelebinfo.com #AntiSpam"
