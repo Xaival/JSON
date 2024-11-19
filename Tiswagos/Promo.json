@@ -1,166 +1,6 @@
 {
-   "date_update": "18 Nov 2024 17:02 UTC",
+   "date_update": "19 Nov 2024 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
-         "Desde": "",
-         "Hasta": "2024/11/18 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Isonzo",
-         "Informacion": "\u00a1Juega gratis! La feroz guerra alpina pondr\u00e1 a prueba tus habilidades t\u00e1cticas en este aut\u00e9ntico juego de disparos en primera persona de la Primera Guerra Mundial. Lucha entre los pintorescos picos, los escarpados valles y los id\u00edlicos pueblos del norte de Italia. \u00a1La Gran Guerra en el frente italiano cobra vida y alcanza cotas inesperadas!",
-         "Desde": "",
-         "Hasta": "2024/11/18 10:00",
-         "URL": "https://store.steampowered.com/app/1556790/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1556790/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Left 4 Dead 2",
-         "Informacion": "\u00a1Juega gratis! Ambientado en el apocalipsis zombi, Left 4 Dead 2 (L4D2) es la muy esperada secuela del galardonado Left 4 Dead, el juego cooperativo n\u00famero 1 de 2008. Este FPS de acci\u00f3n y terror cooperativo te lleva a ti y a tus amigos a trav\u00e9s de las ciudades, pantanos y cementerios del sur profundo, desde Savannah hasta Nueva Orleans a lo largo de cinco campa\u00f1as expansivas.",
-         "Desde": "",
-         "Hasta": "2024/11/18 10:00",
-         "URL": "https://store.steampowered.com/app/550/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Millennia",
-         "Informacion": "\u00a1Juega gratis! Crea tu propia naci\u00f3n en Millennia, un juego hist\u00f3rico 4X por turnos que desaf\u00eda tu destreza estrat\u00e9gica a lo largo de 10.000 a\u00f1os de historia, desde los albores de la humanidad hasta nuestro posible futuro.",
-         "Desde": "",
-         "Hasta": "2024/11/18 10:00",
-         "URL": "https://store.steampowered.com/app/1268590/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1268590/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Once Human",
-         "Informacion": "Once Human es un juego de supervivencia multijugador de mundo abierto ambientado en un extra\u00f1o futuro postapocal\u00edptico. \u00danete a tus amigos para luchar contra monstruos enemigos, descubrir conspiraciones secretas, competir por recursos y construir tu propio territorio. Antes, eras simplemente un humano. Ahora, tienes el poder de rehacer el mundo.",
-         "Desde": "",
-         "Hasta": "2024/11/18 10:00",
-         "URL": "https://store.steampowered.com/app/2139460/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PUBG: BATTLEGROUNDS",
-         "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia original de Battle Royale que solo PUBG: BATTLEGROUNDS puede ofrecer.",
-         "Desde": "",
-         "Hasta": "2024/11/18 10:00",
-         "URL": "https://store.steampowered.com/app/578080/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/11/18 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Trackmania",
-         "Informacion": "\u00a1Bienvenido al Club! Coge el volante y juega a Trackmania\u00ae GRATIS ahora.",
-         "Desde": "",
-         "Hasta": "2024/11/18 10:00",
-         "URL": "https://store.steampowered.com/app/2225070/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Bone-ER-Clicker by b._.render",
-         "Informacion": "Ve y dale una suscripci\u00f3n a mi YouTube a trav\u00e9s de un corto al azar y comenta \"Hola desde Itch\". Eso ser\u00eda apreciado. 3 Estoy en 450, as\u00ed que veamos si puedo llegar a 500. 3",
-         "Desde": "",
-         "Hasta": "2024/11/18 15:00",
-         "URL": "https://b-render.itch.io/bone-clicker",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI2ODQ4Mi8xMzQ0NDA5NS5wbmc=/347x500/xrLZ4T.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Drug Dealin Sim 2024 by b._.render",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/11/18 15:00",
-         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Dummy Smasher by b._.render",
-         "Informacion": "Ve y dale una suscripci\u00f3n a mi YouTube a trav\u00e9s de un corto al azar y comenta \"Hola desde Itch\". Eso ser\u00eda apreciado. 3 Estoy en 450, as\u00ed que veamos si puedo llegar a 500. 3",
-         "Desde": "",
-         "Hasta": "2024/11/18 15:00",
-         "URL": "https://b-render.itch.io/dummy-smasher",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAyOTg1NC8xMjA4NTkwMS5wbmc=/347x500/fxdpHO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Gold Digger by b._.render",
-         "Informacion": "En Gold Digger, \u00a1buscas oro! Tambi\u00e9n puedes encontrar diamantes y esquivar a esos molestos gusanos. Hasta ahora, podr\u00e1s explorar el mineral de 7 niveles en 3 \u00e1reas \u00fanicas. No pasa nada si no puedes superar el nivel, porque siempre puedes ir a la tienda y mejorar m\u00e1s... si puedes permit\u00edrtelo.",
-         "Desde": "",
-         "Hasta": "2024/11/18 15:00",
-         "URL": "https://b-render.itch.io/gold-digger",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyMzcwNi8xNzUxNjgwMS5wbmc=/347x500/f7hrdK.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Small RPG by b._.render",
-         "Informacion": "En este juego de acci\u00f3n y aventuras sobre el capitalismo, te encontrar\u00e1s en casa aburrido cuando de repente ya no puedas quedarte sentado, as\u00ed que saldr\u00e1s a buscar lo que necesitas. Tus problemas te llevar\u00e1n a hamburgueser\u00edas, casas de trampas y, lo peor de todo, al banco...",
-         "Desde": "",
-         "Hasta": "2024/11/18 15:00",
-         "URL": "https://b-render.itch.io/small-rpg",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYyODgyMC8xODEyMDU2My5wbmc=/347x500/jCt1M0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Manuee's Adventure by Jampley Dev",
-         "Informacion": "IMPORTANTE:",
-         "Desde": "",
-         "Hasta": "2024/11/18 20:15",
-         "URL": "https://jampley-dev.itch.io/manuees-adventure",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE1MTYwNC8xODAyOTgyOC5wbmc=/347x500/gsxDmt.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "Trespasser's Labyrinth by Ethan Winters",
-         "Informacion": "Historia: Te han secuestrado y te han encerrado en unas instalaciones que parecen un laberinto. Resuelve acertijos, sobrevive a encuentros mortales con asesinos y descubre secretos para asegurar tu libertad. \u00bfPodr\u00e1s salir antes de que te conviertas en una v\u00edctima m\u00e1s de tu secuestrador?",
-         "Desde": "",
-         "Hasta": "2024/11/19 00:09",
-         "URL": "https://ethan-winters.itch.io/trespassers-labyrinth",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODE1MC8xNjY0NDE0MC5wbmc=/347x500/HvuWVd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo UnInstaller 12",
-         "Informacion": "Ashampoo\u00ae UnInstaller 12 elimina programas sin dejar restos y le permite instalar, probar y eliminar software sin preocupaciones. Cuatro m\u00e9todos de eliminaci\u00f3n garantizan una eliminaci\u00f3n m\u00e1s completa que la que es posible con los m\u00e9todos predeterminados de Windows. Incluso las configuraciones anidadas se registran por completo y se pueden eliminar. La tecnolog\u00eda de monitoreo de instalaci\u00f3n integrada en UnInstaller registra todas las modificaciones de archivos y sistema y las revierte por completo durante la eliminaci\u00f3n de software. El programa detecta autom\u00e1ticamente la mayor\u00eda de las instalaciones de principio a fin para que los usuarios no tengan que realizar acciones manuales. Las instalaciones que no fueron registradas por UnInstaller a\u00fan se pueden eliminar por completo gracias a la base de datos incorporada con cientos de perfiles de software y nuestra propia tecnolog\u00eda de limpieza profunda. El programa tambi\u00e9n cuenta con tecnolog\u00eda de instant\u00e1neas para comparar diferentes estados del sistema y detectar modificaciones al instante. Tambi\u00e9n es posible eliminar software por lotes o arrastrando y soltando. La versi\u00f3n 12 cuenta con hibernaci\u00f3n que suspende temporalmente las aplicaciones instaladas y las entradas de inicio autom\u00e1tico, tareas y servicios de Windows relacionados para liberar recursos. Las aplicaciones permanecen instaladas pero inactivas hasta que se `despiertan` nuevamente. Los limpiadores de UnInstaller 12 han sido redise\u00f1ados y ahora son un 50 % m\u00e1s r\u00e1pidos y eficientes. Adem\u00e1s, un nuevo administrador de cookies permite eliminar y agregar cookies a la lista blanca de todos los navegadores.",
-         "Desde": "",
-         "Hasta": "2024/11/19 08:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-12-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/12/scr-ashampoo-uninstaller-12-main-on.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
          "Informacion": "",
@@ -169,7 +9,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
@@ -179,7 +19,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
@@ -189,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
@@ -199,7 +39,7 @@
          "URL": "https://magnus-froelund.itch.io/asteroids",
          "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
@@ -209,7 +49,7 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
@@ -219,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
@@ -229,7 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/stargates",
          "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
@@ -239,7 +79,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
@@ -249,7 +89,7 @@
          "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
@@ -259,7 +99,7 @@
          "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "Proster by rtvr5656",
@@ -269,7 +109,7 @@
          "URL": "https://rtvr5656.itch.io/proster",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzEwMTYxNS8xODU1NDk3Ny5wbmc=/347x500/BKhL7c.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "Pigeon West: El Diablo by Blue harpy",
@@ -279,7 +119,7 @@
          "URL": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU5MDAwMi8xNTQyMjYyOS5wbmc=/347x500/S5wnIz.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "Pigeon West: Johnny the Pigeon by Blue harpy",
@@ -289,7 +129,7 @@
          "URL": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3MzU0OS8xMzA5NjE0MS5qcGc=/347x500/VboeIP.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "Quiet West: Butcher noose by Blue harpy",
@@ -299,7 +139,7 @@
          "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNTc4OC8xMzEwNzg1OC5qcGc=/347x500/7kGM3F.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "Larger Than Light by 1010meha",
@@ -309,7 +149,17 @@
          "URL": "https://1010meha.itch.io/larger-than-light",
          "IMG": "https://img.itch.zone/aW1hZ2UvOTk5MjM1LzU5ODMzMjUuZ2lm/347x500/HuLApM.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
+      },
+      {
+         "Nombre": "Roses Of Love by KagariSoft, UnSetSoft",
+         "Informacion": "\"Bienvenidos a la Academia de Damas Aoi\".",
+         "Desde": "",
+         "Hasta": "2024/11/20 05:00",
+         "URL": "https://kagarisoft.itch.io/rol",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzUwNDk5LzE2OTUxODU2LmpwZw==/347x500/0J26i9.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
       },
       {
          "Nombre": "The Lost Arctic by Puzzle Box Island",
@@ -319,7 +169,7 @@
          "URL": "https://puzzle-box-island.itch.io/the-lost-arctic",
          "IMG": "https://img.itch.zone/aW1nLzE4NTY0ODExLnBuZw==/347x500/Ftbrgf.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Puzzle Box Island by Puzzle Box Island",
@@ -329,7 +179,7 @@
          "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjExNzAwOS8xMjQ4NTE2NC5wbmc=/347x500/FctiDD.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "FliFlik UltConv",
@@ -339,7 +189,7 @@
          "URL": "https://sharewareonsale.com/s/free-fliflik-ultconv-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/11/ultconv-download.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "STAaRS by Ayfjay",
@@ -349,77 +199,17 @@
          "URL": "https://ayfjay.itch.io/staars",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzAzOTc4Ni8xODE4NzEzNi5wbmc=/347x500/U%2B6k4f.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
-         "Nombre": "Make Money Simulation by Abhas Sinha",
-         "Informacion": "",
+         "Nombre": "Text to MP3 Converter",
+         "Informacion": "*** \u00a1Buenas noticias! Vovsoft ha acordado extender este acuerdo por un d\u00eda m\u00e1s. \u00a1Disfr\u00fatelo! ***",
          "Desde": "",
-         "Hasta": "2024/11/20 18:33",
-         "URL": "https://gwa123.itch.io/make-money-simulation",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MDI4OS8xNjY1NDk2NS5qcGc=/347x500/%2Bnko5H.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Boke by Abhas Sinha",
-         "Informacion": "Boke es un juego basado en RPG en el que...",
-         "Desde": "",
-         "Hasta": "2024/11/20 18:33",
-         "URL": "https://gwa123.itch.io/boke",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxMTk0Ni8xNTU1NzAwMy5wbmc=/347x500/18U89k.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Doctor Abhas by Abhas Sinha",
-         "Informacion": "Doctor Abhas es un juego en el que debes matar los g\u00e9rmenes debajo del cuerpo de los pacientes.",
-         "Desde": "",
-         "Hasta": "2024/11/20 18:33",
-         "URL": "https://gwa123.itch.io/doctor-abhas",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzOTQ5Ny8xMDc5NDEyNy5qcGc=/347x500/OSzTih.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Champion by Abhas Sinha",
-         "Informacion": "Si te gusto este juego y quieres ver m\u00e1s no olvides seguirme! :D",
-         "Desde": "",
-         "Hasta": "2024/11/20 18:33",
-         "URL": "https://gwa123.itch.io/champion",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc0MzM0NS8xMDI1OTE4Ni5qcGc=/347x500/O7Fo1E.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Fight With Assassination Creed by Abhas Sinha",
-         "Informacion": "Assassin's Creed es una pel\u00edcula de acci\u00f3n y ciencia ficci\u00f3n dist\u00f3pica de 2016 basada en la franquicia de videojuegos del mismo nombre.",
-         "Desde": "",
-         "Hasta": "2024/11/20 18:33",
-         "URL": "https://gwa123.itch.io/fight-with-assassi",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTczNTQyOS8xMDIxNTM2Ny5qcGc=/347x500/%2FRQjF3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zizzy Zombie by Abhas Sinha",
-         "Informacion": "Este es un juego de zombies. En este juego tienes que matar a todos los zombies.",
-         "Desde": "",
-         "Hasta": "2024/11/20 18:33",
-         "URL": "https://gwa123.itch.io/zizzy-zombie",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTczMjU4Mi8xMDE5OTgxMy5qcGc=/347x500/e%2BRnyR.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Brawl Star Simulator by Abhas Sinha",
-         "Informacion": "Brawl Stars es un videojuego de disparos en tercera persona y de batalla en l\u00ednea multijugador desarrollado y publicado por la compa\u00f1\u00eda finlandesa de videojuegos Supercell. Se lanz\u00f3 en todo el mundo el 12 de diciembre de 2018 en iOS y Android. El juego cuenta con varios modos de juego, cada uno con un objetivo diferente.",
-         "Desde": "",
-         "Hasta": "2024/11/20 18:33",
-         "URL": "https://gwa123.itch.io/brawl-star-simulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTczMjQ5OC8xMDE5OTI4NC5qcGc=/347x500/iuavI%2B.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Hasta": "2024/11/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/text-to-mp3-converter-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/text-to-mp3-converter-2-gaho9.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Basketball by Abhas Sinha",
@@ -428,16 +218,6 @@
          "Hasta": "2024/11/20 18:33",
          "URL": "https://gwa123.itch.io/football",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcyODQxMy8xMDE3ODQyNC5qcGc=/347x500/trljfa.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Theme Park Tycoon by Abhas Sinha",
-         "Informacion": "Juego Theme Park Tycoon, tambi\u00e9n conocido como juegos de simulaci\u00f3n econ\u00f3mica o juegos de magnate, este juego se centra en la gesti\u00f3n de los procesos econ\u00f3micos que se realizan despu\u00e9s de agregar un puesto al patio de juegos.",
-         "Desde": "",
-         "Hasta": "2024/11/20 18:33",
-         "URL": "https://gwa123.itch.io/theme-park-tycoon",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyNjk2Ny8xMDE3MDQ4Ni5qcGc=/347x500/0Wv9qz.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -452,12 +232,72 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Boke by Abhas Sinha",
+         "Informacion": "Boke es un juego basado en RPG en el que...",
+         "Desde": "",
+         "Hasta": "2024/11/20 18:33",
+         "URL": "https://gwa123.itch.io/boke",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxMTk0Ni8xNTU1NzAwMy5wbmc=/347x500/18U89k.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Brawl Star Simulator by Abhas Sinha",
+         "Informacion": "Brawl Stars es un videojuego de disparos en tercera persona y de batalla en l\u00ednea multijugador desarrollado y publicado por la compa\u00f1\u00eda finlandesa de videojuegos Supercell. Se lanz\u00f3 en todo el mundo el 12 de diciembre de 2018 en iOS y Android. El juego cuenta con varios modos de juego, cada uno con un objetivo diferente.",
+         "Desde": "",
+         "Hasta": "2024/11/20 18:33",
+         "URL": "https://gwa123.itch.io/brawl-star-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTczMjQ5OC8xMDE5OTI4NC5qcGc=/347x500/iuavI%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Champion by Abhas Sinha",
+         "Informacion": "Si te gusto este juego y quieres ver m\u00e1s no olvides seguirme! :D",
+         "Desde": "",
+         "Hasta": "2024/11/20 18:33",
+         "URL": "https://gwa123.itch.io/champion",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc0MzM0NS8xMDI1OTE4Ni5qcGc=/347x500/O7Fo1E.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Doctor Abhas by Abhas Sinha",
+         "Informacion": "Doctor Abhas es un juego en el que debes matar los g\u00e9rmenes debajo del cuerpo de los pacientes.",
+         "Desde": "",
+         "Hasta": "2024/11/20 18:33",
+         "URL": "https://gwa123.itch.io/doctor-abhas",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzOTQ5Ny8xMDc5NDEyNy5qcGc=/347x500/OSzTih.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fight With Assassination Creed by Abhas Sinha",
+         "Informacion": "Assassin's Creed es una pel\u00edcula de acci\u00f3n y ciencia ficci\u00f3n dist\u00f3pica de 2016 basada en la franquicia de videojuegos del mismo nombre.",
+         "Desde": "",
+         "Hasta": "2024/11/20 18:33",
+         "URL": "https://gwa123.itch.io/fight-with-assassi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTczNTQyOS8xMDIxNTM2Ny5qcGc=/347x500/%2FRQjF3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Its Time To Fight by Abhas Sinha",
          "Informacion": "Its Time To Fight es un g\u00e9nero de videojuego en el que el jugador controla un personaje (o personajes) ficticio que emprende una misi\u00f3n en un mundo imaginario. Definir los juegos de rol es un gran desaf\u00edo debido a la variedad de g\u00e9neros h\u00edbridos que tienen elementos de los juegos de rol.",
          "Desde": "",
          "Hasta": "2024/11/20 18:33",
          "URL": "https://gwa123.itch.io/its-time-to-fight",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcxOTMzNC8xMDEyNzU3OS5qcGc=/347x500/e5rLKQ.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Make Money Simulation by Abhas Sinha",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/11/20 18:33",
+         "URL": "https://gwa123.itch.io/make-money-simulation",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MDI4OS8xNjY1NDk2NS5qcGc=/347x500/%2Bnko5H.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -488,6 +328,26 @@
          "Hasta": "2024/11/20 18:33",
          "URL": "https://gwa123.itch.io/the-whole-world",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNjI0MC83NjUzMjgxLnBuZw==/347x500/6%2BJiZ6.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Theme Park Tycoon by Abhas Sinha",
+         "Informacion": "Juego Theme Park Tycoon, tambi\u00e9n conocido como juegos de simulaci\u00f3n econ\u00f3mica o juegos de magnate, este juego se centra en la gesti\u00f3n de los procesos econ\u00f3micos que se realizan despu\u00e9s de agregar un puesto al patio de juegos.",
+         "Desde": "",
+         "Hasta": "2024/11/20 18:33",
+         "URL": "https://gwa123.itch.io/theme-park-tycoon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyNjk2Ny8xMDE3MDQ4Ni5qcGc=/347x500/0Wv9qz.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zizzy Zombie by Abhas Sinha",
+         "Informacion": "Este es un juego de zombies. En este juego tienes que matar a todos los zombies.",
+         "Desde": "",
+         "Hasta": "2024/11/20 18:33",
+         "URL": "https://gwa123.itch.io/zizzy-zombie",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTczMjU4Mi8xMDE5OTgxMy5qcGc=/347x500/e%2BRnyR.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -582,6 +442,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Beep Sheep Simulator by Osama M.S.A",
+         "Informacion": "Beep Sheep Simulator: Un juego de supervivencia que cuenta la historia de una persona que vive en una gran isla y posee una peque\u00f1a casa y un autom\u00f3vil. La isla contiene una gran cantidad de granjas de ovejas que puedes comprar para desarrollarte m\u00e1s y ganar m\u00e1s puntos. Tambi\u00e9n hay muchos secretos en el juego que puedes descubrir durante tu viaje en el juego. Tambi\u00e9n puedes usar tu propio autom\u00f3vil para moverte por la gran isla en la que vives. El juego est\u00e1 tomado de una escena antigua de un video llamado Beep beep I'm a Sheep. Tambi\u00e9n necesitar\u00e1s mucho tiempo para terminar el juego por completo.",
+         "Desde": "",
+         "Hasta": "2024/11/23 00:53",
+         "URL": "https://osamamsa123.itch.io/beep-sheep-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzExNjQ0OC8xODYzODg1OS5qcGc=/347x500/gr1ReF.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Photo Card 3",
          "Informacion": "Con Ashampoo Photo Card 3, puedes enviar elegantes felicitaciones fotogr\u00e1ficas a tus amigos y conocidos de forma a\u00fan m\u00e1s sencilla. Puedes elegir entre una amplia gama de plantillas, desde sencillas tarjetas de felicitaci\u00f3n hasta vales de regalo. Las tarjetas se env\u00edan directamente desde el programa.",
          "Desde": "",
@@ -672,6 +542,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster PDF to ePub Converter 1-Year License Key Free",
+         "Informacion": "Para ayudarle a convertir archivos PDF al formato ePub, Coolmuster PDF to ePub Converter es un programa de conversi\u00f3n de PDF intuitivo y f\u00e1cil de usar. El software se encarga del proceso de conversi\u00f3n sin problemas, conservando el dise\u00f1o, las fuentes y los gr\u00e1ficos originales para una apariencia impecable. Todos los niveles de usuario pueden acceder a \u00e9l gracias a su interfaz de usuario intuitiva y f\u00e1cil de usar.",
+         "Desde": "",
+         "Hasta": "2024/11/26 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-epub-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-to-epub-converter-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "coffee boy by bee tea",
          "Informacion": "En este encantador juego corto, juegas como el chico del caf\u00e9 reci\u00e9n contratado. \u00a1Depende de ti encontrar el caf\u00e9 verdadero y entreg\u00e1rselo al jefe! Podr\u00e1s hacer amigos extravagantes, explorar las misteriosas instalaciones, leer textos de sabores divertidos y... \u00bfencontrar al chico del caf\u00e9 desaparecido? De todos modos, no te preocupes por eso \u00faltimo y conc\u00e9ntrate en LLEVARLE EL CAF\u00c9 AL JEFE.",
          "Desde": "",
@@ -698,6 +578,16 @@
          "Hasta": "2024/11/26 08:00",
          "URL": "https://sharewareonsale.com/s/free-winxvideo-ai-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/wxv-box-2.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FastMove",
+         "Informacion": "\u00a1Mueva sus archivos, carpetas, software y configuraciones a su nueva computadora Windows con FastMove!",
+         "Desde": "",
+         "Hasta": "2024/11/26 08:01",
+         "URL": "https://sharewareonsale.com/s/free-fastmove-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/09/unnamed-1.jpg?7462",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -748,6 +638,36 @@
          "Hasta": "2024/11/28 22:31",
          "URL": "https://khoyman.itch.io/fragmentsoftyrannydemo",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzA4ODk2NC8xODQ3MjI4MS5qcGc=/347x500/u8ODAW.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Americannon Civil War Sokoban for NES by A Novel Approach",
+         "Informacion": "\u00a1M\u00e1s de SESENTA niveles! El 11 de septiembre debuta un juego patri\u00f3tico ambientado en los d\u00edas de la Guerra Civil... Empuja los ca\u00f1ones para convertirlos en balas de ca\u00f1\u00f3n. Los ferrocarriles y los charcos te hacen deslizarte, as\u00ed que ten cuidado. Recoge cantimploras y llega a la bandera. Puedes cruzar las vallas blancas, ya que revelan balas de ca\u00f1\u00f3n, pero no puedes volver a cruzarlas. Tecla W para empezar...",
+         "Desde": "",
+         "Hasta": "2024/11/29 07:04",
+         "URL": "https://zartan917.itch.io/americannon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI1NzE2Mi8xMzM4MTI4OC5wbmc=/347x500/vnvg%2B1.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pass Problems for PLAYDATE by A Novel Approach",
+         "Informacion": "Juego de rompecabezas con tem\u00e1tica de baloncesto. \u00a1Resuelve los problemas para ganar el juego!",
+         "Desde": "",
+         "Hasta": "2024/11/29 07:04",
+         "URL": "https://zartan917.itch.io/pass-problems-for-playdate",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MzYzNC8xMzI5MjY0Ny5wbmc=/347x500/WBd%2Frp.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sherlock Holmes and The Secret Weapon for Commodore 64 by A Novel Approach",
+         "Informacion": "\u00a1Sherlock Holmes est\u00e1 de nuevo en acci\u00f3n! Ahora, un libro...",
+         "Desde": "",
+         "Hasta": "2024/11/29 07:04",
+         "URL": "https://zartan917.itch.io/sherlock-holmes-and-the-secret-weapon-for-commodore-64",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5OTgxMS8xMzAwMzExNy5wbmc=/347x500/7eEjh2.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1222,12 +1142,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CatUp by dazai",
+         "Informacion": "CatUp es un juego arcade de plataformas muy entretenido en el que encarnas a una gata que busca a sus cinco gatitos perdidos. Tu viaje \u00e9pico te llevar\u00e1 a trav\u00e9s de cuatro biomas diferentes: cuevas inmensas y peligrosas, llanuras, colinas y misteriosas islas flotantes. Para superar los obst\u00e1culos que encuentres, tendr\u00e1s que demostrar habilidades de juego excepcionales.",
+         "Desde": "",
+         "Hasta": "2024/12/01 01:00",
+         "URL": "https://dazaizer0.itch.io/catup",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NDY5MC8xNjczNTExOS5wbmc=/347x500/yUDAZ3.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Oddworld: Smile Factory by pupbenny",
          "Informacion": "Oddworld Juego de terror en el que deber\u00e1s escapar de una malvada f\u00e1brica que construye m\u00e1quinas siniestras.",
          "Desde": "",
          "Hasta": "2024/12/01 01:59",
          "URL": "https://pupbenny.itch.io/oddworld",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcxMDIyMC8xNjE3MTI1Ni5wbmc=/347x500/rxcBbV.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Get Free W.I.P by Kunai Studios",
+         "Informacion": "Entonces te ofreciste como voluntario para ser parte de un experimento social sobre salud mental y f\u00edsica entre edades, pero fuiste lo suficientemente est\u00fapido como para firmar un mont\u00f3n de exenciones sin leer una sola y ahora te han puesto en un \"Experimento de Tortura Mental y F\u00edsica\". \u00bfSer\u00e1s uno de los afortunados en escapar?",
+         "Desde": "",
+         "Hasta": "2024/12/01 05:10",
+         "URL": "https://kunai-studios.itch.io/get-free-wip",
+         "IMG": "https://img.itch.zone/aW1nLzE4NjI4OTU0LnBuZw==/347x500/ZYNBom.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1362,6 +1302,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Battle Hell: Tral! by Dancing Dots",
+         "Informacion": "Battle Hell: Tral! Un simulador de guerra de IA: presencia batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
+         "Desde": "",
+         "Hasta": "2024/12/01 23:19",
+         "URL": "https://15joldersmat.itch.io/battle-hell-tral",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDMxMy8xNzgyODI2MC5wbmc=/347x500/U5cHon.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Apeaksoft iPhone Eraser Registration Code 1-Year Free",
          "Informacion": "Apeaksoft iPhone Eraser es una de las herramientas profesionales para borrar datos de tel\u00e9fonos del momento. Garantiza la protecci\u00f3n de su informaci\u00f3n privada. Le brinda la posibilidad de eliminar de forma segura todos los datos y configuraciones de su dispositivo. No se rastrear\u00e1 ninguna informaci\u00f3n personal despu\u00e9s de vender su tel\u00e9fono. Protege su informaci\u00f3n privada y sus datos personales de los delincuentes de datos.",
          "Desde": "",
@@ -1429,7 +1379,7 @@
          "URL": "https://store.epicgames.com/p/lost-castle-abb2e2",
          "IMG": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Chaotic Ascent by max levine stuff",
@@ -1602,6 +1552,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Wawi's Mod 3 by MundoRaroXd",
+         "Informacion": "Una parodia de juego 2D gratuita de Garry's Mod en el que puedes generar entidades como enemigos o aliados y construir sistemas de trampas y realizar juegos de roles.",
+         "Desde": "",
+         "Hasta": "2024/12/18 19:35",
+         "URL": "https://mundoraroxd.itch.io/wawis-mod-3",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzAzMzE5NC8xODE0MTIyMC5wbmc=/347x500/9ispvL.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Don't Look Back by Damage Control",
          "Informacion": "Has asumido una tarea aparentemente sencilla: encontrar las llaves que faltan para abrir las puertas que te llevar\u00e1n a los secretos de la casa abandonada. Lo que no sabes es el peligro que acecha en la casa.",
          "Desde": "",
@@ -1618,6 +1578,16 @@
          "Hasta": "2024/12/31 12:00",
          "URL": "https://giveaway.tickcoupon.com/vovsoft-text-edit-plus-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/07/Vov-Sticky-Notes-1.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DVDFab Blu-ray Ripper 1-Year License Key for Free",
+         "Informacion": "DVDFab Blu-ray Ripper es un software r\u00e1pido y profesional que permite copiar f\u00e1cilmente cualquier Blu-ray 2D/3D a archivos de v\u00eddeo que se pueden reproducir en consolas de \u00faltima generaci\u00f3n, como la Xbox 360 y dispositivos m\u00f3viles como iPod y iPhone. Adem\u00e1s, permite a los usuarios eliminar las protecciones de Blu-ray y convierte archivos Blu-ray 3D a archivos de v\u00eddeo 3D, conservando el efecto 3D.",
+         "Desde": "",
+         "Hasta": "2024/12/31 12:00",
+         "URL": "https://giveaway.tickcoupon.com/dvdfab-blu-ray-ripper-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/05/dvdfab-blu-ray-ripper-1.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
