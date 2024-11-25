@@ -1,36 +1,6 @@
 {
-   "date_update": "24 Nov 2024 17:02 UTC",
+   "date_update": "25 Nov 2024 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Shadows of Souls by Ayfjay",
-         "Informacion": "Este es un juego de lucha y carrera sin fin. Derrota a los enemigos, obt\u00e9n mejoras con monedas y puntos de prestigio, completa los niveles e intenta obtener la puntuaci\u00f3n m\u00e1s alta que puedas en el modo sin fin.",
-         "Desde": "",
-         "Hasta": "2024/11/24 19:00",
-         "URL": "https://ayfjay.itch.io/shadows-of-souls",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzEyNTA3MC8xODY3MzUwNS5qcGc=/347x500/bSaS9r.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Space Adventure by Ahsan Makes Games",
-         "Informacion": "\u00f0\u009f\u009a\u0080 \u00a1Aventura espacial: tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0\u009f\u008c\u008c",
-         "Desde": "",
-         "Hasta": "2024/11/25 03:51",
-         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA5Mjc1OS8xODQ5Mjk2Ni5wbmc=/347x500/ftqiSW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
-      {
-         "Nombre": "WinToUSB Professional",
-         "Informacion": "\u00a1El mejor creador de Windows To Go para crear Windows 11/10/8.1/8/7 port\u00e1til!",
-         "Desde": "",
-         "Hasta": "2024/11/25 08:00",
-         "URL": "https://sharewareonsale.com/s/free-wintousb-professional-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/06/screenshot-2-200x157.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "Across the Obelisk",
          "Informacion": "\u00a1Juega gratis! \u00a1Emprende un juego de construcci\u00f3n de mazos roguelite cooperativo en el que cada decisi\u00f3n importa! Crea mazos de una potencia impresionante. Viaja solo o con hasta tres amigos. Traza el camino de tu grupo hacia la gloria y enfr\u00e9ntate a enemigos poderosos en combates t\u00e1cticos profundos en tu misi\u00f3n para salvar el reino de Senenthia en Across the Obelisk.",
@@ -39,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/1385380/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/1385380/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Counter-Strike 2",
@@ -49,7 +19,7 @@
          "URL": "https://store.steampowered.com/app/730/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "F1\u00ae 24",
@@ -59,7 +29,7 @@
          "URL": "https://store.steampowered.com/app/2488620/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2488620/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Once Human",
@@ -69,7 +39,7 @@
          "URL": "https://store.steampowered.com/app/2139460/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Oxygen Not Included",
@@ -79,7 +49,7 @@
          "URL": "https://store.steampowered.com/app/457140/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/457140/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "PUBG: BATTLEGROUNDS",
@@ -89,7 +59,7 @@
          "URL": "https://store.steampowered.com/app/578080/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "The First Descendant",
@@ -99,7 +69,7 @@
          "URL": "https://store.steampowered.com/app/2074920/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Trackmania",
@@ -109,7 +79,7 @@
          "URL": "https://store.steampowered.com/app/2225070/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Victoria 3",
@@ -119,7 +89,7 @@
          "URL": "https://store.steampowered.com/app/529340/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/529340/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "WinToUSB Professional 1-Year License Key Free Giveaway",
@@ -129,7 +99,7 @@
          "URL": "https://giveaway.tickcoupon.com/wintousb-professional-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/09/wintousb-professional-free-key.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Thru The Webs by TheMetalCarrotDev",
@@ -139,7 +109,7 @@
          "URL": "https://themetalcarrotdev.itch.io/thru-the-webs",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzEwOTA2OS8xODY3MjMxOC5wbmc=/347x500/F7HIyq.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Coolmuster JPG to PDF Converter 1-Year Key Free",
@@ -149,7 +119,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-jpg-to-pdf-converter-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/coolmuster-jpg-to-pdf-converter.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF to ePub Converter 1-Year License Key Free",
@@ -159,7 +129,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-epub-converter-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-to-epub-converter-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF to Word Converter 1-Year Key Free",
@@ -169,7 +139,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-word-converter-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/02/coolmuster-pdf-to-word-converter.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "coffee boy by bee tea",
@@ -179,7 +149,7 @@
          "URL": "https://bee-tea.itch.io/coffeeboy",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MzcwNy84MDg3NTc5LnBuZw==/347x500/m7t9P9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "rainy day by bee tea",
@@ -189,7 +159,7 @@
          "URL": "https://bee-tea.itch.io/rainyday",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Winxvideo AI",
@@ -199,7 +169,7 @@
          "URL": "https://sharewareonsale.com/s/free-winxvideo-ai-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/07/wxv-box-2.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "FastMove",
@@ -209,7 +179,17 @@
          "URL": "https://sharewareonsale.com/s/free-fastmove-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/09/unnamed-1.jpg?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "Advanced SystemCare PRO - 6 months / 1 PC",
+         "Informacion": "Una utilidad del sistema para una mejor salud del PC",
+         "Desde": "",
+         "Hasta": "2024/11/26 09:00",
+         "URL": "https://www.bitsdujour.com/software/advanced-windowscare-professional/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/advanced-windowscare-professional-jpju9.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "CRYPTDRIVE 2024",
@@ -1022,6 +1002,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Banana Clicker \u00e2\u0080\u0093 Join the Fun! \u00f0\u009f\u008d\u008c by PAUL",
+         "Informacion": "Banana Clicker: \u00a1\u00fanete a la diversi\u00f3n! \u00f0\u009f\u008d\u008c",
+         "Desde": "",
+         "Hasta": "2024/12/01 22:35",
+         "URL": "https://mrpaul667.itch.io/banana-clicker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2OTY3NC8xNzM3NDg0OS5wbmc=/347x500/G6xpQi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ball 46 by YAHAY Games",
          "Informacion": "Descripci\u00f3n: \n\u00a1Entra en Ball 46, una emocionante aventura en la que controlas una conciencia atrapada en una bola y luchas contra rivales de otros mundos! Con solo tres desafiantes niveles, te enfrentar\u00e1s a jefes \u00fanicos y experimentar\u00e1s una jugabilidad emocionante mientras recorres un entorno vibrante y de otro mundo.",
          "Desde": "",
@@ -1092,12 +1082,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Santa's little helper(downloadable) by Michele Galbiati",
+         "Informacion": "\u00a1Pon a prueba a otros jugadores y a ti mismo (gracias a la tabla de clasificaci\u00f3n) en este simulador del peque\u00f1o ayudante de Pap\u00e1 Noel! Solo tienes una tarea: inspeccionar los objetos que tienes delante y decidir si son o no aptos para que Pap\u00e1 Noel los entregue en Navidad. \u00a1Buena suerte!",
+         "Desde": "",
+         "Hasta": "2024/12/02 01:00",
+         "URL": "https://michelegalbiati.itch.io/santas-little-helperdownloadable",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzEzMDMzMC8xODcwMzc4NC5wbmc=/347x500/9xQo15.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Kookie by JJBEATS",
          "Informacion": "Eishin se grad\u00faa de la escuela secundaria en su cumplea\u00f1os n\u00famero 18. Decide que se confesar\u00e1 con la chica de sus sue\u00f1os. Cuando decidi\u00f3 confes\u00e1rselo, accidentalmente termin\u00f3 confes\u00e1ndole sus sentimientos a ELLA. Durante la confesi\u00f3n, explota una bomba en una planta de galletas, lo que hace que el mundo sea erradicado. Se desmaya y se despierta al lado de una puerta. Reproduce el resto para ver c\u00f3mo se desarrolla la historia.",
          "Desde": "",
          "Hasta": "2024/12/02 05:27",
          "URL": "https://jjbeats99.itch.io/kookie",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk1OTQ0MS8xNzc4MjE2OC5wbmc=/347x500/nRTK8p.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Trespasser's Labyrinth by Ethan Winters",
+         "Informacion": "Historia: Te han secuestrado y te han encerrado en unas instalaciones que parecen un laberinto. Resuelve acertijos, sobrevive a encuentros mortales con asesinos y descubre secretos para asegurar tu libertad. \u00bfPodr\u00e1s salir antes de que te conviertas en una v\u00edctima m\u00e1s de tu secuestrador?",
+         "Desde": "",
+         "Hasta": "2024/12/02 13:46",
+         "URL": "https://ethan-winters.itch.io/trespassers-labyrinth",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODE1MC8xNjY0NDE0MC5wbmc=/347x500/HvuWVd.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1309,6 +1319,16 @@
          "URL": "https://fishlicka.itch.io/juice-galaxy",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTkwNTQ4LzUxMzIwNzMuZ2lm/347x500/7lQp7N.gif",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Aiarty Image Matting [with AI]",
+         "Informacion": "\u00a1Elimine el fondo de la imagen con precisi\u00f3n y combine el primer plano con cualquier fondo de manera perfecta, con mejores detalles y bordes claros!",
+         "Desde": "",
+         "Hasta": "2024/12/08 08:00",
+         "URL": "https://sharewareonsale.com/s/free-aiarty-image-matting-with-ai-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/11/image-matting-giveaway.png?7462",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
