@@ -159,6 +159,8 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 eu.uncoverarching.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 feedyourtralala.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 films.hdflix.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 greerogloo.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 cordinganeuria.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 funnyestdating.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 g6ytec.cfd #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 gagheroinintact.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
