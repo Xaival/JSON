@@ -1,226 +1,6 @@
 {
-   "date_update": "11 Dec 2024 17:02 UTC",
+   "date_update": "12 Dec 2024 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Once Human",
-         "Informacion": "Once Human es un juego de supervivencia multijugador de mundo abierto ambientado en un extra\u00f1o futuro postapocal\u00edptico. \u00danete a tus amigos para luchar contra monstruos enemigos, descubrir conspiraciones secretas, competir por recursos y construir tu propio territorio. Antes, eras simplemente un humano. Ahora, tienes el poder de rehacer el mundo.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:00",
-         "URL": "https://store.steampowered.com/app/2139460/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PUBG: BATTLEGROUNDS",
-         "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia original de Battle Royale que solo PUBG: BATTLEGROUNDS puede ofrecer.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:00",
-         "URL": "https://store.steampowered.com/app/578080/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Tom Clancy's Rainbow Six\u00ae Siege",
-         "Informacion": "\u00a1Juega gratis! Tom Clancy's Rainbow Six\u00ae Siege es un juego de disparos t\u00e1ctico de \u00e9lite en equipo en el que triunfan la planificaci\u00f3n y la ejecuci\u00f3n superiores.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:00",
-         "URL": "https://store.steampowered.com/app/359550/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Trackmania",
-         "Informacion": "\u00a1Bienvenido al Club! Coge el volante y juega a Trackmania\u00ae GRATIS ahora.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:00",
-         "URL": "https://store.steampowered.com/app/2225070/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "1000 Missiles by Dancing Dots",
-         "Informacion": "Objetivo: defender tu naci\u00f3n de 1000 ataques de misiles enemigos utilizando sistemas antia\u00e9reos (AA).",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/1000-missiles",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2MjI4Ni8xNjQ4NzYzMS5wbmc=/347x500/pKCXAX.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
-         "Informacion": "En una elecci\u00f3n elegante, tu misi\u00f3n es asegurar puntos de victoria ganando estados en el continente elegante. Cada estado contiene ciudades con diferentes valores de poblaci\u00f3n y el jugador compite con un oponente NPC para obtener una mayor\u00eda de votos en estas ciudades. El objetivo es ganar m\u00e1s estados que tu oponente aumentando tus cifras de votaci\u00f3n en cada ciudad mediante clics estrat\u00e9gicos.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/a-dandy-election",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk2NDcxOS8xNzczMjM5NC5wbmc=/347x500/gfz75C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Tral! by Dancing Dots",
-         "Informacion": "Battle Hell: Tral! Un simulador de guerra de IA: presencia batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/battle-hell-tral",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDMxMy8xNzgyODI2MC5wbmc=/347x500/U5cHon.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Bots of Boria by Dancing Dots",
-         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/bots-of-boria",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyODM3NS8xNjI3Mjk2NC5wbmc=/347x500/fqD1mf.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Duels of The Nombish by Dancing Dots",
-         "Informacion": "Domina las calles peligrosas de Gato-Cat: \u00a1convi\u00e9rtete en el duelista definitivo en este juego de disparos estilo arcade!",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/duels-of-the-nombish",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgwODQxMy8xNjc3MTk1OS5wbmc=/347x500/kkbXxV.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Gods of Crastle by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a \"Gods of Crastle\", el reino de la guerra santa donde lideras a los adoradores de tu culto hacia la victoria! Participa en batallas \u00e9picas y crea estrategias mientras luchas por conquistar la tierra de Crastle y establecer tu dominio.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/gods-of-crastle",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg1NDEwNi8xNzA1OTc2MS5wbmc=/347x500/%2FnlL5B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Orbital Empires by Dancing Dots",
-         "Informacion": "Observa c\u00f3mo las facciones de IA luchan por el control de la galaxia.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/orbital-empires",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzg1Mi8xNjkyNTI5NS5wbmc=/347x500/zvMnGO.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Veins : Hearts At War by Dancing Dots",
-         "Informacion": "Veins es un juego inactivo minimalista s\u00faper simple. Observa c\u00f3mo los corazones de colores bombean y luchan por el control de la pantalla mientras extienden sus vastas redes de venas invasivas.",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/veins",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyMTQzMi8xNjg1NDI4Mi5wbmc=/347x500/Ir0SLX.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Wysaddle Tribe Simulator: 2D Spectator Experience by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a los bosques de Wysaddle!",
-         "Desde": "",
-         "Hasta": "2024/12/11 10:59",
-         "URL": "https://15joldersmat.itch.io/wysaddle",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1MTQ3NC8xNjY4ODc0OC5wbmc=/347x500/HWWyzT.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Being Stalked by GamingTGT",
-         "Informacion": "Un chico regresa a su dormitorio y descubre que no hay comida. Sali\u00f3 y descubri\u00f3 que le suced\u00edan cosas y eventos extra\u00f1os.",
-         "Desde": "",
-         "Hasta": "2024/12/11 13:00",
-         "URL": "https://tgtstudio.itch.io/being-stalked",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA0MTMyMy8xODE4OTY3OC5naWY=/347x500/W7Wtgf.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
-      },
-      {
-         "Nombre": "Midnight Snack by GamingTGT",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/11 13:00",
-         "URL": "https://tgtstudio.itch.io/midnight-snack",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NjI3MC8xODkwODI3NC5qcGc=/347x500/hUH9oC.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
-      },
-      {
-         "Nombre": "D.R.K 2 by QiroBite",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/11 17:56",
-         "URL": "https://qirobite.itch.io/drk-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM1MDA2MC8xMzkyMDc3MC5wbmc=/347x500/%2BFhVyf.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "50 Fantasy LUTs",
-         "Informacion": "\u00bfEst\u00e1s cansado de a\u00f1adir los mismos efectos a tus fotos una y otra vez? \u00a1Ser\u00eda genial si pudieras a\u00f1adir efectos \u00fanicos a tus fotos y hacer que todos se pregunten c\u00f3mo lo hiciste! Te presentamos la colecci\u00f3n m\u00e1s diversa de LUT para verdaderos profesionales. \u00a1Con unos pocos clics, puedes a\u00f1adir efectos asombrosos a tus fotos! \u00a1Es muy simple!",
-         "Desde": "",
-         "Hasta": "2024/12/12 08:00",
-         "URL": "https://sharewareonsale.com/s/free-50-fantasy-luts-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/Fantasy-LUTs.jpg?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "FolderMatch",
-         "Informacion": "FolderMatch es un galardonado software de Windows que facilita la comparaci\u00f3n de carpetas y archivos y la b\u00fasqueda de archivos duplicados. Ganador del prestigioso premio Shareware Industry Award durante tres a\u00f1os consecutivos, FolderMatch es un seguro imprescindible contra la p\u00e9rdida de datos.",
-         "Desde": "",
-         "Hasta": "2024/12/12 08:00",
-         "URL": "https://sharewareonsale.com/s/free-foldermatch-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/fm-2024_boxshot_400px.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Product Key Recovery Tool 2",
-         "Informacion": "A menudo sucede que, por alguna raz\u00f3n, necesitas reinstalar tu computadora, pero no puedes encontrar las claves de instalaci\u00f3n de tu software y juegos favoritos o pagos. Tambi\u00e9n te enfrentas al mismo problema si reemplazas la computadora vieja por una nueva y quieres transferir esos mismos programas y juegos, pero a\u00fan no recuerdas d\u00f3nde has puesto el CD que contiene la clave.",
-         "Desde": "",
-         "Hasta": "2024/12/12 08:00",
-         "URL": "https://sharewareonsale.com/s/free-product-key-recovery-tool-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/pkrt-3d-box_600x800.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Sticky Password Premium",
-         "Informacion": "No olvides nunca m\u00e1s una contrase\u00f1a.",
-         "Desde": "",
-         "Hasta": "2024/12/12 09:00",
-         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/sticky-password-premium-.ddr0.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Five Shoots at Bob: FUNTIMEKILLER by QuadsS",
          "Informacion": "El juego a\u00fan est\u00e1 en acceso anticipado y se actualizar\u00e1, se agregar\u00e1n m\u00e1s niveles, armas y enemigos.",
@@ -229,7 +9,7 @@
          "URL": "https://quadss.itch.io/five-shoots-at-bob-funtimekiller",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzEzNTAzNi8xODczMDM3Ny5wbmc=/347x500/ar%2F5Ox.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "spiral paint: shoot & create! by CLIFF GAMES",
@@ -239,7 +19,7 @@
          "URL": "https://mohamadalatal.itch.io/spiral-paint-shoot-create",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzEyNjkzOS8xODY4Mzc4OS5wbmc=/347x500/JsBcsA.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "PC Trek Product Key Recovery Tool License Key Free 2024",
@@ -249,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/pc-trek-product-key-recovery-tool-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/02/pc-trek-product-key-recovery-tool-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Alfa eBooks Manager License Key Free 2024",
@@ -259,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/alfa-ebooks-manager-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/01/Alfa-eBooks-Manager-Boxshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Bus Simulator 21 Next Stop",
@@ -269,7 +49,7 @@
          "URL": "https://store.epicgames.com/p/bus-simulator-21",
          "IMG": "https://cdn1.epicgames.com/offer/2b09519576cb4276bfd8df52f5288e4a/EGS_BusSimulator21NextStop_stillalivestudios_S1_2560x1440-ae24be3577061e1b8f850fffe2e5b3a8",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "LEGO\u00ae Star Wars\u2122: La Saga Skywalker",
@@ -279,7 +59,7 @@
          "URL": "https://store.epicgames.com/p/lego-star-wars-the-skywalker-saga",
          "IMG": "https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S1_2560x1440-ae89e9c91aec1e461148f93f25b828ed",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Apeaksoft iPhone Eraser Registration Code 1-Year Free",
@@ -289,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/apeaksoft-iphone-eraser-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/01/apeaksoft-iphone-eraser-coupon-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Their Navy Is Their Doom by PressFstudio",
@@ -299,7 +79,7 @@
          "URL": "https://pressfstudio.itch.io/their-navy-is-their-doom",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk4OTEzMC8xODA3NDE2Ny5wbmc=/347x500/nENjVH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "PDF Slideshow Pro",
@@ -309,7 +89,17 @@
          "URL": "https://sharewareonsale.com/s/free-pdf-slideshow-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/pdfslideshow-box2.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "Hard Disk Sentinel Standard Edition",
+         "Informacion": "Controle la salud de su disco duro",
+         "Desde": "",
+         "Hasta": "2024/12/13 09:00",
+         "URL": "https://www.bitsdujour.com/software/hard-disk-sentinel/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/hard-disk-sentinel-4h1bf.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "PDF Slideshow Pro License Key Free 2024",
@@ -318,6 +108,16 @@
          "Hasta": "2024/12/13 14:00",
          "URL": "https://giveaway.tickcoupon.com/pdf-slideshow-pro-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/12/pdf-slideshow-pro.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MobiKin Eraser for Android License Key Free 1-Year",
+         "Informacion": "Como sugiere el nombre, MobiKin Eraser para Android puede eliminar o borrar permanentemente todos los datos e historial de tu dispositivo Android con simples clics. Esto significa que cuando eliminas archivos, esta herramienta puede escanear y sobrescribir los archivos eliminados en tu dispositivo Android, lo que garantiza que los datos borrados no se recuperar\u00e1n. Con esta herramienta, tambi\u00e9n puedes eliminar datos privados como cuentas, contrase\u00f1as, registros de transacciones, etc., de dispositivos Android sin posibilidad de recuperaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2024/12/13 15:00",
+         "URL": "https://giveaway.tickcoupon.com/mobikin-eraser-for-android-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/07/MobiKin-Eraser-for-Android.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -382,92 +182,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Make Money Simulation by Abhas Sinha",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/15 17:01",
-         "URL": "https://gwa123.itch.io/make-money-simulation",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MDI4OS8xNjY1NDk2NS5qcGc=/347x500/%2Bnko5H.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Boke by Abhas Sinha",
-         "Informacion": "Boke es un juego basado en RPG en el que...",
-         "Desde": "",
-         "Hasta": "2024/12/15 17:01",
-         "URL": "https://gwa123.itch.io/boke",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxMTk0Ni8xNTU1NzAwMy5wbmc=/347x500/18U89k.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Doctor Abhas by Abhas Sinha",
-         "Informacion": "Doctor Abhas es un juego en el que debes matar los g\u00e9rmenes debajo del cuerpo de los pacientes.",
-         "Desde": "",
-         "Hasta": "2024/12/15 17:01",
-         "URL": "https://gwa123.itch.io/doctor-abhas",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzOTQ5Ny8xMDc5NDEyNy5qcGc=/347x500/OSzTih.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Champion by Abhas Sinha",
-         "Informacion": "Si te gusto este juego y quieres ver m\u00e1s no olvides seguirme! :D",
-         "Desde": "",
-         "Hasta": "2024/12/15 17:01",
-         "URL": "https://gwa123.itch.io/champion",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc0MzM0NS8xMDI1OTE4Ni5qcGc=/347x500/O7Fo1E.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Fight With Assassination Creed by Abhas Sinha",
-         "Informacion": "Assassin's Creed es una pel\u00edcula de acci\u00f3n y ciencia ficci\u00f3n dist\u00f3pica de 2016 basada en la franquicia de videojuegos del mismo nombre.",
-         "Desde": "",
-         "Hasta": "2024/12/15 17:01",
-         "URL": "https://gwa123.itch.io/fight-with-assassi",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTczNTQyOS8xMDIxNTM2Ny5qcGc=/347x500/%2FRQjF3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zizzy Zombie by Abhas Sinha",
-         "Informacion": "Este es un juego de zombies. En este juego tienes que matar a todos los zombies.",
-         "Desde": "",
-         "Hasta": "2024/12/15 17:01",
-         "URL": "https://gwa123.itch.io/zizzy-zombie",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTczMjU4Mi8xMDE5OTgxMy5qcGc=/347x500/e%2BRnyR.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Brawl Star Simulator by Abhas Sinha",
-         "Informacion": "Brawl Stars es un videojuego de disparos en tercera persona y de batalla en l\u00ednea multijugador desarrollado y publicado por la compa\u00f1\u00eda finlandesa de videojuegos Supercell. Se lanz\u00f3 en todo el mundo el 12 de diciembre de 2018 en iOS y Android. El juego cuenta con varios modos de juego, cada uno con un objetivo diferente.",
-         "Desde": "",
-         "Hasta": "2024/12/15 17:01",
-         "URL": "https://gwa123.itch.io/brawl-star-simulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTczMjQ5OC8xMDE5OTI4NC5qcGc=/347x500/iuavI%2B.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Basketball by Abhas Sinha",
          "Informacion": "Este es un juego de baloncesto en el que puedes jugar en modo multijugador o en modo individual.",
          "Desde": "",
          "Hasta": "2024/12/15 17:01",
          "URL": "https://gwa123.itch.io/football",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcyODQxMy8xMDE3ODQyNC5qcGc=/347x500/trljfa.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Theme Park Tycoon by Abhas Sinha",
-         "Informacion": "Juego Theme Park Tycoon, tambi\u00e9n conocido como juegos de simulaci\u00f3n econ\u00f3mica o juegos de magnate, este juego se centra en la gesti\u00f3n de los procesos econ\u00f3micos que se realizan despu\u00e9s de agregar un puesto al patio de juegos.",
-         "Desde": "",
-         "Hasta": "2024/12/15 17:01",
-         "URL": "https://gwa123.itch.io/theme-park-tycoon",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyNjk2Ny8xMDE3MDQ4Ni5qcGc=/347x500/0Wv9qz.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -482,12 +202,72 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Boke by Abhas Sinha",
+         "Informacion": "Boke es un juego basado en RPG en el que...",
+         "Desde": "",
+         "Hasta": "2024/12/15 17:01",
+         "URL": "https://gwa123.itch.io/boke",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxMTk0Ni8xNTU1NzAwMy5wbmc=/347x500/18U89k.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Brawl Star Simulator by Abhas Sinha",
+         "Informacion": "Brawl Stars es un videojuego de disparos en tercera persona y de batalla en l\u00ednea multijugador desarrollado y publicado por la compa\u00f1\u00eda finlandesa de videojuegos Supercell. Se lanz\u00f3 en todo el mundo el 12 de diciembre de 2018 en iOS y Android. El juego cuenta con varios modos de juego, cada uno con un objetivo diferente.",
+         "Desde": "",
+         "Hasta": "2024/12/15 17:01",
+         "URL": "https://gwa123.itch.io/brawl-star-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTczMjQ5OC8xMDE5OTI4NC5qcGc=/347x500/iuavI%2B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Champion by Abhas Sinha",
+         "Informacion": "Si te gusto este juego y quieres ver m\u00e1s no olvides seguirme! :D",
+         "Desde": "",
+         "Hasta": "2024/12/15 17:01",
+         "URL": "https://gwa123.itch.io/champion",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc0MzM0NS8xMDI1OTE4Ni5qcGc=/347x500/O7Fo1E.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Doctor Abhas by Abhas Sinha",
+         "Informacion": "Doctor Abhas es un juego en el que debes matar los g\u00e9rmenes debajo del cuerpo de los pacientes.",
+         "Desde": "",
+         "Hasta": "2024/12/15 17:01",
+         "URL": "https://gwa123.itch.io/doctor-abhas",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgzOTQ5Ny8xMDc5NDEyNy5qcGc=/347x500/OSzTih.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fight With Assassination Creed by Abhas Sinha",
+         "Informacion": "Assassin's Creed es una pel\u00edcula de acci\u00f3n y ciencia ficci\u00f3n dist\u00f3pica de 2016 basada en la franquicia de videojuegos del mismo nombre.",
+         "Desde": "",
+         "Hasta": "2024/12/15 17:01",
+         "URL": "https://gwa123.itch.io/fight-with-assassi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTczNTQyOS8xMDIxNTM2Ny5qcGc=/347x500/%2FRQjF3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Its Time To Fight by Abhas Sinha",
          "Informacion": "Its Time To Fight es un g\u00e9nero de videojuego en el que el jugador controla un personaje (o personajes) ficticio que emprende una misi\u00f3n en un mundo imaginario. Definir los juegos de rol es un gran desaf\u00edo debido a la variedad de g\u00e9neros h\u00edbridos que tienen elementos de los juegos de rol.",
          "Desde": "",
          "Hasta": "2024/12/15 17:01",
          "URL": "https://gwa123.itch.io/its-time-to-fight",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTcxOTMzNC8xMDEyNzU3OS5qcGc=/347x500/e5rLKQ.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Make Money Simulation by Abhas Sinha",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/12/15 17:01",
+         "URL": "https://gwa123.itch.io/make-money-simulation",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc5MDI4OS8xNjY1NDk2NS5qcGc=/347x500/%2Bnko5H.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -518,6 +298,26 @@
          "Hasta": "2024/12/15 17:01",
          "URL": "https://gwa123.itch.io/the-whole-world",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMxNjI0MC83NjUzMjgxLnBuZw==/347x500/6%2BJiZ6.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Theme Park Tycoon by Abhas Sinha",
+         "Informacion": "Juego Theme Park Tycoon, tambi\u00e9n conocido como juegos de simulaci\u00f3n econ\u00f3mica o juegos de magnate, este juego se centra en la gesti\u00f3n de los procesos econ\u00f3micos que se realizan despu\u00e9s de agregar un puesto al patio de juegos.",
+         "Desde": "",
+         "Hasta": "2024/12/15 17:01",
+         "URL": "https://gwa123.itch.io/theme-park-tycoon",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcyNjk2Ny8xMDE3MDQ4Ni5qcGc=/347x500/0Wv9qz.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zizzy Zombie by Abhas Sinha",
+         "Informacion": "Este es un juego de zombies. En este juego tienes que matar a todos los zombies.",
+         "Desde": "",
+         "Hasta": "2024/12/15 17:01",
+         "URL": "https://gwa123.itch.io/zizzy-zombie",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTczMjU4Mi8xMDE5OTgxMy5qcGc=/347x500/e%2BRnyR.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -572,6 +372,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Get Coolmuster iOS Eraser 1-Year Free License Key Giveaway",
+         "Informacion": "Coolmuster iOS Eraser te permite borrar de forma completa y permanente todos los datos de tus iDevices y liberar espacio en tu dispositivo. Puede borrar datos privados como registros bancarios, cuentas y contrase\u00f1as, datos financieros, etc., y datos existentes como fotos, videos, mensajes de texto, registros de llamadas, etc.",
+         "Desde": "",
+         "Hasta": "2024/12/17 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-eraser-full-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/coolmuster-ios-eraser.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Nero AI Image Upscaler",
          "Informacion": "Nero AI Image Upscaler: simplemente mejora el tama\u00f1o de las im\u00e1genes",
          "Desde": "",
@@ -592,6 +402,56 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Once Human",
+         "Informacion": "Once Human es un juego de supervivencia multijugador de mundo abierto ambientado en un extra\u00f1o futuro postapocal\u00edptico. \u00danete a tus amigos para luchar contra monstruos enemigos, descubrir conspiraciones secretas, competir por recursos y construir tu propio territorio. Antes, eras simplemente un humano. Ahora, tienes el poder de rehacer el mundo.",
+         "Desde": "",
+         "Hasta": "2024/12/18 10:00",
+         "URL": "https://store.steampowered.com/app/2139460/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The First Descendant",
+         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
+         "Desde": "",
+         "Hasta": "2024/12/18 10:00",
+         "URL": "https://store.steampowered.com/app/2074920/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PUBG: BATTLEGROUNDS",
+         "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia original de Battle Royale que solo PUBG: BATTLEGROUNDS puede ofrecer.",
+         "Desde": "",
+         "Hasta": "2024/12/18 10:00",
+         "URL": "https://store.steampowered.com/app/578080/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Counter-Strike 2",
+         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
+         "Desde": "",
+         "Hasta": "2024/12/18 10:00",
+         "URL": "https://store.steampowered.com/app/730/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Trackmania",
+         "Informacion": "\u00a1Bienvenido al Club! Coge el volante y juega a Trackmania\u00ae GRATIS ahora.",
+         "Desde": "",
+         "Hasta": "2024/12/18 10:00",
+         "URL": "https://store.steampowered.com/app/2225070/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wawi's Mod 3 by MundoRaroXd",
          "Informacion": "Una parodia de juego 2D gratuita de Garry's Mod en el que puedes generar entidades como enemigos o aliados y construir sistemas de trampas y realizar juegos de roles.",
          "Desde": "",
@@ -602,6 +462,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo UnInstaller 14",
+         "Informacion": "Ashampoo\u00ae UnInstaller 14 elimina programas no deseados sin dejar rastros. Cinco m\u00e9todos de eliminaci\u00f3n complementarios se encargan de las aplicaciones, as\u00ed como de las aplicaciones y complementos de Windows, y garantizan su eliminaci\u00f3n total.",
+         "Desde": "",
+         "Hasta": "2024/12/19 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-14-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/submit-1.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Mystery Game 1",
          "Informacion": "Mystery Game 1",
          "Desde": "2024/12/12",
@@ -609,7 +479,17 @@
          "URL": "https://store.epicgames.com/es-ES/free-games",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Lord of The Rings Return to Moria",
+         "Informacion": "The Lord of The Rings Return to Moria",
+         "Desde": "2024/12/12",
+         "Hasta": "2024/12/19 17:00",
+         "URL": "https://store.epicgames.com/p/the-lord-of-the-rings-return-to-moria-f01344",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_Game1_1080x1920_1920x1080-86e04a5abce8b42fb56bdfe41d103bba",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Ashampoo Backup Pro 25",
@@ -828,6 +708,56 @@
          "Hasta": "2024/12/26 00:14",
          "URL": "https://egg12345.itch.io/scmallum-the-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NDk2NC8xNDQ4NTMxMC5wbmc=/347x500/AZt7Ak.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mathmare Lore Launcher by Strikeforce Studio",
+         "Informacion": "Lore Launcher es un lanzador que tiene minijuegos que te cuentan la historia de los juegos de Mathmare.",
+         "Desde": "",
+         "Hasta": "2024/12/26 04:35",
+         "URL": "https://strikeforce-studio.itch.io/mathmare-lore-launcher",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyODM4Mi8xNzU0NzA1NS5wbmc=/347x500/mkdPoj.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mathmare (Full) by Strikeforce Studio",
+         "Informacion": "\u00a1Consigue el juego COMPLETO hoy mismo! \u00a1Viene con un modo desaf\u00edo y m\u00e1s contenido del juego!",
+         "Desde": "",
+         "Hasta": "2024/12/26 04:35",
+         "URL": "https://strikeforce-studio.itch.io/mathmare-full",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyMTA0Ni8xNzU0MzgyMS5wbmc=/347x500/sH%2BakH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mathmare Nightmare Edition by Strikeforce Studio",
+         "Informacion": "\u00bfEl juego completo no es lo suficientemente ASUSTADOR? \u00bfO no quieres comprarlo ni el DLC? Te presento la Nightmare Edition, que combina el juego completo y el DLC juntos y espera... \u00a1HAY M\u00c1S! \u00a1Obtienes todo el contenido futuro para Mathmare 1 GRATIS y obt\u00e9n informaci\u00f3n EXCLUSIVA para Mathmare 2! \u00a1TAMBI\u00c9N OBTIENES ACCESO ANTICIPADO A LA BETA DE MATHMARE 2!",
+         "Desde": "",
+         "Hasta": "2024/12/26 04:35",
+         "URL": "https://strikeforce-studio.itch.io/mathmare-nightmare-edition",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyMTAyNy8xNzU0MzkyMC5wbmc=/347x500/nUEkOG.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mathmare Holidays DLC by Strikeforce Studio",
+         "Informacion": "MATHMARE \u00a1pero con tem\u00e1tica navide\u00f1a!",
+         "Desde": "",
+         "Hasta": "2024/12/26 04:35",
+         "URL": "https://strikeforce-studio.itch.io/mathmare-holidays-edition",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2MTY3NC8xNzU0NDE0Ni5wbmc=/347x500/9%2F0Wjy.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mathmare Mobile Early Access by Strikeforce Studio",
+         "Informacion": "Obtenga acceso anticipado hoy",
+         "Desde": "",
+         "Hasta": "2024/12/26 04:35",
+         "URL": "https://strikeforce-studio.itch.io/mathmare-mobile-pre-order",
+         "IMG": "https://img.itch.zone/aW1nLzE2OTczNTQ1LnBuZw==/347x500/Pws408.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1168,6 +1098,16 @@
          "Hasta": "2024/12/31 10:00",
          "URL": "https://falsevacuum.itch.io/linda-joan-prologue",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjE0MjY2LzM3MzE1NTIuanBn/347x500/LRuXyS.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shattered Dreams by PolyhistorGaming",
+         "Informacion": "El juego actual incluye dos canciones y acertijos para desafiar tu mente y entretenerte. C\u00f3mpralo ahora a un precio m\u00e1s bajo: se lanzar\u00e1n m\u00e1s episodios en el futuro y el precio aumentar\u00e1 a medida que el juego crezca. \u00a1C\u00f3mpralo con anticipaci\u00f3n y ahorra! El pr\u00f3ximo episodio se lanzar\u00e1 en enero.",
+         "Desde": "",
+         "Hasta": "2024/12/31 10:34",
+         "URL": "https://polyhistorgaming.itch.io/shattered-dreams",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NDc4My8xODkwMDk5Mi5wbmc=/347x500/q7cevz.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1519,6 +1459,16 @@
          "URL": "https://archimedean-gaming.itch.io/beanman",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU3Nzk3OS8xNTM0NTY1NS5wbmc=/347x500/nPryXH.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DoYourClone for Windows License Key Free 2024",
+         "Informacion": "DoYourClone para Windows es un programa de clonaci\u00f3n de discos f\u00e1cil de usar, potente y 100 % seguro. Puede ayudarlo a clonar de manera f\u00e1cil y segura un sistema de disco duro, HDD, SSD, unidad flash USB, tarjeta de memoria, RAID, servidor, etc. Es totalmente compatible con los sistemas operativos Windows 10, Windows 8/8.1, Windows 7, Windows Vista y Windows Server.",
+         "Desde": "",
+         "Hasta": "2025/01/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/doyourclone-for-windows-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/03/doyourclone-for-windows-2022.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1899,7 +1849,7 @@
          "URL": "https://store.epicgames.com/p/cat-quest-ii-9dbefc",
          "IMG": "https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Vovsoft Text to MP3 Converter License Key for Free",
