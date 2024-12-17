@@ -1,85 +1,15 @@
 {
-   "date_update": "16 Dec 2024 17:02 UTC",
+   "date_update": "17 Dec 2024 17:02 UTC",
    "values": [
       {
-         "Nombre": "Squad 44",
-         "Informacion": "\u00a1Juega gratis! Forma equipo y \u00fanete al frente en Squad 44, el shooter t\u00e1ctico de la Segunda Guerra Mundial m\u00e1s aut\u00e9ntico. Experimenta un realismo despiadado con un inmenso arsenal de armas y veh\u00edculos recreados fielmente en enormes campos de batalla de la Segunda Guerra Mundial.",
+         "Nombre": "Sticky Password Premium",
+         "Informacion": "No olvides nunca m\u00e1s una contrase\u00f1a.",
          "Desde": "",
-         "Hasta": "2024/12/16 10:00",
-         "URL": "https://store.steampowered.com/app/736220/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/736220/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "BloodWood by LouisGames",
-         "Informacion": "Inmerso en un bosque denso y misterioso en una isla olvidada, est\u00e1s en busca de un artefacto precioso, un objeto raro que podr\u00eda cambiar el curso de la historia. Pero no est\u00e1s solo. Las sombras se mueven, los enemigos acechan cada uno de tus movimientos y cada paso podr\u00eda ser el \u00faltimo. En Bloodwood, la supervivencia no es una opci\u00f3n, es una lucha. Explora, esquiva y supera tus l\u00edmites para lograr tu objetivo. \u00bfPodr\u00e1s salir vivo de este maldito bosque?",
-         "Desde": "",
-         "Hasta": "2024/12/16 18:40",
-         "URL": "https://louisgames.itch.io/bloodwood",
-         "IMG": "https://img.itch.zone/aW1nLzE4ODkwMjIwLnBuZw==/347x500/n79DIY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Mr. Palesterg EFTP Holiday Edition by PixelSpeed",
-         "Informacion": "-Historia-",
-         "Desde": "",
-         "Hasta": "2024/12/16 19:50",
-         "URL": "https://pixelspeed.itch.io/mr-palesterg-eftp-holiday-edition",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NTg4My8xODkwNjU4Ni5naWY=/347x500/kjf7B5.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "Mr. Palesterg Echoes From The Past by PixelSpeed",
-         "Informacion": "-Historia-",
-         "Desde": "",
-         "Hasta": "2024/12/16 19:50",
-         "URL": "https://pixelspeed.itch.io/mr-palesterg-echoes-from-the-past",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzEyNTQ5MC8xODY5ODE1Ni5naWY=/347x500/a%2FrMvj.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "Mr. Palesterg: EFTP Post Halloween Edition by PixelSpeed",
-         "Informacion": "-Historia-",
-         "Desde": "",
-         "Hasta": "2024/12/16 19:50",
-         "URL": "https://pixelspeed.itch.io/mr-palesterg-eftp-post-halloween-edition",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3NzY4NC8xODQ3NjIxNC5wbmc=/347x500/KYTHYL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster Data Recovery 1-Year License Key Free",
-         "Informacion": "Coolmuster Data Recovery es un software de recuperaci\u00f3n de datos profesional y completo. Combina una interfaz de usuario muy intuitiva para ayudar a los usuarios a recuperar archivos eliminados, formateados o inaccesibles de todo tipo de discos duros. Esta herramienta permite que cualquier persona recupere documentos, correos electr\u00f3nicos, fotos, videos, archivos de audio y m\u00e1s de varios discos.",
-         "Desde": "",
-         "Hasta": "2024/12/17 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-data-recovery-free-license-code/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/11/coolmuster-data-recovery.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Get Coolmuster iOS Eraser 1-Year Free License Key Giveaway",
-         "Informacion": "Coolmuster iOS Eraser te permite borrar de forma completa y permanente todos los datos de tus iDevices y liberar espacio en tu dispositivo. Puede borrar datos privados como registros bancarios, cuentas y contrase\u00f1as, datos financieros, etc., y datos existentes como fotos, videos, mensajes de texto, registros de llamadas, etc.",
-         "Desde": "",
-         "Hasta": "2024/12/17 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-eraser-full-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/02/coolmuster-ios-eraser.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Nero AI Image Upscaler",
-         "Informacion": "Nero AI Image Upscaler: simplemente mejora el tama\u00f1o de las im\u00e1genes",
-         "Desde": "",
-         "Hasta": "2024/12/17 08:00",
-         "URL": "https://sharewareonsale.com/s/free-nero-ai-image-upscaler-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/05/Photo-enlarger-with-Nero-AI-Image-Upscaler.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+         "Hasta": "2024/12/18 09:00",
+         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/sticky-password-premium-.ddr0.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Counter-Strike 2",
@@ -162,12 +92,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "MiniTool ShadowMaker Pro 6-Month License Key Free",
+         "Informacion": "MiniTool ShadowMaker Pro es un software de copia de seguridad de datos profesional que ayuda a los usuarios a crear, administrar y restaurar datos de copia de seguridad de unidades de computadora o unidades externas. Con su ayuda, puede sincronizar los archivos y carpetas abiertos con otras ubicaciones para mantener sus datos seguros. Tambi\u00e9n lo ayuda a realizar copias de seguridad de archivos y carpetas para restaurarlos en caso de que los archivos se pierdan o eliminen.",
+         "Desde": "",
+         "Hasta": "2024/12/19 07:00",
+         "URL": "https://giveaway.tickcoupon.com/minitool-shadowmaker-pro-for-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/03/minitool-shadowmaker-pro.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo UnInstaller 14",
          "Informacion": "Ashampoo\u00ae UnInstaller 14 elimina programas no deseados sin dejar rastros. Cinco m\u00e9todos de eliminaci\u00f3n complementarios se encargan de las aplicaciones, as\u00ed como de las aplicaciones y complementos de Windows, y garantizan su eliminaci\u00f3n total.",
          "Desde": "",
          "Hasta": "2024/12/19 08:00",
          "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-14-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/submit-1.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Glary Malware Hunter Pro",
+         "Informacion": "Malware Hunter es un producto galardonado que ofrece protecci\u00f3n integral contra todo tipo de amenazas, protege sus datos, protege su privacidad y garantiza que su PC se mantenga libre de virus. Hyper Scan le permite disfrutar de una velocidad de escaneo m\u00e1s r\u00e1pida. Detecta y elimina malware persistente contra posibles peligros.",
+         "Desde": "",
+         "Hasta": "2024/12/19 08:00",
+         "URL": "https://sharewareonsale.com/s/free-glary-malware-hunter-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/08/mh-200x129.png?7462",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -499,6 +449,26 @@
          "URL": "https://giveaway.tickcoupon.com/aiarty-image-matting-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/11/aiarty-image-matting-giveaway-box.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster SignPub 1 Year License Key Free",
+         "Informacion": "Coolmuster SignPub es un fant\u00e1stico software de edici\u00f3n de ePub dise\u00f1ado para editar la fuente y los errores tipogr\u00e1ficos en archivos ePub con facilidad y embellecer cualquier archivo ePub con diferentes y emocionantes efectos. Con su ayuda, puede editar las im\u00e1genes, cambiar las portadas y modificar las fuentes en sus archivos ePub, y el efecto es excelente. Varios formatos de imagen, como JPG, PNG, TIFF, GIF, etc., se pueden incrustar en cualquier libro ePub f\u00e1cilmente con la ayuda de Coolmuster SignPub.",
+         "Desde": "",
+         "Hasta": "2024/12/24 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-signpub-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/coolmuster-signpub.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Randall the Grape Jelly Cube goes to Soda Valley for some reason. by worthless_protoplasm",
+         "Informacion": "Randall, el ser con forma de cubo de gelatina de uva, se embarca en una misi\u00f3n en Soda Valley para vengarse de los monstruos que acechan en el valle (o tal vez simplemente est\u00e1 muy aburrido; nadie lo sabe con certeza). \u00c1brete paso a patadas por un valle gigante con diferentes \u00e1reas para explorar, diferentes objetos coleccionables para recoger y algunos secretos para descubrir.",
+         "Desde": "",
+         "Hasta": "2024/12/24 06:59",
+         "URL": "https://worthless-protoplasm.itch.io/randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkxOTAxOS8xNzQ4Mzk2OS5wbmc=/347x500/2NuLRZ.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1572,22 +1542,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Kings Gambit by LeashaX",
-         "Informacion": "\u00a1Un agradecimiento especial a PSYCHRONIC por crear los incre\u00edbles \u00edconos para mi juego!",
-         "Desde": "",
-         "Hasta": "2025/01/01 04:59",
-         "URL": "https://leashagamesdev.itch.io/kings-gambit",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE1Mjc3NS8xODgzMjEyNS5wbmc=/347x500/Ck48%2F%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Endless Frontier by LeashaX",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/01/01 04:59",
          "URL": "https://leashagamesdev.itch.io/endless-frontier",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzEyMjk2Ni8xODY2Mjg0OC5wbmc=/347x500/SsISQj.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kings Gambit by LeashaX",
+         "Informacion": "\u00a1Un agradecimiento especial a PSYCHRONIC por crear los incre\u00edbles \u00edconos para mi juego!",
+         "Desde": "",
+         "Hasta": "2025/01/01 04:59",
+         "URL": "https://leashagamesdev.itch.io/kings-gambit",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE1Mjc3NS8xODgzMjEyNS5wbmc=/347x500/Ck48%2F%2B.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1742,6 +1712,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "WonderFox DVD Ripper Pro License Key for Free 2024",
+         "Informacion": "WonderFox DVD Ripper Pro es una herramienta de extracci\u00f3n de DVD de m\u00e1xima velocidad que ofrece una soluci\u00f3n r\u00e1pida para extraer DVD a una amplia gama de formatos de audio y v\u00eddeo convencionales, como DVD a AVI, DVD a MP4, DVD a MKV, DVD a MPG para realizar copias de seguridad r\u00e1pidas en iPad, DVD a iPhone 6, DVD a tel\u00e9fonos Android, etc. Se han a\u00f1adido y soportado nuevos formatos multimedia. Adem\u00e1s, ofrece opciones para la edici\u00f3n de v\u00eddeo, como cortar, recortar y aplicar efectos al v\u00eddeo y al audio.",
+         "Desde": "",
+         "Hasta": "2025/01/02 00:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-ripper-pro-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/04/wonderfox-dvd-ripper-pro-free-key-giveaway.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "BLIODNIUM by Aether.Code!",
          "Informacion": "En \"Bliodnium\" pondr\u00e1s a prueba tus habilidades superando los retos y recogiendo cristales. Controlar\u00e1s una peque\u00f1a bola en un entorno con algunos obst\u00e1culos, algunos muy dif\u00edciles, otros no tanto, supera los obst\u00e1culos y domina cada nivel. \u00bfPodr\u00e1s?",
          "Desde": "",
@@ -1769,6 +1749,16 @@
          "URL": "https://rocketlex.itch.io/new-meat",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk2NjM0My8xNzc0MTI5My5wbmc=/347x500/9QAHs6.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Photo Watermark Software License Key Free 2024",
+         "Informacion": "Photo Watermark Software es un software fotogr\u00e1fico todo en uno que se centra en proteger los derechos de autor de las fotograf\u00edas mediante la aplicaci\u00f3n por lotes de firmas y marcas de agua en im\u00e1genes con unos pocos clics. Admite mosaicos, bokeh y cientos de otros efectos.",
+         "Desde": "",
+         "Hasta": "2025/01/02 16:00",
+         "URL": "https://giveaway.tickcoupon.com/license-code-photo-watermark-software/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/Photo-Watermark-Software.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1962,6 +1952,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Leawo DVD Ripper Giveaway License Code 1-Year 2024",
+         "Informacion": "Leawo DVD Ripper es un software de conversi\u00f3n de DVD que puede copiar DVD y convertir DVD a video y audio en formatos de archivo populares para muchos dispositivos. Admite la conversi\u00f3n de DVD a video/audio en m\u00e1s de 180 formatos populares como MKV, MP4, MPEG, AVI, FLV, RMVB, 3GP, F4V, MP3, AAC, AMR, M4A, etc.",
+         "Desde": "",
+         "Hasta": "2025/01/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/free-key-leawo-dvd-ripper-giveaway/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/Leawo-DVD-Ripper.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Bloody Vengeance by Nutty Studios",
          "Informacion": "Este es un juego que cre\u00e9 originalmente para el game jam de ScoreSpace, desde entonces ha recibido algunas actualizaciones para mejorarlo. Todav\u00eda estoy trabajando en m\u00e1s actualizaciones, as\u00ed que espero que el juego mejore a\u00fan m\u00e1s.",
          "Desde": "",
@@ -1998,6 +1998,16 @@
          "Hasta": "2025/01/18 00:00",
          "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/Sticky-Password-Premium.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DoYourData Super Eraser Free License Key",
+         "Informacion": "Obtengamos la clave de licencia gratuita de DoYourData Super Eraser aqu\u00ed mismo para eliminar permanentemente archivos/carpetas, borrar datos del disco duro, borrar espacio en disco no utilizado o borrar datos en medios de almacenamiento sin cargo. Este software es altamente recomendado por miles de clientes en todo el mundo debido a sus funciones potentes y f\u00e1ciles de usar.",
+         "Desde": "",
+         "Hasta": "2025/01/18 00:00",
+         "URL": "https://giveaway.tickcoupon.com/doyourdata-super-eraser-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2017/04/doyourdata-super-eraser-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
