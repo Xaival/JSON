@@ -1,16 +1,6 @@
 {
-   "date_update": "17 Dec 2024 17:02 UTC",
+   "date_update": "18 Dec 2024 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Sticky Password Premium",
-         "Informacion": "No olvides nunca m\u00e1s una contrase\u00f1a.",
-         "Desde": "",
-         "Hasta": "2024/12/18 09:00",
-         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/sticky-password-premium-.ddr0.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Counter-Strike 2",
          "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
@@ -19,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/730/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Once Human",
@@ -29,7 +19,7 @@
          "URL": "https://store.steampowered.com/app/2139460/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Pankapu",
@@ -39,7 +29,7 @@
          "URL": "https://store.steampowered.com/app/418670/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/418670/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "PUBG: BATTLEGROUNDS",
@@ -49,7 +39,7 @@
          "URL": "https://store.steampowered.com/app/578080/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "The First Descendant",
@@ -59,7 +49,7 @@
          "URL": "https://store.steampowered.com/app/2074920/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Trackmania",
@@ -69,7 +59,7 @@
          "URL": "https://store.steampowered.com/app/2225070/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Wawi's Mod 3 by MundoRaroXd",
@@ -79,7 +69,7 @@
          "URL": "https://mundoraroxd.itch.io/wawis-mod-3",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzAzMzE5NC8xODE0MTIyMC5wbmc=/347x500/9ispvL.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
       },
       {
          "Nombre": "Mannequin House : Requiem by Bored Leviathan",
@@ -89,7 +79,7 @@
          "URL": "https://boredleviathan.itch.io/mh-requiem",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE3ODUwOS8xODk4MjA4Ny5naWY=/347x500/IwRm%2BI.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "MiniTool ShadowMaker Pro 6-Month License Key Free",
@@ -99,7 +89,7 @@
          "URL": "https://giveaway.tickcoupon.com/minitool-shadowmaker-pro-for-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/03/minitool-shadowmaker-pro.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Ashampoo UnInstaller 14",
@@ -109,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-14-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/submit-1.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Glary Malware Hunter Pro",
@@ -119,6 +109,16 @@
          "URL": "https://sharewareonsale.com/s/free-glary-malware-hunter-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/08/mh-200x129.png?7462",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "UnHackMe 16 Full License Key Free Download",
+         "Informacion": "UnHackMe es una potente suite que permite detectar y eliminar una gran variedad de malware, incluidos troyanos, programas potencialmente no deseados y rootkits. Adem\u00e1s, comprueba si hay archivos basura, analiza el inicio de Windows, los servicios y los controladores, prueba los accesos directos de Windows, busca rootkits, prueba los archivos del host y la configuraci\u00f3n de DNS, y prueba todos los archivos utilizados en Virustotal.",
+         "Desde": "",
+         "Hasta": "2024/12/19 15:00",
+         "URL": "https://giveaway.tickcoupon.com/unhackme-free-license-key-full-download/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/unhackme-free-license-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -279,6 +279,26 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-merger-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-merger-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Unfair Square by Bukmad",
+         "Informacion": "\"Es injusto... \u00a1de la manera m\u00e1s divertida posible!\"",
+         "Desde": "",
+         "Hasta": "2024/12/20 20:00",
+         "URL": "https://bukmad.itch.io/unfair-square",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MTczNS8xODM3MTI2OC5wbmc=/347x500/JyD18m.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bamm by Bukmad",
+         "Informacion": "Bam Tradici\u00f3n:",
+         "Desde": "",
+         "Hasta": "2024/12/20 20:00",
+         "URL": "https://bukmad.itch.io/bamm",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTk2My8xNDc4MTUwNi5wbmc=/347x500/TZ4FPw.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -502,6 +522,116 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ant Download Manager PRO",
+         "Informacion": "Ant Download Manager (AntDM) es una herramienta que le permite aumentar repetidamente la velocidad de descarga de archivos debido a m\u00faltiples flujos de descarga, reanudar, programar descargas, capturar y descargar flujos de audio y video.",
+         "Desde": "",
+         "Hasta": "2024/12/25 08:00",
+         "URL": "https://sharewareonsale.com/s/ant-download-manager-giveaway-coupon-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2016/11/antbox-150x200.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores.",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego de terror corto creado en una semana.",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por Grantech.shop",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Juegos retro 5 en 1",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/stargates",
+         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ball Cave by Gman1514",
          "Informacion": "",
          "Desde": "",
@@ -599,6 +729,16 @@
          "URL": "https://gman1514.itch.io/the-fall-harvest",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDgwNi8xNzgzMDkxMy5wbmc=/347x500/gEYBSk.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ant Download Manager Pro License Giveaway Free 2024",
+         "Informacion": "Ant Download Manager es un gestor de descargas de Internet para cualquier tipo de archivo que le ayuda a descargar y gestionar v\u00eddeos. Con este software, puede descargar archivos de audio, extraer pistas de audio de archivos de v\u00eddeo y, a continuaci\u00f3n, convertirlos al popular formato MP3 y a\u00f1adirles la informaci\u00f3n b\u00e1sica correspondiente.",
+         "Desde": "",
+         "Hasta": "2024/12/25 14:00",
+         "URL": "https://giveaway.tickcoupon.com/ant-download-manager-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/05/Ant-Download-Manager-Pro.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1762,6 +1902,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Wondefox HD Video Converter Factory Pro License Key Free",
+         "Informacion": "WonderFox HD Video Converter Factory Pro es un programa para convertir archivos de v\u00eddeo. Con esta aplicaci\u00f3n, puede convertir de forma f\u00e1cil y r\u00e1pida v\u00eddeos almacenados en definici\u00f3n est\u00e1ndar a alta definici\u00f3n. Le permite adaptar materiales cinematogr\u00e1ficos para su reproducci\u00f3n en tel\u00e9fonos inteligentes, tabletas y reproductores de DVD de escritorio. Adem\u00e1s, el software de conversi\u00f3n de v\u00eddeo puede descargar v\u00eddeo y audio de Internet, editar v\u00eddeo, grabar la pantalla y crear GIF animados a partir de v\u00eddeo.",
+         "Desde": "",
+         "Hasta": "2025/01/02 23:59",
+         "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2019/12/wonderfox-hd-video-converter-factory-pro.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Farmalution-the farm frenzy! by Cheese116",
          "Informacion": "Un juego de granja relajante y econ\u00f3mico en el que los animales se comen entre s\u00ed. Esto hace que evolucionen a animales m\u00e1s grandes. Usa el dinero que tus animales defecan para comprar huevos. DIVI\u00c9RTETE",
          "Desde": "",
@@ -1942,6 +2092,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Trespasser's Labyrinth by Ethan Winters",
+         "Informacion": "Historia: Te han secuestrado y te han encerrado en unas instalaciones que parecen un laberinto. Resuelve acertijos, sobrevive a encuentros mortales con asesinos y descubre secretos para asegurar tu libertad. \u00bfPodr\u00e1s salir antes de que te conviertas en una v\u00edctima m\u00e1s de tu secuestrador?",
+         "Desde": "",
+         "Hasta": "2025/01/10 22:35",
+         "URL": "https://ethan-winters.itch.io/trespassers-labyrinth",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODE1MC8xNjY0NDE0MC5wbmc=/347x500/HvuWVd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Good Dog Show by owof games, Insalatuera, Marco Spelgatti/Queerginia Wolf, Mattia \"RedGlow\" Belletti",
          "Informacion": "Un show de talentos narrativo hecho de crimen, perros espaciales y un rosario de Gucci.",
          "Desde": "",
@@ -1982,6 +2142,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DoYourData Super Eraser Free License Key",
+         "Informacion": "Obtengamos la clave de licencia gratuita de DoYourData Super Eraser aqu\u00ed mismo para eliminar permanentemente archivos/carpetas, borrar datos del disco duro, borrar espacio en disco no utilizado o borrar datos en medios de almacenamiento sin cargo. Este software es altamente recomendado por miles de clientes en todo el mundo debido a sus funciones potentes y f\u00e1ciles de usar.",
+         "Desde": "",
+         "Hasta": "2025/01/18 00:00",
+         "URL": "https://giveaway.tickcoupon.com/doyourdata-super-eraser-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2017/04/doyourdata-super-eraser-giveaway.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Sticky Password for Mac License Key Free 1-Year",
          "Informacion": "Sticky Password para Mac es uno de los mejores administradores de contrase\u00f1as del mundo. Con muchas funciones \u00fatiles y potentes, Sticky Password es altamente recomendado por millones de usuarios. Normalmente tiene un precio de $19,99 por una clave de licencia de 1 a\u00f1o. Pero ahora puedes obtener la licencia de Sticky Password de forma gratuita.",
          "Desde": "",
@@ -1998,16 +2168,6 @@
          "Hasta": "2025/01/18 00:00",
          "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/Sticky-Password-Premium.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "DoYourData Super Eraser Free License Key",
-         "Informacion": "Obtengamos la clave de licencia gratuita de DoYourData Super Eraser aqu\u00ed mismo para eliminar permanentemente archivos/carpetas, borrar datos del disco duro, borrar espacio en disco no utilizado o borrar datos en medios de almacenamiento sin cargo. Este software es altamente recomendado por miles de clientes en todo el mundo debido a sus funciones potentes y f\u00e1ciles de usar.",
-         "Desde": "",
-         "Hasta": "2025/01/18 00:00",
-         "URL": "https://giveaway.tickcoupon.com/doyourdata-super-eraser-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2017/04/doyourdata-super-eraser-giveaway.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
