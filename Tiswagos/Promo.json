@@ -1,116 +1,6 @@
 {
-   "date_update": "18 Dec 2024 17:02 UTC",
+   "date_update": "19 Dec 2024 17:03 UTC",
    "values": [
-      {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
-         "Desde": "",
-         "Hasta": "2024/12/18 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Once Human",
-         "Informacion": "Once Human es un juego de supervivencia multijugador de mundo abierto ambientado en un extra\u00f1o futuro postapocal\u00edptico. \u00danete a tus amigos para luchar contra monstruos enemigos, descubrir conspiraciones secretas, competir por recursos y construir tu propio territorio. Antes, eras simplemente un humano. Ahora, tienes el poder de rehacer el mundo.",
-         "Desde": "",
-         "Hasta": "2024/12/18 10:00",
-         "URL": "https://store.steampowered.com/app/2139460/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Pankapu",
-         "Informacion": "Pankapu es un juego de acci\u00f3n y plataformas narrativo que se desarrolla en los sue\u00f1os de Djaha'rell, un ni\u00f1o atormentado por un tr\u00e1gico incidente. Mejora tus habilidades, encuentra nuevas competencias, cambia tu Aegis en tiempo real para deshacerte de la invasi\u00f3n de Nightmare.",
-         "Desde": "",
-         "Hasta": "2024/12/18 10:00",
-         "URL": "https://store.steampowered.com/app/418670/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/418670/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "PUBG: BATTLEGROUNDS",
-         "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia original de Battle Royale que solo PUBG: BATTLEGROUNDS puede ofrecer.",
-         "Desde": "",
-         "Hasta": "2024/12/18 10:00",
-         "URL": "https://store.steampowered.com/app/578080/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/12/18 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Trackmania",
-         "Informacion": "\u00a1Bienvenido al Club! Coge el volante y juega a Trackmania\u00ae GRATIS ahora.",
-         "Desde": "",
-         "Hasta": "2024/12/18 10:00",
-         "URL": "https://store.steampowered.com/app/2225070/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2225070/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Wawi's Mod 3 by MundoRaroXd",
-         "Informacion": "Una parodia de juego 2D gratuita de Garry's Mod en el que puedes generar entidades como enemigos o aliados y construir sistemas de trampas y realizar juegos de roles.",
-         "Desde": "",
-         "Hasta": "2024/12/18 19:35",
-         "URL": "https://mundoraroxd.itch.io/wawis-mod-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzAzMzE5NC8xODE0MTIyMC5wbmc=/347x500/9ispvL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
-      },
-      {
-         "Nombre": "Mannequin House : Requiem by Bored Leviathan",
-         "Informacion": "Una periodista decide investigar el misterio sin resolver de una casa remota vinculada a d\u00e9cadas de desapariciones. La casa ha estado abandonada durante a\u00f1os, pero su reputaci\u00f3n sigue siendo infame. Lo que comienza como una b\u00fasqueda de respuestas pronto toma un giro oscuro. Pronto se da cuenta de que no est\u00e1 sola y que descubrir la verdad puede tener un costo que no est\u00e1 dispuesta a pagar.",
-         "Desde": "",
-         "Hasta": "2024/12/18 23:51",
-         "URL": "https://boredleviathan.itch.io/mh-requiem",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE3ODUwOS8xODk4MjA4Ny5naWY=/347x500/IwRm%2BI.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "MiniTool ShadowMaker Pro 6-Month License Key Free",
-         "Informacion": "MiniTool ShadowMaker Pro es un software de copia de seguridad de datos profesional que ayuda a los usuarios a crear, administrar y restaurar datos de copia de seguridad de unidades de computadora o unidades externas. Con su ayuda, puede sincronizar los archivos y carpetas abiertos con otras ubicaciones para mantener sus datos seguros. Tambi\u00e9n lo ayuda a realizar copias de seguridad de archivos y carpetas para restaurarlos en caso de que los archivos se pierdan o eliminen.",
-         "Desde": "",
-         "Hasta": "2024/12/19 07:00",
-         "URL": "https://giveaway.tickcoupon.com/minitool-shadowmaker-pro-for-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/03/minitool-shadowmaker-pro.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo UnInstaller 14",
-         "Informacion": "Ashampoo\u00ae UnInstaller 14 elimina programas no deseados sin dejar rastros. Cinco m\u00e9todos de eliminaci\u00f3n complementarios se encargan de las aplicaciones, as\u00ed como de las aplicaciones y complementos de Windows, y garantizan su eliminaci\u00f3n total.",
-         "Desde": "",
-         "Hasta": "2024/12/19 08:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-14-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/submit-1.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Glary Malware Hunter Pro",
-         "Informacion": "Malware Hunter es un producto galardonado que ofrece protecci\u00f3n integral contra todo tipo de amenazas, protege sus datos, protege su privacidad y garantiza que su PC se mantenga libre de virus. Hyper Scan le permite disfrutar de una velocidad de escaneo m\u00e1s r\u00e1pida. Detecta y elimina malware persistente contra posibles peligros.",
-         "Desde": "",
-         "Hasta": "2024/12/19 08:00",
-         "URL": "https://sharewareonsale.com/s/free-glary-malware-hunter-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2018/08/mh-200x129.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "UnHackMe 16 Full License Key Free Download",
          "Informacion": "UnHackMe es una potente suite que permite detectar y eliminar una gran variedad de malware, incluidos troyanos, programas potencialmente no deseados y rootkits. Adem\u00e1s, comprueba si hay archivos basura, analiza el inicio de Windows, los servicios y los controladores, prueba los accesos directos de Windows, busca rootkits, prueba los archivos del host y la configuraci\u00f3n de DNS, y prueba todos los archivos utilizados en Virustotal.",
@@ -119,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/unhackme-free-license-key-full-download/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/06/unhackme-free-license-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Mystery Game 1",
@@ -129,7 +19,7 @@
          "URL": "https://store.epicgames.com/es-ES/free-games",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "The Lord of The Rings Return to Moria",
@@ -139,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/the-lord-of-the-rings-return-to-moria-f01344",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_Game1_1080x1920_1920x1080-86e04a5abce8b42fb56bdfe41d103bba",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Coolmuster GIF Animator 1 Year License Key Free",
@@ -149,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-gif-animator-license-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/11/coolmuster-gif-animator-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ashampoo Backup Pro 25",
@@ -159,7 +49,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-pro-25-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/front.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "AVS Video ReMaker",
@@ -169,7 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-avs-video-remaker-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/12/video-remaker_3d-200x200.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -179,7 +69,17 @@
          "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
+      },
+      {
+         "Nombre": "Allavsoft",
+         "Informacion": "Descargar y convertir v\u00eddeos para verlos sin conexi\u00f3n",
+         "Desde": "",
+         "Hasta": "2024/12/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allavsoft-2-2nbl5.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Foxy Man by AL7USSAIN",
@@ -282,13 +182,23 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Unfair Square by Bukmad",
-         "Informacion": "\"Es injusto... \u00a1de la manera m\u00e1s divertida posible!\"",
+         "Nombre": "AWZ Screen Recorder 6-Month License Key Free 2024",
+         "Informacion": "Para cualquiera que busque una herramienta de captura de pantalla f\u00e1cil de usar para hacer grabaciones breves y embellecer algunas capturas de pantalla, AWZ Screen Recorder es la herramienta perfecta. Dise\u00f1ada con una interfaz limpia, esta herramienta tiene la posibilidad de grabar la pantalla completa o un \u00e1rea seleccionada de la pantalla. Con su ayuda, tiene la capacidad de capturar y grabar todo lo que aparece en la pantalla de su computadora o dispositivo.",
          "Desde": "",
-         "Hasta": "2024/12/20 20:00",
-         "URL": "https://bukmad.itch.io/unfair-square",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MTczNS8xODM3MTI2OC5wbmc=/347x500/JyD18m.png",
-         "Distribuidora": "Itch io",
+         "Hasta": "2024/12/20 15:00",
+         "URL": "https://giveaway.tickcoupon.com/awz-screen-recorder-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/AWZ-Screen-Recorder-Pro-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vampire Survivors",
+         "Informacion": "Vampire Survivors",
+         "Desde": "2024/12/19",
+         "Hasta": "2024/12/20 17:00",
+         "URL": "https://store.epicgames.com/p/vampire-survivors-f699a1",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game2_1080x1920_1920x1080-995e42f6bcd7206113daf83bb6270c8c",
+         "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -298,6 +208,16 @@
          "Hasta": "2024/12/20 20:00",
          "URL": "https://bukmad.itch.io/bamm",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTk2My8xNDc4MTUwNi5wbmc=/347x500/TZ4FPw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Unfair Square by Bukmad",
+         "Informacion": "\"Es injusto... \u00a1de la manera m\u00e1s divertida posible!\"",
+         "Desde": "",
+         "Hasta": "2024/12/20 20:00",
+         "URL": "https://bukmad.itch.io/unfair-square",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MTczNS8xODM3MTI2OC5wbmc=/347x500/JyD18m.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -532,62 +452,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
          "Desde": "",
          "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores.",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego de terror corto creado en una semana.",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por Grantech.shop",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -602,12 +472,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego de terror corto creado en una semana.",
          "Desde": "",
          "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -622,12 +522,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
+         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por Grantech.shop",
          "Desde": "",
          "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores.",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2024/12/25 10:39",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -732,6 +652,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BloodWood by LouisGames",
+         "Informacion": "Inmerso en un bosque denso y misterioso en una isla olvidada, est\u00e1s en busca de un artefacto precioso, un objeto raro que podr\u00eda cambiar el curso de la historia. Pero no est\u00e1s solo. Las sombras se mueven, los enemigos acechan cada uno de tus movimientos y cada paso podr\u00eda ser el \u00faltimo. En Bloodwood, la supervivencia no es una opci\u00f3n, es una lucha. Explora, esquiva y supera tus l\u00edmites para lograr tu objetivo. \u00bfPodr\u00e1s salir vivo de este maldito bosque?",
+         "Desde": "",
+         "Hasta": "2024/12/25 13:37",
+         "URL": "https://louisgames.itch.io/bloodwood",
+         "IMG": "https://img.itch.zone/aW1nLzE4ODkwMjIwLnBuZw==/347x500/n79DIY.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ant Download Manager Pro License Giveaway Free 2024",
          "Informacion": "Ant Download Manager es un gestor de descargas de Internet para cualquier tipo de archivo que le ayuda a descargar y gestionar v\u00eddeos. Con este software, puede descargar archivos de audio, extraer pistas de audio de archivos de v\u00eddeo y, a continuaci\u00f3n, convertirlos al popular formato MP3 y a\u00f1adirles la informaci\u00f3n b\u00e1sica correspondiente.",
          "Desde": "",
@@ -768,6 +698,16 @@
          "Hasta": "2024/12/26 00:00",
          "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/dearmob-iphone-manager-giveaway-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF to JPG Converter 1 Year License Free",
+         "Informacion": "Coolmuster PDF to JPG Converter es una herramienta de conversi\u00f3n de PDF para PC sencilla y f\u00e1cil de usar. El programa es ideal para realizar conversiones sin esfuerzo de archivos PDF a formato de imagen. Con el uso de esta herramienta, puede convertir archivos PDF a formatos JPG, PNG, TIF, BMP y GIF de manera r\u00e1pida y eficaz. Con Coolmuster PDF to JPG Converter, puede estar seguro de que las fuentes originales, el dise\u00f1o y la calidad de la imagen se conservar\u00e1n en las im\u00e1genes convertidas.",
+         "Desde": "",
+         "Hasta": "2024/12/26 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-jpg-converter-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/coolmuster-pdf-to-jpg-converter-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -892,6 +832,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Burning Studio 2025",
+         "Informacion": "Ashampoo Burning Studio 2025 graba pel\u00edculas, m\u00fasica y datos de forma fiable en todo tipo de discos. Tambi\u00e9n admite copias de seguridad de datos, extracci\u00f3n de CD y dise\u00f1os de car\u00e1tulas personalizados, lo que resulta perfecto para todo tipo de proyectos de grabaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2024/12/26 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/submit-2.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Don't Look Back by Damage Control",
          "Informacion": "Has asumido una tarea aparentemente sencilla: encontrar las llaves que faltan para abrir las puertas que te llevar\u00e1n a los secretos de la casa abandonada. Lo que no sabes es el peligro que acecha en la casa.",
          "Desde": "",
@@ -928,6 +878,16 @@
          "Hasta": "2024/12/30 19:00",
          "URL": "https://apeacez.itch.io/peacely-online",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIwODQ1My8xMzA2MDY5OC5qcGc=/347x500/1fS0W0.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Trials of Death (2024) by Dremonty",
+         "Informacion": "\"Juegas como una persona desconocida condenada a superar 3 pruebas mortales. En estas pruebas tendr\u00e1s que enfrentarte a diferentes amenazas y trampas para permanecer con vida y seguir entreteniendo a nuestro misterioso secuestrador. Ten en cuenta cada peque\u00f1o detalle para evitar las trampas y seguir sobreviviendo en este loco juego\".",
+         "Desde": "",
+         "Hasta": "2024/12/30 21:00",
+         "URL": "https://dremonty.itch.io/the-trials-of-death",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE3OTAzNC8xODk5NjEzMS5naWY=/347x500/sPl%2FVW.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1802,6 +1762,56 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Gold Digger by b._.render",
+         "Informacion": "En Gold Digger, \u00a1buscas oro! Tambi\u00e9n puedes encontrar diamantes y esquivar a esos molestos gusanos. Hasta ahora, podr\u00e1s explorar el mineral de 7 niveles en 3 \u00e1reas \u00fanicas. No pasa nada si no puedes superar el nivel, porque siempre puedes ir a la tienda y mejorar m\u00e1s... si puedes permit\u00edrtelo.",
+         "Desde": "",
+         "Hasta": "2025/01/01 15:00",
+         "URL": "https://b-render.itch.io/gold-digger",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyMzcwNi8xNzUxNjgwMS5wbmc=/347x500/f7hrdK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bone-ER-Clicker by b._.render",
+         "Informacion": "Ve y dale una suscripci\u00f3n a mi YouTube a trav\u00e9s de un corto al azar y comenta \"Hola desde Itch\". Eso ser\u00eda apreciado. 3 Estoy en 450, as\u00ed que veamos si puedo llegar a 500. 3",
+         "Desde": "",
+         "Hasta": "2025/01/01 15:00",
+         "URL": "https://b-render.itch.io/bone-clicker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI2ODQ4Mi8xMzQ0NDA5NS5wbmc=/347x500/xrLZ4T.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Small RPG by b._.render",
+         "Informacion": "En este juego de acci\u00f3n y aventuras sobre el capitalismo, te encontrar\u00e1s en casa aburrido cuando de repente ya no puedas quedarte sentado, as\u00ed que saldr\u00e1s a buscar lo que necesitas. Tus problemas te llevar\u00e1n a hamburgueser\u00edas, casas de trampas y, lo peor de todo, al banco...",
+         "Desde": "",
+         "Hasta": "2025/01/01 15:00",
+         "URL": "https://b-render.itch.io/small-rpg",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTYyODgyMC8xODEyMDU2My5wbmc=/347x500/jCt1M0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dummy Smasher by b._.render",
+         "Informacion": "Ve y dale una suscripci\u00f3n a mi YouTube a trav\u00e9s de un corto al azar y comenta \"Hola desde Itch\". Eso ser\u00eda apreciado. 3 Estoy en 450, as\u00ed que veamos si puedo llegar a 500. 3",
+         "Desde": "",
+         "Hasta": "2025/01/01 15:00",
+         "URL": "https://b-render.itch.io/dummy-smasher",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjAyOTg1NC8xMjA4NTkwMS5wbmc=/347x500/fxdpHO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Drug Dealin Sim 2024 by b._.render",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/01 15:00",
+         "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU2NDU3MS85MTMzNzE5LnBuZw==/347x500/AMqVyK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ticoban by juegosenlazaruscr",
          "Informacion": "Puedes descargar el demo\u00a0gratis en el link abajo. La versi\u00c3\u00b3n completa del juego tiene tres niveles de dificultad con\u00a084 niveles en total.",
          "Desde": "",
@@ -1842,6 +1852,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Grove Camp by Woncy Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/01 22:31",
+         "URL": "https://woncy-games.itch.io/grove-camp",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyNTkxMi8xNzUzMTU3OC5wbmc=/347x500/ht3Eij.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Sin : Darkest Self by Woncy Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/01 22:31",
+         "URL": "https://woncy-games.itch.io/the-sin-darkest-self",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2NDMzMS8xNzEyODA4Ni5wbmc=/347x500/9XBpuZ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wart Worm Wingding! by John Vanderhoef",
          "Informacion": "Wart Worm Wingding es un juego de aventuras arcade para dos jugadores para NES. Est\u00e1 inspirado en juegos como Bubble Bobble y Dig Dug.",
          "Desde": "",
@@ -1859,6 +1889,16 @@
          "URL": "https://giveaway.tickcoupon.com/wonderfox-dvd-ripper-pro-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/04/wonderfox-dvd-ripper-pro-free-key-giveaway.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VERTIGROWL by ApeHardware",
+         "Informacion": "Saludos, empleado.",
+         "Desde": "",
+         "Hasta": "2025/01/02 01:00",
+         "URL": "https://apehardware.itch.io/laboral-acrophobia",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2OTk2NS8xNjUyNjgwOS5wbmc=/347x500/74oGft.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1938,6 +1978,36 @@
          "Hasta": "2025/01/03 08:00",
          "URL": "https://cheese116.itch.io/free-hog-blast",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk3Nzc4Mi8xNzgxNDkyMi5wbmc=/347x500/vSk4AX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Devyard by TheThil",
+         "Informacion": "Un grupo de amigos se embarca en un espeluznante viaje de Halloween y deciden dejar a uno de ellos encerrado en un cementerio embrujado. Durante a\u00f1os, circularon rumores sobre un esp\u00edritu no muerto que rondaba los terrenos, una figura fantasmal que contin\u00faa las tradiciones de Halloween incluso m\u00e1s all\u00e1 de la tumba. Nadie cre\u00eda en las historias... hasta AHORA. El objetivo es escapar del cementerio embrujado y sobrevivir a la noche. El juego ofrece:- Personaje original- Actuaci\u00f3n de voz- Banda sonora original- Experiencia atmosf\u00e9rica espeluznante",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://thethil.itch.io/devyard",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzAyODQyMS8xODE2MjYyNi5wbmc=/347x500/LPjTjD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet 2 by TheThil",
+         "Informacion": "El juego tiene 3 finales posibles. Tiempo promedio de juego: 30-45 minutos.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://thethil.itch.io/strange-toilet-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NzAxMS8xMzU4MDA1NC5qcGc=/347x500/fAMvKk.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet by TheThil",
+         "Informacion": "En el tranquilo barrio donde viven Nathan y Sarah, hay una presencia siniestra. Una amenaza potencial de un asesino suelto. Los residentes no esperaban que en esa noche tranquila se enfrentar\u00edan a una cruda realidad que nunca imaginaron.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://thethil.itch.io/strange-toilet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MjYwOC84MTg3NTUyLnBuZw==/347x500/A%2BcWTM.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -2032,6 +2102,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Lani's Call: A Tiny Whale Singer Story by Telescope Games",
+         "Informacion": "Ponte en las aletas de Lani, una juguetona ballena jorobada que se lanza a la acci\u00f3n cuando un evento trascendental amenaza su hogar submarino.",
+         "Desde": "",
+         "Hasta": "2025/01/07 02:00",
+         "URL": "https://telescopegames.itch.io/lanis-call",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE4NzUwNC8xOTA1MzE3OS5wbmc=/347x500/i6c7fb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Evidence of 96' by Team Melon, Danial Jumagaliyev, cinnamew, Pxl Dev",
          "Informacion": "Experimente una novela visual oscura desde la perspectiva de un estudiante de secundaria trastornado que cometi\u00f3 un delito grave y ahora debe tratar de destruir todas las evidencias que apuntan a \u00e9l.",
          "Desde": "",
@@ -2082,6 +2162,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "SwifDoo PDF Pro 6-Month Giveaway License Key Free 2025",
+         "Informacion": "SwifDoo PDF Pro es el mejor software de edici\u00f3n de PDF. Te permite crear archivos PDF, convertirlos, fusionarlos, comprimirlos y firmarlos. Tambi\u00e9n puedes agregar o eliminar texto de tus archivos PDF y cambiar el tama\u00f1o y el color de las fuentes. En cuanto a su capacidad de conversi\u00f3n, SwifDoo PDF Pro te permite convertir archivos PDF a Microsoft Word, Excel y PowerPoint (y viceversa) o a im\u00e1genes (PNG, JPG, TIFF, BMP) y viceversa. Admite conversiones y edici\u00f3n por lotes para ahorrar tiempo cuando trabajas con muchos documentos.",
+         "Desde": "",
+         "Hasta": "2025/01/10 01:00",
+         "URL": "https://giveaway.tickcoupon.com/swifdoo-pdf-pro-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/12/swifdoo-pro-free-license-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "DoYourData NTFS for Mac License Key for Free 2024",
          "Informacion": "Si ha estado buscando un software que permita la escritura en unidades NTFS en Mac, entonces DoYourData NTFS para Mac es su elecci\u00f3n. DoYourData NTFS para Mac es un software NTFS para Mac potente y f\u00e1cil de usar que puede habilitar la escritura en unidades NTFS en Mac r\u00e1pidamente. Con su ayuda, puede escribir datos en unidades NTFS, editar/guardar, mover, cambiar, eliminar, agregar, copiar/cortar/pegar o modificar archivos en las unidades NTFS sin ninguna limitaci\u00f3n.",
          "Desde": "",
@@ -2110,6 +2200,16 @@
          "IMG": "https://img.itch.zone/aW1hZ2UvMjcyMzE5OS8xNjQ1NjUxOS5wbmc=/347x500/DS7FMr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lost Castle: The Old Ones Awaken",
+         "Informacion": "The Old Ones Awaken adds new levels to explore, new enemies to de\u00a1The Old Ones Awaken incluye nuevos niveles que explorar!feat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
+         "Desde": "2025/01/07",
+         "Hasta": "2025/01/14 17:00",
+         "URL": "https://store.epicgames.com/p/lost-castle-abb2e2",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Leawo DVD Ripper Giveaway License Code 1-Year 2024",
