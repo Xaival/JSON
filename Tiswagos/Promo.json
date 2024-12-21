@@ -1,276 +1,6 @@
 {
-   "date_update": "20 Dec 2024 17:02 UTC",
+   "date_update": "21 Dec 2024 17:07 UTC",
    "values": [
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo moverse",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "House Cleaner 2 by AL7USSAIN",
-         "Informacion": "Se trata de una empresa de limpieza y vas a casas y las limpias pero la casa a la que entraste est\u00e1 habitada por un fantasma \u00bfpuede terminar bien esta noche?",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/house-cleaner-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyMzIyMy8xMzE2MDc1NC5wbmc=/347x500/Icf6je.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "House Cleaner by AL7USSAIN",
-         "Informacion": "House Cleaner es un juego de terror en el que limpias la casa y descubres que est\u00e1 embrujada por un fantasma.",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/housecleaner",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNDg2NC8xMTM1NzY5MC5qcGc=/347x500/JJ1S7y.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA EL MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2024/12/20 09:45",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Merger Giveaway 1-Year License Key Free",
-         "Informacion": "Coolmuster PDF Merger es un software de combinaci\u00f3n de PDF f\u00e1cil e intuitivo para Windows que ofrece muchas funciones para ayudarte a combinar varios archivos PDF en uno. Esta herramienta garantiza que el estilo del texto, las im\u00e1genes, los gr\u00e1ficos, las tablas, los hiperv\u00ednculos, el dise\u00f1o y el formato de los archivos PDF conservar\u00e1n la calidad original.",
-         "Desde": "",
-         "Hasta": "2024/12/20 12:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-merger-free-license-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-merger-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "AWZ Screen Recorder 6-Month License Key Free 2024",
-         "Informacion": "Para cualquiera que busque una herramienta de captura de pantalla f\u00e1cil de usar para hacer grabaciones breves y embellecer algunas capturas de pantalla, AWZ Screen Recorder es la herramienta perfecta. Dise\u00f1ada con una interfaz limpia, esta herramienta tiene la posibilidad de grabar la pantalla completa o un \u00e1rea seleccionada de la pantalla. Con su ayuda, tiene la capacidad de capturar y grabar todo lo que aparece en la pantalla de su computadora o dispositivo.",
-         "Desde": "",
-         "Hasta": "2024/12/20 15:00",
-         "URL": "https://giveaway.tickcoupon.com/awz-screen-recorder-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/09/AWZ-Screen-Recorder-Pro-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Vampire Survivors",
-         "Informacion": "Vampire Survivors",
-         "Desde": "2024/12/19",
-         "Hasta": "2024/12/20 17:00",
-         "URL": "https://store.epicgames.com/p/vampire-survivors-f699a1",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game2_1080x1920_1920x1080-995e42f6bcd7206113daf83bb6270c8c",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Bamm by Bukmad",
-         "Informacion": "Bam Tradici\u00f3n:",
-         "Desde": "",
-         "Hasta": "2024/12/20 20:00",
-         "URL": "https://bukmad.itch.io/bamm",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjAzOTk2My8xNDc4MTUwNi5wbmc=/347x500/TZ4FPw.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Unfair Square by Bukmad",
-         "Informacion": "\"Es injusto... \u00a1de la manera m\u00e1s divertida posible!\"",
-         "Desde": "",
-         "Hasta": "2024/12/20 20:00",
-         "URL": "https://bukmad.itch.io/unfair-square",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MTczNS8xODM3MTI2OC5wbmc=/347x500/JyD18m.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "CatUp by dazai",
-         "Informacion": "CatUp es un juego arcade de plataformas muy entretenido en el que encarnas a una gata que busca a sus cinco gatitos perdidos. Tu viaje \u00e9pico te llevar\u00e1 a trav\u00e9s de cuatro biomas diferentes: cuevas inmensas y peligrosas, llanuras, colinas y misteriosas islas flotantes. Para superar los obst\u00e1culos que encuentres, tendr\u00e1s que demostrar habilidades de juego excepcionales.",
-         "Desde": "",
-         "Hasta": "2024/12/21 01:00",
-         "URL": "https://dazaizer0.itch.io/catup",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NDY5MC8xNjczNTExOS5wbmc=/347x500/yUDAZ3.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Do Not by DocetGames",
-         "Informacion": "\u00a1Advertencia, lo que est\u00e1s a punto de jugar es una versi\u00f3n de acceso anticipado!",
-         "Desde": "",
-         "Hasta": "2024/12/21 01:00",
-         "URL": "https://docetgames.itch.io/do-not",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk0NTMxOS8xOTA2MTgwNi5wbmc=/347x500/w92EAG.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Christmas Kids by alexbaza",
-         "Informacion": "Investiga este prototipo de juego basado en la vida real en el que juegas como el cantante principal de The Ronettes y eres acosado por Phil, tu productor.",
-         "Desde": "",
-         "Hasta": "2024/12/21 05:03",
-         "URL": "https://alexbaza.itch.io/christmas-kids",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzAzNDk5Ni8xODE1MDkxMS5qcGc=/347x500/s6rT0r.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Dead Coliseum by alexbaza",
-         "Informacion": "Tu peor error fue entrar en ese coliseo.",
-         "Desde": "",
-         "Hasta": "2024/12/21 05:03",
-         "URL": "https://alexbaza.itch.io/coliseum",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0MDE4OS8xNjk3MDY5Ni5qcGc=/347x500/GOACYG.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Fabric by alexbaza",
-         "Informacion": "En Fabric, el jugador se adentra en una f\u00e1brica abandonada que perteneci\u00f3 a la misteriosa empresa Cable Technologies, una fuerza que en su d\u00eda fue dominante en el campo de la tecnolog\u00eda industrial. Ahora, abandonada y en decadencia, la f\u00e1brica esconde oscuros secretos entre sus paredes oxidadas y su maquinaria olvidada.",
-         "Desde": "",
-         "Hasta": "2024/12/21 05:03",
-         "URL": "https://alexbaza.itch.io/fabric",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA0NTcxOC8xODIzNjA1My5qcGc=/347x500/u3jJXp.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Fabric: Chapter 2 by alexbaza",
-         "Informacion": "En el cap\u00edtulo 2 de Fabric, el jugador comienza a caminar y descubre que necesita explotar el mega objeto que tiene frente a \u00e9l para escapar.",
-         "Desde": "",
-         "Hasta": "2024/12/21 05:03",
-         "URL": "https://alexbaza.itch.io/fabric-chapter-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3NTg4MC8xODQwNzA4My5qcGc=/347x500/t4z%2F4e.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "V.H.S by alexbaza",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/21 05:03",
-         "URL": "https://alexbaza.itch.io/vhs",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4MTQ1My8xNjYwMDMwMi5wbmc=/347x500/0t%2FQC1.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "V.H.S Chapter 2: Remastered by alexbaza",
-         "Informacion": "\u00a1Por fin, V.H.S: Remasterizado!",
-         "Desde": "",
-         "Hasta": "2024/12/21 05:03",
-         "URL": "https://alexbaza.itch.io/vhs-chapter-2-remastered",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNjczNS8xNjgyNDkyNi5qcGc=/347x500/%2FjnTkB.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "V.H.S: Chapter 2 by alexbaza",
-         "Informacion": "Mi discordia:\u00a0https://discord.gg/Sj95HYyD",
-         "Desde": "",
-         "Hasta": "2024/12/21 05:03",
-         "URL": "https://alexbaza.itch.io/vhs-chapter-2",
-         "IMG": "https://img.itch.zone/aW1nLzE2NjI1NjU4LnBuZw==/347x500/sVRUN%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "V.H.S: Remastered by alexbaza",
-         "Informacion": "\u00a1Por fin, V.H.S: Remasterizado!",
-         "Desde": "",
-         "Hasta": "2024/12/21 05:03",
-         "URL": "https://alexbaza.itch.io/vhs-remastered",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxMzUxNy8xNjgwNDk0My5qcGc=/347x500/9SK05i.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "25 Christmas Fonts",
-         "Informacion": "Estas fuentes son adecuadas para tarjetas navide\u00f1as, invitaciones de boda, marca, papeler\u00eda, dise\u00f1o de blogs, arte personalizado, sellos personalizados, relieves personalizados o cualquier prop\u00f3sito de dise\u00f1o. Puede usarlas para uso personal o para un proyecto comercial.",
-         "Desde": "",
-         "Hasta": "2024/12/21 08:00",
-         "URL": "https://sharewareonsale.com/s/free-25-christmas-fonts-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/12/Main-Image-25-min-scaled-1-1500x1000-1.jpg?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "50 Fantasy LUTs",
-         "Informacion": "\u00bfEst\u00e1s cansado de a\u00f1adir los mismos efectos a tus fotos una y otra vez? \u00a1Ser\u00eda genial si pudieras a\u00f1adir efectos \u00fanicos a tus fotos y hacer que todos se pregunten c\u00f3mo lo hiciste! Te presentamos la colecci\u00f3n m\u00e1s diversa de LUT para verdaderos profesionales. \u00a1Con unos pocos clics, puedes a\u00f1adir efectos asombrosos a tus fotos! \u00a1Es muy simple!",
-         "Desde": "",
-         "Hasta": "2024/12/21 08:00",
-         "URL": "https://sharewareonsale.com/s/free-50-fantasy-luts-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/Fantasy-LUTs.jpg?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Vole Office Ultimate",
-         "Informacion": "La suite Sanwhole Vole Office incluye Vole Word, Vole Excel y Vole Scheduler.",
-         "Desde": "",
-         "Hasta": "2024/12/21 08:00",
-         "URL": "https://sharewareonsale.com/s/free-vole-office-ultimate-edition-ltud-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/Vole-Excel-.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "Astrea Six Sided Oracles",
          "Informacion": "Astrea Six Sided Oracles",
@@ -279,7 +9,7 @@
          "URL": "https://store.epicgames.com/p/astrea-six-sided-oracles-33c949",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game3_1080x1920_1920x1080-1fcb842178fff43ea6e1cd919c5c98bf",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Guardians of the Zodiac by Evans Infinity Creations",
@@ -289,7 +19,7 @@
          "URL": "https://evans018creations.itch.io/guardians-of-the-zodiac",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NDIxNS8xNTM4NjI2My5wbmc=/347x500/YeKBN1.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "Cookie Clicker: Anniversary Edition by TheSilentHouseStudio",
@@ -298,6 +28,26 @@
          "Hasta": "2024/12/21 21:18",
          "URL": "https://the-silent-house-studio.itch.io/cookieclicker",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI4NDMyMS8xMDU2NTIxOS5wbmc=/347x500/quQ%2BxF.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
+      },
+      {
+         "Nombre": "Allavsoft",
+         "Informacion": "Descargar y convertir v\u00eddeos para verlos sin conexi\u00f3n",
+         "Desde": "",
+         "Hasta": "2024/12/22 09:00",
+         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/allavsoft-2-2nbl5.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "Killer Base by GamingTGT",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/12/22 13:00",
+         "URL": "https://tgtstudio.itch.io/killer-base",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDU2Ni8xNjE4NDkzOC5naWY=/347x500/5%2FZ0mi.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -312,13 +62,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Killer Base by GamingTGT",
-         "Informacion": "",
+         "Nombre": "MobiKin WhatsApp Recovery for iOS 1 Year License Key Free",
+         "Informacion": "MobiKin WhatsApp Recovery para iOS es un potente software de recuperaci\u00f3n de datos de WhatsApp dise\u00f1ado para ayudarte a recuperar datos de WhatsApp de dispositivos iOS. Con su ayuda, puedes recuperar tus mensajes, fotos, v\u00eddeos y archivos adjuntos de WhatsApp, ya sea que hayas eliminado mensajes accidentalmente, hayas experimentado un fallo del sistema, hayas realizado un restablecimiento de f\u00e1brica, hayas sufrido da\u00f1os por agua, hayas realizado jailbreak/root en los dispositivos o incluso hayas perdido tu dispositivo. Adem\u00e1s, esta herramienta puede ayudarte a restaurar datos de WhatsApp desde la copia de seguridad de iTunes de forma selectiva.",
          "Desde": "",
-         "Hasta": "2024/12/22 13:00",
-         "URL": "https://tgtstudio.itch.io/killer-base",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDU2Ni8xNjE4NDkzOC5naWY=/347x500/5%2FZ0mi.gif",
-         "Distribuidora": "Itch io",
+         "Hasta": "2024/12/22 15:00",
+         "URL": "https://giveaway.tickcoupon.com/mobikin-whatsapp-recovery-for-ios-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/12/mobikin-whatsapp-recovery-for-ios-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -329,7 +79,17 @@
          "URL": "https://store.epicgames.com/es-ES/free-games",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TerraTech",
+         "Informacion": "TerraTech",
+         "Desde": "2024/12/21",
+         "Hasta": "2024/12/22 17:00",
+         "URL": "https://store.epicgames.com/p/terratech-02ab0a",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game4_1080x1920_1920x1080-1518f6f292a1d73936a49e5170ae8b87",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Coolmuster PDF Locker Giveaway 1-Year License Key Free",
@@ -382,6 +142,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Deep Art Creator Pro License Key for Free",
+         "Informacion": "Deep Art Creator Pro es una herramienta de vanguardia impulsada por IA dise\u00f1ada para ayudarte a transformar tus ideas creativas en arte asombroso. Esta herramienta te permite crear im\u00e1genes de alta calidad utilizando algoritmos de IA avanzados. Solo tienes que ingresar un texto descriptivo y luego esta herramienta continuar\u00e1 el trabajo gracias al uso de Neural Style Transfer y GPU Acceleration.",
+         "Desde": "",
+         "Hasta": "2024/12/24 00:00",
+         "URL": "https://giveaway.tickcoupon.com/deep-art-creator-pro-free-license-code/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/12/deep-art-creator-pro-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Randall the Grape Jelly Cube goes to Soda Valley for some reason. by worthless_protoplasm",
          "Informacion": "Randall, el ser con forma de cubo de gelatina de uva, se embarca en una misi\u00f3n en Soda Valley para vengarse de los monstruos que acechan en el valle (o tal vez simplemente est\u00e1 muy aburrido; nadie lo sabe con certeza). \u00c1brete paso a patadas por un valle gigante con diferentes \u00e1reas para explorar, diferentes objetos coleccionables para recoger y algunos secretos para descubrir.",
          "Desde": "",
@@ -389,6 +159,16 @@
          "URL": "https://worthless-protoplasm.itch.io/randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjkxOTAxOS8xNzQ4Mzk2OS5wbmc=/347x500/2NuLRZ.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Counter-Strike 2",
+         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
+         "Desde": "",
+         "Hasta": "2024/12/24 10:00",
+         "URL": "https://store.steampowered.com/app/730/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -412,16 +192,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The First Descendant",
-         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
-         "Desde": "",
-         "Hasta": "2024/12/24 10:00",
-         "URL": "https://store.steampowered.com/app/2074920/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
-         "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "PUBG: BATTLEGROUNDS",
          "Informacion": "Juega a PUBG: BATTLEGROUNDS gratis. Aterriza en ubicaciones estrat\u00e9gicas, saquea armas y suministros, y sobrevive para convertirte en el \u00faltimo equipo en pie en varios y diversos campos de batalla. Forma un escuadr\u00f3n y \u00fanete a los campos de batalla para disfrutar de la experiencia original de Battle Royale que solo PUBG: BATTLEGROUNDS puede ofrecer.",
          "Desde": "",
@@ -432,12 +202,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Counter-Strike 2",
-         "Informacion": "Durante m\u00e1s de dos d\u00e9cadas, Counter-Strike ha ofrecido una experiencia competitiva de \u00e9lite, moldeada por millones de jugadores de todo el mundo. Y ahora est\u00e1 a punto de comenzar el siguiente cap\u00edtulo de la historia de CS: Counter-Strike 2.",
+         "Nombre": "The First Descendant",
+         "Informacion": "The First Descendant es un juego de disparos en tercera persona desarrollado con Unreal Engine 5. Convi\u00e9rtete en un Descendiente. Lucha por la supervivencia de la humanidad. Los Descendientes tienen habilidades \u00fanicas para afrontar misiones tanto en solitario como cooperativas. Hasta 4 jugadores usan mec\u00e1nicas variadas para derrotar a jefes gigantes. \u00a1S\u00c9 EL PRIMER DESCENDIENTE!",
          "Desde": "",
          "Hasta": "2024/12/24 10:00",
-         "URL": "https://store.steampowered.com/app/730/",
-         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+         "URL": "https://store.steampowered.com/app/2074920/",
+         "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074920/header.jpg",
          "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
@@ -478,6 +248,16 @@
          "Hasta": "2024/12/25 07:00",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Peak Partners (MULTIPLAYER CO OP) by lowey1199@gmail.com",
+         "Informacion": "\u00a1Emb\u00e1rcate en una aventura llena de adrenalina en este juego de parkour cooperativo multijugador! Forma equipo con amigos o desaf\u00edate a ti mismo para dominar atrevidos recorridos llenos de obst\u00e1culos din\u00e1micos. Salta por los tejados, ag\u00e1rrate a las cornisas y navega por plataformas m\u00f3viles. Ten cuidado con las peligrosas trampas, como p\u00e9ndulos oscilantes, baldosas que se agrietan y hachas giratorias que pondr\u00e1n a prueba tus reflejos y coordinaci\u00f3n. Con cada nivel ofreciendo desaf\u00edos y emociones \u00fanicas, es un viaje de ritmo r\u00e1pido donde el trabajo en equipo y la habilidad son tus herramientas definitivas para la victoria. Controles: WASD = Mover Tab = Movimiento preciso C = Agacharse Espacio = Saltar Q = Rodar",
+         "Desde": "",
+         "Hasta": "2024/12/25 07:09",
+         "URL": "https://lowey1199gmailcom.itch.io/peak-partners-v1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE5MzE4MS8xOTA2NTExMi5wbmc=/347x500/SAG5tr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -912,6 +692,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "HDR Projects 9",
+         "Informacion": "\u00a1Te esperan muchas nuevas funciones y mejoras en HDR Projects 9! Utiliza las herramientas profesionales para optimizar tus im\u00e1genes a un alto nivel t\u00e9cnico. Crea obras de arte creativas y fotogr\u00e1ficas de alta resoluci\u00f3n con poco esfuerzo utilizando la amplia gama de ajustes preestablecidos que se adaptan a tus gustos.",
+         "Desde": "",
+         "Hasta": "2024/12/28 08:00",
+         "URL": "https://sharewareonsale.com/s/free-hdr-projects-9-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/31530-4_01.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "EaseUS BitWiper Pro Giveaway License Key for Free 2024",
          "Informacion": "Si planea vender o reciclar su computadora, borrar todo lo que hay en su disco duro es la mejor manera de proteger sus datos de manera segura y evitar que alguien acceda a sus archivos utilizando herramientas de software de recuperaci\u00f3n de archivos profesionales. Compatible con los sistemas operativos Windows 11/10/8/7, EaseUS BitWiper es un software de destrucci\u00f3n de datos potente y confiable que lo ayuda a eliminar datos confidenciales de su disco duro de Windows y de sus dispositivos de almacenamiento externos.",
          "Desde": "",
@@ -1132,22 +922,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Wind Turbine by jakejem@outlook.com",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/31 07:18",
-         "URL": "https://jeyers-development.itch.io/the-wind-turbine",
-         "IMG": "https://img.itch.zone/aW1nLzE2ODAzNDAxLnBuZw==/347x500/YGfXCi.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Cattabunga! by jakejem@outlook.com",
          "Informacion": "\u00a1Cattabunga! es un juego de plataformas en 2D que se juega como un gato. El objetivo principal es llegar a la casa o al final de cada nivel. Las instrucciones sobre c\u00f3mo jugar est\u00e1n en el men\u00fa principal del juego. Creado por JEMCraftStudios. M\u00fasica de Jacob Meyers y Samuel Basset (Yellowsnow_yellow). Hola a otros desarrolladores independientes (:",
          "Desde": "",
          "Hasta": "2024/12/31 07:18",
          "URL": "https://jeyers-development.itch.io/cattabunga",
          "IMG": "https://img.itch.zone/aW1nLzEwMTQ4NDkzLnBuZw==/347x500/5lNjLh.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Wind Turbine by jakejem@outlook.com",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/12/31 07:18",
+         "URL": "https://jeyers-development.itch.io/the-wind-turbine",
+         "IMG": "https://img.itch.zone/aW1nLzE2ODAzNDAxLnBuZw==/347x500/YGfXCi.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -2022,6 +1812,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DJ Legends by Snail Coder",
+         "Informacion": "\u00a1Prep\u00e1rate para un para\u00edso invernal en este divertido y r\u00e1pido juego de simulaci\u00f3n de DJ! \u00bfTu misi\u00f3n? \u00a1Atender todas las solicitudes de canciones de tus fans y acumular \"Me gusta\" m\u00e1s r\u00e1pido que nunca! \u00f0\u009f\u009a\u0080",
+         "Desde": "",
+         "Hasta": "2025/01/02 19:00",
+         "URL": "https://snail-coder.itch.io/dj-legends",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk2OTExOC8xOTA2MzY0MC5wbmc=/347x500/dbH1WU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wondefox HD Video Converter Factory Pro License Key Free",
          "Informacion": "WonderFox HD Video Converter Factory Pro es un programa para convertir archivos de v\u00eddeo. Con esta aplicaci\u00f3n, puede convertir de forma f\u00e1cil y r\u00e1pida v\u00eddeos almacenados en definici\u00f3n est\u00e1ndar a alta definici\u00f3n. Le permite adaptar materiales cinematogr\u00e1ficos para su reproducci\u00f3n en tel\u00e9fonos inteligentes, tabletas y reproductores de DVD de escritorio. Adem\u00e1s, el software de conversi\u00f3n de v\u00eddeo puede descargar v\u00eddeo y audio de Internet, editar v\u00eddeo, grabar la pantalla y crear GIF animados a partir de v\u00eddeo.",
          "Desde": "",
@@ -2072,6 +1872,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Sepan and the Seven Flasks by PicMid",
+         "Informacion": "Idiomas del juego: EN, FR",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNjg2OS8xODg4OTkyMC5wbmc=/347x500/pPrrBu.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Strange Toilet 2 by TheThil",
          "Informacion": "El juego tiene 3 finales posibles. Tiempo promedio de juego: 30-45 minutos.",
          "Desde": "",
@@ -2092,12 +1902,752 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sepan and the Seven Flasks by PicMid",
-         "Informacion": "Idiomas del juego: EN, FR",
+         "Nombre": "GIGA EZA by LeashaX",
+         "Informacion": "En las inquietantes profundidades de un bosque olvidado, Eliza Draven, una periodista intr\u00e9pida, desentra\u00f1a un escalofriante misterio oculto en un hotel que camufla un secreto siniestro. Bajo sus paredes se esconde un laboratorio clandestino y los restos del Proyecto EZA, un experimento fallido que desat\u00f3 horrores inimaginables. \u00bfPodr\u00e1s sobrevivir a la verdad?",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNjg2OS8xODg4OTkyMC5wbmc=/347x500/pPrrBu.png",
+         "URL": "https://leashagamesdev.itch.io/giga-eza",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE5Mzg0OC8xOTA2ODk1Mi5wbmc=/347x500/E5%2FtyK.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Perspective Engine by Rise",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://ry2110.itch.io/perspective-engine",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE4MDUxNC8xOTA1MzQ0Ny5wbmc=/347x500/fSWrpn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Solstice by jennahveer",
+         "Informacion": "Ha pasado m\u00e1s de un a\u00f1o desde aquel temido oto\u00f1o.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://jennahveer.itch.io/solstice",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA5NzUyNS8xODg0MzQyNy5wbmc=/347x500/imTxNa.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Click by QiroBite",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://qirobite.itch.io/click",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzEzMjkyNy8xODcxODgxMC5wbmc=/347x500/8URNt3.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "NetEscape by Goblin Laundromat",
+         "Informacion": "\u00bfQuieres m\u00e1s NetEscape? \u00a1Ap\u00f3yanos agreg\u00e1ndolo a tu lista de deseos en Steam!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://goblin-laundromat.itch.io/netescape",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3MzU5NC8xODM4NzgxOC5wbmc=/347x500/MfCh25.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CYR by QiroBite",
+         "Informacion": "M\u00fasica de Silentvoice de Pixabay",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://qirobite.itch.io/cyr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg3NjE2OS8xODU0MzA3NC5wbmc=/347x500/e0XpBI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Grimwild Horror by Shunya",
+         "Informacion": "Un art\u00edculo de peri\u00f3dico de 1994, titulado \"ASESINATO EN MASIVA EN GRIMWILD\", provoc\u00f3 un gran trauma en todo el mundo, ya que todos los residentes de Grimwild fueron encontrados muertos, con sus cuerpos desmembrados. Despu\u00e9s de este incidente, la ciudad qued\u00f3 aislada y se prohibi\u00f3 a todo el mundo entrar en ella. \u00bfQu\u00e9 pudo haber sucedido?",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://shunnya.itch.io/grimwild-horror",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzAwMTE1Ni8xNzk3MjcyMy5naWY=/347x500/xYVEQz.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fabric: Chapter 2 by alexbaza",
+         "Informacion": "En el cap\u00edtulo 2 de Fabric, el jugador comienza a caminar y descubre que necesita explotar el mega objeto que tiene frente a \u00e9l para escapar.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://alexbaza.itch.io/fabric-chapter-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA3NTg4MC8xODQwNzA4My5qcGc=/347x500/t4z%2F4e.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CatBox by DTRGames",
+         "Informacion": "Supera los minijuegos sobre gatos",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://dtrgames.itch.io/catbox",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA2NTU0Ny8xODMzNDM2NC5naWY=/347x500/v%2F4cVE.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "her apartment by AtmoPixel",
+         "Informacion": "\"her apartment\" es un breve juego de terror independiente de estilo retro de PSX.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://atmopixel.itch.io/her-apartment",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1NDM2OC8xNzY4MDU4NS5wbmc=/347x500/YIki62.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Leucanthemum Eyes by Kuraishimi",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://kuraishimi.itch.io/leucanthemum-eyes",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA1ODk5NC8xODU4ODQyNy5wbmc=/347x500/5hn%2FgN.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fabric by alexbaza",
+         "Informacion": "En Fabric, el jugador se adentra en una f\u00e1brica abandonada que perteneci\u00f3 a la misteriosa empresa Cable Technologies, una fuerza que en su d\u00eda fue dominante en el campo de la tecnolog\u00eda industrial. Ahora, abandonada y en decadencia, la f\u00e1brica esconde oscuros secretos entre sus paredes oxidadas y su maquinaria olvidada.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://alexbaza.itch.io/fabric",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA0NTcxOC8xODIzNjA1My5qcGc=/347x500/u3jJXp.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Christmas Kids by alexbaza",
+         "Informacion": "Investiga este prototipo de juego basado en la vida real en el que juegas como el cantante principal de The Ronettes y eres acosado por Phil, tu productor.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://alexbaza.itch.io/christmas-kids",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzAzNDk5Ni8xODE1MDkxMS5qcGc=/347x500/s6rT0r.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fire Boy by DTRGames",
+         "Informacion": "Este es bob",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://dtrgames.itch.io/fire-boy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4OTA5Mi8xNzg4MTExMi5naWY=/347x500/8EGp9%2F.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
+         "Informacion": "En una elecci\u00f3n elegante, tu misi\u00f3n es asegurar puntos de victoria ganando estados en el continente elegante. Cada estado contiene ciudades con diferentes valores de poblaci\u00f3n y el jugador compite con un oponente NPC para obtener una mayor\u00eda de votos en estas ciudades. El objetivo es ganar m\u00e1s estados que tu oponente aumentando tus cifras de votaci\u00f3n en cada ciudad mediante clics estrat\u00e9gicos.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://15joldersmat.itch.io/a-dandy-election",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk2NDcxOS8xNzczMjM5NC5wbmc=/347x500/gfz75C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wood runner by Poly\u00c3\u00a8dre Rayonnant",
+         "Informacion": "\u00bfTe atreves a sumergirte en la salvaje Norteam\u00e9rica en la piel de un antiguo corredor de madera? En este juego de rol de una sola p\u00e1gina, un trocito de la historia de Quebec se convierte en aventuras para vivir con dados y una baraja de cartas. \u00bfPodr\u00e1s traer de vuelta los frutos de tu comercio con tus aliados nativos? Juega solo o con tus amigos y descubre si puedes superar las tribulaciones de estos valientes exploradores...",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://blazingpolyhedron.itch.io/wood-runner",
+         "IMG": "https://img.itch.zone/aW1nLzE3NjU2Mzc0LmpwZw==/347x500/QpVtG8.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Entity by SeeOne",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://seeone.itch.io/entity",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk0ODExOS8xNzY0OTE3MS5wbmc=/347x500/PXbE%2Bw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hell Dome by GameTom",
+         "Informacion": "Por favor, si ve alg\u00fan error, d\u00edgalo en los comentarios o cont\u00e1cteme en comentarios.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://gametom.itch.io/hell-dome",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg5ODU0My8xODk5MzAwNS5wbmc=/347x500/9zp%2FRR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "lost brother by AtmoPixel",
+         "Informacion": "\"Lost Brother\" es un juego de terror independiente de estilo retro de PSX.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://atmopixel.itch.io/lost-brother",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg1Njk4NS8xNzA3NzczMy5naWY=/347x500/byPNKv.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RoadCube by Benaiez",
+         "Informacion": "\u00a1\u00a1\u00a1Esto es RoadCube!!! \u00a1\u00a1\u00a1RoadCube es un juego creado en tan solo 24 horas!!!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://benaiez.itch.io/roadcube",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0NzU4NS8xNzI0Mzc0Mi5wbmc=/347x500/wOtmJt.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dead Coliseum by alexbaza",
+         "Informacion": "Tu peor error fue entrar en ese coliseo.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://alexbaza.itch.io/coliseum",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg0MDE4OS8xNjk3MDY5Ni5qcGc=/347x500/GOACYG.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Noyade by SeeOne",
+         "Informacion": "Maniobra por el terreno para escapar del agua que te ahogar\u00e1. El movimiento consume salud y tocar el suelo tambi\u00e9n te har\u00e1 da\u00f1o. \n\nDescansa en aguas termales para recuperar tu salud.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://seeone.itch.io/noyade",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgzMzY5OC8xNjk1OTA0Ny5naWY=/347x500/2p8%2FDf.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "V.H.S Chapter 2: Remastered by alexbaza",
+         "Informacion": "\u00a1Por fin, V.H.S: Remasterizado!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://alexbaza.itch.io/vhs-chapter-2-remastered",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNjczNS8xNjgyNDkyNi5qcGc=/347x500/%2FjnTkB.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "V.H.S: Remastered by alexbaza",
+         "Informacion": "\u00a1Por fin, V.H.S: Remasterizado!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://alexbaza.itch.io/vhs-remastered",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxMzUxNy8xNjgwNDk0My5qcGc=/347x500/9SK05i.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "rented nightmare by AtmoPixel",
+         "Informacion": "\"Rented Nightmare\" es un juego de terror independiente de estilo retro de corta duraci\u00f3n y ambientado en PSX.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://atmopixel.itch.io/rented-nightmare",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc5ODk0My8xNjcwOTk5NC5naWY=/347x500/HIAicI.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Serial Dreams Escape by Kuraishimi",
+         "Informacion": "Est\u00e1s cansado de esta vida repetitiva, escapa de la realidad por un rato.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://kuraishimi.itch.io/serial-dream-escape",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgwOTI0OS8xNjc4MDA3Ny5naWY=/347x500/mv%2FaXx.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tower Ascent by KGP1125",
+         "Informacion": "Tower Ascent es un juego de plataformas que consta de enemigos, que el jugador debe evitar, y monedas, que el jugador debe recolectar para ascender a la torre. El jugador gana al evadir con \u00e9xito a todos los enemigos a lo largo de los 3 niveles del juego.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://kgp117.itch.io/tower-ascent",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2MTc4Mi8xNjQ3ODI5MS5wbmc=/347x500/gh1L8p.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "V.H.S: Chapter 2 by alexbaza",
+         "Informacion": "Mi discordia:\u00a0https://discord.gg/Sj95HYyD",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://alexbaza.itch.io/vhs-chapter-2",
+         "IMG": "https://img.itch.zone/aW1nLzE2NjI1NjU4LnBuZw==/347x500/sVRUN%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "V.H.S by alexbaza",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://alexbaza.itch.io/vhs",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc4MTQ1My8xNjYwMDMwMi5wbmc=/347x500/0t%2FQC1.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MOTION GR by QiroBite",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://qirobite.itch.io/motiongr",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2NDM1OC8xNjUxNjA1NC5wbmc=/347x500/vxKMVd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1000 Missiles by Dancing Dots",
+         "Informacion": "Objetivo: defender tu naci\u00f3n de 1000 ataques de misiles enemigos utilizando sistemas antia\u00e9reos (AA).",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://15joldersmat.itch.io/1000-missiles",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2MjI4Ni8xNjQ4NzYzMS5wbmc=/347x500/pKCXAX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Way Lane by Roach",
+         "Informacion": "One Way Lane es un juego de rol de terror que aborda el trauma y sus efectos. En esencia, trata sobre la transici\u00f3n a la adultez en medio de una infancia dif\u00edcil. Sigue a Riley a trav\u00e9s de su propio pa\u00eds de las maravillas personal y decide su destino. Mira hacia dentro y elige tu camino en este sue\u00f1o sin fin.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://0newaylane.itch.io/one-way-lane",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTcxNzA3My8xNTE0MTQ4Mi5wbmc=/347x500/r16zjC.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hypercore Demo by Hyperfrog",
+         "Informacion": "Hypercore es un juego de plataformas en 3D con mec\u00e1nicas detalladas, \u00a1en el que podr\u00e1s competir en la tabla de clasificaci\u00f3n hasta la bandera! En esta demostraci\u00f3n hay una campa\u00f1a, \u00a1pero solo unos pocos niveles seleccionados! Este mundo de dibujos animados tiene mec\u00e1nicas detalladas como mejoras de salto y mucho m\u00e1s, incluidos cofres que te dan elementos aleatorios.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://hyperforg.itch.io/hypercore",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyNzQ5Mi8xNjc1MTk1Ni5wbmc=/347x500/Ir2AyO.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
+         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres, a quienes perdi\u00f3 hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligros: corrientes traicioneras, astutos depredadores y antiguas trampas que guardan secretos olvidados. Whaley debe recorrer este peligroso camino mientras evita a los enemigos. \u00bfPodr\u00e1 volver con sus padres?",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/whale-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcxNDUzNi8xNjIxMDI0Mi5wbmc=/347x500/pPYif%2B.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shadows of Progakko Kuro by Kuraishimi",
+         "Informacion": "Los progakkos se utilizaron para proteger a los j\u00f3venes despu\u00e9s de que surgiera una enfermedad llamada \"Blackout\" en una situaci\u00f3n cercana a la guerra entre dos pa\u00edses. Adam comienza a vivir en Progakko, pero no conf\u00eda en las personas que lo rodean, hasta que conoce a una chica que cambia su vida.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://kuraishimi.itch.io/shadows-of-progakko-episode-1-kuro",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU5NTQ0Ny8xNjA4NTY0NC5naWY=/347x500/WQPlQ%2F.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Firelinker by SeeOne",
+         "Informacion": "\"Cada 500 a\u00f1os, nace un legendario drag\u00f3n enlazador de fuego, con el \u00fanico prop\u00f3sito de unir la llama y mantener con vida a los dragones\".",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://seeone.itch.io/firelinker",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4OTI1MS8xNTYxOTM2Ni5wbmc=/347x500/xYUkxy.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Return to the Backrooms by Vadim Shaulskiy",
+         "Informacion": "Cuando vemos representaciones teatrales, a menudo imaginamos cosas que suceden detr\u00e1s de escena. \u00bfY si nuestra realidad tuviera algo similar a lo que sucede detr\u00e1s del escenario?",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://saltario.itch.io/backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU1MTM1OC8xNTI2MjU3MS5qcGc=/347x500/H0UhuH.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VIOLENT FORCE II by QiroBite",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://qirobite.itch.io/violentforce2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzMjAwNC8xNTYxODgwOC5wbmc=/347x500/ml2fKo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "GameDay Mayhem!! by Indifferent Penguin",
+         "Informacion": "Un divertido y competitivo enfrentamiento para dos jugadores, perfecto para matar el tiempo (y el orgullo de tu amigo) mientras esperas que llegue la pizza.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://indifferentpenguin.itch.io/gamedaymayhem",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUwMjczNy8xNDg2ODM2NC5qcGc=/347x500/9yDs7D.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ROKO'S BASILISK by rokolusot",
+         "Informacion": "\"No tenemos idea de lo que encontrar\u00e1s all\u00ed, pero debemos evitar que el Basilisk se complete. Cambio.\" Te encuentras en un entorno ut\u00f3pico, inmerso en la matriz de una IA omnipotente que posee todo el conocimiento y la sabidur\u00eda. No hay claridad en cuanto a c\u00f3mo llegaste aqu\u00ed, pero una misi\u00f3n se cierne ante ti. Esta es una experiencia mental de tiempo variable. La sugerencia de que esto podr\u00eda causar perturbaciones es inquietante, por lo que es m\u00e1s c\u00f3modo fingir que es solo un juego. Si no est\u00e1s listo, se recomienda encarecidamente que no comiences la experiencia. El conocimiento que adquirimos es una fuerza irrevocable, capaz de dar forma a los destinos y explorar lo desconocido. Caracter\u00edsticas:",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://rokolusot.itch.io/rokosbasilisk",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ1NDkzOC8xNDU1Nzc3Ni5naWY=/347x500/OsmL3G.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BadFame by Benaiez",
+         "Informacion": "Mala fama:",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://benaiez.itch.io/badfame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0ODAyNy8xNDUwNTgyNy5wbmc=/347x500/PeOPdf.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Santa Nightmares by IcarusDev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://icarus-dev.itch.io/santa-nightmares",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQzMTQ0NS8xNDM5NTYwOS5qcGc=/347x500/x1tLQb.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "I Don't Know. by CityStream",
+         "Informacion": "\"Mi \u00faltimo recuerdo fue morir en 2025. Y ahora, me encuentro 500 a\u00f1os despu\u00e9s. La \u00fanica compa\u00f1\u00eda en esta nave espacial es una IA llamada Avaniax, cuyas predicciones para 500 a\u00f1os en el futuro superan su conocimiento. No puedo comunicarme con el mundo exterior, la nave espacial est\u00e1 vac\u00eda, \u00bfy estoy condenado a esperar aqu\u00ed y morir con esta est\u00fapida inteligencia artificial? \u00a1Maldita sea!\"",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://citystream-studios.itch.io/i-dont-know",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM1NzY4Ny8xNDE0Njk4OC5wbmc=/347x500/GnDJy4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Salami Clock Piazza by Moonkey Lab",
+         "Informacion": "Versi\u00f3n OperaGX",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://moonkey-lab.itch.io/salami-fish-piazza",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQyNDI4NS8xNDQyMDA0My5wbmc=/347x500/qDsLT0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SQUAREISH by Valdis Gunn",
+         "Informacion": "Un juego de plataformas y rompecabezas minimalista en el que te agachas para saltar.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://oddeyes.itch.io/squareish",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI4MzE5My8xMzU2MDc2My5naWY=/347x500/hBOrs2.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "D.R.K 2 by QiroBite",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://qirobite.itch.io/drk-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM1MDA2MC8xMzkyMDc3MC5wbmc=/347x500/%2BFhVyf.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego 2D dif\u00edcil con trampas dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMxMjg0My8xMzcwNTA0OS5wbmc=/347x500/jTQk06.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Here We Go Again by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/hear-we-go-again",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjMwMDg4My8xMzYzNTM3OC5wbmc=/347x500/B9tR8c.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vampie Tale by \u00c3\u00b6zaki: game studi\u00c3\u00b6!",
+         "Informacion": "\u00a1Una novela visual corta con un giro \u00fanico!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://ozaki-studio.itch.io/vampie-tale",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk5MzY3MC8xMzI4NTk2MC5wbmc=/347x500/xhPF%2BS.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDAS PARA EL MOVIMIENTO",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0MjMyNi8xMzI4NDEzNC5wbmc=/347x500/1PphEM.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjQ3OTY0LnBuZw==/347x500/tqrJuo.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzEzMjAyODQ1LnBuZw==/347x500/1A3FxW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "House Cleaner 2 by AL7USSAIN",
+         "Informacion": "Se trata de una empresa de limpieza y vas a casas y las limpias pero la casa a la que entraste est\u00e1 habitada por un fantasma \u00bfpuede terminar bien esta noche?",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/house-cleaner-2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyMzIyMy8xMzE2MDc1NC5wbmc=/347x500/Icf6je.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo moverse",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/foxy-man",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxNzUyMC8xMzExODc2OS5wbmc=/347x500/3xVBSw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Icy Nicey by \u00c3\u00b6zaki: game studi\u00c3\u00b6!",
+         "Informacion": "\u00a1Versi\u00f3n m\u00f3vil disponible para comprar!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://ozaki-studio.itch.io/icy-nicey",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE2MjgwNy8xMzIzNDIxMi5wbmc=/347x500/Iu6QyR.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Iron Crops by Moonkey Lab",
+         "Informacion": "Mi entrada para\u00a0https://itch.io/jam/thinky-puzzle-game-jam-3",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://moonkey-lab.itch.io/iron-crops",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE0MDA2OC8xMjYxODczNS5wbmc=/347x500/8C3k5N.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Color Mind by LYL Games",
+         "Informacion": "TIEMPO DE JUEGO: 8 HORAS",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://lyl-games.itch.io/color-mind",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1MTM1MC8xMTQ3NDYwNC5qcGc=/347x500/j9e3bW.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Courting Death by jennahveer",
+         "Informacion": "La vida en la Universidad Midsommar ha sido bastante mundana; la mayor\u00eda del tiempo deambulas por el campus y sales a beber con tu compa\u00f1era de cuarto Lin los fines de semana. Al final de una larga borrachera, conoces a una chica que te entrega algo que nunca podr\u00edas haber imaginado: has sido maldecido a morir el viernes.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://jennahveer.itch.io/courting-death",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjA5MDQ3MS8xNzMyMTkzNy5wbmc=/347x500/%2FJ9KEe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "House Cleaner by AL7USSAIN",
+         "Informacion": "House Cleaner es un juego de terror en el que limpias la casa y descubres que est\u00e1 embrujada por un fantasma.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://al7ussain.itch.io/housecleaner",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNDg2NC8xMTM1NzY5MC5qcGc=/347x500/JJ1S7y.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Still Alive by 0zanM",
+         "Informacion": "El apocalipsis zombi se ha extendido por todo el mundo. La mayor\u00eda de la gente ha muerto. Has o\u00eddo que se ha desarrollado una cura en un laboratorio. Est\u00e1s intentando encontrar la cura en el laboratorio para acabar con este apocalipsis.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://0zanm.itch.io/still-alive",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTk0MTg4NC8xMTQxNjI5My5wbmc=/347x500/OZEYIl.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cookie Crusade by \u00c3\u00b6zaki: game studi\u00c3\u00b6!",
+         "Informacion": "\u00a1Versi\u00f3n m\u00f3vil con m\u00e1scaras disponibles para comprar!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://ozaki-studio.itch.io/cookie-crusade",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkxMTg3Mi8xMjYwNzIwOS5wbmc=/347x500/hoLbh1.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Present by IcarusDev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://icarus-dev.itch.io/the-present",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTg1MjMwMC8xMDg3NDEyOS5wbmc=/347x500/62mEXQ.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Climbit by just for fun",
+         "Informacion": "Diario de aventuras basado en una historia de un explorador que llega a una tumba maldita.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://just-for-fun.itch.io/climbit",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUzMTgxNC84OTM0NDAzLmpwZw==/347x500/Cf34RN.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bunnys mushroom hunt by \u00c3\u00b6zaki: game studi\u00c3\u00b6!",
+         "Informacion": "\u00a1Versi\u00f3n m\u00f3vil disponible para comprar!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://ozaki-studio.itch.io/bunny-mushroom-hunt",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ3Nzg4OC8xMjYwNzE5NS5wbmc=/347x500/3NuTyw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Easy as Pi by snugpig studios",
+         "Informacion": "\u00a1Atraviesa los niveles a la velocidad de Pi, pero ten cuidado! \u00a1Solo tienes 3,14 segundos para superar cada nivel! Easy as Pi es un juego de carreras de velocidad dif\u00edcil y de ritmo r\u00e1pido en el que se recompensa la habilidad y la optimizaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://snugpig.itch.io/easy-as-pi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQxOTYxMS84NDI0OTUyLmdpZg==/347x500/oWmCCg.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coastal Rescue Simulator by just for fun",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://just-for-fun.itch.io/coastal-rescue-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM5ODA2MC84MTQ5MTM3LmpwZw==/347x500/bNOFoN.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Xplanet by just for fun",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://just-for-fun.itch.io/xplanet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTI3OTA1MC83NDQ2MDU4LmpwZw==/347x500/kIOKEP.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Escape Redroom by just for fun",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://just-for-fun.itch.io/escape-redroom",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTAwMzM2Ni81NzEyMjA5LmpwZw==/347x500/O55%2BWn.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hunt them by just for fun",
+         "Informacion": "Se apoderan de una aldea y el \u00fanico que sobrevive a la ira es aquel que muere lentamente.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://just-for-fun.itch.io/hunt-them",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDU3MDkyLzIzMjk5OTEucG5n/347x500/zYySHy.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Burning Locks by max levine stuff",
+         "Informacion": "Busca las pistas. La corte mundial de los vivos ha declarado tu inocencia, pero debes darte cuenta de ello por ti mismo para regresar a ellos. Una chispa, una neurona que se dispara, para encender un fuego. O languidecer aqu\u00ed dentro de tu propia mente.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://maximilian.itch.io/the-burning-locks",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzY4Nzg3LzE5NDA1ODQucG5n/347x500/PFqEfT.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Swarm Saucers by max levine stuff",
+         "Informacion": "Debes llegar a la convenci\u00f3n de quesos, \u00a1pero los extraterrestres te est\u00e1n atacando! Juega a trav\u00e9s de una serie de desaf\u00edos y una historia divertid\u00edsima. No te llevar\u00e1 mucho tiempo, es divertido, enriquecer\u00e1 tu vida y es gratis, as\u00ed que \u00bfqu\u00e9 puedes perder?",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://maximilian.itch.io/swarm-saucers",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTgwMTM2Lzg0Mjk2NC5wbmc=/347x500/kbxsXa.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Chaotic Ascent by max levine stuff",
+         "Informacion": "Sube cada vez m\u00e1s alto, \u00a1pero no te dejes aplastar, atrapar o electrocutar!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://maximilian.itch.io/chaotic-ascent",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTgyNTQvNDYwMDg3LmdpZg==/347x500/FVH%2Fwl.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Apocalypse by max levine stuff",
+         "Informacion": "3 mundos abiertos para explorar. Busca munici\u00f3n sigilosamente antes de enfrentarte a la horda. Despu\u00e9s, disfruta de un juego de disparos lleno de acci\u00f3n. Lleno de momentos de tensi\u00f3n y miedo genuino. Limpia cada \u00e1rea de zombis para asegurarla. Sobrevive o muere en el intento.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://maximilian.itch.io/zombie-apocalypse",
+         "IMG": "https://img.itch.zone/aW1hZ2UvOTcwNDcvNDU1NzQ4LmdpZg==/347x500/%2F5ScOi.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "E'gduj by BiloTheFirst",
+         "Informacion": "Un gato y una ni\u00f1a huyen de un monstruo. Seguro que no hay nada m\u00e1s que decir, \u00bfverdad?",
+         "Desde": "",
+         "Hasta": "2025/01/03 17:21",
+         "URL": "https://bilothefirst.itch.io/egduj",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI3NjA0Ny8xMzUxNzE4Mi5wbmc=/347x500/0Z0JqH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bilo: Essenol by BiloTheFirst",
+         "Informacion": "Bilo se embarca en una aventura de plataformas, mazmorras, combates y jefes para arreglar su error pasado.",
+         "Desde": "",
+         "Hasta": "2025/01/03 17:21",
+         "URL": "https://bilothefirst.itch.io/biloessenol",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIyNDAzNS8xMzIwMjMzNi5wbmc=/347x500/iSvzYV.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -2119,6 +2669,16 @@
          "URL": "https://giveaway.tickcoupon.com/winx-dvd-copy-pro-giveaway/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2018/12/winx-dvd-copy-pro-giveaway-1.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stomagron by Duodol Games",
+         "Informacion": "Stomagron es un juego de terror liminal retro en el que debes apagar la luz en la parte superior de una antigua torre alta.",
+         "Desde": "",
+         "Hasta": "2025/01/05 19:00",
+         "URL": "https://duodolgames.itch.io/stomagron",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA0MzU5MS8xODIwMzk1NS5qcGc=/347x500/uqkMA2.jpg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -2272,6 +2832,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "flappy effects by alessandro06_0",
+         "Informacion": "Descripci\u00f3n:",
+         "Desde": "",
+         "Hasta": "2025/01/10 02:00",
+         "URL": "https://alessandro06-0.itch.io/flappy-effects",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA5MzExMy8xODU0Nzc1NS5naWY=/347x500/C%2Bo5Az.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Rise Above! by alessandro06_0",
+         "Informacion": "Rise Above es un juego de plataformas que desaf\u00eda la gravedad y que lleva a los jugadores a un viaje sin fin a trav\u00e9s del espacio y el tiempo, donde el \u00fanico camino hacia adelante es hacia arriba. En esta aventura c\u00f3smica, los jugadores escalan a trav\u00e9s de paisajes surrealistas y cambiantes, cada uno de los cuales representa una era diferente en la historia o un futuro fant\u00e1stico. Con cada nuevo nivel, desbloqueas un nuevo reino y, con \u00e9l, nuevos desaf\u00edos y misterios.",
+         "Desde": "",
+         "Hasta": "2025/01/10 02:00",
+         "URL": "https://alessandro06-0.itch.io/rise-above",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA1MTM1OS8xODM3NTI5Ni5wbmc=/347x500/sHDmJe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "AOMEI FoneBackup Pro License Key Download",
          "Informacion": "\u00bfNecesita un software de gesti\u00f3n de datos completo para su iPhone? No busque m\u00e1s que AOMEI FoneBackup Pro. AOMEI FoneBackup Pro es conocido por ser un software r\u00e1pido y sencillo que puede realizar copias de seguridad de los datos del iPhone y transferir archivos del iPhone al ordenador de la forma m\u00e1s segura y r\u00e1pida. Adem\u00e1s, este software para tel\u00e9fonos puede funcionar muy bien con aplicaciones de terceros como WhatsApp para transferir chats, emojis, fotos, v\u00eddeos y documentos de WhatsApp a un nuevo tel\u00e9fono y hacer una copia de seguridad de sus datos de WhatsApp en otro dispositivo para evitar cualquier p\u00e9rdida de datos. No se requiere iCloud; el software le permite realizar todas las tareas sin problemas y con una integridad de datos del 100%.",
          "Desde": "",
@@ -2388,6 +2968,16 @@
          "Hasta": "2025/05/31 07:00",
          "URL": "https://towi-1.itch.io/speed-of-life-3d",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTg2NzUxNC8xMzcyMTg3NS5wbmc=/347x500/B0v3ic.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Small Mouse Big House by 4DpixelGames",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/05 15:11",
+         "URL": "https://4dpixel.itch.io/small-mouse-big-house",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyNDczNS8xNzgyNzUzMi5wbmc=/347x500/zZjecw.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
