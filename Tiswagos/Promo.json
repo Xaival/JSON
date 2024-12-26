@@ -1,486 +1,6 @@
 {
-   "date_update": "25 Dec 2024 17:04 UTC",
+   "date_update": "26 Dec 2024 17:05 UTC",
    "values": [
-      {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Juegos retro 5 en 1",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego de terror corto creado en una semana.",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/stargates",
-         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este proyecto est\u00e1 patrocinado por Grantech.shop",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores.",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
-         "Desde": "",
-         "Hasta": "2024/12/25 10:39",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Ball Cave by Gman1514",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/ball-cave",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE4MTQ1My8xODk5ODAzMC5wbmc=/347x500/6g6uq%2B.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "City Sims VR by Gman1514",
-         "Informacion": "Simuladores de ciudades en realidad virtual",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/city-sims-vr",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg5MDgyMC8xNzI4OTM2OS5wbmc=/347x500/dJRUXg.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "City Theft by Gman1514",
-         "Informacion": "Teclas de flecha para moverte. City Theft es un juego basado en misiones en el que trabajas con una pandilla y completas misiones para ellos. \u00bfPuedes gobernar la ciudad? Haz clic en el cuadrado negro para pasar al siguiente escenario.",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/city-theft",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgwMDk3MS8xNjcyMjc4MC5wbmc=/347x500/zv53VQ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Duck Crossing by Gman1514",
-         "Informacion": "Intenta llevar el pato al otro lado de la calle (no es f\u00e1cil) \u00a1\u00a1\u00a1Buena suerte!!!",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/duck-crossing",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc0NzMyNi8xNjM5NDYwMi5wbmc=/347x500/dZkkzv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Glitch Maze by Gman1514",
-         "Informacion": "utiliza las teclas de flecha para moverte y divertirte tratando de no chocar contra las paredes.",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/glitch-maze",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc0OTk0My8xNjQxMTgwMi5wbmc=/347x500/x14TJv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Hotel Manager Sim by Gman1514",
-         "Informacion": "Entonces, la gente se acercar\u00e1 a ti con cosas para que hagas cuando quieras hacer algo, haz clic en Realizar tarea y cuando hayas terminado tu tarea, haz clic en Finalizar tarea. \u00a1Divi\u00e9rtete!",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/hotel-manager-sim",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgyMjIyMi8xNjg1OTc0MC5wbmc=/347x500/gcTecR.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Little Man 2 by Gman1514",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/little-man-2",
-         "IMG": "https://img.itch.zone/aW1nLzE2Njk4ODg0LnBuZw==/347x500/KmzKRR.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Little man 3 by Gman1514",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/little-man-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc5ODk5MS8xNjcxMDIzNS5wbmc=/347x500/6r%2BGY4.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Little Man by Gman1514",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/little-man",
-         "IMG": "https://img.itch.zone/aW1nLzE2Njk4ODY3LnBuZw==/347x500/%2Bz70oL.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "The Fall Harvest by Gman1514",
-         "Informacion": "Un juego de agricultura de oto\u00f1o. Presione p para acariciar a los animales. Teclas de flecha para moverse.",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:00",
-         "URL": "https://gman1514.itch.io/the-fall-harvest",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDgwNi8xNzgzMDkxMy5wbmc=/347x500/gEYBSk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "BloodWood by LouisGames",
-         "Informacion": "Inmerso en un bosque denso y misterioso en una isla olvidada, est\u00e1s en busca de un artefacto precioso, un objeto raro que podr\u00eda cambiar el curso de la historia. Pero no est\u00e1s solo. Las sombras se mueven, los enemigos acechan cada uno de tus movimientos y cada paso podr\u00eda ser el \u00faltimo. En Bloodwood, la supervivencia no es una opci\u00f3n, es una lucha. Explora, esquiva y supera tus l\u00edmites para lograr tu objetivo. \u00bfPodr\u00e1s salir vivo de este maldito bosque?",
-         "Desde": "",
-         "Hasta": "2024/12/25 13:37",
-         "URL": "https://louisgames.itch.io/bloodwood",
-         "IMG": "https://img.itch.zone/aW1nLzE4ODkwMjIwLnBuZw==/347x500/n79DIY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
-      },
-      {
-         "Nombre": "Ant Download Manager Pro License Giveaway Free 2024",
-         "Informacion": "Ant Download Manager es un gestor de descargas de Internet para cualquier tipo de archivo que le ayuda a descargar y gestionar v\u00eddeos. Con este software, puede descargar archivos de audio, extraer pistas de audio de archivos de v\u00eddeo y, a continuaci\u00f3n, convertirlos al popular formato MP3 y a\u00f1adirles la informaci\u00f3n b\u00e1sica correspondiente.",
-         "Desde": "",
-         "Hasta": "2024/12/25 14:00",
-         "URL": "https://giveaway.tickcoupon.com/ant-download-manager-pro-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/05/Ant-Download-Manager-Pro.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "DREDGE",
-         "Informacion": "DREDGE",
-         "Desde": "2024/12/24",
-         "Hasta": "2024/12/25 17:00",
-         "URL": "https://store.epicgames.com/p/dredge-3e3a5f",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game7_1080x1920_1920x1080-7fa45f164fc91e810bc0450e0ccaf5ac",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Mystery Game 7",
-         "Informacion": "Mystery Game 7",
-         "Desde": "2024/12/24",
-         "Hasta": "2024/12/25 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Space Factory by mindgames studios",
-         "Informacion": "\u00a1Disponible para comprar AHORA en itch.io!",
-         "Desde": "",
-         "Hasta": "2024/12/25 17:00",
-         "URL": "https://mindgames-studios.itch.io/spacefactory",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NzM0Ny8xMjE5MTk4NC5wbmc=/347x500/JgW1i0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Life's Too Short: A Christmas Spirit (Playdate) by Pixel Ghost",
-         "Informacion": "En Life's Too Short: A Christmas Spirit, una vez m\u00e1s asumes el papel de un solucionador de problemas celestial llamado a la mansi\u00f3n de los vampiros. Esta vez son el conde y la condesa quienes toman la decisi\u00f3n... \u00a1Se ha tomado una decisi\u00f3n apresurada y tu trabajo es salvar la Navidad!",
-         "Desde": "",
-         "Hasta": "2024/12/25 22:30",
-         "URL": "https://pixel-ghost.itch.io/lifes-too-short-a-christmas-spirit-playdate",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTgxMjczMy8xMjUwOTI1OC5wbmc=/347x500/II26ps.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "AnyViewer Professional License Key for Free",
-         "Informacion": "AnyViewer Professional es una herramienta de acceso y soporte remoto a computadoras sencilla pero de primera clase que le ayudar\u00e1 a eliminar los controles de la PC y trabajar de forma remota a trav\u00e9s de Internet desde cualquier lugar. La herramienta permite a las peque\u00f1as y medianas empresas o a los usuarios individuales supervisar, administrar y reparar la PC de forma remota con facilidad. Tambi\u00e9n incluye una funci\u00f3n de transferencia de archivos para ayudarle a cambiar la posici\u00f3n de los archivos de una PC a otra o a varias PC a la vez con alta calidad.",
-         "Desde": "",
-         "Hasta": "2024/12/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/anyviewer-professional-vip-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/06/anyviewer-professional-giveaway.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF to JPG Converter 1 Year License Free",
-         "Informacion": "Coolmuster PDF to JPG Converter es una herramienta de conversi\u00f3n de PDF para PC sencilla y f\u00e1cil de usar. El programa es ideal para realizar conversiones sin esfuerzo de archivos PDF a formato de imagen. Con el uso de esta herramienta, puede convertir archivos PDF a formatos JPG, PNG, TIF, BMP y GIF de manera r\u00e1pida y eficaz. Con Coolmuster PDF to JPG Converter, puede estar seguro de que las fuentes originales, el dise\u00f1o y la calidad de la imagen se conservar\u00e1n en las im\u00e1genes convertidas.",
-         "Desde": "",
-         "Hasta": "2024/12/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-jpg-converter-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/coolmuster-pdf-to-jpg-converter-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "DearMob iPhone Manager Giveaway License Key Free 2024",
-         "Informacion": "DearMob iPhone Manager es el primer administrador de iOS del mundo que transfiere datos de iPhone con un m\u00e9todo de cifrado. Te permite administrar completamente tus datos de iOS. Tiene incorporada la capacidad de transferir fotos, videos y contactos de iPhone con un nivel de cifrado militar para evitar fugas de privacidad, realizar copias de seguridad y restaurar datos de iOS en orden cronol\u00f3gico y opciones para transferir selectivamente contenidos de la computadora al iPhone en dos direcciones, ya sean fotos, videos, m\u00fasica, contactos, mensajes, iTunes U, podcasts, aplicaciones, calendarios, mensajes de voz, archivos, etc. Tu privacidad no es inmune a las fugas; prot\u00e9gela para evitar amenazas con DearMob iPhone Manager.",
-         "Desde": "",
-         "Hasta": "2024/12/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/12/dearmob-iphone-manager-giveaway-key.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "been run 3 by EGG12345",
-         "Informacion": "se ha convertido en ..... o no, no lo s\u00e9, por cierto, esto lo hizo un ni\u00f1o, as\u00ed que parece sospechoso, as\u00ed que aseg\u00farate antes de descargarlo",
-         "Desde": "",
-         "Hasta": "2024/12/26 00:14",
-         "URL": "https://egg12345.itch.io/been-run-3",
-         "IMG": "https://img.itch.zone/aW1nLzE2MjgxNjczLnBuZw==/347x500/lILdB3.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "egg5's adventure by EGG12345",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/26 00:14",
-         "URL": "https://egg12345.itch.io/egg5s-adventure",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI0NzMyMS8xMzMxNjgxNC5wbmc=/347x500/T6hsji.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "SCMALLUM THE GAME by EGG12345",
-         "Informacion": "Este proyecto se encuentra actualmente en versi\u00f3n beta y recibir\u00e1 actualizaciones.",
-         "Desde": "",
-         "Hasta": "2024/12/26 00:14",
-         "URL": "https://egg12345.itch.io/scmallum-the-game",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NDk2NC8xNDQ4NTMxMC5wbmc=/347x500/AZt7Ak.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Mathmare (Full) by Strikeforce Studio",
-         "Informacion": "\u00a1Consigue el juego COMPLETO hoy mismo! \u00a1Viene con un modo desaf\u00edo y m\u00e1s contenido del juego!",
-         "Desde": "",
-         "Hasta": "2024/12/26 04:35",
-         "URL": "https://strikeforce-studio.itch.io/mathmare-full",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyMTA0Ni8xNzU0MzgyMS5wbmc=/347x500/sH%2BakH.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "Mathmare Holidays DLC by Strikeforce Studio",
-         "Informacion": "MATHMARE \u00a1pero con tem\u00e1tica navide\u00f1a!",
-         "Desde": "",
-         "Hasta": "2024/12/26 04:35",
-         "URL": "https://strikeforce-studio.itch.io/mathmare-holidays-edition",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg2MTY3NC8xNzU0NDE0Ni5wbmc=/347x500/9%2F0Wjy.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "Mathmare Lore Launcher by Strikeforce Studio",
-         "Informacion": "Lore Launcher es un lanzador que tiene minijuegos que te cuentan la historia de los juegos de Mathmare.",
-         "Desde": "",
-         "Hasta": "2024/12/26 04:35",
-         "URL": "https://strikeforce-studio.itch.io/mathmare-lore-launcher",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyODM4Mi8xNzU0NzA1NS5wbmc=/347x500/mkdPoj.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "Mathmare Mobile Early Access by Strikeforce Studio",
-         "Informacion": "Obtenga acceso anticipado hoy",
-         "Desde": "",
-         "Hasta": "2024/12/26 04:35",
-         "URL": "https://strikeforce-studio.itch.io/mathmare-mobile-pre-order",
-         "IMG": "https://img.itch.zone/aW1nLzE2OTczNTQ1LnBuZw==/347x500/Pws408.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "Mathmare Nightmare Edition by Strikeforce Studio",
-         "Informacion": "\u00bfEl juego completo no es lo suficientemente ASUSTADOR? \u00bfO no quieres comprarlo ni el DLC? Te presento la Nightmare Edition, que combina el juego completo y el DLC juntos y espera... \u00a1HAY M\u00c1S! \u00a1Obtienes todo el contenido futuro para Mathmare 1 GRATIS y obt\u00e9n informaci\u00f3n EXCLUSIVA para Mathmare 2! \u00a1TAMBI\u00c9N OBTIENES ACCESO ANTICIPADO A LA BETA DE MATHMARE 2!",
-         "Desde": "",
-         "Hasta": "2024/12/26 04:35",
-         "URL": "https://strikeforce-studio.itch.io/mathmare-nightmare-edition",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyMTAyNy8xNzU0MzkyMC5wbmc=/347x500/nUEkOG.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "The MountWood Creature - Survival Mode Update by Noxus Games Studio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2024/12/26 05:57",
-         "URL": "https://noxusgamesstudio.itch.io/the-mountwood-creature",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNjYwOC8xNjgzNTU3NS5naWY=/347x500/XJYKTX.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Easter Egg Tourist by byDan",
-         "Informacion": "\u00a1Toma tu confiable c\u00e1mara instant\u00e1nea y explora lugares inspirados en diferentes mundos en busca de huevos de Pascua de videojuegos!",
-         "Desde": "",
-         "Hasta": "2024/12/26 05:59",
-         "URL": "https://bydandans.itch.io/eet",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyNjI2MS8xNjM3MjIxMi5wbmc=/347x500/S5yczx.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Chico and the Magic Orchards DX by Daikon Games",
-         "Informacion": "El viaje de regreso a casa de Chico",
-         "Desde": "",
-         "Hasta": "2024/12/26 06:06",
-         "URL": "https://daikongames.itch.io/chico-and-the-magic-orchards",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYyNjY2OS8xMTAyMTM4MS5wbmc=/347x500/mIjQ85.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "A Mile in My Shoes by avarisclari",
-         "Informacion": "Haz una peque\u00f1a caminata por el bosque y observa algunos de los pensamientos que tengo mientras camino. Actualmente es muy corto, puede que agregue m\u00e1s senderos o pensamientos en el futuro, pero esto fue solo porque quer\u00eda hacer algo corto en RPG Maker. Tampoco hay audio en el juego, eleg\u00ed hacer esto a prop\u00f3sito. Es para disfrutar de estar \"afuera\" en el juego.",
-         "Desde": "",
-         "Hasta": "2024/12/26 07:00",
-         "URL": "https://avarisclari.itch.io/mile",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTA4ODMxOC82MjY0MDcxLnBuZw==/347x500/XOPknb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Christmas Time by avarisclari",
-         "Informacion": "Una historia corta sobre una familia rota que se re\u00fane para Navidad.",
-         "Desde": "",
-         "Hasta": "2024/12/26 07:00",
-         "URL": "https://avarisclari.itch.io/christmas-time",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTYyNzkvNTgyOTMucG5n/347x500/o%2FAlBV.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "void.Resign by avarisclari",
-         "Informacion": "Un juego de aventuras de texto breve que hice para Halloween. \u00a1Disfr\u00fatalo! :D",
-         "Desde": "",
-         "Hasta": "2024/12/26 07:00",
-         "URL": "https://avarisclari.itch.io/voidresign",
-         "IMG": "https://img.itch.zone/aW1nLzI3Njg4ODEucG5n/347x500/bHrxB7.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Photoluminescence by Intergalactic Dev",
-         "Informacion": "juego de rompecabezas basado en luz donde rediriges l\u00e1seres a sensores para abrir diferentes partes para terminar el nivel. Todo para finalmente destruir la fuente de energ\u00eda. No es solo eso. En los archivos del juego tambi\u00e9n he creado geometr\u00eda no eucladiana. Hay mucho m\u00e1s en este juego que solo sensores y l\u00e1seres. He creado 16 niveles, pero actualmente tengo problemas para empaquetarlo, as\u00ed que te proporcionar\u00e9 una versi\u00f3n de 12 niveles. El tutorial es opcional para todos mis juegos, pero recomiendo encarecidamente hacer el tutorial, ya que este es un juego complicado sin \u00e9l. A\u00fan no he hecho sonido, as\u00ed que por ahora puedes escuchar algo de m\u00fasica. Habr\u00e1 al menos 100 niveles y 0 errores antes de que saque esto del acceso anticipado. Esa ser\u00e1 la versi\u00f3n 1.0.0. Actualmente estoy en v0.10.0, con 13 niveles jugables, 1 nivel grande casi terminado y 2 niveles prototipo en los archivos. Tengo 1 prototipo y muchas ideas para la muerte en este juego. Todav\u00eda hay muchos errores en este juego y soy consciente de la mayor\u00eda de ellos. Ya he creado geometr\u00eda no eucladiana, pero hay muchos errores que tendr\u00e9 que corregir. Estoy desarrollando versiones multijugador y de consola del juego, pero no ser\u00e1 compatible por un tiempo. A\u00fan no he creado el personaje, as\u00ed que es solo el motor Unreal predeterminado, Manny, espero que no sea molesto.",
-         "Desde": "",
-         "Hasta": "2024/12/26 07:30",
-         "URL": "https://messier9000.itch.io/luminescence",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE1NDYyMy8xODg5OTM5Mi5wbmc=/347x500/1L4D1P.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "coffee boy by bee tea",
-         "Informacion": "En este encantador juego corto, juegas como el chico del caf\u00e9 reci\u00e9n contratado. \u00a1Depende de ti encontrar el caf\u00e9 verdadero y entreg\u00e1rselo al jefe! Podr\u00e1s hacer amigos extravagantes, explorar las misteriosas instalaciones, leer textos de sabores divertidos y... \u00bfencontrar al chico del caf\u00e9 desaparecido? De todos modos, no te preocupes por eso \u00faltimo y conc\u00e9ntrate en LLEVARLE EL CAF\u00c9 AL JEFE.",
-         "Desde": "",
-         "Hasta": "2024/12/26 07:59",
-         "URL": "https://bee-tea.itch.io/coffeeboy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4MzcwNy84MDg3NTc5LnBuZw==/347x500/m7t9P9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
-      {
-         "Nombre": "rainy day by bee tea",
-         "Informacion": "\" Un juego corto sobre la lucha de una familia contra la depresi\u00f3n y su recuperaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2024/12/26 07:59",
-         "URL": "https://bee-tea.itch.io/rainyday",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTIzNDk4Mi83MjAwNTY2LnBuZw==/347x500/Qc0KWv.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Burning Studio 2025",
-         "Informacion": "Ashampoo Burning Studio 2025 graba pel\u00edculas, m\u00fasica y datos de forma fiable en todo tipo de discos. Tambi\u00e9n admite copias de seguridad de datos, extracci\u00f3n de CD y dise\u00f1os de car\u00e1tulas personalizados, lo que resulta perfecto para todo tipo de proyectos de grabaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2024/12/26 08:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/submit-2.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "AOMEI Christmas Giveaway",
-         "Informacion": "El mayor sorteo del carnaval navide\u00f1o",
-         "Desde": "",
-         "Hasta": "2024/12/26 09:00",
-         "URL": "https://www.bitsdujour.com/software/aomei-christmas-giveaway/in=upcoming-freebies",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/aomei-christmas-giveaway-wlqye.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "IUWEsoft DVD Creator Pro 1 Year Key Free",
          "Informacion": "IUWEsoft DVD Creator Pro es un software de creaci\u00f3n de DVD profesional dise\u00f1ado para grabar, convertir y crear DVD a partir de cualquier archivo de audio y v\u00eddeo con calidad original. Esta herramienta admite m\u00e1s de 150 formatos de v\u00eddeo, incluidos AVI, MP4, DAT, WEBM y muchos m\u00e1s, para ayudarle a grabar v\u00eddeos en discos DVD, carpetas o archivos ISO. Con su ayuda, puede conservar recuerdos valiosos, crear presentaciones profesionales o simplemente disfrutar de sus v\u00eddeos favoritos en una pantalla m\u00e1s grande.",
@@ -489,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/iuwesoft-dvd-creator-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/12/iuwesoft-dvd-creator-pro.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Control",
@@ -499,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/control",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game8_1080x1920_1920x1080-17347f31e263e117a7a45d04eb557ec8",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Don't Look Back by Damage Control",
@@ -509,7 +29,7 @@
          "URL": "https://damage-control.itch.io/dont-look-back",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk2NjU4NS8xNzc0NzgxMS5naWY=/347x500/7OOHKn.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Swarleynaut by MazskiGames",
@@ -519,7 +39,7 @@
          "URL": "https://mazskigames.itch.io/swarleynaut",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM2NjgxNy8xNDAxNzUzOS5wbmc=/347x500/3UYu0O.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
       },
       {
          "Nombre": "File Sharing Pro",
@@ -529,7 +49,17 @@
          "URL": "https://sharewareonsale.com/s/free-file-sharing-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/10/1avshare1-200x150.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "AOMEI Christmas Giveaway",
+         "Informacion": "El mayor sorteo del carnaval navide\u00f1o",
+         "Desde": "",
+         "Hasta": "2024/12/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/aomei-christmas-giveaway/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/aomei-christmas-giveaway-wlqye.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Forest Ranger Services: Episode 1 by GuardHouse",
@@ -539,6 +69,16 @@
          "URL": "https://guardhouse.itch.io/forest-ranger-services-episode-1",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE0NTc2Mi8xODc5MjEzMC5qcGc=/347x500/lg7Jz6.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ghostrunner 2",
+         "Informacion": "Ghostrunner 2",
+         "Desde": "2024/12/26",
+         "Hasta": "2024/12/27 17:00",
+         "URL": "https://store.epicgames.com/p/ghostrunner-2",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game9_1080x1920_1920x1080-3bc3c3c2f960cf95081175e791887b18",
+         "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -560,6 +100,16 @@
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkwNjg0Mi8xNjEzMzM1Mi5wbmc=/347x500/b6jdXe.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mystery Game 10",
+         "Informacion": "Mystery Game 10",
+         "Desde": "2024/12/27",
+         "Hasta": "2024/12/28 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Coolmuster iPhone Backup Extractor 1-Year Key Free",
@@ -842,6 +392,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Photo Commander 17",
+         "Informacion": "El nuevo Ashampoo Photo Commander 17 es una soluci\u00f3n de software integral para ver, editar y organizar fotos digitales. Las opciones de filtro y agrupaci\u00f3n inteligentes ayudan a los usuarios a realizar un seguimiento sin importar cu\u00e1n grandes sean sus colecciones de fotos. El programa admite geoetiquetado para ordenar fotos por ubicaci\u00f3n y puede visualizar ubicaciones en un mapa. El visor de im\u00e1genes de Photo Commander presenta transiciones perfectas y es perfecto para entornos de m\u00faltiples pantallas con resoluciones 4K de alta resoluci\u00f3n. Las caracter\u00edsticas incluyen optimizaci\u00f3n autom\u00e1tica de im\u00e1genes m\u00e1s efectos manuales y varias herramientas para recuperar im\u00e1genes descoloridas, eliminar rayones, corregir ojos rojos y eliminar ruido digital. El procesamiento por lotes integrado es ideal para grandes cantidades de im\u00e1genes y admite la conversi\u00f3n, as\u00ed como las funciones comunes de manipulaci\u00f3n de im\u00e1genes. Los usuarios tambi\u00e9n pueden crear collages, calendarios y tarjetas fotogr\u00e1ficas individuales basados \u200b\u200ben m\u00faltiples plantillas incluidas y dise\u00f1os de marcos para obtener resultados r\u00e1pidos. Crear presentaciones de diapositivas con transiciones suaves y m\u00fasica de fondo es igualmente f\u00e1cil. Ashampoo Photo Commander 17 es totalmente compatible con Windows 11 y es el primer Photo Commander que cuenta con soporte nativo de 64 bits. La versi\u00f3n 17 ha sido revisada tecnol\u00f3gicamente y presenta importantes mejoras de velocidad, por ejemplo, con archivos JPG carg\u00e1ndose hasta un 40% m\u00e1s r\u00e1pido.",
+         "Desde": "",
+         "Hasta": "2024/12/31 08:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-17-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/scr-ashampoo-photo-commander-17-presentation.jpg?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Between two Worlds - Family Day by PixelPun | GamesbyRob",
          "Informacion": "Tambi\u00e9n dale un momento para que se cargue si est\u00e1s jugando en el navegador, especialmente despu\u00e9s de hacer clic en \"Iniciar\", si no se reproduce en el navegador, hay versiones descargables en la parte inferior de esta p\u00e1gina.",
          "Desde": "",
@@ -909,16 +469,6 @@
          "URL": "https://manstersoft.itch.io/poopy-pak",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTMwODAxLzYwMDYxNi5wbmc=/347x500/EfrurF.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Commander 17",
-         "Informacion": "El nuevo Ashampoo Photo Commander 17 es una soluci\u00f3n de software integral para ver, editar y organizar fotos digitales. Las opciones de filtro y agrupaci\u00f3n inteligentes ayudan a los usuarios a realizar un seguimiento sin importar cu\u00e1n grandes sean sus colecciones de fotos. El programa admite geoetiquetado para ordenar fotos por ubicaci\u00f3n y puede visualizar ubicaciones en un mapa. El visor de im\u00e1genes de Photo Commander presenta transiciones perfectas y es perfecto para entornos de m\u00faltiples pantallas con resoluciones 4K de alta resoluci\u00f3n. Las caracter\u00edsticas incluyen optimizaci\u00f3n autom\u00e1tica de im\u00e1genes m\u00e1s efectos manuales y varias herramientas para recuperar im\u00e1genes descoloridas, eliminar rayones, corregir ojos rojos y eliminar ruido digital. El procesamiento por lotes integrado es ideal para grandes cantidades de im\u00e1genes y admite la conversi\u00f3n, as\u00ed como las funciones comunes de manipulaci\u00f3n de im\u00e1genes. Los usuarios tambi\u00e9n pueden crear collages, calendarios y tarjetas fotogr\u00e1ficas individuales basados \u200b\u200ben m\u00faltiples plantillas incluidas y dise\u00f1os de marcos para obtener resultados r\u00e1pidos. Crear presentaciones de diapositivas con transiciones suaves y m\u00fasica de fondo es igualmente f\u00e1cil. Ashampoo Photo Commander 17 es totalmente compatible con Windows 11 y es el primer Photo Commander que cuenta con soporte nativo de 64 bits. La versi\u00f3n 17 ha sido revisada tecnol\u00f3gicamente y presenta importantes mejoras de velocidad, por ejemplo, con archivos JPG carg\u00e1ndose hasta un 40% m\u00e1s r\u00e1pido.",
-         "Desde": "",
-         "Hasta": "2024/12/31 08:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-17-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/scr-ashampoo-photo-commander-17-presentation.jpg?7462",
-         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1192,6 +742,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BoatGame by PolitikGames",
+         "Informacion": "Corta a los enemigos con tu espada.",
+         "Desde": "",
+         "Hasta": "2024/12/31 14:28",
+         "URL": "https://politikgames.itch.io/boatgame",
+         "IMG": "https://img.itch.zone/aW1nLzExNDgwMjA3LmpwZw==/347x500/yghR%2FD.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Long Road Home by CelestialStudio",
          "Informacion": "NOTA: SE SUPONE QUE EL JUEGO SE JUEGA EN UNA SENTADA (10-15 minutos)Long Road Home: un juego desarrollado por el director de CelestialStudios, Richard King (tambi\u00e9n conocido como CSs) Ten en cuenta que este juego fue un proyecto en solitario, que se realiz\u00f3 en tres d\u00edas. Pueden ocurrir errores, pero h\u00e1zmelo saber a trav\u00e9s de los comentarios. \u00a1Todos los comentarios son valiosos! En \"Long Road Home\", los jugadores se adentran en una experiencia de terror al estilo PSX. El jugador est\u00e1 perdido, ya que su \u00fanico objetivo es encontrar el camino de regreso a casa. Pero algo no est\u00e1 bien: el paisaje se deforma, el tiempo se repite y los sucesos espeluznantes se intensifican con cada repetici\u00f3n. A medida que desentra\u00f1es el misterio, cuestionar\u00e1s la realidad y la cordura. Todas las donaciones financiar\u00e1n directamente un importante proyecto de juego, que planeamos lanzar de forma gratuita una vez completado. Su apoyo garantiza que nuestro viaje contin\u00fae, \u00a1y agradecemos sinceramente a todos los que donan! Como muestra de nuestra gratitud, todos los que contribuyan aparecer\u00e1n en los cr\u00e9ditos de nuestro pr\u00f3ximo proyecto.",
          "Desde": "",
@@ -1352,6 +912,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster PDF Splitter 1-Year Giveaway Key Free",
+         "Informacion": "Si desea dividir un PDF para crear partes m\u00e1s peque\u00f1as o p\u00e1ginas separadas, vale la pena probar Coolmuster PDF Splitter. Esta aplicaci\u00f3n para dividir PDF ofrece la funci\u00f3n que lo ayudar\u00e1 a dividir y extraer p\u00e1ginas PDF de manera f\u00e1cil y eficiente. Esta herramienta presenta tres modos de divisi\u00f3n para elegir: dividir archivos PDF en cada p\u00e1gina o cada dos, tres o cuatro p\u00e1ginas, dividir el PDF en varios archivos y extraer p\u00e1ginas PDF seg\u00fan el rango que necesite.",
+         "Desde": "",
+         "Hasta": "2025/01/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-splitter-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-splitter-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "DoYourClone for Windows License Key Free 2024",
          "Informacion": "DoYourClone para Windows es un programa de clonaci\u00f3n de discos f\u00e1cil de usar, potente y 100 % seguro. Puede ayudarlo a clonar de manera f\u00e1cil y segura un sistema de disco duro, HDD, SSD, unidad flash USB, tarjeta de memoria, RAID, servidor, etc. Es totalmente compatible con los sistemas operativos Windows 10, Windows 8/8.1, Windows 7, Windows Vista y Windows Server.",
          "Desde": "",
@@ -1369,16 +939,6 @@
          "URL": "https://victorco.itch.io/planetarium",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY4NTYyMC85OTI4MTQ1LnBuZw==/347x500/LYAZPq.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Splitter 1-Year Giveaway Key Free",
-         "Informacion": "Si desea dividir un PDF para crear partes m\u00e1s peque\u00f1as o p\u00e1ginas separadas, vale la pena probar Coolmuster PDF Splitter. Esta aplicaci\u00f3n para dividir PDF ofrece la funci\u00f3n que lo ayudar\u00e1 a dividir y extraer p\u00e1ginas PDF de manera f\u00e1cil y eficiente. Esta herramienta presenta tres modos de divisi\u00f3n para elegir: dividir archivos PDF en cada p\u00e1gina o cada dos, tres o cuatro p\u00e1ginas, dividir el PDF en varios archivos y extraer p\u00e1ginas PDF seg\u00fan el rango que necesite.",
-         "Desde": "",
-         "Hasta": "2025/01/01 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-splitter-free-license-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/coolmuster-pdf-splitter-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1582,16 +1142,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Toxic Mushrooms by Shwampy",
-         "Informacion": "Un juego sobre una persona que est\u00e1 perdida en una isla infectada por hongos t\u00f3xicos.",
-         "Desde": "",
-         "Hasta": "2025/01/01 12:00",
-         "URL": "https://shwampy.itch.io/toxic-mushrooms",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTQyMzk4Ny85NjIzMjkwLnBuZw==/347x500/EN8Vj%2F.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Ashampoo WebCam Guard License Key Free 2024",
          "Informacion": "Bueno, supongamos que est\u00e1 buscando una herramienta excelente para habilitar su c\u00e1mara web y micr\u00f3fono solo cuando sea necesario. En ese caso, Ashampoo WebCam Guard es una de las mejores opciones. Esta herramienta lo ayudar\u00e1 a encender y apagar f\u00e1cilmente su c\u00e1mara web y micr\u00f3fono para evitar el acceso no autorizado a la c\u00e1mara web y al micr\u00f3fono.",
          "Desde": "",
@@ -1599,6 +1149,16 @@
          "URL": "https://giveaway.tickcoupon.com/ashampoo-webcam-guard-free-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/12/ashampoo-webcam-guard-boxshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Toxic Mushrooms by Shwampy",
+         "Informacion": "Un juego sobre una persona que est\u00e1 perdida en una isla infectada por hongos t\u00f3xicos.",
+         "Desde": "",
+         "Hasta": "2025/01/01 12:00",
+         "URL": "https://shwampy.itch.io/toxic-mushrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQyMzk4Ny85NjIzMjkwLnBuZw==/347x500/EN8Vj%2F.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1742,6 +1302,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster PDF to Word Converter 1-Year Key Free",
+         "Informacion": "Microsoft Word te permite editar y modificar documentos con mayor facilidad que los archivos PDF de Adobe. Si quieres editar archivos PDF sin usar Adobe Acrobat, puedes usar este Coolmuster PDF to Word Converter para convertirlos en archivos docx de Word con un solo clic. Luego, puedes editar el contenido del texto, insertar im\u00e1genes y m\u00e1s, como desees. Esta aplicaci\u00f3n de conversi\u00f3n te permite convertir tus archivos PDF en documentos de Word, lo que garantiza que todos los elementos, incluidos el texto, las im\u00e1genes, los gr\u00e1ficos y los dise\u00f1os, se conserven con precisi\u00f3n durante el proceso de conversi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/01/02 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-word-converter-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/02/coolmuster-pdf-to-word-converter.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Bananounce by VoltaJack",
          "Informacion": "-------------------------------------------------- ------------------------",
          "Desde": "",
@@ -1772,22 +1342,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "VERTIGROWL by ApeHardware",
-         "Informacion": "Saludos, empleado.",
-         "Desde": "",
-         "Hasta": "2025/01/02 01:00",
-         "URL": "https://apehardware.itch.io/laboral-acrophobia",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2OTk2NS8xNjUyNjgwOS5wbmc=/347x500/74oGft.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "spacemower by wiskiigor",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/01/02 01:00",
          "URL": "https://wiskiigor.itch.io/spacemower",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzA0ODU4NC8xODIzMzU0OS5wbmc=/347x500/61YnOs.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VERTIGROWL by ApeHardware",
+         "Informacion": "Saludos, empleado.",
+         "Desde": "",
+         "Hasta": "2025/01/02 01:00",
+         "URL": "https://apehardware.itch.io/laboral-acrophobia",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc2OTk2NS8xNjUyNjgwOS5wbmc=/347x500/74oGft.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -2852,6 +2422,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Higher We Go by MasterJohnson",
+         "Informacion": "La \u00fanica esencia de tu existencia es saltar; por lo tanto, acepta el salto. Que encuentres alegr\u00eda en cada ascenso, e incluso en las ca\u00eddas que te ense\u00f1an a levantarte de nuevo. Porque en cada movimiento ascendente, te estiras hacia el infinito, desafiando la atracci\u00f3n de los l\u00edmites terrenales. Pero en esta danza perpetua de esfuerzo, persiste una pregunta... \u00bfpuedes alcanzar las estrellas?",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://masterjohnson.itch.io/the-higher-we-go",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NzIxNy8xODkxNDM4Ni5wbmc=/347x500/pcQQ4H.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Last Worker W by Normal Cup Dev",
          "Informacion": "Worker es un empleado responsable de tomar pedidos de clientes por tel\u00e9fono en la pizzer\u00eda y transmitirlos a los \"conductores\" mediante comunicaci\u00f3n por radio. Pero \u00faltimamente, han estado ocurriendo incidentes inquietantes, como personas desconocidas que golpean puertas y ventanas y se realizan pedidos sospechosos. \u00bfQu\u00e9 le suceder\u00e1 a Worker mientras intenta lidiar con el estr\u00e9s del trabajo y este incidente?",
          "Desde": "",
@@ -3022,12 +2602,182 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Higher We Go by MasterJohnson",
-         "Informacion": "La \u00fanica esencia de tu existencia es saltar; por lo tanto, acepta el salto. Que encuentres alegr\u00eda en cada ascenso, e incluso en las ca\u00eddas que te ense\u00f1an a levantarte de nuevo. Porque en cada movimiento ascendente, te estiras hacia el infinito, desafiando la atracci\u00f3n de los l\u00edmites terrenales. Pero en esta danza perpetua de esfuerzo, persiste una pregunta... \u00bfpuedes alcanzar las estrellas?",
+         "Nombre": "Afcio launcher by Afcio development",
+         "Informacion": "Juegos\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 1) Chicken clicker (desbloqueado despu\u00e9s de publicar el video con la creaci\u00f3n de este juego)",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://masterjohnson.itch.io/the-higher-we-go",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE2NzIxNy8xODkxNDM4Ni5wbmc=/347x500/pcQQ4H.png",
+         "URL": "https://afcio.itch.io/afcio-launcher",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIwNDQ0NS8xOTEzMzU2Mi5wbmc=/347x500/0LNEFi.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Santa's Labyrinth by DodoDevStuff",
+         "Informacion": "\"Santa's Labyrinth\" es un breve juego de terror navide\u00f1o para un solo jugador sobre la exploraci\u00f3n del laberinto de Pap\u00e1 Noel.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://dododevstuff.itch.io/santas-labyrinth",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIwNDAxOS8xOTEzMjE0MC5naWY=/347x500/iM3YxS.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The MountWood Creature - Survival Mode Update by Noxus Games Studio",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://noxusgamesstudio.itch.io/the-mountwood-creature",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNjYwOC8xNjgzNTU3NS5naWY=/347x500/XJYKTX.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentre errores.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego de terror corto creado en una semana.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este proyecto est\u00e1 patrocinado por Grantech.shop",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CWYMP by RyanSP",
+         "Informacion": "\u00bfQu\u00e9 significa caer en tus propios ojos?",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://ryansp.itch.io/cwymp",
+         "IMG": "https://img.itch.zone/aW1nLzgyMDM3ODAuZ2lm/347x500/5NnGLV.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Astro Michi by Brando Ortiz",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://branortz.itch.io/astromichi",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTEzMTg3OS82NTU4MDI2LnBuZw==/347x500/2Indfb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Juegos retro 5 en 1",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/1943",
+         "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/stargates",
+         "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME 2 trata sobre el ERMITA\u00d1O que vive solo.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "HOME GAME trata sobre el ERMITA\u00d1O en casa.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "CLASSIC GAME es un juego de aventuras ASCII que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -3219,6 +2969,16 @@
          "URL": "https://nutty-studios.itch.io/space-invaders",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTA2NDEzNC83MjQ5NDA4LnBuZw==/347x500/4%2FGqAH.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AOMEI Partition Assistant Pro",
+         "Informacion": "AOMEI Partition Assistant Pro es un programa de administraci\u00f3n de particiones y discos duros repleto de funciones que le permite realizar funciones como crear, cambiar el tama\u00f1o, mover, eliminar, copiar, borrar, alinear de forma inteligente, migrar a SSD y m\u00e1s, incluido soporte para medios de recuperaci\u00f3n de arranque WinPE.",
+         "Desde": "",
+         "Hasta": "2025/01/09 08:00",
+         "URL": "https://sharewareonsale.com/s/aomei-partition-assistant-pro-sale",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/aomei.png?7462",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
