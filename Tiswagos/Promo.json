@@ -1,36 +1,6 @@
 {
-   "date_update": "27 Dec 2024 17:04 UTC",
+   "date_update": "28 Dec 2024 17:03 UTC",
    "values": [
-      {
-         "Nombre": "Forest Ranger Services: Episode 1 by GuardHouse",
-         "Informacion": "El episodio 1 de FRS aporta muchas explicaciones y conocimientos sobre el piloto de FRS junto con mucho contenido adicional. Contiene secciones actualizadas del piloto y varias ubicaciones y personajes nuevos. Tiempo de juego de aproximadamente 35 minutos.",
-         "Desde": "",
-         "Hasta": "2024/12/27 15:48",
-         "URL": "https://guardhouse.itch.io/forest-ranger-services-episode-1",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzE0NTc2Mi8xODc5MjEzMC5qcGc=/347x500/lg7Jz6.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
-      },
-      {
-         "Nombre": "Ghostrunner 2",
-         "Informacion": "Ghostrunner 2",
-         "Desde": "2024/12/26",
-         "Hasta": "2024/12/27 17:00",
-         "URL": "https://store.epicgames.com/p/ghostrunner-2",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game9_1080x1920_1920x1080-3bc3c3c2f960cf95081175e791887b18",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "HDR Projects 9",
-         "Informacion": "\u00a1Te esperan muchas nuevas funciones y mejoras en HDR Projects 9! Utiliza las herramientas profesionales para optimizar tus im\u00e1genes a un alto nivel t\u00e9cnico. Crea obras de arte creativas y fotogr\u00e1ficas de alta resoluci\u00f3n con poco esfuerzo utilizando la amplia gama de ajustes preestablecidos que se adaptan a tus gustos.",
-         "Desde": "",
-         "Hasta": "2024/12/28 08:00",
-         "URL": "https://sharewareonsale.com/s/free-hdr-projects-9-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/31530-4_01.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "Underground Dungeon II by Henrr0ry",
          "Informacion": "Este juego es una nueva versi\u00f3n de mi antiguo juego Undergroud Dungeon. Es un cl\u00e1sico juego de rol en 2D de arriba hacia abajo.",
@@ -39,17 +9,7 @@
          "URL": "https://henrr0ry.itch.io/underground-dungeon-ii",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkwNjg0Mi8xNjEzMzM1Mi5wbmc=/347x500/b6jdXe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Mystery Game 10",
-         "Informacion": "Mystery Game 10",
-         "Desde": "2024/12/27",
-         "Hasta": "2024/12/28 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "HOT WHEELS UNLEASHED\u2122",
@@ -59,7 +19,17 @@
          "URL": "https://store.epicgames.com/p/hot-wheels-unleashed",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game10_1080x1920_1920x1080-da542ce3d442311a86d81c40b5d87691",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
+      },
+      {
+         "Nombre": "Mystery Game 10",
+         "Informacion": "Mystery Game 10",
+         "Desde": "2024/12/27",
+         "Hasta": "2024/12/28 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Coolmuster iPhone Backup Extractor 1-Year Key Free",
@@ -69,7 +39,17 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-backup-extractor-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/01/coolmuster-iphone-backup-extractor-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "AOMEI Christmas Giveaway",
+         "Informacion": "El mayor sorteo del carnaval navide\u00f1o",
+         "Desde": "",
+         "Hasta": "2024/12/29 09:00",
+         "URL": "https://www.bitsdujour.com/software/aomei-christmas-giveaway/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/aomei-christmas-giveaway-wlqye.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "EaseUS BitWiper Pro Giveaway License Key for Free 2024",
@@ -79,6 +59,16 @@
          "URL": "https://giveaway.tickcoupon.com/easeus-bitwiper-free-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/easeus-bitwiper-boxshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kill Knight",
+         "Informacion": "Kill Knight",
+         "Desde": "2024/12/28",
+         "Hasta": "2024/12/29 17:00",
+         "URL": "https://store.epicgames.com/p/kill-knight-e981b3",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game11_1080x1920_1920x1080-040262a7bf171f8b775ddbf6fd290161",
+         "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -712,6 +702,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Forest Ranger Services: Episode 1 by GuardHouse",
+         "Informacion": "El tiempo de juego es de unos 35 a 45 minutos.",
+         "Desde": "",
+         "Hasta": "2024/12/31 15:48",
+         "URL": "https://guardhouse.itch.io/forest-ranger-services-episode-1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE0NTc2Mi8xODc5MjEzMC5qcGc=/347x500/lg7Jz6.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Little Bunny 2 by traject",
          "Informacion": "Estado",
          "Desde": "",
@@ -1059,6 +1059,16 @@
          "URL": "https://minimc08.itch.io/across-the-land",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE1MTk1MC8xODgyNzQzNy5qcGc=/347x500/ayplVn.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Files Inspector Pro",
+         "Informacion": "Una utilidad para liberar espacio en disco",
+         "Desde": "",
+         "Hasta": "2025/01/01 08:00",
+         "URL": "https://sharewareonsale.com/s/free-files-inspector-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2019/06/FilesInspector1-200x134.png?7462",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1562,6 +1572,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se estropea.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://worsteventgames.itch.io/cherophobia",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Christmas Kids by alexbaza",
          "Informacion": "Investiga este prototipo de juego basado en la vida real en el que juegas como el cantante principal de The Ronettes y eres acosado por Phil, tu productor.",
          "Desde": "",
@@ -1718,6 +1738,26 @@
          "Hasta": "2025/01/03 08:00",
          "URL": "https://thethil.itch.io/disturbed-timeline",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQzMjAzMS8xNDQxMDQyMy5wbmc=/347x500/VeV4Hf.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MjcyMi8xODI2MjAyNi5qcGc=/347x500/CgF0oE.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Don't Look Back by Damage Control",
+         "Informacion": "Has asumido una tarea aparentemente sencilla: encontrar las llaves que faltan para abrir las puertas que te llevar\u00e1n a los secretos de la casa abandonada. Lo que no sabes es el peligro que acecha en la casa.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://damage-control.itch.io/dont-look-back",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk2NjU4NS8xNzc0NzgxMS5naWY=/347x500/7OOHKn.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1889,6 +1929,16 @@
          "URL": "https://indifferentpenguin.itch.io/gamedaymayhem",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjUwMjczNy8xNDg2ODM2NC5qcGc=/347x500/9yDs7D.jpg",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "GeekerWatermark: AI Watermark Removal",
+         "Informacion": "GeekerWatermark (AI Watermark Remover) es un potente software para agregar y quitar marcas de agua que puede manejar f\u00e1cilmente las marcas de agua tanto en im\u00e1genes como en videos. Admite el procesamiento por lotes, lo que le permite eliminar o agregar marcas de agua de varias im\u00e1genes o videos a la vez, lo que mejora enormemente la eficiencia del trabajo.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://sharewareonsale.com/s/free-geekerwater-ai-watermark-removal-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/geekersoft_wr.jpg?7462",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -2092,6 +2142,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Kairotic Nightmare by Keera",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://ikeera.itch.io/kairotic-nightmare",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1Njk0OS8xNzY5MzM2MC5wbmc=/347x500/6LaRh4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Leucanthemum Eyes by Kuraishimi",
          "Informacion": "",
          "Desde": "",
@@ -2212,12 +2272,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Orco by Moonkey Lab",
+         "Informacion": "WASD o TECLAS DE FLECHA O CONTROLADOR = Movimiento",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://moonkey-lab.itch.io/orco",
+         "IMG": "https://img.itch.zone/aW1nLzEzNzI1MzY1LnBuZw==/347x500/%2BxULYc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Perspective Engine by Rise",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
          "URL": "https://ry2110.itch.io/perspective-engine",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE4MDUxNC8xOTA1MzQ0Ny5wbmc=/347x500/fSWrpn.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Phantom Paper by Moonkey Lab",
+         "Informacion": "Banda sonora de: https://makotohiramatsu.itch.io/",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://moonkey-lab.itch.io/phantompaper",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjM2NzIxOS8xNDA1OTkxMy5wbmc=/347x500/r68FYr.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -2622,6 +2702,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Usern by Moonkey Lab",
+         "Informacion": "BANDA SONORA - Covering Grounds de @maiaeden",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://moonkey-lab.itch.io/user-n",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MjYwMy85MjQ3NjI3LnBuZw==/347x500/hVbrmr.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "V.H.S by alexbaza",
          "Informacion": "",
          "Desde": "",
@@ -2702,6 +2792,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "XI O'Clock by Keera",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://ikeera.itch.io/xi-oclock",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDY4Ni8xNzgzMDI4Ny5wbmc=/347x500/pSrsNe.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Xplanet by just for fun",
          "Informacion": "",
          "Desde": "",
@@ -2732,92 +2832,62 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "GeekerWatermark: AI Watermark Removal",
-         "Informacion": "GeekerWatermark (AI Watermark Remover) es un potente software para agregar y quitar marcas de agua que puede manejar f\u00e1cilmente las marcas de agua tanto en im\u00e1genes como en videos. Admite el procesamiento por lotes, lo que le permite eliminar o agregar marcas de agua de varias im\u00e1genes o videos a la vez, lo que mejora enormemente la eficiencia del trabajo.",
+         "Nombre": "The Parking by GamingTGT",
+         "Informacion": "Un hombre fue al estacionamiento y encontr\u00f3 actividades paranormales sucediendo dentro del estacionamiento.",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://sharewareonsale.com/s/free-geekerwater-ai-watermark-removal-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/geekersoft_wr.jpg?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
-         "Desde": "",
-         "Hasta": "2025/01/03 08:00",
-         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MjcyMi8xODI2MjAyNi5qcGc=/347x500/CgF0oE.jpg",
+         "URL": "https://tgtstudio.itch.io/the-parking",
+         "IMG": "https://img.itch.zone/aW1nLzE4NDg4OTY3LnBuZw==/347x500/AP1rvX.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "XI O'Clock by Keera",
-         "Informacion": "",
+         "Nombre": "War of Ants! by Dancing Dots",
+         "Informacion": "Juego de simulaci\u00f3n de hormigas",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://ikeera.itch.io/xi-oclock",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MDY4Ni8xNzgzMDI4Ny5wbmc=/347x500/pSrsNe.png",
+         "URL": "https://15joldersmat.itch.io/ants",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyOTY1Ni8xNjI4MTExMi5wbmc=/347x500/5CYd4M.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Don't Look Back by Damage Control",
-         "Informacion": "Has asumido una tarea aparentemente sencilla: encontrar las llaves que faltan para abrir las puertas que te llevar\u00e1n a los secretos de la casa abandonada. Lo que no sabes es el peligro que acecha en la casa.",
+         "Nombre": "Average Routine by ColorlessWing_Studio",
+         "Informacion": "Rutina promedio, un juego de rol por turnos con tem\u00e1tica de anime",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://damage-control.itch.io/dont-look-back",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk2NjU4NS8xNzc0NzgxMS5naWY=/347x500/7OOHKn.gif",
+         "URL": "https://colorlesswing-studio.itch.io/average-routine",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjY5NTQ2Mi8xNjE1MTc3NC5wbmc=/347x500/hmcisH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Kairotic Nightmare by Keera",
-         "Informacion": "",
+         "Nombre": "5 And No More, but 60 by BloodAlibi",
+         "Informacion": "\u00a1Bienvenido a la versi\u00f3n de 60 FPS del juego 5 And No More!",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://ikeera.itch.io/kairotic-nightmare",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1Njk0OS8xNzY5MzM2MC5wbmc=/347x500/6LaRh4.png",
+         "URL": "https://bloodalibi.itch.io/5andnomore-60fps",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYyOTY3Ni8xNTY3MTgwNy5naWY=/347x500/Sz23c%2B.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se estropea.",
+         "Nombre": "Funny Game by RinsableSTM",
+         "Informacion": "El mejor juego que jam\u00e1s hayas jugado. No es una estafa. Es 100 % leg\u00edtimo.",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
+         "URL": "https://stm-production.itch.io/funny-game",
+         "IMG": "https://img.itch.zone/aW1nLzE0NDgyMDA1LnBuZw==/347x500/04UXTf.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Phantom Paper by Moonkey Lab",
-         "Informacion": "Banda sonora de: https://makotohiramatsu.itch.io/",
+         "Nombre": "Throw Cubes by BloodAlibi",
+         "Informacion": "Este prototipo trata de lanzar dados con diferentes fuerzas.",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://moonkey-lab.itch.io/phantompaper",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjM2NzIxOS8xNDA1OTkxMy5wbmc=/347x500/r68FYr.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Orco by Moonkey Lab",
-         "Informacion": "WASD o TECLAS DE FLECHA O CONTROLADOR = Movimiento",
-         "Desde": "",
-         "Hasta": "2025/01/03 08:00",
-         "URL": "https://moonkey-lab.itch.io/orco",
-         "IMG": "https://img.itch.zone/aW1nLzEzNzI1MzY1LnBuZw==/347x500/%2BxULYc.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Usern by Moonkey Lab",
-         "Informacion": "BANDA SONORA - Covering Grounds de @maiaeden",
-         "Desde": "",
-         "Hasta": "2025/01/03 08:00",
-         "URL": "https://moonkey-lab.itch.io/user-n",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTU4MjYwMy85MjQ3NjI3LnBuZw==/347x500/hVbrmr.png",
+         "URL": "https://bloodalibi.itch.io/throwcubes",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI1NTA2My8xMzM2NzI1Ni5qcGc=/347x500/kX%2FEya.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -3062,6 +3132,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "iReaShare Android Manager 1-Year License Key Free",
+         "Informacion": "iReaShare Android Manager es un compa\u00f1ero confiable que lo ayuda a administrar datos cruciales en sus dispositivos Android. Esta poderosa herramienta est\u00e1 dise\u00f1ada para ayudarlo a transferir, respaldar, restaurar y administrar sus diversos datos de Android. Puede usar esta herramienta para respaldar datos de su dispositivo Android, incluidas fotos, videos, m\u00fasica, etc., en su computadora o restaurar datos de copias de seguridad.",
+         "Desde": "",
+         "Hasta": "2025/01/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/ireashare-android-manager-free-license/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/12/ireashare-android-manager-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Hide Files License Key Free 2024",
          "Informacion": "Vovsoft Hide Files es una herramienta de cifrado para Windows. Con ella, puedes establecer una contrase\u00f1a para proteger cualquier archivo secreto o embarazoso. Esta herramienta te ayuda a ocultar tus archivos y carpetas de miradas indiscretas y a establecer tu contrase\u00f1a maestra y bloquear tus archivos. Por lo tanto, nadie puede acceder a tus archivos sin tu contrase\u00f1a maestra.",
          "Desde": "",
@@ -3078,16 +3158,6 @@
          "Hasta": "2025/01/10 00:00",
          "URL": "https://giveaway.tickcoupon.com/vovsoft-text-to-mp3-converter-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/vovsoft-text-to-mp3-converter-key.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "iReaShare Android Manager 1-Year License Key Free",
-         "Informacion": "iReaShare Android Manager es un compa\u00f1ero confiable que lo ayuda a administrar datos cruciales en sus dispositivos Android. Esta poderosa herramienta est\u00e1 dise\u00f1ada para ayudarlo a transferir, respaldar, restaurar y administrar sus diversos datos de Android. Puede usar esta herramienta para respaldar datos de su dispositivo Android, incluidas fotos, videos, m\u00fasica, etc., en su computadora o restaurar datos de copias de seguridad.",
-         "Desde": "",
-         "Hasta": "2025/01/10 00:00",
-         "URL": "https://giveaway.tickcoupon.com/ireashare-android-manager-free-license/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/12/ireashare-android-manager-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -3142,6 +3212,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Giveaway Aiarty Image Matting Free Lifetime License 2024",
+         "Informacion": "Aiarty Image Matting es una nueva herramienta de eliminaci\u00f3n de fondo que naci\u00f3 para ayudarte a eliminar el fondo de las im\u00e1genes con precisi\u00f3n, aplicar un matiz mate a objetos complejos como cabello, piel y elementos semitransparentes, y combinar a la perfecci\u00f3n los primeros planos y los fondos. Esta herramienta de edici\u00f3n de fotos profesional ayuda tanto a profesionales como a aficionados a llevar su trabajo a nuevas alturas y editar im\u00e1genes para lograr un mejor impacto visual. En cuesti\u00f3n de segundos, la tecnolog\u00eda de IA completar\u00e1 de manera efectiva el recorte del fondo.",
+         "Desde": "",
+         "Hasta": "2025/01/10 12:00",
+         "URL": "https://giveaway.tickcoupon.com/aiarty-image-matting-license-code-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/11/aiarty-image-matting-giveaway-box.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "DoYourData NTFS for Mac License Key for Free 2024",
          "Informacion": "Si ha estado buscando un software que permita la escritura en unidades NTFS en Mac, entonces DoYourData NTFS para Mac es su elecci\u00f3n. DoYourData NTFS para Mac es un software NTFS para Mac potente y f\u00e1cil de usar que puede habilitar la escritura en unidades NTFS en Mac r\u00e1pidamente. Con su ayuda, puede escribir datos en unidades NTFS, editar/guardar, mover, cambiar, eliminar, agregar, copiar/cortar/pegar o modificar archivos en las unidades NTFS sin ninguna limitaci\u00f3n.",
          "Desde": "",
@@ -3168,6 +3248,26 @@
          "Hasta": "2025/01/10 22:35",
          "URL": "https://ethan-winters.itch.io/trespassers-labyrinth",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc4ODE1MC8xNjY0NDE0MC5wbmc=/347x500/HvuWVd.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maze Runner 3D by Artisan Games",
+         "Informacion": "El corredor del laberinto 3D",
+         "Desde": "",
+         "Hasta": "2025/01/12 20:29",
+         "URL": "https://artisangames.itch.io/maze-runner-3d",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ2ODA4Mi8xNTEzMjQ5Mi5wbmc=/347x500/7GtkYS.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Agent by Artisan Games",
+         "Informacion": "El agente",
+         "Desde": "",
+         "Hasta": "2025/01/12 20:29",
+         "URL": "https://artisangames.itch.io/theagent",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Mjg5My8xMjk1NDEzMi5wbmc=/347x500/EnZqb9.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
