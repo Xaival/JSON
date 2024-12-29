@@ -1,56 +1,6 @@
 {
-   "date_update": "28 Dec 2024 17:03 UTC",
+   "date_update": "29 Dec 2024 17:05 UTC",
    "values": [
-      {
-         "Nombre": "Underground Dungeon II by Henrr0ry",
-         "Informacion": "Este juego es una nueva versi\u00f3n de mi antiguo juego Undergroud Dungeon. Es un cl\u00e1sico juego de rol en 2D de arriba hacia abajo.",
-         "Desde": "",
-         "Hasta": "2024/12/28 13:06",
-         "URL": "https://henrr0ry.itch.io/underground-dungeon-ii",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTkwNjg0Mi8xNjEzMzM1Mi5wbmc=/347x500/b6jdXe.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
-      },
-      {
-         "Nombre": "HOT WHEELS UNLEASHED\u2122",
-         "Informacion": "HOT WHEELS UNLEASHED\u2122",
-         "Desde": "2024/12/27",
-         "Hasta": "2024/12/28 17:00",
-         "URL": "https://store.epicgames.com/p/hot-wheels-unleashed",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game10_1080x1920_1920x1080-da542ce3d442311a86d81c40b5d87691",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Mystery Game 10",
-         "Informacion": "Mystery Game 10",
-         "Desde": "2024/12/27",
-         "Hasta": "2024/12/28 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster iPhone Backup Extractor 1-Year Key Free",
-         "Informacion": "Los usuarios de iPhone reconocen que iTunes es una gran herramienta para realizar copias de seguridad peri\u00f3dicas de sus im\u00e1genes, v\u00eddeos y otros datos importantes en caso de que su dispositivo se pierda, se da\u00f1e o se reemplace. Pero, \u00bfc\u00f3mo recuperar sus datos si pierde su iPhone/iPad/iPod? Coolmuster iPhone Backup Extractor es un software de extracci\u00f3n de copias de seguridad de iPhone profesional que permite extraer archivos de iPhone desde una copia de seguridad de iTunes a una computadora sin necesidad de conectar el iPhone a la computadora.",
-         "Desde": "",
-         "Hasta": "2024/12/29 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-backup-extractor-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/01/coolmuster-iphone-backup-extractor-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "AOMEI Christmas Giveaway",
-         "Informacion": "El mayor sorteo del carnaval navide\u00f1o",
-         "Desde": "",
-         "Hasta": "2024/12/29 09:00",
-         "URL": "https://www.bitsdujour.com/software/aomei-christmas-giveaway/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/aomei-christmas-giveaway-wlqye.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "EaseUS BitWiper Pro Giveaway License Key for Free 2024",
          "Informacion": "Si planea vender o reciclar su computadora, borrar todo lo que hay en su disco duro es la mejor manera de proteger sus datos de manera segura y evitar que alguien acceda a sus archivos utilizando herramientas de software de recuperaci\u00f3n de archivos profesionales. Compatible con los sistemas operativos Windows 11/10/8/7, EaseUS BitWiper es un software de destrucci\u00f3n de datos potente y confiable que lo ayuda a eliminar datos confidenciales de su disco duro de Windows y de sus dispositivos de almacenamiento externos.",
@@ -59,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/easeus-bitwiper-free-license-code/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/easeus-bitwiper-boxshot.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Kill Knight",
@@ -69,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/kill-knight-e981b3",
          "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game11_1080x1920_1920x1080-040262a7bf171f8b775ddbf6fd290161",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Website File Collector License Key Free 2024",
@@ -79,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/website-file-collector-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/12/vovsoft-website-file-collector.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "250 Handmade Icons Pack",
@@ -89,7 +39,7 @@
          "URL": "https://sharewareonsale.com/s/free-250-handmade-icons-pack-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/10/250-Handmade-Icons-Pack-by-Eldamar-Studios-for-SharewareOnSale-200x134.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Glarysoft Malware Hunter Pro 1-Year License Free",
@@ -99,6 +49,16 @@
          "URL": "https://giveaway.tickcoupon.com/malware-hunter-pro-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/12/glarysoft-malware-hunter-pro-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Orcs Must Die! 3",
+         "Informacion": "Orcs Must Die! 3",
+         "Desde": "2024/12/29",
+         "Hasta": "2024/12/30 17:00",
+         "URL": "https://store.epicgames.com/p/combo-a7e03a",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_GameArt_Game12_1080x1920_1920x1080-56319729cf3c39fa405e21f05209cd86",
+         "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -672,6 +632,56 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Liminal Leap : Episode Two by Wenudu",
+         "Informacion": "EL EPISODIO DOS DE LIMINAL LEAP ES GRATIS SI TIENES LIMINAL LEAP (incluso se puede comprar como un juego independiente)",
+         "Desde": "",
+         "Hasta": "2024/12/31 13:00",
+         "URL": "https://wenudu.itch.io/liminal-leap-episode-two",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE4NzcyMC8xOTAzMzU1MC5qcGc=/347x500/x6KUQA.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Neon Wasteland by Wenudu",
+         "Informacion": "En un p\u00e1ramo desolado y azotado por el viento, un solitario local de comida r\u00e1pida se alza como el \u00faltimo basti\u00f3n de esperanza. The Last Fry Stand. Alguna vez un bullicioso centro de indulgencia iluminada con ne\u00f3n, ahora es un puesto avanzado desierto, una reliquia de una era pasada.",
+         "Desde": "",
+         "Hasta": "2024/12/31 13:00",
+         "URL": "https://wenudu.itch.io/neon-wasteland",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzExMjczOS8xODYwNTUzOC5qcGc=/347x500/%2BDq2CU.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CROCODILE MALDIDO by Wenudu",
+         "Informacion": "Versi\u00f3n actualizada: Jaws of the Sewer de CrispyStars",
+         "Desde": "",
+         "Hasta": "2024/12/31 13:00",
+         "URL": "https://wenudu.itch.io/crocodile-maldido",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk2MzYzNS8xNzcyNjk5Mi5wbmc=/347x500/qRhagg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Statue : Chapter one by Wenudu",
+         "Informacion": "Versi\u00f3n actualizada: El artefacto del diablo de CrispyStars",
+         "Desde": "",
+         "Hasta": "2024/12/31 13:00",
+         "URL": "https://wenudu.itch.io/the-statue",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjg1Njg0OS8xNzA3ODY2MS5wbmc=/347x500/NeWCWf.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Liminal Leap by Wenudu",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2024/12/31 13:00",
+         "URL": "https://wenudu.itch.io/liminal-leap",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjY5MTkxOC8xNjA0NzM4NC5qcGc=/347x500/Qlk1Lm.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Sea Town Shopping Mall by David Pires",
          "Informacion": "Ciudad del Mar, 2006",
          "Desde": "",
@@ -710,6 +720,16 @@
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE0NTc2Mi8xODc5MjEzMC5qcGc=/347x500/lg7Jz6.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mystery Game 13",
+         "Informacion": "Mystery Game 13",
+         "Desde": "2024/12/30",
+         "Hasta": "2024/12/31 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Little Bunny 2 by traject",
@@ -1402,6 +1422,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "5 And No More, but 60 by BloodAlibi",
+         "Informacion": "\u00a1Bienvenido a la versi\u00f3n de 60 FPS del juego 5 And No More!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://bloodalibi.itch.io/5andnomore-60fps",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYyOTY3Ni8xNTY3MTgwNy5naWY=/347x500/Sz23c%2B.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
          "Informacion": "Juegos retro 5 en 1",
          "Desde": "",
@@ -1478,6 +1508,16 @@
          "Hasta": "2025/01/03 08:00",
          "URL": "https://branortz.itch.io/astromichi",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTEzMTg3OS82NTU4MDI2LnBuZw==/347x500/2Indfb.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Average Routine by ColorlessWing_Studio",
+         "Informacion": "Rutina promedio, un juego de rol por turnos con tem\u00e1tica de anime",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://colorlesswing-studio.itch.io/average-routine",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjY5NTQ2Mi8xNjE1MTc3NC5wbmc=/347x500/hmcisH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1918,6 +1958,16 @@
          "Hasta": "2025/01/03 08:00",
          "URL": "https://dtrgames.itch.io/the-forest",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE5ODI1My8xOTA5NTgwNy5naWY=/347x500/yeaiW6.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Funny Game by RinsableSTM",
+         "Informacion": "El mejor juego que jam\u00e1s hayas jugado. No es una estafa. Es 100 % leg\u00edtimo.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://stm-production.itch.io/funny-game",
+         "IMG": "https://img.itch.zone/aW1nLzE0NDgyMDA1LnBuZw==/347x500/04UXTf.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -2652,6 +2702,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Parking by GamingTGT",
+         "Informacion": "Un hombre fue al estacionamiento y encontr\u00f3 actividades paranormales sucediendo dentro del estacionamiento.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://tgtstudio.itch.io/the-parking",
+         "IMG": "https://img.itch.zone/aW1nLzE4NDg4OTY3LnBuZw==/347x500/AP1rvX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Present by IcarusDev",
          "Informacion": "",
          "Desde": "",
@@ -2668,6 +2728,16 @@
          "Hasta": "2025/01/03 08:00",
          "URL": "https://noxusgamesstudio.itch.io/the-unlit-sun",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE3NTc3OS8xODk2MjQwNC5wbmc=/347x500/dW8GBX.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Throw Cubes by BloodAlibi",
+         "Informacion": "Este prototipo trata de lanzar dados con diferentes fuerzas.",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://bloodalibi.itch.io/throwcubes",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjI1NTA2My8xMzM2NzI1Ni5qcGc=/347x500/kX%2FEya.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -2782,6 +2852,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "War of Ants! by Dancing Dots",
+         "Informacion": "Juego de simulaci\u00f3n de hormigas",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://15joldersmat.itch.io/ants",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyOTY1Ni8xNjI4MTExMi5wbmc=/347x500/5CYd4M.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wood runner by Poly\u00c3\u00a8dre Rayonnant",
          "Informacion": "\u00bfTe atreves a sumergirte en la salvaje Norteam\u00e9rica en la piel de un antiguo corredor de madera? En este juego de rol de una sola p\u00e1gina, un trocito de la historia de Quebec se convierte en aventuras para vivir con dados y una baraja de cartas. \u00bfPodr\u00e1s traer de vuelta los frutos de tu comercio con tus aliados nativos? Juega solo o con tus amigos y descubre si puedes superar las tribulaciones de estos valientes exploradores...",
          "Desde": "",
@@ -2832,62 +2912,82 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Parking by GamingTGT",
-         "Informacion": "Un hombre fue al estacionamiento y encontr\u00f3 actividades paranormales sucediendo dentro del estacionamiento.",
+         "Nombre": "Combots by HardEdge Games",
+         "Informacion": "Combots es un juego de disparos de guerra de robots multijugador y multiplataforma ambientado en mapas generados completamente por procedimientos con un entorno f\u00edsico.",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://tgtstudio.itch.io/the-parking",
-         "IMG": "https://img.itch.zone/aW1nLzE4NDg4OTY3LnBuZw==/347x500/AP1rvX.png",
+         "URL": "https://hardedge-games.itch.io/combots",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTc4Mzc2Ny8xMDQ4Mzk3MC5wbmc=/347x500/SlUP0U.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "War of Ants! by Dancing Dots",
-         "Informacion": "Juego de simulaci\u00f3n de hormigas",
+         "Nombre": "CTHULHU: Frozen Nightmare by VIRTUA WORLDS",
+         "Informacion": "Cthulhu espera so\u00f1ando... Hasta que unos extra\u00f1os cultistas del lejano norte lo despiertan. \u00a1Usa tu nave para devolver a Cthulhu a su sue\u00f1o helado o muere en el intento!",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://15joldersmat.itch.io/ants",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjcyOTY1Ni8xNjI4MTExMi5wbmc=/347x500/5CYd4M.png",
+         "URL": "https://virtuaworlds.itch.io/cthulhu-frozen-nightmare",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3NTk2LzM2MTYzMDcuZ2lm/347x500/dUHTIS.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Average Routine by ColorlessWing_Studio",
-         "Informacion": "Rutina promedio, un juego de rol por turnos con tem\u00e1tica de anime",
+         "Nombre": "Rivet by Distant Dimensions",
+         "Informacion": "Este juego y todo lo que contiene, desde las animaciones hasta la m\u00fasica, fue creado por una persona en 5 d\u00edas para el Unreal Spring Jam 2020.",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://colorlesswing-studio.itch.io/average-routine",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjY5NTQ2Mi8xNjE1MTc3NC5wbmc=/347x500/hmcisH.png",
+         "URL": "https://distant-dimensions.itch.io/rivet",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNjY3MzMyLzM2MTMyOTgucG5n/347x500/gI9PPi.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "5 And No More, but 60 by BloodAlibi",
-         "Informacion": "\u00a1Bienvenido a la versi\u00f3n de 60 FPS del juego 5 And No More!",
+         "Nombre": "Seclusion by Distant Dimensions",
+         "Informacion": "Hecho para The Icehouse Jam 2019Tema de la jam: Mitos y leyendas",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://bloodalibi.itch.io/5andnomore-60fps",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjYyOTY3Ni8xNTY3MTgwNy5naWY=/347x500/Sz23c%2B.gif",
+         "URL": "https://distant-dimensions.itch.io/seclusion",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTI0NTY0LzI3MzM1NzAucG5n/347x500/mm04do.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Funny Game by RinsableSTM",
-         "Informacion": "El mejor juego que jam\u00e1s hayas jugado. No es una estafa. Es 100 % leg\u00edtimo.",
+         "Nombre": "Every Second by Distant Dimensions",
+         "Informacion": "Hecho para el verano de 2019 #ue4jam: Haz que cuente",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://stm-production.itch.io/funny-game",
-         "IMG": "https://img.itch.zone/aW1nLzE0NDgyMDA1LnBuZw==/347x500/04UXTf.png",
+         "URL": "https://distant-dimensions.itch.io/every-second",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDY3NjgwLzIzODg2MjEucG5n/347x500/EtQ28e.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Throw Cubes by BloodAlibi",
-         "Informacion": "Este prototipo trata de lanzar dados con diferentes fuerzas.",
+         "Nombre": "Day and Knight by Distant Dimensions",
+         "Informacion": "Hecho para la primavera de 2019 #ue4jam: El otro lado de la moneda",
          "Desde": "",
          "Hasta": "2025/01/03 08:00",
-         "URL": "https://bloodalibi.itch.io/throwcubes",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjI1NTA2My8xMzM2NzI1Ni5qcGc=/347x500/kX%2FEya.jpg",
+         "URL": "https://distant-dimensions.itch.io/day-and-knight",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDE3MTgwLzIwODc4NzMucG5n/347x500/rcbhv9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cupid 2.0 by Distant Dimensions",
+         "Informacion": "Descripci\u00f3n del juego: Eres el nuevo Cupido, Cupido 2.0. Ya no vuelas por ah\u00ed usando tu peque\u00f1o y rid\u00edculo arco para emparejar gente, ahora tienes una futurista pistola de plasma con forma de coraz\u00f3n... \u00a1y esta vez los robots son los que reciben el ataque!",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://distant-dimensions.itch.io/cupid2-0",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzczMTMyLzE4NzA3MTkucG5n/347x500/yO8VNm.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "COLUMNS by VIRTUA WORLDS",
+         "Informacion": "COLUMNAS, una experiencia art\u00edstica de Vaporwave VR (y no VR)",
+         "Desde": "",
+         "Hasta": "2025/01/03 08:00",
+         "URL": "https://virtuaworlds.itch.io/columns",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjUzNDQwLzEyMTM0NzMuanBn/347x500/IcltuV.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -3098,6 +3198,16 @@
          "Hasta": "2025/01/09 08:00",
          "URL": "https://sharewareonsale.com/s/aomei-partition-assistant-pro-sale",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/12/aomei.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AOMEI FastRecovery",
+         "Informacion": "AOMEI FastRecovery es un software de recuperaci\u00f3n de datos de Windows compatible con Windows 11, 10, 8, 7 y Windows Server. Es una herramienta de recuperaci\u00f3n de datos f\u00e1cil de usar que ayuda a los usuarios a recuperar datos con solo unos clics del mouse.",
+         "Desde": "",
+         "Hasta": "2025/01/09 08:00",
+         "URL": "https://sharewareonsale.com/s/free-aomei-fastrecovery-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2024/12/giveaway-aomei-fastrecovery-boxshot.png?7462",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
