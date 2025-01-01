@@ -73,7 +73,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 live.pushub.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 nonepushed.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 owenexposure.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 parkingridiculous.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 paychat.fuse-cloud.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 reposemarshknot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 rosyruffian.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -88,7 +87,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.okhatrimaza.com.ph #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 wxhiojortldjyegtkx.bid #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 1045.bordsnewsjule.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 27997.2477april2024.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 738ne9dt.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 a.kgorilla.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 acdcdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -97,28 +95,15 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 adstean.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 affluentshinymulticultural.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 agacelebir.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 agalumineonr.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ai-nude.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.ardssandshrewon.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.bettentacruela.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.ceegriwuwoa.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ak.hetahien.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ak.hetartwg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ak.hetaruvg.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.infeebasr.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.naxadrug.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.ossfloetteor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.oversolosisor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.phumpauk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.roudoduor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.shaugacakro.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ak.zougreek.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 alleviatepracticableaddicted.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 alpidoveon.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ammankeyan.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 api.adultdeepfakes.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 apprefaculty.pro #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 apps-prm.ctengine.io #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 apusduodena.shop #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ashcdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ativesathyas.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -126,13 +111,10 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 ausoafab.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 away.vk.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 awejmp.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 awertyds.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 baushoaptauw.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 beshucklean.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 bestgamesvault.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 bestmatchproduce.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 BlondieSea.blogspot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 booshoatoocotez.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 brands-compare.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 buildershub.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 bullfeeding.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -148,7 +130,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 click.topbrandsearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 clk.tradedoubler.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 comepoint.blogspot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 cordinganeuria.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 creative.rmzsglng.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 cuddlethehyena.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 d.bsrbr.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -164,13 +145,11 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 ed.ungirthfraple.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 edttmar.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 engine.spotscenered.info #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 equuleiapium.shop #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 eu.ebonyporn.best #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 eu.uncoverarching.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 feedyourtralala.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 films.hdflix.club #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 funnyestdating.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 g6ytec.cfd #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 g8tor.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 gagheroinintact.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 gamersterritory.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -184,14 +163,12 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 goodpornclips.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 goosebomb.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 greatdexchange.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 greenplasticdua.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 greerogloo.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 grinfeldmet.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 headshotskins.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 href.li #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 hugfromoctopus.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 hzoti.thesensualnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ig.caudataolibene.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 inpagepush.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 inrotomr.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 inspectorstrongerpill.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -323,7 +300,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 558718.erotilink.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 aduld.click #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 animeplaynow.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 bestlike-girl.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 bigjoynow.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 bl.flirtme.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 bsdatingservice.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -333,7 +309,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 familysimulatorgames.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 findmycrushes.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 flirtyj0y.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 gleetilsoaho.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 hotheartdates.life #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 instabio.cc #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 instaflrt.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -342,12 +317,9 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 mediasama.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 𝗆𝗂𝗅k𝖺𝗄𝗂t.𝖻𝗅og𝗌p𝗈t.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 onlyfreelatinaporn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 pauthoovul.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 pretty-sluts-nearby.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 ptavutchain.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 rr.tracker.mobiletracking.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 s.viizichp.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 seeuonline.site #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 t49.citasconmujeres.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 theonlygames.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 videos4v.homes #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -361,8 +333,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.singleflirt.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.topmaduras.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.xvidzz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 your-local-dating.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 yourcasualdate.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 thebestgame2020.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 best.aliexpress.ru #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 1xbet.es #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -488,7 +458,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 rentnica.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 s3-ap-southeast-2-wasabisys.b-cdn.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 s3.us-west-1.wasabisys.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 sbrakepads.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 seforbouslac.co.in #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 sos-at-vie-1.exo.io #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 sos-bg-sof-1.exo.io #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1420,7 +1389,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 ptv352.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 realusercheck.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 rentry.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 sik586.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 skh731.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 slk594.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 timoandisa.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1470,7 +1438,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 crystal-blocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 download-ready.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 drectsearch.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 dwnld-here.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 es.equip.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 es.stop-bot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ezadblocker.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -1520,7 +1487,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 watchadzfree.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 websurfguard.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.acplat.online #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 www.download-ready.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.mobile.kinman.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.search-speed-browsing.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 bento.me #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
