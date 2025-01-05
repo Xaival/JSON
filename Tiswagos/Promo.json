@@ -1,5 +1,5 @@
 {
-   "date_update": "05 Jan 2025 16:29 UTC",
+   "date_update": "05 Jan 2025 19:15 UTC",
    "values": [
       {
          "Nombre": "Stomagron by Duodol Games",
@@ -9,7 +9,7 @@
          "URL": "https://duodolgames.itch.io/stomagron",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzA0MzU5MS8xODIwMzk1NS5qcGc=/347x500/uqkMA2.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
       },
       {
          "Nombre": "Asterisk Password Recovery Pro",
@@ -19,7 +19,7 @@
          "URL": "https://sharewareonsale.com/s/free-asterisk-password-recovery-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/asteriskpasswordrecoverypro-box-250.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 6%, yellow 6%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "AOMEI Christmas Giveaway",
@@ -29,7 +29,7 @@
          "URL": "https://www.bitsdujour.com/software/aomei-christmas-giveaway/in=today-100-percent",
          "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/aomei-christmas-giveaway-wlqye.png",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Black Desert",
@@ -39,7 +39,7 @@
          "URL": "https://store.steampowered.com/app/582660/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
