@@ -1,5 +1,5 @@
 {
-   "date_update": "05 Jan 2025 14:35 UTC",
+   "date_update": "05 Jan 2025 14:47 UTC",
    "values": [
       {
          "Nombre": "Riders of Icarus",
@@ -66,23 +66,6 @@
          "Plataforma": "Windows",
          "Color": "rgba(255, 255, 0)",
          "JugadorSVG": "<svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
-         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
-         "Distribuidora": "Steam"
-      },
-      {
-         "Nombre": "Supraball",
-         "Informacion": "Juega a f\u00fatbol en primera persona y desarrolla tus propias t\u00e1cticas y trucos. Juega con hasta 9 de tus amigos o \u00fanete solo. \u00a1No es Pay2Win!",
-         "Idioma": "Ingl\u00e9s",
-         "Genero": "Acci\u00f3n, Deportivo",
-         "URL": "https://store.steampowered.com/app/321400/Supraball/",
-         "Multimedia1": "<iframe src=https://www.youtube.com/embed/GwT6OVoWxGY frameborder=0 allowfullscreen></iframe>",
-         "Multimedia2": "<iframe src=https://www.youtube.com/embed/_vJsK4rzmjo frameborder=0 allowfullscreen></iframe>",
-         "Multimedia3": "<iframe src=https://www.youtube.com/embed/fUVP90KXKM8 frameborder=0 allowfullscreen></iframe>",
-         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/321400/header.jpg",
-         "Jugador": "Solitario - Multijugador",
-         "Plataforma": "Windows",
-         "Color": "rgba(255, 255, 0)",
-         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg><svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
          "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
          "Distribuidora": "Steam"
       },
@@ -614,6 +597,23 @@
          "Distribuidora": "Steam"
       },
       {
+         "Nombre": "Supraball",
+         "Informacion": "Juega a f\u00fatbol en primera persona y desarrolla tus propias t\u00e1cticas y trucos. Juega con hasta 9 de tus amigos o \u00fanete solo. \u00a1No es Pay2Win!",
+         "Idioma": "Ingl\u00e9s",
+         "Genero": "Acci\u00f3n, Deportivo",
+         "URL": "https://store.steampowered.com/app/321400/Supraball/",
+         "Multimedia1": "<iframe src=https://www.youtube.com/embed/GwT6OVoWxGY frameborder=0 allowfullscreen></iframe>",
+         "Multimedia2": "<iframe src=https://www.youtube.com/embed/_vJsK4rzmjo frameborder=0 allowfullscreen></iframe>",
+         "Multimedia3": "<iframe src=https://www.youtube.com/embed/fUVP90KXKM8 frameborder=0 allowfullscreen></iframe>",
+         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/321400/header.jpg",
+         "Jugador": "Solitario - Multijugador",
+         "Plataforma": "Windows",
+         "Color": "rgba(255, 255, 0)",
+         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg><svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
+         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
+         "Distribuidora": "Steam"
+      },
+      {
          "Nombre": "Syberia: The World Before",
          "Informacion": "Syberia: The World Before llegar\u00e1 pronto. Compru\u00e9balo aqu\u00ed Vaghen, 1937: Dana Roze es una chica de 17 a\u00f1os que est\u00e1 comenzando una brillante carrera como pianista. Sin embargo, comienzan a aparecer sombras sobre su futuro a medida que la amenaza fascista de la Sombra Parda se cierne sobre Europa, en los albores de la Segunda Guerra Mundial. Taiga, 2004: Kate Walker sobrevive lo mejor que puede en la mina de sal donde ha estado encarcelada, cuando un tr\u00e1gico acontecimiento la impulsa a una nueva aventura en busca de su identidad.",
          "Idioma": "Espa\u00f1ol",
@@ -759,23 +759,6 @@
          "Multimedia2": "<iframe src=https://www.youtube.com/embed/wMS_mdMg6xo frameborder=0 allowfullscreen></iframe>",
          "Multimedia3": "<iframe src=https://www.youtube.com/embed/XTQnM4VMcik frameborder=0 allowfullscreen></iframe>",
          "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/386180/header.jpg",
-         "Jugador": "Multijugador",
-         "Plataforma": "Windows",
-         "Color": "rgba(230, 230, 25)",
-         "JugadorSVG": "<svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
-         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
-         "Distribuidora": "Steam"
-      },
-      {
-         "Nombre": "Paladins",
-         "Informacion": "Acompa\u00f1a a m\u00e1s de 25 millones de jugadores en Paladins, el shooter de fantas\u00eda gratis basado en equipos. Ejerce tus armas y desata poderes m\u00e1gicos como un Campe\u00f3n legendario del Reino. \u00a1Personaliza tus habilidades para jugar exactamente como prefieras!",
-         "Idioma": "Espa\u00f1ol",
-         "Genero": "Acci\u00f3n, Shooter",
-         "URL": "https://store.steampowered.com/app/444090/Paladins/",
-         "Multimedia1": "<iframe src=https://www.youtube.com/embed/dEwEC2MKgeQ frameborder=0 allowfullscreen></iframe>",
-         "Multimedia2": "<iframe src=https://www.youtube.com/embed/a0G2X3kmM54 frameborder=0 allowfullscreen></iframe>",
-         "Multimedia3": "<iframe src=https://www.youtube.com/embed/g4WHiMVq1-8 frameborder=0 allowfullscreen></iframe>",
-         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/444090/header.jpg",
          "Jugador": "Multijugador",
          "Plataforma": "Windows",
          "Color": "rgba(230, 230, 25)",
@@ -1069,6 +1052,23 @@
          "Plataforma": "Windows",
          "Color": "rgba(230, 230, 25)",
          "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
+         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
+         "Distribuidora": "Steam"
+      },
+      {
+         "Nombre": "Paladins",
+         "Informacion": "Acompa\u00f1a a m\u00e1s de 25 millones de jugadores en Paladins, el shooter de fantas\u00eda gratis basado en equipos. Ejerce tus armas y desata poderes m\u00e1gicos como un Campe\u00f3n legendario del Reino. \u00a1Personaliza tus habilidades para jugar exactamente como prefieras!",
+         "Idioma": "Espa\u00f1ol",
+         "Genero": "Acci\u00f3n, Shooter",
+         "URL": "https://store.steampowered.com/app/444090/Paladins/",
+         "Multimedia1": "<iframe src=https://www.youtube.com/embed/dEwEC2MKgeQ frameborder=0 allowfullscreen></iframe>",
+         "Multimedia2": "<iframe src=https://www.youtube.com/embed/a0G2X3kmM54 frameborder=0 allowfullscreen></iframe>",
+         "Multimedia3": "<iframe src=https://www.youtube.com/embed/g4WHiMVq1-8 frameborder=0 allowfullscreen></iframe>",
+         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/444090/header.jpg",
+         "Jugador": "Multijugador",
+         "Plataforma": "Windows",
+         "Color": "rgba(230, 230, 25)",
+         "JugadorSVG": "<svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
          "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
          "Distribuidora": "Steam"
       },
@@ -2106,23 +2106,6 @@
          "Plataforma": "Windows",
          "Color": "rgba(128, 128, 127)",
          "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg><svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
-         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
-         "Distribuidora": "Steam"
-      },
-      {
-         "Nombre": "The Lost Mythologies",
-         "Informacion": "The Lost Mythologies es un juego de acci\u00f3n de estilo chino con intensos combates. Usa varias habilidades para derrotar a muchos enemigos, explora las ruinas del imperio ca\u00eddo y finalmente enfr\u00e9ntate a la famosa arma antigua: la Rakshasa Negra.",
-         "Idioma": "Ingl\u00e9s",
-         "Genero": "Acci\u00f3n, Arcade, Casual",
-         "URL": "https://store.steampowered.com/app/372540/The_Lost_Mythologies/",
-         "Multimedia1": "<iframe src=https://www.youtube.com/embed/nKybbOUToMs frameborder=0 allowfullscreen></iframe>",
-         "Multimedia2": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/2039495/movie480.webm?t=1454352022></video>",
-         "Multimedia3": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/372540/ss_b0121fd5c26e49441e2864aac19eb109289c120a.600x338.jpg?t=1496886026>",
-         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/372540/header.jpg",
-         "Jugador": "Solitario",
-         "Plataforma": "Windows",
-         "Color": "rgba(128, 128, 127)",
-         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
          "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
          "Distribuidora": "Steam"
       },
@@ -5629,23 +5612,6 @@
          "Distribuidora": "Steam"
       },
       {
-         "Nombre": "Half-Life 2: Lost Coast",
-         "Informacion": "Pensado en un principio como una secci\u00f3n del cap\u00edtulo Autopista 17 de Half-Life 2, Lost Coast es un ejemplo de tecnolog\u00eda jugable que presenta la iluminaci\u00f3n de alto rango din\u00e1mico en el motor Source.",
-         "Idioma": "Espa\u00f1ol",
-         "Genero": "Acci\u00f3n, Aventura, Shooter",
-         "URL": "https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/",
-         "Multimedia1": "<iframe src=https://www.youtube.com/embed/ebWcZbIYuN4 frameborder=0 allowfullscreen></iframe>",
-         "Multimedia2": "<iframe src=https://www.youtube.com/embed/-XkrfU32KMo frameborder=0 allowfullscreen></iframe>",
-         "Multimedia3": "<iframe src=https://www.youtube.com/embed/eI5g7uy_IBo frameborder=0 allowfullscreen></iframe>",
-         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/340/header.jpg",
-         "Jugador": "Solitario",
-         "Plataforma": "Windows",
-         "Color": "rgba(128, 128, 127)",
-         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
-         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
-         "Distribuidora": "Steam"
-      },
-      {
          "Nombre": "Half-Life: Caged",
          "Informacion": "C.A.G.E.D. \u00a1Es una explosiva aventura de escape de la prisi\u00f3n! \u00c1brete camino y lucha por la libertad en esta electrizante modificaci\u00f3n de Half-Life.",
          "Idioma": "Ingl\u00e9s",
@@ -6887,23 +6853,6 @@
          "Distribuidora": "Steam"
       },
       {
-         "Nombre": "School of Dragons",
-         "Informacion": "\u00a1Vuela r\u00e1pido, entrena duro y aprende bien para convertirte en el mejor entrenador de dragones! \u00danete al jefe Hiccup y Toothless y emb\u00e1rcate en las emocionantes aventuras de \"C\u00f3mo entrenar a tu drag\u00f3n\" de DreamWorks Animation. Juega con tus amigos y explora mundos misteriosos en este aprendizaje lleno de acci\u00f3n.",
-         "Idioma": "Espa\u00f1ol",
-         "Genero": "Acci\u00f3n, Aventura",
-         "URL": "https://store.steampowered.com/app/332070/School_of_Dragons/",
-         "Multimedia1": "<iframe src=https://www.youtube.com/embed/wL2VHAnXSRI frameborder=0 allowfullscreen></iframe>",
-         "Multimedia2": "<iframe src=https://www.youtube.com/embed/l-XdUVKI7kI frameborder=0 allowfullscreen></iframe>",
-         "Multimedia3": "<iframe src=https://www.youtube.com/embed/YI4yZ1MLjd8 frameborder=0 allowfullscreen></iframe>",
-         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/332070/header.jpg",
-         "Jugador": "Multijugador",
-         "Plataforma": "Windows, Mac",
-         "Color": "rgba(128, 128, 127)",
-         "JugadorSVG": "<svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
-         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg><svg viewBox='0 0 32 32'><path d='M29.458,22.818V22.6c-2.624-1.399-4.049-3.454-4.049-6.427c0-2.404,1.068-4.504,3.025-5.858l0.089-0.044 c-1.29-1.573-3.025-3.146-5.695-3.146c-1.868,0-3.426,1.792-6.006,1.792c-2.046,0-2.892-1.705-5.117-1.705 c-4.627,0-9.209,4.066-9.209,9.355c0,2.798,0.934,7.127,3.025,10.887C7.036,30.208,8.904,32,10.995,32 c1.512,0,3.292-1.355,5.428-1.355c1.868,0,3.605,1.225,5.294,1.225c4.05,0,7.786-5.159,7.786-8.611  C29.503,23.081,29.458,22.95,29.458,22.818z M16.73,8.35c3.025-0.918,5.829-3.148,5.829-7.039c0-0.306-0.044-0.699-0.089-1.136L22.426,0 c-3.069,0.829-5.828,3.19-5.828,6.907c0,0.35,0.045,0.787,0.133,1.268L16.73,8.35L16.73,8.35z' /></svg>",
-         "Distribuidora": "Steam"
-      },
-      {
          "Nombre": "Secret World Legends",
          "Informacion": "Secret World Legends es un juego de rol de acci\u00f3n de mundo compartido impulsado por una historia que sumerge a los jugadores en una guerra sombr\u00eda contra lo sobrenatural, donde los antiguos mitos y leyendas se traspasan a la actualidad.",
          "Idioma": "Ingl\u00e9s",
@@ -7329,6 +7278,23 @@
          "Distribuidora": "IR"
       },
       {
+         "Nombre": "Half-Life 2: Lost Coast",
+         "Informacion": "Pensado en un principio como una secci\u00f3n del cap\u00edtulo Autopista 17 de Half-Life 2, Lost Coast es un ejemplo de tecnolog\u00eda jugable que presenta la iluminaci\u00f3n de alto rango din\u00e1mico en el motor Source.",
+         "Idioma": "Espa\u00f1ol",
+         "Genero": "Acci\u00f3n, Aventura, Shooter",
+         "URL": "https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/",
+         "Multimedia1": "<iframe src=https://www.youtube.com/embed/ebWcZbIYuN4 frameborder=0 allowfullscreen></iframe>",
+         "Multimedia2": "<iframe src=https://www.youtube.com/embed/-XkrfU32KMo frameborder=0 allowfullscreen></iframe>",
+         "Multimedia3": "<iframe src=https://www.youtube.com/embed/eI5g7uy_IBo frameborder=0 allowfullscreen></iframe>",
+         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/340/header.jpg",
+         "Jugador": "Solitario",
+         "Plataforma": "Windows",
+         "Color": "rgba(128, 128, 127)",
+         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
+         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
+         "Distribuidora": "Steam"
+      },
+      {
          "Nombre": "Hubs",
          "Informacion": "Comparte una sala virtual con amigos. Mira v\u00eddeos, juega con objetos 3D o simplemente pasa el rato.",
          "Idioma": "Espa\u00f1ol",
@@ -7618,6 +7584,23 @@
          "Distribuidora": "Steam"
       },
       {
+         "Nombre": "School of Dragons",
+         "Informacion": "\u00a1Vuela r\u00e1pido, entrena duro y aprende bien para convertirte en el mejor entrenador de dragones! \u00danete al jefe Hiccup y Toothless y emb\u00e1rcate en las emocionantes aventuras de \"C\u00f3mo entrenar a tu drag\u00f3n\" de DreamWorks Animation. Juega con tus amigos y explora mundos misteriosos en este aprendizaje lleno de acci\u00f3n.",
+         "Idioma": "Espa\u00f1ol",
+         "Genero": "Acci\u00f3n, Aventura",
+         "URL": "https://store.steampowered.com/app/332070/School_of_Dragons/",
+         "Multimedia1": "<iframe src=https://www.youtube.com/embed/wL2VHAnXSRI frameborder=0 allowfullscreen></iframe>",
+         "Multimedia2": "<iframe src=https://www.youtube.com/embed/l-XdUVKI7kI frameborder=0 allowfullscreen></iframe>",
+         "Multimedia3": "<iframe src=https://www.youtube.com/embed/YI4yZ1MLjd8 frameborder=0 allowfullscreen></iframe>",
+         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/332070/header.jpg",
+         "Jugador": "Multijugador",
+         "Plataforma": "Windows, Mac",
+         "Color": "rgba(128, 128, 127)",
+         "JugadorSVG": "<svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
+         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg><svg viewBox='0 0 32 32'><path d='M29.458,22.818V22.6c-2.624-1.399-4.049-3.454-4.049-6.427c0-2.404,1.068-4.504,3.025-5.858l0.089-0.044 c-1.29-1.573-3.025-3.146-5.695-3.146c-1.868,0-3.426,1.792-6.006,1.792c-2.046,0-2.892-1.705-5.117-1.705 c-4.627,0-9.209,4.066-9.209,9.355c0,2.798,0.934,7.127,3.025,10.887C7.036,30.208,8.904,32,10.995,32 c1.512,0,3.292-1.355,5.428-1.355c1.868,0,3.605,1.225,5.294,1.225c4.05,0,7.786-5.159,7.786-8.611  C29.503,23.081,29.458,22.95,29.458,22.818z M16.73,8.35c3.025-0.918,5.829-3.148,5.829-7.039c0-0.306-0.044-0.699-0.089-1.136L22.426,0 c-3.069,0.829-5.828,3.19-5.828,6.907c0,0.35,0.045,0.787,0.133,1.268L16.73,8.35L16.73,8.35z' /></svg>",
+         "Distribuidora": "Steam"
+      },
+      {
          "Nombre": "SMITE\u00ae",
          "Informacion": "\u00a1\u00danete a m\u00e1s de 35 millones de jugadores en SMITE, el campo de batalla de los dioses! Empu\u00f1a el martillo de Thor, convierte a tus enemigos en piedra con Medusa o demuestra tu poder divino con uno de los m\u00e1s de 100 \u00edconos mitol\u00f3gicos. ",
          "Idioma": "Espa\u00f1ol",
@@ -7667,6 +7650,23 @@
          "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg><svg viewBox='0 0 2929 2000'><path d='M57 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 141 -12 127 -12 130 10 174 12 25 28 52 35 60 12 13 -2 22 -103 64 -204 86 -216 92 -259 136 -61 60 -66 90 -58 307 l7 183 -419 0 -420 0 -6 -142z'/><path d='M987 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
          "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg><svg viewBox='0 0 430.118 430.118'><path d='M231.59,382.327l-65.649-28.143V47.791c0,0,142.675,23.972,162.313,83.37 c19.645,59.405-10.967,97.88-21.706,99.01c-29.986,3.127-41.355-15.633-41.355-15.633v-95.883l-32.566-13.548L231.59,382.327z  M248.652,340.117v35.946c0,0,154.56-50.021,177.303-69.297c22.747-19.279-53.242-67.215-94.074-57.844 c0,0-43.391,2.109-82.71,19.279c-0.374,0.154,0,32.301,0,32.301l99.763-23.438l35.148,15.63L248.652,340.117z M149.4,337.514 c0,0-20.16,10.417-65.132,9.894c-44.97-0.527-84.78-13.03-84.264-40.118c0.516-27.097,74.439-56.798,148.877-69.306v38.036 l-79.088,20.844c0,0-13.54,17.212,4.655,17.716c41.353,1.158,75.471-9.903,75.471-9.903L149.4,337.514z' /></svg><svg viewBox='0 0 24 24'><path d='M6.43,3.72C6.5,3.66 6.57,3.6 6.62,3.56C8.18,2.55 10,2 12,2C13.88,2 15.64,2.5 17.14,3.42C17.25,3.5 17.54,3.69 17.7,3.88C16.25,2.28 12,5.7 12,5.7C10.5,4.57 9.17,3.8 8.16,3.5C7.31,3.29 6.73,3.5 6.46,3.7M19.34,5.21C19.29,5.16 19.24,5.11 19.2,5.06C18.84,4.66 18.38,4.56 18,4.59C17.61,4.71 15.9,5.32 13.8,7.31C13.8,7.31 16.17,9.61 17.62,11.96C19.07,14.31 19.93,16.16 19.4,18.73C21,16.95 22,14.59 22,12C22,9.38 21,7 19.34,5.21M15.73,12.96C15.08,12.24 14.13,11.21 12.86,9.95C12.59,9.68 12.3,9.4 12,9.1C12,9.1 11.53,9.56 10.93,10.17C10.16,10.94 9.17,11.95 8.61,12.54C7.63,13.59 4.81,16.89 4.65,18.74C4.65,18.74 4,17.28 5.4,13.89C6.3,11.68 9,8.36 10.15,7.28C10.15,7.28 9.12,6.14 7.82,5.35L7.77,5.32C7.14,4.95 6.46,4.66 5.8,4.62C5.13,4.67 4.71,5.16 4.71,5.16C3.03,6.95 2,9.35 2,12A10,10 0 0,0 12,22C14.93,22 17.57,20.74 19.4,18.73C19.4,18.73 19.19,17.4 17.84,15.5C17.53,15.07 16.37,13.69 15.73,12.96Z' /></svg>",
          "Distribuidora": "Epic Game"
+      },
+      {
+         "Nombre": "The Lost Mythologies",
+         "Informacion": "The Lost Mythologies es un juego de acci\u00f3n de estilo chino con intensos combates. Usa varias habilidades para derrotar a muchos enemigos, explora las ruinas del imperio ca\u00eddo y finalmente enfr\u00e9ntate a la famosa arma antigua: la Rakshasa Negra.",
+         "Idioma": "Ingl\u00e9s",
+         "Genero": "Acci\u00f3n, Arcade, Casual",
+         "URL": "https://store.steampowered.com/app/372540/The_Lost_Mythologies/",
+         "Multimedia1": "<iframe src=https://www.youtube.com/embed/nKybbOUToMs frameborder=0 allowfullscreen></iframe>",
+         "Multimedia2": "<video controls src=https://cdn.cloudflare.steamstatic.com/steam/apps/2039495/movie480.webm?t=1454352022></video>",
+         "Multimedia3": "<img src=https://cdn.cloudflare.steamstatic.com/steam/apps/372540/ss_b0121fd5c26e49441e2864aac19eb109289c120a.600x338.jpg?t=1496886026>",
+         "IMG": "https://steamcdn-a.akamaihd.net/steam/apps/372540/header.jpg",
+         "Jugador": "Solitario",
+         "Plataforma": "Windows",
+         "Color": "rgba(128, 128, 127)",
+         "JugadorSVG": "<svg viewBox='0 0 2000 2000'><path d='M87 1798 c-11 -239 -11 -243 23 -281 16 -18 46 -41 67 -49 21 -9 128 -55 238 -101 110 -47 215 -88 233 -92 23 -5 40 -18 56 -43 44 -73 49 -97 43 -206 -8 -121 -10 -130 -42 -144 -13 -6 -32 -26 -42 -44 -16 -29 -18 -65 -21 -276 -3 -222 -2 -249 17 -311 27 -89 58 -133 98 -142 18 -3 45 -18 62 -32 77 -64 219 -74 361 -23 91 32 134 65 172 133 46 82 61 175 54 334 -5 108 -13 159 -36 240 -17 57 -36 109 -44 114 -9 7 -18 53 -26 140 l-13 130 26 51 c30 59 40 69 87 81 19 6 114 44 210 85 96 41 198 83 225 93 28 10 67 35 89 56 l38 39 -6 147 c-4 82 -9 169 -12 196 l-6 47 -922 0 -923 0 -6 -142z'/></svg>",
+         "PlataformaSVG": "<svg viewBox='0 0 128 128'><path d='M128,67.591L127.984,128l-69.358-9.759 l-0.097-50.763L128,67.591z M58.626,10.091L127.984,0v60.682l-69.358,0.549V10.091z M52.285,67.118l0.041,50.346l-52.284-7.166  L0.038,66.781L52.285,67.118z M0,18.123l52.31-7.102l0.023,50.301L0.049,61.618L0,18.123z'/></svg>",
+         "Distribuidora": "Steam"
       },
       {
          "Nombre": "U.S. Air Force",
