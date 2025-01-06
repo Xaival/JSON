@@ -1,36 +1,6 @@
 {
-   "date_update": "05 Jan 2025 19:15 UTC",
+   "date_update": "06 Jan 2025 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Stomagron by Duodol Games",
-         "Informacion": "Stomagron es un juego de terror liminal retro en el que debes apagar la luz en la parte superior de una antigua torre alta.",
-         "Desde": "",
-         "Hasta": "2025/01/05 19:00",
-         "URL": "https://duodolgames.itch.io/stomagron",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA0MzU5MS8xODIwMzk1NS5qcGc=/347x500/uqkMA2.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Asterisk Password Recovery Pro",
-         "Informacion": "Software empresarial para revelar instant\u00e1neamente su contrase\u00f1a oculta tras asteriscos",
-         "Desde": "",
-         "Hasta": "2025/01/06 07:00",
-         "URL": "https://sharewareonsale.com/s/free-asterisk-password-recovery-pro-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2022/11/asteriskpasswordrecoverypro-box-250.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
-      },
-      {
-         "Nombre": "AOMEI Christmas Giveaway",
-         "Informacion": "El mayor sorteo del carnaval navide\u00f1o",
-         "Desde": "",
-         "Hasta": "2025/01/06 09:00",
-         "URL": "https://www.bitsdujour.com/software/aomei-christmas-giveaway/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/aomei-christmas-giveaway-wlqye.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "Black Desert",
          "Informacion": "M\u00e1s de 20 millones de aventureros lo han jugado: Black Desert Online es un MMORPG de acci\u00f3n y mundo abierto. \u00a1Disfruta de intensos combates llenos de acci\u00f3n, lucha contra jefes mundiales gigantescos, lucha junto a amigos para asediar y conquistar castillos y entr\u00e9nate en profesiones como la pesca, el comercio, la artesan\u00eda, la cocina y m\u00e1s!",
@@ -39,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/582660/",
          "IMG": "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/header.jpg",
          "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
@@ -49,7 +19,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "https://img.itch.zone/aW1nLzUwNjA1MTAucG5n/347x500/klTaxH.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
@@ -59,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "https://img.itch.zone/aW1hZ2UvODg1MDQyLzQ5ODgyOTAucG5n/347x500/u5rJql.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
@@ -69,7 +39,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTkyNTgzNi8xMTMyMTY4Ny5qcGc=/347x500/5iCiy3.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
@@ -79,7 +49,7 @@
          "URL": "https://magnus-froelund.itch.io/asteroids",
          "IMG": "https://img.itch.zone/aW1nLzQ1MzI5NDMucG5n/347x500/KeSI5%2F.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
@@ -89,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1MDU2MC8xMDI5ODk5My5wbmc=/347x500/C2ZK3C.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
@@ -99,7 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE3NjQyNC8xNTA3MjgxNi5naWY=/347x500/oYDcsa.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
@@ -109,7 +79,7 @@
          "URL": "https://magnus-froelund.itch.io/stargates",
          "IMG": "https://img.itch.zone/aW1nLzQ3MzYxMzAuanBn/347x500/IDkGMG.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
@@ -119,7 +89,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTY0NzgzNC8xMTQ5MjQwOC5qcGc=/347x500/DCwhpo.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
@@ -129,7 +99,7 @@
          "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjIxMTUzOS8xMzA3OTQ1NC5qcGc=/347x500/HSl53P.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
@@ -139,7 +109,7 @@
          "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0NTYwNC8xNDc3NjY0NC5wbmc=/347x500/t9o9Hd.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Death Rings of Jupiter by Albatross Wirehead",
@@ -149,7 +119,7 @@
          "URL": "https://wirehead42.itch.io/death-rings-of-jupiter",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDQ4MjkzLzIyNjY1OTkucG5n/347x500/h0P72%2B.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Terrene - An evidence of life game by Albatross Wirehead",
@@ -159,7 +129,7 @@
          "URL": "https://wirehead42.itch.io/terrene",
          "IMG": "https://img.itch.zone/aW1hZ2UvNjM0NTI5LzUyMzYzNzMuZ2lm/347x500/VK6boU.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "A parking by theonlynick",
@@ -169,7 +139,7 @@
          "URL": "https://theonlynick.itch.io/a-parking",
          "IMG": "https://img.itch.zone/aW1nLzE4NDgzMzgzLnBuZw==/347x500/ezC02y.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Grand Kill Auto by theonlynick",
@@ -179,7 +149,7 @@
          "URL": "https://theonlynick.itch.io/grand-kill-auto",
          "IMG": "https://img.itch.zone/aW1nLzE4NDM5NzcxLnBuZw==/347x500/ch0nx9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Lani's Call: A Tiny Whale Singer Story by Telescope Games",
@@ -189,7 +159,7 @@
          "URL": "https://telescopegames.itch.io/lanis-call",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE4NzUwNC8xOTA1MzE3OS5wbmc=/347x500/i6c7fb.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "Evidence of 96' by Team Melon, Danial Jumagaliyev, cinnamew, Pxl Dev",
@@ -199,7 +169,7 @@
          "URL": "https://teammelon.itch.io/evidence-of-96",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjgxNzQ0Mi8xNjgzMTgxMS5wbmc=/347x500/yD1S4E.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Download Mailbox Emails",
@@ -692,6 +662,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Peak Partners (MULTIPLAYER CO OP) by lowey1199@gmail.com",
+         "Informacion": "\u00a1Emb\u00e1rcate en una aventura llena de adrenalina en este juego de parkour cooperativo multijugador! Forma equipo con amigos o desaf\u00edate a ti mismo para dominar atrevidos recorridos llenos de obst\u00e1culos din\u00e1micos. Salta por los tejados, ag\u00e1rrate a las cornisas y navega por plataformas m\u00f3viles. Ten cuidado con las peligrosas trampas, como p\u00e9ndulos oscilantes, baldosas que se agrietan y hachas giratorias que pondr\u00e1n a prueba tus reflejos y coordinaci\u00f3n. Con cada nivel ofreciendo desaf\u00edos y emociones \u00fanicas, es un viaje de ritmo r\u00e1pido donde el trabajo en equipo y la habilidad son tus herramientas definitivas para la victoria. Controles: WASD = Mover Tab = Movimiento preciso C = Agacharse Espacio = Saltar Q = Rodar",
+         "Desde": "",
+         "Hasta": "2025/01/12 13:30",
+         "URL": "https://lowey1199gmailcom.itch.io/peak-partners-v1",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzE5MzE4MS8xOTA2NTExMi5wbmc=/347x500/SAG5tr.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Piki Rogue by TwigWallder",
          "Informacion": "Juegas como Piki, un valiente ping\u00fcino que se aventura en las misteriosas profundidades del Abismo. Armado con tu valent\u00eda, tu misi\u00f3n es recuperar tu preciado Game Boy Color que te espera debajo. Explora, excava y \u00e1brete paso a trav\u00e9s de peligrosos desaf\u00edos mientras descubres secretos ocultos en la oscuridad. Solomar, una figura misteriosa, te espera en el coraz\u00f3n del Abismo. Solo t\u00fa puedes sortear estos peligros y recuperar tu preciado dispositivo.",
          "Desde": "",
@@ -722,6 +702,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster iCloud Backup Recovery 1-Year License Key Free",
+         "Informacion": "iCloud Backup es una fuente que puede almacenar datos valiosos, incluidas fotos, videos, contactos, historial de llamadas, mensajes, etc. Rescata sus datos importantes en incidentes desafortunados como p\u00e9rdida de datos, eliminaci\u00f3n o da\u00f1o o rotura del iPhone. Pero a veces, por alguna raz\u00f3n, borra accidentalmente datos en iCloud Backup. Coolmuster iCloud Backup Recovery es un poderoso software de recuperaci\u00f3n que lo ayudar\u00e1 a recuperar sus datos de respaldo de iCloud con simples clics.",
+         "Desde": "",
+         "Hasta": "2025/01/13 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-icloud-backup-recovery/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/03/coolmuster-icloud-backup-recovery-coupon-code.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Auto Change Screensavers Free License 2025",
+         "Informacion": "Si tienes protectores de pantalla geniales, tu PC se ver\u00e1 genial cuando no est\u00e9 en uso. Vovsoft Auto Change Screensavers es una herramienta de protectores de pantalla popular que est\u00e1 dise\u00f1ada para cambiar autom\u00e1ticamente el escritorio de tu computadora en un intervalo de tiempo espec\u00edfico. Esta herramienta te permite buscar, elegir y ejecutar protectores de pantalla con diferentes configuraciones y en el orden que prefieras.",
+         "Desde": "",
+         "Hasta": "2025/01/13 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-auto-change-screensavers-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/vovsoft-auto-change-screensavers.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HARDiNFO 8 PRO",
+         "Informacion": "Todo en uno: informaci\u00f3n y benchmark del sistema de hardware",
+         "Desde": "",
+         "Hasta": "2025/01/13 07:00",
+         "URL": "https://sharewareonsale.com/s/free-hardinfo-8-pro-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/03/boxshot-3d-200x292.png?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Good Dog Show by owof games, Insalatuera, Marco Spelgatti/Queerginia Wolf, Mattia \"RedGlow\" Belletti",
          "Informacion": "Un show de talentos narrativo hecho de crimen, perros espaciales y un rosario de Gucci.",
          "Desde": "",
@@ -729,6 +739,16 @@
          "URL": "https://owofgames.itch.io/tgds",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjcyMzE5OS8xNjQ1NjUxOS5wbmc=/347x500/DS7FMr.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HARDiNFO 8 Pro License Key for Free Lifetime",
+         "Informacion": "HARDiNFO es una excelente herramienta de sistema que le permitir\u00e1 obtener informaci\u00f3n detallada sobre los componentes de hardware y perif\u00e9ricos de su PC, como CPU, memoria, placa base, adaptador de pantalla, unidades de disco duro/SSD, monitor, bater\u00eda de la computadora port\u00e1til, controladores del sistema operativo y m\u00e1s. Adem\u00e1s, HARDiNFO puede probar el rendimiento de su adaptador de pantalla, CPU, memoria, SSD/HDD, memorias USB y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2025/01/13 14:00",
+         "URL": "https://giveaway.tickcoupon.com/hardinfo-pro-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/02/HARDiNFO.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
