@@ -1,46 +1,6 @@
 {
-   "date_update": "11 Jan 2025 17:02 UTC",
+   "date_update": "12 Jan 2025 17:01 UTC",
    "values": [
-      {
-         "Nombre": "Cubes in Danger 3 by gamesbyrd",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/01/11 21:05",
-         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-3",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzM1OC8xNTQwNTY4MS5wbmc=/347x500/T0Vthd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "Cubes in Danger 2 by gamesbyrd",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/01/11 21:05",
-         "URL": "https://gamesbyrd.itch.io/cubes-in-danger-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NzI2My8xNTQwNTA2OC5wbmc=/347x500/yayXqJ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "BackUp Maker Professional",
-         "Informacion": "Crear copias de seguridad de datos nunca ha sido tan f\u00e1cil.",
-         "Desde": "",
-         "Hasta": "2025/01/12 07:00",
-         "URL": "https://sharewareonsale.com/s/free-backup-maker-professional-100-discount",
-         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/11/backupmaker_en-200x333.png?7462",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Frozen Bells by Rakudajin, not_carlos, warlockj77",
-         "Informacion": "Juega un juego de ritmo con tem\u00e1tica de A\u00f1o Nuevo con las campanas, pero ten en cuenta los niveles de temperatura para que las campanas no se congelen.",
-         "Desde": "",
-         "Hasta": "2025/01/12 08:00",
-         "URL": "https://rakudajin.itch.io/frozen-bells",
-         "IMG": "https://img.itch.zone/aW1nLzE5MDk4NzAwLnBuZw==/347x500/xAPWVd.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
       {
          "Nombre": "Lonely Christmas by ASKGAMES",
          "Informacion": "Acerca de este juego",
@@ -49,7 +9,7 @@
          "URL": "https://askgames.itch.io/lonely-christmas",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE5OTY0MS8xOTMxODIyOC5wbmc=/347x500/1YQlGJ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
       },
       {
          "Nombre": "Peak Partners (MULTIPLAYER CO OP) by lowey1199@gmail.com",
@@ -59,7 +19,7 @@
          "URL": "https://lowey1199gmailcom.itch.io/peak-partners-v1",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzE5MzE4MS8xOTA2NTExMi5wbmc=/347x500/SAG5tr.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
       },
       {
          "Nombre": "Piki Rogue by TwigWallder",
@@ -69,7 +29,7 @@
          "URL": "https://twigwallder.itch.io/piki-rogue",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzA1NDYxMC8xOTI2MjI4My5wbmc=/347x500/0VavsS.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Maze Runner 3D by Artisan Games",
@@ -79,7 +39,7 @@
          "URL": "https://artisangames.itch.io/maze-runner-3d",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ2ODA4Mi8xNTEzMjQ5Mi5wbmc=/347x500/7GtkYS.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Agent by Artisan Games",
@@ -89,7 +49,7 @@
          "URL": "https://artisangames.itch.io/theagent",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjE5Mjg5My8xMjk1NDEzMi5wbmc=/347x500/EnZqb9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Coolmuster iCloud Backup Recovery 1-Year License Key Free",
@@ -99,7 +59,27 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-icloud-backup-recovery/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/03/coolmuster-icloud-backup-recovery-coupon-code.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "The Last Tree by gamesbyrd",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/13 00:40",
+         "URL": "https://gamesbyrd.itch.io/the-last-tree",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjYxNzUxOC8xNzkwMjQwOC5qcGc=/347x500/%2BAWIpi.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
+      },
+      {
+         "Nombre": "Blackness by gamesbyrd",
+         "Informacion": "CONTROLES:",
+         "Desde": "",
+         "Hasta": "2025/01/13 00:40",
+         "URL": "https://gamesbyrd.itch.io/blackness",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjU4NjM2OC8xNTQwMzA4My5qcGc=/347x500/iv0EZ9.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
       },
       {
          "Nombre": "Vovsoft Auto Change Screensavers Free License 2025",
@@ -109,7 +89,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-auto-change-screensavers-free-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/04/vovsoft-auto-change-screensavers.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Ashampoo Background Remover",
@@ -119,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/09/image001.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -129,7 +109,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTQ4NTAxLzMzMTU3OTkucG5n/347x500/i3A4Ds.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "HARDiNFO 8 PRO",
@@ -139,7 +119,7 @@
          "URL": "https://sharewareonsale.com/s/free-hardinfo-8-pro-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2021/03/boxshot-3d-200x292.png?7462",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -149,7 +129,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNTU3ODczLzI5MjUxNTQucG5n/347x500/br1YI9.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -159,7 +139,17 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjc3MDIyLzEzNDQ2NzgucG5n/347x500/3WPFFe.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Wise Registry Cleaner Professional",
+         "Informacion": "C\u00f3mo eliminar de forma segura las entradas incorrectas del registro de Windows",
+         "Desde": "",
+         "Hasta": "2025/01/13 09:00",
+         "URL": "https://www.bitsdujour.com/software/wise-registry-cleaner-professional/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/wise-registry-cleaner-professional-tr560.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "TIEBREAK: Official game of the ATP and WTA",
@@ -222,6 +212,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AOMEI Backupper Professional 1-Year License Key Free",
+         "Informacion": "AOMEI Backupper Pro es un programa de copia de seguridad y recuperaci\u00f3n profesional que es f\u00e1cil de usar. Protege completamente su PC contra la p\u00e9rdida de datos. Realiza copias de seguridad de su PC y servidor de forma segura, ofrece una copia de seguridad con un solo clic de su partici\u00f3n o unidad de sistema y lo hace en minutos. Tambi\u00e9n puede clonar particiones o unidades. El programa es compatible con Microsoft Volume Shadow Copy Service (VSS), que permite realizar copias de seguridad de datos sin interferir con las aplicaciones actuales. Si sus datos se destruyen o se corrompen accidentalmente, la aplicaci\u00f3n puede inspeccionar la imagen generada y restaurarla en el disco duro. Adem\u00e1s, puede crear un CD de recuperaci\u00f3n de arranque para restaurar sus datos si la computadora falla y la aplicaci\u00f3n no se puede acceder a trav\u00e9s de la interfaz de Windows.",
+         "Desde": "",
+         "Hasta": "2025/01/13 15:00",
+         "URL": "https://giveaway.tickcoupon.com/aomei-backupper-professional-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2021/03/aomei-backupper-professional-giveaway-free-key.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Lost Castle: The Old Ones Awaken",
          "Informacion": "The Old Ones Awaken adds new levels to explore, new enemies to de\u00a1The Old Ones Awaken incluye nuevos niveles que explorar!feat, and new bosses to face along with a host exciting new weapons and equipment to wield and wear.",
          "Desde": "2025/01/07",
@@ -258,6 +258,16 @@
          "Hasta": "2025/01/15 07:00",
          "URL": "https://sharewareonsale.com/s/free-1000-professional-lightroom-presets-100-discount",
          "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2020/06/Main-Image-9-min-4-200x109.jpg?7462",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "onlineTV 19",
+         "Informacion": "M\u00e1s de 100 estaciones de TV de 13 pa\u00edses: \u00a1onlineTV 19 lleva la televisi\u00f3n internacional a tu PC, port\u00e1til y dispositivo Android!",
+         "Desde": "",
+         "Hasta": "2025/01/15 07:00",
+         "URL": "https://sharewareonsale.com/s/free-onlinetv-19-100-discount",
+         "IMG": "https://cdn.sharewareonsale.com/wp-content/uploads/2023/04/otv18ohneandroid.png?7462",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
@@ -702,12 +712,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Shadows of the Dead \u00f0\u009f\u0095\u00b7\u00ef\u00b8\u008f\u00f0\u009f\u008c\u0092 by Revolutionary-Creations",
-         "Informacion": "\u00f0\u009f\u008c\u009f \u00a1Entra en el Apocalipsis! \u00a1Sobrevivamos juntos! \u00f0\u009f\u008c\u009f",
+         "Nombre": "BATTLE READY by Revolutionary-Creations",
+         "Informacion": "\u00a1Bienvenido a una emocionante experiencia multijugador! \u00f0\u009f\u008e\u0089",
          "Desde": "",
          "Hasta": "2025/01/20 07:01",
-         "URL": "https://revolutionary-creations.itch.io/zombie-shooting-game",
-         "IMG": "https://img.itch.zone/aW1nLzE5MTY5Mjc4LmpwZw==/347x500/NInXLp.jpg",
+         "URL": "https://revolutionary-creations.itch.io/battle-ready",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4OTkwMy84MTE0NjY4LnBuZw==/347x500/MLw%2B9Y.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -722,12 +732,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "BATTLE READY by Revolutionary-Creations",
-         "Informacion": "\u00a1Bienvenido a una emocionante experiencia multijugador! \u00f0\u009f\u008e\u0089",
+         "Nombre": "Shadows of the Dead \u00f0\u009f\u0095\u00b7\u00ef\u00b8\u008f\u00f0\u009f\u008c\u0092 by Revolutionary-Creations",
+         "Informacion": "\u00f0\u009f\u008c\u009f \u00a1Entra en el Apocalipsis! \u00a1Sobrevivamos juntos! \u00f0\u009f\u008c\u009f",
          "Desde": "",
          "Hasta": "2025/01/20 07:01",
-         "URL": "https://revolutionary-creations.itch.io/battle-ready",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTM4OTkwMy84MTE0NjY4LnBuZw==/347x500/MLw%2B9Y.png",
+         "URL": "https://revolutionary-creations.itch.io/zombie-shooting-game",
+         "IMG": "https://img.itch.zone/aW1nLzE5MTY5Mjc4LmpwZw==/347x500/NInXLp.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -958,6 +968,16 @@
          "Hasta": "2025/01/26 04:52",
          "URL": "https://jeremyulrich.itch.io/particle",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjEyNDk5NC8xNzc2MzA3OC5wbmc=/347x500/h5WOUU.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Silent one by Souls Nightmare",
+         "Informacion": "Eres un viajero que decidi\u00f3 acampar en lo profundo de un bosque inexplorado, en busca de aventuras y soledad. Pero, al caer la noche, el silencio se vuelve ensordecedor y r\u00e1pidamente te das cuenta de que no est\u00e1s solo. Algo antiguo y mal\u00e9volo acecha en las sombras, observando cada uno de tus movimientos.",
+         "Desde": "",
+         "Hasta": "2025/01/26 17:51",
+         "URL": "https://soulsnightmare.itch.io/the-silent-one",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzIzNjY4Ny8xOTM0ODA2My5wbmc=/347x500/XwJLVI.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1392,16 +1412,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Survivor by SoowekGames",
-         "Informacion": "En una misteriosa y l\u00fagubre instalaci\u00f3n militar debes encontrar Panaceum, la cura para todas las enfermedades.",
-         "Desde": "",
-         "Hasta": "2025/02/09 20:22",
-         "URL": "https://soowekgames.itch.io/survivor",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1MDczMC8xNzY1OTQyMC5wbmc=/347x500/%2F6Ovjj.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
          "Informacion": "Un misterioso viajero busca la verdad sobre el legendario Wyvern del castillo de Czersk. Basado en hechos reales (de forma muy libre, por supuesto ;))",
          "Desde": "",
@@ -1418,6 +1428,16 @@
          "Hasta": "2025/02/09 20:22",
          "URL": "https://soowekgames.itch.io/dungeon-maze-of-fate",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTc1NjQ1MS8xMDM1MzkzNC5qcGc=/347x500/I5XGaU.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Survivor by SoowekGames",
+         "Informacion": "En una misteriosa y l\u00fagubre instalaci\u00f3n militar debes encontrar Panaceum, la cura para todas las enfermedades.",
+         "Desde": "",
+         "Hasta": "2025/02/09 20:22",
+         "URL": "https://soowekgames.itch.io/survivor",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk1MDczMC8xNzY1OTQyMC5wbmc=/347x500/%2F6Ovjj.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
