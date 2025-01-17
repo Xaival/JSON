@@ -1,206 +1,6 @@
 {
-   "date_update": "16 Jan 2025 17:02 UTC",
+   "date_update": "17 Jan 2025 17:01 UTC",
    "values": [
-      {
-         "Nombre": "Turmoil",
-         "Informacion": "Drill for oil like it's 1899! Turmoil offers players a visually charming, tongue-in-cheek take on the simulation genre inspired by the 19th century oil rush in North America.",
-         "Desde": "2025/01/09",
-         "Hasta": "2025/01/16 17:00",
-         "URL": "https://store.epicgames.com/p/turmoil-26318a",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
-         "Informacion": "En una elecci\u00f3n elegante, tu misi\u00f3n es asegurar puntos de victoria ganando estados en el continente elegante. Cada estado contiene ciudades con diferentes valores de poblaci\u00f3n y el jugador compite con un oponente NPC para obtener una mayor\u00eda de votos en estas ciudades. El objetivo es ganar m\u00e1s estados que tu oponente aumentando tus cifras de votaci\u00f3n en cada ciudad mediante clics estrat\u00e9gicos.",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/a-dandy-election",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell : Hazel! by Dancing Dots",
-         "Informacion": "Battle Hell: Hazel! Un simulador de guerra de IA: observa c\u00f3mo se desarrollan batallas \u00e9picas en un mundo basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/hazel",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Arder! by Dancing Dots",
-         "Informacion": "Observa c\u00f3mo The United Cities y Arder luchan entre s\u00ed en el simulador de guerra exclusivo de IA.",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/battle-hell-arder",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Crastle Valley! by Dancing Dots",
-         "Informacion": "Battle Hell: Crastle Valley! Un simulador de guerra de IA: presencia batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: The Vant by Dancing Dots",
-         "Informacion": "Sigue al mon\u00e1rquico Vanti defendi\u00e9ndose contra la invasi\u00f3n del Pacto de Defensa Republicano (RDP).",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/battle-hell-the-vant",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Tral! by Dancing Dots",
-         "Informacion": "Battle Hell: Tral! Un simulador de guerra de IA: presencia batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/battle-hell-tral",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Bots of Boria by Dancing Dots",
-         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/bots-of-boria",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Covens of Xetta by Dancing Dots",
-         "Informacion": "Objetivo: liderar a tu aquelarre hacia la victoria a trav\u00e9s de la conquista o puntos de victoria.",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/covens-of-xetta",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Duels of The Nombish by Dancing Dots",
-         "Informacion": "Domina las calles peligrosas de Gato-Cat: \u00a1convi\u00e9rtete en el duelista definitivo en este juego de disparos estilo arcade!",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/duels-of-the-nombish",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Enlightment Now! by Dancing Dots",
-         "Informacion": "Sube las plataformas hacia la iluminaci\u00f3n antes de que te vuelvas gris y mueras.",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/enlightment-now",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Gods of Crastle by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a \"Gods of Crastle\", el reino de la guerra santa donde lideras a los adoradores de tu culto hacia la victoria! Participa en batallas \u00e9picas y crea estrategias mientras luchas por conquistar la tierra de Crastle y establecer tu dominio.",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/gods-of-crastle",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Isle Of Gibgar by Dancing Dots",
-         "Informacion": "Sum\u00e9rgete en el fascinante mundo de la Isla de Gibgar. Experimenta los complejos comportamientos e interacciones de criaturas \u00fanicas conocidas como Gibgars, cada una con formas y colores distintivos.",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/isle-of-gibgar",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Minimperiums by Dancing Dots",
-         "Informacion": "**Minimperiums 1.0: una simulaci\u00f3n de guerra con IA**",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/minimperiums",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Orbital Empires by Dancing Dots",
-         "Informacion": "Observa c\u00f3mo las facciones de IA luchan por el control de la galaxia.",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/orbital-empires",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Veins : Hearts At War by Dancing Dots",
-         "Informacion": "Veins es un juego inactivo minimalista s\u00faper simple. Observa c\u00f3mo los corazones de colores bombean y luchan por el control de la pantalla mientras extienden sus vastas redes de venas invasivas.",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/veins",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "War of Ants! by Dancing Dots",
-         "Informacion": "Juego de simulaci\u00f3n de hormigas",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/ants",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Wysaddle Tribe Simulator: 2D Spectator Experience by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a los bosques de Wysaddle!",
-         "Desde": "",
-         "Hasta": "2025/01/17 01:15",
-         "URL": "https://15joldersmat.itch.io/wysaddle",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Proxy Snatcher HTTPS Version",
-         "Informacion": "\u00bfBuscador y probador de proxy confiable para sus proyectos de privacidad o de raspado en l\u00ednea?",
-         "Desde": "",
-         "Hasta": "2025/01/17 07:00",
-         "URL": "https://sharewareonsale.com/s/free-proxy-snatcher-https-version-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "WonderFox HD Video Converter Factory Pro",
-         "Informacion": "Convierte v\u00eddeos entre m\u00e1s de 100 formatos",
-         "Desde": "",
-         "Hasta": "2025/01/17 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-hd-video-converter-factory-pro/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Magic Recovery Key 1-Year License Code Free",
          "Informacion": "Magic Recovery Key es un potente software de b\u00fasqueda de claves para Windows que le permite recuperar y hacer copias de seguridad de todas las claves de producto de su computadora al instante. Con \u00e9l, puede recuperar claves de producto del sistema Windows, lo que significa que puede ver claves de producto para Windows (Windows 11/10/8/7 y Windows Server) y SQL Server. Tambi\u00e9n le permite obtener m\u00e1s de 10 000 n\u00fameros de serie de software.",
@@ -209,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/magic-recovery-key-license-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Don't live Alone by Osama M.S.A",
@@ -219,7 +19,7 @@
          "URL": "https://osamamsa123.itch.io/dont-live-alone",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "DoYourData Super Eraser Free License Key",
@@ -229,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/doyourdata-super-eraser-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sticky Password for Mac License Key Free 1-Year",
@@ -239,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/get-sticky-password-key-for-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sticky Password Premium Key Free 1-Year",
@@ -249,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "PURPLE -Directors Cut- by Scopophobia Studios",
@@ -259,17 +59,7 @@
          "URL": "https://mortisfox.itch.io/purple-dc",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ashampoo Easy Paint",
-         "Informacion": "Edici\u00f3n de im\u00e1genes sin esfuerzo para la oficina: herramientas de marcado y anotaciones r\u00e1pidas",
-         "Desde": "",
-         "Hasta": "2025/01/18 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-easy-paint-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "2000 Professional Lightroom Presets",
@@ -279,7 +69,27 @@
          "URL": "https://sharewareonsale.com/s/free-1000-professional-lightroom-presets-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Easy Paint",
+         "Informacion": "Edici\u00f3n de im\u00e1genes sin esfuerzo para la oficina: herramientas de marcado y anotaciones r\u00e1pidas",
+         "Desde": "",
+         "Hasta": "2025/01/18 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-easy-paint-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "SurFlex Screen Recorder - 6 Months License",
+         "Informacion": "Graba tu pantalla en v\u00eddeo y audio de alta calidad",
+         "Desde": "",
+         "Hasta": "2025/01/18 09:00",
+         "URL": "https://www.bitsdujour.com/software/surflex-screen-recorder-6-months-license/in=upcoming-freebies",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Foxy Man by AL7USSAIN",
@@ -582,6 +392,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Night Maniac by Noxus Games Studio",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/01/20 22:39",
+         "URL": "https://noxusgamesstudio.itch.io/nightmaniac",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "XenArmor Asterisk Password Recovery Pro License Key Free",
          "Informacion": "XenArmor Asterisk Password Recovery Pro es un software m\u00e1gico que revela instant\u00e1neamente su contrase\u00f1a detr\u00e1s de los asteriscos de las aplicaciones de Windows. Esta herramienta admite la recuperaci\u00f3n de contrase\u00f1as de m\u00e1s de 180 aplicaciones de Windows, incluidos clientes de correo electr\u00f3nico, clientes FTP y otros programas. Puede recuperar contrase\u00f1as de aplicaciones de 32 y 64 bits, lo que garantiza una amplia compatibilidad.",
          "Desde": "",
@@ -669,6 +489,16 @@
          "URL": "https://ahsanmakesgames.itch.io/space-adventure",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo WinOptimizer 2025",
+         "Informacion": "Windows cambia constantemente, al igual que los requisitos para una optimizaci\u00f3n del sistema de primer nivel. Ashampoo WinOptimizer 2025 garantiza una experiencia de Windows r\u00e1pida, sencilla y limpia.",
+         "Desde": "",
+         "Hasta": "2025/01/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2025-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -962,6 +792,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Purgatory by lowey1199@gmail.com",
+         "Informacion": "DESCRIPCI\u00d3N",
+         "Desde": "",
+         "Hasta": "2025/01/31 07:35",
+         "URL": "https://lowey1199gmailcom.itch.io/purgatory",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Pigeon West: El Diablo by Blue harpy",
          "Informacion": "",
          "Desde": "",
@@ -1187,6 +1027,16 @@
          "Desde": "",
          "Hasta": "2025/01/31 19:00",
          "URL": "https://infrablackdi.itch.io/shomiateaf",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sepan and the Seven Flasks by PicMid",
+         "Informacion": "Idiomas del juego: EN, FR",
+         "Desde": "",
+         "Hasta": "2025/01/31 21:24",
+         "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
