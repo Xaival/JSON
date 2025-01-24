@@ -1,85 +1,15 @@
 {
-   "date_update": "23 Jan 2025 17:02 UTC",
+   "date_update": "24 Jan 2025 17:02 UTC",
    "values": [
       {
-         "Nombre": "Escape Academy",
-         "Informacion": "Welcome to Escape Academy. Train to become the ultimate Escapist. Solve Puzzles. Hack Servers. Meet the Faculty. Brew the perfect cup of tea. Escape Rooms in single player or co-op with a friend - local or online!",
-         "Desde": "2025/01/16",
-         "Hasta": "2025/01/23 17:00",
-         "URL": "https://store.epicgames.com/p/escape-academy-bfc2bf",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
-         "Informacion": "En una elecci\u00f3n elegante, tu misi\u00f3n es asegurar puntos de victoria ganando estados en el continente elegante. Cada estado contiene ciudades con diferentes valores de poblaci\u00f3n y el jugador compite con un oponente NPC para obtener una mayor\u00eda de votos en estas ciudades. El objetivo es ganar m\u00e1s estados que tu oponente aumentando tus cifras de votaci\u00f3n en cada ciudad mediante clics estrat\u00e9gicos.",
-         "Desde": "",
-         "Hasta": "2025/01/23 17:57",
-         "URL": "https://15joldersmat.itch.io/a-dandy-election",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Space Adventure by Ahsan Makes Games",
-         "Informacion": "\u00f0\u009f\u009a\u0080 \u00a1Aventura espacial: tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0\u009f\u008c\u008c",
-         "Desde": "",
-         "Hasta": "2025/01/23 19:30",
-         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
-      },
-      {
-         "Nombre": "Bizarre Adventure by Hermit Lab",
-         "Informacion": "Bizarre Adventure es un juego de acci\u00f3n y plataformas en el que luchas contra varios enemigos. El juego es desafiante e impredecible.",
-         "Desde": "",
-         "Hasta": "2025/01/23 21:38",
-         "URL": "https://hermitlab.itch.io/bizarre-adventure",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo WinOptimizer 2025",
-         "Informacion": "Windows cambia constantemente, al igual que los requisitos para una optimizaci\u00f3n del sistema de primer nivel. Ashampoo WinOptimizer 2025 garantiza una experiencia de Windows r\u00e1pida, sencilla y limpia.",
-         "Desde": "",
-         "Hasta": "2025/01/24 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2025-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Tipard Video Enhancer",
-         "Informacion": "Mejore la calidad del video, edite videos con 3D/Recorte/Efecto, recorte videos y convierta videos a 4K UHD y 1080p HD f\u00e1cilmente",
-         "Desde": "",
-         "Hasta": "2025/01/24 07:00",
-         "URL": "https://sharewareonsale.com/s/free-tipard-video-enhancer-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "WonderFox DVD Ripper Pro",
-         "Informacion": "Transformar pel\u00edculas en DVD en formatos de archivos port\u00e1tiles",
-         "Desde": "",
-         "Hasta": "2025/01/24 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-ripper-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Mini Thief",
-         "Informacion": "\u00bfPodr\u00e1s escapar con el bot\u00edn? Juega como el maestro ladr\u00f3n y roba todo lo que puedas. Roba casas para conseguir un bot\u00edn buen\u00edsimo, pero ten cuidado, \u00a1no te atrapen!",
+         "Nombre": "I Have Low Stats But My Class Is \"Leader\", So I Recruited Everyone I Know To Fight The Dark Lord by Damien Crawford",
+         "Informacion": "(Usuarios de Mac: esto no funciona en macOS Catalina (versi\u00f3n 10.15) o posterior. Tambi\u00e9n hubo un par de informes de problemas al jugar el juego, as\u00ed que prueba la demostraci\u00f3n antes de comprarla).",
          "Desde": "",
          "Hasta": "2025/01/24 10:00",
-         "URL": "https://store.steampowered.com/app/481870/",
+         "URL": "https://cannibalinteractive.itch.io/i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know",
          "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Labyrinth of Wild Abyss: LayeRedux by Damien Crawford",
@@ -89,17 +19,17 @@
          "URL": "https://cannibalinteractive.itch.io/labyrinth-of-wild-abyss-layeredux",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
-         "Nombre": "Night Shift At Pop's by Damien Crawford",
-         "Informacion": "Importante: Este juego tiene un archivo .exe desde el que puedes jugar y un archivo .pdf al que puedes hacer referencia mientras juegas.",
+         "Nombre": "Mini Thief",
+         "Informacion": "\u00bfPodr\u00e1s escapar con el bot\u00edn? Juega como el maestro ladr\u00f3n y roba todo lo que puedas. Roba casas para conseguir un bot\u00edn buen\u00edsimo, pero ten cuidado, \u00a1no te atrapen!",
          "Desde": "",
          "Hasta": "2025/01/24 10:00",
-         "URL": "https://cannibalinteractive.itch.io/night-shift-at-pops",
+         "URL": "https://store.steampowered.com/app/481870/",
          "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Distribuidora": "Steam",
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "My Older Sister Left The Computer So I Got On & Found Myself Trying To Coordinate A Raid In A Game & I Don't Play MMO's by Damien Crawford",
@@ -109,17 +39,17 @@
          "URL": "https://cannibalinteractive.itch.io/myoldersisterleftthecomputersoigotonfoundmyselftryingtocoordinatearaidinagameido",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
-         "Nombre": "I Have Low Stats But My Class Is \"Leader\", So I Recruited Everyone I Know To Fight The Dark Lord by Damien Crawford",
-         "Informacion": "(Usuarios de Mac: esto no funciona en macOS Catalina (versi\u00f3n 10.15) o posterior. Tambi\u00e9n hubo un par de informes de problemas al jugar el juego, as\u00ed que prueba la demostraci\u00f3n antes de comprarla).",
+         "Nombre": "Night Shift At Pop's by Damien Crawford",
+         "Informacion": "Importante: Este juego tiene un archivo .exe desde el que puedes jugar y un archivo .pdf al que puedes hacer referencia mientras juegas.",
          "Desde": "",
          "Hasta": "2025/01/24 10:00",
-         "URL": "https://cannibalinteractive.itch.io/i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know",
+         "URL": "https://cannibalinteractive.itch.io/night-shift-at-pops",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF to ePub Converter 1-Year License Key Free",
@@ -129,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-epub-converter-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ashampoo Easy Paint",
@@ -139,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-easy-paint-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "NEAT Projects 2",
@@ -149,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-neat-projects-2-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "onlineTV 19",
@@ -159,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-onlinetv-19-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Christmas Kids by alexbaza",
@@ -312,6 +242,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "HUMANKIND\u2122",
+         "Informacion": "\u00a1Juega gratis! Reescribe la historia y crea una civilizaci\u00f3n tan \u00fanica como t\u00fa. Combina 60 culturas desde la Antig\u00fcedad hasta la Edad Moderna para llevar a tu imperio a la victoria. Construye ciudades pr\u00f3speras, supera a tus rivales en batallas \u00e9picas, extiende tu influencia y deja tu huella en HUMANKIND\u2122.",
+         "Desde": "",
+         "Hasta": "2025/01/27 10:00",
+         "URL": "https://store.steampowered.com/sub/381705?cc=fr/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Necesse",
+         "Informacion": "\u00a1Juega gratis! Construye, emprende misiones y conquista en un mundo infinito generado por procedimientos. Juega solo o con amigos mientras estableces un asentamiento y exploras mazmorras profundas, luchas contra monstruos y jefes, extraes minerales raros, fabricas equipo m\u00e1gico, reclutas especialistas para tu colonia y mucho m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2025/01/27 10:00",
+         "URL": "https://store.steampowered.com/app/1169040/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Coolmuster Android WhatsApp Recovery 1-Year Key Free",
          "Informacion": "Tienes muchos mensajes antiguos pero importantes de WhatsApp en tu Samsung Galaxy, pero desafortunadamente los borraste accidentalmente de tu tel\u00e9fono. Si est\u00e1s buscando una herramienta de recuperaci\u00f3n que pueda ayudarte a recuperar tus mensajes y archivos multimedia de WhatsApp, Coolmuster Android WhatsApp Recovery puede ser la herramienta para ti.",
          "Desde": "",
@@ -329,6 +279,16 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-face-blur-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Diablo\u00ae IV",
+         "Informacion": "\u00a1Juega gratis! \u00danete a la lucha por Sanctuary en Diablo\u00ae IV, el juego de rol de acci\u00f3n y aventuras definitivo. Disfruta de la campa\u00f1a aclamada por la cr\u00edtica y del nuevo contenido de temporada.",
+         "Desde": "",
+         "Hasta": "2025/01/28 10:00",
+         "URL": "https://store.steampowered.com/app/2344520/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -369,6 +329,16 @@
          "URL": "https://giveaway.tickcoupon.com/wise-care-365-pro-free-license-key-full/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
+         "Desde": "",
+         "Hasta": "2025/01/29 15:10",
+         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -522,6 +492,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster PDF Converter Pro License Key Free",
+         "Informacion": "Coolmuster PDF Converter Pro es una utilidad de PDF que puede ayudarle a exportar PDF a 7 formatos principales, incluidos Word, ePub, Excel, PowerPoint, im\u00e1genes, texto y HTML. Con una alta velocidad de conversi\u00f3n, puede editar y compartir su archivo de documento sin restricciones ni p\u00e9rdida de calidad. Coolmuster PDF Converter admite modos de conversi\u00f3n parcial y por lotes; puede convertir hasta 200 archivos PDF a la vez.",
+         "Desde": "",
+         "Hasta": "2025/01/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-converter-pro-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ZombiShoot by FOMDOM",
          "Informacion": "Solo un peque\u00f1o porcentaje de personas podr\u00e1 completar este juego. Un juego sobre la supervivencia en medio de un apocalipsis zombi con una jugabilidad sencilla pero con niveles muy dif\u00edciles pero pasables.",
          "Desde": "",
@@ -549,6 +529,16 @@
          "URL": "https://warlines.itch.io/beyond-one-past",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MOVIEJACK",
+         "Informacion": "\u201cRipper\u201d ha vuelto: ahora disponible como descargador de v\u00eddeos con un nuevo dise\u00f1o.",
+         "Desde": "",
+         "Hasta": "2025/01/31 07:00",
+         "URL": "https://sharewareonsale.com/s/free-moviejack-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -637,6 +627,16 @@
          "Desde": "",
          "Hasta": "2025/01/31 18:00",
          "URL": "https://projectyaarj.itch.io/tank",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Flash Card Manager by Badger",
+         "Informacion": "Esta es una aplicaci\u00f3n dise\u00f1ada para ayudarte a almacenar, categorizar y memorizar tarjetas did\u00e1cticas.",
+         "Desde": "",
+         "Hasta": "2025/01/31 18:12",
+         "URL": "https://deflatedbadger.itch.io/flash-card-manager",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -787,6 +787,16 @@
          "Desde": "",
          "Hasta": "2025/01/31 19:00",
          "URL": "https://infrablackdi.itch.io/shomiateaf",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Space Adventure by Ahsan Makes Games",
+         "Informacion": "\u00f0\u009f\u009a\u0080 \u00a1Aventura espacial: tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0\u009f\u008c\u008c",
+         "Desde": "",
+         "Hasta": "2025/01/31 19:31",
+         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -999,6 +1009,16 @@
          "URL": "https://retrovr.itch.io/dogfightsim",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wise Duplicate Finder 6-Month License Key Free",
+         "Informacion": "Si su computadora funciona lentamente debido a la falta de espacio de almacenamiento, Wise Duplicate Finder ser\u00e1 un software imprescindible para su computadora con Windows. Con \u00e9l, puede encontrar y eliminar f\u00e1cilmente archivos duplicados para deshacerse de los molestos duplicados y liberar m\u00e1s espacio en sus discos duros. Para actualizar de la versi\u00f3n gratuita a la versi\u00f3n pro, debe gastar $19.95 al finalizar la compra. Sin embargo, la gran noticia para los lectores de Tickcoupon es que trabajamos con WiseCleaner para ofrecerle Wise Duplicate Finder de forma gratuita.",
+         "Desde": "",
+         "Hasta": "2025/02/03 15:00",
+         "URL": "https://giveaway.tickcoupon.com/wise-duplicate-finder-pro-for-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
