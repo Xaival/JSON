@@ -9,7 +9,7 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@mail.anthropic.com OR @mails.deepswap.ai OR @elevenlabs.io OR @forefront.ai OR @news.forefront.ai OR @gocharlie.ai OR @immersity.ai OR @kaiber.ai OR @kwai.com OR @leonardo.ai OR @auth.magnific.ai OR @meshy.ai OR @mail.mimicpc.com OR @mimicpc.com OR @moises.ai OR @email.openai.com OR @tm.openai.com OR @mail.perplexity.ai OR @mail.pixverse.ai OR @contact.podcastle.ai OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @resemble.ai OR @runwayml.com OR @suno.com OR @tripo3d.ai OR @vidu.studio OR @writesonic.com'/>
+		<apps:property name='from' value='@service.aliyun.com OR @mail.anthropic.com OR @mails.deepswap.ai OR @elevenlabs.io OR @forefront.ai OR @news.forefront.ai OR @gocharlie.ai OR @immersity.ai OR @kaiber.ai OR @kwai.com OR @leonardo.ai OR @auth.magnific.ai OR @meshy.ai OR @mail.mimicpc.com OR @mimicpc.com OR @moises.ai OR @email.openai.com OR @tm.openai.com OR @mail.perplexity.ai OR @mail.pixverse.ai OR @contact.podcastle.ai OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @resemble.ai OR @runwayml.com OR @suno.com OR @tripo3d.ai OR @vidu.studio OR @writesonic.com'/>
 		<apps:property name='label' value='Registros/IA'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
