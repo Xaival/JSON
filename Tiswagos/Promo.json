@@ -1,56 +1,6 @@
 {
-   "date_update": "12 Feb 2025 17:02 UTC",
+   "date_update": "13 Feb 2025 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Qabara The Artist by Yoss III",
-         "Informacion": "Qabara es una joven artista muy ansiosa que ha decidido que debe pintar su obra maestra antes de cumplir 10 a\u00f1os. Ha vivido toda su vida en un peque\u00f1o pueblo del desierto, pero est\u00e1 decidida a observar de cerca su entorno y recolectar suficiente inspiraci\u00f3n para su obra maestra, todo antes de que su madre prepare la cena. Qabara the Artist es un juego de rol de aventuras sin combates y de larga duraci\u00f3n. Exploras la surrealista ciudad de Al Chura como Qabara, buscando inspiraci\u00f3n examinando el entorno y hablando con la gente, todo para alcanzar la siguiente meseta art\u00edstica. Crecer como artista ayuda a Qabara a notar cosas nuevas sobre el mundo que la rodea. Para alentar la exploraci\u00f3n, el juego es abierto, con m\u00faltiples formas de recolectar inspiraci\u00f3n, incluidas misiones con m\u00faltiples soluciones. El juego est\u00e1 hecho \u00edntegramente por una persona (m\u00e1s o menos). Yo hago la escritura, los sprites y la animaci\u00f3n, la m\u00fasica y s\u00ed, incluso esta p\u00e1gina de la tienda. No soy el mejor pintor del mundo, pero recuerdo que ten\u00eda 9 a\u00f1os y me SENT\u00cdA como el mejor pintor del mundo, as\u00ed que solo quer\u00eda compartir un poco de esa alegr\u00eda con ustedes.",
-         "Desde": "",
-         "Hasta": "2025/02/13 03:49",
-         "URL": "https://yossarianiii.itch.io/qabara-the-artist",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
-      {
-         "Nombre": "Sex Robot Road Trip: Highway to Harrisburg by Yoss III",
-         "Informacion": "Est\u00e1s tratando de pedir un filete de queso en tu local de s\u00e1ndwiches favorito cuando de repente conoces a un misterioso extra\u00f1o que claramente es un robot sexual experimental que intenta hacerse pasar por una mujer humana. \u00bfDebes... 1. entregarla a las autoridades? o 2. ayudarla a robar un auto y luego proceder a recorrer Pensilvania en un viaje divertido? Si eliges la opci\u00f3n 2, Sex Robot Road Trip (SRRT!) es una novela visual de comedia sobre un viaje al estilo de Thelma y Louise por los lugares m\u00e1s extra\u00f1os de Pensilvania (algunos reales, otros... embellecidos). Si eliges la opci\u00f3n 1, eres polic\u00eda. SRRT! se lanz\u00f3 originalmente en 2017, pero la nueva edici\u00f3n \"Highway to Harrisburg\" es la versi\u00f3n definitiva, con texto revisado y una nueva ruta donde puedes \"resolver\" el asesinato de Kennedy.",
-         "Desde": "",
-         "Hasta": "2025/02/13 03:49",
-         "URL": "https://yossarianiii.itch.io/srrt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
-      {
-         "Nombre": "Space Adventure by Ahsan Makes Games",
-         "Informacion": "\u00f0\u009f\u009a\u0080 \u00a1Aventura espacial: tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0\u009f\u008c\u008c",
-         "Desde": "",
-         "Hasta": "2025/02/13 06:05",
-         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Optimizer 2025",
-         "Informacion": "Photo Optimizer permite realizar una edici\u00f3n de im\u00e1genes completa con tan solo unos clics. El programa admite funciones populares como rotaci\u00f3n de im\u00e1genes, recorte, cambio de tama\u00f1o y mucho m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2025/02/13 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-optimizer-2025-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "SurFast Video Downloader - 6 months license",
-         "Informacion": "Descargue v\u00eddeos de cualquier sitio web para reproducirlos sin conexi\u00f3n",
-         "Desde": "",
-         "Hasta": "2025/02/13 09:00",
-         "URL": "https://www.bitsdujour.com/software/surfast-video-downloader-6months-license/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Beyond Blue",
          "Informacion": "Beyond Blue es una aventura narrativa para un jugador que te lleva a las profundidades del coraz\u00f3n azul que late en nuestro planeta.  Ambientado en un futuro cercano, Beyond Blue explora los misterios del oc\u00e9ano a trav\u00e9s de los ojos de Mirai, una cient\u00edfica y exploradora de la...",
@@ -59,7 +9,7 @@
          "URL": "https://store.epicgames.com/p/beyond-blue",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "her apartment by AtmoPixel",
@@ -69,7 +19,7 @@
          "URL": "https://atmopixel.itch.io/her-apartment",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "lost brother by AtmoPixel",
@@ -79,7 +29,7 @@
          "URL": "https://atmopixel.itch.io/lost-brother",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "rented nightmare by AtmoPixel",
@@ -89,7 +39,7 @@
          "URL": "https://atmopixel.itch.io/rented-nightmare",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "Requiem Protocol : Soul Orb by Husain Ghulam",
@@ -99,7 +49,17 @@
          "URL": "https://husain-ghulam.itch.io/requiem-protocol-soul-orb",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
+      },
+      {
+         "Nombre": "One Last Hour by BananaDevStudio",
+         "Informacion": "One Last Hour es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Recorre sus calles, redescubre lugares familiares y vive una historia que permanecer\u00e1 contigo durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena vivir.",
+         "Desde": "",
+         "Hasta": "2025/02/13 22:10",
+         "URL": "https://bananadevstudio.itch.io/onelasthour",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
       },
       {
          "Nombre": "Coding Rabbits by Dragonaz",
@@ -109,7 +69,7 @@
          "URL": "https://dragonaz.itch.io/coddingrabbits",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "MISPLACED by Vinil",
@@ -119,7 +79,7 @@
          "URL": "https://troj4nblazing.itch.io/misplaced",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
       },
       {
          "Nombre": "RecCloud All-in-One AI Video and Audio Editor",
@@ -129,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-reccloud-all-in-one-ai-video-and-audio-editor-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "SoftOrbits AI Photo Editor",
@@ -139,7 +99,17 @@
          "URL": "https://sharewareonsale.com/s/softorbits-simple-photo-editor-giveaway-coupon-sale",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Video to Picture Converter",
+         "Informacion": "Convertir v\u00eddeos en una serie de fotograf\u00edas digitales",
+         "Desde": "",
+         "Hasta": "2025/02/14 09:00",
+         "URL": "https://www.bitsdujour.com/software/video-to-picture-converter/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Apowersoft RecCloud 1 Year Free License Code",
@@ -262,6 +232,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Glary Utilities PRO",
+         "Informacion": "Glary Utilities Pro es una potente y excelente utilidad todo en uno para reparar, acelerar, mantener y proteger su PC. Optimiza el rendimiento de su computadora, resuelve problemas, protege su privacidad y lo ayuda a personalizar su sistema para que se ajuste a sus necesidades.",
+         "Desde": "",
+         "Hasta": "2025/02/15 07:00",
+         "URL": "https://sharewareonsale.com/s/glary-utilities-pro-sale",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
          "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu auto se descompone.",
          "Desde": "",
@@ -309,6 +289,16 @@
          "URL": "https://sharewareonsale.com/s/free-nero-platinum-se-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Video to Picture Converter License Key Free 2025",
+         "Informacion": "Video to Picture Converter es un \u00fatil software de conversi\u00f3n de v\u00eddeo que le permite convertir casi todos los archivos de v\u00eddeo de uso frecuente a im\u00e1genes JPG, BMP, GIF, TGA, TIF, PCX, PNG e ICO. Con \u00e9l, podr\u00e1 convertir sin esfuerzo archivos AVI, MPEG, WMV, DVD VOB, DVR Ms. RM, RMVB, etc., a una amplia gama de formatos de imagen.",
+         "Desde": "",
+         "Hasta": "2025/02/16 15:00",
+         "URL": "https://giveaway.tickcoupon.com/video-to-picture-converter-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -422,21 +412,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Vovsoft Auto Mouse Clicker License Key Free 2025",
-         "Informacion": "Vovsoft Auto Mouse Clicker es un programa de movimiento y clic del mouse sencillo y f\u00e1cil de usar para usuarios de Windows, como su nombre lo indica. El objetivo principal de la utilidad es brindarles a los usuarios las funciones para automatizar los procesos comerciales, aumentar la productividad y ahorrar tiempo al eliminar la necesidad de operaciones manuales que requieren mucho trabajo.",
-         "Desde": "",
-         "Hasta": "2025/02/19 00:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-auto-mouse-clicker/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Coolmuster JPG to PDF Converter 1-Year Key Free",
          "Informacion": "Como ya sabes, un archivo PDF es un formato popular que resulta m\u00e1s f\u00e1cil de compartir entre distintos usuarios. En ocasiones, es posible que necesites convertir JPG a PDF para poder cambiar el tama\u00f1o de la imagen u otros atributos. Coolmuster JPG to PDF Converter es un software \u00fatil para esta tarea. Con una interfaz de usuario sencilla e intuitiva y compatibilidad con m\u00faltiples formatos, esta herramienta te permite convertir formatos de imagen JPG/JPEG, PNG, TIFF y BMP a PDF.",
          "Desde": "",
          "Hasta": "2025/02/19 00:00",
          "URL": "https://giveaway.tickcoupon.com/coolmuster-jpg-to-pdf-converter-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Auto Mouse Clicker License Key Free 2025",
+         "Informacion": "Vovsoft Auto Mouse Clicker es un programa de movimiento y clic del mouse sencillo y f\u00e1cil de usar para usuarios de Windows, como su nombre lo indica. El objetivo principal de la utilidad es brindarles a los usuarios las funciones para automatizar los procesos comerciales, aumentar la productividad y ahorrar tiempo al eliminar la necesidad de operaciones manuales que requieren mucho trabajo.",
+         "Desde": "",
+         "Hasta": "2025/02/19 00:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-auto-mouse-clicker/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -659,7 +649,7 @@
          "URL": "https://store.epicgames.com/p/apex-legends-006cde",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "F1\u00ae Manager\u00a02024",
@@ -669,7 +659,7 @@
          "URL": "https://store.epicgames.com/p/f1-manager-2024-fe51bd",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Something Is Weird by Normal Cup Dev",
@@ -702,6 +692,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Garden Story",
+         "Informacion": "Unifica una comunidad rota como nuevo Guardi\u00e1n de la Arboleda (Guardian of The Grove). Recorre una isla rebosante de vida para combatir la invasi\u00f3n de la Podredumbre (Rot), inspirar a sus habitantes y reconstruir tu hogar. No tendr\u00e1s que hacerlo a solas: \u00a1cuentas con tus fruta...",
+         "Desde": "2025/02/20",
+         "Hasta": "2025/02/27 17:00",
+         "URL": "https://store.epicgames.com/p/garden-story",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "World War Z: Aftermath",
+         "Informacion": "World War Z: Aftermath es el shooter cooperativo de zombis definitivo y el siguiente paso de World War Z, el \u00e9xito que ha cautivado a m\u00e1s de 15\u00a0millones de jugadores. Rechaza hordas de zombis insaciables en una historia intensa por episodios situada en nuevas ubicaciones arrasadas de todo el mundo.",
+         "Desde": "2025/02/20",
+         "Hasta": "2025/02/27 17:00",
+         "URL": "https://store.epicgames.com/p/world-war-z",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Sticky Password for Mac License Key Free 2025",
          "Informacion": "Sticky Password para Mac es uno de los mejores administradores de contrase\u00f1as del mundo. Con muchas funciones \u00fatiles y potentes, Sticky Password es altamente recomendado por millones de usuarios. Normalmente tiene un precio de $19,99 por una clave de licencia de 1 a\u00f1o. Pero ahora puedes obtener la licencia de Sticky Password de forma gratuita.",
          "Desde": "",
@@ -727,6 +737,16 @@
          "Desde": "",
          "Hasta": "2025/02/28 08:00",
          "URL": "https://tgtstudio.itch.io/cerealupdated",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Space Adventure by Ahsan Makes Games",
+         "Informacion": "\u00f0\u009f\u009a\u0080 \u00a1Aventura espacial: tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0\u009f\u008c\u008c",
+         "Desde": "",
+         "Hasta": "2025/02/28 16:15",
+         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -787,6 +807,16 @@
          "Desde": "",
          "Hasta": "2025/03/01 00:59",
          "URL": "https://studiogombo.itch.io/the-labours-of-hercules",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Omega No Sunshine 2 by Galoxyum",
+         "Informacion": "Omega No Sunshine es un juego arcade/coleccionismo/exploraci\u00f3n. \u00a1T\u00da eres uno de los pocos capaces de ver los anillos del sol, este es tu viaje que comienza ahora mismo!",
+         "Desde": "",
+         "Hasta": "2025/03/01 00:59",
+         "URL": "https://galoxyum.itch.io/omega-no-sunshine-2",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -967,6 +997,16 @@
          "Desde": "",
          "Hasta": "2025/03/04 21:15",
          "URL": "https://log-studios.itch.io/alone-at-hermitte-farm",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Dark Retributionist by al3cs71",
+         "Informacion": "\u00a1Te despiertas de tu sue\u00f1o eterno en busca de venganza!",
+         "Desde": "",
+         "Hasta": "2025/03/08 11:48",
+         "URL": "https://al3cs71.itch.io/the-dark-retributionist",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
