@@ -1,116 +1,6 @@
 {
-   "date_update": "13 Feb 2025 17:02 UTC",
+   "date_update": "14 Feb 2025 17:02 UTC",
    "values": [
-      {
-         "Nombre": "Beyond Blue",
-         "Informacion": "Beyond Blue es una aventura narrativa para un jugador que te lleva a las profundidades del coraz\u00f3n azul que late en nuestro planeta.  Ambientado en un futuro cercano, Beyond Blue explora los misterios del oc\u00e9ano a trav\u00e9s de los ojos de Mirai, una cient\u00edfica y exploradora de la...",
-         "Desde": "2025/02/06",
-         "Hasta": "2025/02/13 17:00",
-         "URL": "https://store.epicgames.com/p/beyond-blue",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "her apartment by AtmoPixel",
-         "Informacion": "\"her apartment\" es un breve juego de terror independiente de estilo retro de PSX",
-         "Desde": "",
-         "Hasta": "2025/02/13 19:59",
-         "URL": "https://atmopixel.itch.io/her-apartment",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "lost brother by AtmoPixel",
-         "Informacion": "\"Lost Brother\" es un juego de terror independiente de estilo retro de PSX.",
-         "Desde": "",
-         "Hasta": "2025/02/13 19:59",
-         "URL": "https://atmopixel.itch.io/lost-brother",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "rented nightmare by AtmoPixel",
-         "Informacion": "\"Rented Nightmare\" es un juego de terror independiente de estilo retro de corta duraci\u00f3n y ambientado en PSX.",
-         "Desde": "",
-         "Hasta": "2025/02/13 19:59",
-         "URL": "https://atmopixel.itch.io/rented-nightmare",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Requiem Protocol : Soul Orb by Husain Ghulam",
-         "Informacion": "Bienvenido a Requiem Protocol: Soul Orb, un emocionante juego de terror en 3D que pondr\u00e1 a prueba tu valent\u00eda y habilidad. Ad\u00e9ntrate en un mundo embrujado en el que deber\u00e1s enfrentarte a aterradores fantasmas y descubrir los secretos que se esconden en su interior.",
-         "Desde": "",
-         "Hasta": "2025/02/13 20:30",
-         "URL": "https://husain-ghulam.itch.io/requiem-protocol-soul-orb",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "One Last Hour by BananaDevStudio",
-         "Informacion": "One Last Hour es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Recorre sus calles, redescubre lugares familiares y vive una historia que permanecer\u00e1 contigo durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena vivir.",
-         "Desde": "",
-         "Hasta": "2025/02/13 22:10",
-         "URL": "https://bananadevstudio.itch.io/onelasthour",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Coding Rabbits by Dragonaz",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/02/14 00:59",
-         "URL": "https://dragonaz.itch.io/coddingrabbits",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "MISPLACED by Vinil",
-         "Informacion": "Aviso de versi\u00f3n de demostraci\u00f3n",
-         "Desde": "",
-         "Hasta": "2025/02/14 05:22",
-         "URL": "https://troj4nblazing.itch.io/misplaced",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "RecCloud All-in-One AI Video and Audio Editor",
-         "Informacion": "Plataforma de procesamiento de audio y video con IA todo en uno",
-         "Desde": "",
-         "Hasta": "2025/02/14 07:00",
-         "URL": "https://sharewareonsale.com/s/free-reccloud-all-in-one-ai-video-and-audio-editor-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "SoftOrbits AI Photo Editor",
-         "Informacion": "\u00bfCansado de pasar horas editando tus fotos? Con AI Photo Editor, puede obtener resultados de aspecto profesional en minutos. Nuestras caracter\u00edsticas de IA facilitan mejorar sus fotos con solo unos pocos clics.",
-         "Desde": "",
-         "Hasta": "2025/02/14 07:00",
-         "URL": "https://sharewareonsale.com/s/softorbits-simple-photo-editor-giveaway-coupon-sale",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Video to Picture Converter",
-         "Informacion": "Convertir v\u00eddeos en una serie de fotograf\u00edas digitales",
-         "Desde": "",
-         "Hasta": "2025/02/14 09:00",
-         "URL": "https://www.bitsdujour.com/software/video-to-picture-converter/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Apowersoft RecCloud 1 Year Free License Code",
          "Informacion": "RecCloud de Apowersoft es un completo taller de audio y video impulsado por IA que resulta \u00fatil tanto para creadores de contenido profesionales como para aficionados para que la creaci\u00f3n multimedia sea f\u00e1cil y agradable. Ofrece funciones clave, como texto a voz con IA, voz a texto con IA, generador de subt\u00edtulos con IA, traductor de video con IA, grabador de pantalla, etc. Con esta herramienta, puedes transcribir r\u00e1pidamente audio y video a texto con IA en un solo clic.",
@@ -119,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/apowersoft-reccloud-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "CAUZAGE by Vinil",
@@ -129,7 +19,7 @@
          "URL": "https://troj4nblazing.itch.io/cauzage",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Softie by kristina s.",
@@ -139,7 +29,7 @@
          "URL": "https://eowm.itch.io/softie",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Locker Giveaway 1-Year License Key Free",
@@ -149,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-locker-license-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "License Key Free for Leawo Music Recorder 2025",
@@ -159,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-music-recorder-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "PURPLE -Directors Cut- by Scopophobia Studios",
@@ -169,7 +59,7 @@
          "URL": "https://mortisfox.itch.io/purple-dc",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
       },
       {
          "Nombre": "Cabin Fever!!! by LiminAce",
@@ -179,7 +69,7 @@
          "URL": "https://liminace.itch.io/cabin-fever",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
       },
       {
          "Nombre": "Exorcize Me by LiminAce",
@@ -189,7 +79,7 @@
          "URL": "https://liminace.itch.io/exorcize-me",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
       },
       {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
@@ -199,7 +89,7 @@
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
@@ -209,7 +99,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
@@ -219,7 +109,7 @@
          "URL": "https://iamqqqqqqq.itch.io/homegame",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "13,000 Viral Luxury Rich Lifestyle Reels Bundle",
@@ -229,7 +119,7 @@
          "URL": "https://sharewareonsale.com/s/free-13000-viral-luxury-rich-lifestyle-reels-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Glary Utilities PRO",
@@ -239,7 +129,7 @@
          "URL": "https://sharewareonsale.com/s/glary-utilities-pro-sale",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -269,6 +159,46 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-pdf-reader-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Last Hour by BananaDevStudio",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/15 18:45",
+         "URL": "https://bananadevstudio.itch.io/onelasthour",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "her apartment by AtmoPixel",
+         "Informacion": "\"Su apartamento\" es un juego de terror indie de estilo Retro de estilo PSX corto corto",
+         "Desde": "",
+         "Hasta": "2025/02/15 19:59",
+         "URL": "https://atmopixel.itch.io/her-apartment",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "lost brother by AtmoPixel",
+         "Informacion": "\"Lost Brother\" es un juego de terror indie de estilo Retro de estilo PSX corto corto",
+         "Desde": "",
+         "Hasta": "2025/02/15 19:59",
+         "URL": "https://atmopixel.itch.io/lost-brother",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "rented nightmare by AtmoPixel",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/15 19:59",
+         "URL": "https://atmopixel.itch.io/rented-nightmare",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -337,6 +267,16 @@
          "Desde": "",
          "Hasta": "2025/02/17 08:55",
          "URL": "https://cbunsee.itch.io/card-surivival",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/17 12:25",
+         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -662,6 +602,66 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Milk outside a bag of milk outside a bag of milk by Nikita Kryukov",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/20 21:00",
+         "URL": "https://nikita-kryukov.itch.io/milk-outside-a-bag-of-milk-outside-a-bag-of-milk",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MEGALITH by Nikita Kryukov",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/20 21:00",
+         "URL": "https://nikita-kryukov.itch.io/megalith",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Milk inside a bag of milk inside a bag of milk by Nikita Kryukov",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/20 21:00",
+         "URL": "https://nikita-kryukov.itch.io/pmkm",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Daiku no Medium by Nikita Kryukov",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/20 21:00",
+         "URL": "https://nikita-kryukov.itch.io/daiku-no-medium",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BLACK & WHITE Projects 6 Pro",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/21 07:00",
+         "URL": "https://sharewareonsale.com/s/free-black-white-projects-6-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ThunderSoft Audio Recorder Free License Key 2025",
+         "Informacion": "Necesitar\u00e1 una herramienta de grabadora de audio de computadora si planea grabar sonido en la computadora o crear contenido para el trabajo, la escuela o el entretenimiento. Entonces la grabadora de audio Thundersoft es definitivamente su mejor tiro. Las caracter\u00edsticas para grabar el sonido del sistema y la reproducci\u00f3n de audio en su dispositivo, as\u00ed como audio externo a trav\u00e9s de un micr\u00f3fono, son \u00fatiles para grabar audio.",
+         "Desde": "",
+         "Hasta": "2025/02/21 15:00",
+         "URL": "https://giveaway.tickcoupon.com/thundersoft-audio-recorder-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Something Is Weird by Normal Cup Dev",
          "Informacion": "Alquilas una casa grande pero barata mientras est\u00e1s de vacaciones. Pero algo es extra\u00f1o. Muy, muy extra\u00f1o...",
          "Desde": "",
@@ -689,6 +689,36 @@
          "URL": "https://store.epicgames.com/p/humankind",
          "IMG": "",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Royal Quest Online - Hero Power",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/25 10:00",
+         "URL": "https://store.steampowered.com/app/3161090/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stellar Mess: The Princess Conundrum (Chapter 1)",
+         "Informacion": "Stellar Mess es un juego de aventura 2D Point & Click, ambientado en alg\u00fan lugar de la Patagonia Argentina. El juego est\u00e1 inspirado en los primeros juegos cl\u00e1sicos de EGA del g\u00e9nero.",
+         "Desde": "",
+         "Hasta": "2025/02/27 10:00",
+         "URL": "https://store.steampowered.com/app/1507530/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stellar Mess: The Princess Conundrum by Tibba Games",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/27 15:00",
+         "URL": "https://tibbagames.itch.io/stellarmess1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -732,6 +762,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "MISPLACED by Vinil",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2025/02/28 05:22",
+         "URL": "https://troj4nblazing.itch.io/misplaced",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Cereal by GamingTGT",
          "Informacion": "Nuevo contenido + contenido m\u00e1s largo",
          "Desde": "",
@@ -747,6 +787,16 @@
          "Desde": "",
          "Hasta": "2025/02/28 16:15",
          "URL": "https://ahsanmakesgames.itch.io/space-adventure",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Project Z by KS GAMES",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/02/28 18:05",
+         "URL": "https://gamerevolutionx.itch.io/project-z",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -802,21 +852,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Labours of Hercules by Studio Gombo",
-         "Informacion": "The Labors of Hercules es la primera novela visual de Studio Gombo. Se basa en los cuentos mitol\u00f3gicos sobre el h\u00e9roe y sus haza\u00f1as. Juegas como H\u00e9rcules, y lo sigues en sus famosos doce labores alrededor de Grecia, Egipto y varios mundos desconocidos.",
-         "Desde": "",
-         "Hasta": "2025/03/01 00:59",
-         "URL": "https://studiogombo.itch.io/the-labours-of-hercules",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Omega No Sunshine 2 by Galoxyum",
          "Informacion": "Omega No Sunshine es un juego arcade/coleccionismo/exploraci\u00f3n. \u00a1T\u00da eres uno de los pocos capaces de ver los anillos del sol, este es tu viaje que comienza ahora mismo!",
          "Desde": "",
          "Hasta": "2025/03/01 00:59",
          "URL": "https://galoxyum.itch.io/omega-no-sunshine-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Labours of Hercules by Studio Gombo",
+         "Informacion": "The Labors of Hercules es la primera novela visual de Studio Gombo. Se basa en los cuentos mitol\u00f3gicos sobre el h\u00e9roe y sus haza\u00f1as. Juegas como H\u00e9rcules, y lo sigues en sus famosos doce labores alrededor de Grecia, Egipto y varios mundos desconocidos.",
+         "Desde": "",
+         "Hasta": "2025/03/01 00:59",
+         "URL": "https://studiogombo.itch.io/the-labours-of-hercules",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -937,6 +987,16 @@
          "Desde": "",
          "Hasta": "2025/03/01 08:28",
          "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ChickenFine 2: Billions Must Die by ZrozDev",
+         "Informacion": "\u00a1Videojuego con disparos realistas, trama interesante y muchos secretos! Usted, como soldado de las Fuerzas Especiales, tiene que investigar el misterio de una instalaci\u00f3n secreta que se ejecuta con un combustible desconocido, pero para hacer esto, debe ir al s\u00f3tano de un hospital mental para documentos ...",
+         "Desde": "",
+         "Hasta": "2025/03/01 15:10",
+         "URL": "https://zrozumilo-studio.itch.io/chickenfine-2",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
