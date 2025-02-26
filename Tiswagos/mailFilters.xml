@@ -86,7 +86,7 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@adultdeepfakes.com OR @badoo.com OR @happnmail.com OR @onlyfans.com OR @pornhub.com OR @mail.tinder.com'/>
+		<apps:property name='from' value='@adultdeepfakes.com OR @badoo.com OR @happnmail.com OR @onlyfans.com OR @pornhub.com OR @mail.tinder.com OR @vrporn.com'/>
 		<apps:property name='label' value='Registros/XXX'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
