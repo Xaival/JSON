@@ -1,76 +1,6 @@
 {
-   "date_update": "05 Mar 2025 17:01 UTC",
+   "date_update": "06 Mar 2025 17:09 UTC",
    "values": [
-      {
-         "Nombre": "THE BIGGERFOOT by That Guy Who Makes Games",
-         "Informacion": "El teniente de polic\u00eda Gen Eric Guy responde una solicitud del despacho en una noche ordinaria.\u00a0Sin embargo, su experiencia esa noche fue cualquier cosa menos ordinaria.",
-         "Desde": "",
-         "Hasta": "2025/03/05 10:00",
-         "URL": "https://that-guy-who-makes-games.itch.io/the-biggerfoot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The Last Tree by gamesbyrd",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/03/05 10:32",
-         "URL": "https://gamesbyrd.itch.io/the-last-tree",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
-      },
-      {
-         "Nombre": "One Last Hour by BananaDevStudio",
-         "Informacion": "Una \u00faltima hora es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Camine sus calles, redescubre lugares familiares y experimente una historia que permanecer\u00e1 con usted durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena experimentar.",
-         "Desde": "",
-         "Hasta": "2025/03/05 16:16",
-         "URL": "https://bananadevstudio.itch.io/onelasthour",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 70%, yellow 70%) 1;"
-      },
-      {
-         "Nombre": "Toxin X by BananaDevStudio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/03/05 16:16",
-         "URL": "https://bananadevstudio.itch.io/toxin-x",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 70%, yellow 70%) 1;"
-      },
-      {
-         "Nombre": "TOWER UP V1.3 by Yanlin522",
-         "Informacion": "Bienvenido a la torre de un juego de acci\u00f3n interminable de la Torre donde subes por la Torre de la Muerte sin fin",
-         "Desde": "",
-         "Hasta": "2025/03/05 19:59",
-         "URL": "https://yanlin522.itch.io/tower-up-v1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Nevren: Ancient Gods by Green Woltec",
-         "Informacion": "Historia:",
-         "Desde": "",
-         "Hasta": "2025/03/06 00:59",
-         "URL": "https://greenwoltec.itch.io/nevren-ancient-gods",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "Hasleo Disk Clone Professional",
-         "Informacion": "Software de clonaci\u00f3n de disco todo en uno para Windows",
-         "Desde": "",
-         "Hasta": "2025/03/06 07:00",
-         "URL": "https://sharewareonsale.com/s/free-hasleo-disk-clone-professional-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
       {
          "Nombre": "Blackness by gamesbyrd",
          "Informacion": "Si pierde, tendr\u00e1 que comenzar de nuevo.",
@@ -79,7 +9,7 @@
          "URL": "https://gamesbyrd.itch.io/blackness",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "Mages of Mystralia",
@@ -89,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/mages-of-mystralia",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Lion Of Hell by Osama M.S.A",
@@ -99,7 +29,7 @@
          "URL": "https://osamamsa123.itch.io/lion-of-hell",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Coolmuster iOS Assistant Free License Key 1-Year",
@@ -109,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-assistant-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "GravMetal by Shmig",
@@ -119,7 +49,7 @@
          "URL": "https://shmig.itch.io/gravmetal",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
       },
       {
          "Nombre": "Wise Care 365 PRO",
@@ -129,7 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-wise-care-365-pro-39-95-value",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Being Stalked by GamingTGT",
@@ -139,7 +69,7 @@
          "URL": "https://tgtstudio.itch.io/being-stalked",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Cereal by GamingTGT",
@@ -149,7 +79,17 @@
          "URL": "https://tgtstudio.itch.io/cerealupdated",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "Video Watermark Pro",
+         "Informacion": "Aplicar marcas de agua a los videos r\u00e1pidamente",
+         "Desde": "",
+         "Hasta": "2025/03/07 09:00",
+         "URL": "https://www.bitsdujour.com/software/video-watermark-pro-2/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Vovsoft Duplicate File Finder License Key Free 2025",
@@ -157,6 +97,16 @@
          "Desde": "",
          "Hasta": "2025/03/07 12:00",
          "URL": "https://giveaway.tickcoupon.com/vovsoft-duplicate-file-finder-free-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox Video Watermark Free License Key",
+         "Informacion": "Es posible que haya tomado unas horas para crear un video o clip para compartir en Facebook, Twitter u otras redes sociales, y luego las encontr\u00f3 en las paredes de los extra\u00f1os. \u00bfAlguna vez has conocido lo mismo? Lo que debe hacer en este momento es agregar su informaci\u00f3n personal a su clip o video como mensaje al espectador de que este clip o video es suyo. Wonderfox Video Watermark ayuda a los usuarios a insertar un logotipo en videos y clips para mostrar que son videos y clips con derechos de autor. Al usar Video Watermark, los videos y los clips ser\u00e1n verificados por usted, y cuando otros usuarios lo usen, deben obtener su permiso.",
+         "Desde": "",
+         "Hasta": "2025/03/07 15:00",
+         "URL": "https://giveaway.tickcoupon.com/wonderfox-video-watermark-giveaway/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -432,6 +382,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster HEIC Converter 1-Year License Key Free",
+         "Informacion": "El problema de compatibilidad de HEIC en Android o Windows hace que cumpla con los problemas. Coolmuster HEIC Converter lo sacar\u00e1 de problemas en minutos. Como su nombre indica, CoolMuster HEIC Converter es una aplicaci\u00f3n de convertidor de imagen dise\u00f1ada para ayudarlo a convertir sus im\u00e1genes HEIC a JPG/JPEG/PNG con la calidad original de manera r\u00e1pida y f\u00e1cil. Adem\u00e1s, esta herramienta tambi\u00e9n facilita la conversi\u00f3n de m\u00faltiples archivos HEIC al formato JPG o PNG al mismo tiempo.",
+         "Desde": "",
+         "Hasta": "2025/03/12 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-heic-converter-free-license/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Snow Cones 2 by Team Lazerbeam",
          "Informacion": "\u00a1La saga de romance de helado m\u00e1s grande del mundo contin\u00faa! Bienvenidos nuevamente Pink y Blue, las estrellas de los helados de cono del exitoso simulador de citas de 2015, Snow Cones Episode 1. \u00a1Vuelve a unirte al d\u00fao cuando se embarcan en su segunda cita! \u00a1Sobrevive al aburrimiento de tu trabajo diario! \u00a1V\u00edstete para tener \u00e9xito en las citas! \u00a1Atraviesa multitudes para encontrar a tu amor plat\u00f3nico! \u00a1Ve a ver una pel\u00edcula! \u00a1Termina la noche con un momento inolvidable a solas con tu helado de ensue\u00f1o! \u00a1Este es el simulador de citas surrealista, punk-rock y s\u00faper kawaii de formato corto de tus sue\u00f1os! Un enorme salto creativo y t\u00e9cnico desde SC1, el Episodio 2 incluye:",
          "Desde": "",
@@ -449,16 +409,6 @@
          "URL": "https://teamlazerbeam.itch.io/snowcones",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster HEIC Converter 1-Year License Key Free",
-         "Informacion": "El problema de compatibilidad de HEIC en Android o Windows hace que cumpla con los problemas. Coolmuster HEIC Converter lo sacar\u00e1 de problemas en minutos. Como su nombre indica, CoolMuster HEIC Converter es una aplicaci\u00f3n de convertidor de imagen dise\u00f1ada para ayudarlo a convertir sus im\u00e1genes HEIC a JPG/JPEG/PNG con la calidad original de manera r\u00e1pida y f\u00e1cil. Adem\u00e1s, esta herramienta tambi\u00e9n facilita la conversi\u00f3n de m\u00faltiples archivos HEIC al formato JPG o PNG al mismo tiempo.",
-         "Desde": "",
-         "Hasta": "2025/03/12 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-heic-converter-free-license/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -482,6 +432,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Advanced SystemCare 18 PRO",
+         "Informacion": "Advanced SystemCare es una utilidad todo en uno pero f\u00e1cil de usar para las computadoras de Windows. Puede limpiar, acelerar, optimizar y proteger su PC, as\u00ed como proteger su privacidad.",
+         "Desde": "",
+         "Hasta": "2025/03/13 07:00",
+         "URL": "https://sharewareonsale.com/s/advanced-systemcare-pro-sale",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Them's Fightin' Herds",
          "Informacion": "Them's Fightin' Herds",
          "Desde": "2025/03/06",
@@ -489,7 +449,7 @@
          "URL": "https://store.epicgames.com/p/thems-fightin-herds",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Leawo Photo BG Remover 1 Year License Key Free",
@@ -580,6 +540,26 @@
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mortal Shell",
+         "Informacion": "Mortal Shell es un RPG repleto de acci\u00f3n que pondr\u00e1 a prueba tu cordura y resiliencia en un mundo hecho pedazos. Tus adversarios no muestran compasi\u00f3n, con una conciencia y precisi\u00f3n superiores necesarias para la supervivencia. Posee guerreros perdidos, descubre santuarios ocu...",
+         "Desde": "2025/03/13",
+         "Hasta": "2025/03/20 17:00",
+         "URL": "https://store.epicgames.com/p/mortal-shell",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "World of Warships \u2014 Anniversary Party Favor",
+         "Informacion": "Behold our token of appreciation for playing World of Warships at the Epic Games Store on this, our fourth anniversary on the platform!",
+         "Desde": "2025/03/13",
+         "Hasta": "2025/03/20 17:00",
+         "URL": "https://store.epicgames.com/p/world-of-warships",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Winxvideo AI",
@@ -792,16 +772,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Devils-demo by b64studio",
-         "Informacion": "De vuelta al pasado con el juego de los Devils. Commodore 64 en una nueva versi\u00f3n en su PC!",
-         "Desde": "",
-         "Hasta": "2025/03/31 00:00",
-         "URL": "https://b64studio.itch.io/devils-demo",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "AOMEI Cyber Backup 1 Year License Key Free 2025",
          "Informacion": "Muchos de nosotros creemos que los datos de nuestra empresa est\u00e1n bien protegidos de cualquier situaci\u00f3n. Pero la verdad no es as\u00ed. Sus datos a\u00fan se perder\u00e1n en el caso de un desastre. Entonces, \u00bfc\u00f3mo podemos recuperar los datos completos en el menor tiempo para volver al trabajo como si no hubiera pasado nada? AOMEI Cyber \u200b\u200bBackup es una poderosa soluci\u00f3n de respaldo empresarial que proporciona una amplia gama de opciones de copia de seguridad de datos empresariales para ayudarlo a hacer una copia de seguridad o recuperar datos en situaciones de desastre para garantizar la mayor resistencia.",
          "Desde": "",
@@ -809,6 +779,16 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-cyber-backup/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Devils-demo by b64studio",
+         "Informacion": "De vuelta al pasado con el juego de los Devils. Commodore 64 en una nueva versi\u00f3n en su PC!",
+         "Desde": "",
+         "Hasta": "2025/03/31 00:00",
+         "URL": "https://b64studio.itch.io/devils-demo",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -960,6 +940,16 @@
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "MiniTool MovieMaker 6-Month License Key Free",
+         "Informacion": "Editar un video con MiniTool MoviEmaker es simple si no tiene mucha experiencia con la edici\u00f3n de video. Esta herramienta est\u00e1 dise\u00f1ada para ayudarlo a rehacer su video como pel\u00edculas al estilo de Hollywood con una interfaz intuitiva y caracter\u00edsticas ricas. Cargue sus archivos multimedia desde el disco local, y luego puede usar transiciones y efectos para que su contenido brille.",
+         "Desde": "",
+         "Hasta": "2025/04/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/minitool-moviemaker-license-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "SPEED OF LIFE 3D by TOWI",
