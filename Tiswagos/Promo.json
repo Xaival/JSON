@@ -1,85 +1,15 @@
 {
-   "date_update": "16 Mar 2025 17:03 UTC",
+   "date_update": "17 Mar 2025 17:03 UTC",
    "values": [
       {
-         "Nombre": "Stay Warm, Stay Alive by wiedzmiz",
-         "Informacion": "Mientras caminaba en las monta\u00f1as, te desorientaste debido a las fuertes nevadas. El sendero que segu\u00edas desapareci\u00f3 debajo de la nieve, y perdiste tu sentido de la direcci\u00f3n. Mientras buscaste desesperadamente un camino de regreso, una tormenta de nieve repentina te tom\u00f3 por sorpresa.",
-         "Desde": "",
-         "Hasta": "2025/03/16 19:40",
-         "URL": "https://wiedzmiz.itch.io/staywarm-stayalive",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Omega No Sunshine 2 by Galoxyum",
-         "Informacion": "Omega No Sunshine es un juego Arcade/Collecthaton/Exploration. Eres uno de los pocos anillos del sol, \u00a1este es tu viaje que comienza en este momento!",
-         "Desde": "",
-         "Hasta": "2025/03/17 00:59",
-         "URL": "https://galoxyum.itch.io/omega-no-sunshine-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Shady Mission by 8080",
-         "Informacion": "Este es sin duda el juego m\u00e1s grande que he hecho, tomado",
-         "Desde": "",
-         "Hasta": "2025/03/17 01:00",
-         "URL": "https://8080.itch.io/shady-mission",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Annulus by TOQ Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/03/17 06:59",
-         "URL": "https://toq-games.itch.io/annulus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Big Fish by TOQ Games",
-         "Informacion": "- El movimiento fluido, la atm\u00f3sfera cambiante y el crecimiento natural del mundo hacen que este juego se sienta atractivo e inspira curiosidad en el coraz\u00f3n del jugador.",
-         "Desde": "",
-         "Hasta": "2025/03/17 06:59",
-         "URL": "https://toq-games.itch.io/big-fish",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Adorable Easter Graphic Bundle",
-         "Informacion": "\u00a1Elabore proyectos incre\u00edbles con este adorable paquete de dise\u00f1o de Pascua, que incluye 49 gr\u00e1ficos premium de alta calidad, disponibles ahora de forma gratuita en asociaci\u00f3n con ShareFareSonsale.com (valorado en $ 279)! Perfecto para todos sus pr\u00f3ximos proyectos. Personalice y edite como desee. \u00a1Viene con una licencia comercial!",
-         "Desde": "",
-         "Hasta": "2025/03/17 07:00",
-         "URL": "https://sharewareonsale.com/s/free-adorable-easter-graphic-bundle-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Text to MP3 Converter",
-         "Informacion": "*** \u00a1Buenas noticias! Vovsoft ha acordado extender este acuerdo para otro d\u00eda, \u00a1disfruta! ***",
-         "Desde": "",
-         "Hasta": "2025/03/17 09:00",
-         "URL": "https://www.bitsdujour.com/software/text-to-mp3-converter-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Ultimate Paper Plane by BananaDevStudio",
-         "Informacion": "",
+         "Nombre": "One Last Hour by BananaDevStudio",
+         "Informacion": "Una \u00faltima hora es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Camine sus calles, redescubre lugares familiares y experimente una historia que permanecer\u00e1 con usted durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena experimentar.",
          "Desde": "",
          "Hasta": "2025/03/17 12:31",
-         "URL": "https://bananadevstudio.itch.io/ultimate-paper-plane",
+         "URL": "https://bananadevstudio.itch.io/onelasthour",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "Toxin X by BananaDevStudio",
@@ -89,17 +19,17 @@
          "URL": "https://bananadevstudio.itch.io/toxin-x",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
-         "Nombre": "One Last Hour by BananaDevStudio",
-         "Informacion": "Una \u00faltima hora es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Camine sus calles, redescubre lugares familiares y experimente una historia que permanecer\u00e1 con usted durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena experimentar.",
+         "Nombre": "Ultimate Paper Plane by BananaDevStudio",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2025/03/17 12:31",
-         "URL": "https://bananadevstudio.itch.io/onelasthour",
+         "URL": "https://bananadevstudio.itch.io/ultimate-paper-plane",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "False Awakening by TerrorTalesProductions",
@@ -109,7 +39,7 @@
          "URL": "https://terrortalesproductions.itch.io/false-awakening",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Cookie Clicker: Anniversary Edition by TheSilentHouseStudio",
@@ -119,7 +49,7 @@
          "URL": "https://the-silent-house-studio.itch.io/cookieclicker",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
       },
       {
          "Nombre": "Coolmuster Android Eraser Free License Code 2025",
@@ -129,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-eraser-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Coolmuster Android SMS + Contacts Recovery 1 Year Free Key",
@@ -139,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-sms-contacts-recovery/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Fear Assessment by ALEXANDER WISEMAN",
@@ -149,7 +79,7 @@
          "URL": "https://alexander-wiseman.itch.io/fear-assessment",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
       },
       {
          "Nombre": "VICTIM.exe by ALEXANDER WISEMAN",
@@ -159,7 +89,7 @@
          "URL": "https://alexander-wiseman.itch.io/victimexe",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
       },
       {
          "Nombre": "Scheming Through The Zombie Apocalypse: The Beginning",
@@ -169,7 +99,7 @@
          "URL": "https://store.steampowered.com/app/813540/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -392,6 +322,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Omega No Sunshine 2 by Galoxyum",
+         "Informacion": "Omega No Sunshine es un juego Arcade/Collecthaton/Exploration. Eres uno de los pocos anillos del sol, \u00a1este es tu viaje que comienza en este momento!",
+         "Desde": "",
+         "Hasta": "2025/03/24 00:59",
+         "URL": "https://galoxyum.itch.io/omega-no-sunshine-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CSV to VCF Converter License Key Free 2025",
+         "Informacion": "CSV a VCF Converter es un software Contacts File Converter que le permite convertir archivos CSV de Excel a archivos VCF VCARD. Este software es m\u00e1s adecuado para exportar e importar contactos en dispositivos m\u00f3viles o Microsoft Outlook. Simplemente elija el archivo de entrada Excel de entrada y seleccione para exportarlo al formato VCF.",
+         "Desde": "",
+         "Hasta": "2025/03/24 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovosoft-csv-to-vcf-converter/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SHAREDDRIVE 2025",
+         "Informacion": "El software SharedDrive protege los datos confidenciales del acceso no autorizado por cifrado con algoritmos de cifrado reconocidos. Solo se puede acceder a los archivos originales si se conoce la contrase\u00f1a correcta o si la tecla de hardware apropiada est\u00e1 disponible. El acceso es posible a trav\u00e9s de una ventana de programa especial. Debido a la estructura basada en archivos del cifrado, el acceso simult\u00e1neo de varios usuarios a la base de datos no es un problema. Los archivos tambi\u00e9n se pueden almacenar centralmente en un servidor o en una nube de datos. La transferencia a trav\u00e9s de la red est\u00e1 encriptada y el archivo solo se descifra en el cliente.",
+         "Desde": "",
+         "Hasta": "2025/03/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-abylon-shareddrive-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Larger Than Light by 1010meha",
          "Informacion": "",
          "Desde": "",
@@ -449,6 +409,16 @@
          "URL": "https://cbunsee.itch.io/card-surivival",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF Password Remover 1 Year Free License Code",
+         "Informacion": "Si ha estado buscando software para descifrar un archivo PDF protegido por contrase\u00f1a durante mucho tiempo, entonces CoolMuster PDF Password Remover podr\u00eda ser la utilidad para darle una mano. CoolMuster PDF Password Remover es un software PDF Password Remover dise\u00f1ado para eliminar contrase\u00f1as de un PDF para editar, copiar o compartir.\u00a0Esta herramienta ofrece dos modos de descifrado: modos de descifrado por lotes y descifrado de clic derecho para ayudarlo a eliminar r\u00e1pidamente las contrase\u00f1as de los archivos PDF de Adobe.",
+         "Desde": "",
+         "Hasta": "2025/03/26 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -699,6 +669,16 @@
          "URL": "https://giveaway.tickcoupon.com/aomei-fonebackup-license-key-download/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Beyond One's Past by Warlines Studios",
+         "Informacion": "Es la primera vez que vengas aqu\u00ed.",
+         "Desde": "",
+         "Hasta": "2025/03/31 15:05",
+         "URL": "https://warlines.itch.io/beyond-one-past",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1027,6 +1007,16 @@
          "Desde": "",
          "Hasta": "2025/04/10 00:00",
          "URL": "https://giveaway.tickcoupon.com/anyviewer-professional-vip-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FoneTool Unlocker Pro 1 Year Free License Code 2025",
+         "Informacion": "Seguiste tratando de adivinar el c\u00f3digo de acceso de tu antiguo iPhone, pero termin\u00f3 bloque\u00e1ndolo. Afortunadamente, Fonetool Unlocker Pro puede ayudarlo a desbloquear su tel\u00e9fono. Dise\u00f1ada con una interfaz simple y f\u00e1cil de usar, esta potente herramienta de desbloqueador iOS puede ayudarlo a desbloquear su iPhone, iPad, iPod Touch o Apple ID sin esfuerzo. Con su ayuda, puede recuperar f\u00e1cilmente el control de su dispositivo sin preocuparse por perder su c\u00f3digo de acceso.",
+         "Desde": "",
+         "Hasta": "2025/04/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/fonetool-unlocker-pro-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
