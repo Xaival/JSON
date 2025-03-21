@@ -1,55 +1,15 @@
 {
-   "date_update": "20 Mar 2025 17:03 UTC",
+   "date_update": "21 Mar 2025 17:03 UTC",
    "values": [
       {
-         "Nombre": "Mortal Shell",
-         "Informacion": "Mortal Shell es un RPG repleto de acci\u00f3n que pondr\u00e1 a prueba tu cordura y resiliencia en un mundo hecho pedazos. Tus adversarios no muestran compasi\u00f3n, con una conciencia y precisi\u00f3n superiores necesarias para la supervivencia. Posee guerreros perdidos, descubre santuarios ocu...",
-         "Desde": "2025/03/13",
-         "Hasta": "2025/03/20 17:00",
-         "URL": "https://store.epicgames.com/p/mortal-shell",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
-      },
-      {
-         "Nombre": "World of Warships \u2014 Anniversary Party Favor",
-         "Informacion": "Behold our token of appreciation for playing World of Warships at the Epic Games Store on this, our fourth anniversary on the platform!",
-         "Desde": "2025/03/13",
-         "Hasta": "2025/03/20 17:00",
-         "URL": "https://store.epicgames.com/p/world-of-warships",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo WinOptimizer 26",
-         "Informacion": "Ashampoo Winoptimizer 26 es un conjunto integral de optimizaci\u00f3n de PC con m\u00e1s de 30 m\u00f3dulos de caracter\u00edsticas. El programa aumenta el rendimiento, soluciona los problemas del sistema y reduce el desorden de archivos.",
+         "Nombre": "One Last Hour by BananaDevStudio",
+         "Informacion": "Una \u00faltima hora es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Camine sus calles, redescubre lugares familiares y experimente una historia que permanecer\u00e1 con usted durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena experimentar.",
          "Desde": "",
-         "Hasta": "2025/03/21 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-26-100-discount-copy",
+         "Hasta": "2025/03/21 16:02",
+         "URL": "https://bananadevstudio.itch.io/onelasthour",
          "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Winxvideo AI",
-         "Informacion": "Potenciador y convertidor de videos/im\u00e1genes con AI. Evalice, estabilizar, convertir, grabar y editar video. Calidad de grado de cine. GPU completo acelerado.",
-         "Desde": "",
-         "Hasta": "2025/03/21 07:00",
-         "URL": "https://sharewareonsale.com/s/free-winxvideo-ai-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "IObit Uninstaller",
-         "Informacion": "Eliminar aplicaciones no deseadas y archivos basura",
-         "Desde": "",
-         "Hasta": "2025/03/21 09:00",
-         "URL": "https://www.bitsdujour.com/software/iobit-uninstaller/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Toxin X by BananaDevStudio",
@@ -59,7 +19,7 @@
          "URL": "https://bananadevstudio.itch.io/toxin-x",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Ultimate Paper Plane by BananaDevStudio",
@@ -69,17 +29,7 @@
          "URL": "https://bananadevstudio.itch.io/ultimate-paper-plane",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "One Last Hour by BananaDevStudio",
-         "Informacion": "Una \u00faltima hora es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Camine sus calles, redescubre lugares familiares y experimente una historia que permanecer\u00e1 con usted durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena experimentar.",
-         "Desde": "",
-         "Hasta": "2025/03/21 16:02",
-         "URL": "https://bananadevstudio.itch.io/onelasthour",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "The Hidden Layer by 375games",
@@ -89,7 +39,7 @@
          "URL": "https://375games.itch.io/the-hidden-layer",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
       },
       {
          "Nombre": "DreadVault by Vinil, trauma_ok",
@@ -99,7 +49,7 @@
          "URL": "https://troj4nblazing.itch.io/dreadvault",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
       },
       {
          "Nombre": "200 Awesome Photoshop Brushes Bundle",
@@ -109,7 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-200-awesome-photoshop-brushes-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Sticky Password Premium",
@@ -119,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/sticky-password-sale",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Sticky Password Premium Key Free 1-Year 2025",
@@ -152,6 +102,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Pixel8bitabria by 45craft games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/03/23 06:00",
+         "URL": "https://45craft-games.itch.io/pixel8bitabria",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "FOCUS Projects 4 PRO",
          "Informacion": "Cree macros de libros de texto, afilados y con detalles como nunca antes hab\u00eda visto. Con las nuevas tecnolog\u00edas de Focus Projects 4 Professional, puede crear fotos macro de vanguardia que tienen una fascinante enfoque y sacan detalles extraordinarios a la luz.",
          "Desde": "",
@@ -159,6 +119,16 @@
          "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cities: Skylines",
+         "Informacion": "\u00a1Juega gratis! Ciudades: Skylines es una versi\u00f3n moderna de la simulaci\u00f3n cl\u00e1sica de la ciudad. El juego presenta nuevos elementos de juego para realizar la emoci\u00f3n y las dificultades de crear y mantener una ciudad real mientras se expande algunos tropos bien establecidos de la experiencia de construcci\u00f3n de la ciudad.",
+         "Desde": "",
+         "Hasta": "2025/03/23 10:00",
+         "URL": "https://store.steampowered.com/app/255710/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -302,6 +272,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "MagFone Location Changer 6-Month License Key for Free",
+         "Informacion": "Magfone Ubication Changer est\u00e1 dise\u00f1ado para ayudarlo a hacer clic 1 para cambiar la ubicaci\u00f3n GPS en dispositivos iOS y Android a cualquier parte del mundo. Puede usar esta herramienta para ocultar su ubicaci\u00f3n por razones de privacidad, omitir las restricciones geogr\u00e1ficas o simular el movimiento GPS para los juegos sin la necesidad de jailbreak o rootear su dispositivo. Esta excelente herramienta de cambio de ubicaci\u00f3n lo ayuda a cambiar su ubicaci\u00f3n de iPhone o falsificar su ubicaci\u00f3n de Android en aplicaciones sociales, jugar juegos AR populares basados \u200b\u200ben la ubicaci\u00f3n como Pok\u00e9mon Go y Soundmap, o incluso aplicaciones de citas como Tinder y Grindr.",
+         "Desde": "",
+         "Hasta": "2025/03/26 11:00",
+         "URL": "https://giveaway.tickcoupon.com/magfone-location-changer-free-license/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Search Text in Files License Key Free",
          "Informacion": "El texto de b\u00fasqueda de Vovsoft en archivos es un software de administraci\u00f3n de documentos simple pero funcional que puede buscar cadenas de texto en una variedad de texto y otros archivos. La lista se puede exportar como archivo .txt o .csv. Adem\u00e1s, este software tambi\u00e9n le permite mostrar los archivos y los iconos de archivos utilizando las casillas de verificaci\u00f3n.",
          "Desde": "",
@@ -312,21 +292,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Lost Arctic by Puzzle Box Island",
-         "Informacion": "Este es el Cap\u00edtulo 1 y 2 de un viaje que explora el \u00c1rtico para encontrar una civilizaci\u00f3n perdida.",
-         "Desde": "",
-         "Hasta": "2025/03/26 21:00",
-         "URL": "https://puzzle-box-island.itch.io/the-lost-arctic",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Puzzle Box Island by Puzzle Box Island",
          "Informacion": "Este juego de aventuras de rompecabezas de punto y clic de 90 \"S lleva a los jugadores a un viaje nost\u00e1lgico a trav\u00e9s de una isla principal compuesta por cuatro mundos \u00fanicos.",
          "Desde": "",
          "Hasta": "2025/03/26 21:00",
          "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Lost Arctic by Puzzle Box Island",
+         "Informacion": "Este es el Cap\u00edtulo 1 y 2 de un viaje que explora el \u00c1rtico para encontrar una civilizaci\u00f3n perdida.",
+         "Desde": "",
+         "Hasta": "2025/03/26 21:00",
+         "URL": "https://puzzle-box-island.itch.io/the-lost-arctic",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -359,6 +339,16 @@
          "URL": "https://sharewareonsale.com/s/aomei-backupper-pro-freebie-sale",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BeckerCAD 12 2D License Key Free Download",
+         "Informacion": "Dise\u00f1ado para profesionales, aficionados y estudiantes, Beckercad 12 2D es un software CAD profesional y f\u00e1cil de usar para dise\u00f1o y modelado 2D. Esta herramienta lo ayuda a crear dise\u00f1os 2D precisos en varios campos, como arquitectura, ingenier\u00eda el\u00e9ctrica, fabricaci\u00f3n de modelos, etc. Le permite importar y exportar archivos DWG/DXF, lo que lo hace compatible con la mayor\u00eda de los otros programas CAD.",
+         "Desde": "",
+         "Hasta": "2025/03/28 15:00",
+         "URL": "https://giveaway.tickcoupon.com/beckercad-2d-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -672,6 +662,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BLIODNIUM by Aether.Code!",
+         "Informacion": "En \"BlioDnium\", pondr\u00e1 a prueba sus habilidades superando los desaf\u00edos y la recolecci\u00f3n de cristales. Controlar\u00e1 una peque\u00f1a pelota en un entorno con algunos obst\u00e1culos, algunos muy dif\u00edciles, otros no tanto, superar los obst\u00e1culos y dominar cada nivel. \u00bfPuede?",
+         "Desde": "",
+         "Hasta": "2025/04/01 05:00",
+         "URL": "https://aethercode.itch.io/bliodnium",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MECH ZERO: Lost in Space by Aether.Code!",
+         "Informacion": "Mech Zero: Lost in Space es un juego de acci\u00f3n de Hack'nslash donde controlas un robot que est\u00e1 en la carrera debido al hecho de que es una m\u00e1quina de destrucci\u00f3n masiva, es decir, estaba programada para matar.",
+         "Desde": "",
+         "Hasta": "2025/04/01 05:00",
+         "URL": "https://aethercode.itch.io/mech-zero-lost-in-space",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
          "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
          "Desde": "",
@@ -780,16 +790,6 @@
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Mystery Game 2",
-         "Informacion": "Mystery Game 2",
-         "Desde": "2025/03/27",
-         "Hasta": "2025/04/03 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Mystery Game 1",
