@@ -76,6 +76,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 syndication.exoclick.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 temperrunnersdale.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 torrentfunk.123down.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 skyscrapertowel.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 wtrmblea.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 ww.blogiess.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.okhatrimaza.com.ph #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
