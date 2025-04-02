@@ -1,146 +1,6 @@
 {
-   "date_update": "01 Apr 2025 16:04 UTC",
+   "date_update": "02 Apr 2025 16:03 UTC",
    "values": [
-      {
-         "Nombre": "Soulless Sun by Shwampy",
-         "Informacion": "Ciencia:",
-         "Desde": "",
-         "Hasta": "2025/04/01 17:57",
-         "URL": "https://shwampy.itch.io/soulless-sun",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Shawarma Yum by Shwampy",
-         "Informacion": "Un juego sobre",
-         "Desde": "",
-         "Hasta": "2025/04/01 18:15",
-         "URL": "https://shwampy.itch.io/shawarma-hum",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
-      },
-      {
-         "Nombre": "Fear the light by Tomython",
-         "Informacion": "El juego se encuentra actualmente en las primeras etapas de desarrollo, toda la mec\u00e1nica b\u00e1sica y su imagen est\u00e1n listas, sin embargo, puede haber errores en el juego que no exist\u00edan originalmente, nos disculpamos de antemano por las molestias. Tambi\u00e9n debe tenerse en cuenta que el juego a\u00fan se actualizar\u00e1 y se lanzar\u00e1n parches, ya que esto a\u00fan no es un lanzamiento, pero solo un prototipo listo.",
-         "Desde": "",
-         "Hasta": "2025/04/01 18:30",
-         "URL": "https://tomython.itch.io/fear-the-light",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
-      },
-      {
-         "Nombre": "September 7th by EMIKA_GAMES",
-         "Informacion": "\"No mires los horrores por la noche\".",
-         "Desde": "",
-         "Hasta": "2025/04/01 23:00",
-         "URL": "https://emika-games.itch.io/september-7th",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Summer of '58 by EMIKA_GAMES",
-         "Informacion": "\"Summer of '58\" es un primer thriller psicol\u00f3gico de la primera persona. El juego tiene lugar en un edificio abandonado de un campamento sovi\u00e9tico.",
-         "Desde": "",
-         "Hasta": "2025/04/01 23:00",
-         "URL": "https://emika-games.itch.io/summer-of-58",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "The Forgotten Ari Demo by JJBEATS",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/04/01 23:28",
-         "URL": "https://jjbeats99.itch.io/the-forgotten-aria",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster iPhone Backup Extractor 1-Year Key Free",
-         "Informacion": "Los usuarios de iPhone reconocieron que iTunes es una gran herramienta para copias de seguridad regulares de sus im\u00e1genes, videos y otros datos importantes en caso de que su dispositivo se pierda, da\u00f1e o reemplace. Pero, \u00bfc\u00f3mo se obtiene sus datos si se pierde su iPhone/iPad/iPod? El extractor de copia de seguridad de iPhone CoolMuster es un software profesional de extracci\u00f3n de backup iPhone para extraer archivos de iPhone desde la copia de seguridad de iTunes a una computadora sin conectar su iPhone a la computadora.",
-         "Desde": "",
-         "Hasta": "2025/04/02 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-backup-extractor-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "VAULT 0 by KevEatsCheese",
-         "Informacion": "Vault 0 es un juego espeluznante basado en texto de ruido de texto con 12 finales. Explore un bosque extra\u00f1o en busca de un misterioso dispositivo.",
-         "Desde": "",
-         "Hasta": "2025/04/02 00:54",
-         "URL": "https://keveatscheese.itch.io/vault-0",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Valhalla Simulator by xa44",
-         "Informacion": "B\u00e1\u00f1ate de sangre mientras luchas hasta el final, corta a los 100 de soldados recolectando nuevas armas y ganando poder con cada asesinato",
-         "Desde": "",
-         "Hasta": "2025/04/02 01:00",
-         "URL": "https://xa44.itch.io/valhalla-simulator",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "The DIYGame by Cahatstrophe Games",
-         "Informacion": "El DiyGame es una empresa ambiciosa. Un juego revolucionario sobre c\u00f3mo hacer juegos, tiene como objetivo hacer que el dise\u00f1o del juego sea accesible para cualquiera y para todos. Equilibrando una meta trama sobre un dise\u00f1ador de juegos con dificultades, presionada de la sociedad en todos los lados, con una mec\u00e1nica divertida e interactiva que te permite dise\u00f1ar tus propios juegos, este juego es cierto que una vez en una experiencia de generaci\u00f3n.\u00a0Es f\u00e1cil de aprender y lo suficientemente complejo como para construir cualquier tipo de juego imaginable. Tiene ambas capacidades para hacer una obra maestra en el nivel de Sneak King, el mejor juego de todos los tiempos, y tambi\u00e9n un poste de mierda para el D\u00eda de los Inocentes.",
-         "Desde": "",
-         "Hasta": "2025/04/02 05:59",
-         "URL": "https://cahatstrophe-games.itch.io/the-diygame",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Covens of Xetta by Dancing Dots",
-         "Informacion": "Objetivo: Lleve a su aquelarre a la victoria a trav\u00e9s de la conquista o los puntos de victoria.",
-         "Desde": "",
-         "Hasta": "2025/04/02 06:54",
-         "URL": "https://15joldersmat.itch.io/covens-of-xetta",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "AnyViewer Pro 5",
-         "Informacion": "AnyViewer Pro es un software integral de conexi\u00f3n de escritorio remoto para PC Windows y servidor de Windows con cifrado de extremo a extremo a trav\u00e9s de un fuerte algoritmo de criptograf\u00eda de criptograf\u00eda el\u00edptica (ECC) de 256 bits.",
-         "Desde": "",
-         "Hasta": "2025/04/02 07:00",
-         "URL": "https://sharewareonsale.com/s/free-anyviewer-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Hide Files 9",
-         "Informacion": "Asegure sus archivos y carpetas",
-         "Desde": "",
-         "Hasta": "2025/04/02 07:00",
-         "URL": "https://sharewareonsale.com/s/free-hide-files-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "DearMob iPhone Manager",
-         "Informacion": "Copia de seguridad, cifra y restauraci\u00f3n todos los datos en su dispositivo iOS",
-         "Desde": "",
-         "Hasta": "2025/04/02 09:00",
-         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Vovsoft Hide Files License Key Free 2025",
          "Informacion": "Vovsoft Hide Files es una herramienta de cifrado para Windows. Con \u00e9l, puede establecer una contrase\u00f1a para proteger cualquier archivo secreto o vergonzoso. Esta herramienta lo ayuda a ocultar sus archivos y carpetas de los ojos indecentes y establecer su contrase\u00f1a maestra y bloquear sus archivos. Por lo tanto, nadie puede acceder a sus archivos sin su contrase\u00f1a maestra.",
@@ -149,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-hide-files-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Wise Duplicate Finder 1 Year License Key Free",
@@ -159,7 +19,27 @@
          "URL": "https://giveaway.tickcoupon.com/wise-duplicate-finder-pro-for-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
+      },
+      {
+         "Nombre": "September 7th by EMIKA_GAMES",
+         "Informacion": "\"No mires los horrores por la noche\".",
+         "Desde": "",
+         "Hasta": "2025/04/02 21:00",
+         "URL": "https://emika-games.itch.io/september-7th",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
+      },
+      {
+         "Nombre": "Summer of '58 by EMIKA_GAMES",
+         "Informacion": "\"Summer of '58\" es un primer thriller psicol\u00f3gico de la primera persona. El juego tiene lugar en un edificio abandonado de un campamento sovi\u00e9tico.",
+         "Desde": "",
+         "Hasta": "2025/04/02 21:00",
+         "URL": "https://emika-games.itch.io/summer-of-58",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
       },
       {
          "Nombre": "Gemstone Photo Editor Lifetime License Key for Free 2025",
@@ -169,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/acdsee-gemstone-photo-editor-free-license/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ashampoo Backup Pro 17",
@@ -179,7 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-pro-17-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Ashampoo LocaLingo",
@@ -189,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-localingo-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
@@ -269,6 +149,16 @@
          "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ThunderSoft GIF Converter License Key for Free 2025",
+         "Informacion": "Thundersoft GIF Converter ofrece una soluci\u00f3n profesional para convertir cualquier tipo de archivo de video en formato GIF. Este poderoso software viene con muchas caracter\u00edsticas para permitirle convertir GIF a SWF, video, formatos de archivo PNG, y tambi\u00e9n puede revertir, unir GIF animado, hacer GIF a partir de archivos de imagen.",
+         "Desde": "",
+         "Hasta": "2025/04/03 15:00",
+         "URL": "https://giveaway.tickcoupon.com/thundersoft-gif-converter-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -362,11 +252,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ultimate Paper Plane by BananaDevStudio",
-         "Informacion": "",
+         "Nombre": "One Last Hour by BananaDevStudio",
+         "Informacion": "Una \u00faltima hora es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Camine sus calles, redescubre lugares familiares y experimente una historia que permanecer\u00e1 con usted durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena experimentar.",
          "Desde": "",
          "Hasta": "2025/04/04 11:37",
-         "URL": "https://bananadevstudio.itch.io/ultimate-paper-plane",
+         "URL": "https://bananadevstudio.itch.io/onelasthour",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -382,11 +272,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "One Last Hour by BananaDevStudio",
-         "Informacion": "Una \u00faltima hora es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Camine sus calles, redescubre lugares familiares y experimente una historia que permanecer\u00e1 con usted durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena experimentar.",
+         "Nombre": "Ultimate Paper Plane by BananaDevStudio",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2025/04/04 11:37",
-         "URL": "https://bananadevstudio.itch.io/onelasthour",
+         "URL": "https://bananadevstudio.itch.io/ultimate-paper-plane",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -429,6 +319,16 @@
          "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lurking Shadows by FREE_GAMES",
+         "Informacion": "\u00d0 \u00a3 \u00f0 \u00f0 \u00f0 \u00f0 \u00f0 \u00f0\u00a1\u00f0\u00ac\u00f0 \u00f0",
+         "Desde": "",
+         "Hasta": "2025/04/05 11:55",
+         "URL": "https://free-games-ua.itch.io/lurking-shadows",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -562,6 +462,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Space Adventure by Ahsan Makes Games",
+         "Informacion": "\u00f0 Space Adventure: \u00a1tu corredor \u00e9pico c\u00f3smico interminable! \u00f0",
+         "Desde": "",
+         "Hasta": "2025/04/06 23:28",
+         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Underground Dungeon II by Henrr0ry",
          "Informacion": "Este juego es una nueva versi\u00f3n de mi antiguo juego de mazmorra de bajo foco.\u00a0 Es el cl\u00e1sico juego de RPG de 2D Topdown.",
          "Desde": "",
@@ -652,6 +562,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Minimalist Space Shooter by SqueamishGeek",
+         "Informacion": "Tienes la tarea de entregar el plan de batalla final a tus l\u00edderes. Durante tu viaje, eres emboscado por un grupo de enemigos (rojos) enemigos de Republic Enemy. Ahora debe aguantar todo el tiempo que pueda hasta que lleguen los refuerzos.",
+         "Desde": "",
+         "Hasta": "2025/04/07 21:29",
+         "URL": "https://squeamishgeek.itch.io/minimalist-space-shooter",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "100 Unique Fonts Bundle",
          "Informacion": "Fuentes \u00fanicas que son perfectas para logotipos, pantallas, encabezados, invitaciones, invitaciones, fechas, bodas, t\u00edtulos, dise\u00f1os web y marca, etc.",
          "Desde": "",
@@ -659,6 +579,26 @@
          "URL": "https://sharewareonsale.com/s/free-100-unique-fonts-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Screencapt Professional 2",
+         "Informacion": "ScreenCapt, el mejor software de screencasting para Windows PC",
+         "Desde": "",
+         "Hasta": "2025/04/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-screencapt-professional-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ASCOMP Screencapt Professional License Key Free 2025",
+         "Informacion": "ASCOMP SCRESCAPT Professional es un nuevo nombre en el mercado para grabar contenido de pantalla. Dise\u00f1ado para usuarios de Windows, puede ayudarlo a grabar toda su pantalla, \u00e1rea manual o ventanas seleccionadas. Esta herramienta proporciona un conjunto completo de caracter\u00edsticas para ayudarlo a crear tutoriales, grabar seminarios web o capturar sesiones de juego,",
+         "Desde": "",
+         "Hasta": "2025/04/09 14:00",
+         "URL": "https://giveaway.tickcoupon.com/ascomp-screencapt-professional-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -682,16 +622,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "FoneTool Unlocker Pro 1 Year Free License Code 2025",
-         "Informacion": "Seguiste tratando de adivinar el c\u00f3digo de acceso de tu antiguo iPhone, pero termin\u00f3 bloque\u00e1ndolo. Afortunadamente, Fonetool Unlocker Pro puede ayudarlo a desbloquear su tel\u00e9fono. Dise\u00f1ada con una interfaz simple y f\u00e1cil de usar, esta potente herramienta de desbloqueador iOS puede ayudarlo a desbloquear su iPhone, iPad, iPod Touch o Apple ID sin esfuerzo. Con su ayuda, puede recuperar f\u00e1cilmente el control de su dispositivo sin preocuparse por perder su c\u00f3digo de acceso.",
-         "Desde": "",
-         "Hasta": "2025/04/10 00:00",
-         "URL": "https://giveaway.tickcoupon.com/fonetool-unlocker-pro-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Coolmuster Data Recovery 1-Year License Free",
          "Informacion": "Coolmuster Data Recovery es un software de recuperaci\u00f3n de datos profesional y completo hoy en d\u00eda. Combina una interfaz de usuario altamente intuitiva para ayudar a los usuarios a recuperar archivos eliminados, formateados o inaccesibles de todo tipo de discos duros. Esta herramienta hace posible que cualquiera recupere documentos, correos electr\u00f3nicos, fotos, videos, archivos de audio y m\u00e1s de varios discos.",
          "Desde": "",
@@ -702,31 +632,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego 2D duro con trampas duras",
+         "Nombre": "FoneTool Unlocker Pro 1 Year Free License Code 2025",
+         "Informacion": "Seguiste tratando de adivinar el c\u00f3digo de acceso de tu antiguo iPhone, pero termin\u00f3 bloque\u00e1ndolo. Afortunadamente, Fonetool Unlocker Pro puede ayudarlo a desbloquear su tel\u00e9fono. Dise\u00f1ada con una interfaz simple y f\u00e1cil de usar, esta potente herramienta de desbloqueador iOS puede ayudarlo a desbloquear su iPhone, iPad, iPod Touch o Apple ID sin esfuerzo. Con su ayuda, puede recuperar f\u00e1cilmente el control de su dispositivo sin preocuparse por perder su c\u00f3digo de acceso.",
          "Desde": "",
-         "Hasta": "2025/04/10 21:51",
-         "URL": "https://al7ussain.itch.io/one-spike",
+         "Hasta": "2025/04/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/fonetool-unlocker-pro-free-license-code/",
          "IMG": "",
-         "Distribuidora": "Itch io",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDA para el movimiento",
+         "Nombre": "Foxy Man by AL7USSAIN",
+         "Informacion": "C\u00f3mo moverse",
          "Desde": "",
          "Hasta": "2025/04/10 21:51",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/04/10 21:51",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "URL": "https://al7ussain.itch.io/foxy-man",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -742,21 +662,61 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo moverse",
-         "Desde": "",
-         "Hasta": "2025/04/10 21:51",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "House Cleaner by AL7USSAIN",
          "Informacion": "House Cleaner es un juego de terror que limpias la casa y descubres la casa y descubres que est\u00e1 embrujado con un fantasma",
          "Desde": "",
          "Hasta": "2025/04/10 21:51",
          "URL": "https://al7ussain.itch.io/housecleaner",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "One Spike by AL7USSAIN",
+         "Informacion": "Es un juego 2D duro con trampas duras",
+         "Desde": "",
+         "Hasta": "2025/04/10 21:51",
+         "URL": "https://al7ussain.itch.io/one-spike",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Simple Tasks by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/04/10 21:51",
+         "URL": "https://al7ussain.itch.io/simple-tasks",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Hunter by AL7USSAIN",
+         "Informacion": "WDA para el movimiento",
+         "Desde": "",
+         "Hasta": "2025/04/10 21:51",
+         "URL": "https://al7ussain.itch.io/zombie-hunter",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
+         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven ballena valiente, se embarca en un peligroso viaje para reunirse con sus padres perdidos hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligro: corrientes tra\u00eddas, depredadores astutos y trampas antiguas que guardan secretos olvidados. Whaley debe navegar por este camino traicionero, todo mientras evita los enemigos, \u00bfvolver\u00e1 a sus padres?",
+         "Desde": "",
+         "Hasta": "2025/04/10 21:51",
+         "URL": "https://al7ussain.itch.io/whale-game",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Here We Go Again by AL7USSAIN",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/04/10 21:51",
+         "URL": "https://al7ussain.itch.io/hear-we-go-again",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -772,11 +732,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Lost Condor - Walking Simulator - Itch.io Edition by Thelastcondor",
+         "Informacion": "El C\u00f3ndor perdido es una experiencia de simulador de caminata en primera persona, donde puedes explorar el Machu Picchu, la antigua ciudad de Per\u00fa.\u00a0 No hay historia u objetivo, ni objetos interactivos.",
+         "Desde": "",
+         "Hasta": "2025/04/12 19:23",
+         "URL": "https://thelastcondor.itch.io/the-lost",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "WinXvideo AI Giveaway License Key Free 2025",
          "Informacion": "Winxvideo AI es un kit de herramientas de video todo en uno como un convertidor de video Ultra HD, videos/potenciador de im\u00e1genes con IA, descargador de video y grabadora de pantalla. Con su ayuda, puede mejorar los videos e im\u00e1genes a la mejor calidad posible. Esta herramienta aprovecha a Cineai para un video/imagen exclusivo, estabilizar el video y Boost FPS. Puede mejorar los videos de baja calidad a resoluciones de 720p, 1080p y 4K y im\u00e1genes de baja resoluci\u00f3n de baja resoluci\u00f3n a 4K/8K/10K con detalles reales.",
          "Desde": "",
          "Hasta": "2025/04/13 15:00",
          "URL": "https://giveaway.tickcoupon.com/winxvideo-ai-free-key-download/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF Merger Giveaway 1-Year License Key Free",
+         "Informacion": "La fusi\u00f3n PDF de CoolMuster es un software PDF de fusi\u00f3n f\u00e1cil e intuitivo para Windows que ofrece muchas funciones para ayudarlo a combinar m\u00faltiples archivos PDF en uno. Esta herramienta garantiza que el estilo de texto, las im\u00e1genes, los gr\u00e1ficos, las tablas, los hiperv\u00ednculos, el dise\u00f1o y el formato de los archivos PDF preserven la calidad original.",
+         "Desde": "",
+         "Hasta": "2025/04/14 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-merger-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -932,6 +912,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "SOLRAID by PROJECTyaarj",
+         "Informacion": "Solraid es un tirador de nave espacial de arriba hacia abajo para un solo jugador.",
+         "Desde": "",
+         "Hasta": "2025/04/30 17:59",
+         "URL": "https://projectyaarj.itch.io/solraid",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "SOLROVER by PROJECTyaarj",
          "Informacion": "Tome el control de un rover solitario enviado a un planeta remoto para reunirse y extraer recursos esenciales. Navegue por el vasto paisaje, recolectando lo que necesita para completar su misi\u00f3n.",
          "Desde": "",
@@ -947,16 +937,6 @@
          "Desde": "",
          "Hasta": "2025/04/30 17:59",
          "URL": "https://projectyaarj.itch.io/tank",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "SOLRAID by PROJECTyaarj",
-         "Informacion": "Solraid es un tirador de nave espacial de arriba hacia abajo para un solo jugador.",
-         "Desde": "",
-         "Hasta": "2025/04/30 17:59",
-         "URL": "https://projectyaarj.itch.io/solraid",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -982,6 +962,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2025/05/01 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "Home Game 2 es sobre el ermita\u00f1o que vive solo.",
          "Desde": "",
@@ -1002,11 +992,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Nombre": "Quiet West: Butcher noose by Blue harpy",
+         "Informacion": "",
          "Desde": "",
-         "Hasta": "2025/05/01 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "Hasta": "2025/05/01 07:28",
+         "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pigeon West: Johnny the Pigeon by Blue harpy",
+         "Informacion": "Prep\u00e1rese para sumergirse en el cruel y despiadado mundo del Wild West, donde nadie puede permitirse hacer clic en su pico. El valiente h\u00e9roe de nuestra historia es Johnny the Pigeon.",
+         "Desde": "",
+         "Hasta": "2025/05/01 07:28",
+         "URL": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1027,6 +1027,36 @@
          "Desde": "",
          "Hasta": "2025/05/01 08:01",
          "URL": "https://warlines.itch.io/extracted",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Survivor by SoowekGames",
+         "Informacion": "En la misteriosa y sombr\u00eda instalaci\u00f3n militar necesitas encontrar panaceum, curar para todas las enfermedades.",
+         "Desde": "",
+         "Hasta": "2025/05/01 18:05",
+         "URL": "https://soowekgames.itch.io/survivor",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
+         "Informacion": "El misterioso viajero busca la verdad sobre el legendario Wyvern del Castillo de Czersk.\u00a0Basado en eventos verdaderos (muy libremente, por supuesto;))",
+         "Desde": "",
+         "Hasta": "2025/05/01 18:05",
+         "URL": "https://soowekgames.itch.io/mij-wyvern",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dungeon: Maze of Fate by SoowekGames",
+         "Informacion": "\u00a1En la tierra de la luz acecha en la oscuridad!",
+         "Desde": "",
+         "Hasta": "2025/05/01 18:05",
+         "URL": "https://soowekgames.itch.io/dungeon-maze-of-fate",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
