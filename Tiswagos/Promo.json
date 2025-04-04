@@ -1,206 +1,6 @@
 {
-   "date_update": "03 Apr 2025 16:02 UTC",
+   "date_update": "04 Apr 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Lista de deseos Mi nuevo juego de terror en Steam aqu\u00ed: la estaci\u00f3n de servicio",
-         "Desde": "",
-         "Hasta": "2025/04/03 10:01",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un breve juego de terror realizado en 1 semana.",
-         "Desde": "",
-         "Hasta": "2025/04/03 10:01",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/04/03 10:01",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2025/04/03 10:01",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2025/04/03 10:01",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Stargates by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/04/03 10:01",
-         "URL": "https://magnus-froelund.itch.io/stargates",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego sobre las habitaciones hechas sin motor.",
-         "Desde": "",
-         "Hasta": "2025/04/03 10:01",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a Thelocalbogan por hacer posible este proyecto.",
-         "Desde": "",
-         "Hasta": "2025/04/03 10:01",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "ThunderSoft GIF Converter License Key for Free 2025",
-         "Informacion": "Thundersoft GIF Converter ofrece una soluci\u00f3n profesional para convertir cualquier tipo de archivo de video en formato GIF. Este poderoso software viene con muchas caracter\u00edsticas para permitirle convertir GIF a SWF, video, formatos de archivo PNG, y tambi\u00e9n puede revertir, unir GIF animado, hacer GIF a partir de archivos de imagen.",
-         "Desde": "",
-         "Hasta": "2025/04/03 15:00",
-         "URL": "https://giveaway.tickcoupon.com/thundersoft-gif-converter-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Cat Quest",
-         "Informacion": "The multi award-winning Action RPG. Cat Quest's loot-fuelled cat-venture is as beautifully crafted, as its combat and magic are ultra-satisfying. Universally adored by critics - it'll have you purring for joy!",
-         "Desde": "2025/03/27",
-         "Hasta": "2025/04/03 17:00",
-         "URL": "https://store.epicgames.com/p/cat-quest-8373e0",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Mystery Game 1",
-         "Informacion": "Mystery Game 1",
-         "Desde": "2025/03/27",
-         "Hasta": "2025/04/03 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Neko Ghost, Jump!",
-         "Informacion": "Neko Ghost, Jump! is a puzzle-platformer where you not only switch between 2D & 3D camera perspectives but also between your physical & ghost forms to solve puzzles, combat enemies, and clear levels faster.",
-         "Desde": "2025/03/27",
-         "Hasta": "2025/04/03 17:00",
-         "URL": "https://store.epicgames.com/p/neko-ghost-jump",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster iPhone WhatsApp Recovery 1 Year Free Code",
-         "Informacion": "\u00bfNecesita recuperar los chats y medios de whatsapp en su iPhone? Usemos Coolmuster iPhone WhatsApp Recovery para extraer y restaurar f\u00e1cilmente su historial de WhatsApp ahora. Esta aplicaci\u00f3n de recuperaci\u00f3n de WhatsApp le permite recuperar mensajes y archivos adjuntos de WhatsApp de iPhone/iPad o archivos de copia de seguridad de iTunes. Con la ayuda de esta herramienta, tiene la capacidad de recuperar el historial de chat de WhatsApp, incluidos mensajes de texto, fotos, videos y archivos de audio. Proporciona m\u00faltiples modos de recuperaci\u00f3n para ayudarlo a recuperar datos directamente de su dispositivo iOS o de copias de seguridad de iTunes.",
-         "Desde": "",
-         "Hasta": "2025/04/04 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-whatsapp-recovery-free/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "At Sixes And Sevens by Worst Event Games, MetaMagicShaman",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/04/04 01:32",
-         "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
-      },
-      {
-         "Nombre": "Bots of Boria by Dancing Dots",
-         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
-         "Desde": "",
-         "Hasta": "2025/04/04 04:19",
-         "URL": "https://15joldersmat.itch.io/bots-of-boria",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
-      },
-      {
-         "Nombre": "Fires of Arder by Dancing Dots",
-         "Informacion": "Una simulaci\u00f3n en la que estoy trabajando en funci\u00f3n de la lucha contra incendios.",
-         "Desde": "",
-         "Hasta": "2025/04/04 04:19",
-         "URL": "https://15joldersmat.itch.io/fires-of-arder",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
-      },
-      {
-         "Nombre": "Orbital Empires by Dancing Dots",
-         "Informacion": "Observe c\u00f3mo las facciones de IA luchan por el control de la galaxia.",
-         "Desde": "",
-         "Hasta": "2025/04/04 04:19",
-         "URL": "https://15joldersmat.itch.io/orbital-empires",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
-      },
-      {
-         "Nombre": "IP Camera Multiple Viewer",
-         "Informacion": "El visor m\u00faltiple de c\u00e1mara IP le permite ver, monitorear y grabar todas sus c\u00e1maras IP simult\u00e1neamente. Es la herramienta definitiva para todas sus necesidades modernas de monitoreo.",
-         "Desde": "",
-         "Hasta": "2025/04/04 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ip-camera-multiple-viewer-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "1000 Missiles by Dancing Dots",
-         "Informacion": "Objetivo: defiende a tu naci\u00f3n de 1000 ataques de misiles enemigos utilizando sistemas antia\u00e9reos (AA).",
-         "Desde": "",
-         "Hasta": "2025/04/04 08:54",
-         "URL": "https://15joldersmat.itch.io/1000-missiles",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "DearMob iPhone Manager",
-         "Informacion": "Copia de seguridad, cifra y restauraci\u00f3n todos los datos en su dispositivo iOS",
-         "Desde": "",
-         "Hasta": "2025/04/04 09:00",
-         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "One Last Hour by BananaDevStudio",
          "Informacion": "Una \u00faltima hora es un juego que te transportar\u00e1 a una ciudad vac\u00eda llena de recuerdos y emociones. Camine sus calles, redescubre lugares familiares y experimente una historia que permanecer\u00e1 con usted durante mucho tiempo. No es solo un juego, es un momento de reflexi\u00f3n que vale la pena experimentar.",
@@ -209,7 +9,7 @@
          "URL": "https://bananadevstudio.itch.io/onelasthour",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
       },
       {
          "Nombre": "Toxin X by BananaDevStudio",
@@ -219,7 +19,7 @@
          "URL": "https://bananadevstudio.itch.io/toxin-x",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
       },
       {
          "Nombre": "Ultimate Paper Plane by BananaDevStudio",
@@ -229,7 +29,7 @@
          "URL": "https://bananadevstudio.itch.io/ultimate-paper-plane",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
       },
       {
          "Nombre": "DearMob iPhone Manager Giveaway License Key Free 2025",
@@ -239,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Geekersoft Compressor Giveaway 1-Year License Key Free",
@@ -249,7 +49,57 @@
          "URL": "https://giveaway.tickcoupon.com/geekersoft-compressor-license-code-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
+      },
+      {
+         "Nombre": "Lonely Christmas by ASKGAMES",
+         "Informacion": "Sobre este juego",
+         "Desde": "",
+         "Hasta": "2025/04/04 18:25",
+         "URL": "https://askgames.itch.io/lonely-christmas",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
+      },
+      {
+         "Nombre": "Paranormal Place by ASKGAMES",
+         "Informacion": "Place Paranormal es un thriller psicol\u00f3gico en primera persona. El principal \u00e9nfasis del juego est\u00e1 en el proceso de exploraci\u00f3n, la tensi\u00f3n se acumula lentamente, creando un efecto inmersivo completo y v\u00edvido. Descripci\u00f3n del cambio: El personaje principal es un blogger Alex. Dirige su propio canal y busca tendencias paranormales all\u00ed. Ahora va a un edificios abandonados, donde estaban los cuarteles militares en el pasado, seg\u00fan la informaci\u00f3n oficial. Lleva con \u00e9l todos sus dispositivos: una c\u00e1mara y un sistema de videovigilancia. No tendr\u00e1 ninguna duda sobre la existencia del otro mundo, despu\u00e9s de explorar este edificio. \u00a1Haga contenido que lo convertir\u00e1 en una estrella de Internet!",
+         "Desde": "",
+         "Hasta": "2025/04/04 18:25",
+         "URL": "https://askgames.itch.io/paranorm-place",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
+      },
+      {
+         "Nombre": "Holidays in Khrushchevsk by ASKGAMES",
+         "Informacion": "Mi nuevo trabajo",
+         "Desde": "",
+         "Hasta": "2025/04/04 18:25",
+         "URL": "https://askgames.itch.io/holidays-in-khrushchevsk",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
+      },
+      {
+         "Nombre": "Life after Death by ASKGAMES",
+         "Informacion": "Advertencia: este videojuego puede causar un ataque de epilepsia fotosensible a las personas que sufren esta enfermedad. Se recomienda una restricci\u00f3n razonable de la audiencia del juego. Nota importante: El \u00e9nfasis principal del juego est\u00e1 en el proceso de exploraci\u00f3n, a medida que la tensi\u00f3n se acumula lentamente, creando un efecto de presencia a\u00fan m\u00e1s completo y v\u00edvido. Sobre este juego: tienes la oportunidad de regresar al per\u00edodo de la infancia y vivir un per\u00edodo de vida del personaje principal, Jessy. Un d\u00eda te encontrar\u00e1s en un lugar incomprensible y desconocido, entendiendo que algo est\u00e1 mal contigo y no recuerdas nada. A medida que avanzas, recordar\u00e1s los momentos brillantes de tu vida, superar\u00e1s las fobias que te acompa\u00f1aron, resolver\u00e1s rompecabezas y tambi\u00e9n entender\u00e1s por qu\u00e9 terminaste aqu\u00ed y qu\u00e9 te sucedi\u00f3. Debe ayudar a Jessy a recrear los eventos que ocurrieron anteriormente, conocer a su familia y experimentar todo lo que hizo. Genre \"Simulador para caminar\";-necesita leer las notas muy cuidadosas; -As informar\u00e1 atentamente ubicaciones y prestar\u00e1 atenci\u00f3n a los detalles y al entorno de la descripci\u00f3n del contenido de los adultos que describe el contenido de esta manera: el juego contiene im\u00e1genes realistas de escenas de violencia que puede tener un impacto negativo en el psic\u00f3n de los adultos. Algunos elementos de contenido pueden no ser adecuados para ciertos grupos de edad.",
+         "Desde": "",
+         "Hasta": "2025/04/04 18:25",
+         "URL": "https://askgames.itch.io/life-after-death",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
+      },
+      {
+         "Nombre": "Beside Myself by ASKGAMES",
+         "Informacion": "A href = \"Lost\" class = \"redactor-linkify-object\" https://askgames.itch.io/lost-child-demo \"Lost (demo) por askgames/a",
+         "Desde": "",
+         "Hasta": "2025/04/04 18:25",
+         "URL": "https://askgames.itch.io/beside-myself",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "Grim by Arcade Badgers",
@@ -259,7 +109,7 @@
          "URL": "https://arcadebadgers.itch.io/grim",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "700 Massive Photo Overlays Bundle",
@@ -269,7 +119,7 @@
          "URL": "https://sharewareonsale.com/s/free-700-massive-photo-overlays-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "FOCUS Projects 4 PRO",
@@ -279,7 +129,17 @@
          "URL": "https://sharewareonsale.com/s/free-focus-projects-4-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Smart Defrag",
+         "Informacion": "Mejorar el rendimiento de la PC a trav\u00e9s de la desfragmentaci\u00f3n",
+         "Desde": "",
+         "Hasta": "2025/04/05 09:00",
+         "URL": "https://www.bitsdujour.com/software/smart-defrag/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Lurking Shadows by FREE_GAMES",
@@ -472,6 +332,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "At Sixes And Sevens by Worst Event Games, MetaMagicShaman",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/04/07 01:32",
+         "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Web Platform Identifier License Key Free 2025",
          "Informacion": "Si usted es un desarrollador web, dise\u00f1ador o simplemente curioso sobre las tecnolog\u00edas que alimentan sus sitios web favoritos, entonces Vovsoft Web Platform Identifier es la aplicaci\u00f3n correcta para una identificaci\u00f3n de plataforma r\u00e1pida y precisa. Con una interfaz simple y f\u00e1cil de usar, esta herramienta puede escanear y mostrar la plataforma web subyacente de cualquier URL ingresada con facilidad.",
          "Desde": "",
@@ -489,6 +359,16 @@
          "URL": "https://sharewareonsale.com/s/free-200-awesome-photoshop-brushes-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dinkum",
+         "Informacion": "\u00a1Juega gratis! \u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00a1\u00bf\u00a1 Prep\u00e1rese para comenzar una nueva vida de Dinkum Fair. Explore una isla inspirada en el Wild Australian Outback, con bosques de eucalipto tropical, desiertos abrasadores y geniales Billabongs.",
+         "Desde": "",
+         "Hasta": "2025/04/07 10:00",
+         "URL": "https://store.steampowered.com/app/1062520/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -602,16 +482,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "FoneTool Unlocker Pro 1 Year Free License Code 2025",
-         "Informacion": "Seguiste tratando de adivinar el c\u00f3digo de acceso de tu antiguo iPhone, pero termin\u00f3 bloque\u00e1ndolo. Afortunadamente, Fonetool Unlocker Pro puede ayudarlo a desbloquear su tel\u00e9fono. Dise\u00f1ada con una interfaz simple y f\u00e1cil de usar, esta potente herramienta de desbloqueador iOS puede ayudarlo a desbloquear su iPhone, iPad, iPod Touch o Apple ID sin esfuerzo. Con su ayuda, puede recuperar f\u00e1cilmente el control de su dispositivo sin preocuparse por perder su c\u00f3digo de acceso.",
-         "Desde": "",
-         "Hasta": "2025/04/10 00:00",
-         "URL": "https://giveaway.tickcoupon.com/fonetool-unlocker-pro-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Coolmuster PDF Splitter 1-Year Giveaway Key Free",
          "Informacion": "Si desea dividir un PDF para hacer piezas m\u00e1s peque\u00f1as o p\u00e1ginas separadas, vale la pena probar el divisor de PDF Coolmuster. Esta aplicaci\u00f3n Splitter PDF proporciona la funci\u00f3n para ayudarlo a dividir y extraer sus p\u00e1ginas PDF con alta eficiencia. Esta herramienta presenta tres modos divididos para elegir: dividir archivos PDF cada p\u00e1gina o cada dos/tres/cuatro ... p\u00e1ginas, PDF promedio separado en varios archivos y extraer p\u00e1ginas PDF por el rango que necesita.",
          "Desde": "",
@@ -622,11 +492,61 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "FoneTool Unlocker Pro 1 Year Free License Code 2025",
+         "Informacion": "Seguiste tratando de adivinar el c\u00f3digo de acceso de tu antiguo iPhone, pero termin\u00f3 bloque\u00e1ndolo. Afortunadamente, Fonetool Unlocker Pro puede ayudarlo a desbloquear su tel\u00e9fono. Dise\u00f1ada con una interfaz simple y f\u00e1cil de usar, esta potente herramienta de desbloqueador iOS puede ayudarlo a desbloquear su iPhone, iPad, iPod Touch o Apple ID sin esfuerzo. Con su ayuda, puede recuperar f\u00e1cilmente el control de su dispositivo sin preocuparse por perder su c\u00f3digo de acceso.",
+         "Desde": "",
+         "Hasta": "2025/04/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/fonetool-unlocker-pro-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Abstractia by Dancing Dots",
          "Informacion": "Abstractia es un aut\u00f3mata celular simb\u00f3lico donde los s\u00edmbolos evolucionan en una cuadr\u00edcula a trav\u00e9s de reglas aleatorias y aleatorias. Los patrones emergen, cambian y se disuelven a medida que observa, o interviene.",
          "Desde": "",
          "Hasta": "2025/04/10 04:09",
          "URL": "https://15joldersmat.itch.io/abstractia",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fires of Arder by Dancing Dots",
+         "Informacion": "Una simulaci\u00f3n en la que estoy trabajando en funci\u00f3n de la lucha contra incendios.",
+         "Desde": "",
+         "Hasta": "2025/04/10 04:09",
+         "URL": "https://15joldersmat.itch.io/fires-of-arder",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
+         "Informacion": "Una elecci\u00f3n dandy, se le encarga obtener puntos de victoria al ganar los estados en el continente dandy. Cada estado contiene ciudades con diferentes valores de poblaci\u00f3n, y el jugador compite con un oponente de la APN para obtener la mayor\u00eda de los votos en estas ciudades. El objetivo es ganar m\u00e1s estados que su oponente aumentando sus n\u00fameros de encuestas en cada ciudad a trav\u00e9s de clics estrat\u00e9gicos.",
+         "Desde": "",
+         "Hasta": "2025/04/10 04:09",
+         "URL": "https://15joldersmat.itch.io/a-dandy-election",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gods of Crastle by Dancing Dots",
+         "Informacion": "\u00a1Bienvenido a \"Gods of Crastle\" el reino de la guerra santa donde llevas a los adoradores de tu culto a la victoria! Participe en batallas \u00e9picas y una construcci\u00f3n estrat\u00e9gica, mientras se esfuerza por conquistar la tierra de Crastle y establecer su dominio.",
+         "Desde": "",
+         "Hasta": "2025/04/10 04:09",
+         "URL": "https://15joldersmat.itch.io/gods-of-crastle",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "War of Ants! by Dancing Dots",
+         "Informacion": "Juego de simulaci\u00f3n de hormigas",
+         "Desde": "",
+         "Hasta": "2025/04/10 04:09",
+         "URL": "https://15joldersmat.itch.io/ants",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -682,6 +602,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Maze by AL7USSAIN",
+         "Informacion": "Movimiento WASD",
+         "Desde": "",
+         "Hasta": "2025/04/10 21:51",
+         "URL": "https://al7ussain.itch.io/maze",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "One Spike by AL7USSAIN",
          "Informacion": "Es un juego 2D duro con trampas duras",
          "Desde": "",
@@ -717,16 +647,6 @@
          "Desde": "",
          "Hasta": "2025/04/10 21:51",
          "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2025/04/10 21:51",
-         "URL": "https://al7ussain.itch.io/maze",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -802,6 +722,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Arcadgeddon",
+         "Informacion": "Entra hoy a Arcadegeddon y consigue 5000 monedas\n\nLev\u00e1ntate y juega con hasta 3 amigos en este shooter cooperativo en constante evoluci\u00f3n. Explora m\u00faltiples biomas, minijuegos, encuentra cofres ocultos y derrota a numerosos enemigos y jefes.",
+         "Desde": "2025/04/10",
+         "Hasta": "2025/04/17 17:00",
+         "URL": "https://store.epicgames.com/p/arcadegeddon",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Idle Champions de Forgotten Realms",
          "Informacion": "Idle Champions es un videojuego de gesti\u00f3n estrat\u00e9gica con licencia de Dungeons & Dragons en el que personajes emblem\u00e1ticos de las novelas, las campa\u00f1as y las series se unen en una \u00e9pica aventura.",
          "Desde": "2025/04/10",
@@ -817,16 +747,6 @@
          "Desde": "2025/04/10",
          "Hasta": "2025/04/17 17:00",
          "URL": "https://store.epicgames.com/p/river-city-girls-e6f608",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
-      },
-      {
-         "Nombre": "Arcadgeddon",
-         "Informacion": "Entra hoy a Arcadegeddon y consigue 5000 monedas\n\nLev\u00e1ntate y juega con hasta 3 amigos en este shooter cooperativo en constante evoluci\u00f3n. Explora m\u00faltiples biomas, minijuegos, encuentra cofres ocultos y derrota a numerosos enemigos y jefes.",
-         "Desde": "2025/04/10",
-         "Hasta": "2025/04/17 17:00",
-         "URL": "https://store.epicgames.com/p/arcadegeddon",
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
@@ -1012,11 +932,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DoYourClone for Mac Free License Key 2025",
+         "Informacion": "Si desea clonar un disco duro en una Mac o hacer una copia de seguridad de sus datos de disco duro, solo pruebe DoyourClone para Mac. Es un software de clon de disco 100% seguro y limpio para Mac OS. DoyourClone para Mac es un software de clon de disco Mac potente pero f\u00e1cil de usar. Puede ayudarlo a clonar los discos duros de forma segura y f\u00e1cil, copiar datos y hacer im\u00e1genes de disco en una Mac.",
+         "Desde": "",
+         "Hasta": "2025/05/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/free-license-key-doyourclone-for-mac/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
          "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
          "Desde": "",
          "Hasta": "2025/05/01 05:59",
          "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Endless Math Challenge by notRitter",
+         "Informacion": "* La versi\u00f3n pagada desbloquea sprites de jugadores adicionales, fondos y dificultades muy duras + locos.* Caracter\u00edsticas pagas no disponibles en el navegador.",
+         "Desde": "",
+         "Hasta": "2025/05/01 05:59",
+         "URL": "https://notritter.itch.io/endless-math-challenge",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1042,11 +982,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Endless Math Challenge by notRitter",
-         "Informacion": "* La versi\u00f3n pagada desbloquea sprites de jugadores adicionales, fondos y dificultades muy duras + locos.* Caracter\u00edsticas pagas no disponibles en el navegador.",
+         "Nombre": "Pigeon West: El Diablo by Blue harpy",
+         "Informacion": "",
          "Desde": "",
-         "Hasta": "2025/05/01 05:59",
-         "URL": "https://notritter.itch.io/endless-math-challenge",
+         "Hasta": "2025/05/01 07:28",
+         "URL": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1067,16 +1007,6 @@
          "Desde": "",
          "Hasta": "2025/05/01 07:28",
          "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Pigeon West: El Diablo by Blue harpy",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/01 07:28",
-         "URL": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
