@@ -1,125 +1,15 @@
 {
-   "date_update": "05 Apr 2025 16:02 UTC",
+   "date_update": "06 Apr 2025 16:01 UTC",
    "values": [
       {
-         "Nombre": "Lurking Shadows by FREE_GAMES",
-         "Informacion": "\u00d0 \u00a3 \u00f0 \u00f0 \u00f0 \u00f0 \u00f0 \u00f0\u00a1\u00f0\u00ac\u00f0 \u00f0",
-         "Desde": "",
-         "Hasta": "2025/04/05 11:55",
-         "URL": "https://free-games-ua.itch.io/lurking-shadows",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "Blackness by gamesbyrd",
-         "Informacion": "Si pierde, debe comenzar el viaje desde el principio.",
-         "Desde": "",
-         "Hasta": "2025/04/05 15:14",
-         "URL": "https://gamesbyrd.itch.io/blackness",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
-      },
-      {
-         "Nombre": "jumbawyplatform by ywm3",
-         "Informacion": "Su juego de plataformas y el narrador se burlar\u00e1n de ti si pierdes y tambi\u00e9n hay una SlowMotion",
-         "Desde": "",
-         "Hasta": "2025/04/05 20:31",
-         "URL": "https://ywm3.itch.io/jumbawyplatform",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "the maze of the death by ywm3",
-         "Informacion": "Este juego se trata de ti atrapado en un laberinto e intentas escapar y evitar los diferentes tipos de enemigos, puedes probarlo y ver si puedes escapar.",
-         "Desde": "",
-         "Hasta": "2025/04/05 20:31",
-         "URL": "https://ywm3.itch.io/the-maze",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "GridSim Evolution by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a Gridsim Evolution! Una colecci\u00f3n de sims de evoluci\u00f3n con aut\u00f3mata celular.",
-         "Desde": "",
-         "Hasta": "2025/04/06 05:43",
-         "URL": "https://15joldersmat.itch.io/gridsim-evolution",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
-      },
-      {
-         "Nombre": "BALL GAME by Bouncing Dragon Games",
-         "Informacion": "Un juego basado en altos en alto escrito inspirado en el logotipo de CD de rebotar mientras rebota en la pantalla. \u00a1En este juego, debes usar la barra espacial para cambiar aleatoriamente la direcci\u00f3n de la pelota y evitar los cuadrados mortales y coloridos!",
-         "Desde": "",
-         "Hasta": "2025/04/06 06:59",
-         "URL": "https://bouncing-dragon-games.itch.io/ball-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "KILBUG by Bouncing Dragon Games",
-         "Informacion": "INSTRUCCIONES:",
-         "Desde": "",
-         "Hasta": "2025/04/06 06:59",
-         "URL": "https://bouncing-dragon-games.itch.io/kilbug",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Kingdom Clicker by Bouncing Dragon Games",
-         "Informacion": "Un juego de estilo arcade que se vuelve progresivamente m\u00e1s dif\u00edcil. Correr contra un temporizador para cada criatura e intente hacer clic en su salud y recuperarlos en su zool\u00f3gico.",
-         "Desde": "",
-         "Hasta": "2025/04/06 06:59",
-         "URL": "https://bouncing-dragon-games.itch.io/kingdom-clicker",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "RATAWAY by Bouncing Dragon Games",
-         "Informacion": "Un juego en el que puedes contener 2 art\u00edculos en tu inventario que debes vender a su h\u00e9roe. Debe recolectar m\u00e1s art\u00edculos para devolver al h\u00e9roe todo su equipo y ellos le pagar\u00e1n por cada equipo despu\u00e9s de que hayan recuperado los suyos.",
-         "Desde": "",
-         "Hasta": "2025/04/06 06:59",
-         "URL": "https://bouncing-dragon-games.itch.io/rataway",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "SHWOOP! by Bouncing Dragon Games",
-         "Informacion": "Este juego contiene 10 niveles, moverse alrededor del nivel colocando puntos de movimiento mientras gu\u00edas tu barco al portal verde y evitas a tus enemigos. Con controles f\u00e1ciles del mouse, estar\u00e1s en cierre por el nivel en poco tiempo, evitando a los malos y volando a una nueva galaxia. \u00bfDe qu\u00e9 podr\u00edas estar volando? Eso depende de ti, \u00a1buena suerte!",
-         "Desde": "",
-         "Hasta": "2025/04/06 06:59",
-         "URL": "https://bouncing-dragon-games.itch.io/shwoop",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Lonely Christmas by ASKGAMES",
-         "Informacion": "Sobre este juego",
+         "Nombre": "Beside Myself by ASKGAMES",
+         "Informacion": "A href = \"Lost\" class = \"redactor-linkify-object\" https://askgames.itch.io/lost-child-demo \"Lost (demo) por askgames/a",
          "Desde": "",
          "Hasta": "2025/04/06 09:25",
-         "URL": "https://askgames.itch.io/lonely-christmas",
+         "URL": "https://askgames.itch.io/beside-myself",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Paranormal Place by ASKGAMES",
-         "Informacion": "Place Paranormal es un thriller psicol\u00f3gico en primera persona. El principal \u00e9nfasis del juego est\u00e1 en el proceso de exploraci\u00f3n, la tensi\u00f3n se acumula lentamente, creando un efecto inmersivo completo y v\u00edvido. Descripci\u00f3n del cambio: El personaje principal es un blogger Alex. Dirige su propio canal y busca tendencias paranormales all\u00ed. Ahora va a un edificios abandonados, donde estaban los cuarteles militares en el pasado, seg\u00fan la informaci\u00f3n oficial. Lleva con \u00e9l todos sus dispositivos: una c\u00e1mara y un sistema de videovigilancia. No tendr\u00e1 ninguna duda sobre la existencia del otro mundo, despu\u00e9s de explorar este edificio. \u00a1Haga contenido que lo convertir\u00e1 en una estrella de Internet!",
-         "Desde": "",
-         "Hasta": "2025/04/06 09:25",
-         "URL": "https://askgames.itch.io/paranorm-place",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
       },
       {
          "Nombre": "Holidays in Khrushchevsk by ASKGAMES",
@@ -129,7 +19,7 @@
          "URL": "https://askgames.itch.io/holidays-in-khrushchevsk",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
       },
       {
          "Nombre": "Life after Death by ASKGAMES",
@@ -139,17 +29,27 @@
          "URL": "https://askgames.itch.io/life-after-death",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
       },
       {
-         "Nombre": "Beside Myself by ASKGAMES",
-         "Informacion": "A href = \"Lost\" class = \"redactor-linkify-object\" https://askgames.itch.io/lost-child-demo \"Lost (demo) por askgames/a",
+         "Nombre": "Lonely Christmas by ASKGAMES",
+         "Informacion": "Sobre este juego",
          "Desde": "",
          "Hasta": "2025/04/06 09:25",
-         "URL": "https://askgames.itch.io/beside-myself",
+         "URL": "https://askgames.itch.io/lonely-christmas",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
+      },
+      {
+         "Nombre": "Paranormal Place by ASKGAMES",
+         "Informacion": "Place Paranormal es un thriller psicol\u00f3gico en primera persona. El principal \u00e9nfasis del juego est\u00e1 en el proceso de exploraci\u00f3n, la tensi\u00f3n se acumula lentamente, creando un efecto inmersivo completo y v\u00edvido. Descripci\u00f3n del cambio: El personaje principal es un blogger Alex. Dirige su propio canal y busca tendencias paranormales all\u00ed. Ahora va a un edificios abandonados, donde estaban los cuarteles militares en el pasado, seg\u00fan la informaci\u00f3n oficial. Lleva con \u00e9l todos sus dispositivos: una c\u00e1mara y un sistema de videovigilancia. No tendr\u00e1 ninguna duda sobre la existencia del otro mundo, despu\u00e9s de explorar este edificio. \u00a1Haga contenido que lo convertir\u00e1 en una estrella de Internet!",
+         "Desde": "",
+         "Hasta": "2025/04/06 09:25",
+         "URL": "https://askgames.itch.io/paranorm-place",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
       },
       {
          "Nombre": "Dupinout Duplicate Finder License Key Free",
@@ -159,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/dupinout-duplicate-finder-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Ball Down Hill by KasperV",
@@ -169,7 +69,7 @@
          "URL": "https://kasperv.itch.io/ball-down-hill",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Kasperias Arenas 3D by KasperV",
@@ -179,7 +79,7 @@
          "URL": "https://kasperv.itch.io/kasperias-arenas-3d",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Sky Lab Defender by KasperV",
@@ -189,7 +89,7 @@
          "URL": "https://kasperv.itch.io/skylabdefender",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "The Simple Life by KasperV",
@@ -199,7 +99,7 @@
          "URL": "https://kasperv.itch.io/the-simple-life",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Space Adventure by Ahsan Makes Games",
@@ -209,7 +109,7 @@
          "URL": "https://ahsanmakesgames.itch.io/space-adventure",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Underground Dungeon II by Henrr0ry",
@@ -219,7 +119,7 @@
          "URL": "https://henrr0ry.itch.io/underground-dungeon-ii",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster Android Backup Manager 1 Year Free Code",
@@ -229,7 +129,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-backup-manager-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The Burrow by Saladin786",
@@ -239,7 +139,7 @@
          "URL": "https://saladin786.itch.io/the-burrow",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "At Sixes And Sevens by Worst Event Games, MetaMagicShaman",
@@ -249,7 +149,7 @@
          "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 31%, yellow 31%) 1;"
       },
       {
          "Nombre": "Vovsoft Web Platform Identifier License Key Free 2025",
@@ -259,7 +159,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-web-platform-identifier-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "200 Awesome Photoshop Brushes Bundle",
@@ -269,7 +169,17 @@
          "URL": "https://sharewareonsale.com/s/free-200-awesome-photoshop-brushes-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Smart Defrag",
+         "Informacion": "Mejorar el rendimiento de la PC a trav\u00e9s de la desfragmentaci\u00f3n",
+         "Desde": "",
+         "Hasta": "2025/04/07 09:00",
+         "URL": "https://www.bitsdujour.com/software/smart-defrag/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Dinkum",
@@ -297,6 +207,26 @@
          "Desde": "",
          "Hasta": "2025/04/07 17:07",
          "URL": "https://troj4nblazing.itch.io/dreadvault",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Very Little Bang by Dancing Dots",
+         "Informacion": "Al principio, hab\u00eda ... guerra !!!",
+         "Desde": "",
+         "Hasta": "2025/04/07 18:38",
+         "URL": "https://15joldersmat.itch.io/the-very-little-bang",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Orbital Empires by Dancing Dots",
+         "Informacion": "Observe c\u00f3mo las facciones de IA luchan por el control de la galaxia.",
+         "Desde": "",
+         "Hasta": "2025/04/07 18:38",
+         "URL": "https://15joldersmat.itch.io/orbital-empires",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -357,6 +287,16 @@
          "Desde": "",
          "Hasta": "2025/04/09 07:00",
          "URL": "https://sharewareonsale.com/s/free-screencapt-professional-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "iBeesoft Data Recovery",
+         "Informacion": "IbeSoft Data Recovery es una herramienta de recuperaci\u00f3n de archivos f\u00e1cil de usar y completa. Puede ayudarlo a recuperar los archivos perdidos debido a la eliminaci\u00f3n accidental, vaciar el contenedor de reciclaje, el formato, la deleci\u00f3n/p\u00e9rdida de volumen, la infecci\u00f3n por virus, el bloqueo del sistema/programa, el apag\u00f3n o la falla de la unidad.",
+         "Desde": "",
+         "Hasta": "2025/04/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ibeesoft-data-recovery-100-discount-2",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -769,6 +709,36 @@
          "URL": "https://giveaway.tickcoupon.com/aiarty-image-enhancer-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Midnight rush V by TokioGames",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/04/30 00:01",
+         "URL": "https://tokiogames.itch.io/midnight-run-v",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Next Horiozon by TokioGames",
+         "Informacion": "Un juego de carreras 2D",
+         "Desde": "",
+         "Hasta": "2025/04/30 00:01",
+         "URL": "https://tokiogames.itch.io/next-horiozon",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HITMAN\u00e2\u0084\u00a2\u00ef\u00b8\u008f by TokioGames",
+         "Informacion": "Todav\u00eda no hay actualizaciones ahora",
+         "Desde": "",
+         "Hasta": "2025/04/30 00:01",
+         "URL": "https://tokiogames.itch.io/hitman",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
