@@ -1,46 +1,6 @@
 {
-   "date_update": "08 Apr 2025 16:03 UTC",
+   "date_update": "09 Apr 2025 16:03 UTC",
    "values": [
-      {
-         "Nombre": "Mechabellum",
-         "Informacion": "\u00a1Juega gratis! Mechabellum es un juego de guerra t\u00e1ctico gratificante donde obtienes la victoria adaptando tu estrategia y superando a tus oponentes. Comandar un ej\u00e9rcito mecanizado en batallas contra humanos o IA, personalizar tus unidades y colocarlas estrat\u00e9gicamente en el campo de batalla para verlos destruir a tus enemigos.",
-         "Desde": "",
-         "Hasta": "2025/04/08 10:00",
-         "URL": "https://store.steampowered.com/app/669330/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "iBeesoft Data Recovery",
-         "Informacion": "IbeSoft Data Recovery es una herramienta de recuperaci\u00f3n de archivos f\u00e1cil de usar y completa. Puede ayudarlo a recuperar los archivos perdidos debido a la eliminaci\u00f3n accidental, vaciar el contenedor de reciclaje, el formato, la deleci\u00f3n/p\u00e9rdida de volumen, la infecci\u00f3n por virus, el bloqueo del sistema/programa, el apag\u00f3n o la falla de la unidad.",
-         "Desde": "",
-         "Hasta": "2025/04/09 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ibeesoft-data-recovery-100-discount-2",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Screencapt Professional 2",
-         "Informacion": "ScreenCapt, el mejor software de screencasting para Windows PC",
-         "Desde": "",
-         "Hasta": "2025/04/09 07:00",
-         "URL": "https://sharewareonsale.com/s/free-screencapt-professional-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "piQtility",
-         "Informacion": "Realizar ediciones y ajustes a las fotos en lotes",
-         "Desde": "",
-         "Hasta": "2025/04/09 09:00",
-         "URL": "https://www.bitsdujour.com/software/piqtility-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Beside Myself by ASKGAMES",
          "Informacion": "A href = \"Lost\" class = \"redactor-linkify-object\" https://askgames.itch.io/lost-child-demo \"Lost (demo) por askgames/a",
@@ -49,7 +9,7 @@
          "URL": "https://askgames.itch.io/beside-myself",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
       },
       {
          "Nombre": "ASCOMP Screencapt Professional License Key Free 2025",
@@ -59,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/ascomp-screencapt-professional-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Cat Quest II",
@@ -69,27 +29,7 @@
          "URL": "https://store.epicgames.com/p/cat-quest-ii-9dbefc",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Lonely Christmas by ASKGAMES",
-         "Informacion": "Sobre este juego",
-         "Desde": "",
-         "Hasta": "2025/04/09 17:25",
-         "URL": "https://askgames.itch.io/lonely-christmas",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Paranormal Place by ASKGAMES",
-         "Informacion": "Place Paranormal es un thriller psicol\u00f3gico en primera persona. El principal \u00e9nfasis del juego est\u00e1 en el proceso de exploraci\u00f3n, la tensi\u00f3n se acumula lentamente, creando un efecto inmersivo completo y v\u00edvido. Descripci\u00f3n del cambio: El personaje principal es un blogger Alex. Dirige su propio canal y busca tendencias paranormales all\u00ed. Ahora va a un edificios abandonados, donde estaban los cuarteles militares en el pasado, seg\u00fan la informaci\u00f3n oficial. Lleva con \u00e9l todos sus dispositivos: una c\u00e1mara y un sistema de videovigilancia. No tendr\u00e1 ninguna duda sobre la existencia del otro mundo, despu\u00e9s de explorar este edificio. \u00a1Haga contenido que lo convertir\u00e1 en una estrella de Internet!",
-         "Desde": "",
-         "Hasta": "2025/04/09 17:25",
-         "URL": "https://askgames.itch.io/paranorm-place",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Life after Death by ASKGAMES",
@@ -99,7 +39,27 @@
          "URL": "https://askgames.itch.io/life-after-death",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
+      },
+      {
+         "Nombre": "Lonely Christmas by ASKGAMES",
+         "Informacion": "Sobre este juego",
+         "Desde": "",
+         "Hasta": "2025/04/09 17:25",
+         "URL": "https://askgames.itch.io/lonely-christmas",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
+      },
+      {
+         "Nombre": "Paranormal Place by ASKGAMES",
+         "Informacion": "Place Paranormal es un thriller psicol\u00f3gico en primera persona. El principal \u00e9nfasis del juego est\u00e1 en el proceso de exploraci\u00f3n, la tensi\u00f3n se acumula lentamente, creando un efecto inmersivo completo y v\u00edvido. Descripci\u00f3n del cambio: El personaje principal es un blogger Alex. Dirige su propio canal y busca tendencias paranormales all\u00ed. Ahora va a un edificios abandonados, donde estaban los cuarteles militares en el pasado, seg\u00fan la informaci\u00f3n oficial. Lleva con \u00e9l todos sus dispositivos: una c\u00e1mara y un sistema de videovigilancia. No tendr\u00e1 ninguna duda sobre la existencia del otro mundo, despu\u00e9s de explorar este edificio. \u00a1Haga contenido que lo convertir\u00e1 en una estrella de Internet!",
+         "Desde": "",
+         "Hasta": "2025/04/09 17:25",
+         "URL": "https://askgames.itch.io/paranorm-place",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
       },
       {
          "Nombre": "AnyViewer Professional 1 Year License Code Free 2025",
@@ -109,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/anyviewer-professional-vip-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster Data Recovery 1-Year License Free",
@@ -119,7 +79,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-data-recovery-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Splitter 1-Year Giveaway Key Free",
@@ -129,7 +89,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-splitter-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "FoneTool Unlocker Pro 1 Year Free License Code 2025",
@@ -139,7 +99,7 @@
          "URL": "https://giveaway.tickcoupon.com/fonetool-unlocker-pro-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
@@ -149,7 +109,7 @@
          "URL": "https://15joldersmat.itch.io/a-dandy-election",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
       },
       {
          "Nombre": "Abstractia by Dancing Dots",
@@ -159,7 +119,7 @@
          "URL": "https://15joldersmat.itch.io/abstractia",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
       },
       {
          "Nombre": "Fires of Arder by Dancing Dots",
@@ -169,7 +129,7 @@
          "URL": "https://15joldersmat.itch.io/fires-of-arder",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
       },
       {
          "Nombre": "Gods of Crastle by Dancing Dots",
@@ -179,7 +139,7 @@
          "URL": "https://15joldersmat.itch.io/gods-of-crastle",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
       },
       {
          "Nombre": "War of Ants! by Dancing Dots",
@@ -189,7 +149,7 @@
          "URL": "https://15joldersmat.itch.io/ants",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 20%, yellow 20%) 1;"
       },
       {
          "Nombre": "Easy Photo Unblur 10",
@@ -199,7 +159,7 @@
          "URL": "https://sharewareonsale.com/s/free-easy-photo-unblur-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Peak Partners (MULTIPLAYER CO OP) by lowey1199@gmail.com",
@@ -362,11 +322,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "GridSim Evolution by Dancing Dots",
+         "Informacion": "\u00a1Bienvenido a Gridsim Evolution! Una colecci\u00f3n de sims de evoluci\u00f3n con aut\u00f3mata celular.",
+         "Desde": "",
+         "Hasta": "2025/04/11 23:36",
+         "URL": "https://15joldersmat.itch.io/gridsim-evolution",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Rise Above! by Alecs_6",
          "Informacion": "Rise Above es un juego de plataformas que desaf\u00eda la gravedad que lleva a los jugadores a un viaje interminable a trav\u00e9s del espacio y el tiempo, donde el \u00fanico camino a seguir es. En esta aventura c\u00f3smica, los jugadores suben a trav\u00e9s de paisajes surrealistas y cambiantes, cada uno representando una era diferente en la historia o un futuro fant\u00e1stico. Con cada nuevo nivel, desbloqueas un nuevo reino, y con \u00e9l, nuevos desaf\u00edos y misterios.",
          "Desde": "",
          "Hasta": "2025/04/11 23:51",
          "URL": "https://alecs-6.itch.io/rise-above",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DreadVault by Vinil, trauma_ok",
+         "Informacion": "\u00a1Debido a m\u00faltiples solicitudes de jugadores, estamos haciendo el juego gratis a la venta por tiempo limitado! Adem\u00e1s, \u00a1cualquiera que haya comprado el juego recibir\u00e1 nuestro pr\u00f3ximo juego de forma gratuita como agradecimiento por su apoyo!",
+         "Desde": "",
+         "Hasta": "2025/04/12 17:07",
+         "URL": "https://troj4nblazing.itch.io/dreadvault",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -432,21 +412,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "MiniTool MovieMaker 6-Month License Key Free",
-         "Informacion": "Editar un video con MiniTool MoviEmaker es simple si no tiene mucha experiencia con la edici\u00f3n de video. Esta herramienta est\u00e1 dise\u00f1ada para ayudarlo a rehacer su video como pel\u00edculas al estilo de Hollywood con una interfaz intuitiva y caracter\u00edsticas ricas. Cargue sus archivos multimedia desde el disco local, y luego puede usar transiciones y efectos para que su contenido brille.",
-         "Desde": "",
-         "Hasta": "2025/04/15 00:00",
-         "URL": "https://giveaway.tickcoupon.com/minitool-moviemaker-license-key-free/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Coolmuster SignPub 1 Year License Key Free",
          "Informacion": "CoolMuster SignPub es un fant\u00e1stico software de edici\u00f3n EPUB dise\u00f1ado para editar la fuente y los errores tipogr\u00e1ficos en los archivos EPUB con facilidad y embellecer cualquier archivo EPUB con efectos diferentes y emocionantes. Con su ayuda, puede editar las im\u00e1genes, cambiar las cubiertas y modificar las fuentes en sus archivos EPUB, y el efecto es excelente. Varios formatos de imagen, como JPG, PNG, TIFF, GIF, etc., pueden incrustarse en cualquier libro EPUB f\u00e1cilmente con la ayuda de CoolMuster SignPub.",
          "Desde": "",
          "Hasta": "2025/04/15 00:00",
          "URL": "https://giveaway.tickcoupon.com/coolmuster-signpub-license-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MiniTool MovieMaker 6-Month License Key Free",
+         "Informacion": "Editar un video con MiniTool MoviEmaker es simple si no tiene mucha experiencia con la edici\u00f3n de video. Esta herramienta est\u00e1 dise\u00f1ada para ayudarlo a rehacer su video como pel\u00edculas al estilo de Hollywood con una interfaz intuitiva y caracter\u00edsticas ricas. Cargue sus archivos multimedia desde el disco local, y luego puede usar transiciones y efectos para que su contenido brille.",
+         "Desde": "",
+         "Hasta": "2025/04/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/minitool-moviemaker-license-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -472,11 +452,61 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Aiarty Image Matting Free License Code 2025",
+         "Informacion": "Aiarty Image Matting es una nueva herramienta de eliminaci\u00f3n de fondo que naci\u00f3 para ayudarlo a eliminar el fondo de las im\u00e1genes con precisi\u00f3n, objetos complejos mate como el cabello, la piel y los elementos semitransparentes, y combinar sin problemas en primer plano y fondos. Esta herramienta profesional de edici\u00f3n de fotos ayuda a profesionales y aficionados por igual a elevar su trabajo a nuevas alturas y editar im\u00e1genes para un mejor impacto visual. En cuesti\u00f3n de segundos, la tecnolog\u00eda AI completar\u00e1 efectivamente el recorte de fondo.",
+         "Desde": "",
+         "Hasta": "2025/04/15 13:00",
+         "URL": "https://giveaway.tickcoupon.com/aiarty-image-matting-license-code-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dupinout Duplicate Finder License Key Free",
+         "Informacion": "Dupinout Duplicate Finder es uno de los mejores software Duplicate Finder para Windows que le ayuda a buscar documentos duplicados, m\u00fasica, videos y m\u00e1s. Adem\u00e1s, puede encontrar f\u00e1cilmente y arreglar duplicados. La \u00faltima versi\u00f3n de Dupinout proporciona una nueva herramienta llamada `Comparar carpetas` que compara la carpeta de origen y la carpeta de destino y muestra una lista de los mismos archivos, archivos cambiados/ diferentes y archivos adicionales en cada carpeta.",
+         "Desde": "",
+         "Hasta": "2025/04/15 14:00",
+         "URL": "https://giveaway.tickcoupon.com/dupinout-duplicate-finder-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wheres my baby by MR X Lab",
          "Informacion": "Atrapado en un asilo abandonado, usted es el \u00faltimo m\u00e9dico en pie, y su \u00fanico escape radica en encontrar un tranquilizante para someter a una madre implacable y trastornada. Cada sombra y paso podr\u00eda ser la \u00faltima. \u00bfPuedes sobrevivir a la locura o te convertir\u00e1s en parte de ella?",
          "Desde": "",
          "Hasta": "2025/04/15 16:00",
          "URL": "https://mr-x-lab.itch.io/wheres-my-baby",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Tree by gamesbyrd",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/04/15 22:50",
+         "URL": "https://gamesbyrd.itch.io/the-last-tree",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Snap 15",
+         "Informacion": "Ashampoo Snap captura su escritorio como capturas de pantalla y videos. Las capturas de pantalla son libremente editables, comentables y compartibles a trav\u00e9s de redes, nubes o correo electr\u00f3nico.",
+         "Desde": "",
+         "Hasta": "2025/04/16 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-snap-15-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Flowertest by Red Cap Games",
+         "Informacion": "... fue hecho en solo 7 d\u00edas",
+         "Desde": "",
+         "Hasta": "2025/04/16 15:41",
+         "URL": "https://redcap-games.itch.io/the-flowertest",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -587,6 +617,46 @@
          "Desde": "",
          "Hasta": "2025/04/24 14:00",
          "URL": "https://giveaway.tickcoupon.com/aiarty-image-enhancer-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Firestone Online Idle RPG",
+         "Informacion": "*Firestone: Online Idle RPG* es un juego de fantas\u00eda multijugador. \u00a1Colecciona h\u00e9roes\ud83e\uddd9\u200d\u2642\ufe0f, mejora su equipo y habilidades, y env\u00edalos a batallas AFK o disfruta de un frenes\u00ed incremental de clics para vencer a jefes monstruosos! Chatea con amigos del gremio o participa en PVP\u2694\ufe0f.",
+         "Desde": "2025/04/17",
+         "Hasta": "2025/04/24 17:00",
+         "URL": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "At Sixes And Sevens by Worst Event Games, MetaMagicShaman",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/04/27 01:32",
+         "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Project Z by KS GAMES",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/04/27 11:20",
+         "URL": "https://gamerevolutionx.itch.io/project-z",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ant Download Manager Pro License Giveaway Free 2025",
+         "Informacion": "Ant Download Manager es un administrador de descarga de Internet para cualquier archivo que lo ayude a descargar y administrar el video. Usando este software, puede descargar los archivos de audio, extraer pistas de audio de los archivos de video y luego convertirlos en el formato MP3 popular y agregarles la informaci\u00f3n de acompa\u00f1amiento b\u00e1sica.",
+         "Desde": "",
+         "Hasta": "2025/04/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/ant-download-manager-pro-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -927,6 +997,36 @@
          "Desde": "",
          "Hasta": "2025/05/07 06:57",
          "URL": "https://bouncing-dragon-games.itch.io/shwoop",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RATAWAY by Bouncing Dragon Games",
+         "Informacion": "Un juego en el que puedes contener 2 art\u00edculos en tu inventario que debes vender a su h\u00e9roe. Debe recolectar m\u00e1s art\u00edculos para devolver al h\u00e9roe todo su equipo y ellos le pagar\u00e1n por cada equipo despu\u00e9s de que hayan recuperado los suyos.",
+         "Desde": "",
+         "Hasta": "2025/05/07 06:57",
+         "URL": "https://bouncing-dragon-games.itch.io/rataway",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Polar Pedestrain Runner Pro by Tengshe Priest",
+         "Informacion": "Gracias a todos los que apoyan al sacerdote de Tengshe",
+         "Desde": "",
+         "Hasta": "2025/05/08 01:48",
+         "URL": "https://tengshe-priest.itch.io/polar-pedestrain-runner-pro",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Jumping Journey by Jonathan Steadman",
+         "Informacion": "Este es un juego de formador de plataforma desafiante que tendr\u00e1 solo un nivel. No hay chicos malos, pero si caes y mueres, debes reiniciar desde el principio para molestarte. Algunos de los bloques se ver\u00e1n capaces, pero es posible que no haya colusi\u00f3n. JAHAHAHAHAHHAHHHAHAHAHAHAHAHHHHAHAHAHAHAHAHAHAHAHHAHAHAHAHAHAHHAHA CIUDAD Evil Risa malvada Evil Risa.",
+         "Desde": "",
+         "Hasta": "2025/05/08 11:00",
+         "URL": "https://jonathan-linux.itch.io/jumping-journey",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
