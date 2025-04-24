@@ -81,8 +81,6 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.okhatrimaza.com.ph #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 wxhiojortldjyegtkx.bid #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 1045.bordsnewsjule.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 livegeaster.shop #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
-  echo 8.8.8.8 nitagzwpohim.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 a.kgorilla.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 acdcdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 acscdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -180,6 +178,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 letmessagenow.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 limetorrents.dirp.me #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 lion.chairhelmet.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 livegeaster.shop #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 log.videocampaign.co #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 media.bigbasketshop.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 mignished-sility.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -188,6 +187,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 napiplaza.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 nestleareae.tech #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 netuplayer.top #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 nitagzwpohim.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 npjnn.thesensualnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 nrb2mr0.24newsflow.lol #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 nuBunny.blogspot.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -224,6 +224,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 taghaugh.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 thaudray.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 tm-offers.gamingadult.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 chortarrtez.shop #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 tmdbcdn.lat #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 topwwnews.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 trackmyorderz.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
