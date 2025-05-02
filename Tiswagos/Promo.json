@@ -1,146 +1,6 @@
 {
-   "date_update": "01 May 2025 16:03 UTC",
+   "date_update": "02 May 2025 16:04 UTC",
    "values": [
-      {
-         "Nombre": "ChickenFine 2: Billions Must Die by ZrozDev",
-         "Informacion": "Un tirador psicod\u00e9lico con elementos de horror, novela visual, y tambi\u00e9n est\u00e1 Trump el reptil.",
-         "Desde": "",
-         "Hasta": "2025/05/01 12:10",
-         "URL": "https://zrozumilo-studio.itch.io/chickenfine-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
-      },
-      {
-         "Nombre": "ChickenFine: Rooster Coop FPS by ZrozDev",
-         "Informacion": "Tirador hardcore donde hay muchos tipos de armas y accesorios para ello",
-         "Desde": "",
-         "Hasta": "2025/05/01 12:10",
-         "URL": "https://zrozumilo-studio.itch.io/chickenfine",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
-      },
-      {
-         "Nombre": "[Whispers in the Dark] Burger Shop by JML Studio",
-         "Informacion": "\u00a1Hamburguesas!",
-         "Desde": "",
-         "Hasta": "2025/05/01 15:28",
-         "URL": "https://agamedeveloperstudio.itch.io/whispers-in-the-dark-burger-shop",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 73%, yellow 73%) 1;"
-      },
-      {
-         "Nombre": "[Whispers in the Dark] Trailer Park by JML Studio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/01 15:28",
-         "URL": "https://agamedeveloperstudio.itch.io/trailer-park",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 73%, yellow 73%) 1;"
-      },
-      {
-         "Nombre": "CHUCHEL",
-         "Informacion": "CHUCHEL es un juego c\u00f3mico de aventura de los creadores de Machinarium, Botanicula y Samorost. \u00a1\u00danete al peludo Chuchel y a su rival Kekel en su misi\u00f3n de rescatar la cereza preciosa a trav\u00e9s de numerosos puzles y desaf\u00edos!",
-         "Desde": "2025/04/24",
-         "Hasta": "2025/05/01 17:00",
-         "URL": "https://store.epicgames.com/p/chuchel-203808",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Regalo de Bienvenida de Albion Online",
-         "Informacion": "Todo lo que necesitas para empezar con buen pie, incluido el paquete cosm\u00e9tico de Caballero Aventurero, la skin de montura de Bisonte Dorond\u00f3n, 3 d\u00edas de Premium, 250 Puntos de Aprendizaje y mucho m\u00e1s.",
-         "Desde": "2025/04/24",
-         "Hasta": "2025/05/01 17:00",
-         "URL": "https://store.epicgames.com/p/albion-online-7eb24d",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
-         "Informacion": "El misterioso viajero busca la verdad sobre el legendario Wyvern del Castillo de Czersk.\u00a0Basado en eventos verdaderos (muy libremente, por supuesto;))",
-         "Desde": "",
-         "Hasta": "2025/05/01 18:05",
-         "URL": "https://soowekgames.itch.io/mij-wyvern",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
-      },
-      {
-         "Nombre": "Dungeon: Maze of Fate by SoowekGames",
-         "Informacion": "\u00a1En la tierra de la luz acecha en la oscuridad!",
-         "Desde": "",
-         "Hasta": "2025/05/01 18:05",
-         "URL": "https://soowekgames.itch.io/dungeon-maze-of-fate",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
-      },
-      {
-         "Nombre": "Survivor by SoowekGames",
-         "Informacion": "En la misteriosa y sombr\u00eda instalaci\u00f3n militar necesitas encontrar panaceum, curar para todas las enfermedades.",
-         "Desde": "",
-         "Hasta": "2025/05/01 18:05",
-         "URL": "https://soowekgames.itch.io/survivor",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
-      },
-      {
-         "Nombre": "Snow Rush by Nofolyx Arts",
-         "Informacion": "Pruebe la demostraci\u00f3n gratuita con 4 jugadores",
-         "Desde": "",
-         "Hasta": "2025/05/01 21:00",
-         "URL": "https://nofolyx-arts.itch.io/snow-rush",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "Peak Partners (MULTIPLAYER CO OP) by lowey1199@gmail.com",
-         "Informacion": "\u00a1Emb\u00e1rcate en una aventura de adrenalina en este juego cooperativo multijugador! Te une con amigos o te desaf\u00edes a maestros de cursos de atrevimiento llenos de obst\u00e1culos din\u00e1micos. Salta a trav\u00e9s de los tejados, agarra las repisas y navegue a trav\u00e9s de plataformas m\u00f3viles. Tenga cuidado con las trampas peligrosas como p\u00e9ndulos girantes, azulejos y ejes giratorios que prueban sus reflejos y coordinaci\u00f3n. Con todos los niveles que ofrecen desaf\u00edos y emociones \u00fanicos, es un viaje de ritmo r\u00e1pido donde el trabajo en equipo y la habilidad son sus herramientas finales para la victoria.",
-         "Desde": "",
-         "Hasta": "2025/05/01 21:23",
-         "URL": "https://lowey1199gmailcom.itch.io/peak-partners-v1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "AudFree Audio Capture",
-         "Informacion": "Audfree Audio Capture es una grabadora de audio \u00fanica para grabar cualquier sonido, como transmisiones de m\u00fasica, radio en l\u00ednea, sonido en el juego como MP3 en alta calidad.",
-         "Desde": "",
-         "Hasta": "2025/05/02 07:00",
-         "URL": "https://sharewareonsale.com/s/free-audfree-audio-capture-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "AIPPProtect",
-         "Informacion": "Seguridad integral impulsada por la IA en tiempo real",
-         "Desde": "",
-         "Hasta": "2025/05/02 09:00",
-         "URL": "https://www.bitsdujour.com/software/aippprotect/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "RecoverXData - Data Recovery Software (1 Year License)",
-         "Informacion": "Recuperar datos perdidos y eliminados sobre el almacenamiento interno y externo",
-         "Desde": "",
-         "Hasta": "2025/05/02 09:00",
-         "URL": "https://www.bitsdujour.com/software/recoverxdata-data-recovery-software-1-year-license/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "TunesKit Location Changer License Free 2025",
          "Informacion": "El cambiador de ubicaci\u00f3n de Tuneskit le permite modificar sin esfuerzo su ubicaci\u00f3n GPS en dispositivos iOS y Android. Ideal para jugar juegos basados \u200b\u200ben la ubicaci\u00f3n desde casa o acceder a aplicaciones en diferentes regiones, el cambiador de ubicaci\u00f3n de Tuneskit ofrece cuatro modos de simulaci\u00f3n de movimiento: una parada, dos puntos, m\u00faltiples puntos y teletransportes de salto. Cree rutas virtuales personalizadas, desde simples viajes punto a punto hasta rutas complejas con m\u00faltiples paradas, para una experiencia m\u00e1s inmersiva. Puede ajustar la velocidad de movimiento para que el viaje simulado parezca natural. Con un solo clic, explore nuevas ubicaciones virtuales, con\u00e9ctese a nivel mundial y mejore su interacci\u00f3n con los juegos AR y las aplicaciones basadas en la ubicaci\u00f3n, todo desde la comodidad de su hogar.",
@@ -149,7 +9,17 @@
          "URL": "https://giveaway.tickcoupon.com/tuneskit-location-changer-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
+      },
+      {
+         "Nombre": "THE GAZE by vmpr000",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/05/02 20:00",
+         "URL": "https://vmpr.itch.io/the-gaze",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "The Door! 2 by Nitish Thombre",
@@ -159,7 +29,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! 3 by Nitish Thombre",
@@ -169,7 +39,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-3",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! 4 by Nitish Thombre",
@@ -179,7 +49,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door-4",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "The Door! by Nitish Thombre",
@@ -189,7 +59,7 @@
          "URL": "https://nitish-thombre.itch.io/the-door",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -199,7 +69,7 @@
          "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -209,7 +79,7 @@
          "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "RecoverXData Pro 1 Year License Key Free Download 2025",
@@ -219,7 +89,7 @@
          "URL": "https://giveaway.tickcoupon.com/recoverxdata-pro-full-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ashampoo Backup Pro 25",
@@ -229,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-pro-25-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Audials One 2025",
@@ -239,6 +109,26 @@
          "URL": "https://sharewareonsale.com/s/free-audials-one-2025-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Power-user",
+         "Informacion": "Agregar iconos, gr\u00e1ficos, mapas y diagramas a los archivos de la oficina",
+         "Desde": "",
+         "Hasta": "2025/05/03 09:00",
+         "URL": "https://www.bitsdujour.com/software/power-user/in=upcoming-freebies",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "Teorex FolderIco License Key 6-Month for Free Download",
+         "Informacion": "TEOREX FOLLERICO es una herramienta de cambio de color de carpeta que lo ayuda a aplicar otro color que le encanta a la carpeta amarilla original. Con un solo clic, puede cambiar la carpeta de color para administrar f\u00e1cilmente su trabajo.",
+         "Desde": "",
+         "Hasta": "2025/05/03 15:00",
+         "URL": "https://giveaway.tickcoupon.com/teorex-folderico-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -267,6 +157,16 @@
          "Desde": "",
          "Hasta": "2025/05/03 16:25",
          "URL": "https://glitchlabs.itch.io/video-ouija",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Newton Glitch by MuneerSbehat",
+         "Informacion": "Newon Glitch es un plataformador de rompecabezas 2D donde la gravedad cambiante lo cambia todo. Ayuda a forzar su viaje hacia la estabilidad emocional mientras navega por niveles peligrosos llenos de trampas y rompecabezas complicados. Piense fuera de la caja para resolver los desaf\u00edos de su manera \u00fanica. Features: Unir la fuerza en un viaje personal para recuperar el equilibrio emocional. Master Gravity en cuatro direcciones para explorar y sobrevivir. Sole los rompecabezas con la creatividad: esperan las soluciones multiples. Act\u00fae los desaf\u00edos mental de consumo dise\u00f1ados para probar su paciencia.",
+         "Desde": "",
+         "Hasta": "2025/05/03 17:03",
+         "URL": "https://muneersbehat.itch.io/newton-glitch",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -309,6 +209,16 @@
          "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Forza Motorsport",
+         "Informacion": "\u00a1Juega gratis! Fuera de la competencia en carrera. Race el mundo en el modo multijugador. Compite en m\u00e1s de 500 autos en 27 pistas de fama mundial, \u00a1ahora con el emocionante N\u00fcrburgring Nordschleife!",
+         "Desde": "",
+         "Hasta": "2025/05/05 10:00",
+         "URL": "https://store.steampowered.com/app/2440510/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -367,6 +277,16 @@
          "Desde": "",
          "Hasta": "2025/05/06 04:15",
          "URL": "https://keeragames.itch.io/xi-oclock",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "World Without Reason by Bamboo Calculator",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/05/06 05:59",
+         "URL": "https://bamboocalculator.itch.io/world-without-reason",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -509,6 +429,26 @@
          "URL": "https://15joldersmat.itch.io/abstractia",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wise Duplicate Finder Pro",
+         "Informacion": "Wise Duplicate Finder Pro es una herramienta de administraci\u00f3n de archivos duplicados que puede ayudarlo a encontrar y eliminar archivos duplicados comparando el nombre del archivo, el tama\u00f1o del archivo o el contenido. Desh\u00e1gase de duplicados molestos y libere m\u00e1s espacio en sus discos duros.",
+         "Desde": "",
+         "Hasta": "2025/05/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-wise-duplicate-finder-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wise Duplicate Finder Lifetime License Key Free 2025",
+         "Informacion": "Si su computadora se ejecuta lentamente debido a todo el espacio de almacenamiento, Wise Duplicate Finder ser\u00e1 un software imprescindible para su computadora Windows. Con \u00e9l, puede encontrar f\u00e1cilmente y eliminar archivos duplicados para deshacerse de los molestos duplicados y liberar m\u00e1s espacio en sus discos duros. Para actualizar de la versi\u00f3n gratuita a la versi\u00f3n Pro, debe gastar $ 19.95 al finalizar la compra. Sin embargo, la gran noticia para los lectores de TickCoupon es que trabajamos con WiseCleaner para ofrecerle un buscador duplicado sabio de forma gratuita.",
+         "Desde": "",
+         "Hasta": "2025/05/09 14:00",
+         "URL": "https://giveaway.tickcoupon.com/wise-duplicate-finder-pro-for-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -712,14 +652,14 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Touch Type Tale",
-         "Informacion": "Touch Type Tale es un juego de estrategia en tiempo real con un giro mecanogr\u00e1fico que incluye una campa\u00f1a de historia profunda y un modo de juego en l\u00ednea competitivo que har\u00e1 las delicias de hasta los m\u00e1s veteranos del g\u00e9nero de estrategia en tiempo real.",
-         "Desde": "2025/05/08",
-         "Hasta": "2025/05/15 17:00",
-         "URL": "https://store.epicgames.com/p/touch-type-tale",
+         "Nombre": "Beyond One's Past by Warlines Studios",
+         "Informacion": "Es la primera vez que vengas aqu\u00ed.",
+         "Desde": "",
+         "Hasta": "2025/05/15 08:00",
+         "URL": "https://warlines.itch.io/beyond-one-past",
          "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Deadtime Defenders",
@@ -727,6 +667,16 @@
          "Desde": "2025/05/08",
          "Hasta": "2025/05/15 17:00",
          "URL": "https://store.epicgames.com/p/deadtime-defenders-3e9fc8",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Touch Type Tale",
+         "Informacion": "Touch Type Tale es un juego de estrategia en tiempo real con un giro mecanogr\u00e1fico que incluye una campa\u00f1a de historia profunda y un modo de juego en l\u00ednea competitivo que har\u00e1 las delicias de hasta los m\u00e1s veteranos del g\u00e9nero de estrategia en tiempo real.",
+         "Desde": "2025/05/08",
+         "Hasta": "2025/05/15 17:00",
+         "URL": "https://store.epicgames.com/p/touch-type-tale",
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
@@ -802,6 +752,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Climbing Tung Tung Tung Sahur by jeawon99",
+         "Informacion": "Sube cada vez m\u00e1s alto en busca del murci\u00e9lago robado de Tung Tung Tung Tung Tung Tung Tung Tung Tung Sahur en este juego de plataformas vertical.  \r\n    Salta entre paredes, saltos de pared de cadena y empuja sus reflejos al l\u00edmite a medida que escala una torre interminable.",
+         "Desde": "",
+         "Hasta": "2025/05/23 13:36",
+         "URL": "https://jeawon99.itch.io/climbing-tung-tung-tung-sahur",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Timmy's Taxis by CrowmountainGames",
          "Informacion": "\u00a1Bienvenido a los taxis de Timmy! \u00a1Juega como taxista y traiga a sus clientes a sus destinos elegidos a tiempo!\u00a0No querr\u00edas decepcionar a tu jefe Timmy, \u00bfverdad?",
          "Desde": "",
@@ -822,11 +782,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Bots of Boria by Dancing Dots",
+         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/bots-of-boria",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Covens of Xetta by Dancing Dots",
          "Informacion": "Objetivo: Lleve a su aquelarre a la victoria a trav\u00e9s de la conquista o los puntos de victoria.",
          "Desde": "",
          "Hasta": "2025/05/27 02:51",
          "URL": "https://15joldersmat.itch.io/covens-of-xetta",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Everstem by Dancing Dots",
+         "Informacion": "\u00a1Bienvenido a Everstem!",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/everstem",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -862,21 +842,151 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Everstem by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a Everstem!",
+         "Nombre": "Battle Hell: The Vant by Dancing Dots",
+         "Informacion": "Siga el monarquista Vanti defendiendo contra la invasi\u00f3n del Pacto de Defensa Republicana (RDP).",
          "Desde": "",
          "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/everstem",
+         "URL": "https://15joldersmat.itch.io/battle-hell-the-vant",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Bots of Boria by Dancing Dots",
-         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
+         "Nombre": "Enlightment Now! by Dancing Dots",
+         "Informacion": "Sube las plataformas a la iluminaci\u00f3n antes de que grises y mueras.",
          "Desde": "",
          "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/bots-of-boria",
+         "URL": "https://15joldersmat.itch.io/enlightment-now",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battle Hell: Tral! by Dancing Dots",
+         "Informacion": "Battle Hell: \u00a1Tral! Un simulador de guerra de IA: testigo de las batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/battle-hell-tral",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gods of Crastle by Dancing Dots",
+         "Informacion": "\u00a1Bienvenido a \"Gods of Crastle\" el reino de la guerra santa donde llevas a los adoradores de tu culto a la victoria! Participe en batallas \u00e9picas y una construcci\u00f3n estrat\u00e9gica, mientras se esfuerza por conquistar la tierra de Crastle y establecer su dominio.",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/gods-of-crastle",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Very Little Bang by Dancing Dots",
+         "Informacion": "Al principio, hab\u00eda ... guerra !!!",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/the-very-little-bang",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Veins : Hearts At War by Dancing Dots",
+         "Informacion": "Veins es un juego inactivo minimalista s\u00faper simple. Observe c\u00f3mo los corazones de color bombean y luchan por el control de la pantalla mientras extienden sus vastas redes de venas invasivas.",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/veins",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Duels of The Nombish by Dancing Dots",
+         "Informacion": "Domina las calles malas de Gato-Cat: \u00a1convi\u00e9rtete en el \u00faltimo duelista en este tirador de estilo arcade!",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/duels-of-the-nombish",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Minimperiums by Dancing Dots",
+         "Informacion": "** Minimperios 1.0 - Una simulaci\u00f3n de guerra de IA **",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/minimperiums",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Isle Of Gibgar by Dancing Dots",
+         "Informacion": "Sum\u00e9rgete en el cautivador mundo de la Isla de Gibgar. Experimente los complejos comportamientos e interacciones de criaturas \u00fanicas conocidas como Gibgars, cada una con formas y colores distintos.",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/isle-of-gibgar",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "1000 Missiles by Dancing Dots",
+         "Informacion": "Objetivo: defiende a tu naci\u00f3n de 1000 ataques de misiles enemigos utilizando sistemas antia\u00e9reos (AA).",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/1000-missiles",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battle Hell : Hazel! by Dancing Dots",
+         "Informacion": "Battle Hell: \u00a1Hazel! Un simulador de guerra de IA: ver c\u00f3mo se desarrollan batallas \u00e9picas en un mundo basado en mosaicos",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/hazel",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wysaddle Tribe Simulator: 2D Spectator Experience by Dancing Dots",
+         "Informacion": "\u00a1Bienvenido a los bosques de Wysaddle!",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/wysaddle",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battle Hell: Crastle Valley! by Dancing Dots",
+         "Informacion": "Battle Hell: \u00a1Valle de Crastle! Un simulador de guerra de IA: testigo de las batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battle Hell: Arder! by Dancing Dots",
+         "Informacion": "Observe c\u00f3mo las ciudades unidas y arder luchan entre s\u00ed en el simulador de guerra de AI-solo.",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/battle-hell-arder",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "War of Ants! by Dancing Dots",
+         "Informacion": "Juego de simulaci\u00f3n de hormigas",
+         "Desde": "",
+         "Hasta": "2025/05/27 02:51",
+         "URL": "https://15joldersmat.itch.io/ants",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -942,6 +1052,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2025/05/31 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
          "Informacion": "Home Game 2 es sobre el ermita\u00f1o que vive solo.",
          "Desde": "",
@@ -957,16 +1077,6 @@
          "Desde": "",
          "Hasta": "2025/05/31 05:59",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2025/05/31 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -992,6 +1102,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Pigeon West: El Diablo by Blue harpy",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/05/31 07:28",
+         "URL": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pigeon West: Johnny the Pigeon by Blue harpy",
+         "Informacion": "Prep\u00e1rese para sumergirse en el cruel y despiadado mundo del Wild West, donde nadie puede permitirse hacer clic en su pico. El valiente h\u00e9roe de nuestra historia es Johnny the Pigeon.",
+         "Desde": "",
+         "Hasta": "2025/05/31 07:28",
+         "URL": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Board Heroes by Tommy Beaver",
          "Informacion": "Board Heroes es un juego de mesa en un formato de juego de computadora.",
          "Desde": "",
@@ -1007,6 +1137,76 @@
          "Desde": "",
          "Hasta": "2025/05/31 09:20",
          "URL": "https://tommy-beaver.itch.io/hamle",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Color Brothers by MuneerSbehat",
+         "Informacion": "\u00a1Un juego de rompecabezas divertido donde tu objetivo es llegar a la salida con el mismo color a juego! Sin embargo, tenga cuidado, solo puede tocar los mismos bloques de color que usted. \u00a1Salta, recoge pernos de colores para ayudar a completar el nivel y evitar enemigos de nubes que intentan matarte!",
+         "Desde": "",
+         "Hasta": "2025/05/31 21:11",
+         "URL": "https://muneersbehat.itch.io/color-brothers1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BRUD by Splif",
+         "Informacion": "\u00bfQuieres saber qu\u00e9 pas\u00f3 en Ucrania, Nadvirna en 1999?",
+         "Desde": "",
+         "Hasta": "2025/05/31 23:00",
+         "URL": "https://splif404.itch.io/brud",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Endless Math Challenge by notRitter",
+         "Informacion": "* La versi\u00f3n pagada desbloquea sprites de jugadores adicionales, fondos y dificultades muy duras + locos.* Caracter\u00edsticas pagas no disponibles en el navegador.",
+         "Desde": "",
+         "Hasta": "2025/06/01 05:59",
+         "URL": "https://notritter.itch.io/endless-math-challenge",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zal vs May by CoffeeDog",
+         "Informacion": "La reina malvada puede que O'Niece est\u00e1 invadiendo un planeta de peque\u00f1os elfos. Quien en su desesperaci\u00f3n envi\u00f3 a Zalza, un fabricante de juguetes fallido, para ir solo a la fortaleza para morir para que puedan deshacerse de \u00e9l primero al menos.",
+         "Desde": "",
+         "Hasta": "2025/06/01 08:00",
+         "URL": "https://coffeedogteam.itch.io/zal-vs-may",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Devyard by TheThil",
+         "Informacion": "El grupo de amigos se prepara para un espeluznante viaje de Halloween, decidiendo dejar a uno de ellos encerrado dentro de un cementerio embrujado. Durante a\u00f1os, los rumores hab\u00edan circulado sobre un esp\u00edritu de muertos vivientes que inquietaba los terrenos, una figura fantasmal que contin\u00faa las tradiciones de Halloween incluso m\u00e1s all\u00e1 de la tumba. Nadie cre\u00eda las historias ... hasta ahora.\u00a0El objetivo es escapar del cementerio embrujado sobreviviendo la noche.\u00a0El juego ofrece:- Actuaci\u00f3n de voz original- Banda sonora original- Experiencia atmosf\u00e9rica espeluznante",
+         "Desde": "",
+         "Hasta": "2025/06/01 12:00",
+         "URL": "https://thethil.itch.io/devyard",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet 2 by TheThil",
+         "Informacion": "El juego tiene 3 finales posibles. Tiempo de juego promedio: 30-45 minutos.",
+         "Desde": "",
+         "Hasta": "2025/06/01 12:00",
+         "URL": "https://thethil.itch.io/strange-toilet-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet by TheThil",
+         "Informacion": "En el tranquilo vecindario donde viven Nathan y Sarah, hay una presencia siniestra. Una amenaza potencial de un asesino suelto. Los residentes no esperaban que en esta noche pac\u00edfica, se enfrentaran a una sombr\u00eda realidad que nunca anticiparon.",
+         "Desde": "",
+         "Hasta": "2025/06/01 12:00",
+         "URL": "https://thethil.itch.io/strange-toilet",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
