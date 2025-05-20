@@ -1,76 +1,6 @@
 {
-   "date_update": "19 May 2025 16:02 UTC",
+   "date_update": "20 May 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "FOUNDRY",
-         "Informacion": "\u00a1Juega gratis! Construya una sofisticada f\u00e1brica de robots optimizada a la perfecci\u00f3n en un mundo de v\u00f3xel infinito. Minar y cosechar recursos, automatizar sus l\u00edneas de producci\u00f3n y administrar sistemas complejos mientras investiga su camino para convertirse en la megacorpica de rob\u00f3tica l\u00edder de la Galaxia.",
-         "Desde": "",
-         "Hasta": "2025/05/19 10:00",
-         "URL": "https://store.steampowered.com/app/983870/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "House Flipper 2",
-         "Informacion": "\u00a1Juega gratis! \u00a1Limpia tus preocupaciones con este relajante simulador de renovaci\u00f3n! Comprar, arreglar, vender y convertirse en una leyenda local. \u00a1O toma tus herramientas el\u00e9ctricas y crea cualquier cosa desde cero! Con el modo cooperativo de 2-4 jugadores en l\u00ednea, puedes jugar juntos en el modo de sandbox como en el cuento.",
-         "Desde": "",
-         "Hasta": "2025/05/19 10:00",
-         "URL": "https://store.steampowered.com/app/1190970/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Legacy: Steel & Sorcery",
-         "Informacion": "\u00a1Juega gratis! Legacy: Steel & Sorcery es un juego de rol de extracci\u00f3n PVPVE de acci\u00f3n de acci\u00f3n en el cl\u00e1sico mundo de fantas\u00eda de Mithrigarde, rico en expansivas zonas al aire libre.\u00a0Juega solo o con amigos para reunir bot\u00edn, matar a las criaturas y derrotar a otros jugadores.",
-         "Desde": "",
-         "Hasta": "2025/05/19 10:00",
-         "URL": "https://store.steampowered.com/app/2344320/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "KILLER: REWIND by MansterPants",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/19 18:00",
-         "URL": "https://mansterpants.itch.io/killerrewind",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Stockwave Online by Electric Plasma",
-         "Informacion": "Stockwave es un juego gratuito para todo el 8 jugador para Windows 10 / Windows 11. Su suerte lo ha llevado a una nueva carrera, un comerciante de acciones. Trabajando para la Oficina de Intercambio Pure Liquid. Un ambiente amigable de personas como usted, buscando fortuna en estad\u00edsticas y juegos de azar. Sin embargo, el verdadero trofeo es el premio Empleado del Mes. Dado al trabajador con la suma de efectivo l\u00edquido m\u00e1s alta al final de la jornada laboral. Todos quieren este prestigioso premio. Es suficiente para que algunos empleados recurran a la violencia. Todos est\u00e1n dispuestos a tomar sus acciones, eliminan el bot\u00edn y los materiales del entorno local, y los crean en artilugios mortales. Mira tu espalda, porque si no los est\u00e1s cazando, probablemente te est\u00e1n cazando ...",
-         "Desde": "",
-         "Hasta": "2025/05/19 23:00",
-         "URL": "https://electric-plasma.itch.io/stockwave",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "DoYourData Super Eraser 8",
-         "Informacion": "DoYourData Super Easer es el software de borrado de datos No.1 que puede borrar o borrar los datos de disco duro o dispositivo de almacenamiento como la unidad USB, la tarjeta SD, la tarjeta de memoria, el disco duro externo, etc. Si desea borrar de forma completa y permanente archivos no deseados o datos confidenciales en su dispositivo de almacenamiento o dispositivo de almacenamiento duro, Super Erraser es su mejor opci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2025/05/20 07:00",
-         "URL": "https://sharewareonsale.com/s/doyourdata-super-eraser-giveaway-coupon-sale",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "ThunderSoft Photo Gallery Creator",
-         "Informacion": "Crea una incre\u00edble galer\u00eda de fotos a partir de fotos, fotos y videoclips.",
-         "Desde": "",
-         "Hasta": "2025/05/20 07:00",
-         "URL": "https://sharewareonsale.com/s/free-thundersoft-photo-gallery-creator-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "The Playground 3 by Chodex",
          "Informacion": "\u00e2 \u00ba un juego de terror PSX",
@@ -79,7 +9,7 @@
          "URL": "https://chodex.itch.io/playground-3",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 91%, yellow 91%) 1;"
       },
       {
          "Nombre": "GiMeSpace Desktop Extender 1D License Key Free",
@@ -89,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/gimespace-desktop-extender-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "The Flowertest by Red Cap Games",
@@ -99,7 +29,7 @@
          "URL": "https://redcap-games.itch.io/the-flowertest",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
       },
       {
          "Nombre": "Recycle Tanks Clicker by Tekila",
@@ -109,7 +39,17 @@
          "URL": "https://tekilor.itch.io/recycle-tanks",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
+      },
+      {
+         "Nombre": "Advanced SystemCare PRO - 6 months / 1 PC",
+         "Informacion": "Una utilidad del sistema para la salud superior de PC",
+         "Desde": "",
+         "Hasta": "2025/05/21 09:00",
+         "URL": "https://www.bitsdujour.com/software/advanced-windowscare-professional/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Magic Recovery Key 1-Year License Code Free",
@@ -422,21 +362,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Vovsoft Batch Image Resizer License Key Free",
-         "Informacion": "Con respecto a un software de resonador y convertidor r\u00e1pido, Vovsoft Batch Image Resizer es probablemente una de las mejores opciones. Se desarrolla para ayudar a los novatos y profesionales a ajustar el tama\u00f1o de la imagen al tiempo que preserva la calidad original de la imagen. El resonador de imagen por lotes admite varios formatos de imagen, incluidos JPEG, BMP, GIF, ICO, PNG, TIFF, WMP y DDS. Adem\u00e1s, ofrece varias opciones de cambio de tama\u00f1o como vecino m\u00e1s cercano, lineal, c\u00fabico o fant\u00e1stico para satisfacer sus necesidades.",
-         "Desde": "",
-         "Hasta": "2025/05/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-batch-image-resizer-key-free/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Coolmuster Android SMS + Contacts Recovery 1 Year Free Key",
          "Informacion": "Coolmuster Android SMS + Contacts Recovery se encuentra como la soluci\u00f3n definitiva para recuperar sus conversaciones de texto fuera de lugar o borradas y datos de contacto en su dispositivo Android. Esta poderosa herramienta le permite reclamar contactos perdidos y mensajes de texto de la tarjeta de memoria interna y la tarjeta SIM de su dispositivo Android, independientemente de c\u00f3mo se perdieron, ya sea a trav\u00e9s de la eliminaci\u00f3n accidental, las intrusiones de virus, el hardware o el mal funcionamiento, y m\u00e1s.",
          "Desde": "",
          "Hasta": "2025/05/26 00:00",
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-sms-contacts-recovery/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Batch Image Resizer License Key Free",
+         "Informacion": "Con respecto a un software de resonador y convertidor r\u00e1pido, Vovsoft Batch Image Resizer es probablemente una de las mejores opciones. Se desarrolla para ayudar a los novatos y profesionales a ajustar el tama\u00f1o de la imagen al tiempo que preserva la calidad original de la imagen. El resonador de imagen por lotes admite varios formatos de imagen, incluidos JPEG, BMP, GIF, ICO, PNG, TIFF, WMP y DDS. Adem\u00e1s, ofrece varias opciones de cambio de tama\u00f1o como vecino m\u00e1s cercano, lineal, c\u00fabico o fant\u00e1stico para satisfacer sus necesidades.",
+         "Desde": "",
+         "Hasta": "2025/05/26 00:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-batch-image-resizer-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -692,6 +632,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "EaseUS Data Recovery Wizard Pro 1-Year Free Code",
+         "Informacion": "El asistente de recuperaci\u00f3n de datos de facilus es un software de recuperaci\u00f3n de datos de disco duro completamente seguro y efectivo que proporciona soluciones confiables de recuperaci\u00f3n de datos para guardar todo tipo de escenarios de p\u00e9rdida de datos. Le permite recuperar tipos ilimitados de archivos de una PC/port\u00e1til, disco duro, partici\u00f3n perdida o sin procesar, unidad USB, tarjeta de memoria, c\u00e1mara digital, reproductor de m\u00fasica u otros dispositivos de almacenamiento.",
+         "Desde": "",
+         "Hasta": "2025/05/27 15:00",
+         "URL": "https://giveaway.tickcoupon.com/easeus-data-recovery-wizard-pro-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
          "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu auto se descompone.",
          "Desde": "",
@@ -739,6 +689,16 @@
          "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ACDSee LUXEA Pro Video Editor License Key Free",
+         "Informacion": "Con un excelente software de edici\u00f3n de video, puede crear videos profesionales para plataformas como YouTube, Tiktok, Instagram o Vimeo. Si no tiene mucha experiencia con la edici\u00f3n de video, entonces ACDSEE Luxea Pro Video Editor es un software adecuado para usted. Como su nombre indica, ACDSEE Luxea Pro Video Editor es una excelente herramienta de edici\u00f3n de video dise\u00f1ada para ayudarlo a realizar acciones b\u00e1sicas como edici\u00f3n de video y producci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/05/28 14:00",
+         "URL": "https://giveaway.tickcoupon.com/acdsee-luxea-pro-video-editor-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -872,51 +832,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a Thelocalbogan por hacer posible este proyecto.",
+         "Nombre": "Fluig AI",
+         "Informacion": "Fluig es un generador de diagrama de IA gratuito que transforma sus ideas, documentos o incluso codifica en im\u00e1genes claras y profesionales, como mapas mentales, diagramas de flujo, tablas, diagramas de espina de pescado, plazos, diagramas de clases, diagramas de arquitectura, tablas, tableros kanbanos, art\u00edculos y m\u00e1s, en solo segundos, todos los chats de AI naturales.",
          "Desde": "",
-         "Hasta": "2025/05/31 07:26",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "Hasta": "2025/05/31 07:00",
+         "URL": "https://sharewareonsale.com/s/free-fluig-ai-100-discount",
          "IMG": "",
-         "Distribuidora": "Itch io",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Coche manejable en tu escritorio",
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Lista de deseos Mi nuevo juego de terror en Steam aqu\u00ed: la estaci\u00f3n de servicio",
          "Desde": "",
          "Hasta": "2025/05/31 07:26",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un breve juego de terror realizado en 1 semana.",
-         "Desde": "",
-         "Hasta": "2025/05/31 07:26",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2025/05/31 07:26",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego sobre las habitaciones hechas sin motor.",
-         "Desde": "",
-         "Hasta": "2025/05/31 07:26",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -932,11 +862,41 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Lista de deseos Mi nuevo juego de terror en Steam aqu\u00ed: la estaci\u00f3n de servicio",
+         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un breve juego de terror realizado en 1 semana.",
          "Desde": "",
          "Hasta": "2025/05/31 07:26",
-         "URL": "https://magnus-froelund.itch.io/1943",
+         "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/05/31 07:26",
+         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2025/05/31 07:26",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2025/05/31 07:26",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -952,11 +912,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Asteroids by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "",
+         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Un juego sobre las habitaciones hechas sin motor.",
          "Desde": "",
          "Hasta": "2025/05/31 07:26",
-         "URL": "https://magnus-froelund.itch.io/asteroids",
+         "URL": "https://magnus-froelund.itch.io/the-backrooms",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a Thelocalbogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2025/05/31 07:26",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1122,6 +1092,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "me mostre sonhos doces by Meiri, \u00e4\u00bf\u008a",
+         "Informacion": "ADVERTENCIA DEL CONTENIDO: Eyera, violencia impl\u00edcita, muerte, uso de sustancias, suicidio impl\u00edcito",
+         "Desde": "",
+         "Hasta": "2025/05/31 22:10",
+         "URL": "https://meiri.itch.io/sonhos-doces",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "BRUD by Splif",
          "Informacion": "\u00bfQuieres saber qu\u00e9 pas\u00f3 en Ucrania, Nadvirna en 1999?",
          "Desde": "",
@@ -1157,6 +1137,16 @@
          "Desde": "",
          "Hasta": "2025/05/31 23:59",
          "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "IncorpoScape by gamesbyrd",
+         "Informacion": "Juegas con el mouse y el teclado.",
+         "Desde": "",
+         "Hasta": "2025/06/01 00:00",
+         "URL": "https://gamesbyrd.itch.io/incorposcape",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
