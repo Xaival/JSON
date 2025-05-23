@@ -1,86 +1,6 @@
 {
-   "date_update": "22 May 2025 16:02 UTC",
+   "date_update": "23 May 2025 16:04 UTC",
    "values": [
-      {
-         "Nombre": "Moth by lucaspulaski",
-         "Informacion": "En Moth juegas como investigador de la polic\u00eda que busca en el estacionamiento subterr\u00e1neo un asesino.",
-         "Desde": "",
-         "Hasta": "2025/05/22 12:00",
-         "URL": "https://lucaspulaski.itch.io/moth",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "[Whispers in the Dark] Burger Shop by JML Studio",
-         "Informacion": "\u00a1Hamburguesas!",
-         "Desde": "",
-         "Hasta": "2025/05/22 16:44",
-         "URL": "https://jmlgamestudio.itch.io/whispers-in-the-dark-burger-shop",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "[Whispers in the Dark] Trailer Park by JML Studio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/22 16:44",
-         "URL": "https://jmlgamestudio.itch.io/trailer-park",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Dead Island 2",
-         "Informacion": "Dead Island 2",
-         "Desde": "2025/05/15",
-         "Hasta": "2025/05/22 17:00",
-         "URL": "https://store.epicgames.com/p/dead-island-2",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Happy Game",
-         "Informacion": "Happy Game",
-         "Desde": "2025/05/15",
-         "Hasta": "2025/05/22 17:00",
-         "URL": "https://store.epicgames.com/p/happy-game-35a105",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Mystery Game 1",
-         "Informacion": "Mystery Game 1",
-         "Desde": "2025/05/15",
-         "Hasta": "2025/05/22 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Card 3",
-         "Informacion": "Con Ashampoo Photo Card 3, puede enviar elegantes saludos fotogr\u00e1ficos a amigos y conocidos a\u00fan m\u00e1s f\u00e1cilmente. Puede elegir entre una amplia gama de plantillas, desde tarjetas de felicitaci\u00f3n simples hasta cupones de regalo. Las tarjetas se env\u00edan directamente desde el programa.",
-         "Desde": "",
-         "Hasta": "2025/05/23 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-card-3-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Advanced SystemCare PRO - 6 months / 1 PC",
-         "Informacion": "Una utilidad del sistema para la salud superior de PC",
-         "Desde": "",
-         "Hasta": "2025/05/23 09:00",
-         "URL": "https://www.bitsdujour.com/software/advanced-windowscare-professional/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Red Tail by Musialkov",
          "Informacion": "Bienvenido a Red Tail, un juego de aventuras de plataforma 3D. En este juego, seguir\u00e1s el viaje de un zorro llamado Felix, que debe encontrar los ingredientes para un ant\u00eddoto para curar a sus amigos que han sido infectados con una enfermedad desconocida.",
@@ -89,7 +9,7 @@
          "URL": "https://musialkov.itch.io/redtail",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
       },
       {
          "Nombre": "World of Warships \u2014 Oktyabrskaya Revolutsiya",
@@ -99,7 +19,7 @@
          "URL": "https://store.steampowered.com/app/1739020/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Climbing Tung Tung Tung Sahur by jeawon99",
@@ -109,7 +29,7 @@
          "URL": "https://jeawon99.itch.io/climbing-tung-tung-tung-sahur",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
       },
       {
          "Nombre": "LONG PIGS by vmpr000",
@@ -119,7 +39,7 @@
          "URL": "https://vmpr.itch.io/long-pigs",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Timmy's Taxis by CrowmountainGames",
@@ -129,7 +49,7 @@
          "URL": "https://crowmountaingames.itch.io/timmys-taxis",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Jungle Jumper by adamnn",
@@ -139,7 +59,7 @@
          "URL": "https://adamnn.itch.io/jungle-jumpertt",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Ashampoo Photo Optimizer 10",
@@ -149,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-optimizer-10-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Light Smackdown by Idiot",
@@ -157,6 +77,26 @@
          "Desde": "",
          "Hasta": "2025/05/24 08:00",
          "URL": "https://massive-idiot.itch.io/light-smackdown",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "RecMaster - Screen Recorder (1 Year License)",
+         "Informacion": "Grabe su pantalla con un clic",
+         "Desde": "",
+         "Hasta": "2025/05/24 09:00",
+         "URL": "https://www.bitsdujour.com/software/recmaster-screen-recorder-1-year-license/in=upcoming-freebies",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
+      },
+      {
+         "Nombre": "FPS + by PurpleGuy coyote",
+         "Informacion": "\u00a1HOLA!",
+         "Desde": "",
+         "Hasta": "2025/05/24 15:13",
+         "URL": "https://purpleguy-coyote.itch.io/fps-shooter",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -207,6 +147,16 @@
          "Desde": "",
          "Hasta": "2025/05/25 11:09",
          "URL": "https://aiingames.itch.io/five-nights-at-freddys-4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Forest 6174 by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/05/25 13:05",
+         "URL": "https://itandfeel.itch.io/forest-6174",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -319,6 +269,26 @@
          "URL": "https://sharewareonsale.com/s/free-videoproc-converter-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Warhammer 40,000: Mechanicus",
+         "Informacion": "\u00a1Juega gratis! \u00a1Mechanicus II anunciado! Tome el control de una de las facciones tecnol\u00f3gicamente m\u00e1s avanzadas del Imperio: el Adeptus mec\u00e1nico. En este juego t\u00e1ctico por turnos, cada una de tus decisiones pesar\u00e1 mucho sobre el resultado del conflicto. \u00bfSer\u00e1s bendecido por el Omnissiah?",
+         "Desde": "",
+         "Hasta": "2025/05/26 10:00",
+         "URL": "https://store.steampowered.com/app/673880/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Warhammer 40,000: Gladius - Relics of War",
+         "Informacion": "Warhammer 40,000: Gladius - Las reliquias de la guerra te llevan a un mundo de terror y violencia. Cuatro facciones participar\u00e1n en una guerra brutal para el dominio sobre los recursos del planeta. En el primer juego de estrategia 4X basado en el turno establecido en Warhammer 40,000, dirigir\u00e1 una de las cuatro facciones \u00fanicas.",
+         "Desde": "",
+         "Hasta": "2025/05/26 10:00",
+         "URL": "https://store.steampowered.com/app/489630/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -622,6 +592,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
+         "Desde": "",
+         "Hasta": "2025/05/28 02:00",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bedrot by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/05/28 02:00",
+         "URL": "https://liminace.itch.io/bedrot",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Fushimi Momoyama Castle by Puzzle Box Island",
          "Informacion": "Viajes: el castillo de Fushimi Momoyama ofrece una oportunidad \u00fanica para explorar este impresionante jard\u00edn sin salir de la comodidad de casa. En esta experiencia en 3-D, cualquiera puede explorar los terrenos del castillo a su propio ritmo.\u00a0 Esta gira incluye comentarios informativos que explican la historia, la cultura y las caracter\u00edsticas \u00fanicas del \u00e1rea, mejorando la comprensi\u00f3n y apreciaci\u00f3n del espectador de la historia japonesa.\u00a0Si bien nada puede reemplazar la experiencia de visitar en persona, los viajes virtuales sirven como una herramienta valiosa para conectar a las personas con las maravillas del mundo.",
          "Desde": "",
@@ -732,11 +722,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sifu",
-         "Informacion": "Sifu",
+         "Nombre": "Deliver At All Costs",
+         "Informacion": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past \u2014 as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
          "Desde": "2025/05/22",
          "Hasta": "2025/05/29 17:00",
-         "URL": "https://store.epicgames.com/p/sifu",
+         "URL": "https://store.epicgames.com/p/deliver-at-all-costs-a30c8d",
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
@@ -752,11 +742,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Deliver At All Costs",
-         "Informacion": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past \u2014 as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
+         "Nombre": "Sifu",
+         "Informacion": "Sifu",
          "Desde": "2025/05/22",
          "Hasta": "2025/05/29 17:00",
-         "URL": "https://store.epicgames.com/p/deliver-at-all-costs-a30c8d",
+         "URL": "https://store.epicgames.com/p/sifu",
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
@@ -792,6 +782,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Android Password Recovery Pro",
+         "Informacion": "Xenarmor Android Password Recovery Pro es el software empresarial para extraer instant\u00e1neamente contrase\u00f1as y secretos de cualquier dispositivo Android.",
+         "Desde": "",
+         "Hasta": "2025/05/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-android-password-recovery-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "It's Not Human by DeepLookGames",
          "Informacion": "Historia:",
          "Desde": "",
@@ -802,11 +802,41 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft CSV Splitter Free License Code 2025",
+         "Informacion": "Si desea dividir un solo archivo CSV en varios para cargarlos f\u00e1cilmente en bases de datos o servidores en l\u00ednea, pruebe Vovsoft CSV Splitter. Es una aplicaci\u00f3n para Windows que le permite dividir cualquier archivo CSV enorme en las l\u00edneas que desea usar. Adem\u00e1s, dependiendo del n\u00famero definido de filas por archivo, esta herramienta \u00fatil mostrar\u00e1 cu\u00e1ntos archivos se crear\u00e1n contando l\u00edneas de entrada.",
+         "Desde": "",
+         "Hasta": "2025/05/30 15:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-csv-splitter-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Lerped by Schiwxet, Megantix",
          "Informacion": "Fisher, peces extra\u00f1os y gatos.",
          "Desde": "",
          "Hasta": "2025/05/30 23:00",
          "URL": "https://schiwxet.itch.io/the-lerped",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "the maze of the death by ywm3",
+         "Informacion": "Este juego se trata de ti atrapado en un laberinto e intentas escapar y evitar los diferentes tipos de enemigos, puedes probarlo y ver si puedes escapar.",
+         "Desde": "",
+         "Hasta": "2025/05/30 23:20",
+         "URL": "https://ywm3.itch.io/the-maze",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "jumbawyplatform by ywm3",
+         "Informacion": "Su juego de plataformas y el narrador se burlar\u00e1n de ti si pierdes y tambi\u00e9n hay una SlowMotion",
+         "Desde": "",
+         "Hasta": "2025/05/30 23:20",
+         "URL": "https://ywm3.itch.io/jumbawyplatform",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -867,6 +897,96 @@
          "Desde": "",
          "Hasta": "2025/05/31 05:59",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TURN AROUND by DDM GAMES",
+         "Informacion": "Turning Around es un horror an\u00e1logo atmosf\u00e9rico que te sumerge en la oscuridad de la desesperanza, donde tu \u00fanica arma contra horrores desconocidos es un haz de antorcha d\u00e9bil. Pases por los corredores interminables de un edificio abandonado, donde el tiempo y el espacio est\u00e1n distorsionados, y se escuchan los susurrados y los crujidos de las sombras de vez en cuando. Cada turno puede ser fatal: alguien ya lo est\u00e1 mirando, y si no gira a tiempo, corre el riesgo de verlo cara a cara.",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/turn-around",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "2 MONSTER & 2 MUTANTS by DDM GAMES",
+         "Informacion": "2 monstruos 2 mutantes escapar o morir!",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/2-monster-2-mutants",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RUSTY KNIGHT: HARDMODE by DDM GAMES",
+         "Informacion": "Rusty Knight: Hardmode es un plataformador de acci\u00f3n 2D despiadado que combina el combate de precisi\u00f3n castigador con la tradici\u00f3n de fantas\u00eda oscura. Pase en la armadura oxidada de un caballero deshonrado, condenado a un ciclo interminable de muerte y renacimiento en un mundo consumido por la corrupci\u00f3n. Con solo una espada rota y una esperanza que se desvanece, debes luchar a trav\u00e9s de hordas de criaturas retorcidas, navegar trampas letales y conquistar a los monstruosos jefes en una b\u00fasqueda de la redenci\u00f3n o la condenaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/rusty-knight-hardmode-pc-mobile",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RUSTY KNIGHT: HARDMODE (DEMO) by DDM GAMES",
+         "Informacion": "Rusty Knight: Hardmode es un plataformador de acci\u00f3n 2D despiadado que combina el combate de precisi\u00f3n castigador con la tradici\u00f3n de fantas\u00eda oscura. Pase en la armadura oxidada de un caballero deshonrado, condenado a un ciclo interminable de muerte y renacimiento en un mundo consumido por la corrupci\u00f3n. Con solo una espada rota y una esperanza que se desvanece, debes luchar a trav\u00e9s de hordas de criaturas retorcidas, navegar trampas letales y conquistar a los monstruosos jefes en una b\u00fasqueda de la redenci\u00f3n o la condenaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/rusty-knight-hardmode-demo",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ONE NIGHT AT MUSEUM by DDM GAMES",
+         "Informacion": "Este es un simulador de supervivencia espeluznante al estilo de cinco noches en Freddy's, donde tienes que pasar la noche en un museo abandonado habitado por las pesadillas vivas de la historia mundial. En lugar de animatronics, las criaturas mucho m\u00e1s aterradoras viven aqu\u00ed: una figura de cera de Stalin que se mueve lentamente en la oscuridad, el man\u00edaco Jason Voorhees con un aspecto helado, as\u00ed como otros legendarios asesinos y tiranos que han emergido de sus exposiciones. Cada sombra aqu\u00ed est\u00e1 llena de amenaza, y el tictac del antiguo reloj cuenta en los segundos hasta su muerte.",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/one-night-at-museum",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PARADISE FOR HOMELESS by DDM GAMES",
+         "Informacion": "Paradise for Homeless es un juego de estrategia de supervivencia oscura y atmosf\u00e9rica donde juegas como un hombre sin hogar que inesperadamente se convierte en el due\u00f1o de un caf\u00e9 en la carretera en el desierto. Parece una oportunidad para una nueva vida, pero en general es un camino interminable, viajeros raros con secretos oscuros y un mundo hostil que quiere romperte. Su establecimiento es la \u00faltima fortaleza de la civilizaci\u00f3n en este lugar de Dios, y no solo tendr\u00e1 que servir a los clientes, sino que tambi\u00e9n sobrevivir\u00e1, equilibr\u00e1ndose en el borde de la locura y la desesperaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/paradise-for-homeless",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TELL ME, WHERE ARE YOU? by DDM GAMES",
+         "Informacion": "Este es un juego de terror psicol\u00f3gico que te sumerge en los oscuros secretos del Servicio de Rescate de Emergencia. Juegas como un operador del 911 que recibe llamadas de alarma de personas en situaciones desesperadas todas las noches. Pero pronto te das cuenta de que algo est\u00e1 mal: las voces en el otro extremo de la l\u00ednea suenan antinaturales, las llamadas provienen de los mismos n\u00fameros, y en la est\u00e1tica entre las llamadas puedes escuchar susurros y llorar de beb\u00e9. Cuanto m\u00e1s tiempo trabaje, m\u00e1s borrosa es la l\u00ednea entre la realidad y la pesadilla, y su propio pasado comienza a aparecer en fragmentos de mensajes extra\u00f1os.",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/tell-me-where-are-you",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ONCE UPON AN ISLAND by DDM GAMES",
+         "Informacion": "Eres un famoso blogger de video, un cazador de historias m\u00edsticas, y tu nuevo proyecto deber\u00eda volar en Internet. Despu\u00e9s de la propina de un fan, vas a la isla de Adago, perdido en el oc\u00e9ano, donde se rumorea que la gente est\u00e1 desaparecida, y los lugare\u00f1os est\u00e1n hablando de una antigua maldici\u00f3n. Su objetivo es hacer un video revelador, para demostrar que todo esto es ficci\u00f3n ... pero desde los primeros minutos algo sale mal. El bote se rompe cerca de la orilla, la conexi\u00f3n se pierde, y en la oscuridad, las siluetas parpadean entre los \u00e1rboles. Te quedas solo, con la c\u00e1mara en tus manos, y ahora cada cuadro puede ser el \u00faltimo.",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/once-upon-an-island",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BLACKMAN IN THE DARK by DDM GAMES",
+         "Informacion": "Regresaste a casa tarde por la noche, cansado y agotado, pero tan pronto como cruzaste el umbral, sentiste que algo estaba mal. El aire se est\u00e1 engrosando, las sombras se mueven un poco m\u00e1s lento de lo que deber\u00edan, y el silencio parece estar escuchando tus pasos. La puerta se cierra suavemente detr\u00e1s de ti, y de repente te das cuenta: no est\u00e1s solo. Alguien o * algo * ya te estaba esperando aqu\u00ed, fusion\u00e1ndose en la oscuridad, observando, esperando el momento. Pero no es solo un invitado no invitado, sino que te conoce.",
+         "Desde": "",
+         "Hasta": "2025/05/31 06:04",
+         "URL": "https://ddm-games.itch.io/blackman-in-the-dark",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1087,6 +1207,26 @@
          "Desde": "",
          "Hasta": "2025/05/31 20:10",
          "URL": "https://terrortalesproductions.itch.io/false-awakening",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "[Whispers in the Dark] Burger Shop by JML Studio",
+         "Informacion": "\u00a1Hamburguesas!",
+         "Desde": "",
+         "Hasta": "2025/05/31 21:08",
+         "URL": "https://jmlgamestudio.itch.io/whispers-in-the-dark-burger-shop",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "[Whispers in the Dark] Trailer Park by JML Studio",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/05/31 21:08",
+         "URL": "https://jmlgamestudio.itch.io/trailer-park",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2172,6 +2312,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Mystery Game 6",
+         "Informacion": "Mystery Game 6",
+         "Desde": "2025/05/29",
+         "Hasta": "2025/06/05 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Mystery Game 7",
+         "Informacion": "Mystery Game 7",
+         "Desde": "2025/05/29",
+         "Hasta": "2025/06/05 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Don't Sleep, Tung Tung's There by peteishere",
          "Informacion": "Sobre el juego",
          "Desde": "",
@@ -2222,6 +2382,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Santa's little helper by JellyCode",
+         "Informacion": "El juego jugable en la web no tiene la tabla de clasificaci\u00f3n. Para acceder a la funci\u00f3n de tabla de clasificaci\u00f3n, debe instalar el juego en su computadora (mire a continuaci\u00f3n aqu\u00ed). Lamentamos este inconveniente. Santa te dar\u00e1 un regalo extra de nosotros debido a esto;)",
+         "Desde": "",
+         "Hasta": "2025/06/10 12:30",
+         "URL": "https://jellycode.itch.io/santaslittlehelper",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Being Stalked by GamingTGT",
          "Informacion": "Un chico regresa a su dormitorio para descubrir que no hay comida. Sali\u00f3 a encontrar cosas extra\u00f1as y eventos que le suceden.",
          "Desde": "",
@@ -2247,6 +2417,16 @@
          "Desde": "",
          "Hasta": "2025/06/12 08:00",
          "URL": "https://tgtstudio.itch.io/the-parking",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CrystalEater by ShadowScythe_Games",
+         "Informacion": "Explore y aventura en este juego de Metroidvania con hermosos gr\u00e1ficos y un ambiente sorprendente.",
+         "Desde": "",
+         "Hasta": "2025/06/13 00:01",
+         "URL": "https://shadowscythe-games.itch.io/crystaleater",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2679,6 +2859,16 @@
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FlashBoot Pro Free Download - Full Lifetime Version 2025",
+         "Informacion": "FlashBoot Pro es un software poderoso que puede ahorrarle tiempo. El software le permite transferir un sistema operativo con todos los programas, configuraciones, documentos, juegos y navegadores instalados a una nueva PC o un nuevo disco, incluso con hardware diferente. Adem\u00e1s, puede crear un clon de arranque de Windows 10 o Windows 8.1 en la unidad USB Thumb, que se iniciar\u00e1 independientemente del sistema operativo principal en HDD/SSD.",
+         "Desde": "",
+         "Hasta": "2025/06/23 15:00",
+         "URL": "https://giveaway.tickcoupon.com/flashboot-pro-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
