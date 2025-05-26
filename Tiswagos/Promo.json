@@ -1,146 +1,6 @@
 {
-   "date_update": "25 May 2025 16:02 UTC",
+   "date_update": "26 May 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Five night's at freddy's 4 by AIinGames",
-         "Informacion": "Solo tienes una linterna para protegerse. Afirar\u00e1 las cosas que pueden estar arrastr\u00e1ndose en el otro extremo de los pasillos, pero tenga cuidado y escuche. Si algo se ha deslizado demasiado cerca, entonces las luces brillantes en sus ojos ser\u00e1n tu final.",
-         "Desde": "",
-         "Hasta": "2025/05/25 11:09",
-         "URL": "https://aiingames.itch.io/five-nights-at-freddys-4",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 91%, yellow 91%) 1;"
-      },
-      {
-         "Nombre": "Forest 6174 by itandfeel",
-         "Informacion": "Un breve juego de terror",
-         "Desde": "",
-         "Hasta": "2025/05/25 13:05",
-         "URL": "https://itandfeel.itch.io/forest-6174",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
-      },
-      {
-         "Nombre": "Dorman & Friends Diner; DFD 1 by Frexcellor",
-         "Informacion": "Dorman & Friends Diner es un juego de fan\u00e1ticos de FNAF que se lanz\u00f3 en 2021. Se lleva a cabo en el restaurante de Dorman & Friends Diner, donde el jugador es un guardia de seguridad. Sin embargo, parece que los animatronics fueron manipulados para apuntar y eliminar al guardia nocturno. \u00a1Trate de sobrevivir como la animatr\u00f3nica intenta matarte!",
-         "Desde": "",
-         "Hasta": "2025/05/25 14:00",
-         "URL": "https://frexcellor.itch.io/dfd1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Abandoned Diner; DFD 3 by Frexcellor",
-         "Informacion": "El restaurante de Dorman ahora est\u00e1 abandonado y planea ser demolido, pero a\u00fan tienes que ir a trabajar. A pesar de que los animatronics est\u00e1n oxidados y rotos, \u00a1todav\u00eda buscan venganza!",
-         "Desde": "",
-         "Hasta": "2025/05/25 14:00",
-         "URL": "https://frexcellor.itch.io/dfd3",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Animated Diner; DFD 2 by Frexcellor",
-         "Informacion": "Despu\u00e9s de que se cerr\u00f3 la primera ubicaci\u00f3n, te trasladan a una nueva ubicaci\u00f3n, el comensal animado. \u00a1Pero no parece que los animatronics est\u00e9n muy felices de que est\u00e9s aqu\u00ed! \u00a1Sobrevivir\u00e1 a las noches trabajando en el restaurante animado de Dorman & Friends!",
-         "Desde": "",
-         "Hasta": "2025/05/25 14:00",
-         "URL": "https://frexcellor.itch.io/dfd2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Diner 4 - The Open Park; DFD 4 by Frexcellor",
-         "Informacion": "Despu\u00e9s de demolir el restaurante abandonado, construyeron Dorman & Friends 'Park, con algunas caras nuevas.\u00a0 \u00bfQui\u00e9n sigue construyendo estas atracciones?",
-         "Desde": "",
-         "Hasta": "2025/05/25 14:00",
-         "URL": "https://frexcellor.itch.io/dfd4",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Diner: Before Action by Frexcellor",
-         "Informacion": "\u00bfQu\u00e9 era antes de Dorman & Friends 'Diner? El restaurante de Dormite era. Bienvenido a Dormite's Diner.",
-         "Desde": "",
-         "Hasta": "2025/05/25 14:00",
-         "URL": "https://frexcellor.itch.io/dfdba",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Nightmares; DFD 5 by Frexcellor",
-         "Informacion": "A medida que te duermes, te encuentras en una horrible pesadilla contra los animatronics Dorman & Friends. \u00bfPuedes sobrevivir?",
-         "Desde": "",
-         "Hasta": "2025/05/25 14:00",
-         "URL": "https://frexcellor.itch.io/dfd5",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Dorman's Attraction: Upgraded and Advanced; DFD 7 by Frexcellor",
-         "Informacion": "Descripci\u00f3n general: la atracci\u00f3n de Dorman es un juego de terror en el que est\u00e1s preparado para sobrevivir a 15 noches en una atracci\u00f3n asesina, \u00a1sobreviviendo a muchos robots diferentes que est\u00e1n listos para matarte!\u00a0Aparte de las 15 noches, tambi\u00e9n hay 6 mini juegos para jugar y un final al final donde debes escapar.",
-         "Desde": "",
-         "Hasta": "2025/05/25 14:00",
-         "URL": "https://frexcellor.itch.io/dormans-attraction",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Ant Download Manager Pro License Giveaway Free 2025",
-         "Informacion": "Ant Download Manager es un administrador de descarga de Internet para cualquier archivo que lo ayude a descargar y administrar el video. Usando este software, puede descargar los archivos de audio, extraer pistas de audio de los archivos de video y luego convertirlos en el formato MP3 popular y agregarles la informaci\u00f3n de acompa\u00f1amiento b\u00e1sica.",
-         "Desde": "",
-         "Hasta": "2025/05/25 15:00",
-         "URL": "https://giveaway.tickcoupon.com/ant-download-manager-pro-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster Android SMS + Contacts Recovery 1 Year Free Key",
-         "Informacion": "Coolmuster Android SMS + Contacts Recovery se encuentra como la soluci\u00f3n definitiva para recuperar sus conversaciones de texto fuera de lugar o borradas y datos de contacto en su dispositivo Android. Esta poderosa herramienta le permite reclamar contactos perdidos y mensajes de texto de la tarjeta de memoria interna y la tarjeta SIM de su dispositivo Android, independientemente de c\u00f3mo se perdieron, ya sea a trav\u00e9s de la eliminaci\u00f3n accidental, las intrusiones de virus, el hardware o el mal funcionamiento, y m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2025/05/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-sms-contacts-recovery/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Vovsoft Batch Image Resizer License Key Free",
-         "Informacion": "Con respecto a un software de resonador y convertidor r\u00e1pido, Vovsoft Batch Image Resizer es probablemente una de las mejores opciones. Se desarrolla para ayudar a los novatos y profesionales a ajustar el tama\u00f1o de la imagen al tiempo que preserva la calidad original de la imagen. El resonador de imagen por lotes admite varios formatos de imagen, incluidos JPEG, BMP, GIF, ICO, PNG, TIFF, WMP y DDS. Adem\u00e1s, ofrece varias opciones de cambio de tama\u00f1o como vecino m\u00e1s cercano, lineal, c\u00fabico o fant\u00e1stico para satisfacer sus necesidades.",
-         "Desde": "",
-         "Hasta": "2025/05/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-batch-image-resizer-key-free/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "eXperiment by Kruk2024",
-         "Informacion": "Juego de terror FPP con luz din\u00e1mica y sombras pero texturas y sombreado estilizados retro.",
-         "Desde": "",
-         "Hasta": "2025/05/26 07:00",
-         "URL": "https://kruk2024.itch.io/experiment",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "VideoProc Converter AI 7",
-         "Informacion": "VideoProc Converter AI es un paquete \u00fanico para mejorar los videos/fotos antiguos, SD y de baja calidad a 4K/8K/10K utilizando los \u00faltimos modelos AI. Adem\u00e1s, puede convertir videos grandes/4K/HD, videos/audios/DVD de transcodificaci\u00f3n, exclusivo, suave, estabilizar, comprimir, editar, descargar y grabar. Aborde los problemas en la calidad del video, los formatos y los tama\u00f1os de archivos con tecnolog\u00eda de aceleraci\u00f3n de hardware de nivel 3.",
-         "Desde": "",
-         "Hasta": "2025/05/26 07:00",
-         "URL": "https://sharewareonsale.com/s/free-videoproc-converter-ai-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
       {
          "Nombre": "Warhammer 40,000: Gladius - Relics of War",
          "Informacion": "Warhammer 40,000: Gladius - Las reliquias de la guerra te llevan a un mundo de terror y violencia. Cuatro facciones participar\u00e1n en una guerra brutal para el dominio sobre los recursos del planeta. En el primer juego de estrategia 4X basado en el turno establecido en Warhammer 40,000, dirigir\u00e1 una de las cuatro facciones \u00fanicas.",
@@ -149,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/489630/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Warhammer 40,000: Mechanicus",
@@ -159,7 +19,7 @@
          "URL": "https://store.steampowered.com/app/673880/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "1000 Missiles by Dancing Dots",
@@ -169,7 +29,7 @@
          "URL": "https://15joldersmat.itch.io/1000-missiles",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
@@ -179,7 +39,7 @@
          "URL": "https://15joldersmat.itch.io/a-dandy-election",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Abstractia by Dancing Dots",
@@ -189,7 +49,7 @@
          "URL": "https://15joldersmat.itch.io/abstractia",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Battle Hell : Hazel! by Dancing Dots",
@@ -199,7 +59,7 @@
          "URL": "https://15joldersmat.itch.io/hazel",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Battle Hell: Arder! by Dancing Dots",
@@ -209,7 +69,7 @@
          "URL": "https://15joldersmat.itch.io/battle-hell-arder",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Battle Hell: Crastle Valley! by Dancing Dots",
@@ -219,7 +79,7 @@
          "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Battle Hell: The Vant by Dancing Dots",
@@ -229,7 +89,7 @@
          "URL": "https://15joldersmat.itch.io/battle-hell-the-vant",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Battle Hell: Tral! by Dancing Dots",
@@ -239,7 +99,7 @@
          "URL": "https://15joldersmat.itch.io/battle-hell-tral",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Bots of Boria by Dancing Dots",
@@ -249,7 +109,7 @@
          "URL": "https://15joldersmat.itch.io/bots-of-boria",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Covens of Xetta by Dancing Dots",
@@ -259,7 +119,7 @@
          "URL": "https://15joldersmat.itch.io/covens-of-xetta",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Duels of The Nombish by Dancing Dots",
@@ -269,7 +129,7 @@
          "URL": "https://15joldersmat.itch.io/duels-of-the-nombish",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Enlightment Now! by Dancing Dots",
@@ -279,7 +139,7 @@
          "URL": "https://15joldersmat.itch.io/enlightment-now",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Everstem by Dancing Dots",
@@ -289,7 +149,7 @@
          "URL": "https://15joldersmat.itch.io/everstem",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Fires of Arder by Dancing Dots",
@@ -299,7 +159,7 @@
          "URL": "https://15joldersmat.itch.io/fires-of-arder",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Gods of Crastle by Dancing Dots",
@@ -309,7 +169,7 @@
          "URL": "https://15joldersmat.itch.io/gods-of-crastle",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "GridSim Evolution by Dancing Dots",
@@ -319,7 +179,7 @@
          "URL": "https://15joldersmat.itch.io/gridsim-evolution",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Isle Of Gibgar by Dancing Dots",
@@ -329,7 +189,7 @@
          "URL": "https://15joldersmat.itch.io/isle-of-gibgar",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Minimperiums by Dancing Dots",
@@ -339,7 +199,7 @@
          "URL": "https://15joldersmat.itch.io/minimperiums",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Orbital Empires by Dancing Dots",
@@ -349,7 +209,7 @@
          "URL": "https://15joldersmat.itch.io/orbital-empires",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "The Very Little Bang by Dancing Dots",
@@ -359,7 +219,7 @@
          "URL": "https://15joldersmat.itch.io/the-very-little-bang",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Veins : Hearts At War by Dancing Dots",
@@ -369,7 +229,7 @@
          "URL": "https://15joldersmat.itch.io/veins",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "War of Ants! by Dancing Dots",
@@ -379,7 +239,7 @@
          "URL": "https://15joldersmat.itch.io/ants",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Wysaddle Tribe Simulator: 2D Spectator Experience by Dancing Dots",
@@ -389,7 +249,7 @@
          "URL": "https://15joldersmat.itch.io/wysaddle",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Zen Space by Dancing Dots",
@@ -397,6 +257,16 @@
          "Desde": "",
          "Hasta": "2025/05/27 02:51",
          "URL": "https://15joldersmat.itch.io/zenspace",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
+      },
+      {
+         "Nombre": "Emily_ by TETRABYTE",
+         "Informacion": "La ai olvidada",
+         "Desde": "",
+         "Hasta": "2025/05/27 14:16",
+         "URL": "https://tetrabyte.itch.io/emily",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -557,6 +427,16 @@
          "Desde": "",
          "Hasta": "2025/05/28 14:00",
          "URL": "https://giveaway.tickcoupon.com/acdsee-luxea-pro-video-editor-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PC Trek Advanced Password Recovery Suite Free Key 2025",
+         "Informacion": "La funci\u00f3n PC Trek Advanced Password Recovery Suite le permite recuperar sus claves de software olvidadas o los detalles de inicio de sesi\u00f3n para los navegadores web m\u00e1s populares, redes inal\u00e1mbricas, administrador de credencial de Windows, correo electr\u00f3nico o clientes FTP. Este software de recuperaci\u00f3n es f\u00e1cil de usar y est\u00e1 lleno de caracter\u00edsticas potentes para ayudarlo a recuperar contrase\u00f1as olvidadas. Seg\u00fan los informes, su velocidad de escaneo y recuperaci\u00f3n es r\u00e1pida. Adem\u00e1s, el software escanea y muestra todas las contrase\u00f1as recuperables sin requerir configuraci\u00f3n compleja o conocimiento t\u00e9cnico.",
+         "Desde": "",
+         "Hasta": "2025/05/28 14:00",
+         "URL": "https://giveaway.tickcoupon.com/pc-trek-advanced-password-recovery-suite-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -1102,31 +982,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Winds and Waters by Yoeri Staal",
-         "Informacion": "\u00a1\u00danete a un elenco de personajes \u00fanicos mientras desentra\u00f1an los misterios del clima y el clima! Desde potentes tormentas hasta el ciclo interminable de agua, explore c\u00f3mo el aire, el calor y la humedad dan forma al mundo que nos rodea. \u00a1Mira los cielos, siente el viento y sum\u00e9rgete en la ciencia del clima!",
-         "Desde": "",
-         "Hasta": "2025/05/31 20:26",
-         "URL": "https://yoeristaal.itch.io/winds-and-waters",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Eureka! - The Golden Stag by Yoeri Staal",
-         "Informacion": "\u00a1Entra en el restaurante Golden Stag, una acogedora aventura educativa sobre comer o comer! \u00danase a Adita en su viaje para abrir un restaurante \u00fanico en su tipo y descubra los secretos de las redes alimentarias en el camino.",
-         "Desde": "",
-         "Hasta": "2025/05/31 20:26",
-         "URL": "https://yoeristaal.itch.io/eureka-golden-stag",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Carved by Time by Yoeri Staal",
          "Informacion": "\u00danase a un elenco de criaturas m\u00e1gicas mientras exploran el impacto de la meteorizaci\u00f3n y la erosi\u00f3n en diversos entornos. \u00a1Desde colinas hasta cuevas impresionantes, descubra c\u00f3mo estas fuerzas naturales dan forma a nuestro mundo!",
          "Desde": "",
          "Hasta": "2025/05/31 20:26",
          "URL": "https://yoeristaal.itch.io/carved-by-time",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eureka! - Black Flag by Yoeri Staal",
+         "Informacion": "\u00a1AHOY! \u00danase a este equipo pirata en su b\u00fasqueda para proteger los ecosistemas fr\u00e1giles.",
+         "Desde": "",
+         "Hasta": "2025/05/31 20:26",
+         "URL": "https://yoeristaal.itch.io/eureka-black-flag",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1142,11 +1012,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Eureka! - Black Flag by Yoeri Staal",
-         "Informacion": "\u00a1AHOY! \u00danase a este equipo pirata en su b\u00fasqueda para proteger los ecosistemas fr\u00e1giles.",
+         "Nombre": "Eureka! - The Golden Stag by Yoeri Staal",
+         "Informacion": "\u00a1Entra en el restaurante Golden Stag, una acogedora aventura educativa sobre comer o comer! \u00danase a Adita en su viaje para abrir un restaurante \u00fanico en su tipo y descubra los secretos de las redes alimentarias en el camino.",
          "Desde": "",
          "Hasta": "2025/05/31 20:26",
-         "URL": "https://yoeristaal.itch.io/eureka-black-flag",
+         "URL": "https://yoeristaal.itch.io/eureka-golden-stag",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Winds and Waters by Yoeri Staal",
+         "Informacion": "\u00a1\u00danete a un elenco de personajes \u00fanicos mientras desentra\u00f1an los misterios del clima y el clima! Desde potentes tormentas hasta el ciclo interminable de agua, explore c\u00f3mo el aire, el calor y la humedad dan forma al mundo que nos rodea. \u00a1Mira los cielos, siente el viento y sum\u00e9rgete en la ciencia del clima!",
+         "Desde": "",
+         "Hasta": "2025/05/31 20:26",
+         "URL": "https://yoeristaal.itch.io/winds-and-waters",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1279,6 +1159,16 @@
          "URL": "https://gamesbyrd.itch.io/incorposcape",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF Password Remover 1 Year Free License Code",
+         "Informacion": "Si ha estado buscando software para descifrar un archivo PDF protegido por contrase\u00f1a durante mucho tiempo, entonces CoolMuster PDF Password Remover podr\u00eda ser la utilidad para darle una mano. CoolMuster PDF Password Remover es un software PDF Password Remover dise\u00f1ado para eliminar contrase\u00f1as de un PDF para editar, copiar o compartir.\u00a0Esta herramienta ofrece dos modos de descifrado: modos de descifrado por lotes y descifrado de clic derecho para ayudarlo a eliminar r\u00e1pidamente las contrase\u00f1as de los archivos PDF de Adobe.",
+         "Desde": "",
+         "Hasta": "2025/06/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -2032,6 +1922,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DOMESTIC FEARS by RosenshineGames",
+         "Informacion": "Probablemente una vez experimentaste miedo cuando estabas en tu propio apartamento, ten\u00edas miedo de los golpes o dudas en la cocina. Bueno, decid\u00ed mostrar estos miedos en la forma de este juego.",
+         "Desde": "",
+         "Hasta": "2025/06/02 02:00",
+         "URL": "https://rosenshinegames.itch.io/domestic-fears",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Bulk Domain Appraisal License Key Free",
+         "Informacion": "\u00bfEst\u00e1 buscando una herramienta que pueda ayudarlo con una evaluaci\u00f3n para sus listas de nombres de dominio? Bueno, la evaluaci\u00f3n del dominio a granel Vovsoft es la herramienta que necesita. Simplemente complete su lista de dominio a granel, entonces esta herramienta calcular\u00e1 f\u00e1cilmente el valor del nombre de dominio con facilidad. Los resultados se pueden exportar a archivos TXT o CSV.",
+         "Desde": "",
+         "Hasta": "2025/06/02 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-bulk-domain-appraisal-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kingshiper Vocal Remover [with AI]",
+         "Informacion": "Kingshiper Vocal Remover es un software de remover vocal AI de primer nivel, que est\u00e1 dise\u00f1ado para separar voces, instrumentos o m\u00fasica de fondo de pistas de audio y video. No importa cu\u00e1n complejos sean sus archivos de audio, Kingshiper Vocal Remover puede ayudarlo a procesarlos en segundos y sin p\u00e9rdida de calidad. Con 3 pasos simples, puede separar las voces de la m\u00fasica e instrumentos de fondo, dej\u00e1ndolo con una pista de audio limpia y n\u00edtida.",
+         "Desde": "",
+         "Hasta": "2025/06/02 07:00",
+         "URL": "https://sharewareonsale.com/s/free-kingshiper-vocal-remover-with-ai-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Fear Assessment by ALEXANDER WISEMAN",
          "Informacion": "El programa de evaluaci\u00f3n del miedo es una prueba especializada desarrollada e implementada por las agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web e informaci\u00f3n en su disco duro.",
          "Desde": "",
@@ -2297,6 +2217,36 @@
          "Desde": "",
          "Hasta": "2025/06/06 20:52",
          "URL": "https://rotheart-games.itch.io/signallost",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Alone Cars by ALL ALONE",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/07 13:12",
+         "URL": "https://aloneall.itch.io/alonecars",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Luna Drive by ALL ALONE",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/07 13:12",
+         "URL": "https://aloneall.itch.io/driftmp",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Allalone by ALL ALONE",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/07 13:12",
+         "URL": "https://aloneall.itch.io/allalone",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2769,6 +2719,16 @@
          "URL": "https://starsystemstudios.itch.io/twig-flipper",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Macxvideo AI License Key Free Download 2025",
+         "Informacion": "MacXvideo AI es un convertidor de video todo en uno con mejora de IA de pr\u00f3xima generaci\u00f3n que utiliza el poder de la inteligencia artificial para transformar sus medios con una impresionante calidad de grado de cine. Esta herramienta de convertidor de video puede convertir videos de baja resoluci\u00f3n en formatos cristalinos de 1080p, 2k o 4K con escala avanzada impulsada por IA. Tambi\u00e9n puede mejorar las velocidades de cuadro, permiti\u00e9ndole aumentar los videos para suavizar los 60 fps o 120 fps, o incluso crear efectos impresionantes de movimiento lento.",
+         "Desde": "",
+         "Hasta": "2025/06/16 00:00",
+         "URL": "https://giveaway.tickcoupon.com/macxvideo-ai-free-license-key-download/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
