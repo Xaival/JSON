@@ -1,416 +1,6 @@
 {
-   "date_update": "26 May 2025 16:02 UTC",
+   "date_update": "28 May 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Warhammer 40,000: Gladius - Relics of War",
-         "Informacion": "Warhammer 40,000: Gladius - Las reliquias de la guerra te llevan a un mundo de terror y violencia. Cuatro facciones participar\u00e1n en una guerra brutal para el dominio sobre los recursos del planeta. En el primer juego de estrategia 4X basado en el turno establecido en Warhammer 40,000, dirigir\u00e1 una de las cuatro facciones \u00fanicas.",
-         "Desde": "",
-         "Hasta": "2025/05/26 10:00",
-         "URL": "https://store.steampowered.com/app/489630/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Warhammer 40,000: Mechanicus",
-         "Informacion": "\u00a1Juega gratis! \u00a1Mechanicus II anunciado! Tome el control de una de las facciones tecnol\u00f3gicamente m\u00e1s avanzadas del Imperio: el Adeptus mec\u00e1nico. En este juego t\u00e1ctico por turnos, cada una de tus decisiones pesar\u00e1 mucho sobre el resultado del conflicto. \u00bfSer\u00e1s bendecido por el Omnissiah?",
-         "Desde": "",
-         "Hasta": "2025/05/26 10:00",
-         "URL": "https://store.steampowered.com/app/673880/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "1000 Missiles by Dancing Dots",
-         "Informacion": "Objetivo: defiende a tu naci\u00f3n de 1000 ataques de misiles enemigos utilizando sistemas antia\u00e9reos (AA).",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/1000-missiles",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "A Dandy Election (Election Sim) by Dancing Dots",
-         "Informacion": "Una elecci\u00f3n dandy, se le encarga obtener puntos de victoria al ganar los estados en el continente dandy. Cada estado contiene ciudades con diferentes valores de poblaci\u00f3n, y el jugador compite con un oponente de la APN para obtener la mayor\u00eda de los votos en estas ciudades. El objetivo es ganar m\u00e1s estados que su oponente aumentando sus n\u00fameros de encuestas en cada ciudad a trav\u00e9s de clics estrat\u00e9gicos.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/a-dandy-election",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Abstractia by Dancing Dots",
-         "Informacion": "Abstractia es un aut\u00f3mata celular simb\u00f3lico donde los s\u00edmbolos evolucionan en una cuadr\u00edcula a trav\u00e9s de reglas aleatorias y aleatorias. Los patrones emergen, cambian y se disuelven a medida que observa, o interviene.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/abstractia",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell : Hazel! by Dancing Dots",
-         "Informacion": "Battle Hell: \u00a1Hazel! Un simulador de guerra de IA: ver c\u00f3mo se desarrollan batallas \u00e9picas en un mundo basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/hazel",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Arder! by Dancing Dots",
-         "Informacion": "Observe c\u00f3mo las ciudades unidas y arder luchan entre s\u00ed en el simulador de guerra de AI-solo.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/battle-hell-arder",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Crastle Valley! by Dancing Dots",
-         "Informacion": "Battle Hell: \u00a1Valle de Crastle! Un simulador de guerra de IA: testigo de las batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/battle-hell-crastle-valley",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: The Vant by Dancing Dots",
-         "Informacion": "Siga el monarquista Vanti defendiendo contra la invasi\u00f3n del Pacto de Defensa Republicana (RDP).",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/battle-hell-the-vant",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Battle Hell: Tral! by Dancing Dots",
-         "Informacion": "Battle Hell: \u00a1Tral! Un simulador de guerra de IA: testigo de las batallas \u00e9picas de IA en un juego de estrategia basado en mosaicos",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/battle-hell-tral",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Bots of Boria by Dancing Dots",
-         "Informacion": "Bots of Boria: una simulaci\u00f3n de part\u00edculas infinitas con un comportamiento emergente \u00fanico",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/bots-of-boria",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Covens of Xetta by Dancing Dots",
-         "Informacion": "Objetivo: Lleve a su aquelarre a la victoria a trav\u00e9s de la conquista o los puntos de victoria.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/covens-of-xetta",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Duels of The Nombish by Dancing Dots",
-         "Informacion": "Domina las calles malas de Gato-Cat: \u00a1convi\u00e9rtete en el \u00faltimo duelista en este tirador de estilo arcade!",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/duels-of-the-nombish",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Enlightment Now! by Dancing Dots",
-         "Informacion": "Sube las plataformas a la iluminaci\u00f3n antes de que grises y mueras.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/enlightment-now",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Everstem by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a Everstem!",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/everstem",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Fires of Arder by Dancing Dots",
-         "Informacion": "Una simulaci\u00f3n en la que estoy trabajando en funci\u00f3n de la lucha contra incendios.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/fires-of-arder",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Gods of Crastle by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a \"Gods of Crastle\" el reino de la guerra santa donde llevas a los adoradores de tu culto a la victoria! Participe en batallas \u00e9picas y una construcci\u00f3n estrat\u00e9gica, mientras se esfuerza por conquistar la tierra de Crastle y establecer su dominio.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/gods-of-crastle",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "GridSim Evolution by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a Gridsim Evolution! Una colecci\u00f3n de sims de evoluci\u00f3n con aut\u00f3mata celular.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/gridsim-evolution",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Isle Of Gibgar by Dancing Dots",
-         "Informacion": "Sum\u00e9rgete en el cautivador mundo de la Isla de Gibgar. Experimente los complejos comportamientos e interacciones de criaturas \u00fanicas conocidas como Gibgars, cada una con formas y colores distintos.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/isle-of-gibgar",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Minimperiums by Dancing Dots",
-         "Informacion": "** Minimperios 1.0 - Una simulaci\u00f3n de guerra de IA **",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/minimperiums",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Orbital Empires by Dancing Dots",
-         "Informacion": "Observe c\u00f3mo las facciones de IA luchan por el control de la galaxia.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/orbital-empires",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "The Very Little Bang by Dancing Dots",
-         "Informacion": "Al principio, hab\u00eda ... guerra !!!",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/the-very-little-bang",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Veins : Hearts At War by Dancing Dots",
-         "Informacion": "Veins es un juego inactivo minimalista s\u00faper simple. Observe c\u00f3mo los corazones de color bombean y luchan por el control de la pantalla mientras extienden sus vastas redes de venas invasivas.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/veins",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "War of Ants! by Dancing Dots",
-         "Informacion": "Juego de simulaci\u00f3n de hormigas",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/ants",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Wysaddle Tribe Simulator: 2D Spectator Experience by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a los bosques de Wysaddle!",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/wysaddle",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Zen Space by Dancing Dots",
-         "Informacion": "Una vida de part\u00edculas b\u00e1sica en 3D. Cada part\u00edcula sigue reglas sobre la gravedad y la conversi\u00f3n. Esto lleva a un comportamiento interesante y emergente.",
-         "Desde": "",
-         "Hasta": "2025/05/27 02:51",
-         "URL": "https://15joldersmat.itch.io/zenspace",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Emily_ by TETRABYTE",
-         "Informacion": "La ai olvidada",
-         "Desde": "",
-         "Hasta": "2025/05/27 14:16",
-         "URL": "https://tetrabyte.itch.io/emily",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "EaseUS Data Recovery Wizard Pro 1-Year Free Code",
-         "Informacion": "El asistente de recuperaci\u00f3n de datos de facilus es un software de recuperaci\u00f3n de datos de disco duro completamente seguro y efectivo que proporciona soluciones confiables de recuperaci\u00f3n de datos para guardar todo tipo de escenarios de p\u00e9rdida de datos. Le permite recuperar tipos ilimitados de archivos de una PC/port\u00e1til, disco duro, partici\u00f3n perdida o sin procesar, unidad USB, tarjeta de memoria, c\u00e1mara digital, reproductor de m\u00fasica u otros dispositivos de almacenamiento.",
-         "Desde": "",
-         "Hasta": "2025/05/27 15:00",
-         "URL": "https://giveaway.tickcoupon.com/easeus-data-recovery-wizard-pro-key-free/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu auto se descompone.",
-         "Desde": "",
-         "Hasta": "2025/05/27 19:23",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
-         "Desde": "",
-         "Hasta": "2025/05/27 19:23",
-         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Banana Clicker \u00e2\u0080\u0093 Join the Fun! \u00f0\u009f\u008d\u008c by PAUL'S",
-         "Informacion": "\u00a1Clicker de pl\u00e1tano \u00e2 \u00danase a la diversi\u00f3n! \u00f0",
-         "Desde": "",
-         "Hasta": "2025/05/27 20:43",
-         "URL": "https://pauls-games.itch.io/banana-clicker",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Bedrot by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/28 02:00",
-         "URL": "https://liminace.itch.io/bedrot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cabin Fever!!! by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/28 02:00",
-         "URL": "https://liminace.itch.io/cabin-fever",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Exorcize Me by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/28 02:00",
-         "URL": "https://liminace.itch.io/exorcize-me",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
-         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
-         "Desde": "",
-         "Hasta": "2025/05/28 02:00",
-         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
-         "Informacion": "Aunque est\u00e1s acostumbrado al caos que viene con el trabajo de detectives, este caso definitivamente toma el pastel para \"el caso m\u00e1s extra\u00f1o en el que he trabajado\".",
-         "Desde": "",
-         "Hasta": "2025/05/28 02:00",
-         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Fushimi Momoyama Castle by Puzzle Box Island",
-         "Informacion": "Viajes: el castillo de Fushimi Momoyama ofrece una oportunidad \u00fanica para explorar este impresionante jard\u00edn sin salir de la comodidad de casa. En esta experiencia en 3-D, cualquiera puede explorar los terrenos del castillo a su propio ritmo.\u00a0 Esta gira incluye comentarios informativos que explican la historia, la cultura y las caracter\u00edsticas \u00fanicas del \u00e1rea, mejorando la comprensi\u00f3n y apreciaci\u00f3n del espectador de la historia japonesa.\u00a0Si bien nada puede reemplazar la experiencia de visitar en persona, los viajes virtuales sirven como una herramienta valiosa para conectar a las personas con las maravillas del mundo.",
-         "Desde": "",
-         "Hasta": "2025/05/28 03:31",
-         "URL": "https://puzzle-box-island.itch.io/fushimi-momoyama-castle",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Positano Italy by Puzzle Box Island",
-         "Informacion": "Viajes: Positano, Italia, ofrece una oportunidad \u00fanica para explorar este impresionante pueblo costero sin salir de la comodidad del hogar. Conocido por sus acantilados, casas coloridas y vistas impresionantes del mar Mediterr\u00e1neo, Positano se ha convertido en un destino popular para los viajeros de todo el mundo.  Es posible que muchas personas no tengan el tiempo, el dinero o la capacidad de viajar a Italia en persona. En esta experiencia 3-D, cualquiera puede explorar la belleza de Positano a su propio ritmo. Admire las vistas panor\u00e1micas de la costa.\u00a0Esta gira incluye comentarios informativos que explican la historia, la cultura y las caracter\u00edsticas \u00fanicas del \u00e1rea, mejorando la comprensi\u00f3n y apreciaci\u00f3n del espectador de positano.  Si bien nada puede reemplazar la experiencia de visitar en persona, los viajes virtuales sirven como una herramienta valiosa para conectar a las personas con las maravillas del mundo.",
-         "Desde": "",
-         "Hasta": "2025/05/28 03:31",
-         "URL": "https://puzzle-box-island.itch.io/positano-italy",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Puzzle Box Island by Puzzle Box Island",
-         "Informacion": "Este juego de aventuras de rompecabezas de punto y clic de 90 \"S lleva a los jugadores a un viaje nost\u00e1lgico a trav\u00e9s de una isla principal compuesta por cuatro mundos \u00fanicos.",
-         "Desde": "",
-         "Hasta": "2025/05/28 03:31",
-         "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Lost Arctic by Puzzle Box Island",
-         "Informacion": "Este es el Cap\u00edtulo 1 y 2 de un viaje que explora el \u00c1rtico para encontrar una civilizaci\u00f3n perdida.",
-         "Desde": "",
-         "Hasta": "2025/05/28 03:31",
-         "URL": "https://puzzle-box-island.itch.io/the-lost-arctic",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "EXIF-CLEANER 2025",
-         "Informacion": "\u00a1Elimina la informaci\u00f3n de la imagen EXIF \u200b\u200bde uno o m\u00e1s archivos de imagen o gr\u00e1ficos de una sola vez!",
-         "Desde": "",
-         "Hasta": "2025/05/28 07:00",
-         "URL": "https://sharewareonsale.com/s/abylonsoft-exif-cleaner-giveaway-coupon-sale",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "At Sixes And Sevens by Worst Event Games, MetaMagicShaman",
          "Informacion": "",
@@ -419,7 +9,7 @@
          "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "ACDSee LUXEA Pro Video Editor License Key Free",
@@ -429,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/acdsee-luxea-pro-video-editor-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "PC Trek Advanced Password Recovery Suite Free Key 2025",
@@ -439,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/pc-trek-advanced-password-recovery-suite-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "LET GO OF YOUR SINS by DDM GAMES",
@@ -449,7 +39,7 @@
          "URL": "https://ddm-games.itch.io/let-go-of-your-sins",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
       },
       {
          "Nombre": "Sticky Password for Mac License Key Free 2025",
@@ -459,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/get-sticky-password-key-for-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Sticky Password Premium 1-Year License Code Free 2025",
@@ -469,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Coolmuster Data Erasure 1 Year License Key Free",
@@ -479,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-data-erasure-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "700 Massive Photo Overlays Bundle",
@@ -489,7 +79,17 @@
          "URL": "https://sharewareonsale.com/s/free-700-massive-photo-overlays-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Allavsoft",
+         "Informacion": "Descargar y convertir videos para ver fuera de l\u00ednea",
+         "Desde": "",
+         "Hasta": "2025/05/29 09:00",
+         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Deliver At All Costs",
@@ -557,6 +157,16 @@
          "Desde": "",
          "Hasta": "2025/05/30 07:00",
          "URL": "https://sharewareonsale.com/s/free-android-password-recovery-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FoneTool Unlocker Pro",
+         "Informacion": "Fonetool Unlocker Pro ofrece una soluci\u00f3n integral para administrar el acceso al dispositivo Apple, especialmente \u00fatil para iPhones usados \u200b\u200bo cuando se olvidan las credenciales. Empodera a los usuarios eliminar la identificaci\u00f3n de Apple sin contrase\u00f1a y restablecer las limitaciones de tiempo de pantalla sin p\u00e9rdida de datos. Una caracter\u00edstica destacada es su capacidad para eliminar el cifrado de copia de seguridad de iTunes, lo que permite nuevas copias de seguridad libres de la restricci\u00f3n de contrase\u00f1a original. Su amplia aplicabilidad lo hace valioso tanto para los profesionales de TI como para los usuarios cotidianos.",
+         "Desde": "",
+         "Hasta": "2025/05/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-fonetool-unlocker-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -777,6 +387,16 @@
          "Desde": "",
          "Hasta": "2025/05/31 07:00",
          "URL": "https://towi-1.itch.io/speed-of-life-3d",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/05/31 07:00",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1152,16 +772,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "IncorpoScape by gamesbyrd",
-         "Informacion": "Juegas con el mouse y el teclado.",
-         "Desde": "",
-         "Hasta": "2025/06/01 00:00",
-         "URL": "https://gamesbyrd.itch.io/incorposcape",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Coolmuster PDF Password Remover 1 Year Free License Code",
          "Informacion": "Si ha estado buscando software para descifrar un archivo PDF protegido por contrase\u00f1a durante mucho tiempo, entonces CoolMuster PDF Password Remover podr\u00eda ser la utilidad para darle una mano. CoolMuster PDF Password Remover es un software PDF Password Remover dise\u00f1ado para eliminar contrase\u00f1as de un PDF para editar, copiar o compartir.\u00a0Esta herramienta ofrece dos modos de descifrado: modos de descifrado por lotes y descifrado de clic derecho para ayudarlo a eliminar r\u00e1pidamente las contrase\u00f1as de los archivos PDF de Adobe.",
          "Desde": "",
@@ -1169,6 +779,16 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "IncorpoScape by gamesbyrd",
+         "Informacion": "Juegas con el mouse y el teclado.",
+         "Desde": "",
+         "Hasta": "2025/06/01 00:00",
+         "URL": "https://gamesbyrd.itch.io/incorposcape",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1922,6 +1542,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster PDF to ePub Converter 1 Year License Code Free",
+         "Informacion": "Para ayudarlo a convertir los archivos PDF en formato EPUB, CoolMuster PDF a EPUB Converter es un programa de convertidor PDF f\u00e1cil de usar e intuitivo. El software maneja el procedimiento de conversi\u00f3n sin ning\u00fan problema, preservando el dise\u00f1o original, las fuentes y los gr\u00e1ficos para una apariencia pulida. Todos los niveles de usuarios pueden acceder a \u00e9l debido a la interfaz de usuario f\u00e1cil de usar e intuitiva.",
+         "Desde": "",
+         "Hasta": "2025/06/02 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-epub-converter-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "DOMESTIC FEARS by RosenshineGames",
          "Informacion": "Probablemente una vez experimentaste miedo cuando estabas en tu propio apartamento, ten\u00edas miedo de los golpes o dudas en la cocina. Bueno, decid\u00ed mostrar estos miedos en la forma de este juego.",
          "Desde": "",
@@ -2029,6 +1659,16 @@
          "URL": "https://hakemorddev.itch.io/hakemord",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Audials Vision 2025 with Artificial Intelligence",
+         "Informacion": "Mejorar videos con el poder de la inteligencia artificial",
+         "Desde": "",
+         "Hasta": "2025/06/04 07:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-vision-2025-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -2222,6 +1862,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Allalone by ALL ALONE",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/07 13:12",
+         "URL": "https://aloneall.itch.io/allalone",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Alone Cars by ALL ALONE",
          "Informacion": "",
          "Desde": "",
@@ -2237,16 +1887,6 @@
          "Desde": "",
          "Hasta": "2025/06/07 13:12",
          "URL": "https://aloneall.itch.io/driftmp",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Allalone by ALL ALONE",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/06/07 13:12",
-         "URL": "https://aloneall.itch.io/allalone",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2789,6 +2429,26 @@
          "URL": "https://giveaway.tickcoupon.com/flashboot-pro-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dusty Tale 1.5 by crisPlease",
+         "Informacion": "La acci\u00f3n tiene lugar en un mundo t\u00f3xico post-apocal\u00edptico, lleno de mutantes peligrosos y los restos de una civilizaci\u00f3n marchita enterrada en pilas de chatarra. Despu\u00e9s de elegir a tu personaje, participar\u00e1s en batallas interminables entre dos bandas.",
+         "Desde": "",
+         "Hasta": "2025/06/25 23:00",
+         "URL": "https://crisplease.itch.io/dusty-tale-1x5",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dusty Tale 1.4 by crisPlease",
+         "Informacion": "La acci\u00f3n tiene lugar en un mundo t\u00f3xico post-apocal\u00edptico, lleno de mutantes peligrosos y los restos de una civilizaci\u00f3n marchita enterrada en pilas de chatarra. Despu\u00e9s de elegir a tu personaje, participar\u00e1s en batallas interminables entre dos bandas.",
+         "Desde": "",
+         "Hasta": "2025/06/25 23:00",
+         "URL": "https://crisplease.itch.io/dusty-tale-1x4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
