@@ -1,1026 +1,6 @@
 {
-   "date_update": "31 May 2025 16:04 UTC",
+   "date_update": "01 Jun 2025 16:04 UTC",
    "values": [
-      {
-         "Nombre": "Board Heroes by Tommy Beaver",
-         "Informacion": "Board Heroes es un juego de mesa en un formato de juego de computadora.",
-         "Desde": "",
-         "Hasta": "2025/05/31 09:20",
-         "URL": "https://tommy-beaver.itch.io/board-heroes",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Hamle by Tommy Beaver",
-         "Informacion": "\u00a1ADVERTENCIA! El juego contiene violencia, sangre y sangre de p\u00edxeles.",
-         "Desde": "",
-         "Hasta": "2025/05/31 09:20",
-         "URL": "https://tommy-beaver.itch.io/hamle",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Horror Fan House by Pizza & Games",
-         "Informacion": "Hecho en Unity, una breve aventura de terror para el fan\u00e1tico del horror m\u00e1s valiente.",
-         "Desde": "",
-         "Hasta": "2025/05/31 12:57",
-         "URL": "https://pizzaandgames.itch.io/horror-fan-house",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "BackRooms With Sahur by Noido Games",
-         "Informacion": "En este tenso y misterioso juego de terror de escape, los jugadores deben recolectar elementos cruciales y encontrar la salida del laberinto interminable de las trastienda, todo mientras evita Sahur, una entidad aterradora que deambula implacablemente los pasillos.",
-         "Desde": "",
-         "Hasta": "2025/05/31 16:50",
-         "URL": "https://noido-games.itch.io/backroom-with-sahur",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Astral Evolution by AlltheturtlesGames",
-         "Informacion": "Toda tu flota fue aniquilada por un ej\u00e9rcito aparentemente interminable de extraterrestres. Eres el \u00fanico barco restante, luchando contra miles de enemigos. \u00bfPuedes derrotar a Swarms of Aliens para obtener las actualizaciones que necesitar\u00e1s para regresar a casa?\u00a0Actualmente hay 10 niveles, incluidos una pelea interminable, un jefe y un tutorial con muchos m\u00e1s en camino, 3 enemigos \u00fanicos y 5 armas desbloqueables. Gana monedas y XP derrotando niveles para mejorar tu cohete y sus armas.",
-         "Desde": "",
-         "Hasta": "2025/05/31 16:52",
-         "URL": "https://alltheturtlesgames.itch.io/astralevolutions",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Glowgon by AlltheturtlesGames",
-         "Informacion": "El efecto de brillo en el que se basa este juego no funciona en la web en Godot 4.3. Solo tengo la versi\u00f3n del navegador disponible porque puede ser dif\u00edcil descargar juegos, pero si puede, intente.",
-         "Desde": "",
-         "Hasta": "2025/05/31 16:52",
-         "URL": "https://alltheturtlesgames.itch.io/glowgon",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Sheris ROOM by KittyCreamPuff",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/31 17:00",
-         "URL": "https://kittycreampuff.itch.io/sheris-room",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "False Awakening by TerrorTalesProductions",
-         "Informacion": "Te despiertas ... pero algo anda mal. Esta no es tu habitaci\u00f3n. Las paredes cambian, el cielo sangra rojo y los susurros se arrastran a trav\u00e9s de la oscuridad. Est\u00e1s atrapado en una pesadilla un laberinto de recuerdos retorcidos y horrores al acecho.",
-         "Desde": "",
-         "Hasta": "2025/05/31 20:10",
-         "URL": "https://terrortalesproductions.itch.io/false-awakening",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Carved by Time by Yoeri Staal",
-         "Informacion": "\u00danase a un elenco de criaturas m\u00e1gicas mientras exploran el impacto de la meteorizaci\u00f3n y la erosi\u00f3n en diversos entornos. \u00a1Desde colinas hasta cuevas impresionantes, descubra c\u00f3mo estas fuerzas naturales dan forma a nuestro mundo!",
-         "Desde": "",
-         "Hasta": "2025/05/31 20:26",
-         "URL": "https://yoeristaal.itch.io/carved-by-time",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Black Flag by Yoeri Staal",
-         "Informacion": "\u00a1AHOY! \u00danase a este equipo pirata en su b\u00fasqueda para proteger los ecosistemas fr\u00e1giles.",
-         "Desde": "",
-         "Hasta": "2025/05/31 20:26",
-         "URL": "https://yoeristaal.itch.io/eureka-black-flag",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - Dr. Punnett by Yoeri Staal",
-         "Informacion": "\u00danase a Montana en su viaje para descubrir los secretos de los rasgos heredados y encuentre al misterioso Dr. Punnett. Haga clic en su camino a trav\u00e9s de pistas y descubra la verdad sobre los rasgos en los animales.",
-         "Desde": "",
-         "Hasta": "2025/05/31 20:26",
-         "URL": "https://yoeristaal.itch.io/eureka-dr-punnett",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "Eureka! - The Golden Stag by Yoeri Staal",
-         "Informacion": "\u00a1Entra en el restaurante Golden Stag, una acogedora aventura educativa sobre comer o comer! \u00danase a Adita en su viaje para abrir un restaurante \u00fanico en su tipo y descubra los secretos de las redes alimentarias en el camino.",
-         "Desde": "",
-         "Hasta": "2025/05/31 20:26",
-         "URL": "https://yoeristaal.itch.io/eureka-golden-stag",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "Winds and Waters by Yoeri Staal",
-         "Informacion": "\u00a1\u00danete a un elenco de personajes \u00fanicos mientras desentra\u00f1an los misterios del clima y el clima! Desde potentes tormentas hasta el ciclo interminable de agua, explore c\u00f3mo el aire, el calor y la humedad dan forma al mundo que nos rodea. \u00a1Mira los cielos, siente el viento y sum\u00e9rgete en la ciencia del clima!",
-         "Desde": "",
-         "Hasta": "2025/05/31 20:26",
-         "URL": "https://yoeristaal.itch.io/winds-and-waters",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "[Whispers in the Dark] Burger Shop by JML Studio",
-         "Informacion": "\u00a1Hamburguesas!",
-         "Desde": "",
-         "Hasta": "2025/05/31 21:08",
-         "URL": "https://jmlgamestudio.itch.io/whispers-in-the-dark-burger-shop",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "[Whispers in the Dark] Trailer Park by JML Studio",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/31 21:08",
-         "URL": "https://jmlgamestudio.itch.io/trailer-park",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "Color Brothers by MuneerSbehat",
-         "Informacion": "\u00a1Un juego de rompecabezas divertido donde tu objetivo es llegar a la salida con el mismo color a juego! Sin embargo, tenga cuidado, solo puede tocar los mismos bloques de color que usted. \u00a1Salta, recoge pernos de colores para ayudar a completar el nivel y evitar enemigos de nubes que intentan matarte!",
-         "Desde": "",
-         "Hasta": "2025/05/31 21:11",
-         "URL": "https://muneersbehat.itch.io/color-brothers1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "Trap Adventure: Color Brothers by MuneerSbehat",
-         "Informacion": "Seis hermanos y una hermana. La hermana Dodo fue secuestrada por Cloud Enemy. Trate de salvarla. \u00a1Un juego de trampa divertido donde su objetivo es llegar a la salida con el mismo color a juego, cada personaje tiene un poder diferente! Sin embargo, ten cuidado, \u00a1solo puedes tocar los mismos bloques de color que eres. \u00a1Saludando, vuela, cambia la gravedad para ayudar a completar el nivel y evitar las nubes y los enemigos que intentan matarte!- Gr\u00e1ficos bellamente renderizados que har\u00e1n que tu coraz\u00f3n cantar\u00e1, nunca se van a morir, buenos sentimientos garantizados mientras juegas y otra vez, \u00a1pero son agradables bulliciosas, todos los que les encantan los finales, los fragmentos garantizados",
-         "Desde": "",
-         "Hasta": "2025/05/31 21:11",
-         "URL": "https://muneersbehat.itch.io/trapadventurecolorbrothers",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "me mostre sonhos doces by Meiri, \u00e4\u00bf\u008a",
-         "Informacion": "ADVERTENCIA DEL CONTENIDO: Eyera, violencia impl\u00edcita, muerte, uso de sustancias, suicidio impl\u00edcito",
-         "Desde": "",
-         "Hasta": "2025/05/31 22:10",
-         "URL": "https://meiri.itch.io/sonhos-doces",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "My GF Doesn't Know What I'm Into by Meiri",
-         "Informacion": "*Este juego contiene contenido que algunos jugadores pueden encontrar inquietantes, como descripciones de sangre y violencia. Adem\u00e1s, las opiniones y comportamientos expresados \u200b\u200bpor los personajes no est\u00e1n respaldados por el desarrollador.\u00a0 Se recomienda la discreci\u00f3n del jugador. *",
-         "Desde": "",
-         "Hasta": "2025/05/31 22:10",
-         "URL": "https://meiri.itch.io/mygf",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "MyGF: Another Episode by Meiri",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/05/31 22:10",
-         "URL": "https://meiri.itch.io/mygf-another",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Someone to Hold Me by Meiri",
-         "Informacion": "ADVERTENCIA DE CONTENIDO: Afobia informal e internalizada, toque y besos no deseos, misofon\u00eda",
-         "Desde": "",
-         "Hasta": "2025/05/31 22:10",
-         "URL": "https://meiri.itch.io/holdme",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "BRUD by Splif",
-         "Informacion": "\u00bfQuieres saber qu\u00e9 pas\u00f3 en Ucrania, Nadvirna en 1999?",
-         "Desde": "",
-         "Hasta": "2025/05/31 23:00",
-         "URL": "https://splif404.itch.io/brud",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Carrot Overload by Galoxyum",
-         "Informacion": "historia :",
-         "Desde": "",
-         "Hasta": "2025/05/31 23:59",
-         "URL": "https://galoxyum.itch.io/projectco",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Omega No Sunshine 2 by Galoxyum",
-         "Informacion": "Omega No Sunshine es un juego Arcade/Collecthaton/Exploration. Eres uno de los pocos anillos del sol, \u00a1este es tu viaje que comienza en este momento!",
-         "Desde": "",
-         "Hasta": "2025/05/31 23:59",
-         "URL": "https://galoxyum.itch.io/omega-no-sunshine-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Sepan and the Seven Flasks by PicMid",
-         "Informacion": "Juego de idiomas: en, FR",
-         "Desde": "",
-         "Hasta": "2025/05/31 23:59",
-         "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Password Remover 1 Year Free License Code",
-         "Informacion": "Si ha estado buscando software para descifrar un archivo PDF protegido por contrase\u00f1a durante mucho tiempo, entonces CoolMuster PDF Password Remover podr\u00eda ser la utilidad para darle una mano. CoolMuster PDF Password Remover es un software PDF Password Remover dise\u00f1ado para eliminar contrase\u00f1as de un PDF para editar, copiar o compartir.\u00a0Esta herramienta ofrece dos modos de descifrado: modos de descifrado por lotes y descifrado de clic derecho para ayudarlo a eliminar r\u00e1pidamente las contrase\u00f1as de los archivos PDF de Adobe.",
-         "Desde": "",
-         "Hasta": "2025/06/01 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "IncorpoScape by gamesbyrd",
-         "Informacion": "Juegas con el mouse y el teclado.",
-         "Desde": "",
-         "Hasta": "2025/06/01 00:00",
-         "URL": "https://gamesbyrd.itch.io/incorposcape",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Room of Secrets by Komodroid New Zealand",
-         "Informacion": "Room of Secrets es un emocionante juego de sala de escape donde el jugador se despierta secuestrado dentro de una casa misteriosa. Para escapar, debe explorar cada habitaci\u00f3n, descubrir secretos ocultos y resolver rompecabezas desafiantes, desde los c\u00f3digos de teclado de agrietamiento hasta la combinaci\u00f3n de objetos misteriosos. Use su ingenio y estrategia para encontrar una salida antes de que se agote el tiempo.",
-         "Desde": "",
-         "Hasta": "2025/06/01 01:04",
-         "URL": "https://komodroidnz.itch.io/room-of-secrets",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 33%, yellow 33%) 1;"
-      },
-      {
-         "Nombre": "WinToUSB Professional 1-Year License Key Free",
-         "Informacion": "Wintousb Professional le permite instalar y ejecutar una ventana completamente funcional en un disco duro externo, unidad flash USB o tracci\u00f3n Thunderbolt. Puede crear f\u00e1cilmente su primer Windows 10/8/7 port\u00e1til directamente desde un ISO, WIM, ESD, SWM, VHD, VHDX IMAGE o unidad CD/DVD, o puede usarlo para clonar la instalaci\u00f3n existente de Windows OS (Windows 7 o posterior) a la unidad USB o Thunderbolt como ventanas port\u00e1tiles con solo unos pocos pasos simples. Adem\u00e1s, Wintousb tambi\u00e9n admite la creaci\u00f3n de unidades Flash USB de instalaci\u00f3n de Windows desde Windows 10/8/7/2019/2016/2012/2010/2008 R2 Instalaci\u00f3n ISO Archivo, con \u00e9l puede instalar f\u00e1cilmente Windows desde la unidad flash USB.",
-         "Desde": "",
-         "Hasta": "2025/06/01 03:00",
-         "URL": "https://giveaway.tickcoupon.com/wintousb-professional-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 25%, yellow 25%) 1;"
-      },
-      {
-         "Nombre": "BALL GAME by Bouncing Dragon Games",
-         "Informacion": "Un juego basado en altos en alto escrito inspirado en el logotipo de CD de rebotar mientras rebota en la pantalla. \u00a1En este juego, debes usar la barra espacial para cambiar aleatoriamente la direcci\u00f3n de la pelota y evitar los cuadrados mortales y coloridos!",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:35",
-         "URL": "https://bouncing-dragon-games.itch.io/ball-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "KILBUG by Bouncing Dragon Games",
-         "Informacion": "INSTRUCCIONES:",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:35",
-         "URL": "https://bouncing-dragon-games.itch.io/kilbug",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "Kingdom Clicker by Bouncing Dragon Games",
-         "Informacion": "Un juego de estilo arcade que se vuelve progresivamente m\u00e1s dif\u00edcil. Correr contra un temporizador para cada criatura e intente hacer clic en su salud y recuperarlos en su zool\u00f3gico.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:35",
-         "URL": "https://bouncing-dragon-games.itch.io/kingdom-clicker",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "RATAWAY by Bouncing Dragon Games",
-         "Informacion": "Un juego en el que puedes contener 2 art\u00edculos en tu inventario que debes vender a su h\u00e9roe. Debe recolectar m\u00e1s art\u00edculos para devolver al h\u00e9roe todo su equipo y ellos le pagar\u00e1n por cada equipo despu\u00e9s de que hayan recuperado los suyos.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:35",
-         "URL": "https://bouncing-dragon-games.itch.io/rataway",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "ROGUE MARKET by Bouncing Dragon Games",
-         "Informacion": "Rouge Market es un Roguelike de acciones \u00fanica donde cada decisi\u00f3n cuenta y el mercado es tan impredecible como un rollo de dados. Compre y venda acciones en tiempo real, navegando olas de eventos vol\u00e1tiles, bancarrotas sorpresa y cambios econ\u00f3micos repentinos. Con cada ejecuci\u00f3n, descubra nuevas empresas y agr\u00e9guelas a su stockdex, un cat\u00e1logo din\u00e1mico que rastrea acciones descubiertas en categor\u00edas como petr\u00f3leo, automotriz, energ\u00eda, medios y espacio. Dise\u00f1ado con controles minimalistas, Rouge Market est\u00e1 completamente impulsado por el mouse, lo que le permite concentrarse en la estrategia, el tiempo y la supervivencia en el campo de batalla financiero siempre cambiante. \u00bfCu\u00e1nto tiempo puedes permanecer en el green?",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:35",
-         "URL": "https://bouncing-dragon-games.itch.io/rouge-market",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "SHWOOP! by Bouncing Dragon Games",
-         "Informacion": "Este juego contiene 10 niveles, moverse alrededor del nivel colocando puntos de movimiento mientras gu\u00edas tu barco al portal verde y evitas a tus enemigos. Con controles f\u00e1ciles del mouse, estar\u00e1s en cierre por el nivel en poco tiempo, evitando a los malos y volando a una nueva galaxia. \u00bfDe qu\u00e9 podr\u00edas estar volando? Eso depende de ti, \u00a1buena suerte!",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:35",
-         "URL": "https://bouncing-dragon-games.itch.io/shwoop",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
-      },
-      {
-         "Nombre": "157 com poderes 2 by Carlos Junior",
-         "Informacion": "El mejor juego de mundo abierto con poderes",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/157-com-poderes-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "157 com poderes by Carlos Junior",
-         "Informacion": "157 con Powers es un juego de mundo abierto donde el personaje principal tiene superpoderes, en este juego para divertirse mucho en el mundo abierto y tambi\u00e9n para hacer Miss\u00e3s, un juego muy divertido para un pa\u00f1uelo.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/157-com-poderes",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "atirador de elite by Carlos Junior",
-         "Informacion": "El juego de tiradores de \u00e9lite es un juego de tiro, cuyo objetivo es sobrevivir 90 segundos para pasar la fase, con cada fase que pasa el juego es m\u00e1s dif\u00edcil",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/atirador-de-elite",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "brazil truck jr by Carlos Junior",
-         "Informacion": "El mejor juego de simulador de juego",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/brazil-truck-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "brick breaker jr by Carlos Junior",
-         "Informacion": "Este juego tiene como objetivo pasar a los 10 fabricantes, logrando destruir todos los objetos de los nobles para ir",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/brick-breaker-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "ca\u00c3\u00a7a ao monstro verde by Carlos Junior",
-         "Informacion": "El juego tiene como objetivo destruir a todos los enemigos que son monstruos verdes",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/caa-ao-monstro-verde",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "ca\u00c3\u00a7a zumbi 2 by Carlos Junior",
-         "Informacion": "Survival FPS ambientado con zombis y soldados.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/caa-zumbi-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "ca\u00c3\u00a7a zumbi by Carlos Junior",
-         "Informacion": "Juego de disparos y supervivencia contra Zombie.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/caca-zumbi",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "ca\u00c3\u00a7adoras de tesouros by Carlos Junior",
-         "Informacion": "Es un juego de RPG basado en batallas de turnos, tiene una historia hermosa y cautivadora con formas desafiantes.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/caadoras-de-tesouros",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "cobran\u00c3\u00a7a de faltas JR by Carlos Junior",
-         "Informacion": "juego de patadas libres, entrenar y ser el mejor",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/cobrana-de-faltas-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "corrida das sombras Mortais by Carlos Junior",
-         "Informacion": "Es un juego de carreras de sombra muy divertido, correr infinitamente o morir",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/corrida-dassombrasmortais",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Damn smart zombies by Carlos Junior",
-         "Informacion": "El mejor juego de zombie 3D con excelentes gr\u00e1ficos, est\u00e1s en una isla zombie y tienes que encontrar una manera de sobrevivir y escapar de la isla",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/daw",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "estacione o vehiculo by Carlos Junior",
-         "Informacion": "En este juego tienes que estacionar el veh\u00edculo con Perfect, hay varias fases, tiene un autom\u00f3vil, cami\u00f3n y autob\u00fas para que estaciones.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/estacione-o-vehiculo",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "final lutador de rua by Carlos Junior",
-         "Informacion": "El juego es muy bueno es un modo de Historia de la Lucha de la lucha contiene 10 fases",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/final-lutador-de-rua",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Fps jr multiplayer by Carlos Junior",
-         "Informacion": "El multijugador FPS JR es un juego de FPS multijugador local con hermoso grano.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/fps-jr-multiplayer",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "futebol de bot\u00c3\u00a3o JR by Carlos Junior",
-         "Informacion": "Botan Football Game.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/futebol-de-boto-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Futebol e Basquete JR by Carlos Junior",
-         "Informacion": "Un juego de f\u00fatbol y baloncesto juntos.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/futebol-e-basquete-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Gladiator Battle cards by Carlos Junior",
-         "Informacion": "juego de cartas con sistema de batalla y revolucionario",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/gladiator-battlecard",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Golf brazil junior by Carlos Junior",
-         "Informacion": "Es un juego de golf con obst\u00e1culos el gol y pasar los obst\u00e1culos y golpear la pelota en el hoyo, el juego contiene 20 falsificaciones",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/golf-brazil-junior",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Guerra entre times by Carlos Junior",
-         "Informacion": "La guerra entre equipos es un juego en el que 2 equipos enfrentan su objetivo es eliminar a todos sus enemigos con su equipo.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/guerra-entre-times",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Guerreiros de f\u00c3\u00a9 by Carlos Junior",
-         "Informacion": "Juego de RPG 2d con batallas de turno, un juego muy bueno y rico rico en un incre\u00edble juego de RPG, mostrarte, si puedes hacerlo.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/guerreiros-de-f",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Guerreiros do apocalipse by Carlos Junior",
-         "Informacion": "Es un juego de rol incre\u00edble, con mapas de varios, monstruos y equipos de vanies con una muy bonita historia.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-apocalipse",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "guerreiros do drag\u00c3\u00a3o by Carlos Junior",
-         "Informacion": "Un juego de RPG con varios monstruos, su objetivo es hacer todas las misiones para terminar con el mal y alcanzar el nivel m\u00e1ximo con todos los equipos posibles",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/guerreiros-do-drago",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "infinite Runner JR Games by Carlos Junior",
-         "Informacion": "Varios juegos de corredores infinitos en un juego.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/infinite-runner-jr-games",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "JR arcade race speed by Carlos Junior",
-         "Informacion": "Es un juego de arcade de carreras",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-arcade-race-speed",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "JR Driver 2 by Carlos Junior",
-         "Informacion": "Juego JR Driver 2 inspirado en la franquicia Top Gear, contiene 22 pistas y 2 modos de carrera, tiene d\u00eda, noche, nieve y hurac\u00e1n, y en la carrera hay 21 autos que compiten por posiciones y tienen 13 autos que puedes comprar.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-driver-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "JR DRIVER by Carlos Junior",
-         "Informacion": "Juego de carrera inspirado en Top Gear, estas versiones fueron mucho mejores que Top Gear.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-driver",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "JR Games Retro by Carlos Junior",
-         "Informacion": "Este juego es varios mini juegos retro juntos",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-games-retro",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "JR invasion by Carlos Junior",
-         "Informacion": "Un gran juego de pelea para PC, para que luches contra la m\u00e1quina y tambi\u00e9n contra tu amigo.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/jr-invasion",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Knight Supreme by Carlos Junior",
-         "Informacion": "Mejor juego de plataforma, medio mezclado con Tetris y tambi\u00e9n con la batalla contra el jefe en este juego, tienes que montar 5 filas de bloque, y huir de la lava y pelear con Boss, el objetivo es sobrevivir a la lava y derrotar al jefe",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/knight-supreme",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Legend futbol Jr by Carlos Junior",
-         "Informacion": "Este es un gran juego de f\u00fatbol de computadora y m\u00f3vil, puedes jugar contra la m\u00e1quina y contra tu amigo, utilizando el control, ya sea tu teclado y mouse o por m\u00f3vil en el punto de vista de la pantalla.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/legend-futbol-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "maniacos by Carlos Junior",
-         "Informacion": "Un incre\u00edble juego de terror, el juego es incre\u00edble y contiene dos fases, sobrevive y escapa de la isla.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/maniacos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Matador de monstros by Carlos Junior",
-         "Informacion": "El juego se dispara y tiene como objetivo eliminar a todos los enemigos del mapa",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/matador-de-monstros",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "O arqueiro her\u00c3\u00b3i by Carlos Junior",
-         "Informacion": "Archer Heroi es un juego de rol, aventura y aventura, con el objetivo de derrotar a todos los enemigos del mapa para pasar la fase, el juego contiene 10 fases",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/o-arqueiro-heri",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "O exterminador by Carlos Junior",
-         "Informacion": "El juego se dispara, muy genial, el juego contiene 10 fases, el objetivo del juego es eliminar a todos los enemigos.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/o-exterminador",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "o lutador de rua hist\u00c3\u00b3ria by Carlos Junior",
-         "Informacion": "El juego es muy bueno es un modo de Historia de la Lucha de la lucha contiene 10 fases",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/o-lutador-de-rua-histria",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "passarinho voador jr by Carlos Junior",
-         "Informacion": "El juego es muy bueno, el objetivo del juego es soportar a la Madre del Tiempo sin golpear los obst\u00e1culos y hacer el puntaje m\u00e1s alto posible.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/passarinho-voador-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "pegar o homem voador by Carlos Junior",
-         "Informacion": "El objetivo del juego es hacer clic encima del hombre volador con cada clic que se vuelve grosero al juego es muy divertido",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/pegar",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Police Survivor by Carlos Junior",
-         "Informacion": "Muy buen juego de supervivencia que le da escapar de la polic\u00eda. Intenta obtener una puntuaci\u00f3n cada vez mayor.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/police-survivor",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Pong Jr by Carlos Junior",
-         "Informacion": "Un gran juego de pong.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/pong-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Power a Ascens\u00c3\u00a3o dos conquistadores (Power 2) by Carlos Junior",
-         "Informacion": "Alimentar la ascensi\u00f3n de los conquistadores",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/power-a-ascenso-dos-conquistadores-power-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Power by Carlos Junior",
-         "Informacion": "Es un juego de juego de rol incre\u00edble un mundo donde dominan los poderes, si vences el poder del adversario y si pierdes la oportunidad de perder tu poder, el juego es incre\u00edble",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/power",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Race crash JR by Carlos Junior",
-         "Informacion": "Juego de supervivencia de carreras de autos.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/race-crash-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Resident Zumbi by Carlos Junior",
-         "Informacion": "Zombi",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/resident-zumbi",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Round 6 by Carlos Junior",
-         "Informacion": "Juego de la Ronda 6",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/round-6",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Runner JR by Carlos Junior",
-         "Informacion": "Runner Game, Running Game, intenta ser un m\u00e1ximo de tiempo sin vencer, rompa tus r\u00e9cords.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/runner-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "salve a princesa by Carlos Junior",
-         "Informacion": "El mejor estilo de plataforma 2D",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/salve-a-princesa",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Speed top Racer by Carlos Junior",
-         "Informacion": "Running Game, que contiene falsificaciones, un juego de excelente calidad",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/speed-top-racer",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Top Down JR Games by Carlos Junior",
-         "Informacion": "Hay varios mini juegos de arriba hacia abajo en un juego.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/top-down-jr-games",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "torre de defesa do territ\u00c3\u00b3rio by Carlos Junior",
-         "Informacion": "Es un juego de estrategia, cuyo objetivo es posicionar a las torres para defender su territorio",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/torre-de-defesa-do-territrio",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Train Surfers JR by Carlos Junior",
-         "Informacion": "Es un juego de supervivencia de Speed \u200b\u200bRunner, trate de alcanzar el puntaje m\u00e1s alto posible sin topar en los obst\u00e1culos.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/train-surfers-jr",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "truck trip by Carlos Junior",
-         "Informacion": "Juego de camiones, viajes en camiones, debes llegar a tu destino antes de que termine la gasolina.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/truck-trip",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "vampires evil by Carlos Junior",
-         "Informacion": "Juego de disparo de 4 fases m\u00e1s modo de supervivencia",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/vampires-evil",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "van zig zag by Carlos Junior",
-         "Informacion": "Un juego muy divertido de Van Zig Zig",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/van-zig-zag",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "Voo de dimens\u00c3\u00a3o by Carlos Junior",
-         "Informacion": "Avi\u00e3 \u00a3 o Juego.",
-         "Desde": "",
-         "Hasta": "2025/06/01 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/voo-de-dimenso",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 17%, yellow 17%) 1;"
-      },
-      {
-         "Nombre": "SWORDLORD by Justin Varghese",
-         "Informacion": "SwordLorda 2d Sword Swinging Gladiator Game! Elija hasta 4 personajes diferentes",
-         "Desde": "",
-         "Hasta": "2025/06/01 05:24",
-         "URL": "https://justin-varghese.itch.io/swordlord",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "Wally The Seal 2 by GunCatGames",
-         "Informacion": "\u00a1Wally, el sello est\u00e1 de vuelta! Y esta vez no est\u00e1 solo. Armado con el nuevo radar de salm\u00f3n, explore todos los mapas nuevos con nuevos art\u00edculos para encontrar y recolectar. \u00bfPuedes sobrevivir al poder combinado de Wally y su compa\u00f1era, la Sra. Wally?",
-         "Desde": "",
-         "Hasta": "2025/06/01 05:50",
-         "URL": "https://guncatgames.itch.io/wally-the-seal2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Formation Vee by NoiroVideoGames",
-         "Informacion": "Bienvenido a Formation Vee. Un juego de carreras de contrarreloj dise\u00f1ado con un sistema de conducci\u00f3n \u00fanico. No hay volante en la formaci\u00f3n Vee. Usted dirige usando la potencia de la rueda para empujar la transmisi\u00f3n izquierda o derecha.",
-         "Desde": "",
-         "Hasta": "2025/06/01 05:51",
-         "URL": "https://noirovideogames.itch.io/formation-vee",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Walk by NoiroVideoGames",
-         "Informacion": "Bienvenido a caminar.",
-         "Desde": "",
-         "Hasta": "2025/06/01 05:51",
-         "URL": "https://noirovideogames.itch.io/walk",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Endless Math Challenge by notRitter",
-         "Informacion": "* La versi\u00f3n pagada desbloquea sprites de jugadores adicionales, fondos y dificultades muy duras + locos.* Caracter\u00edsticas pagas no disponibles en el navegador.",
-         "Desde": "",
-         "Hasta": "2025/06/01 05:59",
-         "URL": "https://notritter.itch.io/endless-math-challenge",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
-         "Informacion": "Home Game 2 es sobre el ermita\u00f1o que vive solo.",
-         "Desde": "",
-         "Hasta": "2025/06/01 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "Gracias por 1000 descargas.",
-         "Desde": "",
-         "Hasta": "2025/06/01 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2025/06/01 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Abstractia by Dancing Dots",
-         "Informacion": "Abstractia es un aut\u00f3mata celular simb\u00f3lico donde los s\u00edmbolos evolucionan en una cuadr\u00edcula a trav\u00e9s de reglas aleatorias y aleatorias. Los patrones emergen, cambian y se disuelven a medida que observa, o interviene.",
-         "Desde": "",
-         "Hasta": "2025/06/01 07:43",
-         "URL": "https://15joldersmat.itch.io/abstractia",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 6%, yellow 6%) 1;"
-      },
-      {
-         "Nombre": "Zal vs May by CoffeeDog",
-         "Informacion": "La reina malvada puede que O'Niece est\u00e1 invadiendo un planeta de peque\u00f1os elfos. Quien en su desesperaci\u00f3n envi\u00f3 a Zalza, un fabricante de juguetes fallido, para ir solo a la fortaleza para morir para que puedan deshacerse de \u00e9l primero al menos.",
-         "Desde": "",
-         "Hasta": "2025/06/01 08:00",
-         "URL": "https://coffeedogteam.itch.io/zal-vs-may",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Backyard by Guilty Roses",
-         "Informacion": "Un viernes por la noche, durante su limpieza de rutina, una ni\u00f1a llamada Samantha encuentra un dibujo en la habitaci\u00f3n de su hermano de seis a\u00f1os que pone los d\u00edas siguientes de su vida en el enloquecer entre el temor paranoico y una pesadilla de vigilia.",
-         "Desde": "",
-         "Hasta": "2025/06/01 09:00",
-         "URL": "https://guilty-roses.itch.io/backyard",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "WinExt Key Launcher",
-         "Informacion": "Abra r\u00e1pidamente los recursos utilizando combinaciones de tecla de acceso r\u00e1pido",
-         "Desde": "",
-         "Hasta": "2025/06/01 09:00",
-         "URL": "https://www.bitsdujour.com/software/winext-key-launcher/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Solar by Lemon",
          "Informacion": "\u00a1En este juego te sentir\u00e1s como si estuvieras jugando en los viejos juegos retro pero en una computadora moderna!",
@@ -1029,7 +9,7 @@
          "URL": "https://thelemonddev.itch.io/solar",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
       },
       {
          "Nombre": "Devyard by TheThil",
@@ -1039,7 +19,7 @@
          "URL": "https://thethil.itch.io/devyard",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Strange Toilet 2 by TheThil",
@@ -1049,7 +29,7 @@
          "URL": "https://thethil.itch.io/strange-toilet-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Strange Toilet by TheThil",
@@ -1059,7 +39,7 @@
          "URL": "https://thethil.itch.io/strange-toilet",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Stevo life by Vukas",
@@ -1069,7 +49,7 @@
          "URL": "https://mr-viktor.itch.io/stevo-life",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
       },
       {
          "Nombre": "WinExt Key Launcher Lifetime License Key for Free 2025",
@@ -1079,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/winext-key-launcher-license-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "BREAKOUTRUN: Disposed of 2 by RetroGamma",
@@ -1089,7 +69,7 @@
          "URL": "https://zartan917.itch.io/breakoutrun-disposed-of-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
       },
       {
          "Nombre": "Newton Glitch by MuneerSbehat",
@@ -1099,7 +79,7 @@
          "URL": "https://muneersbehat.itch.io/newton-glitch",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Decrypt by Crux Game Studios",
@@ -1109,7 +89,7 @@
          "URL": "https://cruxgamestudios.itch.io/decrypt",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Within by Crux Game Studios",
@@ -1119,7 +99,7 @@
          "URL": "https://cruxgamestudios.itch.io/within",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "ZombieStrike:RE by porko",
@@ -1129,17 +109,7 @@
          "URL": "https://porko-dev.itch.io/zombiestrikereunion",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Yni^2021\u00e3\u0083\u00a6\u00e3\u0083\u008b\u00e5\u00a6\u0096\u00e7\u00b2\u00be\u00e5\u009b\u00b3\u00e6\u009b\u00b8\u00e9\u00a4\u00a8WindowsPalette\u00e3\u0080\u008cPuzzle Cake Castle\u00e3\u0080\u008d\u00ef\u00bc\u00be by frufi\u00e3\u0083\u00a6\u00e3\u0083\u008bYY.VetcakMiCHANNEL\u00c3\u00a9YNI21",
-         "Informacion": "El n\u00facleo del juego es perfeccionar el mundo de la imaginaci\u00f3n y la linda magia y la magia linda *\u00ec \u00a3 \u00e2 *\u00ec \u00a3 \u00e2 \u00e2 \u00e2 \u00e2 \u00e2 \u00e2 \u00e2 `Explora el poder de la imaginaci\u00f3n y la fantas\u00eda, diferentes patrones de juego y crean sus propias historias con lindas pastizales \u00ef\u00bcinto \u00a3 Fairy Play para lindos y de ensue\u00f1o. & Elven Pastel Castles (Art Studying), por lo que los jugadores deber\u00edan pensar como un hada para entenderlo m\u00e1s y se convirti\u00f3 en un archienculos elementales/unicornios de pasteles y arcoiris. fantas\u00eda de pasteles y artes de dulce magia) \u00e3 El juego todav\u00eda est\u00e1 en el escenario de desarrollo de hadas, as\u00ed que a veces explico las cosas en el idioma de hadas \". del lugar de hadas para que todos hagan cosas de hadas The Love y Yay, por lo que, por ejemplo, puedes ser un hada de mu\u00f1ecas y jugar con las mu\u00f1ecas que hiciste y tienes una hora de t\u00e9 con ellas y puede ser dibujado con realmente maravillosos pastizales m\u00e1gicos ... yay\u00ef\u00bc\u00be \u00e2 solo hay tantos minifamentos y rompecabezas y decoraciones y lindos justos para s\u00ed ... pero intentar\u00e9 hacer que el juego sea m\u00e1s que sea un g\u00e9nero m\u00e1s justo. Sparkles y pasteles o panader\u00eda a Yay\u00e3 tambi\u00e9n un personal de magia de dulces y hadas para lanzar Rainbow y crear con lindos pasteles\u00ef\u00bc\u00be",
-         "Desde": "",
-         "Hasta": "2025/06/01 21:17",
-         "URL": "https://fufifantasy.itch.io/palette",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "\u00e3\u0080\u008c\u00e3\u0083\u00a6\u00e3\u0083\u008b\u00e2\u0098\u0085\u00e3\u0082\u00a2\u00e3\u0083\u00bc\u00e3\u0082\u00ab\u00e3\u0082\u00a4\u00e3\u0083\u0096\u00e2\u0098\u0086\u00e5\u00bd\u00a1\u00e3\u0080\u008dLibrary of Cakefairy Online\u00e3\u0080\u0082 by frufi\u00e3\u0083\u00a6\u00e3\u0083\u008bYY.VetcakMiCHANNEL\u00c3\u00a9YNI21",
@@ -1149,17 +119,7 @@
          "URL": "https://fufifantasy.itch.io/yni2020-loco",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "\u00e3\u0080\u008eyni^\u00e3\u0080\u008f\u00e2\u0098\u0086\u00e3\u0080\u008c\u00e3\u0083\u00a6\u00e3\u0083\u008b\u00e2\u0098\u0085\u00e5\u00a4\u00a2\u00e3\u0080\u008dArchive\u00ef\u00bc\u0086petite^\u00e2\u0098\u0086ver.forever17\u00e3\u0083\u00bc21\u00e2\u0091\u0085\u00e2\u0098\u0085\u00e2\u0091\u0085NYY\u00e2\u0091\u0085Extended\u00e2\u008b\u0088Edition\u00e3\u0080\u0082 by frufi\u00e3\u0083\u00a6\u00e3\u0083\u008bYY.VetcakMiCHANNEL\u00c3\u00a9YNI21",
-         "Informacion": "\"",
-         "Desde": "",
-         "Hasta": "2025/06/01 21:17",
-         "URL": "https://fufifantasy.itch.io/uni-el",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
       },
       {
          "Nombre": "\u00e3\u0080\u008cyni^2017\u00e3\u0080\u008d\u00e2\u008b\u0088\u00e5\u008e\u009f\u00e7\u00b2\u00be\u00e2\u0098\u0085\u00e3\u0082\u00a2\u00e3\u0083\u00bc\u00e3\u0082\u00ab\u00e3\u0082\u00a4\u00e3\u0083\u0096\u00e2\u0098\u0086 by frufi\u00e3\u0083\u00a6\u00e3\u0083\u008bYY.VetcakMiCHANNEL\u00c3\u00a9YNI21",
@@ -1169,7 +129,37 @@
          "URL": "https://fufifantasy.itch.io/y2017love",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
+      },
+      {
+         "Nombre": "\u00e3\u0080\u008eyni^\u00e3\u0080\u008f\u00e2\u0098\u0086\u00e3\u0080\u008c\u00e3\u0083\u00a6\u00e3\u0083\u008b\u00e2\u0098\u0085\u00e5\u00a4\u00a2\u00e3\u0080\u008dArchive\u00ef\u00bc\u0086petite^\u00e2\u0098\u0086ver.forever17\u00e3\u0083\u00bc21\u00e2\u0091\u0085\u00e2\u0098\u0085\u00e2\u0091\u0085NYY\u00e2\u0091\u0085Extended\u00e2\u008b\u0088Edition\u00e3\u0080\u0082 by frufi\u00e3\u0083\u00a6\u00e3\u0083\u008bYY.VetcakMiCHANNEL\u00c3\u00a9YNI21",
+         "Informacion": "\"",
+         "Desde": "",
+         "Hasta": "2025/06/01 21:17",
+         "URL": "https://fufifantasy.itch.io/uni-el",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
+      },
+      {
+         "Nombre": "Yni^2021\u00e3\u0083\u00a6\u00e3\u0083\u008b\u00e5\u00a6\u0096\u00e7\u00b2\u00be\u00e5\u009b\u00b3\u00e6\u009b\u00b8\u00e9\u00a4\u00a8WindowsPalette\u00e3\u0080\u008cPuzzle Cake Castle\u00e3\u0080\u008d\u00ef\u00bc\u00be by frufi\u00e3\u0083\u00a6\u00e3\u0083\u008bYY.VetcakMiCHANNEL\u00c3\u00a9YNI21",
+         "Informacion": "El n\u00facleo del juego es perfeccionar el mundo de la imaginaci\u00f3n y la linda magia y la magia linda *\u00ec \u00a3 \u00e2 *\u00ec \u00a3 \u00e2 \u00e2 \u00e2 \u00e2 \u00e2 \u00e2 \u00e2 `Explora el poder de la imaginaci\u00f3n y la fantas\u00eda, diferentes patrones de juego y crean sus propias historias con lindas pastizales \u00ef\u00bcinto \u00a3 Fairy Play para lindos y de ensue\u00f1o. & Elven Pastel Castles (Art Studying), por lo que los jugadores deber\u00edan pensar como un hada para entenderlo m\u00e1s y se convirti\u00f3 en un archienculos elementales/unicornios de pasteles y arcoiris. fantas\u00eda de pasteles y artes de dulce magia) \u00e3 El juego todav\u00eda est\u00e1 en el escenario de desarrollo de hadas, as\u00ed que a veces explico las cosas en el idioma de hadas \". del lugar de hadas para que todos hagan cosas de hadas The Love y Yay, por lo que, por ejemplo, puedes ser un hada de mu\u00f1ecas y jugar con las mu\u00f1ecas que hiciste y tienes una hora de t\u00e9 con ellas y puede ser dibujado con realmente maravillosos pastizales m\u00e1gicos ... yay\u00ef\u00bc\u00be \u00e2 solo hay tantos minifamentos y rompecabezas y decoraciones y lindos justos para s\u00ed ... pero intentar\u00e9 hacer que el juego sea m\u00e1s que sea un g\u00e9nero m\u00e1s justo. Sparkles y pasteles o panader\u00eda a Yay\u00e3 tambi\u00e9n un personal de magia de dulces y hadas para lanzar Rainbow y crear con lindos pasteles\u00ef\u00bc\u00be",
+         "Desde": "",
+         "Hasta": "2025/06/01 21:17",
+         "URL": "https://fufifantasy.itch.io/palette",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
+      },
+      {
+         "Nombre": "Emily_ by TETRABYTE",
+         "Informacion": "La ai olvidada",
+         "Desde": "",
+         "Hasta": "2025/06/01 23:59",
+         "URL": "https://tetrabyte.itch.io/emily",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF to ePub Converter 1 Year License Code Free",
@@ -1179,7 +169,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-epub-converter-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "DOMESTIC FEARS by RosenshineGames",
@@ -1189,7 +179,7 @@
          "URL": "https://rosenshinegames.itch.io/domestic-fears",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
       },
       {
          "Nombre": "Vovsoft Bulk Domain Appraisal License Key Free",
@@ -1199,7 +189,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-bulk-domain-appraisal-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Kingshiper Vocal Remover [with AI]",
@@ -1209,7 +199,7 @@
          "URL": "https://sharewareonsale.com/s/free-kingshiper-vocal-remover-with-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "A Story About Farting",
@@ -1602,6 +592,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/06/07 07:00",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Allalone by ALL ALONE",
          "Informacion": "",
          "Desde": "",
@@ -1657,6 +657,96 @@
          "Desde": "",
          "Hasta": "2025/06/07 14:12",
          "URL": "https://ddm-games.itch.io/turn-around",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "[Whispers in the Dark] Burger Shop by JML Studio",
+         "Informacion": "\u00a1Hamburguesas!",
+         "Desde": "",
+         "Hasta": "2025/06/07 21:26",
+         "URL": "https://jmlgamestudio.itch.io/whispers-in-the-dark-burger-shop",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "[Whispers in the Dark] Trailer Park by JML Studio",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/07 21:26",
+         "URL": "https://jmlgamestudio.itch.io/trailer-park",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VCF Editor",
+         "Informacion": "VCF Editor es una poderosa herramienta fuera de l\u00ednea dise\u00f1ada para administrar y editar archivos VCARD (VCF) en Windows. Ejecutando localmente en la computadora del usuario, garantiza la privacidad y la seguridad al procesar todos los datos sin necesidad de una conexi\u00f3n a Internet. Esto lo hace ideal para los usuarios que priorizan mantener su informaci\u00f3n de contacto privada y segura.",
+         "Desde": "",
+         "Hasta": "2025/06/08 07:00",
+         "URL": "https://sharewareonsale.com/s/free-vcf-editor-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VovSoft Batch URL Downloader License Key Free 2025",
+         "Informacion": "Vovsoft Batch URL Downloader es una de las aplicaciones m\u00e1s simples del tipo de descarga de administraci\u00f3n, puede ser una buena alternativa a los gerentes de descarga excesivamente complejados. Le permite guardar m\u00faltiples archivos como parte del mismo trabajo.",
+         "Desde": "",
+         "Hasta": "2025/06/08 15:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-batch-url-downloader-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bedrot by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/09 02:00",
+         "URL": "https://liminace.itch.io/bedrot",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
+         "Desde": "",
+         "Hasta": "2025/06/09 02:00",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/09 02:00",
+         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cabin Fever!!! by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/09 02:00",
+         "URL": "https://liminace.itch.io/cabin-fever",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exorcize Me by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/09 02:00",
+         "URL": "https://liminace.itch.io/exorcize-me",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2282,11 +1372,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Survivor by SoowekGames",
-         "Informacion": "En la misteriosa y sombr\u00eda instalaci\u00f3n militar necesitas encontrar panaceum, curar para todas las enfermedades.",
+         "Nombre": "Third Guardian by Griff",
+         "Informacion": "Descripci\u00f3n general:",
          "Desde": "",
-         "Hasta": "2025/06/30 17:47",
-         "URL": "https://soowekgames.itch.io/survivor",
+         "Hasta": "2025/06/30 15:21",
+         "URL": "https://grinning-eagles.itch.io/third-guardian",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2312,6 +1402,56 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Survivor by SoowekGames",
+         "Informacion": "En la misteriosa y sombr\u00eda instalaci\u00f3n militar necesitas encontrar panaceum, curar para todas las enfermedades.",
+         "Desde": "",
+         "Hasta": "2025/06/30 17:47",
+         "URL": "https://soowekgames.itch.io/survivor",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Tree by gamesbyrd",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/30 20:00",
+         "URL": "https://gamesbyrd.itch.io/the-last-tree",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
+         "Informacion": "Home Game 2 es sobre el ermita\u00f1o que vive solo.",
+         "Desde": "",
+         "Hasta": "2025/07/01 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "Gracias por 1000 descargas.",
+         "Desde": "",
+         "Hasta": "2025/07/01 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
+         "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
+         "Desde": "",
+         "Hasta": "2025/07/01 05:59",
+         "URL": "https://iamqqqqqqq.itch.io/classicgame",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Tell Me Why",
          "Informacion": "Dime por qu\u00e9 es el juego de aventuras epis\u00f3dicas ganador de m\u00faltiples premios de Dontnod Entertainment en el que los gemelos usan su v\u00ednculo sobrenatural para descubrir la verdad de su pasado problem\u00e1tico.",
          "Desde": "",
@@ -2319,6 +1459,16 @@
          "URL": "https://store.steampowered.com/app/1180660/",
          "IMG": "",
          "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sheris ROOM by KittyCreamPuff",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/01 12:51",
+         "URL": "https://kittycreampuff.itch.io/sheris-room",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
