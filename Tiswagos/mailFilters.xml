@@ -9,7 +9,7 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@service.aliyun.com OR @mail.anthropic.com OR @mails.deepswap.ai OR @stylar.ai OR @elevenlabs.io OR @forefront.ai OR @news.forefront.ai OR @gocharlie.ai OR @huggingface.co OR @immersity.ai OR @kaiber.ai OR @kwai.com OR @leonardo.ai OR @auth.magnific.ai OR @meshy.ai OR @mail.mimicpc.com OR @mimicpc.com OR @moises.ai OR @email.openai.com OR @tm.openai.com OR @mail.perplexity.ai OR @mail.pixverse.ai OR @contact.podcastle.ai OR @pollo.ai OR @service.qwenlm.ai OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @resemble.ai OR @runwayml.com OR @suno.com OR @tripo3d.ai OR @vidu.studio OR @writesonic.com'/>
+		<apps:property name='from' value='@service.aliyun.com OR @mail.anthropic.com OR @bfl.ai OR @mails.deepswap.ai OR @stylar.ai OR @elevenlabs.io OR @forefront.ai OR @news.forefront.ai OR @gocharlie.ai OR @huggingface.co OR @immersity.ai OR @kaiber.ai OR @kwai.com OR @leonardo.ai OR @auth.magnific.ai OR @meshy.ai OR @mail.mimicpc.com OR @mimicpc.com OR @moises.ai OR @email.openai.com OR @tm.openai.com OR @mail.perplexity.ai OR @mail.pixverse.ai OR @contact.podcastle.ai OR @pollo.ai OR @service.qwenlm.ai OR @resemble-ai-553f8a65fd6b.intercom-mail.com OR @resemble.ai OR @runwayml.com OR @suno.com OR @tripo3d.ai OR @vidu.studio OR @writesonic.com'/>
 		<apps:property name='label' value='Registros/IA'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
@@ -30,7 +30,7 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@aliexpress.com OR @mail.aliexpress.com  OR @notice.aliexpress.com OR @amazon.com OR @amazon.es OR no-reply@verify.signin.aws OR twitch-verify@amazon.com OR @appsumo.com OR @atm.it OR @correos.com OR @correosexpress.com OR @cp.pt OR @nomail.ec.europa.eu OR @fpfis.tech.ec.europa.eu OR @educacion.gob.es OR @transportes.gob.es OR @haveibeenpwned.com OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @juntademocratica.com OR juntademocraticadesevilla@gmail.com OR @emails.paypal.com OR @paypal.es OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es OR @tussam.info'/>
+		<apps:property name='from' value='@aliexpress.com OR @mail.aliexpress.com  OR @notice.aliexpress.com OR @amazon.com OR @amazon.es OR no-reply@verify.signin.aws OR twitch-verify@amazon.com OR @appsumo.com OR @atm.it OR @correos.com OR @correosexpress.com OR @cp.pt OR @nomail.ec.europa.eu OR @fpfis.tech.ec.europa.eu OR @educacion.gob.es OR @transportes.gob.es OR @r.grouponmail.es OR @haveibeenpwned.com OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @juntademocratica.com OR juntademocraticadesevilla@gmail.com OR @emails.paypal.com OR @paypal.es OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es OR @tussam.info'/>
 		<apps:property name='label' value='Registros/Oficial'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
