@@ -1,5 +1,5 @@
 {
-   "date_update": "10 Jun 2025 23:39 UTC",
+   "date_update": "11 Jun 2025 16:01 UTC",
    "values": [
       {
          "Direccion": "8.8.8.8 886.novitrk6.com #AntiSpam"
@@ -12,12 +12,6 @@
       },
       {
          "Direccion": "8.8.8.8 codedexchange.com #AntiSpam"
-      },
-      {
-         "Direccion": "8.8.8.8 1osb.com #AntiSpam"
-      },
-      {
-         "Direccion": "8.8.8.8 sunglassesshindy.com #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 crumbtypewriterhome.com #AntiSpam"
@@ -60,6 +54,9 @@
       },
       {
          "Direccion": "8.8.8.8 1045.bordsnewsjule.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 1osb.com #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 a.kgorilla.net #AntiSpam"
@@ -468,6 +465,9 @@
       },
       {
          "Direccion": "8.8.8.8 stdirection.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 sunglassesshindy.com #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 sxenulz.shopvistaabc.shop #AntiSpam"
@@ -971,15 +971,6 @@
          "Direccion": "8.8.8.8 dns.google #AntiSpam"
       },
       {
-         "Direccion": "8.8.8.8 heolodes.co.in #AntiSpam"
-      },
-      {
-         "Direccion": "8.8.8.8 d142g7anaffc738721jg.vno-protect.co.in #AntiSpam"
-      },
-      {
-         "Direccion": "8.8.8.8 gizrich.com #AntiSpam"
-      },
-      {
          "Direccion": "8.8.8.8 0bc095m1m9la5dza5e.gotte.co.in #AntiSpam"
       },
       {
@@ -1085,6 +1076,9 @@
          "Direccion": "8.8.8.8 d113l82naffc73dj2eg0.vno-protect.co.in #AntiSpam"
       },
       {
+         "Direccion": "8.8.8.8 d142g7anaffc738721jg.vno-protect.co.in #AntiSpam"
+      },
+      {
          "Direccion": "8.8.8.8 da7185m1m9lfnbl2a2.gotte.co.in #AntiSpam"
       },
       {
@@ -1103,7 +1097,13 @@
          "Direccion": "8.8.8.8 fetchingping.b-cdn.net #AntiSpam"
       },
       {
+         "Direccion": "8.8.8.8 gizrich.com #AntiSpam"
+      },
+      {
          "Direccion": "8.8.8.8 gonor.xyz #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 heolodes.co.in #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 heomilibly.co.in #AntiSpam"
