@@ -1,76 +1,6 @@
 {
-   "date_update": "12 Jun 2025 16:02 UTC",
+   "date_update": "13 Jun 2025 16:04 UTC",
    "values": [
-      {
-         "Nombre": "Tour de France 2025 - Team Visma Lease a Bike Pack",
-         "Informacion": "Este contenido requiere la base Gametour de France 2025on Steam para jugar.",
-         "Desde": "",
-         "Hasta": "2025/06/12 10:00",
-         "URL": "https://store.steampowered.com/app/3481250/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "EaseUS Disk Copy Pro 1-Year Free License Key Giveaway",
-         "Informacion": "Facilus Disk Copy Pro es un software de clonaci\u00f3n de disco simple para Windows PC. Los usuarios pueden hacer una copia completa del contenido en un disco y mover sus datos, sistema o aplicaciones a otro disco duro. Cuando los usuarios configuran este software en una PC, encontrar\u00e1 el espacio de disco autom\u00e1ticamente y se indica: `\u00bfDesea migrar el sistema operativo a su nueva unidad?` Cuando hay una nueva unidad disponible. Adem\u00e1s, la opci\u00f3n `sector por sector` le permite copiar 100% id\u00e9ntico al original. Facilus Disk Copy Pro se puede usar para copiar HDD/SSD, clonaci\u00f3n o actualizaci\u00f3n de su peque\u00f1o disco duro original a un nuevo Big Drive.",
-         "Desde": "",
-         "Hasta": "2025/06/12 15:00",
-         "URL": "https://giveaway.tickcoupon.com/giveaway-easeus-disk-copy-pro-for-free/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "DEATHLOOP",
-         "Informacion": "DEATHLOOP",
-         "Desde": "2025/06/05",
-         "Hasta": "2025/06/12 17:00",
-         "URL": "https://store.epicgames.com/p/deathloop",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Ogu and the Secret Forest",
-         "Informacion": "Explore the wonderful world with baby Ogu! 'Ogu and the Secret Forest' is a 2D adventure game with hand-drawn characters and various types of puzzles. Befriend bouncy characters and defeat strange creatures to unravel the mystery of the charming world.",
-         "Desde": "2025/06/05",
-         "Hasta": "2025/06/12 17:00",
-         "URL": "https://store.epicgames.com/p/ogu-and-the-secret-forest-ffc421",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster Android SMS + Contacts Recovery 1 Year Free Key",
-         "Informacion": "Coolmuster Android SMS + Contacts Recovery se encuentra como la soluci\u00f3n definitiva para recuperar sus conversaciones de texto fuera de lugar o borradas y datos de contacto en su dispositivo Android. Esta poderosa herramienta le permite reclamar contactos perdidos y mensajes de texto de la tarjeta de memoria interna y la tarjeta SIM de su dispositivo Android, independientemente de c\u00f3mo se perdieron, ya sea a trav\u00e9s de la eliminaci\u00f3n accidental, las intrusiones de virus, el hardware o el mal funcionamiento, y m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2025/06/13 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-sms-contacts-recovery/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "CrystalEater by ShadowScythe_Games",
-         "Informacion": "Explore y aventura en este juego de Metroidvania con hermosos gr\u00e1ficos y un ambiente sorprendente.",
-         "Desde": "",
-         "Hasta": "2025/06/13 00:01",
-         "URL": "https://shadowscythe-games.itch.io/crystaleater",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Wise Care 365 PRO",
-         "Informacion": "Mantenga su PC con Windows funcionando sin problemas con una tuneup de PC",
-         "Desde": "",
-         "Hasta": "2025/06/13 09:00",
-         "URL": "https://www.bitsdujour.com/software/wise-care-365-pro/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Fear the light by Tomython",
          "Informacion": "El juego se encuentra actualmente en las primeras etapas de desarrollo, toda la mec\u00e1nica b\u00e1sica y su imagen est\u00e1n listas, sin embargo, puede haber errores en el juego que no exist\u00edan originalmente, nos disculpamos de antemano por las molestias. Tambi\u00e9n debe tenerse en cuenta que el juego a\u00fan se actualizar\u00e1 y se lanzar\u00e1n parches, ya que esto a\u00fan no es un lanzamiento, pero solo un prototipo listo.",
@@ -79,7 +9,7 @@
          "URL": "https://tomython.itch.io/fear-the-light",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
       },
       {
          "Nombre": "Americannon Civil War Sokoban for NES by RetroGamma",
@@ -89,7 +19,7 @@
          "URL": "https://zartan917.itch.io/americannon",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "Balloon to the Moon Deluxe by Prospective Games",
@@ -99,7 +29,7 @@
          "URL": "https://prospective-games.itch.io/balloon-to-the-moon-deluxe",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "Ball Down Hill by KasperV",
@@ -109,7 +39,7 @@
          "URL": "https://kasperv.itch.io/ball-down-hill",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Sky Lab Defender by KasperV",
@@ -119,7 +49,7 @@
          "URL": "https://kasperv.itch.io/skylabdefender",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "The Simple Life by KasperV",
@@ -129,7 +59,7 @@
          "URL": "https://kasperv.itch.io/the-simple-life",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "CleverGet CW Downloader 1-Year License Key Free",
@@ -139,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/cleverget-cw-downloader-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster Android Assistant 1-Year Free License Code",
@@ -149,7 +79,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-assistant-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Aiarty Image Matting [with AI]",
@@ -159,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-aiarty-image-matting-with-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Ashampoo Home Design 10",
@@ -169,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-home-design-10-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "ScreenCamera Studio",
@@ -179,7 +109,7 @@
          "URL": "https://sharewareonsale.com/s/free-screencamera-studio-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "THE MIDNIGHT BUS by itandfeel",
@@ -187,6 +117,16 @@
          "Desde": "",
          "Hasta": "2025/06/14 07:00",
          "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Emily_ by TETRABYTE",
+         "Informacion": "La ai olvidada",
+         "Desde": "",
+         "Hasta": "2025/06/14 12:00",
+         "URL": "https://tetrabyte.itch.io/emily",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -602,6 +542,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Whispers In The Fog by TerrorTalesProductions",
+         "Informacion": "Eres Elias Dace, un periodista de investigaci\u00f3n determinado atra\u00eddo por el misterio de Ravenwood, un pueblo costero que alguna vez fue que desapareci\u00f3 sin dejar rastro durante la noche. Donde existi\u00f3 una bulliciosa calles y un encanto junto al mar, ahora solo se encuentra una niebla gruesa y antinatural que traga a todos los que se atreven a entrar. La ciudad se ha convertido en una leyenda ... una advertencia ... una historia de fantasmas.",
+         "Desde": "",
+         "Hasta": "2025/06/16 04:03",
+         "URL": "https://terrortalesproductions.itch.io/whispers-in-the-fog",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Septimus Boardgame by Griff",
          "Informacion": "Ubicado en la isla errante, una tierra misteriosa y fant\u00e1stica.",
          "Desde": "",
@@ -622,6 +572,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Turbo Play",
+         "Informacion": "Todo en un creador de contenido: video, sonido, editor de im\u00e1genes, m\u00e1s de 300 efectos acelerados de GPU.",
+         "Desde": "",
+         "Hasta": "2025/06/16 07:00",
+         "URL": "https://sharewareonsale.com/s/free-turbo-play-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Construction Simulator",
+         "Informacion": "\u00a1Juega gratis! El simulador de construcci\u00f3n ha regresado, \u00a1m\u00e1s grande y m\u00e1s impresionante que nunca! Cumplir su ambici\u00f3n de convertirse en un emprendedor de construcci\u00f3n exitoso estableciendo su negocio desde cero, asistido por su mentor Hape.",
+         "Desde": "",
+         "Hasta": "2025/06/16 10:00",
+         "URL": "https://store.steampowered.com/app/1273400/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hellslave",
          "Informacion": "HellSlave es un rastreador de mazmorras de fantas\u00eda oscura donde haces un pacto con el diablo para luchar contra una invasi\u00f3n de demonios. Personaliza tu personaje con poderosas habilidades demon\u00edacas, explora un mundo maldito y lucha contra enemigos de pesadillas para salvar a la humanidad si puedes resistir la oscuridad.",
          "Desde": "",
@@ -632,11 +602,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Construction Simulator",
-         "Informacion": "\u00a1Juega gratis! El simulador de construcci\u00f3n ha regresado, \u00a1m\u00e1s grande y m\u00e1s impresionante que nunca! Cumplir su ambici\u00f3n de convertirse en un emprendedor de construcci\u00f3n exitoso estableciendo su negocio desde cero, asistido por su mentor Hape.",
+         "Nombre": "Hell Let Loose",
+         "Informacion": "\u00a1Juega gratis! \u00danase a la experiencia cada vez mayor de Hell Let Let Loose: un tirador en primera persona de la Segunda Guerra Mundial en la Segunda Guerra Mundial con batallas \u00e9picas de 100 jugadores con infanter\u00eda, tanques, artiller\u00eda, una l\u00ednea delantera que cambia din\u00e1micamente y un meta juego inspirado en RTS basado en recursos \u00fanicos.",
          "Desde": "",
          "Hasta": "2025/06/16 10:00",
-         "URL": "https://store.steampowered.com/app/1273400/",
+         "URL": "https://store.steampowered.com/app/686810/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Barony",
+         "Informacion": "\u00a1Juega gratis! \u00a1Barony es la primera persona principal Roguelike con el juego cooperativo! Aventura sola, o re\u00fane una fiesta con clases de juegos de rol ic\u00f3nicos e inusuales para enfrentar a las brutales mazmorras. \u00a1Pon a prueba tu ingenio, ingenio y amistades en tu b\u00fasqueda para levantar la maldici\u00f3n del malvado Lich!",
+         "Desde": "",
+         "Hasta": "2025/06/16 10:00",
+         "URL": "https://store.steampowered.com/app/371970/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stardeus",
+         "Informacion": "\u00a1Juega gratis! Stardeus es un Sim de colonia profunda ambientada en una nave espacial rota tripulada por drones y sobrevivientes humanos hibernadores. A medida que la IA, haga que sus drones reparen su barco, guarde su tripulaci\u00f3n y viaje las estrellas en esta hermosa simulaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/06/16 10:00",
+         "URL": "https://store.steampowered.com/app/1380910/",
          "IMG": "",
          "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
@@ -709,6 +699,16 @@
          "URL": "https://sharewareonsale.com/s/free-screensaver-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Paradox Soul",
+         "Informacion": "Paradox Soul es una pelea escalofriante por la exploraci\u00f3n y la supervivencia; \u00a1Un h\u00edbrido de shooter de acci\u00f3n Pixel de Metroidvania!",
+         "Desde": "",
+         "Hasta": "2025/06/17 10:00",
+         "URL": "https://store.steampowered.com/app/610570/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -900,6 +900,26 @@
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "AIS : Artificial Intelligence and Soul by yao-games",
+         "Informacion": "\u00a1Une fuerzas con tu robot compa\u00f1ero para derribar el AIS infectado!",
+         "Desde": "",
+         "Hasta": "2025/06/27 02:49",
+         "URL": "https://yao-games.itch.io/ais",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "False Awakening by TerrorTalesProductions",
+         "Informacion": "Te despiertas ... pero algo anda mal. Esta no es tu habitaci\u00f3n. Las paredes cambian, el cielo sangra rojo y los susurros se arrastran a trav\u00e9s de la oscuridad. Est\u00e1s atrapado en una pesadilla un laberinto de recuerdos retorcidos y horrores al acecho.",
+         "Desde": "",
+         "Hasta": "2025/06/28 02:47",
+         "URL": "https://terrortalesproductions.itch.io/false-awakening",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Gateway of the mind by Soul_Sire",
