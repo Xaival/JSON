@@ -1,116 +1,6 @@
 {
-   "date_update": "17 Jun 2025 16:03 UTC",
+   "date_update": "19 Jun 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Paradox Soul",
-         "Informacion": "Paradox Soul es una pelea escalofriante por la exploraci\u00f3n y la supervivencia; \u00a1Un h\u00edbrido de shooter de acci\u00f3n Pixel de Metroidvania!",
-         "Desde": "",
-         "Hasta": "2025/06/17 10:00",
-         "URL": "https://store.steampowered.com/app/610570/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Dusty Tale by crisPlease",
-         "Informacion": "La acci\u00f3n tiene lugar en un mundo t\u00f3xico post-apocal\u00edptico, lleno de mutantes peligrosos y los restos de una civilizaci\u00f3n marchita enterrada en pilas de chatarra. Despu\u00e9s de elegir a tu personaje, participar\u00e1s en batallas interminables entre dos bandas.",
-         "Desde": "",
-         "Hasta": "2025/06/17 23:00",
-         "URL": "https://crisplease.itch.io/dusty-tale-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "PDF to X",
-         "Informacion": "Batch Convertir PDF a m\u00faltiples formatos, incluidas las im\u00e1genes",
-         "Desde": "",
-         "Hasta": "2025/06/18 09:00",
-         "URL": "https://www.bitsdujour.com/software/pdf-to-x/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "VideoProc Conveter AI",
-         "Informacion": "Mejorar la calidad de video/imagen, convertir, editar y comprimir los medios sin esfuerzo",
-         "Desde": "",
-         "Hasta": "2025/06/18 09:00",
-         "URL": "https://www.bitsdujour.com/software/videoproc-converter-ai/in=upcoming-freebies",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
-      {
-         "Nombre": "Towerborne",
-         "Informacion": "\u00a1Juega gratis! Towerborne es un nuevo tipo de luchador saqueador, que combina combate de desplazamiento lateral con progresi\u00f3n de bot\u00edn de RPG de acci\u00f3n y personalizaci\u00f3n interminable. Une con otros ases y defienda el belfry, el \u00faltimo refugio de la humanidad. Explorar, luchar y fortalecerse, juntos.",
-         "Desde": "",
-         "Hasta": "2025/06/18 10:00",
-         "URL": "https://store.steampowered.com/app/2458830/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Carrot Overload by Galoxyum",
-         "Informacion": "historia :",
-         "Desde": "",
-         "Hasta": "2025/06/18 23:59",
-         "URL": "https://galoxyum.itch.io/projectco",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Omega No Sunshine 2 Standard edition by Galoxyum",
-         "Informacion": "Omega No Sunshine es un juego Arcade/Collecthaton/Exploration. Eres uno de los pocos anillos del sol, \u00a1este es tu viaje que comienza en este momento!",
-         "Desde": "",
-         "Hasta": "2025/06/18 23:59",
-         "URL": "https://galoxyum.itch.io/omega-no-sunshine-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster Data Recovery 1-Year License Free",
-         "Informacion": "Coolmuster Data Recovery es un software de recuperaci\u00f3n de datos profesional y completo hoy en d\u00eda. Combina una interfaz de usuario altamente intuitiva para ayudar a los usuarios a recuperar archivos eliminados, formateados o inaccesibles de todo tipo de discos duros. Esta herramienta hace posible que cualquiera recupere documentos, correos electr\u00f3nicos, fotos, videos, archivos de audio y m\u00e1s de varios discos.",
-         "Desde": "",
-         "Hasta": "2025/06/19 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-data-recovery-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Hasleo Disk Clone Professional 5",
-         "Informacion": "Software de clonaci\u00f3n de disco todo en uno para Windows",
-         "Desde": "",
-         "Hasta": "2025/06/19 07:00",
-         "URL": "https://sharewareonsale.com/s/free-hasleo-disk-clone-professional-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "Un breve juego de terror",
-         "Desde": "",
-         "Hasta": "2025/06/19 07:00",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Desk Blocks by zacsGAMES",
-         "Informacion": "Los bloques de escritorio son bloques en su pantalla de inicio. Cuando hice esto, no hab\u00eda nada cerca de eso.",
-         "Desde": "",
-         "Hasta": "2025/06/19 07:08",
-         "URL": "https://zacsgames.itch.io/deskblocks",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "Run Red by Raphi's Software Company",
          "Informacion": "Este juego utiliza datos de velocidad de sus carreras/trotes de la vida real para calcular las estad\u00edsticas de ataque de su personaje en el juego.",
@@ -119,7 +9,7 @@
          "URL": "https://raphis-software-company.itch.io/run-red-demo",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 91%, yellow 91%) 1;"
       },
       {
          "Nombre": "Two Point Hospital",
@@ -129,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/two-point-hospital",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "SKALL by marisa0704",
@@ -139,7 +29,7 @@
          "URL": "https://marisa0704.itch.io/skall",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "Kasperias Arenas 3D by KasperV",
@@ -149,7 +39,7 @@
          "URL": "https://kasperv.itch.io/kasperias-arenas-3d",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Macxvideo AI License Key Free Download 2025",
@@ -159,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/macxvideo-ai-free-license-key-download/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "GridSim Evolution by Dancing Dots",
@@ -169,7 +59,7 @@
          "URL": "https://15joldersmat.itch.io/gridsim-evolution",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Idle Bazaar by Dancing Dots",
@@ -179,7 +69,17 @@
          "URL": "https://15joldersmat.itch.io/idle-bazaar",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "VideoProc Conveter AI",
+         "Informacion": "Mejorar la calidad de video/imagen, convertir, editar y comprimir los medios sin esfuerzo",
+         "Desde": "",
+         "Hasta": "2025/06/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/videoproc-converter-ai/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Street Restaurant Simulator by JADU",
@@ -232,6 +132,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "MiniTool ShadowMaker Pro",
+         "Informacion": "\u00a1Una soluci\u00f3n de copia de seguridad profesional para mantener sus datos siempre protegidos!",
+         "Desde": "",
+         "Hasta": "2025/06/21 07:00",
+         "URL": "https://sharewareonsale.com/s/free-minitool-shadowmaker-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ZD Soft Screen Recorder Free Key 2024",
          "Informacion": "La grabadora de pantalla Soft de ZD es un software de grabaci\u00f3n de pantalla que le permite capturar la pantalla/c\u00e1mara web/audio en su disco duro. Adem\u00e1s, le ayuda a crear demostraciones/tutoriales/videos de capacitaci\u00f3n de software, grabar cursos/conferencias/seminarios web/reuniones en l\u00ednea, o convertir las presentaciones de PPT en videos. Adem\u00e1s, este software de grabaci\u00f3n de pantalla tambi\u00e9n captura los maravillosos momentos de su juego, o comparte su pantalla con colegas/estudiantes, y as\u00ed sucesivamente.",
          "Desde": "",
@@ -262,16 +172,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Mechanical Void [ENG/PL] by Jarp.pix",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/06/22 07:00",
-         "URL": "https://jarppix.itch.io/mechanical-void",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Glary Utilities Pro 1-Year Free License Key 2025",
          "Informacion": "Glary Utilities Pro es una utilidad todo en uno dise\u00f1ada para limpiar y reparar su sistema, optimizar el inicio y la memoria, la trituraci\u00f3n y los archivos de desaceleraci\u00f3n, y m\u00e1s. Realiza una limpieza profunda del sistema para eliminar archivos basura y datos obsoletos, liberando as\u00ed el espacio en el disco y la velocidad de aumento. La funci\u00f3n de mantenimiento automatizada del software permite la optimizaci\u00f3n programada para asegurarse de que su sistema permanezca en la mejor forma sin una intervenci\u00f3n manual constante. Su protecci\u00f3n de la privacidad ayuda a borrar el historial de navegaci\u00f3n y eliminar de forma segura archivos sensibles.",
          "Desde": "",
@@ -279,6 +179,16 @@
          "URL": "https://giveaway.tickcoupon.com/free-license-key-for-glary-utilities-pro/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mechanical Void [ENG/PL] by Jarp.pix",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/06/22 07:00",
+         "URL": "https://jarppix.itch.io/mechanical-void",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -337,6 +247,36 @@
          "Desde": "",
          "Hasta": "2025/06/23 07:00",
          "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Get SoftOrbits AI Photo Editor Pro License Key Free 2025",
+         "Informacion": "Softorbits AI Photo Editor Pro es una aplicaci\u00f3n de editor de fotos que permite a los usuarios de Windows eliminar objetos no deseados y mejorar las fotos autom\u00e1ticamente o bajo su supervisi\u00f3n. Puede seleccionar y eliminar objetos tales como sombras de distracci\u00f3n, postes de alimentaci\u00f3n o simplemente transe\u00fantes aleatorios.",
+         "Desde": "",
+         "Hasta": "2025/06/23 07:00",
+         "URL": "https://giveaway.tickcoupon.com/softorbits-photo-editor-pro-license-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vov Sticky Notes License Key Free Download",
+         "Informacion": "Vov Sticky Notes es un software \u00fatil que lo ayuda a crear pegatinas, recordatorios y mantener a mano informaci\u00f3n importante. La funci\u00f3n principal del software es permitirle colocar pegatinas coloridas en su escritorio. Por lo tanto, puede crear tantos como desee, cambiarles el tama\u00f1o y cambiar la fuente de texto, pero no hay opci\u00f3n para ocultar la barra de t\u00edtulo y los botones Eliminar y los nuevos.",
+         "Desde": "",
+         "Hasta": "2025/06/23 07:00",
+         "URL": "https://giveaway.tickcoupon.com/vov-sticky-notes-license-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Giveaway Wise Care 365 Pro License Key Free Download",
+         "Informacion": "Wise Care 365 Pro adopta la tecnolog\u00eda principal del mundo. Optimiza el rendimiento de la PC, defrags discos y el registro de Windows, y gestiona el proceso y los servicios de inicio. Puede limpiar y eliminar archivos basura, atajos no v\u00e1lidos y archivos de sistema redundantes sin perder datos importantes. Adem\u00e1s de la funci\u00f3n de limpieza de PC, el software tambi\u00e9n es bueno para la protecci\u00f3n de la privacidad. Puede eliminar el historial del navegador, los cach\u00e9s y las cookies para proteger las actividades en l\u00ednea de los usuarios. Adem\u00e1s, ofrece caracter\u00edsticas como trituraci\u00f3n de archivos y borrado de disco, que proporcionan una capa adicional de seguridad eliminando permanentemente datos confidenciales.",
+         "Desde": "",
+         "Hasta": "2025/06/23 07:00",
+         "URL": "https://giveaway.tickcoupon.com/wise-care-365-pro-free-license-key-full/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -412,6 +352,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Super Asteroid Dodge by RipeAvocadoGames",
+         "Informacion": "\u00a1Dodga los asteroides y sobrevive al enjambre! Vuela a trav\u00e9s de un universo infinito lleno de campos de asteroides ca\u00f3ticos. Cuanto m\u00e1s tiempo dure, m\u00e1s r\u00e1pido y m\u00e1s grueso se vuelve el enjambre. Pruebe sus reflejos y vea hasta d\u00f3nde puede llegar: \u00bfcu\u00e1nto tiempo puede durar antes de que el espacio lo sace?",
+         "Desde": "",
+         "Hasta": "2025/06/23 19:59",
+         "URL": "https://ripeavocadogames.itch.io/super-asteroid-dodge",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ESCAPE THE CUBE! by RetroGamma",
          "Informacion": "Escapa del cubo! \u00a1GUAU! 17 niveles para completar!\u00a0\u00a1Un juego de rompecabezas \u00fanico para salir de su cub\u00edculo de oficina!",
          "Desde": "",
@@ -427,6 +377,16 @@
          "Desde": "",
          "Hasta": "2025/06/24 03:00",
          "URL": "https://store.steampowered.com/app/2752710/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Towerborne",
+         "Informacion": "Towerborne es un nuevo tipo de luchador saqueador, que combina combate de desplazamiento lateral con progresi\u00f3n de bot\u00edn de RPG de acci\u00f3n y personalizaci\u00f3n interminable. Une con otros ases y defienda el belfry, el \u00faltimo refugio de la humanidad. Explorar, luchar y fortalecerse, juntos.",
+         "Desde": "",
+         "Hasta": "2025/06/24 03:00",
+         "URL": "https://store.steampowered.com/app/2458830/",
          "IMG": "",
          "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
@@ -492,6 +452,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster SignPub 1 Year License Key Free",
+         "Informacion": "CoolMuster SignPub es un fant\u00e1stico software de edici\u00f3n EPUB dise\u00f1ado para editar la fuente y los errores tipogr\u00e1ficos en los archivos EPUB con facilidad y embellecer cualquier archivo EPUB con efectos diferentes y emocionantes. Con su ayuda, puede editar las im\u00e1genes, cambiar las cubiertas y modificar las fuentes en sus archivos EPUB, y el efecto es excelente. Varios formatos de imagen, como JPG, PNG, TIFF, GIF, etc., pueden incrustarse en cualquier libro EPUB f\u00e1cilmente con la ayuda de CoolMuster SignPub.",
+         "Desde": "",
+         "Hasta": "2025/06/26 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-signpub-license-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kingshiper Data Recovery",
+         "Informacion": "Kingshiper Data Recovery es una herramienta de recuperaci\u00f3n de datos todo en uno dise\u00f1ada para recuperar efectivamente los archivos perdidos debido a problemas de hardware, ataques de virus o operaciones inesperadas. Puede recuperar archivos de situaciones como eliminaci\u00f3n accidental, formato de partici\u00f3n, p\u00e9rdida de partici\u00f3n, archivos que no responden, errores de disco sin procesar y unidades USB sin formato.",
+         "Desde": "",
+         "Hasta": "2025/06/26 07:00",
+         "URL": "https://sharewareonsale.com/s/free-kingshiper-data-recovery-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Operator",
          "Informacion": "Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.",
          "Desde": "2025/06/19",
@@ -499,7 +479,7 @@
          "URL": "https://store.epicgames.com/p/the-operator-b835e9",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "AIS : Artificial Intelligence and Soul by yao-games",
@@ -542,6 +522,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Please Remember Me! by JJBEATS",
+         "Informacion": "\u00a1Descubra la verdad detr\u00e1s de un juego de texto escalofriante!",
+         "Desde": "",
+         "Hasta": "2025/06/28 18:00",
+         "URL": "https://jjbeats99.itch.io/please-remember-me",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Card Survival by Cbunsee",
          "Informacion": "Este juego se realiz\u00f3 en 2 d\u00edas para un proyecto escolar. Se agradece los comentarios en los comentarios para que pueda mejorar el juego.",
          "Desde": "",
@@ -579,6 +569,16 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-14-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sinister Visions (Chapter 1) by AR92",
+         "Informacion": "Emb\u00e1rcate en un viaje escalofriante a trav\u00e9s de la oscuridad de 'siniestras visiones', un juego que pondr\u00e1 a prueba tu resoluci\u00f3n frente al terror indescriptible. Ubicada en una casa abandada envuelta en misterio y miedo, debes navegar a trav\u00e9s de una serie de encuentros de hormigueo y resolver acertijos desconcertantes para desentra\u00f1ar los siniestros secretos que han plagado a casa durante generaciones. A medida que profundice en la historia inquietante, se enfrentar\u00e1 cara a cara con las fuerzas mal\u00e9volas que buscan arrastrarlo al abismo. \u00bfTendr\u00e1s el coraje de confrontar la oscuridad y desenterrar la verdad, o se convertir\u00e1s en otra v\u00edctima de los susurros en la oscuridad? Prep\u00e1rese para confrontar sus miedos m\u00e1s profundos en esta apasionante cuento de horror y suspenso",
+         "Desde": "",
+         "Hasta": "2025/06/30 08:00",
+         "URL": "https://ar92.itch.io/sinister-v",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -802,6 +802,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Sable",
+         "Informacion": "Emb\u00e1rcate en viaje \u00fanico e inolvidable en el que acompa\u00f1ar\u00e1s a Sable durante su planeo, un rito de iniciaci\u00f3n que la llevar\u00e1 a recorrer vastos desiertos y parajes impresionantes repletos de maravillas de otros tiempos y de restos de naves espaciales.",
+         "Desde": "2025/06/26",
+         "Hasta": "2025/07/03 17:00",
+         "URL": "https://store.epicgames.com/p/sable",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Stay Warm, Stay Alive by wiedzmiz",
          "Informacion": "Mientras caminaba en las monta\u00f1as, te desorientaste debido a las fuertes nevadas. El sendero que segu\u00edas desapareci\u00f3 debajo de la nieve, y perdiste tu sentido de la direcci\u00f3n. Mientras buscaste desesperadamente un camino de regreso, una tormenta de nieve repentina te tom\u00f3 por sorpresa.",
          "Desde": "",
@@ -817,6 +827,16 @@
          "Desde": "",
          "Hasta": "2025/07/05 11:21",
          "URL": "https://indifferentpenguin.itch.io/gamedaymayhem",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stevo life by Vukas",
+         "Informacion": "Solo quieres beber rakija pero ya est\u00e1s borracho",
+         "Desde": "",
+         "Hasta": "2025/07/06 22:14",
+         "URL": "https://mr-viktor.itch.io/stevo-life",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -892,13 +912,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Parking by GamingTGT",
-         "Informacion": "Un hombre fue al estacionamiento para encontrar actividades paranormales dentro del estacionamiento.",
+         "Nombre": "Leawo Photo Enhancer Free License Key 1-Year Giveaway",
+         "Informacion": "Si tus fotos son demasiado oscuras o brillantes, \u00a1no te preocupes! Leawo Photo Enhancer te ayudar\u00e1. Leawo AI Photo Enhancer es un software profesional y potente para mejorar fotos dise\u00f1ado para mejorar la calidad de las fotos con solo un clic autom\u00e1ticamente. Equipado con herramientas avanzadas de mejora fotogr\u00e1fica de fotograf\u00eda como la piel retocada, eliminar las pecas, mejorar los ojos y ajustar la iluminaci\u00f3n, el potenciador de fotos de Leawo AI har\u00e1 que sus fotos de retratos sean m\u00e1s impresionantes y atractivas. \u00bfQu\u00e9 m\u00e1s? Leawo AI Photo Enhancer ofrece excelentes herramientas que son buenas para solucionar problemas de fotos y optimizar los colores fotogr\u00e1ficos, tintes, paisajes y contraste tambi\u00e9n.",
          "Desde": "",
-         "Hasta": "2025/07/17 08:00",
-         "URL": "https://tgtstudio.itch.io/the-parking",
+         "Hasta": "2025/07/17 00:00",
+         "URL": "https://giveaway.tickcoupon.com/leawo-photo-enhancer-free-license-code/",
          "IMG": "",
-         "Distribuidora": "Itch io",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -917,6 +937,26 @@
          "Desde": "",
          "Hasta": "2025/07/17 08:00",
          "URL": "https://tgtstudio.itch.io/stalker",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Parking by GamingTGT",
+         "Informacion": "Un hombre fue al estacionamiento para encontrar actividades paranormales dentro del estacionamiento.",
+         "Desde": "",
+         "Hasta": "2025/07/17 08:00",
+         "URL": "https://tgtstudio.itch.io/the-parking",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cereal by GamingTGT",
+         "Informacion": "Imagina que fuiste a tu casa para encontrar un cereal en tu refrigerador (no lo hiciste). Pensaste que fue hecho por tu esposa. Lo tomaste, fuiste a la sala de estar y algo sucedi\u00f3.",
+         "Desde": "",
+         "Hasta": "2025/07/17 08:00",
+         "URL": "https://tgtstudio.itch.io/cerealupdated",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
