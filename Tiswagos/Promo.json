@@ -1,86 +1,6 @@
 {
-   "date_update": "19 Jun 2025 16:02 UTC",
+   "date_update": "20 Jun 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Run Red by Raphi's Software Company",
-         "Informacion": "Este juego utiliza datos de velocidad de sus carreras/trotes de la vida real para calcular las estad\u00edsticas de ataque de su personaje en el juego.",
-         "Desde": "",
-         "Hasta": "2025/06/19 11:11",
-         "URL": "https://raphis-software-company.itch.io/run-red-demo",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 91%, yellow 91%) 1;"
-      },
-      {
-         "Nombre": "Two Point Hospital",
-         "Informacion": "Dise\u00f1a hospitales incre\u00edbles, cura enfermedades extra\u00f1as y gestiona al problem\u00e1tico personal mientras extiendes tus ramas sanitarias por el condado de Two Point.",
-         "Desde": "2025/06/12",
-         "Hasta": "2025/06/19 17:00",
-         "URL": "https://store.epicgames.com/p/two-point-hospital",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "SKALL by marisa0704",
-         "Informacion": "Comienzas tu viaje como Jihn, un trabajador de la estaci\u00f3n de servicio de turno nocturno que se encuentra enredado en una conspiraci\u00f3n escalofriante.",
-         "Desde": "",
-         "Hasta": "2025/06/19 20:13",
-         "URL": "https://marisa0704.itch.io/skall",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "Kasperias Arenas 3D by KasperV",
-         "Informacion": "- Crear un personaje con looks y habilidades personalizadas",
-         "Desde": "",
-         "Hasta": "2025/06/19 23:00",
-         "URL": "https://kasperv.itch.io/kasperias-arenas-3d",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Macxvideo AI License Key Free Download 2025",
-         "Informacion": "MacXvideo AI es un convertidor de video todo en uno con mejora de IA de pr\u00f3xima generaci\u00f3n que utiliza el poder de la inteligencia artificial para transformar sus medios con una impresionante calidad de grado de cine. Esta herramienta de convertidor de video puede convertir videos de baja resoluci\u00f3n en formatos cristalinos de 1080p, 2k o 4K con escala avanzada impulsada por IA. Tambi\u00e9n puede mejorar las velocidades de cuadro, permiti\u00e9ndole aumentar los videos para suavizar los 60 fps o 120 fps, o incluso crear efectos impresionantes de movimiento lento.",
-         "Desde": "",
-         "Hasta": "2025/06/20 00:00",
-         "URL": "https://giveaway.tickcoupon.com/macxvideo-ai-free-license-key-download/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "GridSim Evolution by Dancing Dots",
-         "Informacion": "\u00a1Bienvenido a Gridsim Evolution! Una colecci\u00f3n de sims de evoluci\u00f3n con aut\u00f3mata celular.",
-         "Desde": "",
-         "Hasta": "2025/06/20 07:52",
-         "URL": "https://15joldersmat.itch.io/gridsim-evolution",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
-      {
-         "Nombre": "Idle Bazaar by Dancing Dots",
-         "Informacion": "El bazar inactivo es una simulaci\u00f3n minimalista de guerra comercial a mano donde los imperios basados \u200b\u200ben la red compiten por la supervivencia a trav\u00e9s de la expansi\u00f3n, el comercio y la conquista.",
-         "Desde": "",
-         "Hasta": "2025/06/20 07:52",
-         "URL": "https://15joldersmat.itch.io/idle-bazaar",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
-      {
-         "Nombre": "VideoProc Conveter AI",
-         "Informacion": "Mejorar la calidad de video/imagen, convertir, editar y comprimir los medios sin esfuerzo",
-         "Desde": "",
-         "Hasta": "2025/06/20 09:00",
-         "URL": "https://www.bitsdujour.com/software/videoproc-converter-ai/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Street Restaurant Simulator by JADU",
          "Informacion": "Este juego fue hecho para Gamedev.js Jam 2025 menos de 10 d\u00edas",
@@ -89,7 +9,7 @@
          "URL": "https://jadu-developer.itch.io/street-restaurant-simulator",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Welcome by JADU",
@@ -99,7 +19,7 @@
          "URL": "https://jadu-developer.itch.io/welcome",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
@@ -109,7 +29,17 @@
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
+      },
+      {
+         "Nombre": "SKALL by marisa0704",
+         "Informacion": "Comienzas tu viaje como Jihn, un trabajador de la estaci\u00f3n de servicio de turno nocturno que se encuentra enredado en una conspiraci\u00f3n escalofriante.",
+         "Desde": "",
+         "Hasta": "2025/06/20 20:13",
+         "URL": "https://marisa0704.itch.io/skall",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Merger Giveaway 1-Year License Key Free",
@@ -119,17 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-merger-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "ZD Soft Screen Recorder 12",
-         "Informacion": "La grabadora de pantalla suave de ZD captura la pantalla/c\u00e1mara web/audio muy r\u00e1pido y los comprime en videos HD en la marcha, al igual que una videoc\u00e1mara dentro de su pantalla. Se puede capturar cualquier cosa que se muestre en la pantalla, como p\u00e1ginas web, videos de transmisi\u00f3n y pantallas de juego. No solo puede guardar la captura de pantalla en archivos de video, sino tambi\u00e9n transmitirlo en vivo a sitios web de video de Internet como Twitch/YouTube, o transmitirla de forma segura a los espectadores invitados dentro de la red de \u00e1rea local.",
-         "Desde": "",
-         "Hasta": "2025/06/21 07:00",
-         "URL": "https://sharewareonsale.com/s/zd-soft-screen-recorder-giveaway-coupon-sale",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "MiniTool ShadowMaker Pro",
@@ -139,7 +59,17 @@
          "URL": "https://sharewareonsale.com/s/free-minitool-shadowmaker-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "ZD Soft Screen Recorder 12",
+         "Informacion": "La grabadora de pantalla suave de ZD captura la pantalla/c\u00e1mara web/audio muy r\u00e1pido y los comprime en videos HD en la marcha, al igual que una videoc\u00e1mara dentro de su pantalla. Se puede capturar cualquier cosa que se muestre en la pantalla, como p\u00e1ginas web, videos de transmisi\u00f3n y pantallas de juego. No solo puede guardar la captura de pantalla en archivos de video, sino tambi\u00e9n transmitirlo en vivo a sitios web de video de Internet como Twitch/YouTube, o transmitirla de forma segura a los espectadores invitados dentro de la red de \u00e1rea local.",
+         "Desde": "",
+         "Hasta": "2025/06/21 07:00",
+         "URL": "https://sharewareonsale.com/s/zd-soft-screen-recorder-giveaway-coupon-sale",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "ZD Soft Screen Recorder Free Key 2024",
@@ -192,6 +122,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "PC Trek Browser Password Recovery Tool License Key Free",
+         "Informacion": "En caso de que haya olvidado o fuera de las contrase\u00f1as extraviadas para sus sitios web m\u00e1s queridos, necesita un software que pueda ayudarlo a recuperar contrase\u00f1as en solo unos pocos clics. La herramienta de recuperaci\u00f3n de contrase\u00f1a de PC Trek Browser es un software de recuperaci\u00f3n de contrase\u00f1a de alta calidad dise\u00f1ado para restaurar las credenciales de su sitio web. Con su ayuda, puede recuperar instant\u00e1neamente nombres de usuario y contrase\u00f1as para Google Chrome, Microsoft Edge, Mozilla Firefox, Internet Explorer, Opera, Vivaldi, Brave, Epic Privacy Browser y Torch.",
+         "Desde": "",
+         "Hasta": "2025/06/22 15:00",
+         "URL": "https://giveaway.tickcoupon.com/pc-trek-browser-password-recovery-tool/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Liquidation Day: Sucking Isn\u00e2\u0080\u0099t Optional by Neatly Production",
          "Informacion": "Chupar no es opcional. Es tu trabajo.",
          "Desde": "",
@@ -207,6 +147,16 @@
          "Desde": "",
          "Hasta": "2025/06/23 00:00",
          "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-sms-contacts-recovery/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster Mobile Transfer 1-Year Free License Code 2025",
+         "Informacion": "La transferencia m\u00f3vil de CoolMuster es reconocida como uno de los mejores software de transferencia de datos m\u00f3viles. Permite transferir contenido como contactos, SMS, fotos, videos, libros electr\u00f3nicos, aplicaciones y m\u00e1s entre Android y Android, Android e iOS, Android y Symbian, e iOS y Symbian sin ninguna p\u00e9rdida de calidad. El software es compatible con los \u00faltimos iOS 17 y Android 14 y admite una variedad de dispositivos, incluidos iPhone, iPad, iPod, Samsung, HTC, LG, Sony, Google, Motorola y m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2025/06/23 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-mobile-transfer-giveaway/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -242,21 +192,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sticky Password Premium 1-Year License Code Free 2025",
-         "Informacion": "Sticky Password Premium es una poderosa aplicaci\u00f3n de Administrador de contrase\u00f1as que est\u00e1 dise\u00f1ada para simplificar y asegurar su vida digital. Esta herramienta ofrece una soluci\u00f3n integral para administrar sus contrase\u00f1as, inicios de sesi\u00f3n y datos confidenciales. Con su ayuda, solo necesita recordar una contrase\u00f1a maestra para acceder a todas sus cuentas. Cuenta con un generador de contrase\u00f1as seguras, llenado de formulario autom\u00e1tico y almacenamiento seguro para informaci\u00f3n de la tarjeta de cr\u00e9dito. Este software tambi\u00e9n incluye monitoreo web oscuro para alertarlo si sus datos est\u00e1n comprometidos.",
-         "Desde": "",
-         "Hasta": "2025/06/23 07:00",
-         "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Get SoftOrbits AI Photo Editor Pro License Key Free 2025",
          "Informacion": "Softorbits AI Photo Editor Pro es una aplicaci\u00f3n de editor de fotos que permite a los usuarios de Windows eliminar objetos no deseados y mejorar las fotos autom\u00e1ticamente o bajo su supervisi\u00f3n. Puede seleccionar y eliminar objetos tales como sombras de distracci\u00f3n, postes de alimentaci\u00f3n o simplemente transe\u00fantes aleatorios.",
          "Desde": "",
          "Hasta": "2025/06/23 07:00",
          "URL": "https://giveaway.tickcoupon.com/softorbits-photo-editor-pro-license-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Giveaway Wise Care 365 Pro License Key Free Download",
+         "Informacion": "Wise Care 365 Pro adopta la tecnolog\u00eda principal del mundo. Optimiza el rendimiento de la PC, defrags discos y el registro de Windows, y gestiona el proceso y los servicios de inicio. Puede limpiar y eliminar archivos basura, atajos no v\u00e1lidos y archivos de sistema redundantes sin perder datos importantes. Adem\u00e1s de la funci\u00f3n de limpieza de PC, el software tambi\u00e9n es bueno para la protecci\u00f3n de la privacidad. Puede eliminar el historial del navegador, los cach\u00e9s y las cookies para proteger las actividades en l\u00ednea de los usuarios. Adem\u00e1s, ofrece caracter\u00edsticas como trituraci\u00f3n de archivos y borrado de disco, que proporcionan una capa adicional de seguridad eliminando permanentemente datos confidenciales.",
+         "Desde": "",
+         "Hasta": "2025/06/23 07:00",
+         "URL": "https://giveaway.tickcoupon.com/wise-care-365-pro-free-license-key-full/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sticky Password Premium 1-Year License Code Free 2025",
+         "Informacion": "Sticky Password Premium es una poderosa aplicaci\u00f3n de Administrador de contrase\u00f1as que est\u00e1 dise\u00f1ada para simplificar y asegurar su vida digital. Esta herramienta ofrece una soluci\u00f3n integral para administrar sus contrase\u00f1as, inicios de sesi\u00f3n y datos confidenciales. Con su ayuda, solo necesita recordar una contrase\u00f1a maestra para acceder a todas sus cuentas. Cuenta con un generador de contrase\u00f1as seguras, llenado de formulario autom\u00e1tico y almacenamiento seguro para informaci\u00f3n de la tarjeta de cr\u00e9dito. Este software tambi\u00e9n incluye monitoreo web oscuro para alertarlo si sus datos est\u00e1n comprometidos.",
+         "Desde": "",
+         "Hasta": "2025/06/23 07:00",
+         "URL": "https://giveaway.tickcoupon.com/sticky-password-premium-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -272,13 +232,43 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Giveaway Wise Care 365 Pro License Key Free Download",
-         "Informacion": "Wise Care 365 Pro adopta la tecnolog\u00eda principal del mundo. Optimiza el rendimiento de la PC, defrags discos y el registro de Windows, y gestiona el proceso y los servicios de inicio. Puede limpiar y eliminar archivos basura, atajos no v\u00e1lidos y archivos de sistema redundantes sin perder datos importantes. Adem\u00e1s de la funci\u00f3n de limpieza de PC, el software tambi\u00e9n es bueno para la protecci\u00f3n de la privacidad. Puede eliminar el historial del navegador, los cach\u00e9s y las cookies para proteger las actividades en l\u00ednea de los usuarios. Adem\u00e1s, ofrece caracter\u00edsticas como trituraci\u00f3n de archivos y borrado de disco, que proporcionan una capa adicional de seguridad eliminando permanentemente datos confidenciales.",
+         "Nombre": "GiMeSpace Desktop Extender 1D License Key Free",
+         "Informacion": "Gimespace Desktop Extender 1D es la versi\u00f3n m\u00e1s simple de los extensores de escritorio Gimespace, que es un dise\u00f1o liviano que solo extiende su escritorio en la direcci\u00f3n horizontal. Con su ayuda, puede expandir su escritorio sin ning\u00fan l\u00edmite. Puede agregar m\u00e1s monitores a la izquierda y a la derecha de su pantalla, as\u00ed como navegar r\u00e1pidamente a cualquier posici\u00f3n en su escritorio.",
          "Desde": "",
          "Hasta": "2025/06/23 07:00",
-         "URL": "https://giveaway.tickcoupon.com/wise-care-365-pro-free-license-key-full/",
+         "URL": "https://giveaway.tickcoupon.com/gimespace-desktop-extender-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Len's Island",
+         "Informacion": "\u00a1Juega gratis! Un juego de elaboraci\u00f3n de supervivencia del mundo abierto para 1\u20138 jugadores, combinando intenso gateo de mazmorras y combate ARPG con agricultura pac\u00edfica y construcci\u00f3n creativa. Realice misiones y explore un vasto mundo generado por procedimientos llenos de peligro y descubrimiento.",
+         "Desde": "",
+         "Hasta": "2025/06/23 10:00",
+         "URL": "https://store.steampowered.com/app/1335830/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dead by Daylight",
+         "Informacion": "\u00a1Juega gratis! Atrapado para siempre en un reino de Eldritch Evil, donde incluso la muerte no es un escape, cuatro sobrevivientes decididos enfrentan un asesino sediento de sangre en un vicioso juego de nervios e ingenio. Elige un lado y entra en un mundo de tensi\u00f3n y terror con el mejor multijugador asim\u00e9trico de Horror Gaming.",
+         "Desde": "",
+         "Hasta": "2025/06/23 10:00",
+         "URL": "https://store.steampowered.com/app/381210/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Victoria 3",
+         "Informacion": "\u00a1Juega gratis! Paradox Development Studio lo invita a construir su sociedad ideal en el tumulto del emocionante y transformador siglo XIX. Equilibre los intereses competitivos en su sociedad y gane su lugar al sol en Victoria 3, uno de los juegos m\u00e1s esperados en la historia de la Paradoja.",
+         "Desde": "",
+         "Hasta": "2025/06/23 10:00",
+         "URL": "https://store.steampowered.com/app/529340/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -372,21 +362,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "WHAT THE PAK?!",
-         "Informacion": "\u00bfQu\u00e9 pak?! es un juego de fiesta de minijuego con juego de ritmo r\u00e1pido para hasta 8 jugadores. Nuestros diversos minijuegos est\u00e1n dise\u00f1ados para que pueda lograr todo tipo de travesuras con sus amigos. Golpalos, lamerlos ... robar sus pollos antes de tirarlas por la borda.",
-         "Desde": "",
-         "Hasta": "2025/06/24 03:00",
-         "URL": "https://store.steampowered.com/app/2752710/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Towerborne",
          "Informacion": "Towerborne es un nuevo tipo de luchador saqueador, que combina combate de desplazamiento lateral con progresi\u00f3n de bot\u00edn de RPG de acci\u00f3n y personalizaci\u00f3n interminable. Une con otros ases y defienda el belfry, el \u00faltimo refugio de la humanidad. Explorar, luchar y fortalecerse, juntos.",
          "Desde": "",
          "Hasta": "2025/06/24 03:00",
          "URL": "https://store.steampowered.com/app/2458830/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WHAT THE PAK?!",
+         "Informacion": "\u00bfQu\u00e9 pak?! es un juego de fiesta de minijuego con juego de ritmo r\u00e1pido para hasta 8 jugadores. Nuestros diversos minijuegos est\u00e1n dise\u00f1ados para que pueda lograr todo tipo de travesuras con sus amigos. Golpalos, lamerlos ... robar sus pollos antes de tirarlas por la borda.",
+         "Desde": "",
+         "Hasta": "2025/06/24 03:00",
+         "URL": "https://store.steampowered.com/app/2752710/",
          "IMG": "",
          "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
@@ -472,6 +462,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Architect Life - Architect's Home Office",
+         "Informacion": "Este contenido requiere la vida base de Gamearchitect: A House Design Simulatoron Steam para jugar.",
+         "Desde": "",
+         "Hasta": "2025/06/26 10:00",
+         "URL": "https://store.steampowered.com/app/3478930/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Operator",
          "Informacion": "Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.",
          "Desde": "2025/06/19",
@@ -489,6 +489,16 @@
          "URL": "https://yao-games.itch.io/ais",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Burning Studio 2025",
+         "Informacion": "Ashampoo Burning Studio 2025 quema de manera confiable pel\u00edculas, m\u00fasica y datos a todo tipo de medios de disco. Tambi\u00e9n es compatible con las copias de seguridad de datos, la rotura de CD y los dise\u00f1os de portadas personalizados, perfectos para todo tipo de proyectos de combusti\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/06/27 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -527,6 +537,16 @@
          "Desde": "",
          "Hasta": "2025/06/28 18:00",
          "URL": "https://jjbeats99.itch.io/please-remember-me",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Room 64 by Kazue:AM",
+         "Informacion": "Room 64 es el juego en el que llevo trabajando los \u00c3\u00baltimos meses,\u00a0 se trata de un plataformas relativamente sencillo, que se acerca ligeramente a lo que es un \"Rage-Game\" deber\u00c3\u00a1s espero que les guste y pasen un gran tiempo con el... Tuve muchos problemas durante el desarrollo, lo que me hizo plantearme profundamente el dejar el desarrollo de videojuegos, para siempre...\u00a0Pero \u00c2\u00a1aqu\u00c3\u00ad esta!",
+         "Desde": "",
+         "Hasta": "2025/06/29 03:41",
+         "URL": "https://kazueuwu.itch.io/room-64",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -707,6 +727,16 @@
          "Desde": "",
          "Hasta": "2025/07/01 05:59",
          "URL": "https://iamqqqqqqq.itch.io/homegame",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/07/01 07:00",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -932,6 +962,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Cereal by GamingTGT",
+         "Informacion": "Imagina que fuiste a tu casa para encontrar un cereal en tu refrigerador (no lo hiciste). Pensaste que fue hecho por tu esposa. Lo tomaste, fuiste a la sala de estar y algo sucedi\u00f3.",
+         "Desde": "",
+         "Hasta": "2025/07/17 08:00",
+         "URL": "https://tgtstudio.itch.io/cerealupdated",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Stalker by GamingTGT",
          "Informacion": "Un trabajador probado regres\u00f3 a su casa para no encontrar comida. Fue a la tienda cercana para encontrar a su primo regresando del trabajo. Pero hay algo extra\u00f1o detr\u00e1s de \u00e9l.",
          "Desde": "",
@@ -947,16 +987,6 @@
          "Desde": "",
          "Hasta": "2025/07/17 08:00",
          "URL": "https://tgtstudio.itch.io/the-parking",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Cereal by GamingTGT",
-         "Informacion": "Imagina que fuiste a tu casa para encontrar un cereal en tu refrigerador (no lo hiciste). Pensaste que fue hecho por tu esposa. Lo tomaste, fuiste a la sala de estar y algo sucedi\u00f3.",
-         "Desde": "",
-         "Hasta": "2025/07/17 08:00",
-         "URL": "https://tgtstudio.itch.io/cerealupdated",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
