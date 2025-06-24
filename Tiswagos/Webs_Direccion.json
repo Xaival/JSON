@@ -1,5 +1,5 @@
 {
-   "date_update": "23 Jun 2025 16:01 UTC",
+   "date_update": "24 Jun 2025 16:01 UTC",
    "values": [
       {
          "Direccion": "8.8.8.8 886.novitrk6.com #AntiSpam"
@@ -3776,10 +3776,16 @@
          "Direccion": "8.8.8.8 lego.01streamm4u.com #AntiSpam"
       },
       {
+         "Direccion": "8.8.8.8 major.beefilm.stream #AntiSpam"
+      },
+      {
          "Direccion": "8.8.8.8 movie.cineeu.com #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 movies-web.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 moviesae.cc #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 netflixmovie.top #AntiSpam"
