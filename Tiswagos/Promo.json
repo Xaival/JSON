@@ -1,66 +1,6 @@
 {
-   "date_update": "26 Jun 2025 16:02 UTC",
+   "date_update": "27 Jun 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Architect Life - Architect's Home Office",
-         "Informacion": "Este contenido requiere la vida base de Gamearchitect: A House Design Simulatoron Steam para jugar.",
-         "Desde": "",
-         "Hasta": "2025/06/26 10:00",
-         "URL": "https://store.steampowered.com/app/3478930/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Emily_ by TETRABYTE",
-         "Informacion": "La ai olvidada",
-         "Desde": "",
-         "Hasta": "2025/06/26 12:05",
-         "URL": "https://tetrabyte.itch.io/emily",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
-      },
-      {
-         "Nombre": "The Operator",
-         "Informacion": "Welcome to the FDI. As our newest Operator, your role is to use your detective skills to assist our field agents and investigate mysterious crimes. Use cutting-edge FDI software to dig for clues, solve puzzles, and uncover the truth.",
-         "Desde": "2025/06/19",
-         "Hasta": "2025/06/26 17:00",
-         "URL": "https://store.epicgames.com/p/the-operator-b835e9",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "AIS : Artificial Intelligence and Soul by yao-games",
-         "Informacion": "\u00a1Une fuerzas con tu robot compa\u00f1ero para derribar el AIS infectado!",
-         "Desde": "",
-         "Hasta": "2025/06/27 02:49",
-         "URL": "https://yao-games.itch.io/ais",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Burning Studio 2025",
-         "Informacion": "Ashampoo Burning Studio 2025 quema de manera confiable pel\u00edculas, m\u00fasica y datos a todo tipo de medios de disco. Tambi\u00e9n es compatible con las copias de seguridad de datos, la rotura de CD y los dise\u00f1os de portadas personalizados, perfectos para todo tipo de proyectos de combusti\u00f3n.",
-         "Desde": "",
-         "Hasta": "2025/06/27 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
-      {
-         "Nombre": "Duplicate Photo Finder Plus",
-         "Informacion": "Identificar de manera r\u00e1pida y f\u00e1cil las im\u00e1genes duplicadas",
-         "Desde": "",
-         "Hasta": "2025/06/27 09:00",
-         "URL": "https://www.bitsdujour.com/software/duplicate-photo-finder-plus/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "SKALL by marisa0704",
          "Informacion": "Comienzas tu viaje como Jihn, un trabajador de la estaci\u00f3n de servicio de turno nocturno que se encuentra enredado en una conspiraci\u00f3n escalofriante.",
@@ -69,7 +9,7 @@
          "URL": "https://marisa0704.itch.io/skall",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
       },
       {
          "Nombre": "Coolmuster Android Backup Manager 1 Year Free Code",
@@ -79,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-backup-manager-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "False Awakening by TerrorTalesProductions",
@@ -89,7 +29,7 @@
          "URL": "https://terrortalesproductions.itch.io/false-awakening",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Tree Notes",
@@ -99,7 +39,17 @@
          "URL": "https://sharewareonsale.com/s/free-tree-notes-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Simply Good Pictures",
+         "Informacion": "Optimizar las im\u00e1genes digitales en un solo clic",
+         "Desde": "",
+         "Hasta": "2025/06/28 09:00",
+         "URL": "https://www.bitsdujour.com/software/simply-good-pictures/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Fear the light by Tomython",
@@ -392,6 +342,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "WRET by Vinil",
+         "Informacion": "Camer\u00fan no crey\u00f3 mucho. Cuando dijeron que el ritual era inofensivo, solo cinco d\u00edas, \u00e9l estuvo de acuerdo. Una casa tranquila. Algunos extra\u00f1os. Un lugar para pertenecer. Pero ahora, se despierta solo. Cada ma\u00f1ana por la noche, ya est\u00e1n esperando.",
+         "Desde": "",
+         "Hasta": "2025/07/01 04:09",
+         "URL": "https://troj4nblazing.itch.io/wret",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
          "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
          "Desde": "",
@@ -439,6 +399,16 @@
          "URL": "https://itandfeel.itch.io/the-midnight-bus",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Driver Booster 12 PRO",
+         "Informacion": "\u00bfQu\u00e9 hay de nuevo con Driver Booster 12 Pro?",
+         "Desde": "",
+         "Hasta": "2025/07/01 07:00",
+         "URL": "https://sharewareonsale.com/s/driver-booster-pro-iobit-sale",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -492,6 +462,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "NEXT JUMP: Shmup Tactics",
+         "Informacion": "El siguiente salto es una t\u00e1ctica en su turno, dispara. \u00a1Haga saltos espaciales en tablas generadas de procedimiento y persigue a los dragones viciosos que robaron todo el stock de bebidas de la galaxia!",
+         "Desde": "",
+         "Hasta": "2025/07/01 10:00",
+         "URL": "https://store.steampowered.com/app/624690/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Sheris ROOM by KittyCreamPuff",
          "Informacion": "",
          "Desde": "",
@@ -517,6 +497,26 @@
          "Desde": "",
          "Hasta": "2025/07/01 19:14",
          "URL": "https://featherbox-studio.itch.io/forget-me-not",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Within by Crux Game Studios",
+         "Informacion": "Cuando Maya recibe una llamada telef\u00f3nica inquietante de su hermano menor separado Nikil (\"Nik\"), pone en marcha una serie de eventos horribles que agita el pasado y amenaza con destruir todo lo que ella aprecia.",
+         "Desde": "",
+         "Hasta": "2025/07/01 20:52",
+         "URL": "https://cruxgamestudios.itch.io/within",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Decrypt by Crux Game Studios",
+         "Informacion": "Cuando un barco de carga desaparece y luego se encuentra abandonado, se le env\u00eda a investigarlo para resolver el misterio de su equipo desaparecido.",
+         "Desde": "",
+         "Hasta": "2025/07/01 20:52",
+         "URL": "https://cruxgamestudios.itch.io/decrypt",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -592,6 +592,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Grandmother Defence [Demo] by Ahmed Naboot",
+         "Informacion": "La defensa de la abuela es un juego de defensa de la torre de tercera persona minimalista simplista donde recolectas conocimientos ocultos para actualizar tus defensas preestablecidas",
+         "Desde": "",
+         "Hasta": "2025/07/03 09:00",
+         "URL": "https://ahmednaboot.itch.io/grandmother-defence",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Missed Call by Ahmed Naboot",
+         "Informacion": "Llamada perdida: una aventura de laberinto retro accesible",
+         "Desde": "",
+         "Hasta": "2025/07/03 09:00",
+         "URL": "https://ahmednaboot.itch.io/missed-call",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Auto Change Screensavers Free License 2025",
          "Informacion": "Si posee capturas de pantalla geniales, su PC se ver\u00e1 incre\u00edble cuando no est\u00e9 en uso. Vovsoft Auto Change ScreenSavers es una herramienta de pantalla de pantalla popular que est\u00e1 dise\u00f1ada para cambiar autom\u00e1ticamente el escritorio de su computadora en un intervalo de tiempo especificado. Esta herramienta le permite buscar, elegir y ejecutar capturas de pantalla con diferentes configuraciones y en un orden preferido.",
          "Desde": "",
@@ -619,6 +639,16 @@
          "URL": "https://store.epicgames.com/p/sable",
          "IMG": "",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HDR Projects 9",
+         "Informacion": "\u00a1Muchas funciones y mejoras nuevas de los proyectos HDR 9 te est\u00e1n esperando! Use las herramientas profesionales para optimizar sus im\u00e1genes a un alto est\u00e1ndar t\u00e9cnico. Cree obras de arte de alta resoluci\u00f3n, fotogr\u00e1ficas y creativas con poco esfuerzo utilizando la amplia gama de preajustes para adaptarse a su gusto.",
+         "Desde": "",
+         "Hasta": "2025/07/04 07:00",
+         "URL": "https://sharewareonsale.com/s/free-hdr-projects-9-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -787,6 +817,16 @@
          "Desde": "",
          "Hasta": "2025/07/17 08:00",
          "URL": "https://tgtstudio.itch.io/the-parking",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dot TD by Mando37",
+         "Informacion": "\u00a1Presione el espacio y ingrese para acelerar ahora!",
+         "Desde": "",
+         "Hasta": "2025/07/18 10:37",
+         "URL": "https://mando37.itch.io/dot-td",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
