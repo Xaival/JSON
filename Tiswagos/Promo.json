@@ -1,76 +1,6 @@
 {
-   "date_update": "28 Jun 2025 16:02 UTC",
+   "date_update": "29 Jun 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Fear the light by Tomython",
-         "Informacion": "El juego se encuentra actualmente en las primeras etapas de desarrollo, toda la mec\u00e1nica b\u00e1sica y su imagen est\u00e1n listas, sin embargo, puede haber errores en el juego que no exist\u00edan originalmente, nos disculpamos de antemano por las molestias. Tambi\u00e9n debe tenerse en cuenta que el juego a\u00fan se actualizar\u00e1 y se lanzar\u00e1n parches, ya que esto a\u00fan no es un lanzamiento, pero solo un prototipo listo.",
-         "Desde": "",
-         "Hasta": "2025/06/28 11:49",
-         "URL": "https://tomython.itch.io/fear-the-light",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "Gateway of the mind by Soul_Sire",
-         "Informacion": "Te han dado una tarea para recuperar un ojo de una espeluznante historia de pasta, \"La puerta de entrada de la mente\". Este lugar es alg\u00fan tipo de centro de investigaci\u00f3n. Alguien parece estar aqu\u00ed, es una figura oscura.",
-         "Desde": "",
-         "Hasta": "2025/06/28 12:21",
-         "URL": "https://soulcode.itch.io/gate-way-of-the-mind",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "The Flowertest by Red Cap Games",
-         "Informacion": "... fue hecho en solo 7 d\u00edas",
-         "Desde": "",
-         "Hasta": "2025/06/28 15:41",
-         "URL": "https://redcap-games.itch.io/the-flowertest",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
-      },
-      {
-         "Nombre": "Please Remember Me! by JJBEATS",
-         "Informacion": "\u00a1Descubra la verdad detr\u00e1s de un juego de texto escalofriante!",
-         "Desde": "",
-         "Hasta": "2025/06/28 18:00",
-         "URL": "https://jjbeats99.itch.io/please-remember-me",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Room 64 by Kazue:AM",
-         "Informacion": "Room 64 es el juego en el que llevo trabajando los \u00c3\u00baltimos meses,\u00a0 se trata de un plataformas relativamente sencillo, que se acerca ligeramente a lo que es un \"Rage-Game\" deber\u00c3\u00a1s espero que les guste y pasen un gran tiempo con el... Tuve muchos problemas durante el desarrollo, lo que me hizo plantearme profundamente el dejar el desarrollo de videojuegos, para siempre...\u00a0Pero \u00c2\u00a1aqu\u00c3\u00ad esta!",
-         "Desde": "",
-         "Hasta": "2025/06/29 03:41",
-         "URL": "https://kazueuwu.itch.io/room-64",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
-      {
-         "Nombre": "Bestie-ary by Sandmeister",
-         "Informacion": "\u00a1Bestie-Ary es un peque\u00f1o juego peculiar de patas virtuales, hecha en GDEVROVEL!",
-         "Desde": "",
-         "Hasta": "2025/06/29 06:00",
-         "URL": "https://sandmeister.itch.io/bestieary",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "50 Vintage Film Photo Overlays",
-         "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotos cinematogr\u00e1ficas!",
-         "Desde": "",
-         "Hasta": "2025/06/29 07:00",
-         "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
       {
          "Nombre": "Age OF Plunder: Vikings by Top Bit Studios",
          "Informacion": "Edad del saqueo: vikingos",
@@ -79,7 +9,7 @@
          "URL": "https://top-bit-studios.itch.io/age-of-plunder",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Card Survival by Cbunsee",
@@ -89,7 +19,7 @@
          "URL": "https://cbunsee.itch.io/card-surivival",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
       },
       {
          "Nombre": "Silver Decay by Blinktool",
@@ -99,7 +29,7 @@
          "URL": "https://blinktool.itch.io/silver-decay",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Aiarty Image Enhancer 1-Year Free License Code 2025",
@@ -109,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/aiarty-image-enhancer-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Swyshare Recordit License Key Free Download 2025",
@@ -119,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/swyshare-recordit-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Vovsoft Batch Translator Free License Code 2025",
@@ -129,7 +59,17 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-batch-translator-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
+      },
+      {
+         "Nombre": "Aiarty Image Enhancer 1-Year Free License Code 2025",
+         "Informacion": "Deje que Aiarty Image Enhancer lo ayude a dise\u00f1ar patrones de camisetas, logotipos, sitios web, etc., sin las limitaciones de p\u00edxeles o aumentar la resoluci\u00f3n de las obras de arte de IA a 300 ppp para carteles o arte de pared sin preocupaciones de tama\u00f1o. Dise\u00f1ada con una interfaz de usuario simple, esta herramienta de potenciador de im\u00e1genes AI puede mejorar las im\u00e1genes de baja resoluci\u00f3n en 2X, 4x u 8x para imprimir o mostrar mientras se conserva detalles genuinos, lo que significa sin comprometer la calidad.",
+         "Desde": "",
+         "Hasta": "2025/06/30 00:00",
+         "URL": "https://tickgiveaway.com/aiarty-image-enhancer-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Website File Collector License Key Free 2025",
@@ -139,17 +79,7 @@
          "URL": "https://giveaway.tickcoupon.com/website-file-collector-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ashampoo UnInstaller 14",
-         "Informacion": "Ashampoo\u00ae Uninstaler 14 elimina programas no deseados sin sobras. Cinco m\u00e9todos de eliminaci\u00f3n complementarios se encargan de las aplicaciones, as\u00ed como en las aplicaciones y complementos de Windows y garantizan su eliminaci\u00f3n total.",
-         "Desde": "",
-         "Hasta": "2025/06/30 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-14-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "Ashampoo Burning Studio 2025",
@@ -159,7 +89,17 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo UnInstaller 14",
+         "Informacion": "Ashampoo\u00ae Uninstaler 14 elimina programas no deseados sin sobras. Cinco m\u00e9todos de eliminaci\u00f3n complementarios se encargan de las aplicaciones, as\u00ed como en las aplicaciones y complementos de Windows y garantizan su eliminaci\u00f3n total.",
+         "Desde": "",
+         "Hasta": "2025/06/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-uninstaller-14-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
       },
       {
          "Nombre": "Sinister Visions (Chapter 1) by AR92",
@@ -169,7 +109,17 @@
          "URL": "https://ar92.itch.io/sinister-v",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
+      },
+      {
+         "Nombre": "Simply Good Pictures",
+         "Informacion": "Optimizar las im\u00e1genes digitales en un solo clic",
+         "Desde": "",
+         "Hasta": "2025/06/30 09:00",
+         "URL": "https://www.bitsdujour.com/software/simply-good-pictures/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "Third Guardian by Griff",
@@ -392,6 +342,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Donemax Data Recovery 2",
+         "Informacion": "Recupera f\u00e1cil y completamente los datos eliminados, formateados o perdidos.",
+         "Desde": "",
+         "Hasta": "2025/07/01 07:00",
+         "URL": "https://sharewareonsale.com/s/free-donemax-data-recovery-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Pigeon West: Call Of Gun. ISEKAI by Blue harpy",
          "Informacion": "\u00bfQu\u00e9 pasar\u00eda si el criminal m\u00e1s peligroso de todo el Wild West terminara en el Isekai m\u00e1s t\u00edpico, y ni siquiera como el personaje principal?",
          "Desde": "",
@@ -472,6 +432,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Donemax Data Recovery License Key for Free",
+         "Informacion": "Donemax Data Recovery es un software de recuperaci\u00f3n de datos potente y f\u00e1cil de usar para Windows 10/8/7/Vista. Este software le ayuda a recuperar datos eliminados/perdidos en las m\u00e1quinas de Windows y recuperar particiones eliminadas/perdidas. Adem\u00e1s, puede ayudarlo a solucionar algunos problemas de disco duro. Adem\u00e1s, la recuperaci\u00f3n de datos de Donemax puede recuperar datos perdidos de discos duros internos/externos, SSD, unidades flash USB, tarjetas de memoria, tarjetas SD, c\u00e1mara/videoc\u00e1mara digital, redada, sistemas de servidores y otros dispositivos de medios de almacenamiento.",
+         "Desde": "",
+         "Hasta": "2025/07/01 14:00",
+         "URL": "https://tickgiveaway.com/donemax-data-recovery-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Forget-me-not by Featherbox Studio",
          "Informacion": "",
          "Desde": "",
@@ -542,6 +512,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "SoftOrbits MP3 Downloader for Youtube Key Free 2025",
+         "Informacion": "Es muy dif\u00edcil descargar sus videos favoritos de YouTube sin una suscripci\u00f3n premium. Pero con la ayuda de Softorbits MP3 Downloader para YouTube, todo se volver\u00e1 m\u00e1s f\u00e1cil. Como su nombre indica, esta herramienta es una aplicaci\u00f3n profesional de descarga de YouTube que est\u00e1 dise\u00f1ada para descargar un video o una lista de reproducci\u00f3n completa. Los videos descargados se guardar\u00e1n autom\u00e1ticamente en formato MP4 con alta calidad.",
+         "Desde": "",
+         "Hasta": "2025/07/02 14:00",
+         "URL": "https://tickgiveaway.com/softorbits-mp3-downloader-for-youtube/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Apeaksoft Screen Recorder 1-Year License Key Free 2025",
          "Informacion": "La grabadora de pantalla de Apeaksoft es una herramienta profesional que puede ayudarlo a grabar cualquier video y audio reproducido en su PC y Mac de Windows. Con \u00e9l, puede grabar cualquier actividad en pantalla que desee con la calidad de imagen/sonido original. Por ejemplo, puede grabar videos en l\u00ednea, llamadas de Skype, gotomeeting, juegos, podcasts, seminarios web, conferencias, conferencias en l\u00ednea, videos de c\u00e1mara web, etc. en una pantalla completa o en un tama\u00f1o de pantalla personalizado. Tambi\u00e9n puede anotar la grabaci\u00f3n con un cuadro de texto, flecha, resaltado y m\u00e1s. Le permite hacer varias configuraciones antes de la grabaci\u00f3n de video y audio.",
          "Desde": "",
@@ -559,6 +539,16 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-word-converter-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF to Word Converter 1-Year Key Free",
+         "Informacion": "Microsoft Word le permite editar y modificar documentos m\u00e1s f\u00e1cilmente que los archivos PDF de Adobe. Si desea editar archivos PDF sin usar Adobe Acrobat, puede usar el convertidor PDF de CoolMuster a Word para cambiarlos en archivos Docx de Word con un solo clic. Luego puede editar contenido de texto, insertar im\u00e1genes y m\u00e1s como desee. Esta aplicaci\u00f3n convertidor le permite convertir sus archivos PDF en documentos de Word, asegurando que todos los elementos, incluidos el texto, las im\u00e1genes, los gr\u00e1ficos y los dise\u00f1os, se conserven con precisi\u00f3n durante el proceso de conversi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/07/03 00:00",
+         "URL": "https://tickgiveaway.com/coolmuster-pdf-to-word-converter-key-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -599,6 +589,16 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-auto-change-screensavers-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Auto Change Screensavers Free License 2025",
+         "Informacion": "Si posee capturas de pantalla geniales, su PC se ver\u00e1 incre\u00edble cuando no est\u00e9 en uso. Vovsoft Auto Change ScreenSavers es una herramienta de pantalla de pantalla popular que est\u00e1 dise\u00f1ada para cambiar autom\u00e1ticamente el escritorio de su computadora en un intervalo de tiempo especificado. Esta herramienta le permite buscar, elegir y ejecutar capturas de pantalla con diferentes configuraciones y en un orden preferido.",
+         "Desde": "",
+         "Hasta": "2025/07/03 15:00",
+         "URL": "https://tickgiveaway.com/vovsoft-auto-change-screensavers-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -659,6 +659,16 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-jpg-to-pdf-converter-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster JPG to PDF Converter 1-Year Key Free",
+         "Informacion": "Como saben, un archivo PDF es un formato popular que es m\u00e1s f\u00e1cil de compartir entre diferentes usuarios. Ocasionalmente, es posible que deba convertir JPG a PDF para que pueda cambiar el tama\u00f1o de la imagen u otros atributos. CoolMuster JPG a PDF Converter es un software \u00fatil para esta tarea. Con una interfaz de usuario simple e intuitiva y un soporte de formato multiformato, esta herramienta le permite convertir los formatos de imagen JPG/JPEG, PNG, TIFF y BMP en PDF.",
+         "Desde": "",
+         "Hasta": "2025/07/05 00:00",
+         "URL": "https://tickgiveaway.com/coolmuster-jpg-to-pdf-converter-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -917,6 +927,16 @@
          "Desde": "",
          "Hasta": "2025/07/27 20:13",
          "URL": "https://marisa0704.itch.io/skall",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "We don't need you anymore by TheMarelle",
+         "Informacion": "\u00a1Los habitantes anteriores han abandonado el terreno de la ciudad con tantas basura!\u00a0Lo que sol\u00eda ser un lugar agradable para vivir ahora es un desastre.",
+         "Desde": "",
+         "Hasta": "2025/07/29 15:24",
+         "URL": "https://themarelle.itch.io/we-dont-need-you-anymore",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
