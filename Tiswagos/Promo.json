@@ -1,286 +1,6 @@
 {
-   "date_update": "30 Jun 2025 16:05 UTC",
+   "date_update": "01 Jul 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "Third Guardian by Griff",
-         "Informacion": "Descripci\u00f3n general:",
-         "Desde": "",
-         "Hasta": "2025/06/30 15:21",
-         "URL": "https://grinning-eagles.itch.io/third-guardian",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
-      },
-      {
-         "Nombre": "Always Sunset by KombuchaMan",
-         "Informacion": "HISTORIA",
-         "Desde": "",
-         "Hasta": "2025/06/30 16:00",
-         "URL": "https://kombuchaman.itch.io/always-sunset",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
-      },
-      {
-         "Nombre": "Project Z by KS GAMES",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/06/30 16:51",
-         "URL": "https://gamerevolutionx.itch.io/project-z",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Swarleynaut by MazskiGames",
-         "Informacion": "Swarleynaut es un jugador para un jugador, Action, Arcade Shooter. Lucha contra las olas de las naves espaciales enemigas e intenta superar tu puntaje alto.",
-         "Desde": "",
-         "Hasta": "2025/06/30 17:12",
-         "URL": "https://mazskigames.itch.io/swarleynaut",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
-      },
-      {
-         "Nombre": "Love in the Time of Spellphage by sophiefromhowls, Kylie",
-         "Informacion": "Gratis para el mes del orgullo!",
-         "Desde": "",
-         "Hasta": "2025/06/30 17:18",
-         "URL": "https://sophiefromhowls.itch.io/love-in-the-time-of-spellphage-01",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
-      },
-      {
-         "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
-         "Informacion": "El misterioso viajero busca la verdad sobre el legendario Wyvern del Castillo de Czersk.\u00a0Basado en eventos verdaderos (muy libremente, por supuesto;))",
-         "Desde": "",
-         "Hasta": "2025/06/30 17:47",
-         "URL": "https://soowekgames.itch.io/mij-wyvern",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
-      },
-      {
-         "Nombre": "Dungeon: Maze of Fate by SoowekGames",
-         "Informacion": "\u00a1En la tierra de la luz acecha en la oscuridad!",
-         "Desde": "",
-         "Hasta": "2025/06/30 17:47",
-         "URL": "https://soowekgames.itch.io/dungeon-maze-of-fate",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
-      },
-      {
-         "Nombre": "Survivor by SoowekGames",
-         "Informacion": "En la misteriosa y sombr\u00eda instalaci\u00f3n militar necesitas encontrar panaceum, curar para todas las enfermedades.",
-         "Desde": "",
-         "Hasta": "2025/06/30 17:47",
-         "URL": "https://soowekgames.itch.io/survivor",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
-      },
-      {
-         "Nombre": "Falemor by BorsheBlock by BorsheBlock",
-         "Informacion": "Es una aventura de oveja meditativa de caminar y hablar, bofetada,",
-         "Desde": "",
-         "Hasta": "2025/06/30 19:00",
-         "URL": "https://borsheblock.itch.io/falemor",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Stay Quiet Demo by DeezKneez56",
-         "Informacion": "Un juego en el que tienes que encontrar las 5 caba\u00f1as en el bosque. No sabr\u00e1s que los monstruos lleguen hasta que sea demasiado tarde.\u00a0Puedes cambiar entre mundos, ambos mundos tienen un enemigo diferente.",
-         "Desde": "",
-         "Hasta": "2025/06/30 19:00",
-         "URL": "https://deezkneez56.itch.io/stay-quiet",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "The Last Tree by gamesbyrd",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/06/30 20:00",
-         "URL": "https://gamesbyrd.itch.io/the-last-tree",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "The Subterranean Farmer by PozziTiv4ik",
-         "Informacion": "Emb\u00e1rcase en una odisea subterr\u00e1nea en el agricultor subterr\u00e1neo, donde el sol es un recuerdo lejano y la tierra tiene riquezas incalculables. Tu aventura comienza no en campos abiertos, sino en la oscuridad profunda y silenciosa. Tome su dominio desde la roca y cult\u00ede una granja como cualquier otra, cultivando todo, desde hongos brillantes m\u00edsticos y \u00e1rboles cristalinos hasta cultivos nucleares experimentales.",
-         "Desde": "",
-         "Hasta": "2025/06/30 21:25",
-         "URL": "https://pozzitiv4ik.itch.io/the-subterranean-farmer",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "Tower Tycoon by PozziTiv4ik",
-         "Informacion": "\u00a1Construye el rascacielos de tus sue\u00f1os y convi\u00e9rtete en el mejor magnate!",
-         "Desde": "",
-         "Hasta": "2025/06/30 21:25",
-         "URL": "https://pozzitiv4ik.itch.io/tower-tycoon",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF to JPG Converter 1-Year License Code Free",
-         "Informacion": "Una herramienta PC PDF simple y f\u00e1cil de usar es CoolMuster PDF a JPG Converter. El programa es adecuado para manejar la conversi\u00f3n sin esfuerzo de los archivos PDF al formato de imagen. Con el uso de esta herramienta, puede convertir de manera r\u00e1pida y efectiva los archivos PDF en formatos JPG, PNG, TIF, BMP y GIF. Usando el convertidor PDF de CoolMuster a JPG, puede estar seguro de que las fuentes originales, el dise\u00f1o y la calidad de la imagen se conservar\u00e1n en sus im\u00e1genes convertidas.",
-         "Desde": "",
-         "Hasta": "2025/07/01 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-jpg-converter-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "ESCAPE THE CUBE! by RetroGamma",
-         "Informacion": "Escapa del cubo! \u00a1GUAU! 17 niveles para completar!\u00a0\u00a1Un juego de rompecabezas \u00fanico para salir de su cub\u00edculo de oficina!",
-         "Desde": "",
-         "Hasta": "2025/07/01 02:33",
-         "URL": "https://zartan917.itch.io/escape-the-cube",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
-      },
-      {
-         "Nombre": "WRET by Vinil",
-         "Informacion": "Camer\u00fan no crey\u00f3 mucho. Cuando dijeron que el ritual era inofensivo, solo cinco d\u00edas, \u00e9l estuvo de acuerdo. Una casa tranquila. Algunos extra\u00f1os. Un lugar para pertenecer. Pero ahora, se despierta solo. Cada ma\u00f1ana por la noche, ya est\u00e1n esperando.",
-         "Desde": "",
-         "Hasta": "2025/07/01 04:09",
-         "URL": "https://troj4nblazing.itch.io/wret",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
-      },
-      {
-         "Nombre": "CLASSIC GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "Classic Game es un juego ascii-aventura que comenz\u00f3 en 2011 y se lanz\u00f3 en 2017.",
-         "Desde": "",
-         "Hasta": "2025/07/01 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/classicgame",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Endless Math Challenge by notRitter",
-         "Informacion": "* La versi\u00f3n pagada desbloquea sprites de jugadores adicionales, fondos y dificultades muy duras + locos.* Caracter\u00edsticas pagas no disponibles en el navegador.",
-         "Desde": "",
-         "Hasta": "2025/07/01 05:59",
-         "URL": "https://notritter.itch.io/endless-math-challenge",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME 2 by HORSES' MUSIC-DOGS",
-         "Informacion": "Home Game 2 es sobre el ermita\u00f1o que vive solo.",
-         "Desde": "",
-         "Hasta": "2025/07/01 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "HOME GAME by HORSES' MUSIC-DOGS",
-         "Informacion": "Gracias por 1000 descargas.",
-         "Desde": "",
-         "Hasta": "2025/07/01 05:59",
-         "URL": "https://iamqqqqqqq.itch.io/homegame",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "Donemax Data Recovery 2",
-         "Informacion": "Recupera f\u00e1cil y completamente los datos eliminados, formateados o perdidos.",
-         "Desde": "",
-         "Hasta": "2025/07/01 07:00",
-         "URL": "https://sharewareonsale.com/s/free-donemax-data-recovery-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Driver Booster 12 PRO",
-         "Informacion": "\u00bfQu\u00e9 hay de nuevo con Driver Booster 12 Pro?",
-         "Desde": "",
-         "Hasta": "2025/07/01 07:00",
-         "URL": "https://sharewareonsale.com/s/driver-booster-pro-iobit-sale",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "Un breve juego de terror",
-         "Desde": "",
-         "Hasta": "2025/07/01 07:00",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Pigeon West: Call Of Gun. ISEKAI by Blue harpy",
-         "Informacion": "\u00bfQu\u00e9 pasar\u00eda si el criminal m\u00e1s peligroso de todo el Wild West terminara en el Isekai m\u00e1s t\u00edpico, y ni siquiera como el personaje principal?",
-         "Desde": "",
-         "Hasta": "2025/07/01 07:28",
-         "URL": "https://squidsquadpapi.itch.io/pigeon-west-call-of-gun-isekai",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "Pigeon West: El Diablo by Blue harpy",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/01 07:28",
-         "URL": "https://squidsquadpapi.itch.io/pigeon-west-el-diablo",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "Pigeon West: Johnny the Pigeon by Blue harpy",
-         "Informacion": "Prep\u00e1rese para sumergirse en el cruel y despiadado mundo del Wild West, donde nadie puede permitirse hacer clic en su pico. El valiente h\u00e9roe de nuestra historia es Johnny the Pigeon.",
-         "Desde": "",
-         "Hasta": "2025/07/01 07:28",
-         "URL": "https://squidsquadpapi.itch.io/johnny-the-pigeon",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "Quiet West: Butcher noose by Blue harpy",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/01 07:28",
-         "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 7%, yellow 7%) 1;"
-      },
-      {
-         "Nombre": "WinExt Pro",
-         "Informacion": "Un poderoso kit de utilidades para Windows, incluye 12 herramientas \u00fatiles",
-         "Desde": "",
-         "Hasta": "2025/07/01 09:00",
-         "URL": "https://www.bitsdujour.com/software/winext-pro/in=upcoming-freebies",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "NEXT JUMP: Shmup Tactics",
          "Informacion": "El siguiente salto es una t\u00e1ctica en su turno, dispara. \u00a1Haga saltos espaciales en tablas generadas de procedimiento y persigue a los dragones viciosos que robaron todo el stock de bebidas de la galaxia!",
@@ -289,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/624690/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Tell Me Why",
@@ -299,7 +19,7 @@
          "URL": "https://store.steampowered.com/app/1180660/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Sheris ROOM by KittyCreamPuff",
@@ -309,7 +29,7 @@
          "URL": "https://kittycreampuff.itch.io/sheris-room",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
       },
       {
          "Nombre": "Eternal Night by JML Studio",
@@ -319,7 +39,7 @@
          "URL": "https://jmlgamestudio.itch.io/eternal-night",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "Donemax Data Recovery License Key for Free",
@@ -329,7 +49,7 @@
          "URL": "https://tickgiveaway.com/donemax-data-recovery-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Forget-me-not by Featherbox Studio",
@@ -339,7 +59,7 @@
          "URL": "https://featherbox-studio.itch.io/forget-me-not",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "Decrypt by Crux Game Studios",
@@ -349,7 +69,7 @@
          "URL": "https://cruxgamestudios.itch.io/decrypt",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
       },
       {
          "Nombre": "Within by Crux Game Studios",
@@ -359,7 +79,7 @@
          "URL": "https://cruxgamestudios.itch.io/within",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
       },
       {
          "Nombre": "PURPLE -Directors Cut- by Scopophobia Studios",
@@ -369,7 +89,7 @@
          "URL": "https://mortisfox.itch.io/purple-dc",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "dusty tale 1.8 by crisPlease",
@@ -379,7 +99,7 @@
          "URL": "https://crisplease.itch.io/dusty-tale-1x8",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "SoftOrbits MP3 Downloader",
@@ -389,7 +109,17 @@
          "URL": "https://sharewareonsale.com/s/free-softorbits-mp3-downloader-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "WinExt Pro",
+         "Informacion": "Un poderoso kit de utilidades para Windows, incluye 12 herramientas \u00fatiles",
+         "Desde": "",
+         "Hasta": "2025/07/02 09:00",
+         "URL": "https://www.bitsdujour.com/software/winext-pro/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "SoftOrbits MP3 Downloader for Youtube Key Free 2025",
@@ -522,11 +252,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ashampoo Background Remover 2 [with AI]",
+         "Informacion": "Ashampoo Background Remover 2 usa IA para detectar y eliminar objetos y reemplazar fondos en las fotos. Cuenta con edici\u00f3n manual, compensaci\u00f3n de IA, filtros de color, control de transparencia y procesamiento totalmente local para la privacidad total.",
+         "Desde": "",
+         "Hasta": "2025/07/04 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-2-with-ai-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
          "Informacion": "El juego original Baldi Basics in Education and Learning 1.3.2 El a\u00f1o pasado, ahora, actualizaci\u00f3n del juego a Baldi Basics Songkran en Educaci\u00f3n y Aprendizaje 1.4.5 No descompil\u00f3 el juego real que actualiza Publish Game completado! Gracias a MyStman12 por no que ese mod descompilado ya lo env\u00ede ya para actualizarlo para actualizar al acceso al juego, \u00a1no informes mi cuenta y el juego, por favor, y ahora para enviarte!",
          "Desde": "",
          "Hasta": "2025/07/04 12:30",
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Joe Terror by Sa-moo-rai",
+         "Informacion": "Donald Jr va al patio de recreo con su madre para conocer a sus amigos. Lo pasan muy bien jugando juntos, pero durante un descanso para ir al ba\u00f1o, sucede algo extra\u00f1o. Cuando regresa, no puede encontrar a nadie. Todos han desaparecido, dejando solo atr\u00e1s el silencio.",
+         "Desde": "",
+         "Hasta": "2025/07/04 14:56",
+         "URL": "https://sa-moo-rai.itch.io/joe-terror",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -562,6 +312,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "50 Vintage Film Photo Overlays",
+         "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotos cinematogr\u00e1ficas!",
+         "Desde": "",
+         "Hasta": "2025/07/05 07:00",
+         "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Music Studio 2024",
          "Informacion": "Ashampoo Music Studio 2024 permite una edici\u00f3n r\u00e1pida, organizaci\u00f3n y mezcla de archivos de audio. Los proyectos se pueden quemar y personalizar directamente con cubiertas individuales.",
          "Desde": "",
@@ -572,11 +332,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "50 Vintage Film Photo Overlays",
-         "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotos cinematogr\u00e1ficas!",
+         "Nombre": "Ashampoo Burning Studio 2025",
+         "Informacion": "Ashampoo Burning Studio 2025 quema de manera confiable pel\u00edculas, m\u00fasica y datos a todo tipo de medios de disco. Tambi\u00e9n es compatible con las copias de seguridad de datos, la rotura de CD y los dise\u00f1os de portadas personalizados, perfectos para todo tipo de proyectos de combusti\u00f3n.",
          "Desde": "",
          "Hasta": "2025/07/05 07:00",
-         "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -642,11 +402,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "When it Rains Red by LiminAce",
+         "Nombre": "Aquatic Grave by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/when-it-rains-red",
+         "URL": "https://liminace.itch.io/aquatic-grave",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -657,36 +417,6 @@
          "Desde": "",
          "Hasta": "2025/07/08 02:00",
          "URL": "https://liminace.itch.io/bedrot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Road Trip to Hell by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/road-trip-to-hell",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
-         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -712,11 +442,41 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Aquatic Grave by LiminAce",
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
+         "Desde": "",
+         "Hasta": "2025/07/08 02:00",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Road Trip to Hell by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/aquatic-grave",
+         "URL": "https://liminace.itch.io/road-trip-to-hell",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/08 02:00",
+         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "When it Rains Red by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/08 02:00",
+         "URL": "https://liminace.itch.io/when-it-rains-red",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -757,6 +517,36 @@
          "Desde": "",
          "Hasta": "2025/07/12 10:01",
          "URL": "https://henrr0ry.itch.io/underground-dungeon-ii",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Survival in the Dead World by ELDER3 STUDIO",
+         "Informacion": "\u00a1Despierta en un mundo abandonado donde los muertos no se quedan enterrados!\u00a0La supervivencia en el mundo muerto es una experiencia de supervivencia incondicional combinar la tensi\u00f3n, la estrategia y la exploraci\u00f3n en un mundo abierto peligroso.",
+         "Desde": "",
+         "Hasta": "2025/07/12 16:52",
+         "URL": "https://elder3-studio.itch.io/survival-in-the-dead-world",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BomberGuys - ELDER3 Online by ELDER3 STUDIO",
+         "Informacion": "Bomber es un emocionante juego en l\u00ednea multijugador dise\u00f1ado para reunir a ustedes y a sus amigos en partidos emocionantes y llenos de acci\u00f3n. \u00a1Juega con hasta 4 jugadores en l\u00ednea en batallas hilarantes y de ritmo r\u00e1pido donde todos puedan brillar con su propio estilo \u00fanico!",
+         "Desde": "",
+         "Hasta": "2025/07/12 16:52",
+         "URL": "https://elder3-studio.itch.io/bomberguys-elder3",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WRET by Vinil",
+         "Informacion": "Camer\u00fan no crey\u00f3 mucho. Cuando dijeron que el ritual era inofensivo, solo cinco d\u00edas, \u00e9l estuvo de acuerdo. Una casa tranquila. Algunos extra\u00f1os. Un lugar para pertenecer. Pero ahora, se despierta solo. Cada ma\u00f1ana por la noche, ya est\u00e1n esperando.",
+         "Desde": "",
+         "Hasta": "2025/07/13 04:09",
+         "URL": "https://troj4nblazing.itch.io/wret",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -902,6 +692,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Kasperias Arenas 3D by KasperV",
+         "Informacion": "- Crear un personaje con looks y habilidades personalizadas",
+         "Desde": "",
+         "Hasta": "2025/07/20 23:00",
+         "URL": "https://kasperv.itch.io/kasperias-arenas-3d",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Sky Lab Defender by KasperV",
          "Informacion": "Defensor de Sky Lab",
          "Desde": "",
@@ -917,16 +717,6 @@
          "Desde": "",
          "Hasta": "2025/07/20 23:00",
          "URL": "https://kasperv.itch.io/the-simple-life",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Kasperias Arenas 3D by KasperV",
-         "Informacion": "- Crear un personaje con looks y habilidades personalizadas",
-         "Desde": "",
-         "Hasta": "2025/07/20 23:00",
-         "URL": "https://kasperv.itch.io/kasperias-arenas-3d",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1017,6 +807,36 @@
          "Desde": "",
          "Hasta": "2025/07/30 14:15",
          "URL": "https://musialkov.itch.io/redtail",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wheres my baby by MR X Lab",
+         "Informacion": "Atrapado en un asilo abandonado, usted es el \u00faltimo m\u00e9dico en pie, y su \u00fanico escape radica en encontrar un tranquilizante para someter a una madre implacable y trastornada. Cada sombra y paso podr\u00eda ser la \u00faltima. \u00bfPuedes sobrevivir a la locura o te convertir\u00e1s en parte de ella?",
+         "Desde": "",
+         "Hasta": "2025/07/31 12:11",
+         "URL": "https://mr-x-lab.itch.io/wheres-my-baby",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Particle by Jeremy Ulrich",
+         "Informacion": "La part\u00edcula es un juego de disparos de defensa inactiva generado por procedimientos donde juegas como un robot microsc\u00f3pico que defiende una plaga biomec\u00e1nica. Destruya enemigos, recoge elementos y sobrevivir\u00e1 el mayor tiempo posible para lograr un nuevo puntaje alto.",
+         "Desde": "",
+         "Hasta": "2025/07/31 14:28",
+         "URL": "https://jeremyulrich.itch.io/particle",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HubWorld by Jeremy Ulrich",
+         "Informacion": "Hubworld es un juego de exploraci\u00f3n relajante en primera persona con un enfoque en el dise\u00f1o visual, la novedad y la facilidad de uso.",
+         "Desde": "",
+         "Hasta": "2025/07/31 14:28",
+         "URL": "https://jeremyulrich.itch.io/hubworld",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
