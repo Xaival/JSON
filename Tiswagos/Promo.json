@@ -1,26 +1,6 @@
 {
-   "date_update": "05 Jul 2025 16:02 UTC",
+   "date_update": "06 Jul 2025 16:02 UTC",
    "values": [
-      {
-         "Nombre": "GameDay Mayhem!! by Indifferent Penguin",
-         "Informacion": "Un toque y competitivo enfrentamiento de dos jugadores perfecto para el tiempo de matar (y el orgullo de su amigo) mientras espera que llegue la pizza.",
-         "Desde": "",
-         "Hasta": "2025/07/05 11:21",
-         "URL": "https://indifferentpenguin.itch.io/gamedaymayhem",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
-      },
-      {
-         "Nombre": "HDR Projects 9",
-         "Informacion": "\u00a1Muchas funciones y mejoras nuevas de los proyectos HDR 9 te est\u00e1n esperando! Use las herramientas profesionales para optimizar sus im\u00e1genes a un alto est\u00e1ndar t\u00e9cnico. Cree obras de arte de alta resoluci\u00f3n, fotogr\u00e1ficas y creativas con poco esfuerzo utilizando la amplia gama de preajustes para adaptarse a su gusto.",
-         "Desde": "",
-         "Hasta": "2025/07/06 07:00",
-         "URL": "https://sharewareonsale.com/s/free-hdr-projects-9-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
-      },
       {
          "Nombre": "Ampersat",
          "Informacion": "Un juego shooty, slashy, RPG-y que mezcla sensibilidades retro y modernas. Una combinaci\u00f3n de influencias de Gauntlet & Smash TV a Zelda y Angband, Ampersat es una aventura artesanal pero con un atractivo para los fan\u00e1ticos de Roguelite. \u00a1Batalla criaturas ASCII en \u00e1reas coloridas y letras gratis para devolver el lenguaje al pueblo!",
@@ -29,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/1356040/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Stevo life by Vukas",
@@ -39,7 +19,7 @@
          "URL": "https://mr-viktor.itch.io/stevo-life",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
       },
       {
          "Nombre": "Coolmuster ePub Converter Pro License Key Free",
@@ -49,7 +29,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-epub-converter-pro-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Vovsoft IP to Country Converter License Key Free 2025",
@@ -59,7 +39,7 @@
          "URL": "https://tickgiveaway.com/vovsoft-ip-to-country-converter-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
       },
       {
          "Nombre": "50 Deep Space Backgrounds",
@@ -69,7 +49,17 @@
          "URL": "https://sharewareonsale.com/s/free-50-deep-space-backgrounds-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 8%, yellow 8%) 1;"
+      },
+      {
+         "Nombre": "SurFast Video Downloader - 6 months license",
+         "Informacion": "Descargue videos de cualquier sitio web para reproducir fuera de l\u00ednea",
+         "Desde": "",
+         "Hasta": "2025/07/07 09:00",
+         "URL": "https://www.bitsdujour.com/software/surfast-video-downloader-6months-license/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
       },
       {
          "Nombre": "The North by Phage Maleficar",
@@ -177,6 +167,16 @@
          "Desde": "",
          "Hasta": "2025/07/09 07:00",
          "URL": "https://sharewareonsale.com/s/free-network-alarmer-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "50 Vintage Film Photo Overlays",
+         "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotos cinematogr\u00e1ficas!",
+         "Desde": "",
+         "Hasta": "2025/07/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -352,13 +352,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "ReuniunO by slowsoftend",
-         "Informacion": "Un juego simple en el que recolectas orbes usando solo el clic izquierdo como entrada. Es una experiencia basada en la probabilidad donde el objetivo es encontrar 7 orbes naranjas que desbloquean el evento final.",
+         "Nombre": "Ashampoo Background Remover 2 [with AI]",
+         "Informacion": "Ashampoo Background Remover 2 usa IA para detectar y eliminar objetos y reemplazar fondos en las fotos. Cuenta con edici\u00f3n manual, compensaci\u00f3n de IA, filtros de color, control de transparencia y procesamiento totalmente local para la privacidad total.",
          "Desde": "",
          "Hasta": "2025/07/12 07:00",
-         "URL": "https://slowsoftend.itch.io/reuniuno",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-2-with-ai-100-discount",
          "IMG": "",
-         "Distribuidora": "Itch io",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -372,11 +372,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Ashampoo Background Remover 2 [with AI]",
-         "Informacion": "Ashampoo Background Remover 2 usa IA para detectar y eliminar objetos y reemplazar fondos en las fotos. Cuenta con edici\u00f3n manual, compensaci\u00f3n de IA, filtros de color, control de transparencia y procesamiento totalmente local para la privacidad total.",
+         "Nombre": "ReuniunO by slowsoftend",
+         "Informacion": "Un juego simple en el que recolectas orbes usando solo el clic izquierdo como entrada. Es una experiencia basada en la probabilidad donde el objetivo es encontrar 7 orbes naranjas que desbloquean el evento final.",
          "Desde": "",
          "Hasta": "2025/07/12 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-2-with-ai-100-discount",
+         "URL": "https://slowsoftend.itch.io/reuniuno",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Burning Studio 2025",
+         "Informacion": "Ashampoo Burning Studio 2025 quema de manera confiable pel\u00edculas, m\u00fasica y datos a todo tipo de medios de disco. Tambi\u00e9n es compatible con las copias de seguridad de datos, la rotura de CD y los dise\u00f1os de portadas personalizados, perfectos para todo tipo de proyectos de combusti\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/07/12 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -422,6 +432,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Trench Loop by Kevin Gwydion",
+         "Informacion": "Trench Loopa Grimdark Roguelike Shooter. \u00a1Usa tu masas de gas, dispara a trav\u00e9s de trincheras llenas de demonios!",
+         "Desde": "",
+         "Hasta": "2025/07/12 22:20",
+         "URL": "https://kevingwydion.itch.io/trench-loop",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "WRET by Vinil",
          "Informacion": "Camer\u00fan no crey\u00f3 mucho. Cuando dijeron que el ritual era inofensivo, solo cinco d\u00edas, \u00e9l estuvo de acuerdo. Una casa tranquila. Algunos extra\u00f1os. Un lugar para pertenecer. Pero ahora, se despierta solo. Cada ma\u00f1ana por la noche, ya est\u00e1n esperando.",
          "Desde": "",
@@ -449,6 +469,16 @@
          "URL": "https://alexander-wiseman.itch.io/victimexe",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Taskbar Customizer",
+         "Informacion": "Ashampoo Taskbar personalizador altera el color y la opacidad de su barra de tareas. Con un solo clic, puede hacerlo semi-transl\u00facido o aplicar cualquier color que desee.",
+         "Desde": "",
+         "Hasta": "2025/07/13 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-taskbar-customizer-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -639,6 +669,16 @@
          "URL": "https://mando37.itch.io/dot-td",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Music Studio 2024",
+         "Informacion": "Ashampoo Music Studio 2024 permite una edici\u00f3n r\u00e1pida, organizaci\u00f3n y mezcla de archivos de audio. Los proyectos se pueden quemar y personalizar directamente con cubiertas individuales.",
+         "Desde": "",
+         "Hasta": "2025/07/19 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-music-studio-2024-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
