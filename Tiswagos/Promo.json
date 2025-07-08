@@ -1,116 +1,6 @@
 {
-   "date_update": "07 Jul 2025 16:02 UTC",
+   "date_update": "08 Jul 2025 16:23 UTC",
    "values": [
-      {
-         "Nombre": "The North by Phage Maleficar",
-         "Informacion": "El Norte es un juego de exploraci\u00f3n de estilo PS1. Hable con NPC e intente resolver un asesinato a bordo de un barco de rompehielos \u00e1rtico atrapado en el hielo. Juegas como doctor David Barclay, el cirujano del barco y el \u00fanico hombre por encima de la sospecha. Interact\u00faa con la tripulaci\u00f3n para obtener pistas, pero tenga cuidado, no es un miembro muy querido o respetado del HMS Etectorius.",
-         "Desde": "",
-         "Hasta": "2025/07/07 18:00",
-         "URL": "https://phagemaleficar.itch.io/the-north",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Aquatic Grave by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/aquatic-grave",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Bedrot by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/bedrot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Cabin Fever!!! by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/cabin-fever",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Exorcize Me by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/exorcize-me",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
-         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Road Trip to Hell by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/road-trip-to-hell",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "When it Rains Red by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/08 02:00",
-         "URL": "https://liminace.itch.io/when-it-rains-red",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
-      },
-      {
-         "Nombre": "Ninja: 99 Rooms Challenge by ESB Linux Custom Software Solutions",
-         "Informacion": "En Ninja: 99 habitaciones Desaf\u00edo, tu objetivo es sobrevivir a los peligros de las 99 habitaciones para convertirse en un maestro ninja.",
-         "Desde": "",
-         "Hasta": "2025/07/08 08:06",
-         "URL": "https://eduardodeadpixel.itch.io/ninja-99-rooms-challenge",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
-      },
-      {
-         "Nombre": "Duplicate File Finder Plus",
-         "Informacion": "Encuentra y limpia r\u00e1pidamente los archivos duplicados",
-         "Desde": "",
-         "Hasta": "2025/07/08 09:00",
-         "URL": "https://www.bitsdujour.com/software/duplicate-file-finder-plus/in=upcoming-freebies",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "Emily_ by TETRABYTE",
          "Informacion": "La ai olvidada",
@@ -119,7 +9,7 @@
          "URL": "https://tetrabyte.itch.io/emily",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "50 Vintage Film Photo Overlays",
@@ -129,7 +19,7 @@
          "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "Network Alarmer",
@@ -139,6 +29,26 @@
          "URL": "https://sharewareonsale.com/s/free-network-alarmer-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Duplicate File Finder Plus",
+         "Informacion": "Encuentra y limpia r\u00e1pidamente los archivos duplicados",
+         "Desde": "",
+         "Hasta": "2025/07/09 09:00",
+         "URL": "https://www.bitsdujour.com/software/duplicate-file-finder-plus/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "Duplicate File Finder Plus License Key Free 1-Year",
+         "Informacion": "El buscador de archivos duplicado Plus es un software de b\u00fasqueda de archivos duplicados f\u00e1ciles de usar para Windows. Solo necesita seleccionar los recursos ((s), carpeta (s), archivos), tama\u00f1o (s) y tipo (s) de recursos (s), y luego hacer clic en el bot\u00f3n `Buscar ahora`. Ver\u00e1 el resultado (lista de archivos duplicados) al instante. Verifica los archivos no deseados autom\u00e1ticamente con la funci\u00f3n de selecci\u00f3n inteligente, clasifica el resultado por tama\u00f1o en orden descendente y marca los grupos de archivos duplicados adyacentes por diferentes colores para permitirle operar los archivos duplicados convenientemente.",
+         "Desde": "",
+         "Hasta": "2025/07/09 14:00",
+         "URL": "https://tickgiveaway.com/duplicate-file-finder-plus-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -267,6 +177,16 @@
          "Desde": "",
          "Hasta": "2025/07/11 07:00",
          "URL": "https://sharewareonsale.com/s/free-nero-backitup-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wise Registry Cleaner Pro",
+         "Informacion": "Wise Registry Cleaner Pro es una utilidad poderosa que puede ayudarlo a limpiar los archivos basura, solucionar problemas de registro, limpiar las huellas de privacidad, descubrir causas de desaceleraci\u00f3n y hacer que su PC funcione sin problemas nuevamente.",
+         "Desde": "",
+         "Hasta": "2025/07/11 07:00",
+         "URL": "https://sharewareonsale.com/s/free-wise-registry-cleaner-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -532,6 +452,86 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "When it Rains Red by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/when-it-rains-red",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bedrot by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/bedrot",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Road Trip to Hell by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/road-trip-to-hell",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cabin Fever!!! by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/cabin-fever",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exorcize Me by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/exorcize-me",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Aquatic Grave by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/aquatic-grave",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "THE MIDNIGHT BUS by itandfeel",
          "Informacion": "Un breve juego de terror",
          "Desde": "",
@@ -777,6 +777,16 @@
          "Desde": "",
          "Hasta": "2025/07/21 03:54",
          "URL": "https://dovemingo.itch.io/overseer",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Project Alldevaih by Pehriska",
+         "Informacion": "Caracter\u00edsticas",
+         "Desde": "",
+         "Hasta": "2025/07/22 02:41",
+         "URL": "https://pehriska.itch.io/project-alldevaih",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
