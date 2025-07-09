@@ -1,46 +1,6 @@
 {
-   "date_update": "08 Jul 2025 16:23 UTC",
+   "date_update": "09 Jul 2025 16:17 UTC",
    "values": [
-      {
-         "Nombre": "Emily_ by TETRABYTE",
-         "Informacion": "La ai olvidada",
-         "Desde": "",
-         "Hasta": "2025/07/08 23:59",
-         "URL": "https://tetrabyte.itch.io/emily",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "50 Vintage Film Photo Overlays",
-         "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotos cinematogr\u00e1ficas!",
-         "Desde": "",
-         "Hasta": "2025/07/09 07:00",
-         "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
-      {
-         "Nombre": "Network Alarmer",
-         "Informacion": "Consulte sus dispositivos de red regularmente",
-         "Desde": "",
-         "Hasta": "2025/07/09 07:00",
-         "URL": "https://sharewareonsale.com/s/free-network-alarmer-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
-      {
-         "Nombre": "Duplicate File Finder Plus",
-         "Informacion": "Encuentra y limpia r\u00e1pidamente los archivos duplicados",
-         "Desde": "",
-         "Hasta": "2025/07/09 09:00",
-         "URL": "https://www.bitsdujour.com/software/duplicate-file-finder-plus/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Duplicate File Finder Plus License Key Free 1-Year",
          "Informacion": "El buscador de archivos duplicado Plus es un software de b\u00fasqueda de archivos duplicados f\u00e1ciles de usar para Windows. Solo necesita seleccionar los recursos ((s), carpeta (s), archivos), tama\u00f1o (s) y tipo (s) de recursos (s), y luego hacer clic en el bot\u00f3n `Buscar ahora`. Ver\u00e1 el resultado (lista de archivos duplicados) al instante. Verifica los archivos no deseados autom\u00e1ticamente con la funci\u00f3n de selecci\u00f3n inteligente, clasifica el resultado por tama\u00f1o en orden descendente y marca los grupos de archivos duplicados adyacentes por diferentes colores para permitirle operar los archivos duplicados convenientemente.",
@@ -49,7 +9,7 @@
          "URL": "https://tickgiveaway.com/duplicate-file-finder-plus-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "ThunderSoft Watermark Remover License Key Free 2025",
@@ -59,7 +19,7 @@
          "URL": "https://tickgiveaway.com/thundersoft-watermark-remover-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Lyall's Convenience Store: Game by Rubber Ducky Games",
@@ -69,7 +29,7 @@
          "URL": "https://rubber-ducky-games.itch.io/lyalls-convenience-store-demo",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Overdue - The Librarian by Rubber Ducky Games",
@@ -79,7 +39,7 @@
          "URL": "https://rubber-ducky-games.itch.io/overdo-the-librarian",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "The Farm by Rubber Ducky Games",
@@ -89,7 +49,17 @@
          "URL": "https://rubber-ducky-games.itch.io/the-farm",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
+      },
+      {
+         "Nombre": "Cry A Tear by NullPointGames",
+         "Informacion": "Te despiertas sobre tu espalda en un callej\u00f3n oscuro.\r\nEl concreto fr\u00edo excava en su columna vertebral.\r\nTus extremidades se sienten entumecidas, como si no fueran tuyas.\r\nTu cabeza es un desastre ... no tengo idea de c\u00f3mo llegaste aqu\u00ed.",
+         "Desde": "",
+         "Hasta": "2025/07/09 19:24",
+         "URL": "https://nullpointgames.itch.io/cry-a-tear",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Pixo Turret (Alpha) by Mando37",
@@ -99,7 +69,7 @@
          "URL": "https://mando37.itch.io/pixo-turret",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Coolmuster Word to PDF Converter 1-Year License Key Free",
@@ -109,7 +79,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-word-to-pdf-converter-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "50 Premium Modern Fonts",
@@ -119,7 +89,7 @@
          "URL": "https://sharewareonsale.com/s/free-50-premium-modern-fonts-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Black Desert",
@@ -189,6 +159,16 @@
          "URL": "https://sharewareonsale.com/s/free-wise-registry-cleaner-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mechanical Void [ENG/PL] by Jarp.pix",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/11 07:00",
+         "URL": "https://jarppix.itch.io/mechanical-void",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -452,11 +432,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "When it Rains Red by LiminAce",
+         "Nombre": "Aquatic Grave by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/when-it-rains-red",
+         "URL": "https://liminace.itch.io/aquatic-grave",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -467,36 +447,6 @@
          "Desde": "",
          "Hasta": "2025/07/15 02:00",
          "URL": "https://liminace.itch.io/bedrot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Road Trip to Hell by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/road-trip-to-hell",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
-         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -522,11 +472,41 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Aquatic Grave by LiminAce",
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Road Trip to Hell by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/aquatic-grave",
+         "URL": "https://liminace.itch.io/road-trip-to-hell",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "When it Rains Red by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/15 02:00",
+         "URL": "https://liminace.itch.io/when-it-rains-red",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -592,6 +572,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "RELIK by NovaSeeker42",
+         "Informacion": "Mira mi p\u00e1gina de YouTube",
+         "Desde": "",
+         "Hasta": "2025/07/16 06:00",
+         "URL": "https://novaseeker42.itch.io/relik",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "IObit Uninstaller 14 PRO",
+         "Informacion": "Iobit Uninstaller Pro es la soluci\u00f3n perfecta para desinstalar programas no deseados, paquetes, complementos de navegador y aplicaciones de Windows. It removes malicious browser plugins, toolbars, and injected programs to give you a secure and smooth online surfing experience.",
+         "Desde": "",
+         "Hasta": "2025/07/16 07:00",
+         "URL": "https://sharewareonsale.com/s/free-iobit-uninstaller-6-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Allavsoft Downloader for Mac Free License Code 2025",
          "Informacion": "Como descargador y convertidor de video todo en uno para MacOS, Mac OS X Tool, Allavsoft Descargar para Mac le permite descargar videos de todo tipo de sitios web de intercambio de videos como Dailymotion, Yahoo Video, Ehow, Facebook, Google Video, etc.",
          "Desde": "",
@@ -607,6 +607,16 @@
          "Desde": "",
          "Hasta": "2025/07/16 15:00",
          "URL": "https://tickgiveaway.com/allavsoft-free-license-key-lifetime/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wise Registry Cleaner Pro Full Version Download 2025",
+         "Informacion": "Wise Registry Cleaner Pro es una soluci\u00f3n de limpieza de registro integral que ofrece soluciones exhaustivas para la mayor\u00eda de los problemas que causan una computadora lenta. Incluye un esc\u00e1ner r\u00e1pido para verificar el registro de Windows y encontrar archivos incorrectos o desactualizados para solucionar para mantener su registro de Windows en la mejor forma. Adem\u00e1s, puede hacer una copia de seguridad del registro antes de limpiar para asegurarse de que sea seguro restaurarlo.",
+         "Desde": "",
+         "Hasta": "2025/07/16 15:00",
+         "URL": "https://tickgiveaway.com/wise-registry-cleaner-pro-license-key/",
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
@@ -830,6 +840,16 @@
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sid Meier's Civilization\u00ae VI Platinum Edition",
+         "Informacion": "Sid Meier's Civilization VI: Platinum Edition es el punto de partida perfecto para los jugadores de PC que a\u00fan no hayan disfrutado del adictivo sistema de juego que ha convertido a Civilization en una de las grandes sagas de videojuegos de todos los tiempos.",
+         "Desde": "2025/07/17",
+         "Hasta": "2025/07/24 17:00",
+         "URL": "https://store.epicgames.com/p/sid-meiers-civilization-vi",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "The Dark Retributionist by al3cs71",
@@ -1087,6 +1107,46 @@
          "Desde": "",
          "Hasta": "2025/08/01 07:28",
          "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ROGUE MARKET by Bouncing Dragon Games",
+         "Informacion": "Rouge Market es un Roguelike de acciones \u00fanica donde cada decisi\u00f3n cuenta y el mercado es tan impredecible como un rollo de dados. Compre y venda acciones en tiempo real, navegando olas de eventos vol\u00e1tiles, bancarrotas sorpresa y cambios econ\u00f3micos repentinos. Con cada ejecuci\u00f3n, descubra nuevas empresas y agr\u00e9guelas a su stockdex, un cat\u00e1logo din\u00e1mico que rastrea acciones descubiertas en categor\u00edas como petr\u00f3leo, automotriz, energ\u00eda, medios y espacio. Dise\u00f1ado con controles minimalistas, Rouge Market est\u00e1 completamente impulsado por el mouse, lo que le permite concentrarse en la estrategia, el tiempo y la supervivencia en el campo de batalla financiero siempre cambiante. \u00bfCu\u00e1nto tiempo puedes permanecer en el green?",
+         "Desde": "",
+         "Hasta": "2025/08/01 10:56",
+         "URL": "https://bouncing-dragon-games.itch.io/rouge-market",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BALL GAME by Bouncing Dragon Games",
+         "Informacion": "Un juego basado en altos en alto escrito inspirado en el logotipo de CD de rebotar mientras rebota en la pantalla. \u00a1En este juego, debes usar la barra espacial para cambiar aleatoriamente la direcci\u00f3n de la pelota y evitar los cuadrados mortales y coloridos!",
+         "Desde": "",
+         "Hasta": "2025/08/01 10:56",
+         "URL": "https://bouncing-dragon-games.itch.io/ball-game",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SHWOOP! by Bouncing Dragon Games",
+         "Informacion": "Este juego contiene 10 niveles, moverse alrededor del nivel colocando puntos de movimiento mientras gu\u00edas tu barco al portal verde y evitas a tus enemigos. Con controles f\u00e1ciles del mouse, estar\u00e1s en cierre por el nivel en poco tiempo, evitando a los malos y volando a una nueva galaxia. \u00bfDe qu\u00e9 podr\u00edas estar volando? Eso depende de ti, \u00a1buena suerte!",
+         "Desde": "",
+         "Hasta": "2025/08/01 10:56",
+         "URL": "https://bouncing-dragon-games.itch.io/shwoop",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "KILBUG by Bouncing Dragon Games",
+         "Informacion": "INSTRUCCIONES:",
+         "Desde": "",
+         "Hasta": "2025/08/01 10:56",
+         "URL": "https://bouncing-dragon-games.itch.io/kilbug",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
