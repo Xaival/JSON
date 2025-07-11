@@ -1,16 +1,6 @@
 {
-   "date_update": "11 Jul 2025 15:07 UTC",
+   "date_update": "11 Jul 2025 16:15 UTC",
    "values": [
-      {
-         "Nombre": "Duplicate File Finder Plus",
-         "Informacion": "Encuentra y limpia r\u00e1pidamente los archivos duplicados",
-         "Desde": "",
-         "Hasta": "2025/07/11 09:00",
-         "URL": "https://www.bitsdujour.com/software/duplicate-file-finder-plus/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
       {
          "Nombre": "Run Red by Raphi's Software Company",
          "Informacion": "Kickstarter para el juego completo y pulido disponible ahora: https://www.kickstarter.com/projects/1318970768/run-red-trurn-your-coutout-into-an-ancient-battlettle",
@@ -19,7 +9,7 @@
          "URL": "https://raphis-software-company.itch.io/run-red-demo",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Between two Worlds - Family Day by PixelPun | GamesbyRob",
@@ -29,7 +19,7 @@
          "URL": "https://pixelpun.itch.io/betweentwoworldsfamilyday",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 73%, yellow 73%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
       },
       {
          "Nombre": "Vovsoft Desktop Diary License Key for Free",
@@ -39,7 +29,7 @@
          "URL": "https://tickgiveaway.com/vovsoft-desktop-diary-giveaway-key-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Locker 1 Year License Code Free 2025",
@@ -49,7 +39,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-pdf-locker-license-key-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Ashampoo Background Remover 2 [with AI]",
@@ -59,7 +49,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-2-with-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Ashampoo Burning Studio 2025",
@@ -69,7 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Hi-Q MP3 Recorder Pro",
@@ -79,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-hi-q-mp3-recorder-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "ReuniunO by slowsoftend",
@@ -89,7 +79,17 @@
          "URL": "https://slowsoftend.itch.io/reuniuno",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "iFinD Data Recovery",
+         "Informacion": "Recuperar archivos perdidos con una tasa de \u00e9xito del 99%",
+         "Desde": "",
+         "Hasta": "2025/07/12 09:00",
+         "URL": "https://www.bitsdujour.com/software/ifind-data-recovery/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Underground Dungeon II by Henrr0ry",
@@ -219,6 +219,16 @@
          "URL": "https://sharewareonsale.com/s/free-the-massive-crafting-font-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shovel Knight Pocket Dungeon",
+         "Informacion": "\u00a1Juega gratis! \u00a1Deleve con pala caballero de las profundidades de la mazmorra de bolsillo en un mashup de aventura de rompecabezas llena de acci\u00f3n como ning\u00fan otro!",
+         "Desde": "",
+         "Hasta": "2025/07/14 10:00",
+         "URL": "https://store.steampowered.com/app/1184760/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -367,6 +377,26 @@
          "Desde": "",
          "Hasta": "2025/07/15 07:00",
          "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
+         "Desde": "",
+         "Hasta": "2025/07/15 10:21",
+         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu auto se descompone.",
+         "Desde": "",
+         "Hasta": "2025/07/15 10:21",
+         "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -539,6 +569,46 @@
          "URL": "https://tgtstudio.itch.io/the-parking",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Field of Glory II: Medieval",
+         "Informacion": "Field of Glory II Medieval es un juego t\u00e1ctico por turnos ambientado en la alta edad media de 1040 AD a 1270 DC. Desarrollado por el legendario dise\u00f1ador Richard Bodley Scott, lleva lo mejor del mundo de la mesa al mejor marco digital.",
+         "Desde": "",
+         "Hasta": "2025/07/17 10:00",
+         "URL": "https://store.steampowered.com/app/1368870/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fantasy General II",
+         "Informacion": "\u00a1El cl\u00e1sico de Wargaming de fantas\u00eda est\u00e1 de vuelta! Liderar a los poderosos h\u00e9roes y poderosos ej\u00e9rcitos a la batalla en este aclamado hito de estrategia por turnos. Sube de nivel y capacite a sus unidades y gu\u00edelos a trav\u00e9s de una campa\u00f1a de historia apasionante para decidir el destino de un mundo al borde de la destrucci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/07/17 10:00",
+         "URL": "https://store.steampowered.com/app/1025440/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Battlestar Galactica Deadlock",
+         "Informacion": "En Battlestar Galactica Deadlock \u2122 tomar\u00e1s el mando de la flota colonial en defensa de las doce colonias durante la Primera Guerra de Cylon. Dirigir muchos tipos diferentes de barcos en este juego t\u00e1ctico 3D. Cada decisi\u00f3n cuenta, su estrategia ser\u00e1 vital: \u00bfpuede garantizar la supervivencia de la humanidad?",
+         "Desde": "",
+         "Hasta": "2025/07/17 10:00",
+         "URL": "https://store.steampowered.com/app/544610/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Black Desert",
+         "Informacion": "Jugados por m\u00e1s de 20 millones de aventureros: Black Desert Online es un MMORPG de Action -World, mundo abierto. \u00a1Experimente un combate intenso y lleno de acci\u00f3n, luchar contra los jefes mundiales masivos, luchar junto a amigos para asediar y conquistar castillos, y entrenar en profesiones como pescar, comerciar, crear, cocinar y m\u00e1s!",
+         "Desde": "",
+         "Hasta": "2025/07/17 10:00",
+         "URL": "https://store.steampowered.com/app/582660/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -797,6 +867,16 @@
          "Desde": "",
          "Hasta": "2025/07/30 14:15",
          "URL": "https://musialkov.itch.io/redtail",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ghostwarp by Standout7",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/07/31 07:56",
+         "URL": "https://standout7.itch.io/ghostwarp",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
