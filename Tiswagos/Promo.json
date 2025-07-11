@@ -1,86 +1,6 @@
 {
-   "date_update": "10 Jul 2025 16:15 UTC",
+   "date_update": "11 Jul 2025 15:07 UTC",
    "values": [
-      {
-         "Nombre": "Black Desert",
-         "Informacion": "Jugados por m\u00e1s de 20 millones de aventureros: Black Desert Online es un MMORPG de Action -World, mundo abierto. \u00a1Experimente un combate intenso y lleno de acci\u00f3n, luchar contra los jefes mundiales masivos, luchar junto a amigos para asediar y conquistar castillos, y entrenar en profesiones como pescar, comerciar, crear, cocinar y m\u00e1s!",
-         "Desde": "",
-         "Hasta": "2025/07/10 10:00",
-         "URL": "https://store.steampowered.com/app/582660/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu auto se descompone.",
-         "Desde": "",
-         "Hasta": "2025/07/10 10:21",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
-      },
-      {
-         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
-         "Desde": "",
-         "Hasta": "2025/07/10 10:21",
-         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
-      },
-      {
-         "Nombre": "Backpack Hero",
-         "Informacion": "\u00a1El roguelike con manejo de inventario! Recoge objetos raros, organiza tu mochila y derrota a tus oponentes!",
-         "Desde": "2025/07/03",
-         "Hasta": "2025/07/10 17:00",
-         "URL": "https://store.epicgames.com/p/backpack-hero-449c5e",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "The Night Trip by Coconut4ck",
-         "Informacion": "El juego fue creado por estos desarrolladores:",
-         "Desde": "",
-         "Hasta": "2025/07/10 19:00",
-         "URL": "https://coconut4ck.itch.io/the-night-trip",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Mechanical Void [ENG/PL] by Jarp.pix",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/11 07:00",
-         "URL": "https://jarppix.itch.io/mechanical-void",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Nero BackItUp PRO",
-         "Informacion": "El mejor software de copia de seguridad para Windows",
-         "Desde": "",
-         "Hasta": "2025/07/11 07:00",
-         "URL": "https://sharewareonsale.com/s/free-nero-backitup-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Wise Registry Cleaner Pro",
-         "Informacion": "Wise Registry Cleaner Pro es una utilidad poderosa que puede ayudarlo a limpiar los archivos basura, solucionar problemas de registro, limpiar las huellas de privacidad, descubrir causas de desaceleraci\u00f3n y hacer que su PC funcione sin problemas nuevamente.",
-         "Desde": "",
-         "Hasta": "2025/07/11 07:00",
-         "URL": "https://sharewareonsale.com/s/free-wise-registry-cleaner-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "Duplicate File Finder Plus",
          "Informacion": "Encuentra y limpia r\u00e1pidamente los archivos duplicados",
@@ -89,7 +9,7 @@
          "URL": "https://www.bitsdujour.com/software/duplicate-file-finder-plus/in=today-100-percent",
          "IMG": "",
          "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Run Red by Raphi's Software Company",
@@ -99,7 +19,7 @@
          "URL": "https://raphis-software-company.itch.io/run-red-demo",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "Between two Worlds - Family Day by PixelPun | GamesbyRob",
@@ -109,7 +29,7 @@
          "URL": "https://pixelpun.itch.io/betweentwoworldsfamilyday",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 73%, yellow 73%) 1;"
       },
       {
          "Nombre": "Vovsoft Desktop Diary License Key for Free",
@@ -119,7 +39,7 @@
          "URL": "https://tickgiveaway.com/vovsoft-desktop-diary-giveaway-key-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Locker 1 Year License Code Free 2025",
@@ -129,7 +49,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-pdf-locker-license-key-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Ashampoo Background Remover 2 [with AI]",
@@ -139,7 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-2-with-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Ashampoo Burning Studio 2025",
@@ -149,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-burning-studio-2025-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Hi-Q MP3 Recorder Pro",
@@ -159,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-hi-q-mp3-recorder-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "ReuniunO by slowsoftend",
@@ -169,7 +89,7 @@
          "URL": "https://slowsoftend.itch.io/reuniuno",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Underground Dungeon II by Henrr0ry",
@@ -322,21 +242,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Zombie Horde.io by Mando37",
-         "Informacion": "Comprenda que la versi\u00f3n del navegador de este juego no es perfecta y algo err\u00f3nea. \u00a1Descargue el juego para una mejor experiencia!",
-         "Desde": "",
-         "Hasta": "2025/07/14 22:47",
-         "URL": "https://mando37.itch.io/zombie-hordeio",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Pixo Turret (Alpha) by Mando37",
          "Informacion": "Este juego contiene actualmente im\u00e1genes de luces intermitentes suaves, evite si tiene epilepsia.",
          "Desde": "",
          "Hasta": "2025/07/14 22:47",
          "URL": "https://mando37.itch.io/pixo-turret",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Horde.io by Mando37",
+         "Informacion": "Comprenda que la versi\u00f3n del navegador de este juego no es perfecta y algo err\u00f3nea. \u00a1Descargue el juego para una mejor experiencia!",
+         "Desde": "",
+         "Hasta": "2025/07/14 22:47",
+         "URL": "https://mando37.itch.io/zombie-hordeio",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -552,16 +472,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Leawo Photo Enhancer Free License Key 1-Year Giveaway",
-         "Informacion": "Si tus fotos son demasiado oscuras o brillantes, \u00a1no te preocupes! Leawo Photo Enhancer te ayudar\u00e1. Leawo AI Photo Enhancer es un software profesional y potente para mejorar fotos dise\u00f1ado para mejorar la calidad de las fotos con solo un clic autom\u00e1ticamente. Equipado con herramientas avanzadas de mejora fotogr\u00e1fica de fotograf\u00eda como la piel retocada, eliminar las pecas, mejorar los ojos y ajustar la iluminaci\u00f3n, el potenciador de fotos de Leawo AI har\u00e1 que sus fotos de retratos sean m\u00e1s impresionantes y atractivas. \u00bfQu\u00e9 m\u00e1s? Leawo AI Photo Enhancer ofrece excelentes herramientas que son buenas para solucionar problemas de fotos y optimizar los colores fotogr\u00e1ficos, tintes, paisajes y contraste tambi\u00e9n.",
-         "Desde": "",
-         "Hasta": "2025/07/17 00:00",
-         "URL": "https://giveaway.tickcoupon.com/leawo-photo-enhancer-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Coolmuster GIF Animator 1 Year License Key Free",
          "Informacion": "Cuando desee convertir sus im\u00e1genes no rom\u00e1nticas en archivos animados en formato GIF para aplicar a sus sitios u otros usos. Coolmuster GIF Animator es una de esas herramientas con una interfaz de usuario simple que deber\u00eda permitirle crear im\u00e1genes de GIF animadas, pancartas, botones, etc., de m\u00faltiples formatos gr\u00e1ficos, incluidas JPG/JPEG, BMP, PNG, GIF, etc. Esta herramienta tambi\u00e9n admite la funci\u00f3n de vista previa para ayudarlo a ver las im\u00e1genes importadas una por una, y previaje previsualizaciones previas.",
          "Desde": "",
@@ -569,6 +479,16 @@
          "URL": "https://tickgiveaway.com/coolmuster-gif-animator-license-free/",
          "IMG": "",
          "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Leawo Photo Enhancer Free License Key 1-Year Giveaway",
+         "Informacion": "Si tus fotos son demasiado oscuras o brillantes, \u00a1no te preocupes! Leawo Photo Enhancer te ayudar\u00e1. Leawo AI Photo Enhancer es un software profesional y potente para mejorar fotos dise\u00f1ado para mejorar la calidad de las fotos con solo un clic autom\u00e1ticamente. Equipado con herramientas avanzadas de mejora fotogr\u00e1fica de fotograf\u00eda como la piel retocada, eliminar las pecas, mejorar los ojos y ajustar la iluminaci\u00f3n, el potenciador de fotos de Leawo AI har\u00e1 que sus fotos de retratos sean m\u00e1s impresionantes y atractivas. \u00bfQu\u00e9 m\u00e1s? Leawo AI Photo Enhancer ofrece excelentes herramientas que son buenas para solucionar problemas de fotos y optimizar los colores fotogr\u00e1ficos, tintes, paisajes y contraste tambi\u00e9n.",
+         "Desde": "",
+         "Hasta": "2025/07/17 00:00",
+         "URL": "https://giveaway.tickcoupon.com/leawo-photo-enhancer-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
