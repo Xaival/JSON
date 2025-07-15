@@ -1,186 +1,6 @@
 {
-   "date_update": "14 Jul 2025 16:14 UTC",
+   "date_update": "15 Jul 2025 16:16 UTC",
    "values": [
-      {
-         "Nombre": "Shovel Knight Pocket Dungeon",
-         "Informacion": "\u00a1Juega gratis! \u00a1Deleve con pala caballero de las profundidades de la mazmorra de bolsillo en un mashup de aventura de rompecabezas llena de acci\u00f3n como ning\u00fan otro!",
-         "Desde": "",
-         "Hasta": "2025/07/14 10:00",
-         "URL": "https://store.steampowered.com/app/1184760/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Dusty Tale 1.9 by crisPlease",
-         "Informacion": "La acci\u00f3n tiene lugar en un mundo t\u00f3xico post-apocal\u00edptico, lleno de mutantes peligrosos y los restos de una civilizaci\u00f3n marchita enterrada en pilas de chatarra. Despu\u00e9s de elegir a tu personaje, participar\u00e1s en batallas interminables entre dos bandas.",
-         "Desde": "",
-         "Hasta": "2025/07/14 21:05",
-         "URL": "https://crisplease.itch.io/dusty-tale-1x9",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "Blob Invasion Defence by Mando37",
-         "Informacion": "Bienvenido a Blob Invasion A Fast Pace Wave Defense. Use sus monedas despu\u00e9s de vencer una ola para actualizar su base. #Td #shooter #survival",
-         "Desde": "",
-         "Hasta": "2025/07/14 22:47",
-         "URL": "https://mando37.itch.io/blob-invasion-defence",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Pellet Clicker by Mando37",
-         "Informacion": "Haga su propia empresa que haga dulces masticables con c\u00e1scara de choque que tenga toneladas de sabores afrutados. Con 9 edificios diferentes para producir el arco iris, ser\u00e1s rico en poco tiempo. (Idea de dulces totalmente original no inspirada en nada)",
-         "Desde": "",
-         "Hasta": "2025/07/14 22:47",
-         "URL": "https://mando37.itch.io/pellet-clicker",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Pixo Turret (Alpha) by Mando37",
-         "Informacion": "Este juego contiene actualmente im\u00e1genes de luces intermitentes suaves, evite si tiene epilepsia.",
-         "Desde": "",
-         "Hasta": "2025/07/14 22:47",
-         "URL": "https://mando37.itch.io/pixo-turret",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Zombie Horde.io by Mando37",
-         "Informacion": "Comprenda que la versi\u00f3n del navegador de este juego no es perfecta y algo err\u00f3nea. \u00a1Descargue el juego para una mejor experiencia!",
-         "Desde": "",
-         "Hasta": "2025/07/14 22:47",
-         "URL": "https://mando37.itch.io/zombie-hordeio",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "MANMONGER by MAGMATUNA",
-         "Informacion": "WASD - Move",
-         "Desde": "",
-         "Hasta": "2025/07/14 23:00",
-         "URL": "https://magmatuna.itch.io/manmonger",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Get Coolmuster iOS Eraser 1-Year Free License Key Giveaway",
-         "Informacion": "El borrador de CoolMuster iOS le permite eliminar de manera completa y permanente todos los datos de sus iDevices y liberar espacio en su dispositivo. Puede borrar datos privados, como registros bancarios, cuentas y contrase\u00f1as, datos financieros, etc., y datos existentes como fotos, videos, mensajes de texto, registros de llamadas, etc.",
-         "Desde": "",
-         "Hasta": "2025/07/15 00:00",
-         "URL": "https://tickgiveaway.com/coolmuster-ios-eraser-full-free/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Aquatic Grave by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/aquatic-grave",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "Bedrot by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/bedrot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "Cabin Fever!!! by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/cabin-fever",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "Exorcize Me by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/exorcize-me",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
-         "Informacion": "Entonces, te han aceptado la Academia Everblood para Magic: \u00a1qu\u00e9 lindo!",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "Road Trip to Hell by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/road-trip-to-hell",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "When it Rains Red by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/15 02:00",
-         "URL": "https://liminace.itch.io/when-it-rains-red",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "Un breve juego de terror",
-         "Desde": "",
-         "Hasta": "2025/07/15 07:00",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Home Design",
-         "Informacion": "Ashampoo Home Design 10 es un poderoso software de planificaci\u00f3n 2D/3D para el dise\u00f1o del hogar, el dise\u00f1o interior y los proyectos de remodelaci\u00f3n. El programa permite la importaci\u00f3n y edici\u00f3n de millones de objetos 3D, incluidos los formatos SketchUp y Collada. Estos se pueden agregar directamente al cat\u00e1logo de objetos para su uso en dise\u00f1os personalizados y realistas utilizando modelos neutros y espec\u00edficos del fabricante. Los sistemas fotovoltaicos se pueden planificar r\u00e1pidamente utilizando asistentes incorporados. Las instalaciones de la azotea son f\u00e1ciles de configurar, con opciones para seleccionar tipos de m\u00f3dulos, definir espaciado y reconocimiento autom\u00e1tico del lado del techo simplemente haciendo clic en la superficie.",
-         "Desde": "",
-         "Hasta": "2025/07/15 09:00",
-         "URL": "https://www.bitsdujour.com/software/ashampoo-home-design/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Moth by lucaspulaski",
          "Informacion": "En Moth juegas como investigador de la polic\u00eda que busca en el estacionamiento subterr\u00e1neo un asesino.",
@@ -189,7 +9,7 @@
          "URL": "https://lucaspulaski.itch.io/moth",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -199,7 +19,7 @@
          "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
       },
       {
          "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -209,7 +29,7 @@
          "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
       },
       {
          "Nombre": "Hungry Horrors (demo) by Clumsy Bear Studio",
@@ -219,7 +39,7 @@
          "URL": "https://clumsy-bear-studio.itch.io/hungry-horrors",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "Cry A Tear by NullPointGames",
@@ -229,7 +49,17 @@
          "URL": "https://nullpointgames.itch.io/cry-a-tear",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
+      },
+      {
+         "Nombre": "Ceiling Fan Ghost by Standout7",
+         "Informacion": "Este es mi primer juego independiente, realizado en solo dos semanas con una PC de gama baja y mucho esfuerzo. Es una experiencia corta y espeluznante para los fan\u00e1ticos de juegos de terror simples.",
+         "Desde": "",
+         "Hasta": "2025/07/15 19:22",
+         "URL": "https://standout7.itch.io/ceilingfan",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Decoration Protection by RAINESTORM",
@@ -239,7 +69,7 @@
          "URL": "https://cheese116.itch.io/decoration-protection",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "Farmalution-the farm frenzy! by RAINESTORM",
@@ -249,7 +79,7 @@
          "URL": "https://cheese116.itch.io/farmalution",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "FREE Haunted Hollows rogue-like by RAINESTORM",
@@ -259,7 +89,7 @@
          "URL": "https://cheese116.itch.io/haunted-hollows-rouge",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "FREE-Hog Blast by RAINESTORM",
@@ -269,7 +99,7 @@
          "URL": "https://cheese116.itch.io/free-hog-blast",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "RELIK by NovaSeeker42",
@@ -279,7 +109,7 @@
          "URL": "https://novaseeker42.itch.io/relik",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "IObit Uninstaller 14 PRO",
@@ -289,7 +119,7 @@
          "URL": "https://sharewareonsale.com/s/free-iobit-uninstaller-6-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Allavsoft Downloader for Mac Free License Code 2025",
@@ -502,6 +332,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Pixo Turret (Alpha) by Mando37",
+         "Informacion": "Este juego contiene actualmente im\u00e1genes de luces intermitentes suaves, evite si tiene epilepsia.",
+         "Desde": "",
+         "Hasta": "2025/07/18 22:47",
+         "URL": "https://mando37.itch.io/pixo-turret",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Horde.io by Mando37",
+         "Informacion": "Comprenda que la versi\u00f3n del navegador de este juego no es perfecta y algo err\u00f3nea. \u00a1Descargue el juego para una mejor experiencia!",
+         "Desde": "",
+         "Hasta": "2025/07/18 22:47",
+         "URL": "https://mando37.itch.io/zombie-hordeio",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Blob Invasion Defence by Mando37",
+         "Informacion": "Bienvenido a Blob Invasion A Fast Pace Wave Defense. Use sus monedas despu\u00e9s de vencer una ola para actualizar su base. #Td #shooter #survival",
+         "Desde": "",
+         "Hasta": "2025/07/18 22:47",
+         "URL": "https://mando37.itch.io/blob-invasion-defence",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pellet Clicker by Mando37",
+         "Informacion": "Haga su propia empresa que haga dulces masticables con c\u00e1scara de choque que tenga toneladas de sabores afrutados. Con 9 edificios diferentes para producir el arco iris, ser\u00e1s rico en poco tiempo. (Idea de dulces totalmente original no inspirada en nada)",
+         "Desde": "",
+         "Hasta": "2025/07/18 22:47",
+         "URL": "https://mando37.itch.io/pellet-clicker",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Coolmuster iPhone Backup Extractor 1-Year Key Free",
          "Informacion": "Los usuarios de iPhone reconocieron que iTunes es una gran herramienta para copias de seguridad regulares de sus im\u00e1genes, videos y otros datos importantes en caso de que su dispositivo se pierda, da\u00f1e o reemplace. Pero, \u00bfc\u00f3mo se obtiene sus datos si se pierde su iPhone/iPad/iPod? El extractor de copia de seguridad de iPhone CoolMuster es un software profesional de extracci\u00f3n de backup iPhone para extraer archivos de iPhone desde la copia de seguridad de iTunes a una computadora sin conectar su iPhone a la computadora.",
          "Desde": "",
@@ -519,6 +389,16 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-music-studio-2024-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Luggage: Luxurious Edition by RBD Interactive",
+         "Informacion": "Juegas como Steve. Ha llegado al aeropuerto desde un viaje de campamento y tiene un equipaje importante que debe llevar con \u00e9l.",
+         "Desde": "",
+         "Hasta": "2025/07/20 05:00",
+         "URL": "https://rbdinteractive.itch.io/luggageluxuriousedition",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -662,6 +542,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Secure Eraser",
+         "Informacion": "El borrador seguro garantiza la eliminaci\u00f3n permanente de archivos confidenciales de su PC o computadora port\u00e1til.",
+         "Desde": "",
+         "Hasta": "2025/07/22 07:00",
+         "URL": "https://sharewareonsale.com/s/free-secure-eraser-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "One Last Time by D4rkShad0w",
          "Informacion": "\u00a1Una \u00faltima vez es un juego de terror psicol\u00f3gico corto (5-10 minutos) ambientado en una escuela con una narrativa misteriosa que (con suerte) te mantendr\u00e1 pregunt\u00e1ndote hasta el final!",
          "Desde": "",
@@ -757,6 +647,16 @@
          "Desde": "",
          "Hasta": "2025/07/29 15:24",
          "URL": "https://themarelle.itch.io/we-dont-need-you-anymore",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Still Alive by 0zanM",
+         "Informacion": "El apocalipsis zombie se ha extendido por todo el mundo. La mayor\u00eda de la gente ha muerto. Escuchaste que se ha desarrollado una cura en un laboratorio.\u00a0Est\u00e1s intentando encontrar la cura en el laboratorio para terminar con este apocalipsis.",
+         "Desde": "",
+         "Hasta": "2025/07/30 02:00",
+         "URL": "https://0zanm.itch.io/still-alive",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
