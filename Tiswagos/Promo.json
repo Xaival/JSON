@@ -1,126 +1,6 @@
 {
-   "date_update": "15 Jul 2025 16:16 UTC",
+   "date_update": "16 Jul 2025 16:14 UTC",
    "values": [
-      {
-         "Nombre": "Moth by lucaspulaski",
-         "Informacion": "En Moth juegas como investigador de la polic\u00eda que busca en el estacionamiento subterr\u00e1neo un asesino.",
-         "Desde": "",
-         "Hasta": "2025/07/15 10:00",
-         "URL": "https://lucaspulaski.itch.io/moth",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu auto se descompone.",
-         "Desde": "",
-         "Hasta": "2025/07/15 10:21",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
-      },
-      {
-         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
-         "Desde": "",
-         "Hasta": "2025/07/15 10:21",
-         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
-      },
-      {
-         "Nombre": "Hungry Horrors (demo) by Clumsy Bear Studio",
-         "Informacion": "En horrores hambrientos, no matas a los monstruos, te alimentas. Pero tenga cuidado con lo que est\u00e1 en el men\u00fa. Inspirado por el folklore brit\u00e1nico e irland\u00e9s, este constructor de mazos de p\u00edxeles te reta a apaciguar a las criaturas de la leyenda con los platos regionales tradicionales.",
-         "Desde": "",
-         "Hasta": "2025/07/15 11:30",
-         "URL": "https://clumsy-bear-studio.itch.io/hungry-horrors",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
-      },
-      {
-         "Nombre": "Cry A Tear by NullPointGames",
-         "Informacion": "Te despiertas sobre tu espalda en un callej\u00f3n oscuro.\r\nEl concreto fr\u00edo excava en su columna vertebral.\r\nTus extremidades se sienten entumecidas, como si no fueran tuyas.\r\nTu cabeza es un desastre ... no tengo idea de c\u00f3mo llegaste aqu\u00ed.",
-         "Desde": "",
-         "Hasta": "2025/07/15 17:16",
-         "URL": "https://nullpointgames.itch.io/cry-a-tear",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
-      },
-      {
-         "Nombre": "Ceiling Fan Ghost by Standout7",
-         "Informacion": "Este es mi primer juego independiente, realizado en solo dos semanas con una PC de gama baja y mucho esfuerzo. Es una experiencia corta y espeluznante para los fan\u00e1ticos de juegos de terror simples.",
-         "Desde": "",
-         "Hasta": "2025/07/15 19:22",
-         "URL": "https://standout7.itch.io/ceilingfan",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "Decoration Protection by RAINESTORM",
-         "Informacion": "-Este proyecto est\u00e1 en beta--",
-         "Desde": "",
-         "Hasta": "2025/07/16 01:38",
-         "URL": "https://cheese116.itch.io/decoration-protection",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "Farmalution-the farm frenzy! by RAINESTORM",
-         "Informacion": "\u00a1Un juego agr\u00edcola calmante y con sede en el econemy donde los animales se comen! Esto los hace evolucionar hacia animales m\u00e1s grandes. Usa el dinero que tus animales cacan para comprar huevos.\u00a0 \u00a0\u00a0DIVERTIRSE",
-         "Desde": "",
-         "Hasta": "2025/07/16 01:38",
-         "URL": "https://cheese116.itch.io/farmalution",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "FREE Haunted Hollows rogue-like by RAINESTORM",
-         "Informacion": "-Revise mis otros juegos--",
-         "Desde": "",
-         "Hasta": "2025/07/16 01:38",
-         "URL": "https://cheese116.itch.io/haunted-hollows-rouge",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "FREE-Hog Blast by RAINESTORM",
-         "Informacion": "Un lindo juego 2D en el que te mueves disparando tu cohete detr\u00e1s de ti para progresar a trav\u00e9s de los niveles. Incurrir\u00e1s en accesorios como resortes y ca\u00f1ones.",
-         "Desde": "",
-         "Hasta": "2025/07/16 01:38",
-         "URL": "https://cheese116.itch.io/free-hog-blast",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
-      },
-      {
-         "Nombre": "RELIK by NovaSeeker42",
-         "Informacion": "Mira mi p\u00e1gina de YouTube",
-         "Desde": "",
-         "Hasta": "2025/07/16 06:00",
-         "URL": "https://novaseeker42.itch.io/relik",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
-      },
-      {
-         "Nombre": "IObit Uninstaller 14 PRO",
-         "Informacion": "Iobit Uninstaller Pro es la soluci\u00f3n perfecta para desinstalar programas no deseados, paquetes, complementos de navegador y aplicaciones de Windows. It removes malicious browser plugins, toolbars, and injected programs to give you a secure and smooth online surfing experience.",
-         "Desde": "",
-         "Hasta": "2025/07/16 07:00",
-         "URL": "https://sharewareonsale.com/s/free-iobit-uninstaller-6-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "Allavsoft Downloader for Mac Free License Code 2025",
          "Informacion": "Como descargador y convertidor de video todo en uno para MacOS, Mac OS X Tool, Allavsoft Descargar para Mac le permite descargar videos de todo tipo de sitios web de intercambio de videos como Dailymotion, Yahoo Video, Ehow, Facebook, Google Video, etc.",
@@ -129,7 +9,7 @@
          "URL": "https://tickgiveaway.com/allavsoft-for-mac-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Allavsoft Video Downloader Registration Code Free 2025",
@@ -139,7 +19,7 @@
          "URL": "https://tickgiveaway.com/allavsoft-free-license-key-lifetime/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Wise Registry Cleaner Pro Full Version Download 2025",
@@ -149,7 +29,7 @@
          "URL": "https://tickgiveaway.com/wise-registry-cleaner-pro-license-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Aestheta by aplove",
@@ -159,7 +39,7 @@
          "URL": "https://aplovestudio.itch.io/aestheta",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
       },
       {
          "Nombre": "Coolmuster GIF Animator 1 Year License Key Free",
@@ -169,7 +49,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-gif-animator-license-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Leawo Photo Enhancer Free License Key 1-Year Giveaway",
@@ -179,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-photo-enhancer-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Photo Background Remover 11",
@@ -189,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/softorbits-photo-background-remover-giveaway-coupon-sale",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Being Stalked by GamingTGT",
@@ -199,7 +79,7 @@
          "URL": "https://tgtstudio.itch.io/being-stalked",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Cereal by GamingTGT",
@@ -209,7 +89,7 @@
          "URL": "https://tgtstudio.itch.io/cerealupdated",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Stalker by GamingTGT",
@@ -219,7 +99,7 @@
          "URL": "https://tgtstudio.itch.io/stalker",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "The Parking by GamingTGT",
@@ -229,7 +109,17 @@
          "URL": "https://tgtstudio.itch.io/the-parking",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Home Design",
+         "Informacion": "*** \u00a1Buenas noticias! Ashampoo Gmbh & Co. KG ha acordado extender este acuerdo para otro d\u00eda, \u00a1disfruta! ***",
+         "Desde": "",
+         "Hasta": "2025/07/17 09:00",
+         "URL": "https://www.bitsdujour.com/software/ashampoo-home-design/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Battlestar Galactica Deadlock",
@@ -302,6 +192,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Kingshiper PC Cleaner",
+         "Informacion": "Kingshiper PC Cleaner es el mejor y m\u00e1s r\u00e1pido limpiador de Windows. Proporciona una limpieza de la unidad C, motores de archivos grandes, limpieza de WeChat, limpieza QQ y administrador de aplicaciones que le permite eliminar archivos basura, administrar grandes aplicaciones y archivos, limpiar el historial de chat y borrar cach\u00e9s. Con esta herramienta, puede liberar f\u00e1cilmente el espacio del disco C para mejorar el rendimiento de su PC en minutos.",
+         "Desde": "",
+         "Hasta": "2025/07/18 07:00",
+         "URL": "https://sharewareonsale.com/s/free-kingshiper-pc-cleaner-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Dot TD by Mando37",
          "Informacion": "\u00a1Presione el espacio y ingrese para acelerar ahora!",
          "Desde": "",
@@ -322,36 +222,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Survive The Crazy Disasters 2 by Mando37",
-         "Informacion": "Un sobrevivir a los desastres como el juego con m\u00e1s de 20 desastres y la capacidad de personalizar la dificultad para su gusto.",
-         "Desde": "",
-         "Hasta": "2025/07/18 22:47",
-         "URL": "https://mando37.itch.io/survive-the-crazy-disasters-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Pixo Turret (Alpha) by Mando37",
-         "Informacion": "Este juego contiene actualmente im\u00e1genes de luces intermitentes suaves, evite si tiene epilepsia.",
-         "Desde": "",
-         "Hasta": "2025/07/18 22:47",
-         "URL": "https://mando37.itch.io/pixo-turret",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zombie Horde.io by Mando37",
-         "Informacion": "Comprenda que la versi\u00f3n del navegador de este juego no es perfecta y algo err\u00f3nea. \u00a1Descargue el juego para una mejor experiencia!",
-         "Desde": "",
-         "Hasta": "2025/07/18 22:47",
-         "URL": "https://mando37.itch.io/zombie-hordeio",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Blob Invasion Defence by Mando37",
          "Informacion": "Bienvenido a Blob Invasion A Fast Pace Wave Defense. Use sus monedas despu\u00e9s de vencer una ola para actualizar su base. #Td #shooter #survival",
          "Desde": "",
@@ -367,6 +237,36 @@
          "Desde": "",
          "Hasta": "2025/07/18 22:47",
          "URL": "https://mando37.itch.io/pellet-clicker",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pixo Turret (Alpha) by Mando37",
+         "Informacion": "Este juego contiene actualmente im\u00e1genes de luces intermitentes suaves, evite si tiene epilepsia.",
+         "Desde": "",
+         "Hasta": "2025/07/18 22:47",
+         "URL": "https://mando37.itch.io/pixo-turret",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Survive The Crazy Disasters 2 by Mando37",
+         "Informacion": "Un sobrevivir a los desastres como el juego con m\u00e1s de 20 desastres y la capacidad de personalizar la dificultad para su gusto.",
+         "Desde": "",
+         "Hasta": "2025/07/18 22:47",
+         "URL": "https://mando37.itch.io/survive-the-crazy-disasters-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zombie Horde.io by Mando37",
+         "Informacion": "Comprenda que la versi\u00f3n del navegador de este juego no es perfecta y algo err\u00f3nea. \u00a1Descargue el juego para una mejor experiencia!",
+         "Desde": "",
+         "Hasta": "2025/07/18 22:47",
+         "URL": "https://mando37.itch.io/zombie-hordeio",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -642,6 +542,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/07/29 07:00",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "We don't need you anymore by TheMarelle",
          "Informacion": "\u00a1Los habitantes anteriores han abandonado el terreno de la ciudad con tantas basura!\u00a0Lo que sol\u00eda ser un lugar agradable para vivir ahora es un desastre.",
          "Desde": "",
@@ -712,6 +622,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Hungry Horrors (demo) by Clumsy Bear Studio",
+         "Informacion": "En horrores hambrientos, no matas a los monstruos, te alimentas. Pero tenga cuidado con lo que est\u00e1 en el men\u00fa. Inspirado por el folklore brit\u00e1nico e irland\u00e9s, este constructor de mazos de p\u00edxeles te reta a apaciguar a las criaturas de la leyenda con los platos regionales tradicionales.",
+         "Desde": "",
+         "Hasta": "2025/07/31 11:00",
+         "URL": "https://clumsy-bear-studio.itch.io/hungry-horrors",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wheres my baby by MR X Lab",
          "Informacion": "Atrapado en un asilo abandonado, usted es el \u00faltimo m\u00e9dico en pie, y su \u00fanico escape radica en encontrar un tranquilizante para someter a una madre implacable y trastornada. Cada sombra y paso podr\u00eda ser la \u00faltima. \u00bfPuedes sobrevivir a la locura o te convertir\u00e1s en parte de ella?",
          "Desde": "",
@@ -740,6 +660,16 @@
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Legion TD 2",
+         "Informacion": "Un juego de un solo jugador y de multijugador con infinita rejugabilidad. Defi\u00e9ndete contra oleadas de enemigos y destruye al rey de tus oponentes antes que destruyan al tuyo. Legion TD 2 es un juego \u00fanico en su g\u00e9nero de t\u00e1cticas, trabajo en equipo y predicci\u00f3n.",
+         "Desde": "2025/07/24",
+         "Hasta": "2025/07/31 17:00",
+         "URL": "https://store.epicgames.com/p/legion-td-2-a244b9",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Lost Castle: The Old Ones Awaken",
