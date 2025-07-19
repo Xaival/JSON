@@ -1,195 +1,35 @@
 {
-   "date_update": "17 Jul 2025 16:14 UTC",
+   "date_update": "19 Jul 2025 16:17 UTC",
    "values": [
       {
-         "Nombre": "Battlestar Galactica Deadlock",
-         "Informacion": "En Battlestar Galactica Deadlock \u2122 tomar\u00e1s el mando de la flota colonial en defensa de las doce colonias durante la Primera Guerra de Cylon. Dirigir muchos tipos diferentes de barcos en este juego t\u00e1ctico 3D. Cada decisi\u00f3n cuenta, su estrategia ser\u00e1 vital: \u00bfpuede garantizar la supervivencia de la humanidad?",
+         "Nombre": "Lost Child by ASKGAMES",
+         "Informacion": "Sumergirse en una pesadilla sin escape",
          "Desde": "",
-         "Hasta": "2025/07/17 10:00",
-         "URL": "https://store.steampowered.com/app/544610/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Black Desert",
-         "Informacion": "Jugados por m\u00e1s de 20 millones de aventureros: Black Desert Online es un MMORPG de Action -World, mundo abierto. \u00a1Experimente un combate intenso y lleno de acci\u00f3n, luchar contra los jefes mundiales masivos, luchar junto a amigos para asediar y conquistar castillos, y entrenar en profesiones como pescar, comerciar, crear, cocinar y m\u00e1s!",
-         "Desde": "",
-         "Hasta": "2025/07/17 10:00",
-         "URL": "https://store.steampowered.com/app/582660/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Fantasy General II",
-         "Informacion": "\u00a1El cl\u00e1sico de Wargaming de fantas\u00eda est\u00e1 de vuelta! Liderar a los poderosos h\u00e9roes y poderosos ej\u00e9rcitos a la batalla en este aclamado hito de estrategia por turnos. Sube de nivel y capacite a sus unidades y gu\u00edelos a trav\u00e9s de una campa\u00f1a de historia apasionante para decidir el destino de un mundo al borde de la destrucci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2025/07/17 10:00",
-         "URL": "https://store.steampowered.com/app/1025440/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Field of Glory II: Medieval",
-         "Informacion": "Field of Glory II Medieval es un juego t\u00e1ctico por turnos ambientado en la alta edad media de 1040 AD a 1270 DC. Desarrollado por el legendario dise\u00f1ador Richard Bodley Scott, lleva lo mejor del mundo de la mesa al mejor marco digital.",
-         "Desde": "",
-         "Hasta": "2025/07/17 10:00",
-         "URL": "https://store.steampowered.com/app/1368870/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Figment 2: Creed Valley",
-         "Informacion": "Figment 2: Creed Valley es un juego de acci\u00f3n y aventura ambientado en la mente humana. Las pesadillas est\u00e1n propagando el caos y han invadido una tierra anta\u00f1o apacible. \u00danete a Dusty, el valor de la Mente, y \u00e1brete paso por rompecabezas, luchas con jefes musicales y entornos...",
-         "Desde": "2025/07/10",
-         "Hasta": "2025/07/17 17:00",
-         "URL": "https://store.epicgames.com/p/figment2-creed-valley",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Sky Racket",
-         "Informacion": "Sky Racket es un juego que combina dos g\u00e9neros cl\u00e1sicos de la era de los arcades: los shoot'em up y los rompeladrillos. En un mundo donde no puedes atacar, tu \u00fanica opci\u00f3n consiste en usar la raqueta para devolverle las balas al enemigo.",
-         "Desde": "2025/07/10",
-         "Hasta": "2025/07/17 17:00",
-         "URL": "https://store.epicgames.com/p/sky-racket-4cf23a",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "WRET by Vinil",
-         "Informacion": "Camer\u00fan no crey\u00f3 mucho. Cuando dijeron que el ritual era inofensivo, solo cinco d\u00edas, \u00e9l estuvo de acuerdo. Una casa tranquila. Algunos extra\u00f1os. Un lugar para pertenecer. Pero ahora, se despierta solo. Cada ma\u00f1ana por la noche, ya est\u00e1n esperando.",
-         "Desde": "",
-         "Hasta": "2025/07/18 04:09",
-         "URL": "https://troj4nblazing.itch.io/wret",
+         "Hasta": "2025/07/19 20:59",
+         "URL": "https://askgames.itch.io/lost-child",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
+         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
       },
       {
-         "Nombre": "Kingshiper PC Cleaner",
-         "Informacion": "Kingshiper PC Cleaner es el mejor y m\u00e1s r\u00e1pido limpiador de Windows. Proporciona una limpieza de la unidad C, motores de archivos grandes, limpieza de WeChat, limpieza QQ y administrador de aplicaciones que le permite eliminar archivos basura, administrar grandes aplicaciones y archivos, limpiar el historial de chat y borrar cach\u00e9s. Con esta herramienta, puede liberar f\u00e1cilmente el espacio del disco C para mejorar el rendimiento de su PC en minutos.",
+         "Nombre": "Oasis Kingdom by 4Qi Games",
+         "Informacion": "Entra en las arenas abrasadoras como un gobernante visionario y transforma un p\u00e1ramo \u00e1rido en una civilizaci\u00f3n imparable. Comience cavando pozos salvando la vida, plantando bosques verdes y criando reba\u00f1os de reba\u00f1os de ganado para asegurar agua, madera y comida. Expanda su dominio de las humildes chozas a las grandes villas, aprovechando canteras y minas para extraer piedra y mineral. Construya f\u00e1bricas que producen recursos vitales, luego reclute y entrenen a guerreros temibles, los equipen con potencia de fuego de ca\u00f1ones y lideren campa\u00f1as \u00e9picas para aplastar a las tribus rivales.",
          "Desde": "",
-         "Hasta": "2025/07/18 07:00",
-         "URL": "https://sharewareonsale.com/s/free-kingshiper-pc-cleaner-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "WonderFox Document Manager",
-         "Informacion": "Administrar, hacer una copia de seguridad y cifrar sus documentos",
-         "Desde": "",
-         "Hasta": "2025/07/18 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-document-manager-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "Dot TD by Mando37",
-         "Informacion": "\u00a1Presione el espacio y ingrese para acelerar ahora!",
-         "Desde": "",
-         "Hasta": "2025/07/18 10:37",
-         "URL": "https://mando37.itch.io/dot-td",
+         "Hasta": "2025/07/20 00:00",
+         "URL": "https://4qi-games.itch.io/oasis-kingdom",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
-         "Nombre": "WonderFox Document Manager Lifetime Free License 2025",
-         "Informacion": "Al usar el Administrador de documentos de Wonderfox, puede enumerar, administrar y hacer una copia de seguridad de documentos con unos pocos clics en lugar de buscarlos y respaldarlos uno por uno. Puede proteger el contenido de su documento de su oficina utilizando las caracter\u00edsticas `Bloqueo`, `Ocultar` y `Cifrar`.",
+         "Nombre": "Don't Stop In Red Wood: Chapter One by Noxus Games Studio",
+         "Informacion": "",
          "Desde": "",
-         "Hasta": "2025/07/18 14:00",
-         "URL": "https://tickgiveaway.com/wonderfox-document-manager-free-key/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Liquidation Day: Sucking Isn\u00e2\u0080\u0099t Optional by Neatly Production",
-         "Informacion": "Chupar no es opcional. Es tu trabajo.",
-         "Desde": "",
-         "Hasta": "2025/07/18 18:22",
-         "URL": "https://neatly-production.itch.io/liquidation-day",
+         "Hasta": "2025/07/20 01:00",
+         "URL": "https://noxusgamesstudio.itch.io/dont-stop-in-red-wood",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Blob Invasion Defence by Mando37",
-         "Informacion": "Bienvenido a Blob Invasion A Fast Pace Wave Defense. Use sus monedas despu\u00e9s de vencer una ola para actualizar su base. #Td #shooter #survival",
-         "Desde": "",
-         "Hasta": "2025/07/18 22:47",
-         "URL": "https://mando37.itch.io/blob-invasion-defence",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Pellet Clicker by Mando37",
-         "Informacion": "Haga su propia empresa que haga dulces masticables con c\u00e1scara de choque que tenga toneladas de sabores afrutados. Con 9 edificios diferentes para producir el arco iris, ser\u00e1s rico en poco tiempo. (Idea de dulces totalmente original no inspirada en nada)",
-         "Desde": "",
-         "Hasta": "2025/07/18 22:47",
-         "URL": "https://mando37.itch.io/pellet-clicker",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Pixo Turret (Alpha) by Mando37",
-         "Informacion": "Este juego contiene actualmente im\u00e1genes de luces intermitentes suaves, evite si tiene epilepsia.",
-         "Desde": "",
-         "Hasta": "2025/07/18 22:47",
-         "URL": "https://mando37.itch.io/pixo-turret",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Survive The Crazy Disasters 2 by Mando37",
-         "Informacion": "Un sobrevivir a los desastres como el juego con m\u00e1s de 20 desastres y la capacidad de personalizar la dificultad para su gusto.",
-         "Desde": "",
-         "Hasta": "2025/07/18 22:47",
-         "URL": "https://mando37.itch.io/survive-the-crazy-disasters-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zombie Horde.io by Mando37",
-         "Informacion": "Comprenda que la versi\u00f3n del navegador de este juego no es perfecta y algo err\u00f3nea. \u00a1Descargue el juego para una mejor experiencia!",
-         "Desde": "",
-         "Hasta": "2025/07/18 22:47",
-         "URL": "https://mando37.itch.io/zombie-hordeio",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster iPhone Backup Extractor 1-Year Key Free",
-         "Informacion": "Los usuarios de iPhone reconocieron que iTunes es una gran herramienta para copias de seguridad regulares de sus im\u00e1genes, videos y otros datos importantes en caso de que su dispositivo se pierda, da\u00f1e o reemplace. Pero, \u00bfc\u00f3mo se obtiene sus datos si se pierde su iPhone/iPad/iPod? El extractor de copia de seguridad de iPhone CoolMuster es un software profesional de extracci\u00f3n de backup iPhone para extraer archivos de iPhone desde la copia de seguridad de iTunes a una computadora sin conectar su iPhone a la computadora.",
-         "Desde": "",
-         "Hasta": "2025/07/19 00:00",
-         "URL": "https://tickgiveaway.com/coolmuster-iphone-backup-extractor-key/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Ashampoo Music Studio 2024",
-         "Informacion": "Ashampoo Music Studio 2024 permite una edici\u00f3n r\u00e1pida, organizaci\u00f3n y mezcla de archivos de audio. Los proyectos se pueden quemar y personalizar directamente con cubiertas individuales.",
-         "Desde": "",
-         "Hasta": "2025/07/19 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-music-studio-2024-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Luggage: Luxurious Edition by RBD Interactive",
@@ -199,7 +39,7 @@
          "URL": "https://rbdinteractive.itch.io/luggageluxuriousedition",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "Ashampoo Easy Paint",
@@ -209,7 +49,27 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-easy-paint-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "WonderFox Document Manager",
+         "Informacion": "Administrar, hacer una copia de seguridad y cifrar sus documentos",
+         "Desde": "",
+         "Hasta": "2025/07/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-document-manager-2/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "Video to GIF",
+         "Informacion": "Convertir clips de video en archivos gif animados",
+         "Desde": "",
+         "Hasta": "2025/07/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/video-to-gif/in=upcoming-freebies",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "EaseUS Video Downloader 1-Year License Key Free 2025",
@@ -247,6 +107,16 @@
          "Desde": "",
          "Hasta": "2025/07/20 18:24",
          "URL": "https://aerobison.itch.io/presidentprotect",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ceiling Fan Ghost by Standout7",
+         "Informacion": "Este es mi primer juego independiente, realizado en solo dos semanas con una PC de gama baja y mucho esfuerzo. Es una experiencia corta y espeluznante para los fan\u00e1ticos de juegos de terror simples.",
+         "Desde": "",
+         "Hasta": "2025/07/20 19:22",
+         "URL": "https://standout7.itch.io/ceilingfan",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -322,6 +192,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "WRET by Vinil",
+         "Informacion": "Camer\u00fan no crey\u00f3 mucho. Cuando dijeron que el ritual era inofensivo, solo cinco d\u00edas, \u00e9l estuvo de acuerdo. Una casa tranquila. Algunos extra\u00f1os. Un lugar para pertenecer. Pero ahora, se despierta solo. Cada ma\u00f1ana por la noche, ya est\u00e1n esperando.",
+         "Desde": "",
+         "Hasta": "2025/07/21 04:09",
+         "URL": "https://troj4nblazing.itch.io/wret",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "250 Handmade Icons Pack",
          "Informacion": "\u00a1Este incre\u00edble paquete de \u00edconos est\u00e1 cargado con 250 iconos \u00fanicos y hechos a mano de los que te enamorar\u00e1s!",
          "Desde": "",
@@ -329,6 +209,26 @@
          "URL": "https://sharewareonsale.com/s/free-250-handmade-icons-pack-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AweClone",
+         "Informacion": "Software de clonaci\u00f3n de disco confiable y f\u00e1cil de usar.",
+         "Desde": "",
+         "Hasta": "2025/07/21 07:00",
+         "URL": "https://sharewareonsale.com/s/free-aweclone-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Magoshare AweClone Free License Key Download",
+         "Informacion": "\u00bfEst\u00e1 buscando una soluci\u00f3n de clonaci\u00f3n de disco para SSD que pueda clonar todo el contenido de un disco duro a otro disco duro/dispositivo? Magoshare AweClone le ofrecer\u00e1 una forma f\u00e1cil, segura y r\u00e1pida de clonar todos los datos, incluidos archivos/software/configuraci\u00f3n, a otro disco duro/dispositivo sin ninguna p\u00e9rdida.",
+         "Desde": "",
+         "Hasta": "2025/07/21 14:00",
+         "URL": "https://tickgiveaway.com/magoshare-aweclone-giveaway/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -359,6 +259,16 @@
          "URL": "https://sharewareonsale.com/s/free-secure-eraser-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "her apartment by AtmoPixel",
+         "Informacion": "\"Su apartamento\" es un juego de terror indie de estilo Retro de estilo PSX corto corto",
+         "Desde": "",
+         "Hasta": "2025/07/22 13:47",
+         "URL": "https://atmopixel.itch.io/her-apartment",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -442,6 +352,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Dusty Tale 1.9 by crisPlease",
+         "Informacion": "La acci\u00f3n tiene lugar en un mundo t\u00f3xico post-apocal\u00edptico, lleno de mutantes peligrosos y los restos de una civilizaci\u00f3n marchita enterrada en pilas de chatarra. Despu\u00e9s de elegir a tu personaje, participar\u00e1s en batallas interminables entre dos bandas.",
+         "Desde": "",
+         "Hasta": "2025/07/25 06:54",
+         "URL": "https://crisplease.itch.io/dusty-tale-1x9",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Dark Retributionist by al3cs71",
          "Informacion": "\u00a1Te despiertas de tu sue\u00f1o eterno en busca de venganza!",
          "Desde": "",
@@ -459,6 +379,36 @@
          "URL": "https://jmlgamestudio.itch.io/eternal-night",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cry A Tear by NullPointGames",
+         "Informacion": "Te despiertas sobre tu espalda en un callej\u00f3n oscuro.\r\nEl concreto fr\u00edo excava en su columna vertebral.\r\nTus extremidades se sienten entumecidas, como si no fueran tuyas.\r\nTu cabeza es un desastre ... no tengo idea de c\u00f3mo llegaste aqu\u00ed.",
+         "Desde": "",
+         "Hasta": "2025/07/25 19:26",
+         "URL": "https://nullpointgames.itch.io/cry-a-tear",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster Android Eraser Free License Code 2025",
+         "Informacion": "El borrador de Android de CoolMuster le permite eliminar todo en su tel\u00e9fono o tableta Android, incluidos contactos, mensajes de texto, registros de llamadas, fotos, videos, m\u00fasica, correo de voz, nombres de usuarios, cuenta de Gmail, contrase\u00f1as, aplicaciones, libros, historial de b\u00fasqueda (Historia de Google, Historia de Snapchat, historia web, etc.), historia de teclado y otra informaci\u00f3n personal.",
+         "Desde": "",
+         "Hasta": "2025/07/26 00:00",
+         "URL": "https://tickgiveaway.com/coolmuster-android-eraser-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HT System Administrator 25",
+         "Informacion": "Bloquee los pasadores de tiempo y las actividades inform\u00e1ticas no deseadas lo m\u00e1s simplemente posible. Con el administrador del sistema HT, cualquiera sin conocimiento especial puede bloquear los sitios web y aplicaciones, filtrar contenido y ver informes de uso de la computadora en unos pocos clics.",
+         "Desde": "",
+         "Hasta": "2025/07/26 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ht-system-administrator-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -549,6 +499,16 @@
          "URL": "https://tickgiveaway.com/ashampoo-winoptimizer-license-free/",
          "IMG": "",
          "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Choose the cat by Raph88",
+         "Informacion": "El gato es el mejor, as\u00ed que siempre elige el gato.",
+         "Desde": "",
+         "Hasta": "2025/07/31 05:00",
+         "URL": "https://raph88.itch.io/choose-the-cat",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -802,6 +762,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Swarleynaut by MazskiGames",
+         "Informacion": "Swarleynaut es un jugador para un jugador, Action, Arcade Shooter. Lucha contra las olas de las naves espaciales enemigas e intenta superar tu puntaje alto.",
+         "Desde": "",
+         "Hasta": "2025/08/02 05:22",
+         "URL": "https://mazskigames.itch.io/swarleynaut",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Oddworld: Smile Factory by pupbenny",
          "Informacion": "Oddworld Horror Game donde debes escapar de una f\u00e1brica malvada que construye m\u00e1quinas siniestras.",
          "Desde": "",
@@ -817,6 +787,56 @@
          "Desde": "",
          "Hasta": "2025/08/05 15:11",
          "URL": "https://4dpixel.itch.io/small-mouse-big-house",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lonely Christmas by ASKGAMES",
+         "Informacion": "Sobre este juego",
+         "Desde": "",
+         "Hasta": "2025/08/05 17:25",
+         "URL": "https://askgames.itch.io/lonely-christmas",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Paranormal Place by ASKGAMES",
+         "Informacion": "Place Paranormal es un thriller psicol\u00f3gico en primera persona. El principal \u00e9nfasis del juego est\u00e1 en el proceso de exploraci\u00f3n, la tensi\u00f3n se acumula lentamente, creando un efecto inmersivo completo y v\u00edvido. Descripci\u00f3n del cambio: El personaje principal es un blogger Alex. Dirige su propio canal y busca tendencias paranormales all\u00ed. Ahora va a un edificios abandonados, donde estaban los cuarteles militares en el pasado, seg\u00fan la informaci\u00f3n oficial. Lleva con \u00e9l todos sus dispositivos: una c\u00e1mara y un sistema de videovigilancia. No tendr\u00e1 ninguna duda sobre la existencia del otro mundo, despu\u00e9s de explorar este edificio. \u00a1Haga contenido que lo convertir\u00e1 en una estrella de Internet!",
+         "Desde": "",
+         "Hasta": "2025/08/05 17:25",
+         "URL": "https://askgames.itch.io/paranorm-place",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Holidays in Khrushchevsk by ASKGAMES",
+         "Informacion": "Mi nuevo trabajo",
+         "Desde": "",
+         "Hasta": "2025/08/05 17:25",
+         "URL": "https://askgames.itch.io/holidays-in-khrushchevsk",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Life after Death by ASKGAMES",
+         "Informacion": "Advertencia: este videojuego puede causar un ataque de epilepsia fotosensible a las personas que sufren esta enfermedad. Se recomienda una restricci\u00f3n razonable de la audiencia del juego. Nota importante: El \u00e9nfasis principal del juego est\u00e1 en el proceso de exploraci\u00f3n, a medida que la tensi\u00f3n se acumula lentamente, creando un efecto de presencia a\u00fan m\u00e1s completo y v\u00edvido. Sobre este juego: tienes la oportunidad de regresar al per\u00edodo de la infancia y vivir un per\u00edodo de vida del personaje principal, Jessy. Un d\u00eda te encontrar\u00e1s en un lugar incomprensible y desconocido, entendiendo que algo est\u00e1 mal contigo y no recuerdas nada. A medida que avanzas, recordar\u00e1s los momentos brillantes de tu vida, superar\u00e1s las fobias que te acompa\u00f1aron, resolver\u00e1s rompecabezas y tambi\u00e9n entender\u00e1s por qu\u00e9 terminaste aqu\u00ed y qu\u00e9 te sucedi\u00f3. Debe ayudar a Jessy a recrear los eventos que ocurrieron anteriormente, conocer a su familia y experimentar todo lo que hizo. Genre \"Simulador para caminar\";-necesita leer las notas muy cuidadosas; -As informar\u00e1 atentamente ubicaciones y prestar\u00e1 atenci\u00f3n a los detalles y al entorno de la descripci\u00f3n del contenido de los adultos que describe el contenido de esta manera: el juego contiene im\u00e1genes realistas de escenas de violencia que puede tener un impacto negativo en el psic\u00f3n de los adultos. Algunos elementos de contenido pueden no ser adecuados para ciertos grupos de edad.",
+         "Desde": "",
+         "Hasta": "2025/08/05 17:25",
+         "URL": "https://askgames.itch.io/life-after-death",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Beside Myself by ASKGAMES",
+         "Informacion": "a href = \"Lost\" class = \"redactor-linkify-object\" https://askgames.itch.io/lost-child \"Lost ni\u00f1o por askGames/a",
+         "Desde": "",
+         "Hasta": "2025/08/05 17:25",
+         "URL": "https://askgames.itch.io/beside-myself",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
