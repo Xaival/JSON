@@ -1,56 +1,6 @@
 {
-   "date_update": "22 Jul 2025 16:13 UTC",
+   "date_update": "23 Jul 2025 16:14 UTC",
    "values": [
-      {
-         "Nombre": "her apartment by AtmoPixel",
-         "Informacion": "\"Su apartamento\" es un juego de terror indie de estilo Retro de estilo PSX corto corto",
-         "Desde": "",
-         "Hasta": "2025/07/22 13:47",
-         "URL": "https://atmopixel.itch.io/her-apartment",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
-      },
-      {
-         "Nombre": "Ceiling Fan Ghost by Standout7",
-         "Informacion": "Este es mi primer juego independiente, realizado en solo dos semanas con una PC de gama baja y mucho esfuerzo. Es una experiencia corta y espeluznante para los fan\u00e1ticos de juegos de terror simples.",
-         "Desde": "",
-         "Hasta": "2025/07/22 19:22",
-         "URL": "https://standout7.itch.io/ceilingfan",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
-      },
-      {
-         "Nombre": "One Last Time by D4rkShad0w",
-         "Informacion": "\u00a1Una \u00faltima vez es un juego de terror psicol\u00f3gico corto (5-10 minutos) ambientado en una escuela con una narrativa misteriosa que (con suerte) te mantendr\u00e1 pregunt\u00e1ndote hasta el final!",
-         "Desde": "",
-         "Hasta": "2025/07/22 19:48",
-         "URL": "https://miguellangeloo.itch.io/one-last-time",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
-      },
-      {
-         "Nombre": "Pulp Action Shotgun - Arena by Tom Cuthbertson",
-         "Informacion": "Buscando comentarios de los usuarios sobre el juego de momento a momento de mi escopeta de acci\u00f3n de Pulp Game Pulp Game de Survival de Comic FPS.",
-         "Desde": "",
-         "Hasta": "2025/07/22 21:37",
-         "URL": "https://monitrstudios.itch.io/pulp-action-shotgun-arena",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 48%, yellow 48%) 1;"
-      },
-      {
-         "Nombre": "Image Former",
-         "Informacion": "Editar y convertir m\u00faltiples im\u00e1genes digitales en lotes",
-         "Desde": "",
-         "Hasta": "2025/07/23 09:00",
-         "URL": "https://www.bitsdujour.com/software/image-former/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "WonderFox\u00a0Video to GIF Converter License Key Free 2025",
          "Informacion": "Wonderfox Video to GIF Converter es un software de convertidor de video a imagen que lo ayuda a convertir todos los archivos de video populares en animaci\u00f3n GIF. Con \u00e9l, puede convertir videos en casi todos los formatos de video populares (como AVI, MPEG, MP4, WMV, MKV, MOV, VOB, WEBM, RMVB y m\u00e1s raros formatos de video) a GIF animados con velocidad ultrarr\u00e1pida y alta calidad.",
@@ -59,7 +9,7 @@
          "URL": "https://tickgiveaway.com/video-to-gif-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "bable playground exclusive edition by FREE_GAMES",
@@ -69,7 +19,7 @@
          "URL": "https://free-games-ua.itch.io/bable-playground-exclusive-edition",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "Lurking Shadows by FREE_GAMES",
@@ -79,7 +29,7 @@
          "URL": "https://free-games-ua.itch.io/lurking-shadows",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "Coolmuster iPhone Data Recovery License Key Free",
@@ -89,7 +39,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-iphone-data-recovery-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Aiarty Video Enhancer [with AI]",
@@ -99,7 +49,7 @@
          "URL": "https://sharewareonsale.com/s/free-aiarty-video-enhancer-with-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Ashampoo WinOptimizer 2025",
@@ -109,6 +59,26 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2025-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "WonderFox HD Video Converter Factory Pro",
+         "Informacion": "Convertir videos entre m\u00e1s de 100 formatos",
+         "Desde": "",
+         "Hasta": "2025/07/24 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-hd-video-converter-factory-pro/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "her apartment by AtmoPixel",
+         "Informacion": "\"Su apartamento\" es un juego de terror indie de estilo Retro de estilo PSX corto corto",
+         "Desde": "",
+         "Hasta": "2025/07/24 13:47",
+         "URL": "https://atmopixel.itch.io/her-apartment",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -117,6 +87,16 @@
          "Desde": "",
          "Hasta": "2025/07/24 14:00",
          "URL": "https://tickgiveaway.com/aiarty-video-enhancer-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox HD Video Converter Factory Pro Free License 2025",
+         "Informacion": "Wonderfox HD Video Converter Factory Pro es un programa para convertir archivos de video. Con esta aplicaci\u00f3n, puede convertir f\u00e1cil y r\u00e1pidamente videos almacenados en definici\u00f3n est\u00e1ndar a alta definici\u00f3n. Le permite adaptar materiales de pel\u00edcula para reproducir en tel\u00e9fonos inteligentes, tabletas y reproductores de DVD de escritorio. Adem\u00e1s, el software del convertidor de video puede descargar video y audio en Internet, editar video, grabar la pantalla y crear GIF animados desde el video.",
+         "Desde": "",
+         "Hasta": "2025/07/24 14:00",
+         "URL": "https://tickgiveaway.com/free-hd-video-converter-factory-pro-key/",
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
@@ -282,6 +262,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster Android Backup Manager 1 Year Free Code",
+         "Informacion": "Coolmuster Android Backup Manager es el software de copia de seguridad y restauraci\u00f3n de Android que le permite hacer una copia de seguridad y restaurar dispositivos Android con un solo clic. R\u00e1pidamente escanea y enumera todos los archivos de copia de seguridad que ha realizado en su computadora; Puede optar libremente para restaurar cualquier archivo de copia de seguridad listado y cualquier tipo de archivo de destino en cualquier dispositivo Android conectado.",
+         "Desde": "",
+         "Hasta": "2025/07/28 00:00",
+         "URL": "https://tickgiveaway.com/coolmuster-android-backup-manager-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft Batch Image Converter License Key Free 2024",
          "Informacion": "Como su nombre indica, Vovsoft Batch Image Converter es un software de convertidor de imagen vers\u00e1til y f\u00e1cil de usar dise\u00f1ado para facilitar la conversi\u00f3n de m\u00faltiples archivos de imagen entre varios formatos con facilidad. Esta herramienta admite varios formatos de imagen, incluidos PNG, WebP, JPEG, JFIF, TIFF, BMP, GIF, ICO, WMP, etc. Adem\u00e1s, las im\u00e1genes con canales alfa conservan su transparencia gracias al programa.",
          "Desde": "",
@@ -312,16 +302,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "Un breve juego de terror",
-         "Desde": "",
-         "Hasta": "2025/07/29 07:00",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Kingshiper Auto Clicker",
          "Informacion": "Kingshiper Auto Clicker es un poderoso software de Clicker de mouse para simplificar las tareas repetitivas. Le permite automatizar las acciones de clic y grabar macros en una sola clic en Windows PC. Ya sea que se ocupe de tediosos clics en juegos o ingrese grandes cantidades de datos en tareas diarias, Kingshiper Auto Clicker puede manejarlo todo con facilidad. Simplemente necesita establecer la frecuencia de clics, la ubicaci\u00f3n e incluso puede registrar secuencias complejas de acciones para autom\u00e1ticamente las tareas repetitivas autom\u00e1ticamente.",
          "Desde": "",
@@ -329,6 +309,16 @@
          "URL": "https://sharewareonsale.com/s/free-kingshiper-auto-clicker-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/07/29 07:00",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -349,6 +339,16 @@
          "URL": "https://0zanm.itch.io/still-alive",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "NEAT Projects 2",
+         "Informacion": "Fotografiar ciudades, cuadrados y puntos de referencia sin distraer elementos de im\u00e1genes: todos saben lo dif\u00edcil que esto puede ser. Con los nuevos proyectos ordenados 2, todo esto se puede hacer completamente autom\u00e1ticamente, sin un tr\u00edpode, y no es necesario ning\u00fan procesamiento de im\u00e1genes.",
+         "Desde": "",
+         "Hasta": "2025/07/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-neat-projects-2-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -379,6 +379,16 @@
          "URL": "https://musialkov.itch.io/redtail",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft QR Code and Barcode Reader Key Free 2025",
+         "Informacion": "\u00bfDesea saber informaci\u00f3n sobre un producto u organizaci\u00f3n a trav\u00e9s del c\u00f3digo QR o c\u00f3digo de barras en sus im\u00e1genes? Usemos el c\u00f3digo Vovsoft QR y el lector de c\u00f3digos de barras para escanearlos y convertir el c\u00f3digo legible por m\u00e1quina en texto legible por humanos. Dise\u00f1ada con una interfaz de usuario intuitiva y simple, esta herramienta tiene la capacidad de escanear sin esfuerzo y decodificar varios tipos de c\u00f3digos de barras y c\u00f3digos QR de archivos de imagen o c\u00e1maras web en computadoras port\u00e1tiles y de escritorio.",
+         "Desde": "",
+         "Hasta": "2025/07/30 15:00",
+         "URL": "https://tickgiveaway.com/vovsoft-qr-code-and-barcode-reader-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -667,6 +677,16 @@
          "Desde": "",
          "Hasta": "2025/08/02 05:22",
          "URL": "https://mazskigames.itch.io/swarleynaut",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
+         "Informacion": "El juego original Baldi Basics in Education and Learning 1.3.2 El a\u00f1o pasado, ahora, actualizaci\u00f3n del juego a Baldi Basics Songkran en Educaci\u00f3n y Aprendizaje 1.4.5 No descompil\u00f3 el juego real que actualiza Publish Game completado! Gracias a MyStman12 por no que ese mod descompilado ya lo env\u00ede ya para actualizarlo para actualizar al acceso al juego, \u00a1no informes mi cuenta y el juego, por favor, y ahora para enviarte!",
+         "Desde": "",
+         "Hasta": "2025/08/02 11:45",
+         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
