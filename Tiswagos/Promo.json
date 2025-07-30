@@ -1,86 +1,6 @@
 {
-   "date_update": "29 Jul 2025 16:18 UTC",
+   "date_update": "30 Jul 2025 16:29 UTC",
    "values": [
-      {
-         "Nombre": "We don't need you anymore by TheMarelle",
-         "Informacion": "\u00a1Los habitantes anteriores han abandonado el terreno de la ciudad con tantas basura!\u00a0Lo que sol\u00eda ser un lugar agradable para vivir ahora es un desastre.",
-         "Desde": "",
-         "Hasta": "2025/07/29 15:24",
-         "URL": "https://themarelle.itch.io/we-dont-need-you-anymore",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
-      },
-      {
-         "Nombre": "Ghostwarp by CT nine",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/07/29 19:57",
-         "URL": "https://ctnine.itch.io/ghostwarp",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "Ceiling Fan Ghost by CT nine",
-         "Informacion": "Este es mi primer juego independiente, realizado en solo dos semanas con una PC de gama baja y mucho esfuerzo. Es una experiencia corta y espeluznante para los fan\u00e1ticos de juegos de terror simples.",
-         "Desde": "",
-         "Hasta": "2025/07/29 19:57",
-         "URL": "https://ctnine.itch.io/ceilingfan",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "Still Alive by 0zanM",
-         "Informacion": "El apocalipsis zombie se ha extendido por todo el mundo. La mayor\u00eda de la gente ha muerto. Escuchaste que se ha desarrollado una cura en un laboratorio.\u00a0Est\u00e1s intentando encontrar la cura en el laboratorio para terminar con este apocalipsis.",
-         "Desde": "",
-         "Hasta": "2025/07/30 02:00",
-         "URL": "https://0zanm.itch.io/still-alive",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "NEAT Projects 2",
-         "Informacion": "Fotografiar ciudades, cuadrados y puntos de referencia sin distraer elementos de im\u00e1genes: todos saben lo dif\u00edcil que esto puede ser. Con los nuevos proyectos ordenados 2, todo esto se puede hacer completamente autom\u00e1ticamente, sin un tr\u00edpode, y no es necesario ning\u00fan procesamiento de im\u00e1genes.",
-         "Desde": "",
-         "Hasta": "2025/07/30 07:00",
-         "URL": "https://sharewareonsale.com/s/free-neat-projects-2-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Tenorshare PDNob PDF Editor [with AI]",
-         "Informacion": "Tenorshare PDNOB PDF Editor es un editor PDF vers\u00e1til para Windows y Mac, que ofrece herramientas para editar, anotar, convertir, organizar y asegurar documentos PDF. Cuenta con OCR con IA, permite la edici\u00f3n de texto, im\u00e1genes y enlaces, y admite la conversi\u00f3n a m\u00e1s de 30 formatos. El software tambi\u00e9n proporciona opciones de seguridad robustas y funciones de IA para resumir, traducir y explicar contenido de PDF, con el objetivo de ser una alternativa ligera y f\u00e1cil de usar a Adobe Acrobat.",
-         "Desde": "",
-         "Hasta": "2025/07/30 07:00",
-         "URL": "https://sharewareonsale.com/s/free-tenorshare-pdnob-pdf-editor-with-ai-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "IM-Magic Partition Resizer Pro",
-         "Informacion": "Cambiar las particiones de tama\u00f1o de forma segura, obtener m\u00e1s espacio libre",
-         "Desde": "",
-         "Hasta": "2025/07/30 09:00",
-         "URL": "https://www.bitsdujour.com/software/im-magic-partition-resizer-pro/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "WonderFox DVD Video Converter",
-         "Informacion": "Rasgar y convertir DVD m\u00e1s r\u00e1pido que nunca",
-         "Desde": "",
-         "Hasta": "2025/07/30 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-video-converter-2/in=upcoming-freebies",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "ChickenFine 2: Billions Must Die by ZrozDev",
          "Informacion": "Un tirador psicod\u00e9lico con elementos de horror, novela visual, y tambi\u00e9n est\u00e1 Trump el reptil.",
@@ -89,7 +9,7 @@
          "URL": "https://zrozumilo-studio.itch.io/chickenfine-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "ChickenFine: Rooster Coop FPS by ZrozDev",
@@ -99,7 +19,7 @@
          "URL": "https://zrozumilo-studio.itch.io/chickenfine",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "Red Tail by Musialkov",
@@ -109,7 +29,7 @@
          "URL": "https://musialkov.itch.io/redtail",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Vovsoft QR Code and Barcode Reader Key Free 2025",
@@ -119,7 +39,7 @@
          "URL": "https://tickgiveaway.com/vovsoft-qr-code-and-barcode-reader-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
       },
       {
          "Nombre": "Coolmuster HEIC Converter 1-Year License Key Free",
@@ -129,7 +49,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-heic-converter-free-license/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Ashampoo WinOptimizer 27 License Key Free Lifetime",
@@ -139,7 +59,7 @@
          "URL": "https://tickgiveaway.com/ashampoo-winoptimizer-license-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "Choose the cat by Raph88",
@@ -149,7 +69,7 @@
          "URL": "https://raph88.itch.io/choose-the-cat",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "GeekerPDF",
@@ -159,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-geekerpdf-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "Ghostwarp by Standout7",
@@ -169,7 +89,17 @@
          "URL": "https://standout7.itch.io/ghostwarp",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 6%, yellow 6%) 1;"
+      },
+      {
+         "Nombre": "WonderFox DVD Video Converter",
+         "Informacion": "Rasgar y convertir DVD m\u00e1s r\u00e1pido que nunca",
+         "Desde": "",
+         "Hasta": "2025/07/31 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-video-converter-2/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
       },
       {
          "Nombre": "Hungry Horrors (demo) by Clumsy Bear Studio",
@@ -207,6 +137,16 @@
          "Desde": "",
          "Hasta": "2025/07/31 14:00",
          "URL": "https://tickgiveaway.com/geekerpdf-license-key-free-download/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox DVD Video Converter Free License Code 2025",
+         "Informacion": "Wonderfox DVD Video Converter es un convertidor de video y DVD bien revisado que puede ayudarlo a convertir DVD y videos m\u00e1s r\u00e1pido que nunca. Puede rasgar todo tipo de pel\u00edculas de DVD y programas de televisi\u00f3n a su PC, televisores inteligentes, iPhone, iPad y Android Telephone and Tablet. Adem\u00e1s, el software le permite obtener videos en l\u00ednea de plataformas populares como YouTube, Vimeo, Facebook y m\u00e1s de 1000 sitios web.",
+         "Desde": "",
+         "Hasta": "2025/07/31 14:00",
+         "URL": "https://tickgiveaway.com/wonderfox-dvd-video-converter-giveaway/",
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
@@ -502,6 +442,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Ghostwarp by CT nine",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/01 19:57",
+         "URL": "https://ctnine.itch.io/ghostwarp",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ceiling Fan Ghost by CT nine",
+         "Informacion": "Este es mi primer juego independiente, realizado en solo dos semanas con una PC de gama baja y mucho esfuerzo. Es una experiencia corta y espeluznante para los fan\u00e1ticos de juegos de terror simples.",
+         "Desde": "",
+         "Hasta": "2025/08/01 19:57",
+         "URL": "https://ctnine.itch.io/ceilingfan",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Coolmuster iCloud Backup Recovery 1-Year Key Free 2025",
          "Informacion": "La copia de seguridad de iCloud es una fuente que puede almacenar datos valiosos, incluidas fotos, videos, contactos, historial de llamadas, mensajes, etc. Rescata sus datos importantes en incidentes desafortunados como p\u00e9rdida de datos, eliminaci\u00f3n o da\u00f1os o roturas del iPhone. Pero a veces, por alguna raz\u00f3n, elimina accidentalmente los datos en la copia de seguridad de iCloud.\u00a0Coolmuster iCloud Backup Recovery es un poderoso software de recuperaci\u00f3n que lo ayudar\u00e1 a recuperar sus datos de copia de seguridad de iCloud con clics f\u00e1ciles.",
          "Desde": "",
@@ -569,6 +529,16 @@
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Aiarty Video Enhancer License Key Free 2025",
+         "Informacion": "Dise\u00f1ado para mejorar la resoluci\u00f3n de video y arreglar im\u00e1genes borrosas, ruidosas, en bloque y pixeladas, Aiarty Video Botancer ofrece una soluci\u00f3n transformadora para dar nueva vida a sus videos. Con su ayuda, puede restaurar viejos recuerdos, mejorar los clips de baja resoluci\u00f3n o refinar proyectos profesionales. Gracias a sus capacidades avanzadas de desplazamiento, puede convertir videos de 360p o 480p en resoluci\u00f3n HD, 2k o incluso 4K de HD, 2k o incluso 4K.",
+         "Desde": "",
+         "Hasta": "2025/08/02 12:00",
+         "URL": "https://tickgiveaway.com/aiarty-video-enhancer-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -792,6 +762,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Kingshiper File Manager",
+         "Informacion": "Kingshiper File Administrar: extraer y administrar archivos de comprimir en segundos",
+         "Desde": "",
+         "Hasta": "2025/08/06 07:00",
+         "URL": "https://sharewareonsale.com/s/free-kingshiper-file-manager-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Keylocker | Turn Based Cyberpunk Action",
          "Informacion": "Keylocker is a Cyberpunk turn-based rhythm JRPG. As the electric singer, B0B0, you\u2019ll choose your class, master a challenging combat system, and shake the foundations of Saturnite society in rhythm-game style!",
          "Desde": "2025/07/31",
@@ -822,11 +802,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/08/09 07:00",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Gateway of the mind by Soul_Sire",
          "Informacion": "Te han dado una tarea para recuperar un ojo de una espeluznante historia de pasta, \"La puerta de entrada de la mente\". Este lugar es alg\u00fan tipo de centro de investigaci\u00f3n. Alguien parece estar aqu\u00ed, es una figura oscura.",
          "Desde": "",
          "Hasta": "2025/08/09 17:48",
          "URL": "https://soulcode.itch.io/gate-way-of-the-mind",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ball 46 by YAHAY Games",
+         "Informacion": "Descripci\u00f3n:\r\n\u00a1Entre en Ball 46, una emocionante aventura en la que controlas una conciencia atrapada en una pelota, luchando contra los rivales de otros mundos! Con solo tres niveles desafiantes, enfrentar\u00e1s a jefes \u00fanicos y experimentar\u00e1s un juego emocionante mientras navegas a trav\u00e9s de un entorno vibrante y de otro mundo.",
+         "Desde": "",
+         "Hasta": "2025/08/10 22:59",
+         "URL": "https://yahay-games.itch.io/ball-46",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -852,11 +852,41 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Forest 6174 - Judy DLC by itandfeel",
+         "Informacion": "En esta expansi\u00f3n gratuita del bosque 6174, una vez m\u00e1s jugar\u00e1s como Danny, pero esta vez, explorar\u00e1s un lado m\u00e1s oscuro y m\u00e1s inquietante de \u00e9l. En el camino, finalmente descubrir\u00e1s qui\u00e9n es Judy realmente y cu\u00e1l ha sido su verdadero prop\u00f3sito desde el principio.",
+         "Desde": "",
+         "Hasta": "2025/08/13 15:16",
+         "URL": "https://itandfeel.itch.io/forest-6174-judy-dlc",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hakemord: Episode 1 by HakemordDev",
          "Informacion": "Eres un caminante de ensue\u00f1o. Su prop\u00f3sito, su propia raz\u00f3n para la existencia; es ayudar a otros ingresando sus sue\u00f1os y encontrando la ra\u00edz de sus problemas.\u00a0 Pero no sabes qui\u00e9n es el sue\u00f1o que acabas de entrar y las cosas se oscurecen, muy r\u00e1pidamente.\u00a0 Aprende a encontrar tu camino y salvar a los dem\u00e1s, o quedar atrapado para siempre.",
          "Desde": "",
          "Hasta": "2025/08/14 18:09",
          "URL": "https://hakemorddev.itch.io/hakemord",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VICTIM.exe by ALEXANDER WISEMAN",
+         "Informacion": "Este ejecutable, llamado \"v\u00edctima\", fue encontrado en las esquinas profundas de Internet. Conten\u00eda un juego de laberinto severamente corrupto. Aunque hay muchos, solo se pudo compartir un nivel de este juego, ya que los otros niveles medio corruptos no eran seguros para ver y causaron m\u00faltiples ataques a las personas que los recuperaron. Tambi\u00e9n se eliminaron casi 20 archivos de audio, ya que la mayor\u00eda eran demasiado inquietantes para escuchar, incluido un archivo de 32 minutos de varios ni\u00f1os gritando.",
+         "Desde": "",
+         "Hasta": "2025/08/14 19:47",
+         "URL": "https://alexander-wiseman.itch.io/victimexe",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fear Assessment by ALEXANDER WISEMAN",
+         "Informacion": "El programa de evaluaci\u00f3n del miedo es una prueba especializada desarrollada e implementada por las agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web e informaci\u00f3n en su disco duro.",
+         "Desde": "",
+         "Hasta": "2025/08/14 19:47",
+         "URL": "https://alexander-wiseman.itch.io/fear-assessment",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -982,11 +1012,311 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Survival in the Dead World by ELDER3 STUDIO",
-         "Informacion": "\u00a1Despierta en un mundo abandonado donde los muertos no se quedan enterrados!\u00a0La supervivencia en el mundo muerto es una experiencia de supervivencia incondicional combinar la tensi\u00f3n, la estrategia y la exploraci\u00f3n en un mundo abierto peligroso.",
+         "Nombre": "Reverse Me! Rez/Ru by MiaQc",
+         "Informacion": "\u00c9rase una vez, hab\u00eda un ni\u00f1o peque\u00f1o, Russell, que viv\u00eda en un peque\u00f1o pueblo. Su abuelo, al que le gustaba la calma de la naturaleza, viv\u00eda en una peque\u00f1a casa en el bosque.",
          "Desde": "",
-         "Hasta": "2025/08/28 16:52",
-         "URL": "https://elder3-studio.itch.io/survival-in-the-dead-world",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/reverse-me-rezru",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Reverse Moe Pas! Savoie by MiaQc",
+         "Informacion": "\u00a1La tercera y la \u00faltima historia de la trilog\u00eda invertirme! Inspirado en varias leyendas del folklore de Quebec, \u00a1MOJ de reverso! Savoie es la historia de un tap\u00f3n de sangre y la ira de la naturaleza. Novela visual corta cin\u00e9tica. Lenguaje fuerte.\u00a0Adem\u00e1s, si lo publica en las redes sociales, utilice el hashtag #Reverseme. Gracias.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/reverse-moe-pas-savoie",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Reverse Me! 2 Rose by MiaQc",
+         "Informacion": "\u00a1El segundo de la trilog\u00eda revierta de m\u00ed! Inspirado en el cuento de hadas de \"Whitwe-White y Rose-Red\u00e2, \u00a1revilame! 2 Rose es la historia de dos hermanas, un oso y un enano ingrato.\u00a0 Historia de idioma dual e interfaz de usuario. Tanto el ingl\u00e9s como el franc\u00e9s aparecen al mismo tiempo. Novela cin\u00e9tica.\u00a0Adem\u00e1s, si lo publica en las redes sociales, utilice el hashtag #Reverseme. Gracias.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/reverse-me-2-rose",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Red and Blue ~ Cycles of Existence by MiaQc",
+         "Informacion": "En el planeta Somelody ...",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/red-and-blue-cycles-of-existence",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Iveri: The 1.000 Story by MiaQc",
+         "Informacion": "`\u00b0 IVERI: La historia de 1.000 es una historia breve y muy a punto sobre una mujer (nombre predeterminado iveri) que se ofrece como voluntario para ser el pr\u00f3ximo sacrificio para proteger su aldea de los ataques demon\u00edacos. Lectura de 1-2 min en total.\u00a01k palabras una historia de una toma.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/iveri-the-1000-story",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ivanoile ~ Christalixeur Corruption by MiaQc",
+         "Informacion": "Haley, un hu\u00e9rfano.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/ivanoile-christalixeur-corruption",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hir Corruption by MiaQc",
+         "Informacion": "[Canal mental abierto]",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/hir-corruption",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hack the Core by MiaQc",
+         "Informacion": "Cuando Chiko, un joven portador de c\u00f3digo (tambi\u00e9n conocido como VR Hacker), recibe una misi\u00f3n de un hombre misterioso, \u00a1debe evitar que los terroristas se hagan cargo de Oobis City hackando el n\u00facleo de Marlie!\u00a0 Pantalla de doble lenguaje, novela visual corta.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/hack-the-core",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Divine D.I.V.A. by MiaQc",
+         "Informacion": "Diana.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/divine-diva",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VKT Prime System Crash by MiaQc",
+         "Informacion": "Alice Lorange, Alt.Lorange, Alex, Denis, Nuri, Taralise y Chiko ...",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/vkt-prime-system-crash",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Adventure or Normality? by MiaQc",
+         "Informacion": "\u00bfAventura o normalidad?",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/adventure-or-normality",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Entre-Deux: Cursed by MiaQc",
+         "Informacion": "Entre-Deux, Dark Fairies y Shirina rehicieron en Ren'py.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/entre-deux-cursed",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A.L.A.N.: Rift Breakers by MiaQc",
+         "Informacion": "A.L.A.N. y Alan: Rift Breakers rehici\u00f3 en el motor Ren'py.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/alan-rift-breakers",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Les 4 Alice: Lorange Journey by MiaQc",
+         "Informacion": "Les Quatre Alices, 4 Alice: Lorange Journey y 3 Emilie rehecho con el motor Ren'py.\u00a0Ui biling\u00fce!",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/les-4-alice-lorange-journey",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Latangerine Last Journey by MiaQc",
+         "Informacion": "Un spin-off/parodia de \"Les 4 Alice: Lorange Journey\".",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/latangerine-last-journey",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ChatAid by MiaQc",
+         "Informacion": "Cuando encontr\u00f3 un programa loco en su PC llamado \u00e2 Chataid\u00e2, termin\u00f3 en una sala de chat. Alguien necesita tu ayuda.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/chataid",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Our Journeys 3 ~ A Collection of Visual Novels by MiaQc",
+         "Informacion": "Una colecci\u00f3n de 3 historias en varios g\u00e9neros hechos con RPG Maker MV.\u00a0 Son una versi\u00f3n incrustada de las novelas visuales lanzadas anteriormente en 2017-18.\u00a0 Uno tiene m\u00faltiples finales, los otros son cin\u00e9ticos.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/our-journeys-3-a-collection-of-visual-novels",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Our Journeys 2 ~ A Collection of Visual Novels by MiaQc",
+         "Informacion": "Una colecci\u00f3n de cuatro historias en varios g\u00e9neros hechos con RPG Maker MV.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/our-journeys-2-a-collection-of-visual-novels",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Our Journeys 1 ~ A Collection of Visual Novels by MiaQc",
+         "Informacion": "Una colecci\u00f3n de cuatro historias en varios g\u00e9neros hechos con RPG Maker MV.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/our-journeys-1-a-collection-of-visual-novels",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shantalia and Corali'hulu by MiaQc",
+         "Informacion": "Novela visual muy corta y lineal. Versi\u00f3n SFW.\u00a0 Cada 20 a\u00f1os, una doncella debe ser sacrificada al \"monstruo del mar\" para que prevalezca la prosperidad en la isla Ryordant. Shantalia es el pr\u00f3ximo sacrificio. Pantalla de doble idioma.\u00a0Adem\u00e1s, si publica al respecto en las redes sociales, use el hashtag #Shantalia. Gracias.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/shantalia-and-coralihulu",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shirina by MiaQc",
+         "Informacion": "Manolita y Jesabel son mejores amigos. Cuando convocaron a una bruja malvada, deben encontrar una manera de detenerla. \u00bfQuiz\u00e1s una Seimoya (esp\u00edritu) podr\u00eda ayudarlos?",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/shirina",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dark Fairies by MiaQc",
+         "Informacion": "Estoy en mi habitaci\u00f3n, deprimido.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/dark-fairies",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A.L.A.N. by MiaQc",
+         "Informacion": "Para Alex, la ciudad de Xodias no es una ciudad ordinaria. Este joven es un interruptor de grietas. Tiene la gran responsabilidad de luchar contra los monstruos que se desovan desde las grietas, misteriosas grietas de luz que solo un pu\u00f1ado de ni\u00f1os pueden ver.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/alan",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Les Quatre Alices by MiaQc",
+         "Informacion": "Les Quatre Alices es la primera versi\u00f3n de la historia de Alice Lorange y el primer juego independiente de Mia.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/les-quatre-alices",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Alice Lorange Adventures Season 2 by MiaQc",
+         "Informacion": "Alice Lorange Adventures Season 2 es una historia semi-lineal epis\u00f3dica hecha en Twine, mirando a un adolescente autista. La secuela directa de la temporada 1.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/alice-lorange-adventures-season-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Alice Lorange Adventures Season 1 by MiaQc",
+         "Informacion": "Alice Lorange Adventures Season 1 es una historia semilineal epis\u00f3dica hecha en hilo, mirando a un adolescente autista.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/alice-lorange-adventures-season-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Entre-Deux by MiaQc",
+         "Informacion": "\"Mi nombre es Elrica Elsa. Hace cinco a\u00f1os, nuestro mundo, Medocorilia, ha ca\u00eddo presa de los muertos vivientes. Es dif\u00edcil para m\u00ed sobrevivir, especialmente porque estoy embarazada, pero ahora estoy en la comunidad, una aldea de Entre-Deux, y tengo 10 horas para 'probar mi valor' ... \u00a1o morir!\"",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/entre-deux",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cursed Queen: Wicked Witch by MiaQc",
+         "Informacion": "Reina maldita",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/cursed-queen-wicked-witch",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Alan: Rift Breakers (Twine) by MiaQc",
+         "Informacion": "\"Mi nombre es Alex. Tengo 8 a\u00f1os. Tambi\u00e9n soy un ni\u00f1o rubio con ojos verdes. Vivo en la ciudad de Xodias y voy a la Escuela de Xorie. En febrero de 2018. En este momento, estoy en el patio porque es el descanso de la ma\u00f1ana. Estoy viendo a Eloi y Bobby subir al patio de juegos cuando, de repente, miro a Nana, que est\u00e1 un poco m\u00e1s all\u00e1.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/alan-rift-breakers-twine",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "3 Emilie  (Lorange Journey DLC) by MiaQc",
+         "Informacion": "Un DLC para 4 Alice: Lorange Journey.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/3-emilie-lorange-journey-dlc",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "4 Alice: Lorange Journey by MiaQc",
+         "Informacion": "\"Duele mucho.",
+         "Desde": "",
+         "Hasta": "2025/08/27 16:08",
+         "URL": "https://miaqc.itch.io/4-alice-lorange-journey",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1007,6 +1337,36 @@
          "Desde": "",
          "Hasta": "2025/08/28 16:52",
          "URL": "https://elder3-studio.itch.io/demo-shooter-battle-begins",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Survival in the Dead World by ELDER3 STUDIO",
+         "Informacion": "\u00a1Despierta en un mundo abandonado donde los muertos no se quedan enterrados!\u00a0La supervivencia en el mundo muerto es una experiencia de supervivencia incondicional combinar la tensi\u00f3n, la estrategia y la exploraci\u00f3n en un mundo abierto peligroso.",
+         "Desde": "",
+         "Hasta": "2025/08/28 16:52",
+         "URL": "https://elder3-studio.itch.io/survival-in-the-dead-world",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "My Bucket Project by Jeyers Development",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/29 05:59",
+         "URL": "https://jeyers-development.itch.io/mbp",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Wind Turbine by Jeyers Development",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/29 05:59",
+         "URL": "https://jeyers-development.itch.io/the-wind-turbine",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
