@@ -1,5 +1,5 @@
 {
-   "date_update": "30 Jul 2025 16:24 UTC",
+   "date_update": "31 Jul 2025 20:35 UTC",
    "values": [
       {
          "Direccion": "8.8.8.8 886.novitrk6.com #AntiSpam"
@@ -3981,6 +3981,9 @@
       },
       {
          "Direccion": "8.8.8.8 email.sl.safesecuremsg.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 23.109.170.114 #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 www.freevpn.win #AntiSpam"
