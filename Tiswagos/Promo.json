@@ -1,86 +1,6 @@
 {
-   "date_update": "03 Aug 2025 16:25 UTC",
+   "date_update": "04 Aug 2025 16:19 UTC",
    "values": [
-      {
-         "Nombre": "BoatGame by PolitikGames",
-         "Informacion": "Corta enemigos con tu espada.",
-         "Desde": "",
-         "Hasta": "2025/08/03 14:28",
-         "URL": "https://politikgames.itch.io/boatgame",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
-      },
-      {
-         "Nombre": "Ceiling Fan Ghost by CT nine",
-         "Informacion": "Este es mi primer juego independiente, realizado en solo dos semanas con una PC de gama baja y mucho esfuerzo. Es una experiencia corta y espeluznante para los fan\u00e1ticos de juegos de terror simples.",
-         "Desde": "",
-         "Hasta": "2025/08/03 20:57",
-         "URL": "https://ctnine.itch.io/ceilingfan",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "Ghostwarp by CT nine",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/08/03 20:57",
-         "URL": "https://ctnine.itch.io/ghostwarp",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster iPhone WhatsApp Recovery 1 Year Free Code",
-         "Informacion": "\u00bfNecesita recuperar los chats y medios de whatsapp en su iPhone? Usemos Coolmuster iPhone WhatsApp Recovery para extraer y restaurar f\u00e1cilmente su historial de WhatsApp ahora. Esta aplicaci\u00f3n de recuperaci\u00f3n de WhatsApp le permite recuperar mensajes y archivos adjuntos de WhatsApp de iPhone/iPad o archivos de copia de seguridad de iTunes. Con la ayuda de esta herramienta, tiene la capacidad de recuperar el historial de chat de WhatsApp, incluidos mensajes de texto, fotos, videos y archivos de audio. Proporciona m\u00faltiples modos de recuperaci\u00f3n para ayudarlo a recuperar datos directamente de su dispositivo iOS o de copias de seguridad de iTunes.",
-         "Desde": "",
-         "Hasta": "2025/08/04 00:00",
-         "URL": "https://tickgiveaway.com/coolmuster-iphone-whatsapp-recovery-free/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "GravMetal by Shmig",
-         "Informacion": "Safryn tiene que sobrevivir a trav\u00e9s de mundos mortales llenos de los Mercs m\u00e1s malos y las masas de armamento de guerra disfrazado de robots de mascotas.",
-         "Desde": "",
-         "Hasta": "2025/08/04 00:00",
-         "URL": "https://shmig.itch.io/gravmetal",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Oddworld: Smile Factory by pupbenny",
-         "Informacion": "Oddworld Horror Game donde debes escapar de una f\u00e1brica malvada que construye m\u00e1quinas siniestras.",
-         "Desde": "",
-         "Hasta": "2025/08/04 01:00",
-         "URL": "https://pupbenny.itch.io/oddworld",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
-      },
-      {
-         "Nombre": "Peeks & Valleys: A Val Cannon Pin-up zine! by Andrew Neal / Added Value Books",
-         "Informacion": "Este Pin-Up Zine presenta a Val y su novia Tori alrededor de sus apariciones en no mapaches en el infierno, a veces con ropa, y a veces no. \u00a1Nudiedad de dibujos animados, as\u00ed que solo adultos!",
-         "Desde": "",
-         "Hasta": "2025/08/04 05:59",
-         "URL": "https://wanderlane.itch.io/peeks",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
-      },
-      {
-         "Nombre": "Sticky Password Premium",
-         "Informacion": "Nunca m\u00e1s olvides una contrase\u00f1a de nuevo.",
-         "Desde": "",
-         "Hasta": "2025/08/04 09:00",
-         "URL": "https://www.bitsdujour.com/software/sticky-password-premium/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
-      },
       {
          "Nombre": "WWE 2K25",
          "Informacion": "\u00a1Juega gratis! Celebre la l\u00ednea de sangre en el escaparate. Competir en l\u00ednea en mygm. El juego ampliado incluye la lucha interg\u00e9nero, la lucha libre, el buceo de barricadas, el regreso de las promociones + mucho m\u00e1s!",
@@ -89,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/2878960/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Bone-ER-Clicker by b._.render",
@@ -99,7 +19,7 @@
          "URL": "https://b-render.itch.io/bone-clicker",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Drug Dealin Sim 2024 by b._.render",
@@ -109,7 +29,7 @@
          "URL": "https://b-render.itch.io/drug-dealin-simulator-2024",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Dummy Smasher by b._.render",
@@ -119,7 +39,7 @@
          "URL": "https://b-render.itch.io/dummy-smasher",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Gold Digger by b._.render",
@@ -129,7 +49,7 @@
          "URL": "https://b-render.itch.io/gold-digger",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Small RPG by b._.render",
@@ -139,7 +59,7 @@
          "URL": "https://b-render.itch.io/small-rpg",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Stacky Stacky Game Game by b._.render",
@@ -149,7 +69,7 @@
          "URL": "https://b-render.itch.io/clicky-clicky-game-game",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Ashampoo Music Studio 2025",
@@ -159,7 +79,17 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-music-studio-2025-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Hard Disk Sentinel Standard Edition",
+         "Informacion": "Monitorear la salud de su disco duro",
+         "Desde": "",
+         "Hasta": "2025/08/05 09:00",
+         "URL": "https://www.bitsdujour.com/software/hard-disk-sentinel/in=upcoming-freebies",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Copy Files Into Multiple Folders License Key Free 2025",
@@ -232,21 +162,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Kingshiper File Manager",
-         "Informacion": "Kingshiper File Administrar: extraer y administrar archivos de comprimir en segundos",
-         "Desde": "",
-         "Hasta": "2025/08/06 07:00",
-         "URL": "https://sharewareonsale.com/s/free-kingshiper-file-manager-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "AweEraser",
          "Informacion": "Potente borrador de datos para borrar datos de forma segura y permanente del disco duro, unidad flash USB, c\u00e1mara digital y tarjeta de memoria, etc.",
          "Desde": "",
          "Hasta": "2025/08/06 07:00",
          "URL": "https://sharewareonsale.com/s/free-aweeraser-2-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kingshiper File Manager",
+         "Informacion": "Kingshiper File Administrar: extraer y administrar archivos de comprimir en segundos",
+         "Desde": "",
+         "Hasta": "2025/08/06 07:00",
+         "URL": "https://sharewareonsale.com/s/free-kingshiper-file-manager-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -259,6 +189,26 @@
          "URL": "https://tickgiveaway.com/magoshare-aweeraser-lifetime-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Donemax Data Eraser for Windows Key Free 2025",
+         "Informacion": "El borrador de datos de Donemax es un software confiable y seguro de borrado de datos que le permite borrar datos de forma segura y permanente de cualquier disco duro o dispositivo externo m\u00e1s all\u00e1 del alcance de la recuperaci\u00f3n de datos. Con \u00e9l, siempre puede borrar datos de SSD, HDD, unidad flash USB, tarjeta de memoria, c\u00e1mara digital, etc. Adem\u00e1s, este software ofrece un informe completo de borrado de datos, que se puede exportar a cualquier dispositivo como un archivo HTML.",
+         "Desde": "",
+         "Hasta": "2025/08/06 15:00",
+         "URL": "https://tickgiveaway.com/donemax-data-eraser-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Me and I by Triple Dev",
+         "Informacion": "La vida de un streamer toma un giro extra\u00f1o despu\u00e9s de recibir el correo de los fan\u00e1ticos de un misterioso cartero. Pronto, se encuentra atrapado en un bucle de tiempo que no puede escapar.",
+         "Desde": "",
+         "Hasta": "2025/08/06 15:34",
+         "URL": "https://triple-dev.itch.io/me-and-i",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -382,31 +332,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Aquatic Grave by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/10 02:00",
+         "URL": "https://liminace.itch.io/aquatic-grave",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Awakened Beauty by LiminAce",
          "Informacion": "Descargo de responsabilidad: este juego se realiz\u00f3 para el O2A2 VN Jam 2025, un atasco de novela micro visual con estrictas limitaciones de activos y un l\u00edmite de 1000 palabras. No entres en este juego esperando una larga historia con una mierda de CGS.",
          "Desde": "",
          "Hasta": "2025/08/10 02:00",
          "URL": "https://liminace.itch.io/awakened-beauty",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "When it Rains Red by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/08/10 02:00",
-         "URL": "https://liminace.itch.io/when-it-rains-red",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Road Trip to Hell by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/08/10 02:00",
-         "URL": "https://liminace.itch.io/road-trip-to-hell",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -422,6 +362,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Road Trip to Hell by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/10 02:00",
+         "URL": "https://liminace.itch.io/road-trip-to-hell",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
          "Informacion": "",
          "Desde": "",
@@ -432,11 +382,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Aquatic Grave by LiminAce",
+         "Nombre": "When it Rains Red by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/08/10 02:00",
-         "URL": "https://liminace.itch.io/aquatic-grave",
+         "URL": "https://liminace.itch.io/when-it-rains-red",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cabin Fever!!! by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/10 02:00",
+         "URL": "https://liminace.itch.io/cabin-fever",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -492,6 +452,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Sublimation & SVG Mega Bundle",
+         "Informacion": "Elabore proyectos incre\u00edbles con este paquete, incluidos 94 gr\u00e1ficos premium, disponibles ahora de forma gratuita en asociaci\u00f3n con ShareFeSonsale.com (valorado en $ 143). Perfecto para todos sus pr\u00f3ximos proyectos. Personalice y edite como desee. \u00a1Viene con una licencia comercial!",
+         "Desde": "",
+         "Hasta": "2025/08/11 07:00",
+         "URL": "https://sharewareonsale.com/s/free-sublimation-svg-mega-bundle-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "EaseUS NTFS for Mac (100% Discount)",
+         "Informacion": "Facilus NTFS para Mac es un potente software de controlador NTFS dise\u00f1ado expl\u00edcitamente para usuarios de Mac. Le permite escribir, editar, copiar, mover y eliminar archivos en los vol\u00famenes de Microsoft NTFS. Tambi\u00e9n puede usarlo para montar y desmontar los vol\u00famenes de Microsoft NTFS desde una Mac. Esta herramienta proporciona un acceso sin problemas a escribir datos a todas las marcas de unidades externas como Buffalo, Western Digital, Seagate, SanDisk, Adata, Lacie, Seagate, etc., en computadoras Mac. Facilus NTFS para MAC es compatible con Apple Silicon M1, M2 y M3, y Macos Sonoma.",
+         "Desde": "",
+         "Hasta": "2025/08/11 15:00",
+         "URL": "https://tickgiveaway.com/easeus-ntfs-for-mac-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Leawo Tunes Cleaner 1-Year Free License 2025",
          "Informacion": "Leawo Tunes Cleaner le trae la tecnolog\u00eda para refrescar su m\u00fasica iTunes. Limpia la biblioteca dentro y fuera de iTunes, elimina los duplicados, crea \u00e1lbumes de fotos para la lista de archivos de m\u00fasica de iTunes, y agrega o ignora la informaci\u00f3n del artista y los nombres de los \u00e1lbumes de acuerdo con sus necesidades. Adem\u00e1s, Leawo Tunes Cleaner limpia autom\u00e1ticamente la biblioteca de iTunes y ayuda a ahorrar tiempo y esfuerzo para muchas carpetas en iTunes.",
          "Desde": "",
@@ -499,6 +479,16 @@
          "URL": "https://tickgiveaway.com/free-license-leawo-tunes-cleaner-giveaway/",
          "IMG": "",
          "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Hulduf\u00c3\u00b3lk by RBD Interactive, David Sound Wizard",
+         "Informacion": "Hulduf\u00e9lk fue hecho para la mermelada de terror popular",
+         "Desde": "",
+         "Hasta": "2025/08/13 00:09",
+         "URL": "https://rbdinteractive.itch.io/huldufolk",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1222,6 +1212,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Valorant Stats by munegames",
+         "Informacion": "Valor Stats es una aplicaci\u00f3n no oficial",
+         "Desde": "",
+         "Hasta": "2025/08/31 12:15",
+         "URL": "https://munegames.itch.io/valor-stats",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Forest Stats For Fortnite Battle Royale by munegames",
+         "Informacion": "Aplicaci\u00f3n no oficial para estad\u00edsticas, mapas, pieles, tiendas diarias del juego para Fortnite",
+         "Desde": "",
+         "Hasta": "2025/08/31 12:15",
+         "URL": "https://munegames.itch.io/forest-stats-for-battle-royale",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AimGuru by munegames",
+         "Informacion": "Este es el entrenador de AIM, es f\u00e1cil mejorar su pel\u00edcula de punter\u00eda, seguimiento y otros",
+         "Desde": "",
+         "Hasta": "2025/08/31 12:15",
+         "URL": "https://munegames.itch.io/aimguru",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Freeze Target by munegames",
+         "Informacion": "Puedes mejorar tu tiro en la pel\u00edcula y las mec\u00e1nicas de pistola de valor",
+         "Desde": "",
+         "Hasta": "2025/08/31 12:15",
+         "URL": "https://munegames.itch.io/freeze-target",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
          "Informacion": "El misterioso viajero busca la verdad sobre el legendario Wyvern del Castillo de Czersk.\u00a0Basado en eventos verdaderos (muy libremente, por supuesto;))",
          "Desde": "",
@@ -1352,21 +1382,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Glowgon by AlltheturtlesGames",
-         "Informacion": "El efecto de brillo en el que se basa este juego no funciona en la web en Godot 4.3. Solo tengo la versi\u00f3n del navegador disponible porque puede ser dif\u00edcil descargar juegos, pero si puede, intente.",
-         "Desde": "",
-         "Hasta": "2025/09/01 18:52",
-         "URL": "https://alltheturtlesgames.itch.io/glowgon",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Astral Evolution by AlltheturtlesGames",
          "Informacion": "Toda tu flota fue aniquilada por un ej\u00e9rcito aparentemente interminable de extraterrestres. Eres el \u00fanico barco restante, luchando contra miles de enemigos. \u00bfPuedes derrotar a Swarms of Aliens para obtener las actualizaciones que necesitar\u00e1s para regresar a casa?\u00a0Actualmente hay 10 niveles, incluidos una pelea interminable, un jefe y un tutorial con muchos m\u00e1s en camino, 3 enemigos \u00fanicos y 5 armas desbloqueables. Gana monedas y XP derrotando niveles para mejorar tu cohete y sus armas.",
          "Desde": "",
          "Hasta": "2025/09/01 18:52",
          "URL": "https://alltheturtlesgames.itch.io/astralevolutions",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Glowgon by AlltheturtlesGames",
+         "Informacion": "El efecto de brillo en el que se basa este juego no funciona en la web en Godot 4.3. Solo tengo la versi\u00f3n del navegador disponible porque puede ser dif\u00edcil descargar juegos, pero si puede, intente.",
+         "Desde": "",
+         "Hasta": "2025/09/01 18:52",
+         "URL": "https://alltheturtlesgames.itch.io/glowgon",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
