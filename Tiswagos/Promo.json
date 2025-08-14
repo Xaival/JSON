@@ -1,186 +1,6 @@
 {
-   "date_update": "11 Aug 2025 16:18 UTC",
+   "date_update": "14 Aug 2025 16:20 UTC",
    "values": [
-      {
-         "Nombre": "Lynked: Banner of the Spark",
-         "Informacion": "\u00a1Juega gratis! \u00a1Construye un nuevo mundo brillante junto con una banda de amigos robot rescatados! En este colorido juego de rol de acci\u00f3n, batalla oleadas de enemigos en Solo o Co-op, luego regresa a casa y usa sus partes para crear una ciudad pr\u00f3spera. \u00a1Ensamble su tripulaci\u00f3n y fortalezca con cada nueva aventura!",
-         "Desde": "",
-         "Hasta": "2025/08/11 10:00",
-         "URL": "https://store.steampowered.com/app/3159570/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "The Elder Scrolls\u00ae Online",
-         "Informacion": "\u00a1Juega gratis! Cada leyenda comienza en alg\u00fan lugar y en los Scrolls Elder en l\u00ednea, comienza con usted. \u00danase a millones de jugadores en un juego de rol de fantas\u00eda en l\u00ednea ambientado en un vasto mundo de Scrolls de Elder Scrolls.",
-         "Desde": "",
-         "Hasta": "2025/08/11 10:00",
-         "URL": "https://store.steampowered.com/app/306130/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Concrete Veil by petrol",
-         "Informacion": "Ubicada en una ciudad dist\u00f3pica, donde el imponente muro de concreto separa la ciudad de lo desconocido.\u00a0 El mundo ahora est\u00e1 controlado por la compa\u00f1\u00eda militar privada, que estaba destinada a proteger a la humanidad. Pero ahora que mantener este objetivo ya no tiene sentido, se ven obligados a deambular por el mundo por la eternidad.",
-         "Desde": "",
-         "Hasta": "2025/08/11 12:00",
-         "URL": "https://p3trol.itch.io/concrete-veil",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "Forest 6174 by itandfeel",
-         "Informacion": "Una breve experiencia de terror psicol\u00f3gico",
-         "Desde": "",
-         "Hasta": "2025/08/11 13:50",
-         "URL": "https://itandfeel.itch.io/forest-6174",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
-      },
-      {
-         "Nombre": "AcePDF Editor & Converter Pro (100% Discount)",
-         "Informacion": "Como su nombre lo indica, ACEPDF Editor & Converter Pro es una aplicaci\u00f3n PDF de PDF y una aplicaci\u00f3n para convertidores que est\u00e1 dise\u00f1ada para ayudarlo a editar y convertir documentos PDF. Proporciona un arco iris de caracter\u00edsticas para ayudarlo a editar y personalizar sus archivos PDF. Las funciones de edici\u00f3n simples le permiten editar, insertar o eliminar f\u00e1cilmente texto, im\u00e1genes y gr\u00e1ficos dentro de los archivos PDF con unos pocos clics. Se le permite cortar, copiar, pegar y eliminar texto e im\u00e1genes como desee.",
-         "Desde": "",
-         "Hasta": "2025/08/11 14:00",
-         "URL": "https://tickgiveaway.com/acepdf-editor-converter-pro-free-license/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "EaseUS NTFS for Mac (100% Discount)",
-         "Informacion": "Facilus NTFS para Mac es un potente software de controlador NTFS dise\u00f1ado expl\u00edcitamente para usuarios de Mac. Le permite escribir, editar, copiar, mover y eliminar archivos en los vol\u00famenes de Microsoft NTFS. Tambi\u00e9n puede usarlo para montar y desmontar los vol\u00famenes de Microsoft NTFS desde una Mac. Esta herramienta proporciona un acceso sin problemas a escribir datos a todas las marcas de unidades externas como Buffalo, Western Digital, Seagate, SanDisk, Adata, Lacie, Seagate, etc., en computadoras Mac. Facilus NTFS para MAC es compatible con Apple Silicon M1, M2 y M3, y Macos Sonoma.",
-         "Desde": "",
-         "Hasta": "2025/08/11 15:00",
-         "URL": "https://tickgiveaway.com/easeus-ntfs-for-mac-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "This Game is For You 2025 by Lachlan Shelton",
-         "Informacion": "Bienvenido a este juego es para ti 2025, otro juego de terror hecho solo para ti.",
-         "Desde": "",
-         "Hasta": "2025/08/11 15:59",
-         "URL": "https://omogonixlachlan.itch.io/this-game-is-for-you-2025",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
-      },
-      {
-         "Nombre": "Horizon Rush by dadfa455",
-         "Informacion": "Horizon Rush es mi primer juego que cre\u00e9 con pasi\u00f3n y dedicaci\u00f3n. Cada comentario y apoyo tuyo me ayuda a mejorar a\u00fan m\u00e1s el juego. \u00a1Gracias por ser parte de mi viaje independiente!",
-         "Desde": "",
-         "Hasta": "2025/08/11 18:00",
-         "URL": "https://dadfa455.itch.io/horizon-rush",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Leawo Tunes Cleaner 1-Year Free License 2025",
-         "Informacion": "Leawo Tunes Cleaner le trae la tecnolog\u00eda para refrescar su m\u00fasica iTunes. Limpia la biblioteca dentro y fuera de iTunes, elimina los duplicados, crea \u00e1lbumes de fotos para la lista de archivos de m\u00fasica de iTunes, y agrega o ignora la informaci\u00f3n del artista y los nombres de los \u00e1lbumes de acuerdo con sus necesidades. Adem\u00e1s, Leawo Tunes Cleaner limpia autom\u00e1ticamente la biblioteca de iTunes y ayuda a ahorrar tiempo y esfuerzo para muchas carpetas en iTunes.",
-         "Desde": "",
-         "Hasta": "2025/08/12 00:00",
-         "URL": "https://tickgiveaway.com/free-license-leawo-tunes-cleaner-giveaway/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "PDF Imager",
-         "Informacion": "Convertir f\u00e1cilmente los documentos PDF en archivos de imagen",
-         "Desde": "",
-         "Hasta": "2025/08/12 09:00",
-         "URL": "https://www.bitsdujour.com/software/pdf-imager/in=upcoming-freebies",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "WinToUSB Professional (100% Discount) 1-Year",
-         "Informacion": "Wintousb Professional le permite instalar y ejecutar una ventana completamente funcional en un disco duro externo, unidad flash USB o tracci\u00f3n Thunderbolt. Puede crear f\u00e1cilmente su primer Windows 10/8/7 port\u00e1til directamente desde un ISO, WIM, ESD, SWM, VHD, VHDX IMAGE o unidad CD/DVD, o puede usarlo para clonar la instalaci\u00f3n existente de Windows OS (Windows 7 o posterior) a la unidad USB o Thunderbolt como ventanas port\u00e1tiles con solo unos pocos pasos simples. Adem\u00e1s, Wintousb tambi\u00e9n admite la creaci\u00f3n de unidades Flash USB de instalaci\u00f3n de Windows desde Windows 10/8/7/2019/2016/2012/2010/2008 R2 Instalaci\u00f3n ISO Archivo, con \u00e9l puede instalar f\u00e1cilmente Windows desde la unidad flash USB.",
-         "Desde": "",
-         "Hasta": "2025/08/12 15:00",
-         "URL": "https://tickgiveaway.com/wintousb-professional-free-key/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Hulduf\u00c3\u00b3lk by RBD Interactive, David Sound Wizard",
-         "Informacion": "Hulduf\u00e9lk fue hecho para la mermelada de terror popular",
-         "Desde": "",
-         "Hasta": "2025/08/13 00:09",
-         "URL": "https://rbdinteractive.itch.io/huldufolk",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Zoom #1",
-         "Informacion": "Zoom #1 - Escala de im\u00e1genes a alta calidad con aprendizaje profundo.",
-         "Desde": "",
-         "Hasta": "2025/08/13 07:00",
-         "URL": "https://sharewareonsale.com/s/free-zoom-1-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Excel Splitter PRO",
-         "Informacion": "Excel Splitter es un programa de software Windows dedicado que permite a los usuarios dividir de manera r\u00e1pida y eficiente los libros de trabajo de Excel en archivos individuales o dividir las hojas de trabajo en funci\u00f3n de las filas. No se requiere MS Office o MS Excel.",
-         "Desde": "",
-         "Hasta": "2025/08/13 07:00",
-         "URL": "https://sharewareonsale.com/s/free-excel-splitter-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Reezaa Excel Splitter Pro (100% Discount)",
-         "Informacion": "Obtenga la forma m\u00e1s f\u00e1cil pero m\u00e1s profesional de administrar y distribuir grandes conjuntos de datos de Excel aqu\u00ed. Reezaa Excel Splitter es un software poderoso que divide los libros de trabajo de Excel en archivos individuales o divide hojas de trabajo basadas en filas. Puede dividir grandes archivos de Excel (XLS, XLSX, CSV, ODS y XML) sin necesidad de Excel. Con su ayuda, puede manejar grandes archivos de Excel sin esfuerzo y preservar las filas de encabezado para una organizaci\u00f3n de datos consistente. Con la funci\u00f3n de divisi\u00f3n de libros de trabajo masivo, puede dividir f\u00e1cilmente m\u00faltiples libros de trabajo de Excel en archivos individuales con solo unos pocos clics para ahorrar tiempo y esfuerzo.",
-         "Desde": "",
-         "Hasta": "2025/08/13 14:00",
-         "URL": "https://tickgiveaway.com/reezaa-excel-splitter-pro-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Forest 6174 - Judy DLC by itandfeel",
-         "Informacion": "En esta expansi\u00f3n gratuita del bosque 6174, una vez m\u00e1s jugar\u00e1s como Danny, pero esta vez, explorar\u00e1s un lado m\u00e1s oscuro y m\u00e1s inquietante de \u00e9l. En el camino, finalmente descubrir\u00e1s qui\u00e9n es Judy realmente y cu\u00e1l ha sido su verdadero prop\u00f3sito desde el principio.",
-         "Desde": "",
-         "Hasta": "2025/08/13 15:16",
-         "URL": "https://itandfeel.itch.io/forest-6174-judy-dlc",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster Android WhatsApp Recovery (100% Discount)",
-         "Informacion": "Tiene muchos mensajes de WhatsApp viejos pero importantes en su Samsung Galaxy, pero desafortunadamente, los elimin\u00f3 accidentalmente de su tel\u00e9fono. Si est\u00e1 buscando una herramienta de recuperaci\u00f3n que pueda ayudarlo a recuperar sus mensajes de WhatsApp y sus archivos multimedia, CoolMuster Android Whatsapp Recovery podr\u00eda ser la utilidad para usted.",
-         "Desde": "",
-         "Hasta": "2025/08/14 00:00",
-         "URL": "https://tickgiveaway.com/coolmuster-android-whatsapp-recovery-free/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Capture Boss",
-         "Informacion": "\u00a1Si puede verlo o escucharlo, puede obtener una copia de alta calidad con Capture Boss!",
-         "Desde": "",
-         "Hasta": "2025/08/14 07:00",
-         "URL": "https://sharewareonsale.com/s/free-capture-boss-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "112 Operator",
          "Informacion": "Manage emergency services in any city in the world! Take calls and dispatch rescue forces. Handle difficult situations, now depending on the weather, and traffic. Help the citizens through cataclysms and natural disasters, becoming a better emergency number operator every day!",
@@ -189,7 +9,7 @@
          "URL": "https://store.epicgames.com/p/112-operator-f34b0b",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
       },
       {
          "Nombre": "Road Redemption",
@@ -199,7 +19,7 @@
          "URL": "https://store.epicgames.com/p/road-redemption-ce16fb",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
       },
       {
          "Nombre": "Hakemord: Episode 1 by HakemordDev",
@@ -209,7 +29,7 @@
          "URL": "https://hakemorddev.itch.io/hakemord",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Fear Assessment by ALEXANDER WISEMAN",
@@ -219,7 +39,7 @@
          "URL": "https://alexander-wiseman.itch.io/fear-assessment",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
       },
       {
          "Nombre": "VICTIM.exe by ALEXANDER WISEMAN",
@@ -229,7 +49,7 @@
          "URL": "https://alexander-wiseman.itch.io/victimexe",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
       },
       {
          "Nombre": "Oasis Kingdom by 4Qi Games",
@@ -239,7 +59,7 @@
          "URL": "https://4qi-games.itch.io/oasis-kingdom",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "All-In-One Key Finder Pro 2024",
@@ -249,6 +69,36 @@
          "URL": "https://sharewareonsale.com/s/free-xenarmor-all-in-one-key-finder-pro-2020-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "WonderFox DVD Ripper Pro",
+         "Informacion": "Transformar las pel\u00edculas de DVD en formatos de archivo port\u00e1tiles",
+         "Desde": "",
+         "Hasta": "2025/08/15 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-ripper-2/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "iCarePDF Unlocker & Lock (100% Discount)",
+         "Informacion": "ICAREPDF Uplocker & Lock es una aplicaci\u00f3n profesional de desbloqueador y bloqueo de PDF que puede ayudarlo a desglosarse al intentar editar, imprimir o copiar contenido de un PDF o proteger documentos confidenciales del acceso no autorizado. Esta herramienta le permite eliminar la protecci\u00f3n de la contrase\u00f1a del propietario, lo que le permite obtener el control completo sobre la edici\u00f3n, la impresi\u00f3n, la copia y la extracci\u00f3n de p\u00e1ginas. Junto con el desbloqueo de archivos PDF, ICAREPDF Uplocker & Lock puede ayudarlo a agregar contrase\u00f1as para evitar la apertura o modificaciones no autorizadas.",
+         "Desde": "",
+         "Hasta": "2025/08/15 15:00",
+         "URL": "https://tickgiveaway.com/icarepdf-unlocker-lock-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ceiling Fan Ghost by Standout 7",
+         "Informacion": "Este es mi primer juego independiente, realizado en solo dos semanas con una PC de gama baja y mucho esfuerzo. Es una experiencia corta y espeluznante para los fan\u00e1ticos de juegos de terror simples.",
+         "Desde": "",
+         "Hasta": "2025/08/15 17:03",
+         "URL": "https://standout7.itch.io/ceilingfan",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -332,6 +182,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Concrete Veil by petrol",
+         "Informacion": "Ubicada en una ciudad dist\u00f3pica, donde el imponente muro de concreto separa la ciudad de lo desconocido.\u00a0 El mundo ahora est\u00e1 controlado por la compa\u00f1\u00eda militar privada, que estaba destinada a proteger a la humanidad. Pero ahora que mantener este objetivo ya no tiene sentido, se ven obligados a deambular por el mundo por la eternidad.",
+         "Desde": "",
+         "Hasta": "2025/08/18 12:00",
+         "URL": "https://p3trol.itch.io/concrete-veil",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "EaseUS RecExperts for Windows (100% Discount)",
          "Informacion": "FAILLEUS RECXTERTS es un software de grabaci\u00f3n de pantalla que le permite grabar cualquier cosa en su pantalla. Para una mayor verificaci\u00f3n, puede usar esta grabadora de pantalla profesional para grabar reuniones de zoom, llamadas de Skype, llamadas de WhatsApp, seminarios web, presentaciones y m\u00e1s. Este software tambi\u00e9n le permite registrar su juego con o sin narraci\u00f3n. Si desea grabar su narraci\u00f3n de cara y voz en su contenido de PowerPoint, facilusus RECXTRS maneja eso tambi\u00e9n.",
          "Desde": "",
@@ -349,6 +209,26 @@
          "URL": "https://tickgiveaway.com/wise-duplicate-finder-pro-for-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 2 by David Pires",
+         "Informacion": "Est\u00e1s encerrado en una f\u00e1brica abandonada y debes protegerte de las personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2025/08/19 00:00",
+         "URL": "https://david-pires.itch.io/sea-town-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sea Town 3 by David Pires",
+         "Informacion": "Est\u00e1s trabajando como guardia de seguridad en un centro comercial y debe protegerse de las personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Desde": "",
+         "Hasta": "2025/08/19 00:00",
+         "URL": "https://david-pires.itch.io/sea-town-3",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -372,16 +252,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sea Town: Party Over by David Pires",
-         "Informacion": "Est\u00e1s encerrado en un hospital abandonado y debes protegerte de las personas disfrazadas hasta las 7 a.m.",
-         "Desde": "",
-         "Hasta": "2025/08/19 00:00",
-         "URL": "https://david-pires.itch.io/sea-town-party-over",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Sea Town: Nightmare Night by David Pires",
          "Informacion": "Est\u00e1s durmiendo en una habitaci\u00f3n de hotel y debes protegerte de una pesadilla hasta las 7 de la ma\u00f1ana.",
          "Desde": "",
@@ -392,23 +262,23 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sea Town 3 by David Pires",
-         "Informacion": "Est\u00e1s trabajando como guardia de seguridad en un centro comercial y debe protegerse de las personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Nombre": "Sea Town: Party Over by David Pires",
+         "Informacion": "Est\u00e1s encerrado en un hospital abandonado y debes protegerte de las personas disfrazadas hasta las 7 a.m.",
          "Desde": "",
          "Hasta": "2025/08/19 00:00",
-         "URL": "https://david-pires.itch.io/sea-town-3",
+         "URL": "https://david-pires.itch.io/sea-town-party-over",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sea Town 2 by David Pires",
-         "Informacion": "Est\u00e1s encerrado en una f\u00e1brica abandonada y debes protegerte de las personas disfrazadas hasta las 7 de la ma\u00f1ana.",
+         "Nombre": "Kingshiper Video Compressor",
+         "Informacion": "Kingshiper Video Compressor es una herramienta profesional de compresi\u00f3n de video y GIF que le permite comprimir archivos de video y GIF en segundos. Ofrece varios m\u00e9todos de compresi\u00f3n y niveles de compresi\u00f3n personalizables. El compresor de video Kingshiper est\u00e1 dise\u00f1ado con una interfaz f\u00e1cil de usar, lo que le permite a los archivos de compresi\u00f3n por lotes con un solo clic.",
          "Desde": "",
-         "Hasta": "2025/08/19 00:00",
-         "URL": "https://david-pires.itch.io/sea-town-2",
+         "Hasta": "2025/08/19 07:00",
+         "URL": "https://sharewareonsale.com/s/free-kingshiper-video-compressor-100-discount",
          "IMG": "",
-         "Distribuidora": "Itch io",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -442,6 +312,86 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "VSDC Video Editor PRO 10",
+         "Informacion": "VSDC Video Editor Pro No Linear Video Editing Suite para crear una pel\u00edcula de cualquier complejidad: desde una tarjeta familiar, un clip de c\u00e1maras de drones o de acci\u00f3n en la calidad de UHD hasta una presentaci\u00f3n comercial con una amplia gama de gr\u00e1ficos y diagramas.",
+         "Desde": "",
+         "Hasta": "2025/08/20 07:00",
+         "URL": "https://sharewareonsale.com/s/free-vsdc-video-editor-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Button Memory by Codedish",
+         "Informacion": "Memoria del bot\u00f3n: \u00a1R\u00e1pido, divertido, que aumenta el cerebro! Afrega tu memoria con este juego r\u00e1pido y simple. La memoria del bot\u00f3n es perfecta para un entrenamiento mental r\u00e1pido, solo unos minutos al d\u00eda pueden marcar una verdadera diferencia.",
+         "Desde": "",
+         "Hasta": "2025/08/20 10:00",
+         "URL": "https://codedish.itch.io/button-memory",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Merge XML Files Key (100% Discount)",
+         "Informacion": "Los archivos XML de Vovsoft Merge es un poderoso software de uni\u00f3n que facilita la combinaci\u00f3n de archivos XML para todos. Ya sea que est\u00e9 trabajando con un mont\u00f3n de peque\u00f1os archivos XML o un gran lote de conjuntos de datos extensos, los fusiona r\u00e1pidamente sin estropear la estructura o el formateo; Todos los elementos, atributos y jerarqu\u00edas permanecen exactamente iguales. Los archivos XML de Vovsoft Merge son f\u00e1ciles de usar; Simplemente haga clic en el bot\u00f3n `Agregar archivo XML` para cargar sus archivos (o arrastre y suelte directamente desde su computadora), y luego presione `Exportar XML combinado` para obtener un archivo bien fusionado.",
+         "Desde": "",
+         "Hasta": "2025/08/20 15:00",
+         "URL": "https://tickgiveaway.com/vovsoft-merge-xml-files-license-code-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dupinout Duplicate Finder (100% Discount)",
+         "Informacion": "Dupinout Duplicate Finder es uno de los mejores software Duplicate Finder para Windows que le ayuda a buscar documentos duplicados, m\u00fasica, videos y m\u00e1s. Adem\u00e1s, puede encontrar f\u00e1cilmente y arreglar duplicados. La \u00faltima versi\u00f3n de Dupinout proporciona una nueva herramienta llamada `Comparar carpetas` que compara la carpeta de origen y la carpeta de destino y muestra una lista de los mismos archivos, archivos cambiados/ diferentes y archivos adicionales en cada carpeta.",
+         "Desde": "",
+         "Hasta": "2025/08/20 15:00",
+         "URL": "https://tickgiveaway.com/dupinout-duplicate-finder-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fear the light by Tomython",
+         "Informacion": "El juego se encuentra actualmente en las primeras etapas de desarrollo, toda la mec\u00e1nica b\u00e1sica y su imagen est\u00e1n listas, sin embargo, puede haber errores en el juego que no exist\u00edan originalmente, nos disculpamos de antemano por las molestias. Tambi\u00e9n debe tenerse en cuenta que el juego a\u00fan se actualizar\u00e1 y se lanzar\u00e1n parches, ya que esto a\u00fan no es un lanzamiento, pero solo un prototipo listo.",
+         "Desde": "",
+         "Hasta": "2025/08/20 18:07",
+         "URL": "https://tomython.itch.io/fear-the-light",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster Lab.Fone for Android (100% Discount)",
+         "Informacion": "No hace falta decir que CoolMuster Lab.Fone para Android es un software de recuperaci\u00f3n de datos Android confiable y profesional que permite a los usuarios recuperar datos perdidos o eliminados de las tarjetas de memoria internas y externas de Android de la manera m\u00e1s r\u00e1pida y f\u00e1cil. Con su ayuda, puede recuperar m\u00faltiples tipos de archivos de la tarjeta de memoria interna y SIM de Android, incluidos los mensajes eliminados, registros de llamadas, contactos, videos, m\u00fasica, fotos y documentos. Adem\u00e1s, puede hacer una copia de seguridad de los datos eliminados y existentes de los dispositivos Android a su computadora en caso de p\u00e9rdida de datos. CoolMuster Lab.Fone para Android admite m\u00e1s de 6,000 tel\u00e9fonos y tabletas Android para ayudarlo a recuperar sus datos con facilidad.",
+         "Desde": "",
+         "Hasta": "2025/08/21 00:00",
+         "URL": "https://tickgiveaway.com/coolmuster-lab-fone-for-android-free-code/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Remove Logo Now",
+         "Informacion": "Revolucione la forma en que perfecciona sus videos con softorbits de software de eliminaci\u00f3n de marca de agua de vanguardia. Diga adi\u00f3s a las superposiciones de distracci\u00f3n mientras esta poderosa herramienta borra perfectamente marcas de agua, elevando su contenido de video a nuevas alturas. Desbloquee todo el potencial de sus im\u00e1genes restaurando sin esfuerzo su calidad pr\u00edstina, lo que permite que su creatividad tome el centro del escenario sin interrupciones.",
+         "Desde": "",
+         "Hasta": "2025/08/21 07:00",
+         "URL": "https://sharewareonsale.com/s/free-remove-logo-now-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Forest 6174 - Judy DLC by itandfeel",
+         "Informacion": "En esta expansi\u00f3n gratuita del bosque 6174, una vez m\u00e1s jugar\u00e1s como Danny, pero esta vez, explorar\u00e1s un lado m\u00e1s oscuro y m\u00e1s inquietante de \u00e9l. En el camino, finalmente descubrir\u00e1s qui\u00e9n es Judy realmente y cu\u00e1l ha sido su verdadero prop\u00f3sito desde el principio.",
+         "Desde": "",
+         "Hasta": "2025/08/21 15:16",
+         "URL": "https://itandfeel.itch.io/forest-6174-judy-dlc",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hidden Folks",
          "Informacion": "Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooooaaaarrrr!!!!!",
          "Desde": "2025/08/14",
@@ -449,7 +399,7 @@
          "URL": "https://store.epicgames.com/p/hidden-folks-239d16",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Totally Reliable Delivery Service Standard Edition",
@@ -459,7 +409,7 @@
          "URL": "https://store.epicgames.com/p/totally-reliable-delivery-service",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "THE MIDNIGHT BUS by itandfeel",
@@ -467,6 +417,16 @@
          "Desde": "",
          "Hasta": "2025/08/22 07:00",
          "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Operation by InPr",
+         "Informacion": "La operaci\u00f3n es un juego que trata sobre la encuesta, \u00a1pero tambi\u00e9n incluye JumpScars!",
+         "Desde": "",
+         "Hasta": "2025/08/23 19:00",
+         "URL": "https://inpr.itch.io/operation",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -529,6 +489,16 @@
          "URL": "https://kasperv.itch.io/skylabdefender",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Apeaksoft iPhone Transfer (100% Discount)",
+         "Informacion": "La transferencia de iPhone de Apeaksoft le permite transferir los datos de iOS entre PC e iDevices sin p\u00e9rdida de datos (puede transferir de iPhone a iPhone, PC/Mac a iPhone, de iPhone a PC/Mac, o entre dispositivos PC/iOS e iTunes). Puede transferir fotos, m\u00fasica, videos, contactos, mensajes y otros tipos de archivos. La transferencia de iPhone de Apeaksoft tambi\u00e9n le ayuda a convertir las im\u00e1genes HEIC a JPEG o PNG, as\u00ed como a hacer tonos de llamada con su m\u00fasica favorita o transferencia de tonos de llamada de iPhone a iPhone con facilidad.",
+         "Desde": "",
+         "Hasta": "2025/08/25 00:00",
+         "URL": "https://tickgiveaway.com/apeaksoft-iphone-transfer-giveaway/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -912,6 +882,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Strange Horticulture",
+         "Informacion": "An occult puzzle game in which you play as the proprietor of a local plant store. Find and identify new plants, pet your cat, speak to a coven, or join a cult. Use your collection of powerful plants to influence the story and unravel Undermere\u2019s dark mysteries.",
+         "Desde": "2025/08/21",
+         "Hasta": "2025/08/28 17:00",
+         "URL": "https://store.epicgames.com/p/strange-horticulture-360e80",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Kamaeru",
+         "Informacion": "Foster a sanctuary for frogs and restore the biodiversity of the wetlands in Kamaeru, a cozy frog collecting game, where you take pictures of frogs, play mini-games and decorate your habitat. Hop right to it!",
+         "Desde": "2025/08/21",
+         "Hasta": "2025/08/28 17:00",
+         "URL": "https://store.epicgames.com/p/kamaeru-0c301e",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "My Bucket Project by Jeyers Development",
          "Informacion": "",
          "Desde": "",
@@ -982,6 +972,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Neon Domes by Robert Dolega",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/30 19:00",
+         "URL": "https://robertdolega.itch.io/neon-domes",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cubes in Danger 2 by Robert Dolega",
+         "Informacion": "Recoja monedas brillantes y diamantes brillantes para ganar corazones extra y permanecer en el juego. Pero tenga cuidado con los picos mortales que se alinean en su camino. White Spikes te costar\u00e1 un coraz\u00f3n, pero tocar los rojos significa un juego instant\u00e1neo para ambos jugadores.",
+         "Desde": "",
+         "Hasta": "2025/08/30 19:00",
+         "URL": "https://robertdolega.itch.io/cubes-in-danger-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "IncorpoScape by Robert Dolega",
+         "Informacion": "Juegas con el mouse y el teclado.",
+         "Desde": "",
+         "Hasta": "2025/08/30 19:00",
+         "URL": "https://robertdolega.itch.io/incorposcape",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Grand Kill Auto by theonlynick",
          "Informacion": "",
          "Desde": "",
@@ -1007,6 +1027,16 @@
          "Desde": "",
          "Hasta": "2025/08/31 00:00",
          "URL": "https://tickgiveaway.com/aomei-backupper-professional-key-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AnyViewer Professional Key (100% Discount)",
+         "Informacion": "AnyViewer Professional es una herramienta simple pero mejor de acceso de computadora y soporte remoto que lo ayudar\u00e1 a eliminar los controles de PC y trabajar de forma remota a trav\u00e9s de Internet desde cualquier lugar. La herramienta permite a las peque\u00f1as y medianas empresas o usuarios individuales monitorear, administrar y reparar f\u00e1cilmente la PC de forma remota. Tambi\u00e9n viene con una funci\u00f3n de transferencia de archivos para ayudarlo a cambiar la posici\u00f3n de los archivos de una PC a otra o varias PC a la vez con alta calidad.",
+         "Desde": "",
+         "Hasta": "2025/08/31 00:00",
+         "URL": "https://tickgiveaway.com/anyviewer-professional-vip-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
@@ -1222,21 +1252,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sepan and the Seven Flasks by PicMid",
-         "Informacion": "Juego de idiomas: en, FR",
-         "Desde": "",
-         "Hasta": "2025/08/31 23:59",
-         "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Omega No Sunshine 2 by Galoxyum",
          "Informacion": "\u00a1Tambi\u00e9n hay una demostraci\u00f3n gratuita!",
          "Desde": "",
          "Hasta": "2025/08/31 23:59",
          "URL": "https://galoxyum.itch.io/omega-no-sunshine-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sepan and the Seven Flasks by PicMid",
+         "Informacion": "Juego de idiomas: en, FR",
+         "Desde": "",
+         "Hasta": "2025/08/31 23:59",
+         "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1429,6 +1459,26 @@
          "URL": "https://toxxyn.itch.io/null-paradox",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sheris ROOM by KittyCreamPuff",
+         "Informacion": "Este juego es un juego brasile\u00f1o-nippo en Pixelart Roguelite con hordas de monstruos y extraterrestres aleatorios que cuenta la historia de un gato de Pinguso que necesita invadir las habitaciones para salvar a Syntezia y volver a su adicci\u00f3n de beber Pinga nuevamente",
+         "Desde": "",
+         "Hasta": "2025/09/13 11:28",
+         "URL": "https://kittycreampuff.itch.io/sheris-room",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Leawo Video Converter Key (100% Discount)",
+         "Informacion": "\u00bfEst\u00e1 buscando un software integral de conversi\u00f3n de video?\u00a0Leawo Video Converter (para Mac o Windows) es la opci\u00f3n n\u00famero uno. Le permite convertir entre todos los formatos de video y audio populares: MP4 a AVI, MPEG a MoV, MKV a FLV, F4V a WebM, Mov a MP3, RMVB a AAC, MTS a M4A, RM a OGG, etc. Se admite la conversi\u00f3n por lotes para ahorrar tiempo y energ\u00eda.",
+         "Desde": "",
+         "Hasta": "2025/09/15 00:00",
+         "URL": "https://tickgiveaway.com/leawo-video-converter-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
