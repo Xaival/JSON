@@ -1,36 +1,6 @@
 {
-   "date_update": "16 Aug 2025 16:19 UTC",
+   "date_update": "17 Aug 2025 16:15 UTC",
    "values": [
-      {
-         "Nombre": "Power a Ascens\u00c3\u00a3o dos conquistadores (Power 2) by Carlos Junior",
-         "Informacion": "Alimentar la ascensi\u00f3n de los conquistadores",
-         "Desde": "",
-         "Hasta": "2025/08/17 04:59",
-         "URL": "https://guerreirosdodragao.itch.io/power-a-ascenso-dos-conquistadores-power-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Optimizer 2025",
-         "Informacion": "Photo Optimizer proporciona edici\u00f3n completa de im\u00e1genes en solo unos pocos clics. El programa admite caracter\u00edsticas populares como rotaci\u00f3n de im\u00e1genes, recorte, cambio de tama\u00f1o y mucho m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2025/08/17 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-optimizer-2025-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Allavsoft",
-         "Informacion": "Descargar y convertir videos para ver fuera de l\u00ednea",
-         "Desde": "",
-         "Hasta": "2025/08/17 09:00",
-         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Scary Bedtime Stories by MT Game Studio",
          "Informacion": "",
@@ -39,7 +9,7 @@
          "URL": "https://mt-game-studio.itch.io/scary-bedtime-stories-english",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "Kerish PC Doctor (100% Discount) License Free",
@@ -49,7 +19,7 @@
          "URL": "https://tickgiveaway.com/kerish-pc-doctor-free-license-code/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Coolmuster Android SMS + Contacts Recovery 1 Year Free Key",
@@ -59,7 +29,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-android-sms-contacts-recovery/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The Necromancer's Tower by Brendan Hesse",
@@ -69,7 +39,7 @@
          "URL": "https://the-crawl.itch.io/the-necromancers-tower",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "Vovsoft Watermark Image (100% Discount)",
@@ -79,17 +49,7 @@
          "URL": "https://tickgiveaway.com/vovsoft-watermark-image-free-license-code/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Video Ouija by Glitch Labs",
-         "Informacion": "\u00a1Re\u00fana 'Ronda, amigos!\u00a0\u00a1Familia!\u00a0\u00a1Hermanos!\u00a0\u00a1Hermanas! \u00a1Padres! T\u00edo Joe - T\u00eda Sally.\u00a0Ese tipo que vive en el s\u00f3tano, \u00a1es hora de video Ouija! Pon tu mano sobre el mouse, \u00a1o de lo contrario!",
-         "Desde": "",
-         "Hasta": "2025/08/18 05:59",
-         "URL": "https://glitchlabs.itch.io/video-ouija",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Break The Cipher by Glitch Labs",
@@ -99,7 +59,7 @@
          "URL": "https://glitchlabs.itch.io/break-the-cipher",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "How To Use Clocks by Glitch Labs",
@@ -109,7 +69,17 @@
          "URL": "https://glitchlabs.itch.io/how-to-use-clocks",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
+      },
+      {
+         "Nombre": "Video Ouija by Glitch Labs",
+         "Informacion": "\u00a1Re\u00fana 'Ronda, amigos!\u00a0\u00a1Familia!\u00a0\u00a1Hermanos!\u00a0\u00a1Hermanas! \u00a1Padres! T\u00edo Joe - T\u00eda Sally.\u00a0Ese tipo que vive en el s\u00f3tano, \u00a1es hora de video Ouija! Pon tu mano sobre el mouse, \u00a1o de lo contrario!",
+         "Desde": "",
+         "Hasta": "2025/08/18 05:59",
+         "URL": "https://glitchlabs.itch.io/video-ouija",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Concrete Veil by petrol",
@@ -197,6 +167,16 @@
          "Desde": "",
          "Hasta": "2025/08/19 00:00",
          "URL": "https://david-pires.itch.io/sea-town-party-over",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WhiteJill by jdujonah",
+         "Informacion": "Whitejill es una reinvenci\u00f3n 3D de Blackjack con un toque estrat\u00e9gico.",
+         "Desde": "",
+         "Hasta": "2025/08/19 00:00",
+         "URL": "https://jdujonah.itch.io/whitejill",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -352,16 +332,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "Un breve juego de terror",
-         "Desde": "",
-         "Hasta": "2025/08/22 07:00",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Photomizer 3 Premium",
          "Informacion": "Transforme sus fotos con un solo clic.",
          "Desde": "",
@@ -369,6 +339,16 @@
          "URL": "https://sharewareonsale.com/s/free-photomizer-3-premium-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/08/22 07:00",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -462,11 +442,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Moth by lucaspulaski",
+         "Informacion": "En Moth juegas como investigador de la polic\u00eda que busca en el estacionamiento subterr\u00e1neo un asesino.",
+         "Desde": "",
+         "Hasta": "2025/08/24 00:00",
+         "URL": "https://lucaspulaski.itch.io/moth",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Aiarty Image Enhancer 3 [with Generative AI]",
          "Informacion": "Mejore sus fotos con un clic, \u00a1desde borrosa hasta brillante!",
          "Desde": "",
          "Hasta": "2025/08/24 07:00",
          "URL": "https://sharewareonsale.com/s/free-aiarty-image-enhancer-with-generative-ai-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "50,000 Professional Fonts Mega Bundle",
+         "Informacion": "Transforme todos los proyectos con una biblioteca incomparable de m\u00e1s de 50,000 fuentes de alta calidad, seleccionadas para dise\u00f1adores, marcas y creativos que exigen variedad, consistencia y estilo. Ya sea que est\u00e9 elaborando una nueva identidad de marca audaz o ajuste los detalles de un dise\u00f1o de impresi\u00f3n, esta colecci\u00f3n le brinda la tipos de letra perfecta para cada prop\u00f3sito.",
+         "Desde": "",
+         "Hasta": "2025/08/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-50000-professional-fonts-mega-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -1032,6 +1032,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Teng Teng Dejavu by PlayAGA",
+         "Informacion": "Teng Teng DeJavu es un juego de terror de acci\u00f3n de acci\u00f3n en tercera persona que sumerge a los jugadores en una biblioteca misteriosa y viva. Aqu\u00ed, el piso es m\u00e1s que una plataforma, es un desencadenante para la muerte.",
+         "Desde": "",
+         "Hasta": "2025/08/31 06:00",
+         "URL": "https://playaga.itch.io/teng-teng-dejavu",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Pigeon West: Call Of Gun. ISEKAI by Blue harpy",
          "Informacion": "\u00bfQu\u00e9 pasar\u00eda si el criminal m\u00e1s peligroso de todo el Wild West terminara en el Isekai m\u00e1s t\u00edpico, y ni siquiera como el personaje principal?",
          "Desde": "",
@@ -1392,6 +1402,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Delivery Driver Massacre by Rotheart Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/09/06 20:52",
+         "URL": "https://rotheart-games.itch.io/delivery-driver-massacre",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Heartless by Rotheart Games",
          "Informacion": "",
          "Desde": "",
@@ -1407,16 +1427,6 @@
          "Desde": "",
          "Hasta": "2025/09/06 20:52",
          "URL": "https://rotheart-games.itch.io/signallost",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Delivery Driver Massacre by Rotheart Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/09/06 20:52",
-         "URL": "https://rotheart-games.itch.io/delivery-driver-massacre",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
