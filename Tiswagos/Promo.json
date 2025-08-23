@@ -1,46 +1,6 @@
 {
-   "date_update": "22 Aug 2025 16:17 UTC",
+   "date_update": "23 Aug 2025 16:24 UTC",
    "values": [
-      {
-         "Nombre": "Raffineria Simulatore \u00e2\u0080\u0094 Refinery Simulator / Tycoon (BETA) by ScorpionGameStudio",
-         "Informacion": "Idioma: solo italiano por ahora. UI en ingl\u00e9s planeado.",
-         "Desde": "",
-         "Hasta": "2025/08/22 14:00",
-         "URL": "https://scorpiongamestudio.itch.io/raffineria-simulatore",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "SERMON by Vinil, Arcadian XP",
-         "Informacion": "Est\u00e1s en quiebra. Usted acepta a House Sit en un antiguo edificio de apartamentos medio vacante por un poco de efectivo extra. Sin alquiler, solo una noche. Debe ser simple. Pero el silencio en estos pasillos se siente pesado. Algo est\u00e1 mal. El sue\u00f1o que obtienes no se siente como descansar.",
-         "Desde": "",
-         "Hasta": "2025/08/22 19:09",
-         "URL": "https://troj4nblazing.itch.io/sermon",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Converter Pro (100% Discount)",
-         "Informacion": "Coolmuster PDF Converter Pro es una utilidad PDF que puede ayudarlo a exportar PDF a 7 formatos principales, incluidos Word, EPUB, Excel, PowerPoint, im\u00e1genes, texto y HTML. Con una alta velocidad de conversi\u00f3n, puede editar y compartir su archivo de documento sin restricciones o p\u00e9rdida de calidad. Coolmuster PDF Converter admite modos de conversi\u00f3n por lotes y parciales; Puede convertir hasta 200 archivos PDF a la vez.",
-         "Desde": "",
-         "Hasta": "2025/08/23 00:00",
-         "URL": "https://tickgiveaway.com/coolmuster-pdf-converter-pro-free-key/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Kerish PC Doctor",
-         "Informacion": "Experimente una soluci\u00f3n de atenci\u00f3n completa para su computadora",
-         "Desde": "",
-         "Hasta": "2025/08/23 09:00",
-         "URL": "https://www.bitsdujour.com/software/kerish-pc-doctor/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "The Operation by InPr",
          "Informacion": "La operaci\u00f3n es un juego que trata sobre la encuesta, \u00a1pero tambi\u00e9n incluye JumpScars!",
@@ -49,7 +9,7 @@
          "URL": "https://inpr.itch.io/operation",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "oxalis by 01010111",
@@ -59,7 +19,7 @@
          "URL": "https://01010111.itch.io/oxalis",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Pommes De Planet Monster by 01010111",
@@ -69,7 +29,7 @@
          "URL": "https://01010111.itch.io/pommes",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "The Golden Delights & Infinite Perils of Planet Monster by 01010111",
@@ -79,7 +39,7 @@
          "URL": "https://01010111.itch.io/planet-monster",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "UPSQUID by 01010111, hypyryl",
@@ -89,7 +49,7 @@
          "URL": "https://01010111.itch.io/upsquid",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Nevren: Ancient Gods by Green Woltec",
@@ -99,7 +59,7 @@
          "URL": "https://greenwoltec.itch.io/nevren-ancient-gods",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Moth by lucaspulaski",
@@ -109,7 +69,7 @@
          "URL": "https://lucaspulaski.itch.io/moth",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "50,000 Professional Fonts Mega Bundle",
@@ -119,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-50000-professional-fonts-mega-bundle-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "Aiarty Image Enhancer 3 [with Generative AI]",
@@ -129,14 +89,24 @@
          "URL": "https://sharewareonsale.com/s/free-aiarty-image-enhancer-with-generative-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "USB Safely Remove (100% Discount) Lifetime Key",
+         "Informacion": "USB Eliminar de forma segura es un software imprescindible que permite a los usuarios conectar y desconectar las conexiones entre computadoras y dispositivos externos, como tel\u00e9fonos, tarjetas de memoria, USB, discos duros, monitores, etc., le ahorra de problemas relacionados con la p\u00e9rdida de datos despu\u00e9s de eliminar inseguamente una unidad externa, o no poder desconectar la unidad USB. Con un men\u00fa de parada original y multifuncional, que muestra los nombres reales de dispositivos con iconos, \u00a1puede encontrar y detener un dispositivo en un complemento utilizando este men\u00fa!",
+         "Desde": "",
+         "Hasta": "2025/08/24 15:00",
+         "URL": "https://tickgiveaway.com/usb-safely-remove-license-giveaway/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Maxluq: Dreamscape by DevRoids",
-         "Informacion": "Maxluq: Dreamscape es una breve experiencia de terror en primera persona en la que est\u00e1s atrapado en un mundo de los sue\u00f1os de pesadilla distorsionado.",
+         "Nombre": "Enigmatic Shadowscape by DevRoids",
+         "Informacion": "En el juego debes mantenerte vivo por un tiempo determinado encontrando anomal\u00edas.",
          "Desde": "",
          "Hasta": "2025/08/24 20:45",
-         "URL": "https://devroids.itch.io/maxluq-dreamscape",
+         "URL": "https://devroids.itch.io/enigmatic-shadowscape",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -152,11 +122,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Enigmatic Shadowscape by DevRoids",
-         "Informacion": "En el juego debes mantenerte vivo por un tiempo determinado encontrando anomal\u00edas.",
+         "Nombre": "Maxluq: Dreamscape by DevRoids",
+         "Informacion": "Maxluq: Dreamscape es una breve experiencia de terror en primera persona en la que est\u00e1s atrapado en un mundo de los sue\u00f1os de pesadilla distorsionado.",
          "Desde": "",
          "Hasta": "2025/08/24 20:45",
-         "URL": "https://devroids.itch.io/enigmatic-shadowscape",
+         "URL": "https://devroids.itch.io/maxluq-dreamscape",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -232,6 +202,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "One Giant Beep for Sheepkind by Quantum Sheep",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/25 08:00",
+         "URL": "https://quantumsheep.itch.io/one-giant-beep-for-sheepkind",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Seance by Quantum Sheep",
+         "Informacion": "\u00a1La sesi\u00f3n es una aventura de texto espeluznante para el espectro ZX donde juegas a un viudo de la era victoriana que intenta contactar a su esposa muerta a trav\u00e9s del famoso medio, Madame Sousa!",
+         "Desde": "",
+         "Hasta": "2025/08/25 08:00",
+         "URL": "https://quantumsheep.itch.io/the-seance",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Main Course - The Retro Cut (ZX Spectrum) by Quantum Sheep",
+         "Informacion": "\u00a1Estoy tan contento de que hayas preguntado!",
+         "Desde": "",
+         "Hasta": "2025/08/25 08:00",
+         "URL": "https://quantumsheep.itch.io/main-course-the-retro-cut",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Calmed by the Dark Re:Boot by Calmed by the Dark Games",
          "Informacion": "Experimente una nueva historia en Calmed by The Dark Re: Boot, establecido 20 a\u00f1os despu\u00e9s de los eventos de Calmed by The Dark Leviathan. Juega como AJ, un nuevo protagonista, y enfrenta nuevos enemigos, jefes y explora nuevas \u00e1reas. Con armas actualizadas y juego mejorado, \u00a1Re: Boot lleva la experiencia Calmada by Dark al siguiente nivel!",
          "Desde": "",
@@ -287,6 +287,26 @@
          "Desde": "",
          "Hasta": "2025/08/26 13:34",
          "URL": "https://thewindyproject.itch.io/death-train",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Spacial Shooter 2 by Anderson3230",
+         "Informacion": "\u00a1El tirador espacial ha regresado!",
+         "Desde": "",
+         "Hasta": "2025/08/27 01:00",
+         "URL": "https://anderson3230.itch.io/spacialshooter2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Spacial Shooter by Anderson3230",
+         "Informacion": "Hay unos meses en todo momento que hice el juego espacial de Shooter con GDEVelovelop, pero fue muy malo. Ten\u00eda errores y la pantalla era muy peque\u00f1a. As\u00ed que decid\u00ed hacer una primera persona Versa con Unity. \u00bfCrees que puedes pasar todo?",
+         "Desde": "",
+         "Hasta": "2025/08/27 01:00",
+         "URL": "https://anderson3230.itch.io/spacial-shooter",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -732,6 +752,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "SERMON by Vinil, Arcadian XP",
+         "Informacion": "Est\u00e1s en quiebra. Usted acepta a House Sit en un antiguo edificio de apartamentos medio vacante por un poco de efectivo extra. Sin alquiler, solo una noche. Debe ser simple. Pero el silencio en estos pasillos se siente pesado. Algo est\u00e1 mal. El sue\u00f1o que obtienes no se siente como descansar.",
+         "Desde": "",
+         "Hasta": "2025/08/29 19:09",
+         "URL": "https://troj4nblazing.itch.io/sermon",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Lerped by Schiwxet, Megantix",
          "Informacion": "Fisher, peces extra\u00f1os y gatos.",
          "Desde": "",
@@ -742,11 +772,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Kingshiper File Compressor",
+         "Informacion": "Compresor de archivo Kingshiper: forma r\u00e1pida de reducir el tama\u00f1o de su archivo",
+         "Desde": "",
+         "Hasta": "2025/08/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-kingshiper-file-compressor-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Evolvedustry by Evolvedustry",
          "Informacion": "EvolvedStry es un juego de defensa de la Torre de Adventure Strategic donde construyes tu f\u00e1brica con material complejo y elaboraci\u00f3n de tuber\u00edas y progreso a trav\u00e9s de la tecnolog\u00eda a medida que las criaturas de otros mundos y dimensiones asegias tu imperio. Descubra los misterios de este mundo olvidado mientras recuperas lo que se perdi\u00f3.",
          "Desde": "",
          "Hasta": "2025/08/30 08:00",
          "URL": "https://evolvedustry.itch.io/evolvedustry",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Raffineria Simulatore \u00e2\u0080\u0094 Refinery Simulator / Tycoon (BETA) by ScorpionGameStudio",
+         "Informacion": "Administre cada fase del proceso: desde llevar la destilaci\u00f3n, agrietamiento, mezcla y almacenamiento final.",
+         "Desde": "",
+         "Hasta": "2025/08/30 14:00",
+         "URL": "https://scorpiongamestudio.itch.io/raffineria-simulatore",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -867,6 +917,76 @@
          "Desde": "",
          "Hasta": "2025/08/31 00:00",
          "URL": "https://4qi-games.itch.io/oasis-kingdom",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/31 02:00",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Awakened Beauty by LiminAce",
+         "Informacion": "Descargo de responsabilidad: este juego se realiz\u00f3 para el O2A2 VN Jam 2025, un atasco de novela micro visual con estrictas limitaciones de activos y un l\u00edmite de 1000 palabras. No entres en este juego esperando una larga historia con una mierda de CGS.",
+         "Desde": "",
+         "Hasta": "2025/08/31 02:00",
+         "URL": "https://liminace.itch.io/awakened-beauty",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Road Trip to Hell by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/31 02:00",
+         "URL": "https://liminace.itch.io/road-trip-to-hell",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cabin Fever!!! by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/31 02:00",
+         "URL": "https://liminace.itch.io/cabin-fever",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "When it Rains Red by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/31 02:00",
+         "URL": "https://liminace.itch.io/when-it-rains-red",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/31 02:00",
+         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Aquatic Grave by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/31 02:00",
+         "URL": "https://liminace.itch.io/aquatic-grave",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1262,6 +1382,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "Un breve juego de terror",
+         "Desde": "",
+         "Hasta": "2025/09/03 07:00",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Forest 6174 - Judy DLC by itandfeel",
          "Informacion": "En esta expansi\u00f3n gratuita del bosque 6174, una vez m\u00e1s jugar\u00e1s como Danny, pero esta vez, explorar\u00e1s un lado m\u00e1s oscuro y m\u00e1s inquietante de \u00e9l. En el camino, finalmente descubrir\u00e1s qui\u00e9n es Judy realmente y cu\u00e1l ha sido su verdadero prop\u00f3sito desde el principio.",
          "Desde": "",
@@ -1507,6 +1637,16 @@
          "Desde": "",
          "Hasta": "2025/09/19 00:00",
          "URL": "https://david-pires.itch.io/sea-town-party-over",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pulp Action Shotgun - Arena by Tom Cuthbertson",
+         "Informacion": "Buscando comentarios de los usuarios sobre el juego de momento a momento de mi escopeta de acci\u00f3n de Pulp Game Pulp Game de Survival de Comic FPS.",
+         "Desde": "",
+         "Hasta": "2025/09/22 13:49",
+         "URL": "https://tomcuthbertson.itch.io/pulp-action-shotgun-arena",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
