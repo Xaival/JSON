@@ -1,96 +1,6 @@
 {
-   "date_update": "23 Aug 2025 16:24 UTC",
+   "date_update": "24 Aug 2025 16:15 UTC",
    "values": [
-      {
-         "Nombre": "The Operation by InPr",
-         "Informacion": "La operaci\u00f3n es un juego que trata sobre la encuesta, \u00a1pero tambi\u00e9n incluye JumpScars!",
-         "Desde": "",
-         "Hasta": "2025/08/23 19:00",
-         "URL": "https://inpr.itch.io/operation",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "oxalis by 01010111",
-         "Informacion": "Oxalis es una aplicaci\u00f3n de Ranger Remote Virtual.",
-         "Desde": "",
-         "Hasta": "2025/08/23 19:15",
-         "URL": "https://01010111.itch.io/oxalis",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Pommes De Planet Monster by 01010111",
-         "Informacion": "En Pommes de Planet Monster, se le encarga extraer la mayor cantidad de oro del planeta posible, pero envuelto por la noche, acecha a los anfitriones de monstruos que protegen su oro.",
-         "Desde": "",
-         "Hasta": "2025/08/23 19:15",
-         "URL": "https://01010111.itch.io/pommes",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "The Golden Delights & Infinite Perils of Planet Monster by 01010111",
-         "Informacion": "\u00a1Hola! \u00a1Este juego est\u00e1 actualmente en desarrollo! Si desea apoyarlo, disfrute de la versi\u00f3n actual a un precio con descuento :)",
-         "Desde": "",
-         "Hasta": "2025/08/23 19:15",
-         "URL": "https://01010111.itch.io/planet-monster",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "UPSQUID by 01010111, hypyryl",
-         "Informacion": "\u00a1Upsquid es un interminable calamar donde intentas nadar tan alto como puedes sin caer en la oscuridad! El juego se puede jugar con solo dos botones: izquierda y derecha, \u00a1puedes usar tu teclado o tu gamepad para jugar!",
-         "Desde": "",
-         "Hasta": "2025/08/23 19:15",
-         "URL": "https://01010111.itch.io/upsquid",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Nevren: Ancient Gods by Green Woltec",
-         "Informacion": "Historia:",
-         "Desde": "",
-         "Hasta": "2025/08/23 23:59",
-         "URL": "https://greenwoltec.itch.io/nevren-ancient-gods",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Moth by lucaspulaski",
-         "Informacion": "En Moth juegas como investigador de la polic\u00eda que busca en el estacionamiento subterr\u00e1neo un asesino.",
-         "Desde": "",
-         "Hasta": "2025/08/24 00:00",
-         "URL": "https://lucaspulaski.itch.io/moth",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "50,000 Professional Fonts Mega Bundle",
-         "Informacion": "Transforme todos los proyectos con una biblioteca incomparable de m\u00e1s de 50,000 fuentes de alta calidad, seleccionadas para dise\u00f1adores, marcas y creativos que exigen variedad, consistencia y estilo. Ya sea que est\u00e9 elaborando una nueva identidad de marca audaz o ajuste los detalles de un dise\u00f1o de impresi\u00f3n, esta colecci\u00f3n le brinda la tipos de letra perfecta para cada prop\u00f3sito.",
-         "Desde": "",
-         "Hasta": "2025/08/24 07:00",
-         "URL": "https://sharewareonsale.com/s/free-50000-professional-fonts-mega-bundle-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
-      {
-         "Nombre": "Aiarty Image Enhancer 3 [with Generative AI]",
-         "Informacion": "Mejore sus fotos con un clic, \u00a1desde borrosa hasta brillante!",
-         "Desde": "",
-         "Hasta": "2025/08/24 07:00",
-         "URL": "https://sharewareonsale.com/s/free-aiarty-image-enhancer-with-generative-ai-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
       {
          "Nombre": "USB Safely Remove (100% Discount) Lifetime Key",
          "Informacion": "USB Eliminar de forma segura es un software imprescindible que permite a los usuarios conectar y desconectar las conexiones entre computadoras y dispositivos externos, como tel\u00e9fonos, tarjetas de memoria, USB, discos duros, monitores, etc., le ahorra de problemas relacionados con la p\u00e9rdida de datos despu\u00e9s de eliminar inseguamente una unidad externa, o no poder desconectar la unidad USB. Con un men\u00fa de parada original y multifuncional, que muestra los nombres reales de dispositivos con iconos, \u00a1puede encontrar y detener un dispositivo en un complemento utilizando este men\u00fa!",
@@ -99,7 +9,7 @@
          "URL": "https://tickgiveaway.com/usb-safely-remove-license-giveaway/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Enigmatic Shadowscape by DevRoids",
@@ -109,7 +19,7 @@
          "URL": "https://devroids.itch.io/enigmatic-shadowscape",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Maxluq by DevRoids",
@@ -119,7 +29,7 @@
          "URL": "https://devroids.itch.io/maxluq",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Maxluq: Dreamscape by DevRoids",
@@ -129,7 +39,7 @@
          "URL": "https://devroids.itch.io/maxluq-dreamscape",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Only Jump by DevRoids",
@@ -139,7 +49,7 @@
          "URL": "https://devroids.itch.io/only-jump",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Sky Lab Defender by KasperV",
@@ -149,7 +59,7 @@
          "URL": "https://kasperv.itch.io/skylabdefender",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Apeaksoft iPhone Transfer (100% Discount)",
@@ -159,7 +69,7 @@
          "URL": "https://tickgiveaway.com/apeaksoft-iphone-transfer-giveaway/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Vovsoft Image Splitter Key (100% Discount)",
@@ -169,7 +79,7 @@
          "URL": "https://tickgiveaway.com/vovsoft-image-splitter-license-key-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Break The Cipher by Glitch Labs",
@@ -179,7 +89,7 @@
          "URL": "https://glitchlabs.itch.io/break-the-cipher",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "How To Use Clocks by Glitch Labs",
@@ -189,7 +99,7 @@
          "URL": "https://glitchlabs.itch.io/how-to-use-clocks",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Video Ouija by Glitch Labs",
@@ -199,27 +109,7 @@
          "URL": "https://glitchlabs.itch.io/video-ouija",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "One Giant Beep for Sheepkind by Quantum Sheep",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/08/25 08:00",
-         "URL": "https://quantumsheep.itch.io/one-giant-beep-for-sheepkind",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "The Seance by Quantum Sheep",
-         "Informacion": "\u00a1La sesi\u00f3n es una aventura de texto espeluznante para el espectro ZX donde juegas a un viudo de la era victoriana que intenta contactar a su esposa muerta a trav\u00e9s del famoso medio, Madame Sousa!",
-         "Desde": "",
-         "Hasta": "2025/08/25 08:00",
-         "URL": "https://quantumsheep.itch.io/the-seance",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 13%, yellow 13%) 1;"
       },
       {
          "Nombre": "Main Course - The Retro Cut (ZX Spectrum) by Quantum Sheep",
@@ -229,7 +119,37 @@
          "URL": "https://quantumsheep.itch.io/main-course-the-retro-cut",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "One Giant Beep for Sheepkind by Quantum Sheep",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/25 08:00",
+         "URL": "https://quantumsheep.itch.io/one-giant-beep-for-sheepkind",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "The Seance by Quantum Sheep",
+         "Informacion": "\u00a1La sesi\u00f3n es una aventura de texto espeluznante para el espectro ZX donde juegas a un viudo de la era victoriana que intenta contactar a su esposa muerta a trav\u00e9s del famoso medio, Madame Sousa!",
+         "Desde": "",
+         "Hasta": "2025/08/25 08:00",
+         "URL": "https://quantumsheep.itch.io/the-seance",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "Kerish PC Doctor",
+         "Informacion": "Experimente una soluci\u00f3n de atenci\u00f3n completa para su computadora",
+         "Desde": "",
+         "Hasta": "2025/08/25 09:00",
+         "URL": "https://www.bitsdujour.com/software/kerish-pc-doctor/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Calmed by the Dark Re:Boot by Calmed by the Dark Games",
@@ -272,6 +192,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Zortam Mp3 Media Studio PRO 33",
+         "Informacion": "Zortam Mp3 Media Studio: \u00a1la mejor manera de etiquetar autom\u00e1ticamente su colecci\u00f3n de mp3!",
+         "Desde": "",
+         "Hasta": "2025/08/26 07:00",
+         "URL": "https://sharewareonsale.com/s/zortam-mp3-media-studio-pro-giveaway-coupon-sale",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Kazuma Kiryu Special Outfit",
          "Informacion": "Este contenido requiere que el drag\u00f3n base es un drag\u00f3n: pirata yakuza en hawaiion sheam para jugar.",
          "Desde": "",
@@ -289,6 +219,16 @@
          "URL": "https://thewindyproject.itch.io/death-train",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Zortam MP3 Media Studio Pro \u2013 Free Full Version Download",
+         "Informacion": "Zortam Mp3 Media Studio Pro es un poderoso programa para administrar la colecci\u00f3n MP3 que le permite editar informaci\u00f3n de metadatos, agregar letras, portadas y m\u00e1s. Con este editor de audio, puede eliminar autom\u00e1ticamente sus archivos de m\u00fasica, cambiar el nombre de archivos, buscar archivos duplicados utilizando la informaci\u00f3n de la etiqueta o la suma de verificaci\u00f3n del nombre de archivo, escribir etiquetas usando informaci\u00f3n del nombre de archivo y mucho m\u00e1s. Esta aplicaci\u00f3n tambi\u00e9n admite etiquetas MP3, FLAC, WMA, MP4 y WAV y formatos de audio.",
+         "Desde": "",
+         "Hasta": "2025/08/26 14:00",
+         "URL": "https://tickgiveaway.com/zortam-mp3-media-studio-pro-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -922,11 +862,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Nombre": "Coolmuster Android Backup Manager (100% Discount) 2025",
+         "Informacion": "Coolmuster Android Backup Manager es el software de copia de seguridad y restauraci\u00f3n de Android que le permite hacer una copia de seguridad y restaurar dispositivos Android con un solo clic. R\u00e1pidamente escanea y enumera todos los archivos de copia de seguridad que ha realizado en su computadora; Puede optar libremente para restaurar cualquier archivo de copia de seguridad listado y cualquier tipo de archivo de destino en cualquier dispositivo Android conectado.",
+         "Desde": "",
+         "Hasta": "2025/08/31 00:00",
+         "URL": "https://tickgiveaway.com/coolmuster-android-backup-manager-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Aquatic Grave by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/08/31 02:00",
-         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "URL": "https://liminace.itch.io/aquatic-grave",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -942,16 +892,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Road Trip to Hell by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/08/31 02:00",
-         "URL": "https://liminace.itch.io/road-trip-to-hell",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Cabin Fever!!! by LiminAce",
          "Informacion": "",
          "Desde": "",
@@ -962,11 +902,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "When it Rains Red by LiminAce",
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/08/31 02:00",
-         "URL": "https://liminace.itch.io/when-it-rains-red",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Road Trip to Hell by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2025/08/31 02:00",
+         "URL": "https://liminace.itch.io/road-trip-to-hell",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -982,11 +932,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Aquatic Grave by LiminAce",
+         "Nombre": "When it Rains Red by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2025/08/31 02:00",
-         "URL": "https://liminace.itch.io/aquatic-grave",
+         "URL": "https://liminace.itch.io/when-it-rains-red",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1047,6 +997,16 @@
          "Desde": "",
          "Hasta": "2025/08/31 08:18",
          "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TimeSkipper by Srdjan Milosavljevic",
+         "Informacion": "Timeskipper, s\u00faper divertido 2D Retro Pixel Artformer de arte!",
+         "Desde": "",
+         "Hasta": "2025/08/31 09:35",
+         "URL": "https://srdjanm.itch.io/timeskipper",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1647,6 +1607,16 @@
          "Desde": "",
          "Hasta": "2025/09/22 13:49",
          "URL": "https://tomcuthbertson.itch.io/pulp-action-shotgun-arena",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Dreadmurk by Duodol Games",
+         "Informacion": "Ha llegado un nuevo trabajo: recolecte varios artefactos en las profundidades del oc\u00e9ano. Sin que usted lo supiera, est\u00e1 a punto de encontrar lo que nunca fue encontrado a continuaci\u00f3n ...",
+         "Desde": "",
+         "Hasta": "2025/09/22 18:59",
+         "URL": "https://duodolgames.itch.io/dreadmurk",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
