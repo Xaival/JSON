@@ -1,66 +1,6 @@
 {
-   "date_update": "25 Aug 2025 16:18 UTC",
+   "date_update": "26 Aug 2025 16:16 UTC",
    "values": [
-      {
-         "Nombre": "Calmed by the Dark Re:Boot by Calmed by the Dark Games",
-         "Informacion": "Experimente una nueva historia en Calmed by The Dark Re: Boot, establecido 20 a\u00f1os despu\u00e9s de los eventos de Calmed by The Dark Leviathan. Juega como AJ, un nuevo protagonista, y enfrenta nuevos enemigos, jefes y explora nuevas \u00e1reas. Con armas actualizadas y juego mejorado, \u00a1Re: Boot lleva la experiencia Calmada by Dark al siguiente nivel!",
-         "Desde": "",
-         "Hasta": "2025/08/25 14:09",
-         "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-reboot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "Calmed by the Dark RE:iterate by Calmed by the Dark Games",
-         "Informacion": "En toda la ciudad, la gente est\u00e1 siendo secuestrada misteriosamente y nunca se las ve de nuevo. Eve, la protagonista, solo estaba buscando trabajo y de alguna manera termin\u00f3 descubriendo un mundo extra\u00f1o donde despierta sus poderes y aprende la verdad detr\u00e1s de los secuestros ...",
-         "Desde": "",
-         "Hasta": "2025/08/25 14:09",
-         "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-reiterate",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "Whispers of who i was by M1mo0",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/08/25 15:58",
-         "URL": "https://m1mo0.itch.io/whispers-of-who-i-was",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
-      },
-      {
-         "Nombre": "PARTY LINE by notsospecialgames",
-         "Informacion": "Un almac\u00e9n abandonado en las afueras de la ciudad. El incidente? Clasificado. La verdad? Enterrado.",
-         "Desde": "",
-         "Hasta": "2025/08/26 05:53",
-         "URL": "https://notsospecialgames.itch.io/party-line",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 14%, yellow 14%) 1;"
-      },
-      {
-         "Nombre": "Zortam Mp3 Media Studio PRO 33",
-         "Informacion": "Zortam Mp3 Media Studio: \u00a1la mejor manera de etiquetar autom\u00e1ticamente su colecci\u00f3n de mp3!",
-         "Desde": "",
-         "Hasta": "2025/08/26 07:00",
-         "URL": "https://sharewareonsale.com/s/zortam-mp3-media-studio-pro-giveaway-coupon-sale",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Cleaning Suite",
-         "Informacion": "Limpiar datos innecesarios de las computadoras de Windows",
-         "Desde": "",
-         "Hasta": "2025/08/26 09:00",
-         "URL": "https://www.bitsdujour.com/software/cleaning-suite/in=upcoming-freebies",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Like a Dragon: Pirate Yakuza in Hawaii - Kazuma Kiryu Special Outfit",
          "Informacion": "Este contenido requiere que el drag\u00f3n base es un drag\u00f3n: pirata yakuza en hawaiion sheam para jugar.",
@@ -69,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/3184050/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Death Train by Windy",
@@ -79,7 +19,7 @@
          "URL": "https://thewindyproject.itch.io/death-train",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
       },
       {
          "Nombre": "Zortam MP3 Media Studio Pro \u2013 Free Full Version Download",
@@ -89,7 +29,7 @@
          "URL": "https://tickgiveaway.com/zortam-mp3-media-studio-pro-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Spacial Shooter 2 by Anderson3230",
@@ -99,7 +39,7 @@
          "URL": "https://anderson3230.itch.io/spacialshooter2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Spacial Shooter by Anderson3230",
@@ -109,7 +49,7 @@
          "URL": "https://anderson3230.itch.io/spacial-shooter",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "50 Film Tone LUTs",
@@ -119,7 +59,17 @@
          "URL": "https://sharewareonsale.com/s/free-50-film-tone-luts-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Cleaning Suite",
+         "Informacion": "Limpiar datos innecesarios de las computadoras de Windows",
+         "Desde": "",
+         "Hasta": "2025/08/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/cleaning-suite/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Vovsoft Merge Multiple Folders (100% Discount)",
@@ -462,6 +412,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "EaseUS Video Downloader",
+         "Informacion": "Facilus Video Downloader es una herramienta f\u00e1cil de usar que permite a los usuarios descargar videos de alta calidad desde plataformas como YouTube, Facebook e Instagram. Admite varios formatos y resoluciones para una visualizaci\u00f3n conveniente fuera de l\u00ednea.",
+         "Desde": "",
+         "Hasta": "2025/08/28 07:00",
+         "URL": "https://sharewareonsale.com/s/free-easeus-video-downloader-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Bom-G - ELDER3 Online by ELDER3 STUDIO",
          "Informacion": "Bomber es un emocionante juego en l\u00ednea multijugador dise\u00f1ado para reunir a ustedes y a sus amigos en partidos emocionantes y llenos de acci\u00f3n. \u00a1Juega con hasta 4 jugadores en l\u00ednea en batallas hilarantes y de ritmo r\u00e1pido donde todos puedan brillar con su propio estilo \u00fanico!",
          "Desde": "",
@@ -682,6 +642,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Blackness by Robert Dolega",
+         "Informacion": "Si pierde, debe comenzar el viaje desde el principio.",
+         "Desde": "",
+         "Hasta": "2025/08/30 19:00",
+         "URL": "https://robertdolega.itch.io/blackness",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Grand Kill Auto by theonlynick",
          "Informacion": "",
          "Desde": "",
@@ -739,6 +709,16 @@
          "URL": "https://4qi-games.itch.io/oasis-kingdom",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Glarysoft Malware Hunter Pro (100% Discount) 2025",
+         "Informacion": "Glarysoft Malware Hunter Pro es un software poderoso dise\u00f1ado para proporcionar a los clientes capacidades integrales de detecci\u00f3n y protecci\u00f3n de virus. Ayuda a proteger contra todo tipo de amenazas, asegurar datos, proteger la privacidad y garantizar que su PC permanezca libre de virus. El software ofrece un modo de hiperescan r\u00e1pido, que permite a los usuarios identificar y eliminar r\u00e1pidamente archivos maliciosos y posibles amenazas. Su sistema de protecci\u00f3n activa monitorea constantemente para actividades sospechosas. Adem\u00e1s, Malware Hunter Pro incluye herramientas de optimizaci\u00f3n del sistema para optimizar el rendimiento de la PC y mantener la PC siempre limpia y segura.",
+         "Desde": "",
+         "Hasta": "2025/08/31 00:00",
+         "URL": "https://tickgiveaway.com/malware-hunter-pro-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1402,6 +1382,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Eternal Night by VladisLive Dev",
+         "Informacion": "Trama",
+         "Desde": "",
+         "Hasta": "2025/09/16 16:22",
+         "URL": "https://vladislive-dev.itch.io/eternal-night",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vesper Charm by Kogasoft",
          "Informacion": "Vesper Charm sigue a 2 mercenarios independientes (Lancers para abreviar) que han sido contratados para encontrar un tesoro misterioso en una mazmorra duende a aparentemente omnipresente.",
          "Desde": "",
@@ -1517,6 +1507,36 @@
          "Desde": "",
          "Hasta": "2025/09/23 22:08",
          "URL": "https://adeoguntechno.itch.io/lumodash",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Petal Of The Quiet by ShadowScythe_Games",
+         "Informacion": "Entra en un mundo tranquilo y encantado donde cada sonido y pieza musical lleva peso. Explore los paisajes, pasee por lugares misteriosos y experimente c\u00f3mo se siente cuando el medio ambiente cobra vida a medida que lo descubre. Una experiencia breve pero memorable que pone la importancia de la m\u00fasica en su coraz\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/09/25 00:01",
+         "URL": "https://shadowscythe-games.itch.io/petal-of-the-quiet",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CrystalEater by ShadowScythe_Games",
+         "Informacion": "Explore y aventura en este juego de Metroidvania con hermosos gr\u00e1ficos y un ambiente sorprendente.",
+         "Desde": "",
+         "Hasta": "2025/09/25 00:01",
+         "URL": "https://shadowscythe-games.itch.io/crystaleater",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Purgatory by loweygames",
+         "Informacion": "DESCRIPCI\u00d3N",
+         "Desde": "",
+         "Hasta": "2025/09/25 04:11",
+         "URL": "https://loweygames.itch.io/purgatory",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
