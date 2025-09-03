@@ -16,14 +16,21 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@1cgs.net OR @777studios.net OR @marketing.activision.com OR @te.activision.com OR @updates.activision.com OR @alienwarearena.com OR @avalanchestudios.se OR @out.avalanchestudios.com OR @bandainamcoent.eu OR @news.bandainamcoent.eu OR @battle.net OR @naeu.playblackdesert.com OR @blizzard.com OR @coregames.com OR @manticoregames.com OR @crackwatch.com OR @deadfrontier2.com OR @dotbigbang.com OR @e.ea.com OR @epicgames.com OR help@acct.epicgames.com OR help@epicgames.com OR @unrealengine.com OR @itmail.fanatical.com OR @mailer.fanatical.com OR @scalefast.com OR @fivem.net OR feedback@g2a.com OR @gaijin.net OR @m.gamehag.com OR @gamehag.com OR support@gamehag.zendesk.com OR @littleorbit.com OR @email.games2gether.com OR @givee.club OR @email.gog.com OR @gogalaxy.com OR @emails.gothamcityimpostors.com OR @heroesandgenerals.com OR @spellbook.com OR @hirezstudios.com OR @hirezstudios.zendesk.com OR @hubs-mail.com OR @humblebundle.com OR @hypixelstudios.com OR support@indiegala.com OR @email.instant-gaming.com'/>
+		<apps:property name='from' value='@1cgs.net OR @777studios.net OR @marketing.activision.com OR @te.activision.com OR @updates.activision.com OR @alienwarearena.com OR @avalanchestudios.se OR @out.avalanchestudios.com OR @bandainamcoent.eu OR @news.bandainamcoent.eu OR @battle.net OR @naeu.playblackdesert.com OR @blizzard.com OR @coregames.com OR @manticoregames.com OR @crackwatch.com OR @deadfrontier2.com OR @dotbigbang.com OR @e.ea.com OR @epicgames.com OR help@acct.epicgames.com OR help@epicgames.com OR @unrealengine.com OR @itmail.fanatical.com OR @mailer.fanatical.com OR @scalefast.com OR @fivem.net OR feedback@g2a.com OR @gaijin.net OR @m.gamehag.com OR @gamehag.com OR support@gamehag.zendesk.com OR @littleorbit.com OR @email.games2gether.com OR @givee.club OR @email.gog.com OR @email3.gog.com OR @gogalaxy.com OR @emails.gothamcityimpostors.com OR @heroesandgenerals.com OR @spellbook.com OR @hirezstudios.com OR @hirezstudios.zendesk.com OR @hubs-mail.com OR @humblebundle.com OR @hypixelstudios.com OR support@indiegala.com'/>
 		<apps:property name='label' value='Registros/Juegos'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@email.instant-gaming.com OR @n.instant-gaming.com OR @itch.io OR @keymailer.co OR @accts.krafton.com OR @account.levelinfinite.com OR @login.xsolla.com OR @magic.wizards.com OR @email.mihoyo.com OR @my.games OR @oww.io OR @parallaxgame.com OR @pearlabyss.com OR @email.sonyentertainmentnetwork.com OR @txn-email.playstation.com OR @rawg.io OR @repeat.gg OR @mail.accounts.riotgames.com OR @umail.accounts.riotgames.com OR @roblox.com OR @rockstargames.com OR @rockstargames.online OR support@rockstargames.com OR @mailing.ryzom.com OR @sansar.com OR @sega.co.uk OR @sidequestvr.com OR @mail.sobastudios.com OR @xmail.square-enix.com OR @bioware.swtor.com OR @swtor.com OR @steampowered.com OR @steelseries.com OR @mail.elderscrollsonline.com OR @koggames.com OR @cs.ubisoft.com OR @ubi.com OR @vrchat.com OR @2fa.warframe.com OR @account.warframe.com OR @activate.warframe.com OR @accounts.wbgames.com OR @accounts.wizards.com OR @wizards.com OR @wolffungame.com OR @thetanarena.com'/>
+		<apps:property name='from' value='support@indiegala.com OR @email.instant-gaming.com OR @n.instant-gaming.com OR @itch.io OR @keymailer.co OR @accts.krafton.com OR @account.levelinfinite.com OR @login.xsolla.com OR @magic.wizards.com OR @email.mihoyo.com OR @my.games OR @oww.io OR @parallaxgame.com OR @pearlabyss.com OR @email.sonyentertainmentnetwork.com OR @txn-email.playstation.com OR @rawg.io OR @repeat.gg OR @mail.accounts.riotgames.com OR @umail.accounts.riotgames.com OR @roblox.com OR @rockstargames.com OR @rockstargames.online OR support@rockstargames.com OR @mailing.ryzom.com OR @sansar.com OR @sega.co.uk OR @sidequestvr.com OR @mail.sobastudios.com OR @xmail.square-enix.com OR @bioware.swtor.com OR @swtor.com OR @steampowered.com OR @steelseries.com OR @mail.elderscrollsonline.com OR @koggames.com OR @cs.ubisoft.com OR @ubi.com OR @vrchat.com OR @2fa.warframe.com OR @account.warframe.com OR @activate.warframe.com OR @accounts.wbgames.com OR @accounts.wizards.com OR @wizards.com OR @wolffungame.com OR @thetanarena.com'/>
+		<apps:property name='label' value='Registros/Juegos'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+	</entry>
+	<entry>
+		<title>1.Cuenta oficial</title>
+		<apps:property name='from' value='@thetanarena.com'/>
 		<apps:property name='label' value='Registros/Juegos'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
@@ -90,6 +97,12 @@
 		<apps:property name='label' value='Registros/XXX'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+	</entry>
+	<entry>
+		<title>2.Propaganda oficial</title>
+		<apps:property name='from' value='notice@email.anthropic.com'/>
+		<apps:property name='label' value='Registros/IA'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
