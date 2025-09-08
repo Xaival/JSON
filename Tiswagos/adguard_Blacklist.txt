@@ -2,7 +2,7 @@
 ! Title: Tiswagos AdGuard Block
 ! Description: Lista personalizada para bloqueo DNS
 ! Homepage: https://github.com/Xaival/JSON
-! Last modified: 07 Sep 2025 16:14 UTC
+! Last modified: 08 Sep 2025 16:12 UTC
 !
 ! Compiled by @xaival/JSON v1.0.0
 !
@@ -281,7 +281,6 @@
 ||cbr.com^
 ||chilango.com^
 ||commonsensemedia.org^
-||crunchyroll.com^
 ||digitalspy.com^
 ||elle.com^
 ||escapistmagazine.com^
