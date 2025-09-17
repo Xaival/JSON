@@ -1,86 +1,6 @@
 {
-   "date_update": "16 Sep 2025 16:15 UTC",
+   "date_update": "17 Sep 2025 16:16 UTC",
    "values": [
-      {
-         "Nombre": "Eternal Night by VladisLive Dev",
-         "Informacion": "Trama",
-         "Desde": "",
-         "Hasta": "2025/09/16 16:22",
-         "URL": "https://vladislive-dev.itch.io/eternal-night",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 70%, yellow 70%) 1;"
-      },
-      {
-         "Nombre": "Bullet Heart \u00e2\u0080\u0093 When Bullets Are More Than Just Ammo by ZDEsy",
-         "Informacion": "Un brutal lite p\u00edcaro donde cada bala cuenta. Miles de enemigos, peleas implacables y caos sin parar, solo los expertos sobrevivir\u00e1n. \u00bfCrees que puedes manejar el desaf\u00edo?",
-         "Desde": "",
-         "Hasta": "2025/09/16 17:59",
-         "URL": "https://zdesy.itch.io/bullet-heart",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Button Time by ZDEsy",
-         "Informacion": "Este es un juego simple y extra\u00f1amente satisfactorio para presionar los botones ... nada m\u00e1s, nada menos.",
-         "Desde": "",
-         "Hasta": "2025/09/16 17:59",
-         "URL": "https://zdesy.itch.io/button-time",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Use Fish by ZDEsy",
-         "Informacion": "Un juego simple sobre atrapar peces y usarlos como armas contra enemigos.",
-         "Desde": "",
-         "Hasta": "2025/09/16 17:59",
-         "URL": "https://zdesy.itch.io/use-fish",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "TinyTower by AdeogunTechno",
-         "Informacion": "Viaja por una torre, combatiendo los males en el camino.",
-         "Desde": "",
-         "Hasta": "2025/09/16 22:50",
-         "URL": "https://adeoguntechno.itch.io/tinytower",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Project Alldevaih by Pehriska",
-         "Informacion": "Caracter\u00edsticas",
-         "Desde": "",
-         "Hasta": "2025/09/17 02:41",
-         "URL": "https://pehriska.itch.io/project-alldevaih",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
-      },
-      {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "Un breve juego de terror",
-         "Desde": "",
-         "Hasta": "2025/09/17 07:00",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "WinExt Key Launcher",
-         "Informacion": "Abra r\u00e1pidamente los recursos utilizando combinaciones de tecla de acceso r\u00e1pido",
-         "Desde": "",
-         "Hasta": "2025/09/17 09:00",
-         "URL": "https://www.bitsdujour.com/software/winext-key-launcher/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "CarX Street",
          "Informacion": "\u00a1Juega gratis! Conquistar caminos de monta\u00f1a, carreteras y calles de la ciudad. Construya el auto de sus sue\u00f1os con un ajuste detallado que desata el potencial de la \"tecnolog\u00eda Carx\" \u00a9 F\u00edsica. Participe en carreras emocionantes, disfrutando de un juego realista y una conducci\u00f3n din\u00e1mica.",
@@ -89,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/1114150/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Void Crew",
@@ -99,7 +19,7 @@
          "URL": "https://store.steampowered.com/sub/355655?cc=fr/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "World of Warships \u2014 Smith Pack",
@@ -109,7 +29,7 @@
          "URL": "https://store.steampowered.com/app/934650/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Foxy Man by AL7USSAIN",
@@ -119,7 +39,7 @@
          "URL": "https://al7ussain.itch.io/foxy-man",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Here We Go Again by AL7USSAIN",
@@ -129,7 +49,7 @@
          "URL": "https://al7ussain.itch.io/hear-we-go-again",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "House Cleaner 2 by AL7USSAIN",
@@ -139,7 +59,7 @@
          "URL": "https://al7ussain.itch.io/house-cleaner-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "House Cleaner by AL7USSAIN",
@@ -149,7 +69,7 @@
          "URL": "https://al7ussain.itch.io/housecleaner",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Maze by AL7USSAIN",
@@ -159,7 +79,7 @@
          "URL": "https://al7ussain.itch.io/maze",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "One Spike by AL7USSAIN",
@@ -169,7 +89,7 @@
          "URL": "https://al7ussain.itch.io/one-spike",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Simple Tasks by AL7USSAIN",
@@ -179,7 +99,7 @@
          "URL": "https://al7ussain.itch.io/simple-tasks",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
@@ -189,7 +109,7 @@
          "URL": "https://al7ussain.itch.io/whale-game",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Zombie Hunter by AL7USSAIN",
@@ -199,7 +119,7 @@
          "URL": "https://al7ussain.itch.io/zombie-hunter",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Forest 6174 - Judy DLC by itandfeel",
@@ -209,7 +129,7 @@
          "URL": "https://itandfeel.itch.io/forest-6174-judy-dlc",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "The Never ending corridor by Dr. standback",
@@ -219,7 +139,7 @@
          "URL": "https://dr-standback.itch.io/the-never-ending-corridor",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
       },
       {
          "Nombre": "Bulk Video Watermark Maker",
@@ -229,7 +149,7 @@
          "URL": "https://sharewareonsale.com/s/free-bulk-video-watermark-maker-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Vesper Charm by Kogasoft",
@@ -267,6 +187,16 @@
          "Desde": "",
          "Hasta": "2025/09/18 15:00",
          "URL": "https://tickgiveaway.com/ht-work-focus-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DRmare Streaming Audio Recorder (100% Discount)",
+         "Informacion": "Drmare Streaming Audio Recorder es una grabadora de audio y descargador de transmisi\u00f3n todo en uno para ayudarlo a descargar m\u00fasica de Spotify, Apple Music, Amazon Music, Tidal, Deezer, Qobuz, Line Music, Pandora y SoundCloud a MP3, FLAC, WAV, M4A, AIFF y M4B. Esta herramienta impresiona con su velocidad de conversi\u00f3n de rayo, hasta 100 veces m\u00e1s r\u00e1pido, sin sacrificar la calidad de audio. Incluso ahorra alta calidad para Spotify 320kbps, Apple Music (Hi-Res) sin p\u00e9rdidas, Amazon Music (Ultra) HD, Tidal Hifi & Master, Qobuz Hifi y Deezer Hifi.",
+         "Desde": "",
+         "Hasta": "2025/09/18 15:00",
+         "URL": "https://tickgiveaway.com/drmare-streaming-audio-recorder-free-license/",
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
@@ -482,6 +412,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Cubes in Danger by Robert Dolega",
+         "Informacion": "Requisitos m\u00ednimos del juego:",
+         "Desde": "",
+         "Hasta": "2025/09/20 23:10",
+         "URL": "https://robertdolega.itch.io/cubes-in-danger",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Coolmuster Word to PDF Converter (100% Discount)",
          "Informacion": "El archivo PDF es muy popular y tiene muchas ventajas, como compartir f\u00e1cilmente un documento sin arriesgar a alguien que altere el contenido. Tiene varios archivos de Word, y si desea convertir un archivo de Word en un PDF en alg\u00fan momento, \u00a1usemos CoolMuster Word en PDF Converter ahora mismo! Esta herramienta es una buena idea al buscar una aplicaci\u00f3n convertidor que pueda ayudarlo a convertir documentos de Word (.docx) a PDF. Esta herramienta tiene una interfaz clara y f\u00e1cil de usar que no puede ser abrumadora para los principiantes.",
          "Desde": "",
@@ -599,6 +539,26 @@
          "URL": "https://adeoguntechno.itch.io/lumodash",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Photographer Starter Kit",
+         "Informacion": "\u00bfEres un fot\u00f3grafo principiante y no sabes c\u00f3mo mejorar r\u00e1pidamente tus fotos?\nTenemos buenas noticias para usted, \u00a1hemos reunido un conjunto de 700 activos \u00fatiles para usted!",
+         "Desde": "",
+         "Hasta": "2025/09/24 07:00",
+         "URL": "https://sharewareonsale.com/s/free-photographer-starter-kit-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Kingshiper PC Cleaner Key Free (100% Discount)",
+         "Informacion": "Kingshiper PC Cleaner es un software eficiente de optimizaci\u00f3n del sistema destinado a acelerar su PC, liberar espacio en disco y administrar sus aplicaciones de manera m\u00e1s eficiente. Este software tiene un gran impacto para eliminar archivos basura, cach\u00e9 y restos de programas desinstalados para aumentar el rendimiento del sistema. Kingshiper PC Cleaner tambi\u00e9n puede identificar y reubicar archivos grandes para optimizar el uso de almacenamiento. Las funciones de limpieza y limpieza de WeChat y QQ pueden escanear y eliminar los medios innecesarios y los archivos de chat de WeChat & QQ para mejorar el rendimiento. Tambi\u00e9n se le permite desinstalar, detectar problemas de aplicaciones y administrar programas raramente utilizados.",
+         "Desde": "",
+         "Hasta": "2025/09/24 15:00",
+         "URL": "https://tickgiveaway.com/kingshiper-pc-cleaner-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -887,6 +847,46 @@
          "Desde": "",
          "Hasta": "2025/09/30 12:38",
          "URL": "https://picmid.itch.io/sepan-the-seven-flasks",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SOLROVER by PROJECTyaarj",
+         "Informacion": "Tome el control de un rover solitario enviado a un planeta remoto para reunirse y extraer recursos esenciales. Navegue por el vasto paisaje, recolectando lo que necesita para completar su misi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2025/09/30 17:59",
+         "URL": "https://projectyaarj.itch.io/solrover",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "TANK by PROJECTyaarj",
+         "Informacion": "Tank es un tirador de tanque de arriba hacia abajo para un solo jugador.",
+         "Desde": "",
+         "Hasta": "2025/09/30 17:59",
+         "URL": "https://projectyaarj.itch.io/tank",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SOLRAID by PROJECTyaarj",
+         "Informacion": "Solraid es un tirador de nave espacial de arriba hacia abajo para un solo jugador.",
+         "Desde": "",
+         "Hasta": "2025/09/30 17:59",
+         "URL": "https://projectyaarj.itch.io/solraid",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eternal Night by VladisLive Dev",
+         "Informacion": "Trama",
+         "Desde": "",
+         "Hasta": "2025/09/30 18:14",
+         "URL": "https://vladislive-dev.itch.io/eternal-night",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
