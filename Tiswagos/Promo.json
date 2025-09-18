@@ -1,156 +1,6 @@
 {
-   "date_update": "17 Sep 2025 16:16 UTC",
+   "date_update": "18 Sep 2025 16:13 UTC",
    "values": [
-      {
-         "Nombre": "CarX Street",
-         "Informacion": "\u00a1Juega gratis! Conquistar caminos de monta\u00f1a, carreteras y calles de la ciudad. Construya el auto de sus sue\u00f1os con un ajuste detallado que desata el potencial de la \"tecnolog\u00eda Carx\" \u00a9 F\u00edsica. Participe en carreras emocionantes, disfrutando de un juego realista y una conducci\u00f3n din\u00e1mica.",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:00",
-         "URL": "https://store.steampowered.com/app/1114150/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Void Crew",
-         "Informacion": "\u00a1Juega gratis! Void Crew es un juego ca\u00f3tico y cooperativo de Roguelite para 1 a 6 jugadores: equipa tu nave espacial y tripulaci\u00f3n para misiones emocionantes, valientes enemigos feroces en batallas espaciales ... \u00a1y trate de no entrar en p\u00e1nico!",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:00",
-         "URL": "https://store.steampowered.com/sub/355655?cc=fr/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "World of Warships \u2014 Smith Pack",
-         "Informacion": "Este contenido requiere el mundo base de Warshipson Steam para jugar.",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:00",
-         "URL": "https://store.steampowered.com/app/934650/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo moverse",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "House Cleaner 2 by AL7USSAIN",
-         "Informacion": "Se trata de una empresa de limpieza y usted va a las casas y las limpia, pero la casa que ingres\u00f3 es anfitriona de un fantasma, \u00bfpuede terminar esta noche bien esta noche?",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/house-cleaner-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "House Cleaner by AL7USSAIN",
-         "Informacion": "House Cleaner es un juego de terror que limpias la casa y descubres la casa y descubres que est\u00e1 embrujado con un fantasma",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/housecleaner",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego 2D duro con trampas duras",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven ballena valiente, se embarca en un peligroso viaje para reunirse con sus padres perdidos hace mucho tiempo. Pero el mundo submarino est\u00e1 repleto de peligro: corrientes tra\u00eddas, depredadores astutos y trampas antiguas que guardan secretos olvidados. Whaley debe navegar por este camino traicionero, todo mientras evita los enemigos, \u00bfvolver\u00e1 a sus padres?",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDA para el movimiento",
-         "Desde": "",
-         "Hasta": "2025/09/17 10:13",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Forest 6174 - Judy DLC by itandfeel",
-         "Informacion": "En esta expansi\u00f3n gratuita del bosque 6174, una vez m\u00e1s jugar\u00e1s como Danny, pero esta vez, explorar\u00e1s un lado m\u00e1s oscuro y m\u00e1s inquietante de \u00e9l. En el camino, finalmente descubrir\u00e1s qui\u00e9n es Judy realmente y cu\u00e1l ha sido su verdadero prop\u00f3sito desde el principio.",
-         "Desde": "",
-         "Hasta": "2025/09/17 15:16",
-         "URL": "https://itandfeel.itch.io/forest-6174-judy-dlc",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "The Never ending corridor by Dr. standback",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/09/17 21:30",
-         "URL": "https://dr-standback.itch.io/the-never-ending-corridor",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "Bulk Video Watermark Maker",
-         "Informacion": "Video Watermark Maker es una herramienta que b\u00e1sicamente une la marca de agua, que luego completa el proceso de protecci\u00f3n contra los derechos de autor y la autenticidad. Con tal herramienta, puede proteger su archivo de ser copiado ilegalmente por quien sea, manteniendo as\u00ed su producto intacto y seguro.",
-         "Desde": "",
-         "Hasta": "2025/09/18 07:00",
-         "URL": "https://sharewareonsale.com/s/free-bulk-video-watermark-maker-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "Vesper Charm by Kogasoft",
          "Informacion": "Vesper Charm sigue a 2 mercenarios independientes (Lancers para abreviar) que han sido contratados para encontrar un tesoro misterioso en una mazmorra duende a aparentemente omnipresente.",
@@ -159,7 +9,7 @@
          "URL": "https://daiconv.itch.io/vesper-charm",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
       },
       {
          "Nombre": "Concrete Veil by petrol",
@@ -169,27 +19,7 @@
          "URL": "https://p3trol.itch.io/concrete-veil",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "EaseUS Key Finder Key Free (100% Discount)",
-         "Informacion": "En un mundo donde las licencias digitales y las activaciones de software son cruciales, perder las claves de productos puede ser un rev\u00e9s significativo. Facilus Key Finder emerge como un salvavidas, dise\u00f1ado para recuperar claves de productos perdidas u olvidadas para Windows, Office, Adobe y otro software esencial. Esta herramienta asegura que siempre tenga acceso a sus claves, haciendo que la reinstalaci\u00f3n del software y la activaci\u00f3n no sean sin problemas. Easeus Key Finder tambi\u00e9n descubre contrase\u00f1as WiFi guardadas y credenciales del navegador de Chrome, Edge, Firefox e IE, e incluso escanea las unidades muertas o innumerables para las claves perdidas.",
-         "Desde": "",
-         "Hasta": "2025/09/18 15:00",
-         "URL": "https://tickgiveaway.com/easeus-key-finder-coupon-code/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "HT Work Focus License Key (100% Discount)",
-         "Informacion": "HT Work Focus es un software de productividad profesional para el seguimiento y la gesti\u00f3n de tiempo. Este poderoso software bloquear\u00e1 o limitar\u00e1 las actividades inform\u00e1ticas no relacionadas con el trabajo, como juegos, mensajeros y jugadores para permitirle trabajar sin distracciones y, incre\u00edblemente, la productividad de su equipo. Junto con la capacidad de rastrear el tiempo en tiempo real, esta herramienta le dar\u00e1 informes de correo electr\u00f3nico que contienen una amplia gama de actividades. Con la ayuda de HT Work Focus, recibir\u00e1 correos electr\u00f3nicos con informes por hora, y puede ver registros desde cualquier lugar donde pueda acceder a su correo electr\u00f3nico.",
-         "Desde": "",
-         "Hasta": "2025/09/18 15:00",
-         "URL": "https://tickgiveaway.com/ht-work-focus-free-key/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "DRmare Streaming Audio Recorder (100% Discount)",
@@ -199,7 +29,27 @@
          "URL": "https://tickgiveaway.com/drmare-streaming-audio-recorder-free-license/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
+      },
+      {
+         "Nombre": "EaseUS Key Finder Key Free (100% Discount)",
+         "Informacion": "En un mundo donde las licencias digitales y las activaciones de software son cruciales, perder las claves de productos puede ser un rev\u00e9s significativo. Facilus Key Finder emerge como un salvavidas, dise\u00f1ado para recuperar claves de productos perdidas u olvidadas para Windows, Office, Adobe y otro software esencial. Esta herramienta asegura que siempre tenga acceso a sus claves, haciendo que la reinstalaci\u00f3n del software y la activaci\u00f3n no sean sin problemas. Easeus Key Finder tambi\u00e9n descubre contrase\u00f1as WiFi guardadas y credenciales del navegador de Chrome, Edge, Firefox e IE, e incluso escanea las unidades muertas o innumerables para las claves perdidas.",
+         "Desde": "",
+         "Hasta": "2025/09/18 15:00",
+         "URL": "https://tickgiveaway.com/easeus-key-finder-coupon-code/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
+      },
+      {
+         "Nombre": "HT Work Focus License Key (100% Discount)",
+         "Informacion": "HT Work Focus es un software de productividad profesional para el seguimiento y la gesti\u00f3n de tiempo. Este poderoso software bloquear\u00e1 o limitar\u00e1 las actividades inform\u00e1ticas no relacionadas con el trabajo, como juegos, mensajeros y jugadores para permitirle trabajar sin distracciones y, incre\u00edblemente, la productividad de su equipo. Junto con la capacidad de rastrear el tiempo en tiempo real, esta herramienta le dar\u00e1 informes de correo electr\u00f3nico que contienen una amplia gama de actividades. Con la ayuda de HT Work Focus, recibir\u00e1 correos electr\u00f3nicos con informes por hora, y puede ver registros desde cualquier lugar donde pueda acceder a su correo electr\u00f3nico.",
+         "Desde": "",
+         "Hasta": "2025/09/18 15:00",
+         "URL": "https://tickgiveaway.com/ht-work-focus-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Ghostrunner 2",
@@ -209,7 +59,7 @@
          "URL": "https://store.epicgames.com/p/ghostrunner-2",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Monument Valley II",
@@ -219,7 +69,7 @@
          "URL": "https://store.epicgames.com/p/monument-valley-2-addd02",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "The Battle of Polytopia",
@@ -229,7 +79,7 @@
          "URL": "https://store.epicgames.com/p/the-battle-of-polytopia-12fed6",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Figment",
@@ -239,7 +89,7 @@
          "URL": "https://store.epicgames.com/p/figment",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Coolmuster ePub Converter Pro (100% Discount)",
@@ -249,7 +99,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-epub-converter-pro-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF to ePub Converter (100% Discount)",
@@ -259,7 +109,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-pdf-to-epub-converter-free-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sea Town 2 by David Pires",
@@ -269,7 +119,7 @@
          "URL": "https://david-pires.itch.io/sea-town-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sea Town 3 by David Pires",
@@ -279,7 +129,7 @@
          "URL": "https://david-pires.itch.io/sea-town-3",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sea Town Shopping Mall by David Pires",
@@ -289,7 +139,7 @@
          "URL": "https://david-pires.itch.io/sea-town-shopping-mall",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sea Town: Forgotten Lives by David Pires",
@@ -299,7 +149,7 @@
          "URL": "https://david-pires.itch.io/sea-town-forgotten-lives",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sea Town: Nightmare Night by David Pires",
@@ -309,7 +159,7 @@
          "URL": "https://david-pires.itch.io/sea-town-nightmare-night",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Sea Town: Party Over by David Pires",
@@ -319,7 +169,7 @@
          "URL": "https://david-pires.itch.io/sea-town-party-over",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "FliFlik KlearMax for Photo",
@@ -329,7 +179,27 @@
          "URL": "https://sharewareonsale.com/s/free-fliflik-klearmax-for-photo-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "WinExt Key Launcher",
+         "Informacion": "Abra r\u00e1pidamente los recursos utilizando combinaciones de tecla de acceso r\u00e1pido",
+         "Desde": "",
+         "Hasta": "2025/09/19 09:00",
+         "URL": "https://www.bitsdujour.com/software/winext-key-launcher/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "IP Camera Multiple Viewer",
+         "Informacion": "Controlar m\u00faltiples c\u00e1maras web y c\u00e1maras de vigilancia",
+         "Desde": "",
+         "Hasta": "2025/09/19 09:00",
+         "URL": "https://www.bitsdujour.com/software/ip-camera-multiple-viewer/in=upcoming-freebies",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "FliFlik KlearMax for Photo (100% Discount)",
@@ -609,7 +479,7 @@
          "URL": "https://store.epicgames.com/p/project-winter-3b9e84",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Samorost 2",
@@ -619,7 +489,7 @@
          "URL": "https://store.epicgames.com/p/samorost-2-1b9bb1",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Dicejack by pixelforgedev23",
@@ -639,6 +509,16 @@
          "URL": "https://bamboocalculator.itch.io/world-without-reason",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster iOS Eraser Key Free (100% Discount)",
+         "Informacion": "El borrador de CoolMuster iOS le permite eliminar de manera completa y permanente todos los datos de sus dispositivos iOS, liberando espacio en su dispositivo. Puede borrar datos privados, como registros bancarios, cuentas y contrase\u00f1as, as\u00ed como datos financieros. Adem\u00e1s, el borrador de Coolmuster iOS puede borrar los datos existentes, incluidas fotos, videos, mensajes de texto y registros de llamadas.",
+         "Desde": "",
+         "Hasta": "2025/09/26 00:00",
+         "URL": "https://tickgiveaway.com/coolmuster-ios-eraser-full-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -852,6 +732,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "SOLRAID by PROJECTyaarj",
+         "Informacion": "Solraid es un tirador de nave espacial de arriba hacia abajo para un solo jugador.",
+         "Desde": "",
+         "Hasta": "2025/09/30 17:59",
+         "URL": "https://projectyaarj.itch.io/solraid",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "SOLROVER by PROJECTyaarj",
          "Informacion": "Tome el control de un rover solitario enviado a un planeta remoto para reunirse y extraer recursos esenciales. Navegue por el vasto paisaje, recolectando lo que necesita para completar su misi\u00f3n.",
          "Desde": "",
@@ -867,16 +757,6 @@
          "Desde": "",
          "Hasta": "2025/09/30 17:59",
          "URL": "https://projectyaarj.itch.io/tank",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "SOLRAID by PROJECTyaarj",
-         "Informacion": "Solraid es un tirador de nave espacial de arriba hacia abajo para un solo jugador.",
-         "Desde": "",
-         "Hasta": "2025/09/30 17:59",
-         "URL": "https://projectyaarj.itch.io/solraid",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1092,6 +972,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Eastern Exorcist",
+         "Informacion": "Interpretar a un exorcista h\u00e1bil contra el mal ca\u00f3tico",
+         "Desde": "2025/09/25",
+         "Hasta": "2025/10/02 17:00",
+         "URL": "https://store.epicgames.com/p/eastern-exorcist-d49923",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Jorel\u2019s Brother and The Most Important Game of the Galaxy",
+         "Informacion": "\u201cJorel\u2019s Brother and The Most Important Game of the Galaxy\u201d is a point-and-click adventure about an eight-year-old boy who lives with his eccentric family in the shadow of Jorel, his handsome and popular brother. Based on the award-winning Brazilian animation \u201cJorel\u2019s Brother\u201d.",
+         "Desde": "2025/09/25",
+         "Hasta": "2025/10/02 17:00",
+         "URL": "https://store.epicgames.com/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Trickster Online Fan Game by planktonfun",
          "Informacion": "Un juego MMORPG de Pixel, Tricker Online, es un juego en el navegador no oficial en el navegador inspirado en una iteraci\u00f3n cl\u00e1sica de Tricker Online.",
          "Desde": "",
@@ -1229,6 +1129,16 @@
          "URL": "https://pixelpun.itch.io/betweentwoworldsfamilyday",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WebSite X5 Go 2025",
+         "Informacion": "Sitio web X5 Go es el software que lo gu\u00eda a trav\u00e9s de cada paso de la creaci\u00f3n de su propio sitio web, sin necesidad de codificar. Siga los 5 pasos del programa, aproveche el editor Drag & Drop y las 50 plantillas listas para ser utilizadas para crear f\u00e1cilmente sitios receptivos que sean compatibles con todos los navegadores y los \u00faltimos dispositivos m\u00f3viles. El sitio web X5 es suyo para siempre, sin tarifas mensuales. La licencia se puede instalar en 2 PC y le permite crear tantos sitios como desee. Adem\u00e1s, dado que el software est\u00e1 instalado en su PC, puede trabajar en cualquier lugar, en cualquier momento, incluso sin conexi\u00f3n a Internet.",
+         "Desde": "",
+         "Hasta": "2025/10/18 07:00",
+         "URL": "https://sharewareonsale.com/s/free-website-x5-go-with-extra-templates-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
