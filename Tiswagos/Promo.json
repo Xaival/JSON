@@ -1,36 +1,6 @@
 {
-   "date_update": "21 Sep 2025 16:18 UTC",
+   "date_update": "22 Sep 2025 16:12 UTC",
    "values": [
-      {
-         "Nombre": "Very Realistic Game Dev Simulator by Worst Event Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2025/09/21 13:52",
-         "URL": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
-      },
-      {
-         "Nombre": "Vovsoft Health Break Reminder (100% Discount)",
-         "Informacion": "El recordatorio de Vovsoft Health Break es un software de recordatorio para tomar un descanso que est\u00e1 dise\u00f1ado para recordarle que tome descansos cuando trabaje en su computadora durante mucho tiempo. Con su ayuda, puede saber cu\u00e1nto tiempo pas\u00f3 en su computadora. Tambi\u00e9n te recuerda que te levantes y te relajes.",
-         "Desde": "",
-         "Hasta": "2025/09/22 04:00",
-         "URL": "https://tickgiveaway.com/vovsoft-health-break-reminder-free-key/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
-      {
-         "Nombre": "Safe Disk",
-         "Informacion": "Este producto es una herramienta de seguridad de datos excepcional. Soporte de medios Flash y unidades de disco duro USB, para que nadie pueda acceder a sus datos si los pierde.",
-         "Desde": "",
-         "Hasta": "2025/09/22 07:00",
-         "URL": "https://sharewareonsale.com/s/free-safe-disk-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "The Last Drop by VladisLive Dev",
          "Informacion": "",
@@ -39,7 +9,7 @@
          "URL": "https://vladislive-dev.itch.io/the-last-drop",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Pulp Action Shotgun - Arena by Tom Cuthbertson",
@@ -49,7 +19,7 @@
          "URL": "https://tomcuthbertson.itch.io/pulp-action-shotgun-arena",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
       },
       {
          "Nombre": "QILING Safe Disk Standard (100% Discount)",
@@ -59,7 +29,7 @@
          "URL": "https://tickgiveaway.com/qiling-safe-disk-license-key-free/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Dreadmurk by Duodol Games",
@@ -69,7 +39,7 @@
          "URL": "https://duodolgames.itch.io/dreadmurk",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "TROX by Vinil, trauma_ok",
@@ -79,7 +49,17 @@
          "URL": "https://troj4nblazing.itch.io/trox",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
+      },
+      {
+         "Nombre": "Website Link Checker",
+         "Informacion": "Busque en todo su sitio en busca de enlaces rotos",
+         "Desde": "",
+         "Hasta": "2025/09/23 09:00",
+         "URL": "https://www.bitsdujour.com/software/website-link-checker/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Cybarian: The Time Travelling Warrior",
@@ -319,6 +299,26 @@
          "URL": "https://kasperv.itch.io/the-simple-life",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Image to PDF Converter (100% Discount)",
+         "Informacion": "Deje de perder el tiempo con herramientas complicadas para convertir im\u00e1genes en PDF. Con Vovsoft Image to PDF Converter, puede convertir sus fotos en documentos PDF al instante, r\u00e1pido, simple y sin problemas. Puede agregar varias im\u00e1genes a la vez utilizando el navegador de archivos incorporado o simplemente arrastr\u00e1ndolas y solt\u00e1ndolas directamente desde Windows Explorer. El software admite formatos populares como JPG, TIF, PNG, GIF y BMP. Luego, con un solo clic en el bot\u00f3n `Crear PDF`, sus archivos se convierten, sin complicaciones, sin pasos adicionales. Lo mejor de todo, Vovsoft Image to PDF Converter es completamente independiente: no requiere Adobe Acrobat y no desordenar\u00e1 su sistema con controladores de impresoras innecesarios.",
+         "Desde": "",
+         "Hasta": "2025/09/29 04:00",
+         "URL": "https://tickgiveaway.com/vovsoft-image-to-pdf-converter-key-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Synchredible 9",
+         "Informacion": "Mantenga sus datos sincronizados. Asegurar copias de seguridad confiables.",
+         "Desde": "",
+         "Hasta": "2025/09/29 07:00",
+         "URL": "https://sharewareonsale.com/s/free-synchredible-9-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -812,6 +812,16 @@
          "Borde": "border-color: #ff9600;"
       },
       {
+         "Nombre": "XenArmor Email Password Recovery Pro (100% Discount)",
+         "Informacion": "XENARMOR Correo electr\u00f3nico Password Recovery Pro ayudan a los usuarios de Windows a recuperar sus contrase\u00f1as de correo electr\u00f3nico olvidadas de clientes y navegadores de correo electr\u00f3nico como Chrome, Firefox, IE, Outlook, Thunderbird, Incredimail, etc. Este software es altamente vers\u00e1til, admite m\u00e1s de 110 programas populares y recuperaci\u00f3n de contrase\u00f1as para m\u00e1s de 40 proveedores de servicios de correo electr\u00f3nico, incluidos Gmail, Yahoo, Outlook y AOL. Despu\u00e9s de recuperarse, puede guardar las contrase\u00f1as recuperadas en varios formatos como HTML, CSV, XML, JSON o SQLITE.",
+         "Desde": "",
+         "Hasta": "2025/10/10 00:00",
+         "URL": "https://tickgiveaway.com/xenarmor-email-password-recovery-pro-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Cattabunga! by Jeyers Development",
          "Informacion": "Cattabunga! es un juego de plataformas 2D jugado como gato. El objetivo principal es llegar a la casa o al final en cada nivel. Las instrucciones sobre c\u00f3mo jugar est\u00e1n en el men\u00fa principal del juego. Hecho por Jemcraftstudios.\u00a0M\u00fasica de Jacob Meyers y Samuel Basset (YellowsNow_Yellow). Hola otros desarrolladores indie (:",
          "Desde": "",
@@ -937,6 +947,16 @@
          "Desde": "",
          "Hasta": "2025/10/30 00:00",
          "URL": "https://tickgiveaway.com/malware-hunter-pro-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Magic Recovery Key License Free (100% Discount)",
+         "Informacion": "La tecla Magic Recovery es un poderoso software de b\u00fasqueda de teclas para Windows que le permite recuperar instant\u00e1neamente y hacer una copia de seguridad de todas las claves de sus productos en su computadora. Utiliz\u00e1ndolo, puede recuperar las claves del producto del sistema de Windows, lo que significa que puede ver las teclas de producto para Windows (Windows 10/10/8/7 y Windows Server) y SQL Server. Tambi\u00e9n le permite obtener m\u00e1s de 10,000 n\u00fameros de serie de software",
+         "Desde": "",
+         "Hasta": "2025/10/30 15:00",
+         "URL": "https://tickgiveaway.com/magic-recovery-key-license-key-free/",
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
