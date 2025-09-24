@@ -1,36 +1,6 @@
 {
-   "date_update": "23 Sep 2025 16:12 UTC",
+   "date_update": "24 Sep 2025 16:12 UTC",
    "values": [
-      {
-         "Nombre": "Cybarian: The Time Travelling Warrior",
-         "Informacion": "Cybarian the Time Travel Warrior es un juego de acci\u00f3n arcade de inspiraci\u00f3n cl\u00e1sica, con una mezcla de tropos de juegos modernos y retro.",
-         "Desde": "",
-         "Hasta": "2025/09/23 10:00",
-         "URL": "https://store.steampowered.com/app/928840/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "LumoDash by AdeogunTechno",
-         "Informacion": "Explore los niveles generados por procedimientos casi infinitos, dominando el arte del movimiento r\u00e1pido en escenarios inesperados. Sum\u00e9rgete en un juego de arcade interminable, alcanza nuevas alturas en el modo de desaf\u00edo, o simplemente rel\u00e1jate y disfruta de la m\u00fasica.",
-         "Desde": "",
-         "Hasta": "2025/09/23 22:08",
-         "URL": "https://adeoguntechno.itch.io/lumodash",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
-      },
-      {
-         "Nombre": "Photographer Starter Kit",
-         "Informacion": "\u00bfEres un fot\u00f3grafo principiante y no sabes c\u00f3mo mejorar r\u00e1pidamente tus fotos?\nTenemos buenas noticias para usted, \u00a1hemos reunido un conjunto de 700 activos \u00fatiles para usted!",
-         "Desde": "",
-         "Hasta": "2025/09/24 07:00",
-         "URL": "https://sharewareonsale.com/s/free-photographer-starter-kit-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "Away",
          "Informacion": "Away: es un juego corto sobre la experiencia de muerte del h\u00e9roe, realizado en un estilo sombr\u00edo en blanco y negro.",
@@ -39,7 +9,7 @@
          "URL": "https://store.steampowered.com/app/757910/",
          "IMG": "",
          "Distribuidora": "Steam",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Kingshiper PC Cleaner Key Free (100% Discount)",
@@ -49,7 +19,7 @@
          "URL": "https://tickgiveaway.com/kingshiper-pc-cleaner-free-license-code/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Itch Developer Simulator by 375games",
@@ -59,7 +29,7 @@
          "URL": "https://375games.itch.io/itch-developer-simulator",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
       },
       {
          "Nombre": "CrystalEater by ShadowScythe_Games",
@@ -69,7 +39,7 @@
          "URL": "https://shadowscythe-games.itch.io/crystaleater",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Petal Of The Quiet by ShadowScythe_Games",
@@ -79,7 +49,7 @@
          "URL": "https://shadowscythe-games.itch.io/petal-of-the-quiet",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Purgatory by loweygames",
@@ -89,6 +59,26 @@
          "URL": "https://loweygames.itch.io/purgatory",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 21%, yellow 21%) 1;"
+      },
+      {
+         "Nombre": "Wise Hotkey",
+         "Informacion": "Wise Hotkey es una poderosa herramienta de administraci\u00f3n de teclas de acceso r\u00e1pido para usuarios de Windows. Con su ayuda, puede asignar f\u00e1cilmente teclas de acceso r\u00e1pido a ciertas aplicaciones, carpetas y sitios web. S\u00edgueme para experimentar la conveniencia y la eficiencia que este programa le traer\u00e1.",
+         "Desde": "",
+         "Hasta": "2025/09/25 09:00",
+         "URL": "https://www.bitsdujour.com/software/wise-hotkey/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "BootRacer Premium Key Free (100% Discount)",
+         "Informacion": "BootRacer Premium es una utilidad para el uso no comercial con m\u00faltiples funciones para ayudarlo a controlar qu\u00e9 programas, sus programas comienzan autom\u00e1ticamente cuando Windows comienza. Adem\u00e1s, puede deshabilitar f\u00e1cilmente el lanzamiento de cualquier programa sin ning\u00fan riesgo para su computadora porque BootRacer es completamente seguro.",
+         "Desde": "",
+         "Hasta": "2025/09/25 15:00",
+         "URL": "https://tickgiveaway.com/bootracer-premium-free-license/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -319,6 +309,16 @@
          "URL": "https://merai.itch.io/liho",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "reaConverter Pro 8",
+         "Informacion": "Comprensible en un presentimiento, ReAconverter hace que la conversi\u00f3n por lotes y la edici\u00f3n de im\u00e1genes a menudo recurrente sean simples.",
+         "Desde": "",
+         "Hasta": "2025/09/30 07:00",
+         "URL": "https://sharewareonsale.com/s/reaconverter-giveaway-coupon-sale",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -742,6 +742,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AnyViewer Professional Key (100% Discount)",
+         "Informacion": "AnyViewer Professional es una herramienta simple pero mejor de acceso de computadora y soporte remoto que lo ayudar\u00e1 a eliminar los controles de PC y trabajar de forma remota a trav\u00e9s de Internet desde cualquier lugar. La herramienta permite a las peque\u00f1as y medianas empresas o usuarios individuales monitorear, administrar y reparar f\u00e1cilmente la PC de forma remota. Tambi\u00e9n viene con una funci\u00f3n de transferencia de archivos para ayudarlo a cambiar la posici\u00f3n de los archivos de una PC a otra o varias PC a la vez con alta calidad.",
+         "Desde": "",
+         "Hasta": "2025/10/08 00:00",
+         "URL": "https://tickgiveaway.com/anyviewer-professional-vip-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Castlevania Anniversary Collection",
          "Informacion": "Castlevania Anniversary Collection de Konami busca los or\u00edgenes de la hist\u00f3rica franquicia de vampiros.",
          "Desde": "2025/09/25",
@@ -757,6 +767,16 @@
          "Desde": "",
          "Hasta": "2025/10/10 00:00",
          "URL": "https://tickgiveaway.com/xenarmor-email-password-recovery-pro-free/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FoneTool Unlocker Pro (100% Discount) Key Free",
+         "Informacion": "Seguiste tratando de adivinar el c\u00f3digo de acceso de tu antiguo iPhone, pero termin\u00f3 bloque\u00e1ndolo. Afortunadamente, Fonetool Unlocker Pro puede ayudarlo a desbloquear su tel\u00e9fono. Dise\u00f1ada con una interfaz simple y f\u00e1cil de usar, esta potente herramienta de desbloqueador iOS puede ayudarlo a desbloquear su iPhone, iPad, iPod Touch o Apple ID sin esfuerzo. Con su ayuda, puede recuperar f\u00e1cilmente el control de su dispositivo sin preocuparse por perder su c\u00f3digo de acceso.",
+         "Desde": "",
+         "Hasta": "2025/10/10 00:00",
+         "URL": "https://tickgiveaway.com/fonetool-unlocker-pro-free-license-code/",
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
@@ -832,6 +852,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AWZ Screen Recorder Pro Key Free (100% Discount)",
+         "Informacion": "Para cualquiera que busque una herramienta de captura de pantalla f\u00e1cil de usar para hacer algunas grabaciones cortas y embellecer algunas capturas de pantalla, AWZ Screen Recorder es la herramienta perfecta. Dise\u00f1ada con una interfaz limpia, esta herramienta tiene la posibilidad de grabar toda la pantalla o un \u00e1rea seleccionada de la pantalla. Con su ayuda, tiene la capacidad de capturar y grabar todo lo que aparece en la pantalla de su computadora o dispositivo.",
+         "Desde": "",
+         "Hasta": "2025/10/15 00:00",
+         "URL": "https://tickgiveaway.com/awz-screen-recorder-free-key/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Leawo Photo Enlarger Key Free (100% Discount)",
          "Informacion": "\u00bfAlguna vez has tomado una foto favorita, pero te has dado cuenta de que estaba demasiado borrosa y no pod\u00eda publicarse en l\u00ednea? O tiene una c\u00e1mara vieja que ya no puede tomar una buena foto. Deja de preocuparte por la resoluci\u00f3n de im\u00e1genes: mejore las im\u00e1genes y actualice tus fotos de baja resoluci\u00f3n con la ayuda de Leawo Photo Amplander. Como su nombre indica, esta herramienta es una aplicaci\u00f3n de edici\u00f3n de fotos dise\u00f1ada para ayudarlo a mejorar la resoluci\u00f3n de im\u00e1genes y ampliar y mejorar las im\u00e1genes a una calidad m\u00e1s alta a una velocidad 5x m\u00e1s alta.",
          "Desde": "",
@@ -852,11 +882,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "AWZ Screen Recorder Pro Key Free (100% Discount)",
-         "Informacion": "Para cualquiera que busque una herramienta de captura de pantalla f\u00e1cil de usar para hacer algunas grabaciones cortas y embellecer algunas capturas de pantalla, AWZ Screen Recorder es la herramienta perfecta. Dise\u00f1ada con una interfaz limpia, esta herramienta tiene la posibilidad de grabar toda la pantalla o un \u00e1rea seleccionada de la pantalla. Con su ayuda, tiene la capacidad de capturar y grabar todo lo que aparece en la pantalla de su computadora o dispositivo.",
+         "Nombre": "SoftOrbits PDF Logo Remover Free (100% Discount)",
+         "Informacion": "\u00bfIrritado por marcas o fondos molestos en archivos PDF? Usemos el remover Softorbits PDF Logo, un software PDF Watmark Remover, para ayudarlo a eliminar las marcas de agua de los archivos PDF con solo unos pocos clics. Con la ayuda de este removedor de logotipos PDF, puede eliminar logotipos, marcas de agua, sellos u otros elementos no deseados de archivos PDF sin afectar la calidad visual de los archivos.",
          "Desde": "",
          "Hasta": "2025/10/15 00:00",
-         "URL": "https://tickgiveaway.com/awz-screen-recorder-free-key/",
+         "URL": "https://tickgiveaway.com/softorbits-pdf-logo-remover-free-license/",
          "IMG": "",
          "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
