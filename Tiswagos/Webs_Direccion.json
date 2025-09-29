@@ -1,5 +1,5 @@
 {
-   "date_update": "26 Sep 2025 16:10 UTC",
+   "date_update": "29 Sep 2025 16:08 UTC",
    "values": [
       {
          "Direccion": "8.8.8.8 aeffe3nhrua5hua.com #AntiSpam"
@@ -36,6 +36,9 @@
       },
       {
          "Direccion": "8.8.8.8 torrentfunk.123down.org #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 wayfarerorthodox.com #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 wtrmblea.net #AntiSpam"
@@ -594,6 +597,9 @@
       },
       {
          "Direccion": "8.8.8.8 cspeye.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 dkey.my.id #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 findmycrushes.com #AntiSpam"
