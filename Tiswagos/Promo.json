@@ -1,86 +1,6 @@
 {
-   "date_update": "03 Oct 2025 16:12 UTC",
+   "date_update": "04 Oct 2025 16:11 UTC",
    "values": [
-      {
-         "Nombre": "Snake Eyes Dungeon",
-         "Informacion": "\u00a1Entra en la mazmorra, se pierde y tira los dados contra los monstruos! \u00a1Juega tus posibilidades contra monstruos peligrosos como fantasmas, hombres lobo o incluso el monstruo de Frankenstein!",
-         "Desde": "",
-         "Hasta": "2025/10/03 10:00",
-         "URL": "https://store.steampowered.com/app/740240/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Wander Stars Sketchbook",
-         "Informacion": "Este contenido requiere el starson Steam de Base GameWander para jugar.",
-         "Desde": "",
-         "Hasta": "2025/10/03 10:00",
-         "URL": "https://store.steampowered.com/app/3636070/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Trickster Online Fan Game by planktonfun",
-         "Informacion": "Un juego MMORPG de Pixel, Tricker Online, es un juego en el navegador no oficial en el navegador inspirado en una iteraci\u00f3n cl\u00e1sica de Tricker Online.",
-         "Desde": "",
-         "Hasta": "2025/10/03 14:57",
-         "URL": "https://planktonfun.itch.io/trickster-online-fan-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "TriSun PDF to X (100% Discount) License Key Free",
-         "Informacion": "Trisun PDF a X es una utilidad PDF que puede usarse para convertir documentos PDF en Word (.Doc)/WordPad (.RTF), p\u00e1ginas web HTML, JPG/PNG/BMP/TIF/GIF/PCX/TGA, y archivos de texto simples en modo de lote. Funciona sin Adobe Acrobat o Adobe Reader y tiene una interfaz de l\u00ednea de comandos (CLI), una interfaz amigable, un tama\u00f1o peque\u00f1o y una capacidad de conversi\u00f3n precisa y r\u00e1pida.",
-         "Desde": "",
-         "Hasta": "2025/10/03 15:00",
-         "URL": "https://tickgiveaway.com/trisun-pdf-to-x-full-license-key/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF to Word Converter (100% Discount)",
-         "Informacion": "Microsoft Word le permite editar y modificar documentos m\u00e1s f\u00e1cilmente que los archivos PDF de Adobe. Si desea editar archivos PDF sin usar Adobe Acrobat, puede usar el convertidor PDF de CoolMuster a Word para cambiarlos en archivos Docx de Word con un solo clic. Luego puede editar contenido de texto, insertar im\u00e1genes y m\u00e1s como desee. Esta aplicaci\u00f3n convertidor le permite convertir sus archivos PDF en documentos de Word, asegurando que todos los elementos, incluidos el texto, las im\u00e1genes, los gr\u00e1ficos y los dise\u00f1os, se conserven con precisi\u00f3n durante el proceso de conversi\u00f3n.",
-         "Desde": "",
-         "Hasta": "2025/10/04 00:00",
-         "URL": "https://tickgiveaway.com/coolmuster-pdf-to-word-converter-key-free/",
-         "IMG": "",
-         "Distribuidora": "IR",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "iCare Data Recovery Pro",
-         "Informacion": "Icare Data Recovery Pro es una soluci\u00f3n de software integral para recuperar datos perdidos o eliminados de una variedad de dispositivos de almacenamiento, incluidos discos duros, tarjetas SD y unidades USB. Ofrece herramientas f\u00e1ciles de usar para recuperar archivos, fotos, videos y documentos, haciendo que la restauraci\u00f3n de datos sea accesible y eficiente.",
-         "Desde": "",
-         "Hasta": "2025/10/04 07:00",
-         "URL": "https://sharewareonsale.com/s/icare-data-recovery-sale",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Kingshiper Audio Editor",
-         "Informacion": "El editor de audio de Kingshiper es el software de edici\u00f3n de audio confiable l\u00edder mundial que lo ayuda a crear, editar y convertir archivos de audio. Tiene caracter\u00edsticas potentes y una interfaz f\u00e1cil de usar, lo que lo hace perfecto para profesionales y entusiastas por igual. El editor de audio de Kingshiper ofrece un conjunto de herramientas integral para satisfacer todas sus necesidades de edici\u00f3n de audio. Le permite eliminar el ruido de fondo, los zumbidos y otros sonidos no deseados, lo que resulta en grabaciones m\u00e1s limpias y que suenan m\u00e1s profesionales. Con un simple clic, puede manipular f\u00e1cilmente sus archivos de audio para lograr los resultados deseados.",
-         "Desde": "",
-         "Hasta": "2025/10/04 07:00",
-         "URL": "https://sharewareonsale.com/s/free-kingshiper-audio-editor-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Capture Boss",
-         "Informacion": "\u00a1Capture y grabe todo lo que pueda escuchar o ver en su PC!",
-         "Desde": "",
-         "Hasta": "2025/10/04 09:00",
-         "URL": "https://www.bitsdujour.com/software/capture-boss/in=upcoming-freebies",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "iCare Data Recovery Pro 1-Year License Code Giveaway 2025",
          "Informacion": "La recuperaci\u00f3n de datos de ICARE ayuda a recuperar datos eliminados o perdidos de su computadora o la mayor\u00eda de los dispositivos digitales que se han eliminado, perdido, formateado, formateado o tambi\u00e9n eliminados accidentalmente, etc. Tambi\u00e9n puede deshacer archivos que se han eliminado de la contenedor de reciclaje de Windows.",
@@ -89,7 +9,7 @@
          "URL": "https://tickgiveaway.com/icare-data-recovery-pro-license-code/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Turbo Play License Key for Free (100% Discount)",
@@ -99,7 +19,7 @@
          "URL": "https://tickgiveaway.com/turbo-play-free-license-code/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Coolmuster iPhone Data Recovery (100% Discount)",
@@ -109,7 +29,7 @@
          "URL": "https://tickgiveaway.com/coolmuster-iphone-data-recovery-key/",
          "IMG": "",
          "Distribuidora": "IR",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "BALL GAME by Bouncing Dragon Games",
@@ -119,7 +39,7 @@
          "URL": "https://bouncing-dragon-games.itch.io/ball-game",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
       },
       {
          "Nombre": "KILBUG by Bouncing Dragon Games",
@@ -129,7 +49,7 @@
          "URL": "https://bouncing-dragon-games.itch.io/kilbug",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
       },
       {
          "Nombre": "ROGUE MARKET by Bouncing Dragon Games",
@@ -139,7 +59,7 @@
          "URL": "https://bouncing-dragon-games.itch.io/rouge-market",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
       },
       {
          "Nombre": "SHWOOP! by Bouncing Dragon Games",
@@ -149,7 +69,7 @@
          "URL": "https://bouncing-dragon-games.itch.io/shwoop",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
       },
       {
          "Nombre": "Video2Cartoon",
@@ -159,6 +79,26 @@
          "URL": "https://sharewareonsale.com/s/free-video2cartoon-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Capture Boss",
+         "Informacion": "\u00a1Capture y grabe todo lo que pueda escuchar o ver en su PC!",
+         "Desde": "",
+         "Hasta": "2025/10/05 09:00",
+         "URL": "https://www.bitsdujour.com/software/capture-boss/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "MagFone Location Changer Free (100% Discount)",
+         "Informacion": "Magfone Ubication Changer est\u00e1 dise\u00f1ado para ayudarlo a hacer clic 1 para cambiar la ubicaci\u00f3n GPS en dispositivos iOS y Android a cualquier parte del mundo. Puede usar esta herramienta para ocultar su ubicaci\u00f3n por razones de privacidad, omitir las restricciones geogr\u00e1ficas o simular el movimiento GPS para los juegos sin la necesidad de jailbreak o rootear su dispositivo. Esta excelente herramienta de cambio de ubicaci\u00f3n lo ayuda a cambiar su ubicaci\u00f3n de iPhone o falsificar su ubicaci\u00f3n de Android en aplicaciones sociales, jugar juegos AR populares basados \u200b\u200ben la ubicaci\u00f3n como Pok\u00e9mon Go y Soundmap, o incluso aplicaciones de citas como Tinder y Grindr.",
+         "Desde": "",
+         "Hasta": "2025/10/05 15:00",
+         "URL": "https://tickgiveaway.com/magfone-location-changer-free-license/",
+         "IMG": "",
+         "Distribuidora": "IR",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -317,6 +257,26 @@
          "Desde": "",
          "Hasta": "2025/10/10 07:00",
          "URL": "https://sharewareonsale.com/s/free-softorbits-screen-recorder-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster HEIC Converter Free (100% Discount)",
+         "Informacion": "El problema de compatibilidad de HEIC en Android o Windows hace que cumpla con los problemas. Coolmuster HEIC Converter lo sacar\u00e1 de problemas en minutos. Como su nombre indica, CoolMuster HEIC Converter es una aplicaci\u00f3n de convertidor de imagen dise\u00f1ada para ayudarlo a convertir sus im\u00e1genes HEIC a JPG/JPEG/PNG con la calidad original de manera r\u00e1pida y f\u00e1cil. Adem\u00e1s, esta herramienta tambi\u00e9n facilita la conversi\u00f3n de m\u00faltiples archivos HEIC al formato JPG o PNG al mismo tiempo.",
+         "Desde": "",
+         "Hasta": "2025/10/11 00:00",
+         "URL": "https://tickgiveaway.com/coolmuster-heic-converter-free-license/",
+         "IMG": "",
+         "Distribuidora": "IR",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ashampoo Backup Pro 25",
+         "Informacion": "Ashampoo\u00ae Backup Pro 25 crea copias de seguridad de cualquier tipo de archivo, incluso sistemas operativos completos. El programa funciona completamente autom\u00e1ticamente en segundo plano para evitar la p\u00e9rdida de datos. Un sistema de rescate incorporado restaura los datos en caso de emergencia.",
+         "Desde": "",
+         "Hasta": "2025/10/11 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ashampoo-backup-pro-25-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
