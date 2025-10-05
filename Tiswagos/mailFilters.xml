@@ -130,7 +130,7 @@
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
-		<apps:property name='from' value='comunidad@crehana.com OR @ads.infojobs.net OR @info.infojobs.net OR @training.infojobs.net OR ofertas@push.infojobs.net OR messages-noreply@linkedin.com OR notifications-noreply@linkedin.com OR updates-noreply@linkedin.com OR jobs-listings@linkedin.com'/>
+		<apps:property name='from' value='comunidad@crehana.com OR @ads.infojobs.net OR @info.infojobs.net OR @training.infojobs.net OR ofertas@push.infojobs.net OR messages-noreply@linkedin.com OR notifications-noreply@linkedin.com OR updates-noreply@linkedin.com OR jobalerts-noreply@linkedin.com OR jobs-listings@linkedin.com'/>
 		<apps:property name='label' value='Registros/Study - Job'/>
 		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
