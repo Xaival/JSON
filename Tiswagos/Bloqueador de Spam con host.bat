@@ -71,6 +71,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 temperrunnersdale.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 torrentfunk.123down.org #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 wtrmblea.net #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 hai8g.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.okhatrimaza.com.ph #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 1osb.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 acscdn.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
@@ -386,6 +387,7 @@ mode con:cols=65 lines=16
   echo 8.8.8.8 www.lavanguardia.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 www.marca.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 best-content-hub.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
+  echo 8.8.8.8 b.pixelepicenter.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 r.botsford.link #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 stylesandeals.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
   echo 8.8.8.8 your.adsterra.com #AntiSpam>>%systemroot%\System32\drivers\etc\hosts 
