@@ -2,7 +2,7 @@
 ! Title: Tiswagos AdGuard Block
 ! Description: Lista personalizada para bloqueo DNS
 ! Homepage: https://github.com/Xaival/JSON
-! Last modified: 01 May 2026 18:20 UTC
+! Last modified: 02 May 2026 16:16 UTC
 !
 ! Compiled by @xaival/JSON v1.0.0
 !
@@ -1095,15 +1095,12 @@
 ||jmlnqwerty18.s3.eu-north-1.amazonaws.com^
 ||mcafee.com^
 ||byrl.me^
-||pelisplushd.business^
-||cphermanosarregui.es^
-||pelis.flixshore.com^
-||ugtdipgra.es^
 ||alasdelonamerceriacreativa.es^
 ||aldeacavernicoladespedidas.es^
 ||amerosl.es^
 ||app.tvtime.com^
 ||colegiomartinnoguera.es^
+||cphermanosarregui.es^
 ||cuevana-3.io^
 ||divxtotal.gratis^
 ||fulanitoymenganita.es^
@@ -1118,11 +1115,14 @@
 ||netflixmovie.top^
 ||new.classmovies88.com^
 ||pelikula.es^
+||pelis.flixshore.com^
+||pelisplushd.business^
 ||pensionfabio.es^
 ||premiumfilm.online^
 ||purobrillo.es^
 ||stream-access.net^
 ||superflix.love^
+||ugtdipgra.es^
 ||vergnula.com^
 ||verpeliculas4k.org^
 ||cuevana.be^
@@ -1388,17 +1388,3 @@
 ||cdn10.trafficjunky.net^
 ||dlupload.com^
 ||offerimage.com^
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
-||
