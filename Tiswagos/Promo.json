@@ -1,86 +1,6 @@
 {
-   "date_update": "04 May 2026 16:16 UTC",
+   "date_update": "05 May 2026 16:14 UTC",
    "values": [
-      {
-         "Nombre": "Dead Trust by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/04 18:00",
-         "URL": "https://hexnut-studios.itch.io/dead-trust",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/04 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Bamm - Online PvP by Bukmand",
-         "Informacion": "\u00a1No olvides dejar una calificaci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2026/05/04 19:06",
-         "URL": "https://bukmand.itch.io/bamm",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Guess Yes by Bukmand",
-         "Informacion": "\u00a1No olvides dejar una calificaci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2026/05/04 19:06",
-         "URL": "https://bukmand.itch.io/guess-yes",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Regular Fighters - Online PvP by Bukmand",
-         "Informacion": "\u00a1No olvides dejar una calificaci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2026/05/04 19:06",
-         "URL": "https://bukmand.itch.io/regular-fighters",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Unfair Square - Online PvP by Bukmand",
-         "Informacion": "\u00a1No olvides dejar una calificaci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2026/05/04 19:06",
-         "URL": "https://bukmand.itch.io/unfair-square",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "ThunderSoft GIF Joiner",
-         "Informacion": "Fusiona varios archivos gif sin p\u00e9rdida de calidad.",
-         "Desde": "",
-         "Hasta": "2026/05/05 07:00",
-         "URL": "https://sharewareonsale.com/s/free-thundersoft-gif-joiner-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Indy",
-         "Informacion": "Tengan en cuenta amigos: la promoci\u00f3n gratuita de 6 meses est\u00e1 limitada a los primeros 500 participantes.",
-         "Desde": "",
-         "Hasta": "2026/05/05 09:00",
-         "URL": "https://www.bitsdujour.com/software/indy/in=upcoming-freebies",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "bable playground exclusive edition by FREE_GAMES - UA",
          "Informacion": "",
@@ -89,7 +9,7 @@
          "URL": "https://free-games-ua.itch.io/bable-playground-exclusive-edition",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Bolmn by The Voices Games",
@@ -99,7 +19,7 @@
          "URL": "https://thewgreen.itch.io/bolmn",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Room 107 : Case 1103 by Nocturne Directive",
@@ -109,7 +29,7 @@
          "URL": "https://nocturne-directive.itch.io/room-107case-1103",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "50 Fantasy LUTs",
@@ -119,6 +39,46 @@
          "URL": "https://sharewareonsale.com/s/free-50-fantasy-luts-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "IObit Software Updater Pro",
+         "Informacion": "Instale actualizaciones seguras de aplicaciones de fuentes confiables, r\u00e1pidamente",
+         "Desde": "",
+         "Hasta": "2026/05/06 09:00",
+         "URL": "https://www.bitsdujour.com/software/iobit-software-updater-pro/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "Indy",
+         "Informacion": "Tengan en cuenta amigos: la promoci\u00f3n gratuita de 6 meses est\u00e1 limitada a los primeros 500 participantes.",
+         "Desde": "",
+         "Hasta": "2026/05/06 09:00",
+         "URL": "https://www.bitsdujour.com/software/indy/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "Free BlobGet Download Manager 1-Year License for Downloads",
+         "Informacion": "BlobGet es una herramienta de descarga todo en uno, potente y f\u00e1cil de usar, dise\u00f1ada para simplificar el acceso al contenido sin conexi\u00f3n. Sus aspectos m\u00e1s destacados incluyen descargas r\u00e1pidas de videos de YouTube y TikTok (con soporte de resoluci\u00f3n preferida a trav\u00e9s de la extensi\u00f3n del navegador), an\u00e1lisis de archivos BT (elija archivos espec\u00edficos para descargar), b\u00fasqueda de palabras clave para encontrar videos r\u00e1pidamente, opci\u00f3n de descarga de solo audio y descarga por lotes para m\u00faltiples URL a la vez. Con velocidades de descarga impresionantes y una configuraci\u00f3n sencilla, BlobGet es perfecto tanto para usuarios ocasionales como para creadores de contenido: todas las funciones premium se desbloquean en este sorteo para acceso gratuito.",
+         "Desde": "",
+         "Hasta": "2026/05/06 15:00",
+         "URL": "https://giveaway.tickcoupon.com/blobget-download-manager-license-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FileMarker.NET Home Key Free (100% Discount)",
+         "Informacion": "FileMarker.NET Home es un software \u00fatil para el trabajo de oficina. Este software le permite marcar con color un archivo, agregarle una etiqueta o usar una combinaci\u00f3n de color y una etiqueta de uno de los siguientes tipos: prioridad (alta, normal, baja), finalizaci\u00f3n del proyecto (hecho, medio hecho, planificado), estado del proyecto (aprobado, rechazado, pendiente) y tipo de informaci\u00f3n (trabajo, importante, temporal, privada).",
+         "Desde": "",
+         "Hasta": "2026/05/06 15:00",
+         "URL": "https://giveaway.tickcoupon.com/filemarker-net-pro-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -152,11 +112,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/05/06 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ghostprint Demo by DevRoids",
          "Informacion": "Ghostprint\u00a0es un juego de terror en primera persona ambientado en habitaciones oscuras y atmosf\u00e9ricas donde dependes de una c\u00e1mara Polaroid maldita para avanzar. Ciertos lugares del entorno requieren una fotograf\u00eda, y capturar la huella fantasma adecuada remodela el espacio que te rodea. Las paredes se mueven, surgen pasajes y se abre tu camino.",
          "Desde": "",
          "Hasta": "2026/05/06 20:37",
          "URL": "https://devroids.itch.io/ghostprint",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Selvema by Wenudu",
+         "Informacion": "Motor irreal 5.7.4",
+         "Desde": "",
+         "Hasta": "2026/05/06 21:28",
+         "URL": "https://wenudu.itch.io/selvema",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -202,41 +182,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Shut The Box by SVP Games",
-         "Informacion": "\u00a1Este es un juego de simulaci\u00f3n de dados para 2 jugadores basado en texto! \u00a1\u00a1\u00a1El primero en superar las 21 victorias!!!",
-         "Desde": "",
-         "Hasta": "2026/05/07 06:00",
-         "URL": "https://svp-games.itch.io/shut-the-box",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sherbie by SVP Games",
-         "Informacion": "\u00a1Juega como Sherbie, el h\u00e9roe del helado suave! \u00a1\u00a1\u00a1Viaja por las afueras de la galaxia y det\u00e9n a los Big Bad 6 en este juego de plataformas!!! Este juego tiene:",
-         "Desde": "",
-         "Hasta": "2026/05/07 06:00",
-         "URL": "https://svp-games.itch.io/sherbie",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Imp & Angel by SVP Games",
          "Informacion": "05/11/2025: \u00a1Se ha a\u00f1adido un nuevo DLC!",
          "Desde": "",
          "Hasta": "2026/05/07 06:00",
          "URL": "https://svp-games.itch.io/imp-angel",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Nightly Special by SVP Games",
-         "Informacion": "Este juego de fiesta de mundo abierto tiene 5 minijuegos:",
-         "Desde": "",
-         "Hasta": "2026/05/07 06:00",
-         "URL": "https://svp-games.itch.io/nightly-special",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -252,11 +202,41 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Nightly Special by SVP Games",
+         "Informacion": "Este juego de fiesta de mundo abierto tiene 5 minijuegos:",
+         "Desde": "",
+         "Hasta": "2026/05/07 06:00",
+         "URL": "https://svp-games.itch.io/nightly-special",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Robot/Kaiju Beatdown by SVP Games",
          "Informacion": "\u00a1Elige entre 34** personajes jugables y lucha! Tres modos de juego diferentes:",
          "Desde": "",
          "Hasta": "2026/05/07 06:00",
          "URL": "https://svp-games.itch.io/robotkaiju-beatdown",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sherbie by SVP Games",
+         "Informacion": "\u00a1Juega como Sherbie, el h\u00e9roe del helado suave! \u00a1\u00a1\u00a1Viaja por las afueras de la galaxia y det\u00e9n a los Big Bad 6 en este juego de plataformas!!! Este juego tiene:",
+         "Desde": "",
+         "Hasta": "2026/05/07 06:00",
+         "URL": "https://svp-games.itch.io/sherbie",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shut The Box by SVP Games",
+         "Informacion": "\u00a1Este es un juego de simulaci\u00f3n de dados para 2 jugadores basado en texto! \u00a1\u00a1\u00a1El primero en superar las 21 victorias!!!",
+         "Desde": "",
+         "Hasta": "2026/05/07 06:00",
+         "URL": "https://svp-games.itch.io/shut-the-box",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -299,6 +279,16 @@
          "URL": "https://store.steampowered.com/app/934690/",
          "IMG": "",
          "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wane Spore by DDP Games",
+         "Informacion": "Despu\u00e9s de que tu avi\u00f3n se estrellara inesperadamente, ahora te encuentras varado en un bosque llamado Wane Spore Forest.",
+         "Desde": "",
+         "Hasta": "2026/05/07 10:34",
+         "URL": "https://ddp-studios.itch.io/wane-spore",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -519,6 +509,16 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-text-to-image-converter-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Compare Two Lists",
+         "Informacion": "Compare Two Lists es una herramienta de comparaci\u00f3n de listas que puede realizar operaciones de conjuntos en listas de texto. Copie y pegue sus listas en el programa, luego haga clic en el bot\u00f3n `Comparar` para obtener la diferencia entre las dos listas. Puede comparar varias listas sin tener que escribir funciones de Excel para realizar la tarea. Funciones: Establecer intersecciones (Y), Establecer uniones (O) y Establecer diferencias. Las opciones incluyen distinguir entre may\u00fasculas y min\u00fasculas, ignorar espacios en blanco.",
+         "Desde": "",
+         "Hasta": "2026/05/11 07:00",
+         "URL": "https://sharewareonsale.com/s/free-compare-two-lists-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -757,6 +757,16 @@
          "Desde": "",
          "Hasta": "2026/05/18 13:35",
          "URL": "https://fenixapple.itch.io/sonambula",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Another World Adventures by S Xavier Uy",
+         "Informacion": "Tres estudiantes de secundaria fueron transportados a otro mundo. Shuichiro, el raro al que le encanta usar mascota, Takeshi, el popular llamado pr\u00edncipe del tenis en la escuela, y Tosaka, la chica tranquila. Han sido enviados a un bosque desconocido sin tener ninguna pista y uno de ellos se convirti\u00f3 en un duende, sin conocimiento actual, \u00bfc\u00f3mo superar\u00e1n todo esto?",
+         "Desde": "",
+         "Hasta": "2026/05/20 10:33",
+         "URL": "https://s-xavier-uy.itch.io/another-world-adventures",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
