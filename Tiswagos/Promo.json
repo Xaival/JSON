@@ -1,166 +1,6 @@
 {
-   "date_update": "07 May 2026 16:14 UTC",
+   "date_update": "08 May 2026 16:13 UTC",
    "values": [
-      {
-         "Nombre": "No More Room in Hell 2",
-         "Informacion": "\u00a1Juega gratis! No More Room in Hell 2 es un intenso shooter de zombies para 8 jugadores. Supera a los interminables muertos vivientes. Evite la infecci\u00f3n. Sobrevivir juntos al infierno.",
-         "Desde": "",
-         "Hasta": "2026/05/07 10:00",
-         "URL": "https://store.steampowered.com/app/292000/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "World of Warships \u2014 Marblehead Lima",
-         "Informacion": "Este contenido requiere el juego base World of Warships en Steam para poder jugar.",
-         "Desde": "",
-         "Hasta": "2026/05/07 10:00",
-         "URL": "https://store.steampowered.com/app/934690/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Wane Spore by DDP Games",
-         "Informacion": "Despu\u00e9s de que tu avi\u00f3n se estrellara inesperadamente, ahora te encuentras varado en un bosque llamado Wane Spore Forest.",
-         "Desde": "",
-         "Hasta": "2026/05/07 10:34",
-         "URL": "https://ddp-studios.itch.io/wane-spore",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
-      },
-      {
-         "Nombre": "After Closure by Limeless",
-         "Informacion": "After\u00a0Close\u00a0es un breve juego de terror psicol\u00f3gico en primera persona ambientado en una tienda de ropa fuera de horario.",
-         "Desde": "",
-         "Hasta": "2026/05/07 13:30",
-         "URL": "https://limelessstudio.itch.io/afterclosure",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
-      },
-      {
-         "Nombre": "WinToHDD Professional \u2013 Install, Reinstall, Clone Windows Without CD/DVD/USB Drive",
-         "Informacion": "WinToHDD Professional es una aplicaci\u00f3n que ayuda a los usuarios a instalar un sistema operativo nuevo o paralelo sin DVD o USB; s\u00f3lo necesitas un archivo .iso. Normalmente, para instalar un sistema operativo, utilizar\u00e1 un instalador de DVD o descargar\u00e1 el instalador de Internet e instalar\u00e1 a trav\u00e9s de USB, pero con la ayuda de WinToHDD, todo su trabajo se simplificar\u00e1.",
-         "Desde": "",
-         "Hasta": "2026/05/07 14:00",
-         "URL": "https://giveaway.tickcoupon.com/wintohdd-professional-free-license-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "The Adventure of Baka-dono by Ulysses7, iGrox01, Kumail A Jafri, @Mainlyom",
-         "Informacion": "Nota importante: si el juego tiene retrasos, habilite la aceleraci\u00f3n de hardware en la configuraci\u00f3n de su navegador. p.ej. Si est\u00e1 utilizando Edge, vaya a Edge://settings/system, seleccione aceleraci\u00f3n de gr\u00e1ficos y habilite la opci\u00f3n \"Usar aceleraci\u00f3n de gr\u00e1ficos cuando est\u00e9 disponible\".",
-         "Desde": "",
-         "Hasta": "2026/05/07 15:24",
-         "URL": "https://ulysses7.itch.io/the-adventure-of-baka-dono",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
-      },
-      {
-         "Nombre": "Firestone Online Idle RPG",
-         "Informacion": "*Firestone: Online Idle RPG* es un juego de fantas\u00eda multijugador. \u00a1Colecciona h\u00e9roes\ud83e\uddd9\u200d\u2642\ufe0f, mejora su equipo y habilidades, y env\u00edalos a batallas AFK o disfruta de un frenes\u00ed incremental de clics para vencer a jefes monstruosos! Chatea con amigos del gremio o participa en PVP\u2694\ufe0f.",
-         "Desde": "2026/04/30",
-         "Hasta": "2026/05/07 17:00",
-         "URL": "https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Oddsparks: An Automation Adventure",
-         "Informacion": "Oddsparks: An Automation Adventure es una mezcla de automatizaci\u00f3n y estrategia en tiempo real tanto para los fans ac\u00e9rrimos del g\u00e9nero de la automatizaci\u00f3n como para los que sienten curiosidad por \u00e9l.",
-         "Desde": "2026/04/30",
-         "Hasta": "2026/05/07 17:00",
-         "URL": "https://store.epicgames.com/p/oddsparks-58440c",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Circus Hon\u00c5\u008dris by TheLoneGameDev",
-         "Informacion": "Circus Hon\u00c5ris te lleva al coraz\u00f3n de la arena romana, donde s\u00f3lo la habilidad y el acero determinan tu destino.",
-         "Desde": "",
-         "Hasta": "2026/05/07 22:30",
-         "URL": "https://thelonegamedev.itch.io/circus-honris",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Echoes of Freedom by TheLoneGameDev",
-         "Informacion": "Inspirada en acontecimientos reales de la Batalla de la Colina 731, conocida como el Verd\u00fan de la Guerra Greco-Italiana, esta breve experiencia en primera persona combina historia y atm\u00f3sfera para honrar a aquellos que se mantuvieron firmes frente a obst\u00e1culos imposibles.",
-         "Desde": "",
-         "Hasta": "2026/05/07 22:30",
-         "URL": "https://thelonegamedev.itch.io/echos-of-freedom",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Locker Key Free (100% Discount)",
-         "Informacion": "Cifrar sus archivos PDF con una contrase\u00f1a segura es una excelente manera de evitar que sus archivos se abran o editen sin su permiso. Coolmuster PDF Locker es la aplicaci\u00f3n m\u00e1s sencilla para esto; Este software de cifrado de PDF admite tres sistemas de cifrado diferentes, incluidos RC4 de 40 bits, RC4 de 128 bits y AES de 128 bits. Coolmuster PDF Locker se ejecuta desde Windows XP hasta Windows 11 (la \u00faltima versi\u00f3n).",
-         "Desde": "",
-         "Hasta": "2026/05/08 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-locker-license-key-free/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "CBackup Professional",
-         "Informacion": "CBackup es un software de copia de seguridad de Windows que ayuda a los usuarios a realizar copias de seguridad y proteger autom\u00e1ticamente archivos importantes en unidades locales, dispositivos de almacenamiento externos o ubicaciones de red.",
-         "Desde": "",
-         "Hasta": "2026/05/08 07:00",
-         "URL": "https://sharewareonsale.com/s/free-cbackup-professional-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Imagelys Picture Lab",
-         "Informacion": "\u00bfQu\u00e9 puede hacer Imagelys Picture Lab?",
-         "Desde": "",
-         "Hasta": "2026/05/08 07:00",
-         "URL": "https://sharewareonsale.com/s/free-imagelys-picture-lab-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "IObit Software Updater Pro",
-         "Informacion": "Instale actualizaciones seguras de aplicaciones de fuentes confiables, r\u00e1pidamente",
-         "Desde": "",
-         "Hasta": "2026/05/08 09:00",
-         "URL": "https://www.bitsdujour.com/software/iobit-software-updater-pro/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "Indy",
-         "Informacion": "Tengan en cuenta amigos: la promoci\u00f3n gratuita de 6 meses est\u00e1 limitada a los primeros 500 participantes.",
-         "Desde": "",
-         "Hasta": "2026/05/08 09:00",
-         "URL": "https://www.bitsdujour.com/software/indy/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "Piscatorem - The Angling Simulator by Passers-by",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/08 09:00",
-         "URL": "https://passers-by.itch.io/piscatorem",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Free Imagelys Picture Lab License for Photo Effects 2026",
          "Informacion": "Trabajar con fotograf\u00edas normales puede resultar limitante cuando deseas un resultado m\u00e1s art\u00edstico pero no quieres pasar horas aprendiendo herramientas de edici\u00f3n avanzadas. Muchos usuarios simplemente quieren una forma m\u00e1s r\u00e1pida de agregar textura, cambiar el tono de una imagen o convertir una foto b\u00e1sica en algo m\u00e1s creativo. Imagelys Picture Lab est\u00e1 dise\u00f1ado para ese tipo de flujo de trabajo, ayudando a los usuarios a generar efectos visuales, fondos e im\u00e1genes estilizadas con solo unos pocos ajustes. Puede resultar \u00fatil para aficionados, artistas digitales, dise\u00f1adores y cualquiera a quien le guste experimentar con la apariencia de las im\u00e1genes en una PC con Windows. A trav\u00e9s de este sorteo de Imagelys Picture Lab, los usuarios elegibles pueden obtener la versi\u00f3n 9.6 sin costo para uso personal.",
@@ -169,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/imagelys-picture-lab-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Ashampoo Background Remover 2 [with AI]",
@@ -179,7 +19,7 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-background-remover-2-with-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
@@ -482,6 +322,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster Data Recovery (100% Discount)",
+         "Informacion": "Coolmuster Data Recovery es hoy un software de recuperaci\u00f3n de datos profesional y con todas las funciones. Combina una interfaz de usuario altamente intuitiva para ayudar a los usuarios a recuperar archivos eliminados, formateados o inaccesibles de todo tipo de discos duros. Esta herramienta hace posible que cualquiera recupere documentos, correos electr\u00f3nicos, fotos, videos, archivos de audio y m\u00e1s desde varios discos.",
+         "Desde": "",
+         "Hasta": "2026/05/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-data-recovery-free-license-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Static Voice by KadderaGames",
          "Informacion": "Juegas como Artyom, un residente que vive en un antiguo bloque de apartamentos sovi\u00e9tico. Despu\u00e9s de que una explosi\u00f3n masiva en una f\u00e1brica liberara una neurotoxina mortal, el edificio qued\u00f3 en silencio. Su amigo Viktor dej\u00f3 planos de un dispositivo de radio. Ahora, Artyom debe buscar piezas electr\u00f3nicas para construir un transmisor SOS en el techo y pedir ayuda.",
          "Desde": "",
@@ -682,16 +532,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Mystery Game 2",
-         "Informacion": "Mystery Game 2",
-         "Desde": "2026/05/14",
-         "Hasta": "2026/05/21 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
-      },
-      {
          "Nombre": "Mystery Game 1",
          "Informacion": "Mystery Game 1",
          "Desde": "2026/05/14",
@@ -700,6 +540,26 @@
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Lizard Lady vs the Cats by The Voices Games",
+         "Informacion": "Usando sus poderes de anonimato inexplicable, la vigilante enmascarada Lizard Lady quiere acabar con la famosa pandilla de gatos de una vez por todas.",
+         "Desde": "",
+         "Hasta": "2026/05/21 23:04",
+         "URL": "https://thewgreen.itch.io/lizard-lady-vs-the-cats",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lady in a Leotard With a Gun by The Voices Games",
+         "Informacion": "Shooter corto en tercera persona donde disparas a todos los enemigos y vas a la salida.",
+         "Desde": "",
+         "Hasta": "2026/05/21 23:04",
+         "URL": "https://thewgreen.itch.io/lady-in-a-leotard-with-a-gun",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Horror Hotel by GameDevMkss",
@@ -1052,6 +912,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "ChoronosCityA\u00c4\u00b0Detective by GameBuegar",
+         "Informacion": "\u00a1Hola a todos! He estado trabajando en este proyecto por un tiempo y estoy muy emocionado de finalmente compartirlo con ustedes.",
+         "Desde": "",
+         "Hasta": "2026/06/01 15:55",
+         "URL": "https://gamebuegar.itch.io/choronoscityadetective",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MiniColonyAdventures \u00e2\u0080\u0093 Build, Expand & Survive by GameBuegar",
+         "Informacion": "\u00a1Bienvenido a ColonyAdventure, un encantador juego de simulaci\u00f3n de aldea profundamente interactivo donde cada decisi\u00f3n da forma al futuro de tu asentamiento! Comienza con una humilde fogata en el desierto y gu\u00eda a tus colonos para construir una aldea pr\u00f3spera y autosuficiente.",
+         "Desde": "",
+         "Hasta": "2026/06/01 15:55",
+         "URL": "https://gamebuegar.itch.io/colonyadventure",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Pigeon West: Call Of Gun. ISEKAI by Blue harpy",
          "Informacion": "\u00bfY si el criminal m\u00e1s peligroso de todo el Lejano Oeste terminara en el isekai m\u00e1s t\u00edpico... y ni siquiera como personaje principal?",
          "Desde": "",
@@ -1172,6 +1052,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Glarysoft Malware Hunter Pro Key Free 2026",
+         "Informacion": "Glarysoft Malware Hunter Pro es un potente software dise\u00f1ado para proporcionar a los clientes capacidades integrales de protecci\u00f3n y detecci\u00f3n de virus. Ayuda a proteger contra todo tipo de amenazas, proteger datos, proteger la privacidad y garantizar que su PC permanezca libre de virus. El software ofrece un modo de hiperescaneo r\u00e1pido, que permite a los usuarios identificar y eliminar r\u00e1pidamente archivos maliciosos y amenazas potenciales. Su sistema de protecci\u00f3n activa monitorea constantemente cualquier actividad sospechosa. Adem\u00e1s, Malware Hunter Pro incluye herramientas de optimizaci\u00f3n del sistema para optimizar el rendimiento de la PC y mantenerla siempre limpia y segura.",
+         "Desde": "",
+         "Hasta": "2026/06/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/malware-hunter-pro-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wolf of The Desert by AJInteractive",
          "Informacion": "\u00a1Te col\u00f3, crea la plataforma tus superpoderes, destruye y hackea dispositivos de seguridad, desaparecen, teletransportan enemigos y descubre misterios!",
          "Desde": "",
@@ -1187,6 +1077,16 @@
          "Desde": "",
          "Hasta": "2026/08/30 12:00",
          "URL": "https://giveaway.tickcoupon.com/winxvideo-ai-free-key-download/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WinX DVD Copy Pro Key Free (100% Discount)",
+         "Informacion": "Winx DVD Copy Pro es uno de los mejores programas de software de copia y grabaci\u00f3n de DVD disponibles en el mercado. Puede copiar DVD a DVD, copiar DVD a im\u00e1genes ISO o copiar DVD al formato de archivo MPEG2 con contenido constante para usar en la creaci\u00f3n de bibliotecas de DVD o la grabaci\u00f3n de DVD en una PS3 o HTPC.",
+         "Desde": "",
+         "Hasta": "2026/08/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/winx-dvd-copy-pro-giveaway/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
