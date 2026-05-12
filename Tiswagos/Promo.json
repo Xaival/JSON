@@ -1,46 +1,6 @@
 {
-   "date_update": "11 May 2026 16:14 UTC",
+   "date_update": "12 May 2026 17:57 UTC",
    "values": [
-      {
-         "Nombre": "Crazy Tank Battle (Local Multiplayer) v 0.2 by Shin games",
-         "Informacion": "\u00a1Un juego de batalla de tanques multijugador local que puedes jugar en el mismo dispositivo!",
-         "Desde": "",
-         "Hasta": "2026/05/11 11:01",
-         "URL": "https://shin-games.itch.io/tanks",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Good Boy 2 by thealphagurlux",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/11 20:37",
-         "URL": "https://thealphagurlux.itch.io/good-boy-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "Pulp Action Shotgun - Arena by Tom Cuthbertson",
-         "Informacion": "SOBREVIVIR O MORIR. Enfr\u00e9ntate a los engendros del infierno en PULP ACTION SHOTGUN, un juego de disparos boomer de base redonda en el que luchas \u00fanicamente con tu Ol\u00e2 Reliable Shotgun. Usa el retroceso para impulsarte a trav\u00e9s de los cielos a medida que el caos se acerca. Cuanto m\u00e1s aguantes, m\u00e1s duros se volver\u00e1n los enemigos.",
-         "Desde": "",
-         "Hasta": "2026/05/11 21:12",
-         "URL": "https://tomcuthbertson.itch.io/pulp-action-shotgun-arena",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "The Molded Stickmonster by Eiva Ceaviryn",
-         "Informacion": "El moho se ha extendido por todas las superficies. Las ventanas est\u00e1n tapiadas. Todav\u00eda hay algo dentro contigo.",
-         "Desde": "",
-         "Hasta": "2026/05/12 08:00",
-         "URL": "https://eiva-ceaviryn.itch.io/the-molded-stickmonster",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
       {
          "Nombre": "Still Alive by 0zanM",
          "Informacion": "El apocalipsis zombie se ha extendido por todo el mundo. El fin de la humanidad est\u00e1 cerca. Has o\u00eddo que se ha desarrollado una cura en un laboratorio.\u00a0Est\u00e1s intentando encontrar la cura en el laboratorio para poner fin a este apocalipsis.",
@@ -49,7 +9,7 @@
          "URL": "https://0zanm.itch.io/still-alive",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 100%, yellow 100%) 1;"
       },
       {
          "Nombre": "LyricRadar 1-Year License Free (100% Discount)",
@@ -59,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/lyricradar-free-registration-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 83%, yellow 83%) 1;"
       },
       {
          "Nombre": "Lord of Chaos by Hexnut Studios",
@@ -69,7 +29,7 @@
          "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 66%, yellow 66%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF to ePub Converter (100% Discount)",
@@ -79,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-epub-converter-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
       },
       {
          "Nombre": "Don't Stop In Red Wood: Chapter One & Two v2.0 by Noxus Games Studio",
@@ -89,7 +49,7 @@
          "URL": "https://noxusgamesstudio.itch.io/dont-stop-in-red-wood-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
       },
       {
          "Nombre": "HDR Projects 10 [with AI]",
@@ -99,7 +59,7 @@
          "URL": "https://sharewareonsale.com/s/free-hdr-projects-10-with-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
       },
       {
          "Nombre": "Lurking Shadows by FREE_GAMES - UA",
@@ -149,6 +109,16 @@
          "URL": "https://store.epicgames.com/p/trash-goblin-cd5fd7",
          "IMG": "",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Good Boy 2 by thealphagurlux",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/05/14 20:37",
+         "URL": "https://thealphagurlux.itch.io/good-boy-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -272,6 +242,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Glarysoft Software Update Pro Free (100% Discount)",
+         "Informacion": "Glarysoft Software Update Pro es un potente actualizador de software que escanea su computadora y le notifica sobre las actualizaciones disponibles. Con esta herramienta, ya no tendr\u00e1 que perder el tiempo buscando y buscando actualizaciones. Analiza autom\u00e1ticamente su computadora en busca de software desactualizado y proporciona una forma sencilla de descargar e instalar las \u00faltimas versiones. Al mantener sus programas actualizados, puede beneficiarse de las funciones, parches de seguridad y mejoras de rendimiento m\u00e1s recientes.",
+         "Desde": "",
+         "Hasta": "2026/05/16 15:00",
+         "URL": "https://giveaway.tickcoupon.com/glarysoft-software-update-pro-free-license/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "False Title - RPG by S Xavier Uy",
          "Informacion": "Tenji fue transportado a otro mundo, es un mundo diferente comparado con su lugar donde vive habitualmente. Las cosas son bastante complicadas en este mundo, hay conflictos, invasi\u00f3n de demonios, etc. \u00bfAlguien como Tenji podr\u00eda adaptarse a este nuevo entorno? De vuelta en su mundo, Tenji ya domina la adaptabilidad, una de las partes m\u00e1s importantes del conocimiento humano.",
          "Desde": "",
@@ -382,6 +362,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "Despu\u00e9s del \u00e9xito de Euli Beuli STRIKE, regresa el popular b\u00faho, \u00a1esta vez en una aventura completamente nueva! Euli Beuli RUN trae el encantador universo de Euli Beuli al g\u00e9nero de corredores sin fin, ofreciendo una experiencia de juego desafiante y trepidante en un estilo cl\u00e1sico de pixel art.",
+         "Desde": "",
+         "Hasta": "2026/05/17 15:00",
+         "URL": "https://roega.itch.io/euli-beuli-run",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Selvema by Wenudu",
          "Informacion": "Motor irreal 5.7.4",
          "Desde": "",
@@ -469,6 +459,16 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-ocr-reader-license-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Emily_ by TETRABYTE",
+         "Informacion": "LA IA OLVIDADA",
+         "Desde": "",
+         "Hasta": "2026/05/18 22:37",
+         "URL": "https://tetrabyte.itch.io/emily",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
