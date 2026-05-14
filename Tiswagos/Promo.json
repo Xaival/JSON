@@ -1,26 +1,6 @@
 {
-   "date_update": "13 May 2026 16:13 UTC",
+   "date_update": "14 May 2026 16:13 UTC",
    "values": [
-      {
-         "Nombre": "Lurking Shadows by FREE_GAMES - UA",
-         "Informacion": "\u00d0\u00a3\u00d0\u00d0\u00a0\u00d0\u00d0\u00d0\u00d0\u00a1\u00d0\u00ac\u00d0\u00d0",
-         "Desde": "",
-         "Hasta": "2026/05/13 15:29",
-         "URL": "https://free-games-ua.itch.io/lurking-shadows",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Commander",
-         "Informacion": "Administre, edite y vea sus fotos digitales",
-         "Desde": "",
-         "Hasta": "2026/05/14 09:00",
-         "URL": "https://www.bitsdujour.com/software/ashampoo-photo-commander/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Red Princess by Locolo",
          "Informacion": "",
@@ -29,7 +9,7 @@
          "URL": "https://locolo.itch.io/red-princess",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Coolmuster Android Backup Manager (100% Discount) 2026",
@@ -39,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-backup-manager-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Tipard Video Converter Key Free (100% Discount)",
@@ -49,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/get-free-key-tipard-video-converter/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Arranger: A Role-Puzzling Adventure",
@@ -59,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Trash Goblin",
@@ -69,7 +49,7 @@
          "URL": "https://store.epicgames.com/p/trash-goblin-cd5fd7",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Good Boy 2 by thealphagurlux",
@@ -79,7 +59,7 @@
          "URL": "https://thealphagurlux.itch.io/good-boy-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Enlightment Now! by Dancing Dots",
@@ -89,7 +69,7 @@
          "URL": "https://dancingdots.itch.io/enlightment-now",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Zen Men by Dancing Dots",
@@ -99,7 +79,7 @@
          "URL": "https://dancingdots.itch.io/zen-men",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Zen Space by Dancing Dots",
@@ -109,7 +89,7 @@
          "URL": "https://dancingdots.itch.io/zenspace",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Coolmuster Data Recovery (100% Discount)",
@@ -119,7 +99,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-data-recovery-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "PC Game Booster PRO",
@@ -129,7 +109,7 @@
          "URL": "https://sharewareonsale.com/s/free-pc-game-booster-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Static Voice by KadderaGames",
@@ -512,6 +492,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Evertrust Life And Beyond (Full Game) by After Life Craft",
+         "Informacion": "Algunos jugadores notan que algo anda mal. Otros no notan nada en absoluto.",
+         "Desde": "",
+         "Hasta": "2026/05/21 09:30",
+         "URL": "https://after-life-craft.itch.io/evertrust-life-beyond",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Mystery Game 1",
          "Informacion": "Mystery Game 1",
          "Desde": "2026/05/14",
@@ -519,7 +509,27 @@
          "URL": "https://store.epicgames.com/es-ES/free-games",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Telltale Batman Shadows Edition",
+         "Informacion": "The Telltale Batman Shadows Edition",
+         "Desde": "2026/05/14",
+         "Hasta": "2026/05/21 17:00",
+         "URL": "https://store.epicgames.com/p/the-telltale-batman",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sunderfolk - Standard Edition",
+         "Informacion": "Sunderfolk - Standard Edition",
+         "Desde": "2026/05/14",
+         "Hasta": "2026/05/21 17:00",
+         "URL": "https://store.epicgames.com/p/sunderfolk-standard-edition-83c05e",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Lady in a Leotard With a Gun by The Voices Games",
@@ -577,6 +587,56 @@
          "Desde": "",
          "Hasta": "2026/05/27 20:37",
          "URL": "https://devroids.itch.io/ghostprint",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DON\u00e2\u0080\u0099T DO IT by Worst Event Games, MetaMagicShaman",
+         "Informacion": "Un juego corto sobre la tentaci\u00f3n de tomar una raya de \"polvo\" en un ba\u00f1o, ofrecido por una bella desconocida en una fiesta salvaje.",
+         "Desde": "",
+         "Hasta": "2026/05/28 11:59",
+         "URL": "https://worsteventgames.itch.io/dont-do-it",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Worst Wifey (\u00e3\u0083\u00af\u00e3\u0083\u00ab\u00e5\u00ab\u0081) by Worst Event Games, Mehran Goudarzi, MetaMagicShaman",
+         "Informacion": "\u00bfSientes que tu escritorio est\u00e1 demasiado solo? Un lindo compa\u00f1ero de escritorio malo que te har\u00e1 compa\u00f1\u00eda e iluminar\u00e1 tu pantalla. \u00a1con EXTRA F\u00cdSICA!",
+         "Desde": "",
+         "Hasta": "2026/05/28 11:59",
+         "URL": "https://worsteventgames.itch.io/worst-wifey",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Very Realistic Game Dev Simulator by Worst Event Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/05/28 11:59",
+         "URL": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
+         "Desde": "",
+         "Hasta": "2026/05/28 11:59",
+         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se aver\u00eda.",
+         "Desde": "",
+         "Hasta": "2026/05/28 11:59",
+         "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -767,6 +827,16 @@
          "Desde": "",
          "Hasta": "2026/05/31 15:00",
          "URL": "https://roega.itch.io/super-euli-beuli",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
+         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
+         "Desde": "",
+         "Hasta": "2026/05/31 16:38",
+         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1029,7 +1099,7 @@
          "URL": "https://store.epicgames.com/p/castlevania-anniversary-collection-a61f94",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Eternal Threads",
@@ -1039,7 +1109,7 @@
          "URL": "https://store.epicgames.com/p/eternal-threads-197169",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Ghostrunner 2",
@@ -1049,7 +1119,7 @@
          "URL": "https://store.epicgames.com/p/ghostrunner-2",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Monument Valley",
@@ -1059,7 +1129,7 @@
          "URL": "https://store.epicgames.com/p/monument-valley-1d99d3",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Tangled Void by Jarp.pix",
