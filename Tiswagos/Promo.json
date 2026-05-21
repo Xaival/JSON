@@ -1,76 +1,6 @@
 {
-   "date_update": "20 May 2026 16:13 UTC",
+   "date_update": "21 May 2026 16:13 UTC",
    "values": [
-      {
-         "Nombre": "Another World Adventures by S Xavier Uy",
-         "Informacion": "Tres estudiantes de secundaria fueron transportados a otro mundo. Shuichiro, el raro al que le encanta usar mascota, Takeshi, el popular llamado pr\u00edncipe del tenis en la escuela, y Tosaka, la chica tranquila. Han sido enviados a un bosque desconocido sin tener ninguna pista y uno de ellos se convirti\u00f3 en un duende, sin conocimiento actual, \u00bfc\u00f3mo superar\u00e1n todo esto?",
-         "Desde": "",
-         "Hasta": "2026/05/20 10:33",
-         "URL": "https://s-xavier-uy.itch.io/another-world-adventures",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
-      },
-      {
-         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Despu\u00e9s del \u00e9xito de Euli Beuli STRIKE, regresa el popular b\u00faho, \u00a1esta vez en una aventura completamente nueva! Euli Beuli RUN trae el encantador universo de Euli Beuli al g\u00e9nero de corredores sin fin, ofreciendo una experiencia de juego desafiante y trepidante en un estilo cl\u00e1sico de pixel art.",
-         "Desde": "",
-         "Hasta": "2026/05/20 15:00",
-         "URL": "https://roega.itch.io/euli-beuli-run",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "Crazy Tank Battle (Local Multiplayer) v 0.3 by Shin games",
-         "Informacion": "\u00a1Un juego de batalla de tanques multijugador local que puedes jugar en el mismo dispositivo!",
-         "Desde": "",
-         "Hasta": "2026/05/20 16:13",
-         "URL": "https://shin-games.itch.io/tanks",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 71%, yellow 71%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/20 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Lucky Newt (Proto) by Iyanda",
-         "Informacion": "\u00a1Comprenda que este juego es un prototipo de trabajo en progreso y, al comprarlo, apoya el desarrollo activo de contenido nuevo (para la versi\u00f3n paga) en un futuro cercano!",
-         "Desde": "",
-         "Hasta": "2026/05/20 21:52",
-         "URL": "https://iyanda.itch.io/lucky-newt-proto",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "UN JUEGO CORTO DE TERROR",
-         "Desde": "",
-         "Hasta": "2026/05/20 22:40",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Advanced SystemCare PRO - 6 months / 1 PC",
-         "Informacion": "Una utilidad del sistema para una salud superior de la PC",
-         "Desde": "",
-         "Hasta": "2026/05/21 09:00",
-         "URL": "https://www.bitsdujour.com/software/advanced-windowscare-professional/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Evertrust Life And Beyond (Full Game) by After Life Craft",
          "Informacion": "Algunos jugadores notan que algo anda mal. Otros no notan nada en absoluto.",
@@ -79,7 +9,7 @@
          "URL": "https://after-life-craft.itch.io/evertrust-life-beyond",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
       },
       {
          "Nombre": "Mystery Game 1",
@@ -89,7 +19,7 @@
          "URL": "https://store.epicgames.com/es-ES/free-games",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Sunderfolk - Standard Edition",
@@ -99,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/sunderfolk-standard-edition-83c05e",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "The Telltale Batman Shadows Edition",
@@ -109,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/the-telltale-batman",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Lady in a Leotard With a Gun by The Voices Games",
@@ -119,7 +49,7 @@
          "URL": "https://thewgreen.itch.io/lady-in-a-leotard-with-a-gun",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Lizard Lady vs the Cats by The Voices Games",
@@ -129,7 +59,7 @@
          "URL": "https://thewgreen.itch.io/lizard-lady-vs-the-cats",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Coolmuster iCloud Backup Recovery (100% Discount)",
@@ -139,7 +69,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-icloud-backup-recovery/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "VideoProc Converter AI",
@@ -149,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-videoproc-converter-ai-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "VideoProc Converter AI Free (100% Discount) 2026",
@@ -247,6 +177,16 @@
          "Desde": "",
          "Hasta": "2026/05/24 17:39",
          "URL": "https://takori-x-takuminet.itch.io/the-last-customer",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/05/24 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -502,6 +442,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Hiveblast by The Voices Games",
+         "Informacion": "Dispara a todas las colmenas. 3 niveles",
+         "Desde": "",
+         "Hasta": "2026/05/28 09:01",
+         "URL": "https://thewgreen.itch.io/hiveblast",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
          "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se aver\u00eda.",
          "Desde": "",
@@ -559,6 +509,26 @@
          "URL": "https://intimidation-crab.itch.io/first-person-stapler",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Down in Bermuda",
+         "Informacion": "Down in Bermuda",
+         "Desde": "2026/05/21",
+         "Hasta": "2026/05/28 17:00",
+         "URL": "https://store.epicgames.com/p/down-in-bermuda",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tomb Raider I-III Remastered Starring Lara Croft",
+         "Informacion": "Tomb Raider I-III Remastered Starring Lara Croft",
+         "Desde": "2026/05/21",
+         "Hasta": "2026/05/28 17:00",
+         "URL": "https://store.epicgames.com/p/tomb-raider-iiii-remastered-538640",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -832,6 +802,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "IncorpoScape by Robert Dolega",
+         "Informacion": "Al instalar, iniciar o utilizar el juego, confirmas tu total aceptaci\u00f3n del Acuerdo de licencia de usuario final (EULA).",
+         "Desde": "",
+         "Hasta": "2026/05/31 18:40",
+         "URL": "https://robertdolega.itch.io/incorposcape",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Insects Clutch by ExeSmith",
          "Informacion": "Disfruta de un colorido mundo de insectos donde todo depende de tus habilidades estrat\u00e9gicas.",
          "Desde": "",
@@ -897,6 +877,16 @@
          "Desde": "",
          "Hasta": "2026/06/01 02:04",
          "URL": "https://1010meha.itch.io/larger-than-light",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Nocturne Case File: 1987 by Takori",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/06/01 03:30",
+         "URL": "https://takori-x-takuminet.itch.io/nocturne-case-file-1987",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1012,6 +1002,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "UN JUEGO CORTO DE TERROR",
+         "Desde": "",
+         "Hasta": "2026/06/03 22:40",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Signal Room by SlothCube Studios",
          "Informacion": "Bienvenido a Signal Room: Parte 1 Juegas como Elias, un trabajador privado que rastrea se\u00f1ales de radio/ondas para el FBI. Un d\u00eda, aparecen se\u00f1ales inusuales desde un lugar llamado Bertrand Manor. Pero las se\u00f1ales se repiten constantemente y la mansi\u00f3n no aparece. El FBI env\u00eda a Elias a buscar la fuente de las se\u00f1ales para descubrir qu\u00e9 est\u00e1 pasando realmente. \u00bfPodr\u00e1s descubrir el verdadero misterio de estas se\u00f1ales o todo esto es parte de algo m\u00e1s siniestro?",
          "Desde": "",
@@ -1042,16 +1042,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sonambula by Fenixapple",
-         "Informacion": "Sonambula: es una breve experiencia de terror psicol\u00f3gico que se desplaza a trav\u00e9s de una realidad distorsionada y los pensamientos inexplorados de su personaje principal.",
-         "Desde": "",
-         "Hasta": "2026/06/08 13:35",
-         "URL": "https://fenixapple.itch.io/sonambula",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Fractured: Roadwood Stop by Fenixapple",
          "Informacion": "Fractured: un horror epis\u00f3dico psicol\u00f3gico que expone la verdadera pesadilla de nuestro mundo.",
          "Desde": "",
@@ -1067,6 +1057,16 @@
          "Desde": "",
          "Hasta": "2026/06/08 13:35",
          "URL": "https://fenixapple.itch.io/fractured",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sonambula by Fenixapple",
+         "Informacion": "Sonambula: es una breve experiencia de terror psicol\u00f3gico que se desplaza a trav\u00e9s de una realidad distorsionada y los pensamientos inexplorados de su personaje principal.",
+         "Desde": "",
+         "Hasta": "2026/06/08 13:35",
+         "URL": "https://fenixapple.itch.io/sonambula",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
