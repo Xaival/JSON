@@ -1,86 +1,6 @@
 {
-   "date_update": "21 May 2026 16:13 UTC",
+   "date_update": "22 May 2026 16:15 UTC",
    "values": [
-      {
-         "Nombre": "Evertrust Life And Beyond (Full Game) by After Life Craft",
-         "Informacion": "Algunos jugadores notan que algo anda mal. Otros no notan nada en absoluto.",
-         "Desde": "",
-         "Hasta": "2026/05/21 09:30",
-         "URL": "https://after-life-craft.itch.io/evertrust-life-beyond",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Mystery Game 1",
-         "Informacion": "Mystery Game 1",
-         "Desde": "2026/05/14",
-         "Hasta": "2026/05/21 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Sunderfolk - Standard Edition",
-         "Informacion": "Sunderfolk - Standard Edition",
-         "Desde": "2026/05/14",
-         "Hasta": "2026/05/21 17:00",
-         "URL": "https://store.epicgames.com/p/sunderfolk-standard-edition-83c05e",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "The Telltale Batman Shadows Edition",
-         "Informacion": "The Telltale Batman Shadows Edition",
-         "Desde": "2026/05/14",
-         "Hasta": "2026/05/21 17:00",
-         "URL": "https://store.epicgames.com/p/the-telltale-batman",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
-      },
-      {
-         "Nombre": "Lady in a Leotard With a Gun by The Voices Games",
-         "Informacion": "Shooter corto en tercera persona donde disparas a todos los enemigos y vas a la salida.",
-         "Desde": "",
-         "Hasta": "2026/05/21 23:04",
-         "URL": "https://thewgreen.itch.io/lady-in-a-leotard-with-a-gun",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Lizard Lady vs the Cats by The Voices Games",
-         "Informacion": "Usando sus poderes de anonimato inexplicable, la vigilante enmascarada Lizard Lady quiere acabar con la famosa pandilla de gatos de una vez por todas.",
-         "Desde": "",
-         "Hasta": "2026/05/21 23:04",
-         "URL": "https://thewgreen.itch.io/lizard-lady-vs-the-cats",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster iCloud Backup Recovery (100% Discount)",
-         "Informacion": "Coolmuster iCloud Backup Recovery es una utilidad de restauraci\u00f3n de datos de iOS que extrae categor\u00edas de archivos espec\u00edficas de los archivos de copia de seguridad de Apple iCloud. El software recupera activos multimedia (fotos, v\u00eddeos), metadatos de comunicaci\u00f3n (historial de llamadas, mensajes) y bases de datos de contactos. Realiza recuperaci\u00f3n de datos para archivos perdidos debido a eliminaci\u00f3n accidental, errores de sincronizaci\u00f3n o compromiso f\u00edsico del dispositivo iOS de origen.",
-         "Desde": "",
-         "Hasta": "2026/05/22 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-icloud-backup-recovery/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "VideoProc Converter AI",
-         "Informacion": "La herramienta definitiva impulsada por IA para escalar videos a 4K, mejorar la calidad de la imagen, estabilizar im\u00e1genes inestables y aumentar los fps.",
-         "Desde": "",
-         "Hasta": "2026/05/22 07:00",
-         "URL": "https://sharewareonsale.com/s/free-videoproc-converter-ai-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
       {
          "Nombre": "VideoProc Converter AI Free (100% Discount) 2026",
          "Informacion": "VideoProc Converter AI es un software de procesamiento de video r\u00e1pido que aprovecha al m\u00e1ximo la aceleraci\u00f3n de GPU de nivel 3. Como caja de herramientas de v\u00eddeo completa, puede editar, convertir y procesar f\u00e1cilmente tus v\u00eddeos 4K. No s\u00f3lo esto, tambi\u00e9n destaca en la descarga y grabaci\u00f3n de v\u00eddeos. La versi\u00f3n de Windows de VideoProc Converter AI acaba de actualizarse con tres caracter\u00edsticas destacadas: S\u00faper resoluci\u00f3n: v\u00eddeo/imagen mejorado 2x, 3x o 4x sin perder calidad. La interpolaci\u00f3n de fotogramas aumenta los FPS y la estabilizaci\u00f3n corrige el metraje inestable.",
@@ -89,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/videoproc-converter-full-license-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Follower by GrantRimi",
@@ -99,7 +19,7 @@
          "URL": "https://grantrimi.itch.io/follower",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
       },
       {
          "Nombre": "Late Stops by GrantRimi",
@@ -109,7 +29,7 @@
          "URL": "https://grantrimi.itch.io/late-stops",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
       },
       {
          "Nombre": "Night Clerk by GrantRimi",
@@ -119,7 +39,7 @@
          "URL": "https://grantrimi.itch.io/night-clerk",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
       },
       {
          "Nombre": "Storefront by GrantRimi",
@@ -129,7 +49,17 @@
          "URL": "https://grantrimi.itch.io/storefront",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
+      },
+      {
+         "Nombre": "Advanced SystemCare PRO - 6 months / 1 PC",
+         "Informacion": "Una utilidad del sistema para una salud superior de la PC",
+         "Desde": "",
+         "Hasta": "2026/05/23 09:00",
+         "URL": "https://www.bitsdujour.com/software/advanced-windowscare-professional/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "I'm Coming, Sweetie. by Amu No Games",
@@ -267,6 +197,16 @@
          "Desde": "",
          "Hasta": "2026/05/25 07:50",
          "URL": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Open House by GrantRimi",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/05/25 16:25",
+         "URL": "https://grantrimi.itch.io/open-house",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -432,6 +372,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Car Mechanic Simulator 2018",
+         "Informacion": "Construye y expande tu imperio de servicios de reparaci\u00f3n en este juego de simulaci\u00f3n incre\u00edblemente detallado y altamente realista, donde la atenci\u00f3n a los detalles del autom\u00f3vil es asombrosa. Encuentre autos cl\u00e1sicos y \u00fanicos en el nuevo m\u00f3dulo Barn Find y en el m\u00f3dulo Junkyard. Incluso puedes agregar tu auto hecho por ti mismo en el Editor de autos.",
+         "Desde": "",
+         "Hasta": "2026/05/27 10:00",
+         "URL": "https://store.steampowered.com/app/645630/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ghostprint Demo by DevRoids",
          "Informacion": "Ghostprint\u00a0es un juego de terror en primera persona ambientado en habitaciones oscuras y atmosf\u00e9ricas donde dependes de una c\u00e1mara Polaroid maldita para avanzar. Ciertos lugares del entorno requieren una fotograf\u00eda, y capturar la huella fantasma adecuada remodela el espacio que te rodea. Las paredes se mueven, surgen pasajes y se abre tu camino.",
          "Desde": "",
@@ -439,6 +389,46 @@
          "URL": "https://devroids.itch.io/ghostprint",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "AVS Video ReMaker",
+         "Informacion": "Edite videos, corte y elimine partes no deseadas sin reconversi\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/05/28 07:00",
+         "URL": "https://sharewareonsale.com/s/free-avs-video-remaker-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Warhammer 40,000: Gladius - Relics of War",
+         "Informacion": "Warhammer 40,000: Gladius \u2013 Relics of War te lleva a un mundo de terror y violencia. Cuatro facciones se involucrar\u00e1n en una guerra brutal por el dominio de los recursos del planeta. En el primer juego de estrategia 4X por turnos ambientado en Warhammer 40,000, liderar\u00e1s una de las cuatro facciones \u00fanicas.",
+         "Desde": "",
+         "Hasta": "2026/05/28 09:00",
+         "URL": "https://store.steampowered.com/app/489630/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sunderfolk",
+         "Informacion": "\u00a1Juega gratis! Redescubre la noche de juegos en este juego de rol t\u00e1ctico donde la estrategia compartida da forma a cada turno. Avent\u00farate por Sunderlands con hasta cuatro jugadores en el modo multijugador en l\u00ednea usando el mouse y el teclado o juega en modo cooperativo desde el sof\u00e1 usando los tel\u00e9fonos como controladores. \u00a1Juega las primeras 4 misiones gratis!",
+         "Desde": "",
+         "Hasta": "2026/05/28 09:00",
+         "URL": "https://store.steampowered.com/app/2414270/",
+         "IMG": "",
+         "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Restaurats",
+         "Informacion": "\u00a1Juega gratis! \u00a1Dirige un restaurante medieval con un equipo de ratas como t\u00fa! \u00a1Cocina la comida, t\u00edrala a los invitados, limpia las bebidas debajo de los esqueletos! \u00a1Convi\u00e9rtete en un chef rata legendario y demuestra a orcos y vampiros que en tu restaurante se sirve la carne sangrienta m\u00e1s deliciosa!",
+         "Desde": "",
+         "Hasta": "2026/05/28 09:00",
+         "URL": "https://store.steampowered.com/app/2870920/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -539,6 +529,16 @@
          "URL": "https://xanderx555.itch.io/rogeria-escape",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF to JPG Converter (100% Discount)",
+         "Informacion": "Una herramienta de conversi\u00f3n de PDF para PC sencilla y f\u00e1cil de usar es Coolmuster PDF to JPG Converter. El programa es ideal para realizar la conversi\u00f3n sin esfuerzo de archivos PDF a formato de imagen. Con el uso de esta herramienta, puede convertir archivos PDF de forma r\u00e1pida y eficaz a formatos JPG, PNG, TIF, BMP y GIF. Al utilizar Coolmuster PDF to JPG Converter, puede estar seguro de que las fuentes, el dise\u00f1o y la calidad de imagen originales se conservar\u00e1n en sus im\u00e1genes convertidas.",
+         "Desde": "",
+         "Hasta": "2026/05/29 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-jpg-converter-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -922,6 +922,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "OctoMech Survivors by Arkhamsoft",
+         "Informacion": "Un roguelite de acci\u00f3n mec\u00e1nica de arriba hacia abajo en el que eliges uno de tres\u00a0mechs, ensamblas tus armas y luchas a trav\u00e9s de 8 etapas de enjambres enemigos en aumento.",
+         "Desde": "",
+         "Hasta": "2026/06/01 08:59",
+         "URL": "https://arkhamsoft.itch.io/octomech-survivors",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Dust Horizon Event Pass by Elxuj777",
          "Informacion": "\u00f0\u00a5 DUST HORIZON \u00e2 PASE DEL EVENTO \u00f0\u00a5",
          "Desde": "",
@@ -1010,6 +1020,26 @@
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Mystery Game Week 22 Game 1",
+         "Informacion": "Mystery Game Week 22 Game 1",
+         "Desde": "2026/05/28",
+         "Hasta": "2026/06/04 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Mystery Game Week 22 Game 2",
+         "Informacion": "Mystery Game Week 22 Game 2",
+         "Desde": "2026/05/28",
+         "Hasta": "2026/06/04 17:00",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "The Signal Room by SlothCube Studios",
@@ -1147,6 +1177,16 @@
          "Desde": "",
          "Hasta": "2026/06/18 20:00",
          "URL": "https://all-kinds-of-games.itch.io/color-portals",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Evertrust Life And Beyond (Full Game) by After Life Craft",
+         "Informacion": "Algunos jugadores notan que algo anda mal. Otros no notan nada en absoluto.",
+         "Desde": "",
+         "Hasta": "2026/06/21 09:30",
+         "URL": "https://after-life-craft.itch.io/evertrust-life-beyond",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
