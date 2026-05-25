@@ -1,5 +1,5 @@
 {
-   "date_update": "24 May 2026 16:12 UTC",
+   "date_update": "25 May 2026 16:12 UTC",
    "values": [
       {
          "Direccion": "8.8.8.8 aeffe3nhrua5hua.com #AntiSpam"
@@ -42,6 +42,9 @@
       },
       {
          "Direccion": "8.8.8.8 1osb.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 303bus.net #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 acscdn.com #AntiSpam"
@@ -3590,6 +3593,9 @@
          "Direccion": "8.8.8.8 nextadblocker.com #AntiSpam"
       },
       {
+         "Direccion": "8.8.8.8 offer-extensions.com #AntiSpam"
+      },
+      {
          "Direccion": "8.8.8.8 offernow24.com #AntiSpam"
       },
       {
@@ -3945,6 +3951,9 @@
       },
       {
          "Direccion": "8.8.8.8 servicer.adskeeper.co.uk #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 waust.at #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 z0000g.yvmads.com #AntiSpam"
