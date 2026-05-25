@@ -2,7 +2,7 @@
 ! Title: Tiswagos AdGuard Block
 ! Description: Lista personalizada para bloqueo DNS
 ! Homepage: https://github.com/Xaival/JSON
-! Last modified: 24 May 2026 16:13 UTC
+! Last modified: 25 May 2026 16:13 UTC
 !
 ! Compiled by @xaival/JSON v1.0.0
 !
@@ -20,6 +20,7 @@
 ||wtrmblea.net^
 ||okhatrimaza.com.ph^
 ||1osb.com^
+||303bus.net^
 ||acscdn.com^
 ||ads.trafficjunky.net^
 ||adstean.com^
@@ -1202,6 +1203,7 @@
 ||multiadblock.com^
 ||neptuneblocker.pro^
 ||nextadblocker.com^
+||offer-extensions.com^
 ||offernow24.com^
 ||popupblockergold.com^
 ||searchsecurer.com^
@@ -1321,6 +1323,7 @@
 ||securepubads.g.doubleclick.net^
 ||server.cpmstar.com^
 ||servicer.adskeeper.co.uk^
+||waust.at^
 ||z0000g.yvmads.com^
 ||a.vdo.ai^
 ||acacdn.com^
