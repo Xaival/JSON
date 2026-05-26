@@ -1,166 +1,6 @@
 {
-   "date_update": "25 May 2026 16:14 UTC",
+   "date_update": "26 May 2026 16:15 UTC",
    "values": [
-      {
-         "Nombre": "Open House by GrantRimi",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 16:25",
-         "URL": "https://grantrimi.itch.io/open-house",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 70%, yellow 70%) 1;"
-      },
-      {
-         "Nombre": "Space Algorithm by xavier0014",
-         "Informacion": "Space Algorithm es un juego en el que colocas componentes en una cuadr\u00edcula para resolver varios objetivos. Cada objetivo es acumulativo con el anterior, lo que significa que tendr\u00e1s que descubrir continuamente qu\u00e9 agregar o modificar para avanzar en los niveles. La clave del \u00e9xito es ser eficiente con la ubicaci\u00f3n de sus componentes y encontrar las mejores interacciones entre ellos. Este juego te permite avanzar en su complejidad a tu propio ritmo, con una atm\u00f3sfera relajante.",
-         "Desde": "",
-         "Hasta": "2026/05/25 21:00",
-         "URL": "https://xavier0014.itch.io/space-algorithm",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
-      },
-      {
-         "Nombre": "Aquatic Grave by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/aquatic-grave",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Awakened Beauty by LiminAce",
-         "Informacion": "Descargo de responsabilidad: este juego se cre\u00f3 para O2A2 VN Jam 2025, un micro Jam de novela visual con limitaciones estrictas de recursos y un l\u00edmite de 1000 palabras. No entres en este juego esperando una historia larga con un mont\u00f3n de CG.",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/awakened-beauty",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Bedrot by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/bedrot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Cabin Fever!!! by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/cabin-fever",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Exorcize Me by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/exorcize-me",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Maneater by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/maneater",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Mukbang Idol by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/mukbang-idol",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Road Trip to Hell by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/road-trip-to-hell",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "When it Rains Red by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/25 22:00",
-         "URL": "https://liminace.itch.io/when-it-rains-red",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Svoboda 1945: Liberation by Charles Games",
-         "Informacion": "Descubre la historia secreta de tu propia familia en una cautivadora historia sobre la reconciliaci\u00f3n con el oscuro pasado.",
-         "Desde": "",
-         "Hasta": "2026/05/25 23:59",
-         "URL": "https://charlesgames.itch.io/svoboda1945",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster Lab.Fone for Android (100% Discount)",
-         "Informacion": "No hace falta decir que Coolmuster Lab.Fone para Android es un software de recuperaci\u00f3n de datos de Android confiable y profesional que permite a los usuarios recuperar datos perdidos o eliminados de las tarjetas de memoria internas y externas de Android de la manera m\u00e1s r\u00e1pida y sencilla. Con su ayuda, puede recuperar m\u00faltiples tipos de archivos de la memoria interna y la tarjeta SIM de Android, incluidos mensajes eliminados, registros de llamadas, contactos, videos, m\u00fasica, fotos y documentos. Adem\u00e1s, puede hacer una copia de seguridad de los datos existentes y eliminados de los dispositivos Android en su computadora en caso de p\u00e9rdida de datos. Coolmuster Lab.Fone para Android admite m\u00e1s de 6000 tel\u00e9fonos y tabletas Android para ayudarte a recuperar tus datos con facilidad.",
-         "Desde": "",
-         "Hasta": "2026/05/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-lab-fone-for-android-free-code/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Allavsoft",
-         "Informacion": "Descargar y convertir v\u00eddeos para verlos sin conexi\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/05/26 09:00",
-         "URL": "https://www.bitsdujour.com/software/allavsoft-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Marked Against Sanity by TTrolleyDev",
          "Informacion": "Marked Against Sanity es un juego de supervivencia de oleadas interminables que pone a prueba cu\u00e1nto tiempo eres capaz de sobrevivir antes de volverte loco en un entorno de dificultad creciente.",
@@ -169,7 +9,7 @@
          "URL": "https://ttrolleydev.itch.io/marked-against-sanity",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Coolmuster iPhone SMS + Contacts Recovery (100% Discount)",
@@ -179,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-sms-contacts-recovery/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "PITH by keveatscheese",
@@ -189,7 +29,7 @@
          "URL": "https://keveatscheese.itch.io/pith",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "DRmare Apple TV Downloader",
@@ -199,7 +39,17 @@
          "URL": "https://sharewareonsale.com/s/free-drmare-apple-tv-downloader-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "VideoProc Conveter AI",
+         "Informacion": "Mejore la calidad de v\u00eddeo/imagen, convierta, edite y comprima medios sin esfuerzo",
+         "Desde": "",
+         "Hasta": "2026/05/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/videoproc-converter-ai/in=upcoming-freebies",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Car Mechanic Simulator 2018",
@@ -552,11 +402,71 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Open House by GrantRimi",
+         "Informacion": "Markiplier recientemente apoy\u00f3 el juego con una donaci\u00f3n de $200. En serio, no puedo imaginar lo agradecido que estoy.",
+         "Desde": "",
+         "Hasta": "2026/05/30 20:30",
+         "URL": "https://grantrimi.itch.io/open-house",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Follower by GrantRimi",
+         "Informacion": "En una noche nevada en el centro, Mitch hace una simple parada de camino a la casa de su novia Claire.\u00a0\u00a0Alimento. Un regalo. Luego a casa.",
+         "Desde": "",
+         "Hasta": "2026/05/30 20:30",
+         "URL": "https://grantrimi.itch.io/follower",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Night Clerk by GrantRimi",
+         "Informacion": "Mira el v\u00eddeo aqu\u00ed\u00f0",
+         "Desde": "",
+         "Hasta": "2026/05/30 20:30",
+         "URL": "https://grantrimi.itch.io/night-clerk",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Storefront by GrantRimi",
+         "Informacion": "\u00a1Gracias por el apoyo! \u00a1Realmente lo aprecio!",
+         "Desde": "",
+         "Hasta": "2026/05/30 20:30",
+         "URL": "https://grantrimi.itch.io/storefront",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Late Stops by GrantRimi",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/05/30 20:30",
+         "URL": "https://grantrimi.itch.io/late-stops",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Burnt by SleepyCatStudio",
          "Informacion": "quemado",
          "Desde": "",
          "Hasta": "2026/05/30 23:00",
          "URL": "https://sleepycatstudio.itch.io/burnt",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PUPILLARY by TerrorTalesProductions",
+         "Informacion": "PUPILLAR \u00e2 Construcci\u00f3n de acceso anticipado",
+         "Desde": "",
+         "Hasta": "2026/05/31 01:41",
+         "URL": "https://terrortalesproductions.itch.io/pupillary",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -962,6 +872,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "100 Unique Fonts Bundle",
+         "Informacion": "Fuentes \u00fanicas que son perfectas para magn\u00edficos logotipos, exhibiciones, encabezados, invitaciones, guardar fechas, bodas, t\u00edtulos, dise\u00f1os web y marcas, etc.",
+         "Desde": "",
+         "Hasta": "2026/06/02 07:00",
+         "URL": "https://sharewareonsale.com/s/free-100-unique-fonts-bundle-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "THE MIDNIGHT BUS by itandfeel",
          "Informacion": "UN JUEGO CORTO DE TERROR",
          "Desde": "",
@@ -1177,6 +1097,16 @@
          "Desde": "",
          "Hasta": "2026/06/30 00:00",
          "URL": "https://giveaway.tickcoupon.com/malware-hunter-pro-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "UltraPic Free License Giveaway - Official Promotion 2026",
+         "Informacion": "UltraPic est\u00e1 dise\u00f1ado para ayudar a los vendedores en l\u00ednea a crear fotograf\u00edas de productos llamativas sin la molestia habitual de un software de edici\u00f3n complejo. Con sus herramientas de edici\u00f3n basadas en navegador, UltraPic simplifica todo el proceso en unos pocos y sencillos pasos. Los usuarios pueden mejorar fotograf\u00edas de productos, eliminar fondos, generar escenas pulidas y preparar im\u00e1genes compatibles con el mercado directamente en l\u00ednea, sin necesidad de configuraci\u00f3n complicada. Por tiempo limitado, los vendedores tambi\u00e9n pueden acceder al plan UltraPic Pro a trav\u00e9s de un obsequio de licencia gratuito de 6 meses, lo que facilita a\u00fan m\u00e1s la actualizaci\u00f3n de las im\u00e1genes de sus productos y aumenta las conversiones sin gastos adicionales.",
+         "Desde": "",
+         "Hasta": "2026/06/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/ultrapic-free-full-version-license/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
