@@ -1,156 +1,6 @@
 {
-   "date_update": "28 May 2026 16:16 UTC",
+   "date_update": "29 May 2026 16:14 UTC",
    "values": [
-      {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se aver\u00eda.",
-         "Desde": "",
-         "Hasta": "2026/05/28 11:59",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
-         "Desde": "",
-         "Hasta": "2026/05/28 11:59",
-         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "DON\u00e2\u0080\u0099T DO IT by Worst Event Games, MetaMagicShaman",
-         "Informacion": "Un juego corto sobre la tentaci\u00f3n de tomar una raya de \"polvo\" en un ba\u00f1o, ofrecido por una bella desconocida en una fiesta salvaje.",
-         "Desde": "",
-         "Hasta": "2026/05/28 11:59",
-         "URL": "https://worsteventgames.itch.io/dont-do-it",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "Very Realistic Game Dev Simulator by Worst Event Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/28 11:59",
-         "URL": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "Worst Wifey (\u00e3\u0083\u00af\u00e3\u0083\u00ab\u00e5\u00ab\u0081) by Worst Event Games, Mehran Goudarzi, MetaMagicShaman",
-         "Informacion": "\u00bfSientes que tu escritorio est\u00e1 demasiado solo? Un lindo compa\u00f1ero de escritorio malo que te har\u00e1 compa\u00f1\u00eda e iluminar\u00e1 tu pantalla. \u00a1con EXTRA F\u00cdSICA!",
-         "Desde": "",
-         "Hasta": "2026/05/28 11:59",
-         "URL": "https://worsteventgames.itch.io/worst-wifey",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "VideoSolo Player 1-Year Free Key (100% Discount)",
-         "Informacion": "VideoSolo Player es una utilidad de reproducci\u00f3n multimedia dise\u00f1ada para ejecutar formatos de v\u00eddeo, audio, DVD y Blu-ray de alta resoluci\u00f3n en un \u00fanico entorno. El software decodifica arquitecturas de medios complejas y evita de forma nativa las restricciones de c\u00f3digos de regi\u00f3n geogr\u00e1fica en discos \u00f3pticos de origen internacional. Al agregar el procesamiento de formatos en una sola aplicaci\u00f3n, VideoSolo Player elimina la sobrecarga operativa que supone utilizar m\u00faltiples aplicaciones multimedia especializadas. El obsequio promocional activo proporciona una licencia comercial de 1 a\u00f1o sin costo alguno.",
-         "Desde": "",
-         "Hasta": "2026/05/28 15:00",
-         "URL": "https://giveaway.tickcoupon.com/videosolo-player-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "First Person Stapler by Intimidation Crab",
-         "Informacion": "\u00a1Descarga el juego completo gratis!",
-         "Desde": "",
-         "Hasta": "2026/05/28 16:00",
-         "URL": "https://intimidation-crab.itch.io/first-person-stapler",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 72%, yellow 72%) 1;"
-      },
-      {
-         "Nombre": "Down in Bermuda",
-         "Informacion": "Down in Bermuda",
-         "Desde": "2026/05/21",
-         "Hasta": "2026/05/28 17:00",
-         "URL": "https://store.epicgames.com/p/down-in-bermuda",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Tomb Raider I-III Remastered Starring Lara Croft",
-         "Informacion": "Tomb Raider I-III Remastered Starring Lara Croft",
-         "Desde": "2026/05/21",
-         "Hasta": "2026/05/28 17:00",
-         "URL": "https://store.epicgames.com/p/tomb-raider-iiii-remastered-538640",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/05/28 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Rogeria Escape by ROGER (Xander-X)",
-         "Informacion": "El juego \"Rogeria Escape\" es la historia de un soldado estadounidense llamado Roger, enviado en misiones secretas todos los d\u00edas de trabajo. Las misiones m\u00e1s secretas del ej\u00e9rcito americano. \u00bfEst\u00e1 listo, se\u00f1or Roger?",
-         "Desde": "",
-         "Hasta": "2026/05/28 22:20",
-         "URL": "https://xanderx555.itch.io/rogeria-escape",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF to JPG Converter (100% Discount)",
-         "Informacion": "Una herramienta de conversi\u00f3n de PDF para PC sencilla y f\u00e1cil de usar es Coolmuster PDF to JPG Converter. El programa es ideal para realizar la conversi\u00f3n sin esfuerzo de archivos PDF a formato de imagen. Con el uso de esta herramienta, puede convertir archivos PDF de forma r\u00e1pida y eficaz a formatos JPG, PNG, TIF, BMP y GIF. Al utilizar Coolmuster PDF to JPG Converter, puede estar seguro de que las fuentes, el dise\u00f1o y la calidad de imagen originales se conservar\u00e1n en sus im\u00e1genes convertidas.",
-         "Desde": "",
-         "Hasta": "2026/05/29 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-to-jpg-converter-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Commander 18",
-         "Informacion": "Ashampoo Photo Commander es la soluci\u00f3n todo en uno para ver, editar y administrar fotograf\u00edas. Con m\u00e1s de 200 funciones, el software es la herramienta esencial para la fotograf\u00eda digital.",
-         "Desde": "",
-         "Hasta": "2026/05/29 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-photo-commander-18-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Donemax Disk Clone",
-         "Informacion": "El mejor software de clonaci\u00f3n de discos duros para Windows y Mac OS",
-         "Desde": "",
-         "Hasta": "2026/05/29 07:00",
-         "URL": "https://sharewareonsale.com/s/free-dmclone-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "VideoProc Conveter AI",
-         "Informacion": "Mejore la calidad de v\u00eddeo/imagen, convierta, edite y comprima medios sin esfuerzo",
-         "Desde": "",
-         "Hasta": "2026/05/29 09:00",
-         "URL": "https://www.bitsdujour.com/software/videoproc-converter-ai/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Static Voice by KadderaGames",
          "Informacion": "Juegas como Artyom, un residente que vive en un antiguo bloque de apartamentos sovi\u00e9tico. Despu\u00e9s de que una explosi\u00f3n masiva en una f\u00e1brica liberara una neurotoxina mortal, el edificio qued\u00f3 en silencio. Su amigo Viktor dej\u00f3 planos de un dispositivo de radio. Ahora, Artyom debe buscar piezas electr\u00f3nicas para construir un transmisor SOS en el techo y pedir ayuda.",
@@ -159,7 +9,7 @@
          "URL": "https://kadderagames.itch.io/static-voice",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 98%, yellow 98%) 1;"
       },
       {
          "Nombre": "Backrooms Crawlers by Worst Event Games",
@@ -169,7 +19,7 @@
          "URL": "https://worsteventgames.itch.io/backrooms-crawlers",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Donemax Disk Clone for Mac (100% Discount)",
@@ -179,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/donemax-disk-clone-for-mac-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Donemax Disk Clone for Windows (100% Discount)",
@@ -189,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/donemax-disk-clone-for-windows/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Fast Video Downloader Free Code (100% Discount)",
@@ -199,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/fast-video-downloader-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Foxy Man by AL7USSAIN",
@@ -209,7 +59,7 @@
          "URL": "https://al7ussain.itch.io/foxy-man",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "Here We Go Again by AL7USSAIN",
@@ -219,7 +69,7 @@
          "URL": "https://al7ussain.itch.io/hear-we-go-again",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "House Cleaner 2 by AL7USSAIN",
@@ -229,7 +79,7 @@
          "URL": "https://al7ussain.itch.io/house-cleaner-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "House Cleaner by AL7USSAIN",
@@ -239,7 +89,7 @@
          "URL": "https://al7ussain.itch.io/housecleaner",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "Maze by AL7USSAIN",
@@ -249,7 +99,7 @@
          "URL": "https://al7ussain.itch.io/maze",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "One Spike by AL7USSAIN",
@@ -259,7 +109,7 @@
          "URL": "https://al7ussain.itch.io/one-spike",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "Simple Tasks by AL7USSAIN",
@@ -269,7 +119,7 @@
          "URL": "https://al7ussain.itch.io/simple-tasks",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
@@ -279,7 +129,7 @@
          "URL": "https://al7ussain.itch.io/whale-game",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "Zombie Hunter by AL7USSAIN",
@@ -289,7 +139,7 @@
          "URL": "https://al7ussain.itch.io/zombie-hunter",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "Buenos Aires Mirror Line (DEMO) by Rafael Di Carlo, LukaHizoAlgo",
@@ -299,7 +149,7 @@
          "URL": "https://rafaeldicarlo.itch.io/buenos-aires-mirror-line",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Text Edit Plus 16",
@@ -309,7 +159,7 @@
          "URL": "https://sharewareonsale.com/s/free-text-edit-plus-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "BABUZI by vanbee",
@@ -642,6 +492,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "NIGHT PUMP: A Horror Game Remake by Zolvek",
+         "Informacion": "\"El asesino... me mat\u00f3. Termin\u00f3 las cosas, pero... yo quer\u00eda terminarlas de manera diferente\".",
+         "Desde": "",
+         "Hasta": "2026/05/31 23:00",
+         "URL": "https://zolvek.itch.io/night-pump-remake",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Carrot Overload (2026) by Galoxyum",
          "Informacion": "Nuestro joven h\u00e9roe conejo viaja sin objetivo a la zona verde. La tierra media del territorio de los conejos es conocida por estar en paz. Pero hoy ya no es as\u00ed.",
          "Desde": "",
@@ -802,6 +662,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Browser Password Recovery Tool (100% Discount)",
+         "Informacion": "En caso de que haya olvidado o extraviado las contrase\u00f1as de sus sitios web favoritos, necesita un software que pueda ayudarle a recuperar contrase\u00f1as con solo unos pocos clics. La herramienta de recuperaci\u00f3n de contrase\u00f1a del navegador PC Trek es un software de recuperaci\u00f3n de contrase\u00f1a de alta calidad dise\u00f1ado para restaurar las credenciales de su sitio web. Con su ayuda, puede recuperar instant\u00e1neamente nombres de usuarios y contrase\u00f1as de Google Chrome, Microsoft Edge, Mozilla Firefox, Internet Explorer, Opera, Vivaldi, Brave, Epic Privacy Browser y Torch.",
+         "Desde": "",
+         "Hasta": "2026/06/01 15:00",
+         "URL": "https://giveaway.tickcoupon.com/pc-trek-browser-password-recovery-tool/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ChoronosCityA\u00c4\u00b0Detective by GameBuegar",
          "Informacion": "\u00a1Hola a todos! He estado trabajando en este proyecto por un tiempo y estoy muy emocionado de finalmente compartirlo con ustedes.",
          "Desde": "",
@@ -817,6 +687,16 @@
          "Desde": "",
          "Hasta": "2026/06/01 15:55",
          "URL": "https://gamebuegar.itch.io/colonyadventure",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/06/01 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -912,6 +792,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "ANALOG Video 1 Professional License Key Free",
+         "Informacion": "ANALOG Video 1 Professional es una utilidad de procesamiento de video compatible con Windows dise\u00f1ada para estilo retro y simulaci\u00f3n de pel\u00edculas. El software agrega ajustes preestablecidos anal\u00f3gicos preconfigurados con controles de edici\u00f3n manual para modificar la gradaci\u00f3n de color, la emulaci\u00f3n del grano de la pel\u00edcula, las superposiciones de texturas, los valores de exposici\u00f3n y los efectos qu\u00edmicos de la pel\u00edcula. ANALOG Video 1 Professional procesa ajustes est\u00e9ticos de m\u00faltiples capas dentro de una interfaz unificada, evitando el requisito de composici\u00f3n manual en capas de video individuales. Actualmente se puede acceder a una licencia vitalicia gratuita por tiempo limitado a trav\u00e9s de canales de distribuci\u00f3n promocionales.",
+         "Desde": "",
+         "Hasta": "2026/06/04 14:00",
+         "URL": "https://giveaway.tickcoupon.com/analog-video-professional-free-license/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wise Duplicate Finder Key Free (100% Discount)",
          "Informacion": "Wise Duplicate Finder Pro es una herramienta inteligente de administraci\u00f3n de archivos duplicados dise\u00f1ada para encontrar y eliminar f\u00e1cilmente archivos duplicados, eliminando duplicados molestos y liberando m\u00e1s espacio en su disco duro. Este programa escanea minuciosamente su sistema para encontrar coincidencias exactas o archivos similares seg\u00fan el contenido, incluidas fotos, documentos, videos y archivos de m\u00fasica. Perfecto para usuarios con unidades de almacenamiento desbordadas, Wise Duplicate Finder Pro le permite elegir entre eliminar archivos manualmente para un control total o dejar que el software se encargue de la limpieza autom\u00e1ticamente.",
          "Desde": "",
@@ -922,11 +812,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Mystery Game Week 22 Game 1",
-         "Informacion": "Mystery Game Week 22 Game 1",
+         "Nombre": "Calico",
+         "Informacion": "Calico",
          "Desde": "2026/05/28",
          "Hasta": "2026/06/04 17:00",
-         "URL": "https://store.epicgames.com/es-ES/free-games",
+         "URL": "https://store.epicgames.com/p/calico",
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
@@ -942,11 +832,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Calico",
-         "Informacion": "Calico",
+         "Nombre": "Mystery Game Week 22 Game 1",
+         "Informacion": "Mystery Game Week 22 Game 1",
          "Desde": "2026/05/28",
          "Hasta": "2026/06/04 17:00",
-         "URL": "https://store.epicgames.com/p/calico",
+         "URL": "https://store.epicgames.com/es-ES/free-games",
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #00ff00;"
@@ -962,6 +852,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster Android WhatsApp Recovery Free 2026",
+         "Informacion": "Tienes muchos mensajes de WhatsApp antiguos pero importantes en tu Samsung Galaxy, pero desafortunadamente los borraste accidentalmente de tu tel\u00e9fono. Si est\u00e1 buscando una herramienta de recuperaci\u00f3n que pueda ayudarle a recuperar sus mensajes y archivos multimedia de WhatsApp,\u00a0Coolmuster Android WhatsApp Recovery\u00a0podr\u00eda ser la utilidad para usted.",
+         "Desde": "",
+         "Hasta": "2026/06/05 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-whatsapp-recovery-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Signal Room by SlothCube Studios",
          "Informacion": "Bienvenido a Signal Room: Parte 1 Juegas como Elias, un trabajador privado que rastrea se\u00f1ales de radio/ondas para el FBI. Un d\u00eda, aparecen se\u00f1ales inusuales desde un lugar llamado Bertrand Manor. Pero las se\u00f1ales se repiten constantemente y la mansi\u00f3n no aparece. El FBI env\u00eda a Elias a buscar la fuente de las se\u00f1ales para descubrir qu\u00e9 est\u00e1 pasando realmente. \u00bfPodr\u00e1s descubrir el verdadero misterio de estas se\u00f1ales o todo esto es parte de algo m\u00e1s siniestro?",
          "Desde": "",
@@ -969,6 +869,16 @@
          "URL": "https://slothcube-studios.itch.io/the-signal-room",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Audials Music 2026 [with AI]",
+         "Informacion": "Transforma tu audio con Audials Music 2026 SE. Utilice IA avanzada para eliminar molestos artefactos de codificaci\u00f3n y ampliar los rangos de frecuencia, brindando una calidad de estudio impecable y n\u00edtida desde cualquier transmisi\u00f3n o grabaci\u00f3n de radio.",
+         "Desde": "",
+         "Hasta": "2026/06/05 07:00",
+         "URL": "https://sharewareonsale.com/s/free-audials-music-2025-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1052,26 +962,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Super Hoodie Bros by The Voices Games",
-         "Informacion": "2 hermanos con capucha en una aventura de plataformas en un mundo de plastilina con 2 estilos de plataformas diferentes",
-         "Desde": "",
-         "Hasta": "2026/06/10 22:53",
-         "URL": "https://thewgreen.itch.io/super-hoodie-bros",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Violetti Goottii by The Voices Games",
-         "Informacion": "Controles del teclado: Espacio = bot\u00f3n en forma de cruz, k = bot\u00f3n triangular, j = bot\u00f3n cuadrado",
-         "Desde": "",
-         "Hasta": "2026/06/10 22:53",
-         "URL": "https://thewgreen.itch.io/violetti-goottii",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Gulorgat vs the Robots by The Voices Games",
          "Informacion": "Juego realizado en 1999 usando Visual Basic 6. Salta sobre los robots enemigos para empujarlos hacia la derecha y sacarlos del borde de la plataforma. Los controles usan botones en pantalla porque en ese momento no sab\u00eda c\u00f3mo determinar qu\u00e9 tecla se estaba presionando y no ten\u00eda Internet para saber c\u00f3mo hacerlo.",
          "Desde": "",
@@ -1082,11 +972,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Super Hoodie Bros by The Voices Games",
+         "Informacion": "2 hermanos con capucha en una aventura de plataformas en un mundo de plastilina con 2 estilos de plataformas diferentes",
+         "Desde": "",
+         "Hasta": "2026/06/10 22:53",
+         "URL": "https://thewgreen.itch.io/super-hoodie-bros",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Tizzy vs the Aliens by The Voices Games",
          "Informacion": "Tizzy, el h\u00e9roe con forma de huevo, ha sido abducido por extraterrestres y debe escapar por cualquier medio necesario en este juego de acci\u00f3n y plataformas.",
          "Desde": "",
          "Hasta": "2026/06/10 22:53",
          "URL": "https://thewgreen.itch.io/tizzy-vs-the-aliens",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Violetti Goottii by The Voices Games",
+         "Informacion": "Controles del teclado: Espacio = bot\u00f3n en forma de cruz, k = bot\u00f3n triangular, j = bot\u00f3n cuadrado",
+         "Desde": "",
+         "Hasta": "2026/06/10 22:53",
+         "URL": "https://thewgreen.itch.io/violetti-goottii",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1132,11 +1042,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Fear Assessment by ALEXANDER WISEMAN",
+         "Informacion": "El programa FEAR ASSESSMENT\u00a0es una prueba especializada desarrollada e implementada por agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web y la informaci\u00f3n de su disco duro.",
+         "Desde": "",
+         "Hasta": "2026/06/11 20:08",
+         "URL": "https://alexander-wiseman.itch.io/fear-assessment",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Dark Retributionist by al3cs71",
          "Informacion": "\u00a1Te despiertas de tu sue\u00f1o eterno en busca de venganza!",
          "Desde": "",
          "Hasta": "2026/06/15 01:03",
          "URL": "https://al3cs71.itch.io/the-dark-retributionist",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lihiman (Full Game) by Kiwi Dreams",
+         "Informacion": "\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1 \u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8 \u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1 \u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8\u00e2\u00a1\u00ef\u00b8",
+         "Desde": "",
+         "Hasta": "2026/06/15 19:24",
+         "URL": "https://kiwidreams-01.itch.io/lihiman-full",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1177,6 +1107,16 @@
          "Desde": "",
          "Hasta": "2026/06/27 01:23",
          "URL": "https://vladislive-dev.itch.io/wasteland-alone",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "monkey insider trading by Fish dev",
+         "Informacion": "MONKEY INSIDER TRADING es un juego inactivo incremental simple pero adictivo en el que tu \u00fanico objetivo es ganar una cantidad obscena de dinero.",
+         "Desde": "",
+         "Hasta": "2026/06/28 15:00",
+         "URL": "https://fishdev-fr.itch.io/monkey-insider-trading",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
