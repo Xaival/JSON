@@ -37,7 +37,7 @@
 	</entry>
 	<entry>
 		<title>1.Cuenta oficial</title>
-		<apps:property name='from' value='@aliexpress.com OR @mail.aliexpress.com  OR @notice.aliexpress.com OR @amazon.com OR @amazon.es OR no-reply@verify.signin.aws OR twitch-verify@amazon.com OR @appsumo.com OR @atm.it OR @correo.aeat.es OR @correos.com OR @correosexpress.com OR @corsair.com OR @store.corsair.com OR @cp.pt OR @nuwelcome.ebay.com OR @entradium.com OR @nomail.ec.europa.eu OR @fpfis.tech.ec.europa.eu OR @educacion.gob.es OR @transportes.gob.es OR @r.grouponmail.es OR @haveibeenpwned.com OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @juntademocratica.com OR juntademocraticadesevilla@gmail.com OR @emails.paypal.com OR @paypal.com OR @paypal.es OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es OR @tussam.info OR @ups.com'/>
+		<apps:property name='from' value='@aliexpress.com OR @mail.aliexpress.com  OR @notice.aliexpress.com OR @amazon.com OR @amazon.es OR no-reply@verify.signin.aws OR twitch-verify@amazon.com OR @appsumo.com OR @atm.it OR @correo.aeat.es OR @correos.com OR @correosexpress.com OR @corsair.com OR @store.corsair.com OR @cp.pt OR @ebay.com OR @entradium.com OR @nomail.ec.europa.eu OR @fpfis.tech.ec.europa.eu OR @educacion.gob.es OR @transportes.gob.es OR @r.grouponmail.es OR @haveibeenpwned.com OR @juntadeandalucia.es OR @seg-social.es OR @seg-social.gob.es OR @juntademocratica.com OR juntademocraticadesevilla@gmail.com OR @emails.paypal.com OR @paypal.com OR @paypal.es OR @pccomponentes.com OR @policia.es OR @fnmt.es OR @sevilla.org OR @tussam.es OR @tussam.info OR @ups.com'/>
 		<apps:property name='label' value='Registros/Oficial'/>
 		<apps:property name='shouldNeverSpam' value='true'/>
 		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
@@ -112,7 +112,7 @@
 	</entry>
 	<entry>
 		<title>2.Propaganda oficial</title>
-		<apps:property name='from' value='@deals.aliexpress.com OR novedades@amazon.es OR noreply@pccomponentes.com'/>
+		<apps:property name='from' value='@deals.aliexpress.com OR novedades@amazon.es OR @nuwelcome.ebay.com OR noreply@pccomponentes.com'/>
 		<apps:property name='label' value='Registros/Oficial'/>
 		<apps:property name='shouldMarkAsRead' value='true'/>
 	</entry>
