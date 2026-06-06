@@ -1,56 +1,6 @@
 {
-   "date_update": "05 Jun 2026 16:14 UTC",
+   "date_update": "06 Jun 2026 16:12 UTC",
    "values": [
-      {
-         "Nombre": "Winexy",
-         "Informacion": "Winexy es un juego realista de pelota rodante en 3D con una jugabilidad sencilla y acci\u00f3n entretenida.",
-         "Desde": "",
-         "Hasta": "2026/06/05 10:00",
-         "URL": "https://store.steampowered.com/app/577740/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
-         "Informacion": "Proyecto: Reborn - Extracci\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/06/05 15:00",
-         "URL": "https://bkgamingstudio.itch.io/project-reborn-extraction",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "Uncanny Tales: The Watcher (Demo) by VYASTUDIO",
-         "Informacion": "Tiempo de reproducci\u00f3n de demostraci\u00f3n: 40 minutos",
-         "Desde": "",
-         "Hasta": "2026/06/05 21:10",
-         "URL": "https://vyastudio.itch.io/uncanny-tales-the-watcher",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 50%, yellow 50%) 1;"
-      },
-      {
-         "Nombre": "Wane Spore by DDP Games",
-         "Informacion": "Despu\u00e9s de que tu avi\u00f3n se estrellara inesperadamente, ahora te encuentras varado en un bosque llamado Wane Spore Forest.",
-         "Desde": "",
-         "Hasta": "2026/06/06 00:20",
-         "URL": "https://ddp-studios.itch.io/wane-spore",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "Wise Program Uninstaller",
-         "Informacion": "Wise Program Uninstaller es la soluci\u00f3n ideal para eliminar programas no deseados de su PC con Windows. Con su interfaz sencilla y f\u00e1cil de usar, puedes desinstalar r\u00e1pida y completamente cualquier aplicaci\u00f3n. Powered by an advanced deep-scan engine, it automatically detects and purges residual registry entries, orphaned files, and empty folders after standard uninstallation, ensuring the program is fully removed from your computer.",
-         "Desde": "",
-         "Hasta": "2026/06/06 09:00",
-         "URL": "https://www.bitsdujour.com/software/wise-program-uninstaller/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
          "Informacion": "Despu\u00e9s del \u00e9xito de Euli Beuli STRIKE, regresa el popular b\u00faho, \u00a1esta vez en una aventura completamente nueva! Euli Beuli RUN trae el encantador universo de Euli Beuli al g\u00e9nero de corredores sin fin, ofreciendo una experiencia de juego desafiante y trepidante en un estilo cl\u00e1sico de pixel art.",
@@ -59,7 +9,7 @@
          "URL": "https://roega.itch.io/euli-beuli-run",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Vovsoft Watermark Image Key Free (100% Discount)",
@@ -69,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-watermark-image-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Lord of Chaos by Hexnut Studios",
@@ -79,7 +29,7 @@
          "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Coolmuster iOS Assistant Free License Key 1-Year",
@@ -89,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-ios-assistant-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Weapon Rearing by JIYUTORISEI",
@@ -147,6 +97,16 @@
          "Desde": "",
          "Hasta": "2026/06/08 07:00",
          "URL": "https://sharewareonsale.com/s/free-batch-image-upscaler-ai-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Live Aquarium 4K",
+         "Informacion": "Live Aquarium 4K: \u00a1tu experiencia perfecta en un acuario digital en un impresionante 4K!",
+         "Desde": "",
+         "Hasta": "2026/06/08 07:00",
+         "URL": "https://sharewareonsale.com/s/free-live-aquarium-4k-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -652,6 +612,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
+         "Informacion": "Proyecto: Reborn - Extracci\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/06/20 18:05",
+         "URL": "https://bkgamingstudio.itch.io/project-reborn-extraction",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Foxy Man by AL7USSAIN",
          "Informacion": "C\u00f3mo moverse",
          "Desde": "",
@@ -852,6 +822,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "AOMEI Backupper Professional Key (100% Discount)",
+         "Informacion": "AOMEI Backupper Pro es un programa profesional de copia de seguridad y recuperaci\u00f3n f\u00e1cil de usar. Protege completamente su PC contra la p\u00e9rdida de datos. Realiza una copia de seguridad segura de su PC y servidor, ofrece una copia de seguridad con un solo clic de la partici\u00f3n o unidad de su sistema y lo hace en minutos. Tambi\u00e9n puede clonar particiones o unidades. El programa es compatible con el Servicio de instant\u00e1neas de volumen (VSS) de Microsoft, que permite realizar copias de seguridad de datos sin interferir con las aplicaciones actuales. Si sus datos se destruyen o corrompen accidentalmente, la aplicaci\u00f3n puede inspeccionar la imagen generada y restaurarla en el disco duro. Adem\u00e1s, puede crear un CD de recuperaci\u00f3n de arranque para restaurar sus datos si la computadora falla y no se puede acceder a la aplicaci\u00f3n a trav\u00e9s de la interfaz de Windows.",
+         "Desde": "",
+         "Hasta": "2026/06/30 00:00",
+         "URL": "https://giveaway.tickcoupon.com/aomei-backupper-professional-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Glarysoft Malware Hunter Pro Key Free 2026",
          "Informacion": "Glarysoft Malware Hunter Pro es un potente software dise\u00f1ado para proporcionar a los clientes capacidades integrales de protecci\u00f3n y detecci\u00f3n de virus. Ayuda a proteger contra todo tipo de amenazas, proteger datos, proteger la privacidad y garantizar que su PC permanezca libre de virus. El software ofrece un modo de hiperescaneo r\u00e1pido, que permite a los usuarios identificar y eliminar r\u00e1pidamente archivos maliciosos y amenazas potenciales. Su sistema de protecci\u00f3n activa monitorea constantemente cualquier actividad sospechosa. Adem\u00e1s, Malware Hunter Pro incluye herramientas de optimizaci\u00f3n del sistema para optimizar el rendimiento de la PC y mantenerla siempre limpia y segura.",
          "Desde": "",
@@ -877,16 +857,6 @@
          "Desde": "",
          "Hasta": "2026/06/30 00:00",
          "URL": "https://giveaway.tickcoupon.com/ultrapic-free-full-version-license/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "AOMEI Backupper Professional Key (100% Discount)",
-         "Informacion": "AOMEI Backupper Pro es un programa profesional de copia de seguridad y recuperaci\u00f3n f\u00e1cil de usar. Protege completamente su PC contra la p\u00e9rdida de datos. Realiza una copia de seguridad segura de su PC y servidor, ofrece una copia de seguridad con un solo clic de la partici\u00f3n o unidad de su sistema y lo hace en minutos. Tambi\u00e9n puede clonar particiones o unidades. El programa es compatible con el Servicio de instant\u00e1neas de volumen (VSS) de Microsoft, que permite realizar copias de seguridad de datos sin interferir con las aplicaciones actuales. Si sus datos se destruyen o corrompen accidentalmente, la aplicaci\u00f3n puede inspeccionar la imagen generada y restaurarla en el disco duro. Adem\u00e1s, puede crear un CD de recuperaci\u00f3n de arranque para restaurar sus datos si la computadora falla y no se puede acceder a la aplicaci\u00f3n a trav\u00e9s de la interfaz de Windows.",
-         "Desde": "",
-         "Hasta": "2026/06/30 00:00",
-         "URL": "https://giveaway.tickcoupon.com/aomei-backupper-professional-key-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
