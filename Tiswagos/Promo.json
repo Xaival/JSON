@@ -1,96 +1,6 @@
 {
-   "date_update": "09 Jun 2026 16:13 UTC",
+   "date_update": "10 Jun 2026 16:14 UTC",
    "values": [
-      {
-         "Nombre": "Family Secrets 1 : Empty Plate by BADCAT GAMES",
-         "Informacion": "Este juego cuenta la historia de Miko y su hermano menor, Jun. Un d\u00eda, Miko recibe una llamada telef\u00f3nica de su madre, inform\u00e1ndole que estar\u00e1 fuera por trabajo por unos d\u00edas. Miko tiene la responsabilidad de cuidar a Jun \u00e9l solo. Sin embargo...",
-         "Desde": "",
-         "Hasta": "2026/06/09 11:12",
-         "URL": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/06/09 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Windows 11 SE PLUS by TsubasaGames, TheStickGamer",
-         "Informacion": "\u00bfEst\u00e1s cansado de los errores reales de tu PC y de las frustrantes \"actualizaciones\"? Obt\u00e9n el sistema operativo que te mereces... \u00a1en un juego! Windows 11 SE PLUS\u00a0es una versi\u00f3n divertida y mejorada de nuestro popular juego Windows 11 Scratch Edition.",
-         "Desde": "",
-         "Hasta": "2026/06/09 19:59",
-         "URL": "https://tsubasagames.itch.io/windows11seplus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "Burnt by SleepyCatStudio",
-         "Informacion": "quemado",
-         "Desde": "",
-         "Hasta": "2026/06/09 23:00",
-         "URL": "https://sleepycatstudio.itch.io/burnt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster Android SMS + Contacts Recovery",
-         "Informacion": "Coolmuster Android SMS + Contacts Recovery es la soluci\u00f3n definitiva para recuperar sus conversaciones de texto y detalles de contacto extraviados o eliminados en su dispositivo Android. Esta poderosa herramienta le permite recuperar contactos y mensajes de texto perdidos tanto de la tarjeta de memoria interna como de la tarjeta SIM de su dispositivo Android, independientemente de c\u00f3mo se perdieron, ya sea por eliminaci\u00f3n accidental, intrusi\u00f3n de virus, mal funcionamiento del hardware o software, o m\u00e1s.",
-         "Desde": "",
-         "Hasta": "2026/06/10 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-sms-contacts-recovery/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Not A Customer by Opv Game Studio",
-         "Informacion": "Est\u00e1s solo detr\u00e1s del mostrador. La tienda est\u00e1 en silencio. El monitor est\u00e1 mirando.\r\n  Los clientes van llegando uno a uno, pero a algunos les pasa algo.",
-         "Desde": "",
-         "Hasta": "2026/06/10 01:00",
-         "URL": "https://opvgame-studio.itch.io/notacustomer",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Wurst Case Scenario by David Browne",
-         "Informacion": "Wurst Case Scenario es un juego de terror de comedia negra en el que manejas un peque\u00f1o puesto de currywurst que sirve hot dogs y currywurst a un flujo constante de clientes. Escondido debajo de la rutina mundana se encuentra un negocio criminal que trafica con drogas, contrabando y otros bienes ilegales a clientes aprobados. Cada cliente es una amenaza potencial y un solo error puede exponerlo todo. Administre pedidos, mantenga su operaci\u00f3n en funcionamiento y trate con cualquiera que aprenda m\u00e1s de lo que deber\u00eda.",
-         "Desde": "",
-         "Hasta": "2026/06/10 01:00",
-         "URL": "https://davidbrowne.itch.io/wurst-case-scenario",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Photopus Pro",
-         "Informacion": "Edita cientos de fotos en modo por lotes",
-         "Desde": "",
-         "Hasta": "2026/06/10 09:00",
-         "URL": "https://www.bitsdujour.com/software/photopus-pro/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "Transfixed by Sinisterbyte Games",
-         "Informacion": "Este es un juego de terror en primera persona en el que juegas como un miembro de un equipo cazafantasmas. El juego se desarrolla en m\u00faltiples ubicaciones, aunque actualmente solo hay un mapa disponible y se agregar\u00e1n m\u00e1s m\u00e1s adelante.",
-         "Desde": "",
-         "Hasta": "2026/06/10 09:05",
-         "URL": "https://sinisterbyte-games.itch.io/transfixed",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 0%, yellow 0%) 1;"
-      },
       {
          "Nombre": "WinX MediaTrans Free Key (100% Discount)",
          "Informacion": "WinX MediaTrans\u00a0es un software de gesti\u00f3n vers\u00e1til para iPhone y iPad dise\u00f1ado para usuarios de Windows y Mac. Le permite transferir f\u00e1cilmente datos desde dispositivos iPhone y iPad a computadoras y viceversa. Con esta transferencia, podr\u00e1 administrar f\u00e1cilmente los archivos en su dispositivo y tambi\u00e9n podr\u00e1 liberar espacio para que su iPhone guarde datos nuevos importantes. Puede usarlo para transferir fotos, videos, m\u00fasica, libros electr\u00f3nicos y m\u00e1s, asegurando que sus medios est\u00e9n siempre accesibles y bien organizados.",
@@ -99,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/giveaway-key-for-winx-mediatrans/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Gulorgat vs the Robots by The Voices Games",
@@ -109,7 +19,7 @@
          "URL": "https://thewgreen.itch.io/gulorgat-vs-the-robots",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Super Hoodie Bros by The Voices Games",
@@ -119,7 +29,7 @@
          "URL": "https://thewgreen.itch.io/super-hoodie-bros",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Tizzy vs the Aliens by The Voices Games",
@@ -129,7 +39,7 @@
          "URL": "https://thewgreen.itch.io/tizzy-vs-the-aliens",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Violetti Goottii by The Voices Games",
@@ -139,7 +49,7 @@
          "URL": "https://thewgreen.itch.io/violetti-goottii",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "MATILDA by Red Cap Games",
@@ -149,7 +59,7 @@
          "URL": "https://redcap-games.itch.io/matilda",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
       },
       {
          "Nombre": "The Cleaning Incident by Chodex Productions",
@@ -159,7 +69,7 @@
          "URL": "https://chodex-productions.itch.io/the-cleaning-incident",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "Emily_ by TETRABYTE",
@@ -169,7 +79,7 @@
          "URL": "https://tetrabyte.itch.io/emily",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
       },
       {
          "Nombre": "Rogue Waters",
@@ -262,6 +172,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Wurst Case Scenario by David Browne",
+         "Informacion": "Wurst Case Scenario es un juego de terror de comedia negra en el que manejas un peque\u00f1o puesto de currywurst que sirve hot dogs y currywurst a un flujo constante de clientes. Escondido debajo de la rutina mundana se encuentra un negocio criminal que trafica con drogas, contrabando y otros bienes ilegales a clientes aprobados. Cada cliente es una amenaza potencial y un solo error puede exponerlo todo. Administre pedidos, mantenga su operaci\u00f3n en funcionamiento y trate con cualquiera que aprenda m\u00e1s de lo que deber\u00eda.",
+         "Desde": "",
+         "Hasta": "2026/06/12 01:00",
+         "URL": "https://davidbrowne.itch.io/wurst-case-scenario",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Back to Modern World - Fantasy Hero 2: Magic Academy by S Xavier Uy",
          "Informacion": "Han pasado muchos a\u00f1os desde entonces, el viaje de yoha taka contin\u00faa, parece que ya hab\u00edan pasado muchas cosas. Actualmente asiste a una academia de magia en otro mundo con una misi\u00f3n importante junto con sus compa\u00f1eros.",
          "Desde": "",
@@ -339,6 +259,16 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-text-edit-plus-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/06/12 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -479,6 +409,36 @@
          "URL": "https://kiwidreams-01.itch.io/lihiman-full",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CALLUS by EMIKA_GAMES",
+         "Informacion": "En el abrazo de una madre.",
+         "Desde": "",
+         "Hasta": "2026/06/15 21:09",
+         "URL": "https://emika-games.itch.io/callus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Burnt by SleepyCatStudio",
+         "Informacion": "quemado",
+         "Desde": "",
+         "Hasta": "2026/06/16 22:59",
+         "URL": "https://sleepycatstudio.itch.io/burnt",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF Password Remover (100% Discount)",
+         "Informacion": "Si ha estado buscando software para descifrar un archivo PDF protegido con contrase\u00f1a durante mucho tiempo, entonces Coolmuster PDF Password Remover podr\u00eda ser la utilidad que le eche una mano. El software de eliminaci\u00f3n de contrase\u00f1as de PDF est\u00e1 dise\u00f1ado para eliminar contrase\u00f1as de un PDF para editarlo, copiarlo o compartirlo.\u00a0Esta herramienta ofrece dos modos de descifrado: modo de descifrado por lotes y descifrado con clic derecho para ayudarlo a eliminar r\u00e1pidamente contrase\u00f1as de archivos PDF de Adobe.",
+         "Desde": "",
+         "Hasta": "2026/06/17 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -700,6 +660,26 @@
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Citizen Sleeper",
+         "Informacion": "Roleplaying in the ruins of interplanetary capitalism. Live the life of an escaped worker, washed-up on a lawless station at the edge of an interstellar society. Inspired by the flexibility and freedom of TTRPGs, choose your friends, escape your past and change your future.",
+         "Desde": "2026/06/18",
+         "Hasta": "2026/06/25 17:00",
+         "URL": "https://store.epicgames.com/p/citizen-sleeper-944858",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "ROBOBEAT",
+         "Informacion": "En el shooter r\u00edtmico ROBOBEAT, la clave es maximizar el da\u00f1o disparando al ritmo de la m\u00fasica. Corre por las paredes, usa el gancho, desl\u00edzate y mu\u00e9vete sin dejar de disparar mientras avanzas por la ca\u00f3tica mansi\u00f3n de un presentador rob\u00f3tico chiflado.",
+         "Desde": "2026/06/18",
+         "Hasta": "2026/06/25 17:00",
+         "URL": "https://store.epicgames.com/p/robobeat-5f084b",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Room 310: Face to Face (2025) by Dareint",
@@ -952,6 +932,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Eternal Night by VladisLive Dev",
+         "Informacion": "Trama",
+         "Desde": "",
+         "Hasta": "2026/07/01 06:29",
+         "URL": "https://vladislive-dev.itch.io/eternal-night",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exit Only by VladisLive Dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/01 06:29",
+         "URL": "https://vladislive-dev.itch.io/exit-only",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Red Margins by VladisLive Dev",
          "Informacion": "",
          "Desde": "",
@@ -972,26 +972,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Exit Only by VladisLive Dev",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/01 06:29",
-         "URL": "https://vladislive-dev.itch.io/exit-only",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Eternal Night by VladisLive Dev",
-         "Informacion": "Trama",
-         "Desde": "",
-         "Hasta": "2026/07/01 06:29",
-         "URL": "https://vladislive-dev.itch.io/eternal-night",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Tell Me Why",
          "Informacion": "Tell Me Why es el juego de aventuras epis\u00f3dico ganador de m\u00faltiples premios de Dontnod Entertainment en el que los gemelos utilizan su v\u00ednculo sobrenatural para descubrir la verdad de su turbulento pasado.",
          "Desde": "",
@@ -999,6 +979,36 @@
          "URL": "https://store.steampowered.com/app/1180660/",
          "IMG": "",
          "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "snowstorm by DavidMunoz",
+         "Informacion": "Snowstorm es un juego narrativo corto sobre un viejo fot\u00f3grafo jubilado. Encuentra recuerdos y deshazte de las cargas del pasado.",
+         "Desde": "",
+         "Hasta": "2026/07/01 10:00",
+         "URL": "https://davidmunozt.itch.io/snowstorm",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MiniColonyAdventures \u00e2\u0080\u0093 Build, Expand & Survive by GameBuegar",
+         "Informacion": "\u00a1Bienvenido a ColonyAdventure, un encantador juego de simulaci\u00f3n de aldea profundamente interactivo donde cada decisi\u00f3n da forma al futuro de tu asentamiento! Comienza con una humilde fogata en el desierto y gu\u00eda a tus colonos para construir una aldea pr\u00f3spera y autosuficiente.",
+         "Desde": "",
+         "Hasta": "2026/07/05 13:22",
+         "URL": "https://gamebuegar.itch.io/colonyadventure",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ChoronosCityA\u00c4\u00b0Detective by GameBuegar",
+         "Informacion": "\u00a1Hola a todos! He estado trabajando en este proyecto por un tiempo y estoy muy emocionado de finalmente compartirlo con ustedes.",
+         "Desde": "",
+         "Hasta": "2026/07/05 13:22",
+         "URL": "https://gamebuegar.itch.io/choronoscityadetective",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1027,6 +1037,16 @@
          "Desde": "",
          "Hasta": "2026/08/31 00:00",
          "URL": "https://giveaway.tickcoupon.com/winx-dvd-copy-pro-giveaway/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CBackup Professional Key Free \u2013 Secure Backup Service for Local and Cloud 2026",
+         "Informacion": "La p\u00e9rdida inesperada de datos puede ocurrir por muchas razones: falla de hardware, eliminaci\u00f3n accidental o fallas del sistema. Al mismo tiempo, muchas personas mantienen archivos repartidos en diferentes unidades y servicios en la nube, lo que dificulta la gesti\u00f3n de copias de seguridad confiables. Las herramientas que automatizan las copias de seguridad, mantienen las carpetas sincronizadas y permiten una recuperaci\u00f3n r\u00e1pida pueden reducir el estr\u00e9s de proteger archivos importantes. CBackup Professional is designed to help Windows users handle backups, file synchronization, disk cloning, and cloud-to-cloud data protection from one place. Puede resultar \u00fatil para particulares, oficinas peque\u00f1as o cualquier persona que administre archivos en varias ubicaciones de almacenamiento. A trav\u00e9s de este sorteo, los usuarios elegibles pueden acceder a CBackup Professional con una licencia gratuita de seis meses.",
+         "Desde": "",
+         "Hasta": "2026/08/31 00:00",
+         "URL": "https://giveaway.tickcoupon.com/cbackup-professional-free-download/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
