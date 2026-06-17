@@ -1,56 +1,6 @@
 {
-   "date_update": "16 Jun 2026 16:14 UTC",
+   "date_update": "17 Jun 2026 16:16 UTC",
    "values": [
-      {
-         "Nombre": "Burnt by SleepyCatStudio",
-         "Informacion": "quemado",
-         "Desde": "",
-         "Hasta": "2026/06/16 22:59",
-         "URL": "https://sleepycatstudio.itch.io/burnt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Password Remover (100% Discount)",
-         "Informacion": "Si ha estado buscando software para descifrar un archivo PDF protegido con contrase\u00f1a durante mucho tiempo, entonces Coolmuster PDF Password Remover podr\u00eda ser la utilidad que le eche una mano. El software de eliminaci\u00f3n de contrase\u00f1as de PDF est\u00e1 dise\u00f1ado para eliminar contrase\u00f1as de un PDF para editarlo, copiarlo o compartirlo.\u00a0Esta herramienta ofrece dos modos de descifrado: modo de descifrado por lotes y descifrado con clic derecho para ayudarlo a eliminar r\u00e1pidamente contrase\u00f1as de archivos PDF de Adobe.",
-         "Desde": "",
-         "Hasta": "2026/06/17 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "MATILDA by Red Cap Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/06/17 00:00",
-         "URL": "https://redcap-games.itch.io/matilda",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "MultCloud 200GB",
-         "Informacion": "Administre y transfiera archivos entre m\u00faltiples unidades en la nube sin problemas con MultCloud. Sincroniza, migra o transfiere datos directamente desde Dropbox a Google Drive sin descargarlos, todo desde una aplicaci\u00f3n segura que ahorra tiempo.",
-         "Desde": "",
-         "Hasta": "2026/06/17 07:00",
-         "URL": "https://sharewareonsale.com/s/free-multcloud-500gb-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "WonderFox HD Video Converter Factory Pro",
-         "Informacion": "Convierte v\u00eddeos entre m\u00e1s de 100 formatos",
-         "Desde": "",
-         "Hasta": "2026/06/17 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-hd-video-converter-factory-pro/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "MultCloud Premium Account 200GB Data Traffic for Free",
          "Informacion": "Como sabes, MultCloud Premium es una herramienta profesional de gesti\u00f3n de transferencias en la nube que ofrece una soluci\u00f3n avanzada para conectar todas tus unidades en la nube y transferir o sincronizar archivos de un servicio en la nube directamente a otro. Este servicio de administraci\u00f3n de la nube lo ayudar\u00e1 a administrar m\u00faltiples cuentas de almacenamiento en la nube de diferentes proveedores, como Google Drive, Dropbox, OneDrive y m\u00e1s, en una interfaz unificada.",
@@ -59,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/multcloud-unlimited-traffic-giveaway/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
@@ -69,7 +19,7 @@
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 79%, yellow 79%) 1;"
       },
       {
          "Nombre": "Exorcist: final wishes by fishgill",
@@ -79,7 +29,7 @@
          "URL": "https://fishgill.itch.io/exorcist-finalwishes",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
       },
       {
          "Nombre": "Lord of Chaos by Hexnut Studios",
@@ -89,7 +39,7 @@
          "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "THE MIDNIGHT BUS by itandfeel",
@@ -99,7 +49,17 @@
          "URL": "https://itandfeel.itch.io/the-midnight-bus",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
+      },
+      {
+         "Nombre": "MATILDA by Red Cap Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/06/18 00:00",
+         "URL": "https://redcap-games.itch.io/matilda",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "The Last Customer \u00e2\u0080\u0093 Something is wrong by Takori Days",
@@ -109,7 +69,7 @@
          "URL": "https://takori-x-takuminet.itch.io/the-last-customer",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "AI Photo Stamp Remover 18",
@@ -119,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-ai-photo-stamp-remover-18-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Tarotro by Worst Event Games",
@@ -129,7 +89,7 @@
          "URL": "https://worsteventgames.itch.io/tarotro",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "Hearts of Iron IV",
@@ -482,6 +442,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Wise Duplicate Finder Pro",
+         "Informacion": "Wise Duplicate Finder Pro es una herramienta de administraci\u00f3n de archivos duplicados que puede ayudarlo a encontrar y eliminar archivos duplicados comparando el nombre, el tama\u00f1o o el contenido del archivo. Desh\u00e1gase de los molestos duplicados y libere m\u00e1s espacio en sus discos duros.",
+         "Desde": "",
+         "Hasta": "2026/06/22 07:00",
+         "URL": "https://sharewareonsale.com/s/free-wise-duplicate-finder-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vov Sticky Notes License Key Free Download",
          "Informacion": "Vov Sticky Notes es un software \u00fatil que te ayuda a crear pegatinas, recordatorios y a tener a mano informaci\u00f3n importante. La funci\u00f3n principal del software es permitirle colocar pegatinas coloridas en su escritorio. Por lo tanto, puede crear tantos como desee, cambiar su tama\u00f1o y cambiar la fuente del texto, pero no hay ninguna opci\u00f3n para ocultar la barra de t\u00edtulo y los botones Eliminar y Nuevo.",
          "Desde": "",
@@ -532,6 +502,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Burnt by SleepyCatStudio",
+         "Informacion": "quemado",
+         "Desde": "",
+         "Hasta": "2026/06/23 22:59",
+         "URL": "https://sleepycatstudio.itch.io/burnt",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Back to Modern World - Fantasy Hero 2: Magic Academy by S Xavier Uy",
          "Informacion": "Han pasado muchos a\u00f1os desde entonces, el viaje de yoha taka contin\u00faa, parece que ya hab\u00edan pasado muchas cosas. Actualmente asiste a una academia de magia en otro mundo con una misi\u00f3n importante junto con sus compa\u00f1eros.",
          "Desde": "",
@@ -547,6 +527,36 @@
          "Desde": "",
          "Hasta": "2026/06/23 23:56",
          "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Allavsoft Downloader for Mac (100% Discount) 2026",
+         "Informacion": "Como descargador y convertidor de videos todo en uno para macOS, herramienta Mac OS X, Allavsoft Downloader para Mac le permite descargar videos de todo tipo de sitios web para compartir videos como DailyMotion, Yahoo Video, eHow, Facebook, Google Video, etc.",
+         "Desde": "",
+         "Hasta": "2026/06/24 15:00",
+         "URL": "https://giveaway.tickcoupon.com/allavsoft-for-mac-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Allavsoft Video Downloader (100% Discount) 2026",
+         "Informacion": "Allavsoft es un software de descarga de videos para Windows que admite la descarga de pel\u00edculas, videos musicales, listas de reproducci\u00f3n, videos deportivos, conferencias y m\u00e1s desde sitios web gratuitos para compartir videos como YouTube, Spotify, Facebook, Vimeo, Twitter, eHow, Dailymotion, SoundCloud y m\u00e1s de 1000 otros. Tambi\u00e9n ayuda a extraer y descargar audio de pel\u00edculas o v\u00eddeos musicales en l\u00ednea.",
+         "Desde": "",
+         "Hasta": "2026/06/24 15:00",
+         "URL": "https://giveaway.tickcoupon.com/allavsoft-free-license-key-lifetime/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wurst Case Scenario by David Browne",
+         "Informacion": "Wurst Case Scenario es un juego de terror de comedia negra en el que manejas un peque\u00f1o puesto de currywurst que sirve hot dogs y currywurst a un flujo constante de clientes. Escondido debajo de la rutina mundana se encuentra un negocio criminal que trafica con drogas, contrabando y otros bienes ilegales a clientes aprobados. Cada cliente es una amenaza potencial y un solo error puede exponerlo todo. Administre pedidos, mantenga su operaci\u00f3n en funcionamiento y trate con cualquiera que aprenda m\u00e1s de lo que deber\u00eda.",
+         "Desde": "",
+         "Hasta": "2026/06/25 00:00",
+         "URL": "https://davidbrowne.itch.io/wurst-case-scenario",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -597,6 +607,16 @@
          "Desde": "",
          "Hasta": "2026/06/27 01:23",
          "URL": "https://vladislive-dev.itch.io/wasteland-alone",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Reincarnated as a Noble - RPG by S Xavier Uy",
+         "Informacion": "Da la casualidad de que todav\u00eda no est\u00e1 claro c\u00f3mo muri\u00f3, todo parece estar escrito incluso hasta el final... \u00bfqu\u00e9 tipo de vida vivi\u00f3? Al final las Diosas deciden reencarnarlo en otro mundo pero sin que tenga ninguna magia en la que confiar, en un mundo donde todos los seres pose\u00edan magia. \u00bfQu\u00e9 har\u00e1?",
+         "Desde": "",
+         "Hasta": "2026/06/27 23:09",
+         "URL": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -752,6 +772,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DIRE ECHO by TrueGamesStudio",
+         "Informacion": "En un futuro pr\u00f3ximo, la humanidad se expandir\u00e1 constantemente hacia las profundidades del espacio. Eres un astronauta en una misi\u00f3n rutinaria pero importante: sigue una ruta designada hasta una estaci\u00f3n remota y entrega datos t\u00e9cnicos.",
+         "Desde": "",
+         "Hasta": "2026/06/30 16:57",
+         "URL": "https://truegamesstudio.itch.io/dire-echo",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "NIGHTBELL by TrueGamesStudio",
+         "Informacion": "STEAMNightbell es un juego de terror atmosf\u00e9rico sobre una Nochebuena cuando un hogar acogedor deja de ser un lugar seguro.",
+         "Desde": "",
+         "Hasta": "2026/06/30 16:57",
+         "URL": "https://truegamesstudio.itch.io/nightbell",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Pigeon West: Call Of Gun. ISEKAI by Blue harpy",
          "Informacion": "\u00bfY si el criminal m\u00e1s peligroso de todo el Lejano Oeste terminara en el isekai m\u00e1s t\u00edpico... y ni siquiera como personaje principal?",
          "Desde": "",
@@ -787,6 +827,16 @@
          "Desde": "",
          "Hasta": "2026/06/30 21:54",
          "URL": "https://squidsquadpapi.itch.io/quiet-west-butcher-noose",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Enemy by Worst Event Games",
+         "Informacion": "Mehrzad Sepahi",
+         "Desde": "",
+         "Hasta": "2026/07/01 00:17",
+         "URL": "https://worsteventgames.itch.io/the-enemy",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -902,6 +952,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Voidwrought",
+         "Informacion": "Voidwrought es un juego de acci\u00f3n y plataformas en 2D ambientado en un mundo de horrores c\u00f3smicos creado a mano. Explora las ruinas de la primera civilizaci\u00f3n y acaba con los dioses que las habitan. Desarrolla poderes, desvela artefactos y erige tu santuario entre despojos.",
+         "Desde": "2026/06/25",
+         "Hasta": "2026/07/02 17:00",
+         "URL": "https://store.epicgames.com/p/voidwrought-ce8f4b",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "ChoronosCityA\u00c4\u00b0Detective by GameBuegar",
          "Informacion": "\u00a1Hola a todos! He estado trabajando en este proyecto por un tiempo y estoy muy emocionado de finalmente compartirlo con ustedes.",
          "Desde": "",
@@ -927,6 +987,36 @@
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
          "URL": "https://wildredchicken.itch.io/moder",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Devyard by TheThil",
+         "Informacion": "Un grupo de amigos se embarca en un espeluznante paseo de Halloween y deciden dejar a uno de ellos encerrado dentro de un cementerio encantado. Durante a\u00f1os, hab\u00edan circulado rumores sobre un esp\u00edritu no-muerto que rondaba los terrenos, una figura fantasmal que contin\u00faa las tradiciones de Halloween incluso m\u00e1s all\u00e1 de la tumba. No one believed the stories... until NOW.\u00a0El objetivo es escapar del cementerio embrujado y sobrevivir a la noche.\u00a0El juego ofrece:- Personaje original- Actuaci\u00f3n de voz- Banda sonora original- Experiencia atmosf\u00e9rica espeluznante",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://thethil.itch.io/devyard",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet 2 by TheThil",
+         "Informacion": "El juego tiene 3 finales posibles. Tiempo medio de juego: 30-45 minutos.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://thethil.itch.io/strange-toilet-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Strange Toilet by TheThil",
+         "Informacion": "En el tranquilo barrio donde viven Nathan y Sarah, hay una presencia siniestra. Una amenaza potencial de un asesino suelto. Los residentes no esperaban que en esta tarde pac\u00edfica se enfrentar\u00edan a una realidad sombr\u00eda que nunca anticiparon.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://thethil.itch.io/strange-toilet",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
