@@ -1,226 +1,6 @@
 {
-   "date_update": "20 Jun 2026 16:15 UTC",
+   "date_update": "21 Jun 2026 16:13 UTC",
    "values": [
-      {
-         "Nombre": "frin2 by kurd_game",
-         "Informacion": "Hice este juego en memoria de mi infancia, en aquel entonces era Atari y un avi\u00f3n que no deber\u00eda chocar contra nada. \u00c9ste tambi\u00e9n es similar a ese y tiene 10 niveles.",
-         "Desde": "",
-         "Hasta": "2026/06/20 10:33",
-         "URL": "https://kurd-game.itch.io/frin2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
-      },
-      {
-         "Nombre": "BABUZI by vanbee",
-         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/06/20 12:00",
-         "URL": "https://vanbee.itch.io/babuzi",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "Elevator Inferno by vanbee",
-         "Informacion": "disfruta tu ca\u00edda",
-         "Desde": "",
-         "Hasta": "2026/06/20 12:00",
-         "URL": "https://vanbee.itch.io/elevator-inferno",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "MAZE by vanbee",
-         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
-         "Desde": "",
-         "Hasta": "2026/06/20 12:00",
-         "URL": "https://vanbee.itch.io/maze",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "ME NAME BRAAA by vanbee",
-         "Informacion": "Hola",
-         "Desde": "",
-         "Hasta": "2026/06/20 12:00",
-         "URL": "https://vanbee.itch.io/me-name-braaa",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
-      },
-      {
-         "Nombre": "Late Housekeeping by Combo Bomb Games",
-         "Informacion": "Late housekeeping es un breve juego de terror sobre la limpieza... que muestra la historia de una mujer que est\u00e1 sola en casa. su marido dijo que la dejar\u00e1 por unos d\u00edas. a medida que pasa el tiempo, queda en manos de la mujer la responsabilidad de limpiar la casa hasta altas horas de la noche... \u00bfpuede hacerlo?",
-         "Desde": "",
-         "Hasta": "2026/06/20 13:29",
-         "URL": "https://combobombgames.itch.io/latehousekeeping",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
-      },
-      {
-         "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
-         "Informacion": "Proyecto: Reborn - Extracci\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:05",
-         "URL": "https://bkgamingstudio.itch.io/project-reborn-extraction",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Foxy Man by AL7USSAIN",
-         "Informacion": "C\u00f3mo moverse",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/foxy-man",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Here We Go Again by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/hear-we-go-again",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "House Cleaner 2 by AL7USSAIN",
-         "Informacion": "se trata de una empresa de limpieza y vas a las casas y las limpias pero la casa a la que entraste est\u00e1 alojada por un fantasma \u00bfpuede terminar bien esta noche?",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/house-cleaner-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "House Cleaner by AL7USSAIN",
-         "Informacion": "House Cleaner es un juego de terror en el que limpias la casa y la descubres y descubres que est\u00e1 embrujada por un fantasma.",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/housecleaner",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Maze by AL7USSAIN",
-         "Informacion": "Movimiento WASD",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/maze",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "One Spike by AL7USSAIN",
-         "Informacion": "Es un juego dif\u00edcil en 2D con trampas dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/one-spike",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Simple Tasks by AL7USSAIN",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/simple-tasks",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Tiny Tails: The Whale\u00e2\u0080\u0099s Tale by AL7USSAIN, Aust9nn",
-         "Informacion": "En las misteriosas profundidades del oc\u00e9ano, Whaley, una joven y valiente ballena, se embarca en un peligroso viaje para reunirse con sus padres perdidos hace mucho tiempo. Pero el mundo submarino est\u00e1 lleno de peligros: corrientes traicioneras, depredadores astutos y trampas antiguas que guardan secretos olvidados. Whaley debe recorrer este camino traicionero, mientras evita a los enemigos. \u00bfVolver\u00e1 con sus padres?",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/whale-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Zombie Hunter by AL7USSAIN",
-         "Informacion": "WDAS PARA MOVIMIENTO",
-         "Desde": "",
-         "Hasta": "2026/06/20 18:53",
-         "URL": "https://al7ussain.itch.io/zombie-hunter",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/06/20 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "MATILDA by Red Cap Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/06/21 00:00",
-         "URL": "https://redcap-games.itch.io/matilda",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "SIMON'S SHIFT by Red Cap Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/06/21 00:00",
-         "URL": "https://redcap-games.itch.io/simons-shift",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "The Hop Hop by Red Cap Games",
-         "Informacion": "* correr est\u00e1 arreglado, ahora cuando corras solo te escuchar\u00e1 si est\u00e1s cerca de \u00e9l.*",
-         "Desde": "",
-         "Hasta": "2026/06/21 00:00",
-         "URL": "https://redcap-games.itch.io/the-hop-hop",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Magic Data Recovery",
-         "Informacion": "Magic Data Recovery es una poderosa herramienta de recuperaci\u00f3n de datos de Windows de AmagicSoft, que permite a los usuarios recuperar f\u00e1cilmente archivos eliminados, formateados o da\u00f1ados de una amplia gama de dispositivos, todo a trav\u00e9s de una interfaz sencilla e intuitiva.",
-         "Desde": "",
-         "Hasta": "2026/06/21 07:00",
-         "URL": "https://sharewareonsale.com/s/free-magic-data-recovery-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "WinX MediaTrans",
-         "Informacion": "Transfiera medios entre su dispositivo iOS y su computadora",
-         "Desde": "",
-         "Hasta": "2026/06/21 09:00",
-         "URL": "https://www.bitsdujour.com/software/winx-mediatrans/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Evertrust Life And Beyond (Full Game) by After Life Craft",
          "Informacion": "Algunos jugadores notan que algo anda mal. Otros no notan nada en absoluto.",
@@ -229,7 +9,7 @@
          "URL": "https://after-life-craft.itch.io/evertrust-life-beyond",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
       },
       {
          "Nombre": "Magic Data Recovery Wizard Free (100% Discount)",
@@ -239,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/magic-data-recovery-wizard-free-license/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Weapon Rearing by JIYUTORISEI",
@@ -249,7 +29,7 @@
          "URL": "https://jiyutorisei.itch.io/weapon-rearing",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
       },
       {
          "Nombre": "Tangled Void by Jarp.pix",
@@ -259,7 +39,7 @@
          "URL": "https://jarppix.itch.io/tangledvoid",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Apeaksoft iPhone Transfer Free License Key 2026",
@@ -269,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/apeaksoft-iphone-transfer-giveaway/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster Android Eraser Free (100% Discount)",
@@ -279,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-android-eraser-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Flowers Of The Sun by ComfyMattres",
@@ -289,7 +69,7 @@
          "URL": "https://comfymattres.itch.io/flowers-of-the-sun",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Vovsoft Website Screenshot Generator Key Free 2026",
@@ -299,7 +79,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-website-screenshot-generator-free/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
       },
       {
          "Nombre": "Exorcist: final wishes by fishgill",
@@ -309,7 +89,7 @@
          "URL": "https://fishgill.itch.io/exorcist-finalwishes",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "Wise Duplicate Finder Pro",
@@ -319,7 +99,7 @@
          "URL": "https://sharewareonsale.com/s/free-wise-duplicate-finder-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Nuklear Light by QueenJPG",
@@ -347,6 +127,16 @@
          "Desde": "",
          "Hasta": "2026/06/22 15:51",
          "URL": "https://yultt.itch.io/the-calling-pastdemo",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/06/22 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1177,6 +967,36 @@
          "Desde": "",
          "Hasta": "2026/07/19 14:30",
          "URL": "https://rob-demo.itch.io/farm-cook",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "GRAVITY Pilot! by diadas",
+         "Informacion": "Mi entrada para el Bolt Jam #6. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
+         "Desde": "",
+         "Hasta": "2026/07/20 21:00",
+         "URL": "https://diadas.itch.io/gravity-pilot",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Thermo Puzzle by diadas",
+         "Informacion": "Thermo Puzzle\u00a0es un juego sobre conducci\u00f3n t\u00e9rmica.",
+         "Desde": "",
+         "Hasta": "2026/07/20 21:00",
+         "URL": "https://diadas.itch.io/thermo-game",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Clean ATTACK! by diadas",
+         "Informacion": "Mi entrada para el Bolt Jam #2. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
+         "Desde": "",
+         "Hasta": "2026/07/20 21:00",
+         "URL": "https://diadas.itch.io/clean-attack",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
