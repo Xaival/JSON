@@ -1,126 +1,6 @@
 {
-   "date_update": "27 Jun 2026 16:57 UTC",
+   "date_update": "28 Jun 2026 16:32 UTC",
    "values": [
-      {
-         "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game [Chapter 1] by Xx_Vipe",
-         "Informacion": "Algo anda mal con tus padres.",
-         "Desde": "",
-         "Hasta": "2026/06/27 19:10",
-         "URL": "https://xx-vipe475.itch.io/not-like-them",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
-      },
-      {
-         "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game[Chapter 2] by Xx_Vipe",
-         "Informacion": "Adam sobrevivi\u00f3 esa noche. Desear\u00eda no haberlo hecho.",
-         "Desde": "",
-         "Hasta": "2026/06/27 19:10",
-         "URL": "https://xx-vipe475.itch.io/not-like-them-a-psx-horror-gamechapter-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
-      },
-      {
-         "Nombre": "Rent Due: payment In Blood by Xx_Vipe",
-         "Informacion": "Xx_Vipe Producciones \u2014 2026",
-         "Desde": "",
-         "Hasta": "2026/06/27 19:10",
-         "URL": "https://xx-vipe475.itch.io/rent-due",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
-      },
-      {
-         "Nombre": "Reincarnated as a Noble - RPG by S Xavier Uy",
-         "Informacion": "Da la casualidad de que todav\u00eda no est\u00e1 claro c\u00f3mo muri\u00f3, todo parece estar escrito incluso hasta el final... \u00bfqu\u00e9 tipo de vida vivi\u00f3? Al final las Diosas deciden reencarnarlo en otro mundo pero sin que tenga ninguna magia en la que confiar, en un mundo donde todos los seres pose\u00edan magia. \u00bfQu\u00e9 har\u00e1?",
-         "Desde": "",
-         "Hasta": "2026/06/27 23:09",
-         "URL": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Wandwood Academy by Sylvie the Dragon Games",
-         "Informacion": "Debajo de un dosel de hojas susurrantes, donde la luz de las linternas brilla como estrellas ca\u00eddas y el musgo crece espeso a lo largo de caminos sinuosos, se encuentra Wandwood Academy, una escuela de magia en el bosque como ninguna otra.",
-         "Desde": "",
-         "Hasta": "2026/06/28 05:59",
-         "URL": "https://sylviethedragon.itch.io/wandwood-academy",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Viking Rune Tokens (VTT) by Lazarus",
-         "Informacion": "Las\u00a0Viking Rune Tokens\u00a0es un paquete de tokens VTT que incluye 72 tokens \u00fanicos adornados con runas vikingas. El paquete incluye tres variaciones de color: madera desgastada, madera oscura y texturas de cuero. Estas fichas son perfectas para juegos hist\u00f3ricos y de fantas\u00eda, pero brillan especialmente en los juegos de rol ambientados en la era de la Edad Media.",
-         "Desde": "",
-         "Hasta": "2026/06/28 06:00",
-         "URL": "https://gm-lazarus.itch.io/viking-rune-tokens-vtt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "WarBanners 3 by Lazarus",
-         "Informacion": "WarBanners 3 es un conjunto de fichas de marcador de mapa que se puede utilizar en simuladores de mesa virtuales. Consisten en marcadores y fichas numerados y con letras marcadas con s\u00edmbolos, disponibles en tres combinaciones de colores.",
-         "Desde": "",
-         "Hasta": "2026/06/28 06:00",
-         "URL": "https://gm-lazarus.itch.io/warbanners-3",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Data Map Markers - V1 (VTT) by Lazarus",
-         "Informacion": "Marcadores de datos: V1\u00a0es un conjunto de tokens VTT ciberpunk dise\u00f1ado principalmente para representar \u00e1reas u objetos en mapas a gran escala, pero tambi\u00e9n es adecuado para mapas de batalla normales. Este paquete incluye 117 fichas en tres variaciones de color, cada una con letras y n\u00fameros.",
-         "Desde": "",
-         "Hasta": "2026/06/28 06:00",
-         "URL": "https://gm-lazarus.itch.io/data-map-markers-v1-vtt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Arcane Magic Circle Tokens (VTT) by Lazarus",
-         "Informacion": "143 fichas de c\u00edrculo m\u00e1gico ritual con fondo transparente, f\u00e1ciles de usar en tu simulador de mesa virtual favorito. Este paquete incluye 13 dise\u00f1os \u00fanicos en 11 variaciones de color diferentes. Probado con Roll20, Foundry VTT e Inkarnate.",
-         "Desde": "",
-         "Hasta": "2026/06/28 06:00",
-         "URL": "https://gm-lazarus.itch.io/arcane-magic-circle-tokens-vtt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Fantasy Tokens and Map Markers - Steel and Dark Wood (VTT) by Lazarus",
-         "Informacion": "Las\u00a0fichas de fantas\u00eda y marcadores de mapas: acero y madera oscura\u00a0es un conjunto de fichas que presenta fichas enmarcadas de estilo fantas\u00eda. Estas fichas se pueden utilizar en cualquier entorno hist\u00f3rico o de fantas\u00eda y son ideales para marcar objetos, personajes, NPC, monstruos o puntos importantes en el mapa.",
-         "Desde": "",
-         "Hasta": "2026/06/28 06:00",
-         "URL": "https://gm-lazarus.itch.io/fantasy-tokens-and-map-markers-steel-and-dark-wood-vtt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "Millennial Map Markers (VTT) by Lazarus",
-         "Informacion": "Los\u00a0Marcadores de mapas milenarios\u00a0es un conjunto de fichas de marcadores de mapas. Estos marcadores evocan el estilo de finales del siglo XIX y principios del XX, lo que los hace adecuados para campa\u00f1as que van desde el Salvaje Oeste hasta el final de la Revoluci\u00f3n Industrial, incluido el per\u00edodo de la Primera Guerra Mundial. Tambi\u00e9n encajan bien en entornos steampunk.",
-         "Desde": "",
-         "Hasta": "2026/06/28 06:00",
-         "URL": "https://gm-lazarus.itch.io/millennial-map-markers",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
-      {
-         "Nombre": "WarBanners 2 by Lazarus",
-         "Informacion": "WarBanners 2 es un conjunto de fichas de marcador de mapa que se puede utilizar en simuladores de mesa virtuales. Consisten en marcadores y fichas numerados y con letras marcadas con s\u00edmbolos, disponibles en tres combinaciones de colores.",
-         "Desde": "",
-         "Hasta": "2026/06/28 06:00",
-         "URL": "https://gm-lazarus.itch.io/warbanners-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
-      },
       {
          "Nombre": "monkey insider trading by Fish dev",
          "Informacion": "MONKEY INSIDER TRADING es un juego inactivo incremental simple pero adictivo en el que tu \u00fanico objetivo es ganar una cantidad obscena de dinero.",
@@ -129,7 +9,7 @@
          "URL": "https://fishdev-fr.itch.io/monkey-insider-trading",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
       },
       {
          "Nombre": "Coolmuster ePub Converter Free (100% Discount)",
@@ -139,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-epub-converter-pro-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Coolmuster Word to PDF Converter (100% Discount)",
@@ -149,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-word-to-pdf-converter-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Vovsoft Audio to Lyrics Converter (100% Discount)",
@@ -159,7 +39,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-audio-to-lyrics-converter-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
       },
       {
          "Nombre": "Calmed by the Dark Aftermath by Calmed by the Dark Games",
@@ -169,7 +49,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-aftermath",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "Calmed by the Dark In:Finity by Calmed by the Dark Games",
@@ -179,7 +59,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-infinity",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "Calmed by the Dark Neon by Calmed by the Dark Games",
@@ -189,7 +69,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-neon",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "Calmed by the Dark Purgatorium by Calmed by the Dark Games",
@@ -199,7 +79,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-purgatorium",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "Calmed by the Dark Re:Boot by Calmed by the Dark Games",
@@ -209,7 +89,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-reboot",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "Calmed by the Dark RE:iterate by Calmed by the Dark Games",
@@ -219,7 +99,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/calmed-by-the-dark-reiterate",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "Perished World Merchant by Calmed by the Dark Games",
@@ -229,7 +109,7 @@
          "URL": "https://calmed-by-the-dark-games.itch.io/perished-world-merchant",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 19%, yellow 19%) 1;"
       },
       {
          "Nombre": "iCare Format Recovery Pro",
@@ -239,7 +119,7 @@
          "URL": "https://sharewareonsale.com/s/free-icare-format-recovery-pro-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "QR Code And Barcode Reader",
@@ -249,7 +129,17 @@
          "URL": "https://sharewareonsale.com/s/free-qr-code-and-barcode-reader-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Live Aquarium 4k",
+         "Informacion": "*** \u00a1Buenas noticias! ashampoo GmbH & Co. KG ha acordado ampliar este acuerdo un d\u00eda m\u00e1s - \u00a1Disfr\u00fatelo! ***",
+         "Desde": "",
+         "Hasta": "2026/06/29 09:00",
+         "URL": "https://www.bitsdujour.com/software/live-aquarium-4k/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
       },
       {
          "Nombre": "iCare Format Recovery Pro Fre (100% Discount)",
@@ -352,6 +242,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "The Bigfoot: Snow Massacre by Dead Dove Studio",
+         "Informacion": "- Estudio Paloma Muerta",
+         "Desde": "",
+         "Hasta": "2026/06/30 07:50",
+         "URL": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "BABUZI by vanbee",
          "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
          "Desde": "",
@@ -417,6 +317,16 @@
          "Desde": "",
          "Hasta": "2026/06/30 18:35",
          "URL": "https://fgannan.itch.io/breach",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Evertrust Life And Beyond (Full Game) by After Life Craft",
+         "Informacion": "Algunos jugadores notan que algo anda mal. Otros no notan nada en absoluto.",
+         "Desde": "",
+         "Hasta": "2026/06/30 19:30",
+         "URL": "https://after-life-craft.itch.io/evertrust-life-beyond",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -782,6 +692,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Reincarnated as a Noble - RPG by S Xavier Uy",
+         "Informacion": "Da la casualidad de que todav\u00eda no est\u00e1 claro c\u00f3mo muri\u00f3, todo parece estar escrito incluso hasta el final... \u00bfqu\u00e9 tipo de vida vivi\u00f3? Al final las Diosas deciden reencarnarlo en otro mundo pero sin que tenga ninguna magia en la que confiar, en un mundo donde todos los seres pose\u00edan magia. \u00bfQu\u00e9 har\u00e1?",
+         "Desde": "",
+         "Hasta": "2026/07/03 23:09",
+         "URL": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo UnInstaller 15",
          "Informacion": "Ashampoo UnInstaller 15 desinstala programas no deseados de cualquier PC sin restos. Con hasta cinco niveles de eliminaci\u00f3n, elimina por completo cualquier programa, aplicaci\u00f3n de Windows y complemento.",
          "Desde": "",
@@ -802,6 +722,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Hakemord: Episode 1 by HakemordDev",
+         "Informacion": "Eres un caminante de sue\u00f1os. Tu prop\u00f3sito, tu raz\u00f3n misma de existir; es ayudar a los dem\u00e1s entrando en sus sue\u00f1os y encontrando la ra\u00edz de sus problemas.\u00a0 Pero no sabes en qui\u00e9n es el sue\u00f1o en el que acabas de entrar y las cosas se oscurecen muy r\u00e1pidamente.\u00a0 Aprende a encontrar tu camino y salva a los dem\u00e1s, o quedar\u00e1s atrapado para siempre.",
+         "Desde": "",
+         "Hasta": "2026/07/05 01:25",
+         "URL": "https://hakemorddev.itch.io/hakemord",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shackled: Arena by HakemordDev",
+         "Informacion": "Shackled: Arena\u00a0no es tanto un juego\u00a0sino una exhibici\u00f3n de activos con un objetivo, principio y final.\u00a0Atrapado en los restos antiguos de una arena en constante cambio; tienes la tarea de forjar un arma y luchar contra cualquier desaf\u00edo que te espera hasta el final.\u00a0Hackea, corta y mata a patadas a tus enemigos con un arma dise\u00f1ada a tu gusto.",
+         "Desde": "",
+         "Hasta": "2026/07/05 01:25",
+         "URL": "https://hakemorddev.itch.io/shackled-arena",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VCap Downloader PRO",
+         "Informacion": "VCap Downloader (VCapDL) es un software universal que le permite capturar v\u00eddeo y audio de sitios de Internet. La interfaz del software integra la conocida interfaz del navegador. El usuario s\u00f3lo necesita copiar la URL del v\u00eddeo desde su navegador favorito y transferirlo a VCap Downloader. VCap Downloader capturar\u00e1 el video y ofrecer\u00e1 calidad disponible para descargar. Tambi\u00e9n puedes extraer s\u00f3lo la pista de audio de cualquier v\u00eddeo y convertirla al formato MP3.",
+         "Desde": "",
+         "Hasta": "2026/07/05 07:00",
+         "URL": "https://sharewareonsale.com/s/free-vcap-downloader-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ChoronosCityA\u00c4\u00b0Detective by GameBuegar",
          "Informacion": "\u00a1Hola a todos! He estado trabajando en este proyecto por un tiempo y estoy muy emocionado de finalmente compartirlo con ustedes.",
          "Desde": "",
@@ -817,6 +767,26 @@
          "Desde": "",
          "Hasta": "2026/07/05 13:22",
          "URL": "https://gamebuegar.itch.io/colonyadventure",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VCap Downloader PRO License Key Free Download",
+         "Informacion": "VCap Downloader PRO es un descargador de videos simple pero potente para Windows, que admite la descarga de videos/audio de YouTube o Vimeo y otros 10,000 sitios de forma gratuita. Con su ayuda, puedes descargar videos y guardarlos en formatos MP4, WebM y 3GP con alta calidad y extraer solo pistas de audio de cualquier video y convertirlas a MP3. Este software de descarga de videos tambi\u00e9n admite la descarga por lotes.",
+         "Desde": "",
+         "Hasta": "2026/07/05 14:00",
+         "URL": "https://giveaway.tickcoupon.com/vcap-downloader-pro-full-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A Day To Remember by LovelyCinnamon",
+         "Informacion": "Un d\u00eda para recordar es una novela visual corta protagonizada por dos chicas llamadas Rain y Aino.",
+         "Desde": "",
+         "Hasta": "2026/07/06 06:00",
+         "URL": "https://lovelycinnamon.itch.io/a-day-to-remember",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1137,6 +1107,16 @@
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
          "URL": "https://adelfosse.itch.io/citysimul",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Color Mind by LYL Games",
+         "Informacion": "TIEMPO DE JUEGO: 8 HORAS",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://lyl-games.itch.io/color-mind",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1807,6 +1787,16 @@
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
          "URL": "https://itchyskink0.itch.io/minesweeper",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Misty Lake Survivors by Zabawne Gierki",
+         "Informacion": "Mi intento de hacer un Vampire Survivors con personajes de Touhou.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://zabawne-gierki.itch.io/mist-lake-survivors",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2822,21 +2812,71 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Misty Lake Survivors by Zabawne Gierki",
-         "Informacion": "Mi intento de hacer un Vampire Survivors con personajes de Touhou.",
+         "Nombre": "Saving Otto by Itswolfcity811, Vutterfly",
+         "Informacion": "Hecho para el planeta Game Jam #16.",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
-         "URL": "https://zabawne-gierki.itch.io/mist-lake-survivors",
+         "URL": "https://itswolfcity811.itch.io/saving-otto",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Color Mind by LYL Games",
-         "Informacion": "TIEMPO DE JUEGO: 8 HORAS",
+         "Nombre": "Path Defenders: More Than Just Tower Defense by benjaminadams",
+         "Informacion": "Est\u00e1s jugando la demo aqu\u00ed, pero puedes comprar el juego completo a continuaci\u00f3n o incluirlo en la lista de deseos de Steam.",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
-         "URL": "https://lyl-games.itch.io/color-mind",
+         "URL": "https://benjaminadams.itch.io/path-defenders",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Futua Simula by Justyxxx",
+         "Informacion": "[Acerca del juego]",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://justyxxx.itch.io/futuasimula",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Silence by Zachariah69",
+         "Informacion": "Fuiste enviado para eliminar una amenaza; ahora est\u00e1s atrapado dentro de tu propio error. En los pasillos oscuros bulle maquinaria vieja y algo observa desde las sombras. Encuentra pistas, resuelve acertijos y enfr\u00e9ntate a lo que crearon tus \u00f3rdenes.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://zachariah69.itch.io/the-last-silence",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ward Zero by Zachariah69",
+         "Informacion": "El hospital est\u00e1 vac\u00edo, pero se siente muy vivo. Los pasillos se extienden m\u00e1s de lo que deber\u00edan, las puertas se cierran como si algo no quisiera que te fueras y las habitaciones\u2026 cambian cuando no est\u00e1s mirando. Buscar\u00e1s llaves, fragmentos de notas, resolver\u00e1s acertijos y cualquier cosa que explique por qu\u00e9 est\u00e1s aqu\u00ed, mientras algo invisible te sigue de cerca. Cuanto m\u00e1s profundizas, m\u00e1s te das cuenta de que este lugar no est\u00e1 abandonado: est\u00e1 observando.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://zachariah69.itch.io/ward-zero",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Abode: Definitive Edition by Jordon",
+         "Informacion": "La nueva versi\u00f3n de Abode que hice para celebrar el 1er Aniversario. Incluye contenido nuevo, historia y varias correcciones de errores. Tambi\u00e9n se puede comprar en Steam aqu\u00ed\u00a0https://store.steampowered.com/app/3243780/Abode_Definitive_Edition/",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://jordons.itch.io/abode-definitive-edition",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Blastazoid by ThatNeonSlime",
+         "Informacion": "Relato corto: Despu\u00e9s de ser el \u00faltimo miembro de la rebeli\u00f3n contra un gobierno \"Shaped\", te escondiste. Pero ahora te han encontrado y est\u00e1n trayendo todas las armas que tienen para derrotarte... Pero t\u00fa tienes tu propia arma: \u00a1C1rc1e V2!",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://thatneonslime.itch.io/blastaz0idthegame",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -3067,6 +3107,16 @@
          "Desde": "",
          "Hasta": "2026/07/24 22:00",
          "URL": "https://takroni.itch.io/thebutcher",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Carnival Roulette (Demo) by HMoGames",
+         "Informacion": "Carnival Roulette es un juego de terror creado en torno a un juego de azar mortal, similar en esp\u00edritu a Buckshot Roulette, pero ampliado con nuevas mec\u00e1nicas y capas estrat\u00e9gicas.",
+         "Desde": "",
+         "Hasta": "2026/07/28 05:22",
+         "URL": "https://hmogames.itch.io/carnival-roulette",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
