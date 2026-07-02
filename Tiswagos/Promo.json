@@ -1,126 +1,6 @@
 {
-   "date_update": "01 Jul 2026 16:40 UTC",
+   "date_update": "02 Jul 2026 16:36 UTC",
    "values": [
-      {
-         "Nombre": "snowstorm by DavidMunoz",
-         "Informacion": "Snowstorm es un juego narrativo corto sobre un viejo fot\u00f3grafo jubilado. Encuentra recuerdos y deshazte de las cargas del pasado.",
-         "Desde": "",
-         "Hasta": "2026/07/01 10:00",
-         "URL": "https://davidmunozt.itch.io/snowstorm",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Tell Me Why",
-         "Informacion": "Tell Me Why es el juego de aventuras epis\u00f3dico ganador de m\u00faltiples premios de Dontnod Entertainment en el que los gemelos utilizan su v\u00ednculo sobrenatural para descubrir la verdad de su turbulento pasado.",
-         "Desde": "",
-         "Hasta": "2026/07/01 10:00",
-         "URL": "https://store.steampowered.com/app/1180660/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Duskhold by ForsakenMike",
-         "Informacion": "No sobrevivir\u00e1s. Pero volver\u00e1s. Y esta vez sabr\u00e1s qu\u00e9 te mat\u00f3.",
-         "Desde": "",
-         "Hasta": "2026/07/01 12:39",
-         "URL": "https://forsakenmike.itch.io/duskhold",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
-      },
-      {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "UN JUEGO CORTO DE TERROR",
-         "Desde": "",
-         "Hasta": "2026/07/01 22:40",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
-      },
-      {
-         "Nombre": "Back to Modern World - Fantasy Hero 2: Magic Academy by S Xavier Uy",
-         "Informacion": "Han pasado muchos a\u00f1os desde entonces, el viaje de yoha taka contin\u00faa, parece que ya hab\u00edan pasado muchas cosas. Actualmente asiste a una academia de magia en otro mundo con una misi\u00f3n importante junto con sus compa\u00f1eros.",
-         "Desde": "",
-         "Hasta": "2026/07/01 23:56",
-         "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero-2-travel",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
-      },
-      {
-         "Nombre": "Back to Modern World - Fantasy Hero by S Xavier Uy",
-         "Informacion": "Cuando Yoha Taka muri\u00f3 en un accidente, Dios aparece ante \u00e9l en un espacio lleno de espacios en blanco y blanco. Tu caso es muy especial, Dios dijo: \"Te resucitar\u00e9 en otro mundo\". y con una gran responsabilidad que llevar. Yoha Taka solo quiere una cosa es volver a su mundo anterior y permanecer junto a su sensei nuevamente, pero eso solo es posible si derrota al se\u00f1or de los demonios. Entonces, \u00bfqu\u00e9 pasar\u00e1 si env\u00edan a un chuunibyou a otro mundo que solo est\u00e1 lleno de fantas\u00eda?",
-         "Desde": "",
-         "Hasta": "2026/07/01 23:56",
-         "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
-      },
-      {
-         "Nombre": "Bamm - Online PvP by Bukmand",
-         "Informacion": "\u00a1No olvides dejar una calificaci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2026/07/02 00:37",
-         "URL": "https://bukmand.itch.io/bamm",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Guess Yes by Bukmand",
-         "Informacion": "\u00a1No olvides dejar una calificaci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2026/07/02 00:37",
-         "URL": "https://bukmand.itch.io/guess-yes",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Regular Fighters - Online PvP by Bukmand",
-         "Informacion": "\u00a1No olvides dejar una calificaci\u00f3n!",
-         "Desde": "",
-         "Hasta": "2026/07/02 00:37",
-         "URL": "https://bukmand.itch.io/regular-fighters",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "Unfair Square - Online PvP by Bukmand",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/02 00:37",
-         "URL": "https://bukmand.itch.io/unfair-square",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
-      {
-         "Nombre": "ZD Screen Marker Pro",
-         "Informacion": "ZD Screen Marker es un software de pizarra y anotaciones en pantalla de Windows para ense\u00f1anza en vivo, demostraciones de productos, presentaciones y sesiones de soporte.",
-         "Desde": "",
-         "Hasta": "2026/07/02 07:00",
-         "URL": "https://sharewareonsale.com/s/free-zd-screen-marker-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
-      },
-      {
-         "Nombre": "WonderFox DVD Ripper Pro",
-         "Informacion": "Transforme pel\u00edculas en DVD en formatos de archivos port\u00e1tiles",
-         "Desde": "",
-         "Hasta": "2026/07/02 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-dvd-ripper-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
-      },
       {
          "Nombre": "The Black Within by waleedzo",
          "Informacion": "The Black Within es un horror psicol\u00f3gico en primera persona para un jugador. Al vender su alma por fama y fortuna, Laila Rose enfrenta las consecuencias de sus acciones. Una historia de codicia, miedo y cambio.",
@@ -129,7 +9,7 @@
          "URL": "https://waleedzo.itch.io/the-black-within",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
       },
       {
          "Nombre": "The Green Light by waleedzo",
@@ -139,7 +19,7 @@
          "URL": "https://waleedzo.itch.io/the-green-light",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
       },
       {
          "Nombre": "ZD Screen Marker Pro Key Free (100% Discount)",
@@ -149,7 +29,7 @@
          "URL": "https://giveaway.tickcoupon.com/zd-screen-marker-pro-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 82%, yellow 82%) 1;"
       },
       {
          "Nombre": "RollerCoaster Tycoon 3 Complete Edition",
@@ -159,7 +39,7 @@
          "URL": "https://store.epicgames.com/p/rollercoaster-tycoon-3-complete-edition",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "Voidwrought",
@@ -169,7 +49,7 @@
          "URL": "https://store.epicgames.com/p/voidwrought-ce8f4b",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "Coolmuster HEIC Converter Free (100% Discount)",
@@ -179,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-heic-converter-free-license/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "GeekerPDF",
@@ -189,7 +69,7 @@
          "URL": "https://sharewareonsale.com/s/free-geekerpdf-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
       },
       {
          "Nombre": "GeekerPDF (100% Discount) License Key Free",
@@ -372,11 +252,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BABUZI by vanbee",
+         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/07/06 12:00",
+         "URL": "https://vanbee.itch.io/babuzi",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Elevator Inferno by vanbee",
          "Informacion": "disfruta tu ca\u00edda",
          "Desde": "",
          "Hasta": "2026/07/06 12:00",
          "URL": "https://vanbee.itch.io/elevator-inferno",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MAZE by vanbee",
+         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
+         "Desde": "",
+         "Hasta": "2026/07/06 12:00",
+         "URL": "https://vanbee.itch.io/maze",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -392,21 +292,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "BABUZI by vanbee",
-         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
+         "Nombre": "Sonambula by Fenixapple",
+         "Informacion": "Sonambula: es una breve experiencia de terror psicol\u00f3gico que se desplaza a trav\u00e9s de una realidad distorsionada y los pensamientos inexplorados de su personaje principal.",
          "Desde": "",
-         "Hasta": "2026/07/06 12:00",
-         "URL": "https://vanbee.itch.io/babuzi",
+         "Hasta": "2026/07/06 13:20",
+         "URL": "https://fenixapple.itch.io/sonambula",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "MAZE by vanbee",
-         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
+         "Nombre": "Fractured: Roadwood Stop by Fenixapple",
+         "Informacion": "Fractured: un horror epis\u00f3dico psicol\u00f3gico que expone la verdadera pesadilla de nuestro mundo.",
          "Desde": "",
-         "Hasta": "2026/07/06 12:00",
-         "URL": "https://vanbee.itch.io/maze",
+         "Hasta": "2026/07/06 13:20",
+         "URL": "https://fenixapple.itch.io/fractured-roadwood-stop",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Fractured: The Cast by Fenixapple",
+         "Informacion": "Fractured: un horror epis\u00f3dico psicol\u00f3gico que expone la verdadera pesadilla de nuestro mundo.",
+         "Desde": "",
+         "Hasta": "2026/07/06 13:20",
+         "URL": "https://fenixapple.itch.io/fractured",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1322,6 +1232,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Icebound Extermination by Redwolf Studios.",
+         "Informacion": "Sum\u00e9rgete en un mundo helado de caos y supervivencia en este shooter sin fin en tercera persona. Lucha contra una avalancha de mutantes amenazantes y robots despiadados mientras navegas por un terreno implacable.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://redwolfstudios-deg.itch.io/icebound-extermination",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Inertia by max levine stuff",
          "Informacion": "Me siento tan impotente y libre. . .",
          "Desde": "",
@@ -1392,6 +1312,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Last Friday by ReganC",
+         "Informacion": "Last Friday es una breve experiencia atmosf\u00e9rica en primera persona inspirada en\r\n  Espacios liminales, est\u00e9tica anal\u00f3gica y l\u00f3gica on\u00edrica.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://reganc.itch.io/last-friday",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Last Friday by Steveeez",
          "Informacion": "Last Friday es una breve experiencia atmosf\u00e9rica en primera persona inspirada en espacios liminales, est\u00e9tica anal\u00f3gica y l\u00f3gica de los sue\u00f1os.",
          "Desde": "",
@@ -1437,6 +1367,16 @@
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
          "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MadPillGambit by biasio",
+         "Informacion": "Secuestrado y drogado, te despiertas en un barco oxidado; la \u00fanica salida es jugar un juego retorcido.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://biasio.itch.io/madpillgambit",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1862,6 +1802,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Rotten by Redwolf Studios.",
+         "Informacion": "Se supon\u00eda que ser\u00eda una noche m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://redwolfstudios-deg.itch.io/rotten",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "RPG: Conquer the World by LL studio",
          "Informacion": "Experimenta la historia de un joven com\u00fan y corriente, visita la escuela, lucha contra enemigos, encuentra tu primer amor y, lo m\u00e1s importante, \u00a1conquista el mundo!",
          "Desde": "",
@@ -2202,11 +2152,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Teddy Tragedy by Redwolf Studios.",
+         "Informacion": "Eres s\u00f3lo un pizzero. Una \u00faltima entrega antes de fichar la salida.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://redwolfstudios-deg.itch.io/teddy-tragedy",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Telly the TV by ExtraMustard",
          "Informacion": "Obt\u00e9n Telly the TV en Amazon App Store por 99 centavos para tabletas Android y Fire",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
          "URL": "https://extramustard.itch.io/telly-the-tv",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "That Christmas Night by Redwolf Studios.",
+         "Informacion": "Es Navidad, mam\u00e1 sali\u00f3 a buscar m\u00e1s cosas, configuraste todo para crear un ambiente navide\u00f1o, pero alguien te est\u00e1 mirando, te sigue en secreto, \u00a1es SANTA!",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://redwolfstudios-deg.itch.io/that-christmas-night",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2632,61 +2602,101 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Rotten by Redwolf Studios.",
-         "Informacion": "Se supon\u00eda que ser\u00eda una noche m\u00e1s.",
+         "Nombre": "Tales of Haranya by ArmoredMooseGames",
+         "Informacion": "Tales of Haranya es un pr\u00f3ximo juego de rol creado por un desarrollador en solitario, explora el mundo m\u00e1gico de Haranya y emb\u00e1rcate en aventuras y misiones, lucha contra jefes, explora mazmorras y artesan\u00edas (que incluyen, entre otras, pesca, miner\u00eda, tala de madera). el juego a\u00fan se encuentra en la etapa de acceso temprano.",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
-         "URL": "https://redwolfstudios-deg.itch.io/rotten",
+         "URL": "https://armoredmoose.itch.io/tales-of-haranya",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Last Friday by ReganC",
-         "Informacion": "Last Friday es una breve experiencia atmosf\u00e9rica en primera persona inspirada en\r\n  Espacios liminales, est\u00e9tica anal\u00f3gica y l\u00f3gica on\u00edrica.",
+         "Nombre": "AN OFFER FOR YOU 1 by Elytra",
+         "Informacion": "Un juego de terror corto al estilo de PS1, desarrollado en s\u00f3lo 7-8 d\u00edas.",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
-         "URL": "https://reganc.itch.io/last-friday",
+         "URL": "https://elytra-00.itch.io/an-offer-for-you",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "That Christmas Night by Redwolf Studios.",
-         "Informacion": "Es Navidad, mam\u00e1 sali\u00f3 a buscar m\u00e1s cosas, configuraste todo para crear un ambiente navide\u00f1o, pero alguien te est\u00e1 mirando, te sigue en secreto, \u00a1es SANTA!",
+         "Nombre": "The Enemy by Worst Event Games",
+         "Informacion": "Mehrzad Sepahi",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
-         "URL": "https://redwolfstudios-deg.itch.io/that-christmas-night",
+         "URL": "https://worsteventgames.itch.io/the-enemy",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Teddy Tragedy by Redwolf Studios.",
-         "Informacion": "Eres s\u00f3lo un pizzero. Una \u00faltima entrega antes de fichar la salida.",
+         "Nombre": "Duskhold by ForsakenMike",
+         "Informacion": "No sobrevivir\u00e1s. Pero volver\u00e1s. Y esta vez sabr\u00e1s qu\u00e9 te mat\u00f3.",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
-         "URL": "https://redwolfstudios-deg.itch.io/teddy-tragedy",
+         "URL": "https://forsakenmike.itch.io/duskhold",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "MadPillGambit by biasio",
-         "Informacion": "Secuestrado y drogado, te despiertas en un barco oxidado; la \u00fanica salida es jugar un juego retorcido.",
+         "Nombre": "Night Maniac 2: The Legacy Of Blood by Noxus Games Studio",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
-         "URL": "https://biasio.itch.io/madpillgambit",
+         "URL": "https://noxusgamesstudio.itch.io/nightmaniac2",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Icebound Extermination by Redwolf Studios.",
-         "Informacion": "Sum\u00e9rgete en un mundo helado de caos y supervivencia en este shooter sin fin en tercera persona. Lucha contra una avalancha de mutantes amenazantes y robots despiadados mientras navegas por un terreno implacable.",
+         "Nombre": "Night Maniac by Noxus Games Studio",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/06 19:10",
-         "URL": "https://redwolfstudios-deg.itch.io/icebound-extermination",
+         "URL": "https://noxusgamesstudio.itch.io/nightmaniac",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Stalker by GamingTGT",
+         "Informacion": "Un trabajador probado regres\u00f3 a su casa y no encontr\u00f3 comida. Fue a la tienda cercana y encontr\u00f3 a su primo regresando del trabajo, pero algo extra\u00f1o sucede detr\u00e1s de \u00e9l.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://tgtstudio.itch.io/stalker",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The MountWood Creature - Survival Mode Update by Noxus Games Studio",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://noxusgamesstudio.itch.io/the-mountwood-creature",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Leave me alone! by Noxus Games Studio",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://noxusgamesstudio.itch.io/leavemealone",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "A Frog Took My Sister by Surreptitious Games",
+         "Informacion": "Haz un viaje de regreso y disfruta de este rompecabezas y acci\u00f3n de inspiraci\u00f3n retro.  En un profundo esfuerzo por salvar a tu hermana de la malvada rana, juega a trav\u00e9s de 15 niveles diferentes.",
+         "Desde": "",
+         "Hasta": "2026/07/06 19:10",
+         "URL": "https://kcpunk666.itch.io/a-frog-took-my-sister",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2712,6 +2722,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Back to Modern World - Fantasy Hero 2: Magic Academy by S Xavier Uy",
+         "Informacion": "Han pasado muchos a\u00f1os desde entonces, el viaje de yoha taka contin\u00faa, parece que ya hab\u00edan pasado muchas cosas. Actualmente asiste a una academia de magia en otro mundo con una misi\u00f3n importante junto con sus compa\u00f1eros.",
+         "Desde": "",
+         "Hasta": "2026/07/08 23:56",
+         "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero-2-travel",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Back to Modern World - Fantasy Hero by S Xavier Uy",
+         "Informacion": "Cuando Yoha Taka muri\u00f3 en un accidente, Dios aparece ante \u00e9l en un espacio lleno de espacios en blanco y blanco. Tu caso es muy especial, Dios dijo: \"Te resucitar\u00e9 en otro mundo\". y con una gran responsabilidad que llevar. Yoha Taka solo quiere una cosa es volver a su mundo anterior y permanecer junto a su sensei nuevamente, pero eso solo es posible si derrota al se\u00f1or de los demonios. Entonces, \u00bfqu\u00e9 pasar\u00e1 si env\u00edan a un chuunibyou a otro mundo que solo est\u00e1 lleno de fantas\u00eda?",
+         "Desde": "",
+         "Hasta": "2026/07/08 23:56",
+         "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Chompers Playhouse: Chapter 1 by Kellan Dodson",
          "Informacion": "Casa de juegos Chompers: Cap\u00edtulo 1",
          "Desde": "",
@@ -2722,6 +2752,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "100 Sci-Fi LUTs Pack",
+         "Informacion": "El paquete de posprocesamiento de 100 LUT de ciencia ficci\u00f3n es una colecci\u00f3n de efectos de posprocesamiento y ajustes de color de alta calidad, r\u00e1pidos y personalizables para Unity.",
+         "Desde": "",
+         "Hasta": "2026/07/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-100-sci-fi-luts-pack-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "I Have No Mouth, and I Must Scream",
          "Informacion": "The Allied Mastercomputer has destroyed all of humanity except for five people, whom it has been keeping them alive and torturing them for the past one hundred and nine years by designing virtual adventures based on their fears and weaknesses.",
          "Desde": "2026/07/02",
@@ -2729,7 +2769,7 @@
          "URL": "https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "River City Girls 2",
@@ -2739,7 +2779,7 @@
          "URL": "https://store.epicgames.com/p/river-city-girls-2-77af3a",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Mortem by Windy",
@@ -2842,11 +2882,51 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Russian Roulette: Cards Of Fate by JefO_o",
+         "Informacion": "Un ca\u00f3tico juego de ruleta multijugador sobre faroles, traici\u00f3n y sobrevivir a un tir\u00f3n m\u00e1s del gatillo.",
+         "Desde": "",
+         "Hasta": "2026/07/14 19:10",
+         "URL": "https://jefo-o.itch.io/russian-roulette-cards-of-fate",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Uncanny Tales: The Watcher (Demo) by VYASTUDIO",
          "Informacion": "Tiempo de reproducci\u00f3n de demostraci\u00f3n: 40 minutos",
          "Desde": "",
          "Hasta": "2026/07/14 20:57",
          "URL": "https://vyastudio.itch.io/uncanny-tales-the-watcher",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "LastHope by MaoriG",
+         "Informacion": "LastHope es un videojuego \"Tower Defense\" estilo defender el centro en el que controlas a un personaje en un traje Hazard. Debes construir una base y defenderla de hordas de zombis que vendr\u00c3\u00a1n con la intenci\u00c3\u00b3n de comerse tu cerebro y el de tus subordinados.",
+         "Desde": "",
+         "Hasta": "2026/07/15 00:00",
+         "URL": "https://maorig.itch.io/lasthope",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DON'T LEAVE... by Hawary_Studios",
+         "Informacion": "NO DEJES",
+         "Desde": "",
+         "Hasta": "2026/07/15 19:10",
+         "URL": "https://hawary-studios.itch.io/dont-leave",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "UN JUEGO CORTO DE TERROR",
+         "Desde": "",
+         "Hasta": "2026/07/15 22:40",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -2860,6 +2940,16 @@
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tattoo Tycoon",
+         "Informacion": "Descubre el mundo de los tatus y toma las riendas de tu estudio. Encuentra dise\u00f1os perfectos para clientes exc\u00e9ntricos y transforma sus vagas ideas en obras de arte sobre su piel. Expande tu peque\u00f1o estudio hasta acabar inaugurando sucursales en cada barrio de Bah\u00eda Tatuga.",
+         "Desde": "2026/07/09",
+         "Hasta": "2026/07/16 17:00",
+         "URL": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Last soldier standing by Khaled",
@@ -3082,6 +3172,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Dungeon 30 by Joudacasa",
+         "Informacion": "Dungeon 30 es un trepidante juego de acci\u00f3n y rompecabezas isom\u00e9trico en el que cada paso cuenta. Sum\u00e9rgete en un mundo construido \u00edntegramente con una est\u00e9tica v\u00f3xel limpia, donde tu objetivo es simple pero la ejecuci\u00f3n es mortal: sobrevivir a 30 niveles de mazmorras cada vez m\u00e1s dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2026/07/31 17:25",
+         "URL": "https://joudacasa.itch.io/dungeon-30",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Gravity Switcher 3D by Joudacasa",
          "Informacion": "El suelo es s\u00f3lo una perspectiva.",
          "Desde": "",
@@ -3102,11 +3202,61 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Dungeon 30 by Joudacasa",
-         "Informacion": "Dungeon 30 es un trepidante juego de acci\u00f3n y rompecabezas isom\u00e9trico en el que cada paso cuenta. Sum\u00e9rgete en un mundo construido \u00edntegramente con una est\u00e9tica v\u00f3xel limpia, donde tu objetivo es simple pero la ejecuci\u00f3n es mortal: sobrevivir a 30 niveles de mazmorras cada vez m\u00e1s dif\u00edciles.",
+         "Nombre": "Unseen - Someone [DEMO] by VladisLive Dev",
+         "Informacion": "",
          "Desde": "",
-         "Hasta": "2026/07/31 17:25",
-         "URL": "https://joudacasa.itch.io/dungeon-30",
+         "Hasta": "2026/08/01 15:06",
+         "URL": "https://vladislive-dev.itch.io/unseen-someone-demo",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Red Margins by VladisLive Dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/01 15:06",
+         "URL": "https://vladislive-dev.itch.io/unseen-red-margins",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Uninvited by VladisLive Dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/01 15:06",
+         "URL": "https://vladislive-dev.itch.io/the-uninvited",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wasteland Alone by VladisLive Dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/01 15:06",
+         "URL": "https://vladislive-dev.itch.io/wasteland-alone",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exit Only by VladisLive Dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/01 15:06",
+         "URL": "https://vladislive-dev.itch.io/exit-only",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Eternal Night by VladisLive Dev",
+         "Informacion": "Trama",
+         "Desde": "",
+         "Hasta": "2026/08/01 15:06",
+         "URL": "https://vladislive-dev.itch.io/eternal-night",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -3377,6 +3527,16 @@
          "Desde": "",
          "Hasta": "2027/05/09 21:00",
          "URL": "https://ahsanmakesgames.itch.io/tubey-paingiver",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Porky's Bloodbath by nilefox717",
+         "Informacion": "Sum\u00e9rgete en esta breve experiencia de terror en la que un limpiador de hotel se prepara para terminar su turno sin darse cuenta del horror inminente que te espera.",
+         "Desde": "",
+         "Hasta": "2027/12/19 05:47",
+         "URL": "https://nilefox717.itch.io/porkys-bloodbath",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
