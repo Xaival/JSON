@@ -1,56 +1,6 @@
 {
-   "date_update": "15 Jul 2026 16:19 UTC",
+   "date_update": "16 Jul 2026 16:30 UTC",
    "values": [
-      {
-         "Nombre": "DON'T LEAVE... by Hawary_Studios",
-         "Informacion": "NO DEJES",
-         "Desde": "",
-         "Hasta": "2026/07/15 19:10",
-         "URL": "https://hawary-studios.itch.io/dont-leave",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "UN JUEGO CORTO DE TERROR",
-         "Desde": "",
-         "Hasta": "2026/07/15 22:40",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Apeaksoft Data Recovery (100% Discount) 2026",
-         "Informacion": "Apeaksoft Data Recovery es un potente software que le ayuda a recuperar datos eliminados de Windows, Mac, discos duros, tarjetas de memoria, unidades flash, tel\u00e9fonos m\u00f3viles, c\u00e1maras digitales y m\u00e1s. Adem\u00e1s, le permite obtener una vista previa de im\u00e1genes, documentos, audio, videos, correos electr\u00f3nicos y m\u00e1s eliminados antes de recuperarlos.",
-         "Desde": "",
-         "Hasta": "2026/07/16 00:00",
-         "URL": "https://giveaway.tickcoupon.com/apeaksoft-data-recovery-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Wolf of The Desert by AJInteractive",
-         "Informacion": "\u00a1Te col\u00f3, crea la plataforma tus superpoderes, destruye y hackea dispositivos de seguridad, desaparecen, teletransportan enemigos y descubre misterios!",
-         "Desde": "",
-         "Hasta": "2026/07/16 02:38",
-         "URL": "https://ajinteractive.itch.io/wolfofthedesert",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 28%, yellow 28%) 1;"
-      },
-      {
-         "Nombre": "CBackup",
-         "Informacion": "CBackup permite realizar autom\u00e1ticamente una copia de seguridad del sistema, disco o archivos en el almacenamiento local para salvaguardar los datos, restaurar el sistema o los archivos a partir de copias de seguridad de im\u00e1genes cuando ocurre una p\u00e9rdida de datos o un colapso del sistema, sincronizar archivos entre carpetas, unidades o NAS para un acceso r\u00e1pido desde diferentes lugares. Tambi\u00e9n puede clonar c\u00f3modamente discos o particiones para mover el sistema operativo o los datos sin necesidad de reinstalarlos.",
-         "Desde": "",
-         "Hasta": "2026/07/16 09:00",
-         "URL": "https://www.bitsdujour.com/software/cbackup/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "DUELIX by Ethan Uzii",
          "Informacion": "DUELIX es un r\u00e1pido juego de cartas t\u00e1ctico de tres carriles ambientado en un mundo de fantas\u00eda oscuro y empapado de ne\u00f3n.\u00a0Cada partida es una ronda \u00fanica que se juega en tres ubicaciones. Manejas un grupo reducido de unidades, decides d\u00f3nde comprometer tu poder y cu\u00e1ndo pasar y guardar recursos para turnos posteriores. A medida que ganas, conquistas territorios gradualmente, desbloqueas nuevos oponentes y exploras rincones m\u00e1s extra\u00f1os del mapa.",
@@ -59,7 +9,7 @@
          "URL": "https://ethan-uzii.itch.io/duelix",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Dark Plains: Mutations by Difendent Studios",
@@ -69,7 +19,7 @@
          "URL": "https://difendent-studio.itch.io/dark-plains-mutations",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 70%, yellow 70%) 1;"
       },
       {
          "Nombre": "Tattoo Tycoon",
@@ -79,7 +29,7 @@
          "URL": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "Lord of Chaos by Hexnut Studios",
@@ -89,7 +39,7 @@
          "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "Coolmuster Data Recovery (100% Discount)",
@@ -99,7 +49,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-data-recovery-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "UNCLAiMED by Knosys2\u00e2\u0080\u0094GRACE",
@@ -109,7 +59,17 @@
          "URL": "https://knosys2grace.itch.io/unclaimed",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
+      },
+      {
+         "Nombre": "GrosDash by GrosterM",
+         "Informacion": "este juego es un juego tipo tablero geom\u00e9trico pero orientado a un uso f\u00e1cil y sin dificultad a la hora de jugar, adem\u00e1s de tener un potente editor.",
+         "Desde": "",
+         "Hasta": "2026/07/17 04:00",
+         "URL": "https://grosterm.itch.io/grosdash",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
       },
       {
          "Nombre": "COLOR Projects 7 Professional",
@@ -119,7 +79,7 @@
          "URL": "https://sharewareonsale.com/s/free-color-projects-7-professional-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "Reap Radio by GothicTaco",
@@ -392,6 +352,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "En RED KITE, el jugador asume el papel del novio de Enya, un neurocient\u00edfico que trabaja para el conglomerado farmac\u00e9utico NeoTerra. Un d\u00eda descubre que numerosas muertes en los hospitales de NeoTerra revelan discrepancias evidentes entre las explicaciones oficiales y los resultados de las autopsias. En consecuencia, se dirige a las instalaciones de NeoTerra y le deja un mensaje a su novio dici\u00e9ndole que la busque si ella no regresa, un evento que trae a nuestro h\u00e9roe, RED KITE, a la refriega.",
+         "Desde": "",
+         "Hasta": "2026/07/19 20:40",
+         "URL": "https://roega.itch.io/red-kite",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "Euli Beuli STRIKE: \u00a1el nuevo servicio es el sucesor completamente renovado de Euli Beuli STRIKE! STRIKE se trataba de jugar pong con un amigo en una pantalla: \u00a1una nueva versi\u00f3n del juego de mesa!",
+         "Desde": "",
+         "Hasta": "2026/07/19 20:40",
+         "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "\u00a1\u00danete a Euli Beuli en una emocionante aventura!",
+         "Desde": "",
+         "Hasta": "2026/07/19 20:40",
+         "URL": "https://roega.itch.io/super-euli-beuli",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "Euli Beuli CORRER",
+         "Desde": "",
+         "Hasta": "2026/07/19 20:40",
+         "URL": "https://roega.itch.io/euli-beuli-run",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Burnt by SleepyCatStudio",
          "Informacion": "quemado",
          "Desde": "",
@@ -452,6 +452,36 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game[Chapter 2] by Xx_Vipe",
+         "Informacion": "Adam sobrevivi\u00f3 esa noche. Desear\u00eda no haberlo hecho.",
+         "Desde": "",
+         "Hasta": "2026/07/20 21:40",
+         "URL": "https://xx-vipe475.itch.io/not-like-them-a-psx-horror-gamechapter-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Rent Due: payment In Blood by Xx_Vipe",
+         "Informacion": "\u00f0\u00a5 TTone reproducido ALQUILER DEBIDO",
+         "Desde": "",
+         "Hasta": "2026/07/20 21:40",
+         "URL": "https://xx-vipe475.itch.io/rent-due",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game [Chapter 1] by Xx_Vipe",
+         "Informacion": "Algo anda mal con tus padres.",
+         "Desde": "",
+         "Hasta": "2026/07/20 21:40",
+         "URL": "https://xx-vipe475.itch.io/not-like-them",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ThunderSoft Video Editor",
          "Informacion": "Divida, combine y corte videos f\u00e1cilmente en Windows con ThunderSoft Video Editor. Agregue efectos elegantes, m\u00fasica y t\u00edtulos personalizados para crear pel\u00edculas HD de alta calidad sin una curva de aprendizaje pronunciada.",
          "Desde": "",
@@ -462,21 +492,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
+         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
          "Desde": "",
          "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -492,6 +512,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Coche manejable en tu escritorio",
+         "Desde": "",
+         "Hasta": "2026/07/21 19:08",
+         "URL": "https://magnus-froelund.itch.io/desktop-car",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
          "Informacion": "Un juego de trastienda hecho sin motor.",
          "Desde": "",
@@ -502,13 +532,163 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
+         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
          "Desde": "",
          "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/1943",
+         "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
+         "Desde": "",
+         "Hasta": "2026/07/21 19:08",
+         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2026/07/21 19:08",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Juegos retro 5 en 1",
+         "Desde": "",
+         "Hasta": "2026/07/21 19:08",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "If the Shoe Fits by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/if-the-shoe-fits",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maneater by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/maneater",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Awakened Beauty by LiminAce",
+         "Informacion": "Descargo de responsabilidad: este juego se cre\u00f3 para O2A2 VN Jam 2025, un micro Jam de novela visual con limitaciones estrictas de recursos y un l\u00edmite de 1000 palabras. No entres en este juego esperando una historia larga con un mont\u00f3n de CG.",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/awakened-beauty",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Road Trip to Hell by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/road-trip-to-hell",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cabin Fever!!! by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/cabin-fever",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "When it Rains Red by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/when-it-rains-red",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bedrot by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/bedrot",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exorcize Me by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/exorcize-me",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Aquatic Grave by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/aquatic-grave",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "50 Vintage Film Photo Overlays",
+         "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotograf\u00edas cinematogr\u00e1ficas!",
+         "Desde": "",
+         "Hasta": "2026/07/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -519,7 +699,7 @@
          "URL": "https://store.epicgames.com/p/echo-generation-midnight-edition-069026",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Luto",
@@ -529,7 +709,17 @@
          "URL": "https://store.epicgames.com/p/luto-0a4ab3",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Alchimix by kLabz",
+         "Informacion": "Un viaje de rompecabezas tipo tetris, donde cada lugar trae un nuevo desaf\u00edo.",
+         "Desde": "",
+         "Hasta": "2026/07/23 17:00",
+         "URL": "https://klabz.itch.io/alchimix",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Reincarnated as a Noble - RPG by S Xavier Uy",
@@ -557,6 +747,16 @@
          "Desde": "",
          "Hasta": "2026/07/24 22:00",
          "URL": "https://takroni.itch.io/thebutcher",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tea Party For 4 by EveKehat",
+         "Informacion": "Aviso r\u00e1pido si aparece una advertencia de \"desarrollador no verificado\" al iniciar el juego. Solo quer\u00eda informarte que soy un desarrollador de juegos independiente y que mi juego es 100% seguro \u00f0",
+         "Desde": "",
+         "Hasta": "2026/07/24 23:00",
+         "URL": "https://evekehat.itch.io/tea-party-for-4",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -639,7 +839,7 @@
          "URL": "https://store.epicgames.com/p/castlevania-anniversary-collection-a61f94",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Eternal Threads",
@@ -649,7 +849,7 @@
          "URL": "https://store.epicgames.com/p/eternal-threads-197169",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Ghostrunner 2",
@@ -659,7 +859,7 @@
          "URL": "https://store.epicgames.com/p/ghostrunner-2",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Lost Castle: The Old Ones Awaken",
@@ -669,7 +869,17 @@
          "URL": "https://store.epicgames.com/p/lost-castle-abb2e2",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Room of Secrets by Komodroid New Zealand",
+         "Informacion": "Room of Secrets es un emocionante juego de escape en el que el jugador se despierta secuestrado dentro de una casa misteriosa. Para escapar, debes explorar cada habitaci\u00f3n, descubrir secretos ocultos y resolver acertijos desafiantes, desde descifrar c\u00f3digos de teclado hasta combinar objetos misteriosos. Usa tu ingenio y estrategia para encontrar una salida antes de que acabe el tiempo.",
+         "Desde": "",
+         "Hasta": "2026/07/31 01:59",
+         "URL": "https://komodroidnz.itch.io/room-of-secrets",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Jungle Jumper by adamnn",
@@ -1117,6 +1327,16 @@
          "Desde": "",
          "Hasta": "2026/08/12 23:16",
          "URL": "https://popdoggy.itch.io/miss-denvers-demo-01",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Friends of The Damned (DEMO) by OneDev_Games",
+         "Informacion": "Amigos de los condenados",
+         "Desde": "",
+         "Hasta": "2026/08/13 19:10",
+         "URL": "https://onedev-games.itch.io/friends-of-the-damned",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
