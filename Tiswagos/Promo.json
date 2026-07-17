@@ -1,86 +1,6 @@
 {
-   "date_update": "16 Jul 2026 16:30 UTC",
+   "date_update": "17 Jul 2026 16:14 UTC",
    "values": [
-      {
-         "Nombre": "DUELIX by Ethan Uzii",
-         "Informacion": "DUELIX es un r\u00e1pido juego de cartas t\u00e1ctico de tres carriles ambientado en un mundo de fantas\u00eda oscuro y empapado de ne\u00f3n.\u00a0Cada partida es una ronda \u00fanica que se juega en tres ubicaciones. Manejas un grupo reducido de unidades, decides d\u00f3nde comprometer tu poder y cu\u00e1ndo pasar y guardar recursos para turnos posteriores. A medida que ganas, conquistas territorios gradualmente, desbloqueas nuevos oponentes y exploras rincones m\u00e1s extra\u00f1os del mapa.",
-         "Desde": "",
-         "Hasta": "2026/07/16 12:56",
-         "URL": "https://ethan-uzii.itch.io/duelix",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "Dark Plains: Mutations by Difendent Studios",
-         "Informacion": "Imagen 4K del globo ocular del Dr. Jack Lumburg",
-         "Desde": "",
-         "Hasta": "2026/07/16 16:44",
-         "URL": "https://difendent-studio.itch.io/dark-plains-mutations",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 70%, yellow 70%) 1;"
-      },
-      {
-         "Nombre": "Tattoo Tycoon",
-         "Informacion": "Descubre el mundo de los tatus y toma las riendas de tu estudio. Encuentra dise\u00f1os perfectos para clientes exc\u00e9ntricos y transforma sus vagas ideas en obras de arte sobre su piel. Expande tu peque\u00f1o estudio hasta acabar inaugurando sucursales en cada barrio de Bah\u00eda Tatuga.",
-         "Desde": "2026/07/09",
-         "Hasta": "2026/07/16 17:00",
-         "URL": "https://store.epicgames.com/p/tattoo-tycoon-b4352c",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/16 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster Data Recovery (100% Discount)",
-         "Informacion": "Coolmuster Data Recovery es hoy un software de recuperaci\u00f3n de datos profesional y con todas las funciones. Combina una interfaz de usuario altamente intuitiva para ayudar a los usuarios a recuperar archivos eliminados, formateados o inaccesibles de todo tipo de discos duros. Esta herramienta hace posible que cualquiera recupere documentos, correos electr\u00f3nicos, fotos, videos, archivos de audio y m\u00e1s desde varios discos.",
-         "Desde": "",
-         "Hasta": "2026/07/17 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-data-recovery-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "UNCLAiMED by Knosys2\u00e2\u0080\u0094GRACE",
-         "Informacion": "UNCLAiMED es una breve experiencia dist\u00f3pica de procesamiento de paquetes.\u00a0Asignado como Operador de Recuperaci\u00f3n de Paquetes #2319, su trabajo es simple:",
-         "Desde": "",
-         "Hasta": "2026/07/17 03:00",
-         "URL": "https://knosys2grace.itch.io/unclaimed",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 27%, yellow 27%) 1;"
-      },
-      {
-         "Nombre": "GrosDash by GrosterM",
-         "Informacion": "este juego es un juego tipo tablero geom\u00e9trico pero orientado a un uso f\u00e1cil y sin dificultad a la hora de jugar, adem\u00e1s de tener un potente editor.",
-         "Desde": "",
-         "Hasta": "2026/07/17 04:00",
-         "URL": "https://grosterm.itch.io/grosdash",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
-      },
-      {
-         "Nombre": "COLOR Projects 7 Professional",
-         "Informacion": "Transforma tus im\u00e1genes con proyectos COLOR #7 profesional. Aumente la expresividad utilizando 272 ajustes preestablecidos, un m\u00f3dulo de color de 10 capas y complementos de Photoshop/Lightroom. Optimizaci\u00f3n r\u00e1pida de Windows con un solo clic para obtener fotograf\u00edas art\u00edsticas impresionantes.",
-         "Desde": "",
-         "Hasta": "2026/07/17 07:00",
-         "URL": "https://sharewareonsale.com/s/free-color-projects-7-professional-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
       {
          "Nombre": "Reap Radio by GothicTaco",
          "Informacion": "Te despierta el sonido de alguien hablando por una radio confusa.",
@@ -89,7 +9,7 @@
          "URL": "https://gothictaco.itch.io/reap-radio",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Night of the Duat by Phantom Drive",
@@ -99,7 +19,7 @@
          "URL": "https://phantom-drive.itch.io/night-of-the-duat",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
       },
       {
          "Nombre": "Sengoku: Path of the Ronin by Tikess",
@@ -109,7 +29,7 @@
          "URL": "https://tikess.itch.io/shengoku-path-of-the-ronin",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "SandSplitter by Softpele",
@@ -119,7 +39,7 @@
          "URL": "https://softpelee.itch.io/sandsplitter",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
       },
       {
          "Nombre": "Exorcist: final wishes by fishgill",
@@ -129,7 +49,7 @@
          "URL": "https://fishgill.itch.io/exorcist-finalwishes",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
       },
       {
          "Nombre": "30 Animated Stream Video Overlays",
@@ -139,7 +59,17 @@
          "URL": "https://sharewareonsale.com/s/free-30-animated-stream-video-overlays-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Video Watermark Pro",
+         "Informacion": "Aplique marcas de agua a videos r\u00e1pidamente",
+         "Desde": "",
+         "Hasta": "2026/07/18 09:00",
+         "URL": "https://www.bitsdujour.com/software/video-watermark-pro-2/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Last soldier standing by Khaled",
@@ -252,6 +182,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Reflection: Definitive Edition by Goteks28",
+         "Informacion": "# Acerca del juegoReflection\u00a0es un desafiante juego de plataformas independiente centrado en movimientos de precisi\u00f3n, reacciones r\u00e1pidas y dise\u00f1o de niveles progresivamente dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2026/07/19 07:59",
+         "URL": "https://goteks28.itch.io/reflection-definitive-edition",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CATS FIGHT CLUB by Goteks28",
+         "Informacion": "\u00f0\u00be Club de lucha de gatos \u00e2 Demostraci\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/07/19 07:59",
+         "URL": "https://goteks28.itch.io/cats-fight-club",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Another World Adventures by S Xavier Uy",
          "Informacion": "Tres estudiantes de secundaria fueron transportados a otro mundo. Shuichiro, el raro al que le encanta usar mascota, Takeshi, el popular llamado pr\u00edncipe del tenis en la escuela, y Tosaka, la chica tranquila. Han sido enviados a un bosque desconocido sin tener ninguna pista y uno de ellos se convirti\u00f3 en un duende, sin conocimiento actual, \u00bfc\u00f3mo superar\u00e1n todo esto?",
          "Desde": "",
@@ -352,11 +302,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "En RED KITE, el jugador asume el papel del novio de Enya, un neurocient\u00edfico que trabaja para el conglomerado farmac\u00e9utico NeoTerra. Un d\u00eda descubre que numerosas muertes en los hospitales de NeoTerra revelan discrepancias evidentes entre las explicaciones oficiales y los resultados de las autopsias. En consecuencia, se dirige a las instalaciones de NeoTerra y le deja un mensaje a su novio dici\u00e9ndole que la busque si ella no regresa, un evento que trae a nuestro h\u00e9roe, RED KITE, a la refriega.",
+         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "Euli Beuli CORRER",
          "Desde": "",
          "Hasta": "2026/07/19 20:40",
-         "URL": "https://roega.itch.io/red-kite",
+         "URL": "https://roega.itch.io/euli-beuli-run",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -372,6 +322,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "En RED KITE, el jugador asume el papel del novio de Enya, un neurocient\u00edfico que trabaja para el conglomerado farmac\u00e9utico NeoTerra. Un d\u00eda descubre que numerosas muertes en los hospitales de NeoTerra revelan discrepancias evidentes entre las explicaciones oficiales y los resultados de las autopsias. En consecuencia, se dirige a las instalaciones de NeoTerra y le deja un mensaje a su novio dici\u00e9ndole que la busque si ella no regresa, un evento que trae a nuestro h\u00e9roe, RED KITE, a la refriega.",
+         "Desde": "",
+         "Hasta": "2026/07/19 20:40",
+         "URL": "https://roega.itch.io/red-kite",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
          "Informacion": "\u00a1\u00danete a Euli Beuli en una emocionante aventura!",
          "Desde": "",
@@ -382,11 +342,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Euli Beuli CORRER",
+         "Nombre": "DUELIX by Ethan Uzii",
+         "Informacion": "DUELIX es un r\u00e1pido juego de cartas t\u00e1ctico de tres carriles ambientado en un mundo de fantas\u00eda oscuro y empapado de ne\u00f3n.\u00a0Cada partida es una ronda \u00fanica que se juega en tres ubicaciones. Manejas un grupo reducido de unidades, decides d\u00f3nde comprometer tu poder y cu\u00e1ndo pasar y guardar recursos para turnos posteriores. A medida que ganas, conquistas territorios gradualmente, desbloqueas nuevos oponentes y exploras rincones m\u00e1s extra\u00f1os del mapa.",
          "Desde": "",
-         "Hasta": "2026/07/19 20:40",
-         "URL": "https://roega.itch.io/euli-beuli-run",
+         "Hasta": "2026/07/19 21:41",
+         "URL": "https://ethan-uzii.itch.io/duelix",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -422,6 +382,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Video Watermark Pro License Key for Free 2026",
+         "Informacion": "El software Video Watermark Pro es probablemente la mejor opci\u00f3n para proteger los derechos de autor de su v\u00eddeo. Con el software, puede agregar f\u00e1cilmente una marca de agua (texto/imagen/GIF animado/\u2026) a un v\u00eddeo para evitar el uso no autorizado y confirmar la propiedad. El software funciona sin problemas en casi todos los formatos de v\u00eddeo, como AVI, MP4, FLV, MOV, MPG, SWF, etc.",
+         "Desde": "",
+         "Hasta": "2026/07/20 15:00",
+         "URL": "https://giveaway.tickcoupon.com/video-watermark-pro-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/20 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Clean ATTACK! by diadas",
          "Informacion": "Mi entrada para el Bolt Jam #2. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
          "Desde": "",
@@ -452,6 +432,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game [Chapter 1] by Xx_Vipe",
+         "Informacion": "Algo anda mal con tus padres.",
+         "Desde": "",
+         "Hasta": "2026/07/20 21:40",
+         "URL": "https://xx-vipe475.itch.io/not-like-them",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game[Chapter 2] by Xx_Vipe",
          "Informacion": "Adam sobrevivi\u00f3 esa noche. Desear\u00eda no haberlo hecho.",
          "Desde": "",
@@ -467,16 +457,6 @@
          "Desde": "",
          "Hasta": "2026/07/20 21:40",
          "URL": "https://xx-vipe475.itch.io/rent-due",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game [Chapter 1] by Xx_Vipe",
-         "Informacion": "Algo anda mal con tus padres.",
-         "Desde": "",
-         "Hasta": "2026/07/20 21:40",
-         "URL": "https://xx-vipe475.itch.io/not-like-them",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -502,11 +482,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Juegos retro 5 en 1",
+         "Desde": "",
+         "Hasta": "2026/07/21 19:08",
+         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
          "Informacion": "Un juego de terror corto realizado en 1 semana.",
          "Desde": "",
          "Hasta": "2026/07/21 19:08",
          "URL": "https://magnus-froelund.itch.io/are-you-there",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
+         "Informacion": "Tienes tres armas:",
+         "Desde": "",
+         "Hasta": "2026/07/21 19:08",
+         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -552,51 +552,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Juegos retro 5 en 1",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "If the Shoe Fits by LiminAce",
+         "Nombre": "Aquatic Grave by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/if-the-shoe-fits",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Maneater by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/maneater",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "URL": "https://liminace.itch.io/aquatic-grave",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -612,11 +572,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Road Trip to Hell by LiminAce",
+         "Nombre": "Bedrot by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/road-trip-to-hell",
+         "URL": "https://liminace.itch.io/bedrot",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -632,21 +592,51 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "When it Rains Red by LiminAce",
+         "Nombre": "Exorcize Me by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/when-it-rains-red",
+         "URL": "https://liminace.itch.io/exorcize-me",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Bedrot by LiminAce",
+         "Nombre": "If the Shoe Fits by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/bedrot",
+         "URL": "https://liminace.itch.io/if-the-shoe-fits",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Maneater by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/maneater",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Road Trip to Hell by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/road-trip-to-hell",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -662,21 +652,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Exorcize Me by LiminAce",
+         "Nombre": "When it Rains Red by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/exorcize-me",
+         "URL": "https://liminace.itch.io/when-it-rains-red",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Aquatic Grave by LiminAce",
+         "Nombre": "Mukbang Idol by LiminAce",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/aquatic-grave",
+         "URL": "https://liminace.itch.io/mukbang-idol",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -732,11 +722,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster PDF Locker Key Free (100% Discount)",
+         "Informacion": "Cifrar sus archivos PDF con una contrase\u00f1a segura es una excelente manera de evitar que sus archivos se abran o editen sin su permiso. Coolmuster PDF Locker es la aplicaci\u00f3n m\u00e1s sencilla para esto; Este software de cifrado de PDF admite tres sistemas de cifrado diferentes, incluidos RC4 de 40 bits, RC4 de 128 bits y AES de 128 bits. Coolmuster PDF Locker se ejecuta desde Windows XP hasta Windows 11 (la \u00faltima versi\u00f3n).",
+         "Desde": "",
+         "Hasta": "2026/07/24 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-locker-license-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Backrooms Crawlers by Worst Event Games",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/07/24 01:39",
          "URL": "https://worsteventgames.itch.io/backrooms-crawlers",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Plaguetrix by The Voices Games",
+         "Informacion": "Un experimento fmv. Camine por un callej\u00f3n que tiene im\u00e1genes reales que tom\u00e9 en Darlington evitando la plaga.\u00a0 2 niveles.\u00a0No estoy seguro si da miedo, pero es extra\u00f1o. Los videos fueron tomados originalmente para mi cuenta de TikTok darloramble aqu\u00ed\u00a0https://www.tiktok.com/@darloramble?_t=ZN-90Ghaaz6he6&_r=1\u00a0por eso no se queda mirando hacia d\u00f3nde vas.",
+         "Desde": "",
+         "Hasta": "2026/07/24 18:00",
+         "URL": "https://thewgreen.itch.io/plaguetrix",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -869,6 +879,16 @@
          "URL": "https://store.epicgames.com/p/lost-castle-abb2e2",
          "IMG": "",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "UN JUEGO CORTO DE TERROR",
+         "Desde": "",
+         "Hasta": "2026/07/30 22:40",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
