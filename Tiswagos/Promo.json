@@ -1,76 +1,6 @@
 {
-   "date_update": "17 Jul 2026 16:14 UTC",
+   "date_update": "18 Jul 2026 16:19 UTC",
    "values": [
-      {
-         "Nombre": "Reap Radio by GothicTaco",
-         "Informacion": "Te despierta el sonido de alguien hablando por una radio confusa.",
-         "Desde": "",
-         "Hasta": "2026/07/17 19:00",
-         "URL": "https://gothictaco.itch.io/reap-radio",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Night of the Duat by Phantom Drive",
-         "Informacion": "Noche del duat\u00a0Hay algo espeluznante en esta tumba...",
-         "Desde": "",
-         "Hasta": "2026/07/17 20:01",
-         "URL": "https://phantom-drive.itch.io/night-of-the-duat",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 55%, yellow 55%) 1;"
-      },
-      {
-         "Nombre": "Sengoku: Path of the Ronin by Tikess",
-         "Informacion": "La guerra se llev\u00f3 a vuestro se\u00f1or. El camino se llevar\u00e1 el resto, a menos que usted corte primero.",
-         "Desde": "",
-         "Hasta": "2026/07/17 22:45",
-         "URL": "https://tikess.itch.io/shengoku-path-of-the-ronin",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "SandSplitter by Softpele",
-         "Informacion": "Un juego de disparos en primera persona de ritmo r\u00e1pido, cuyo tema gira en torno al antiguo Egipto y sus dioses, donde el objetivo es superar niveles lo m\u00e1s r\u00e1pido posible mientras utilizas mec\u00e1nicas \u00fanicas, como maldiciones, para derrotar a tus enemigos.",
-         "Desde": "",
-         "Hasta": "2026/07/17 23:25",
-         "URL": "https://softpelee.itch.io/sandsplitter",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "Exorcist: final wishes by fishgill",
-         "Informacion": "Exorcist: Final Wishes es un breve juego de terror en primera persona sobre c\u00f3mo ayudar a los fantasmas a seguir adelante.\u00a0Juegas como un exorcista que ayuda a los esp\u00edritus inquietos a encontrar la paz completando las cosas que no pudieron terminar en la vida.",
-         "Desde": "",
-         "Hasta": "2026/07/18 06:36",
-         "URL": "https://fishgill.itch.io/exorcist-finalwishes",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
-      },
-      {
-         "Nombre": "30 Animated Stream Video Overlays",
-         "Informacion": "\u00bfListo para subir de nivel tu transmisi\u00f3n? \u00a1Nuestro paquete de superposiciones de video en streaming animado est\u00e1 aqu\u00ed para ayudarte a lograr precisamente eso!\nCon 30 incre\u00edbles superposiciones animadas, tu transmisi\u00f3n de Twitch o YouTube lucir\u00e1 m\u00e1s refinada y llamativa que nunca.\nEstas animaciones se repiten sin problemas y no requieren ning\u00fan complemento, por lo que puedes comenzar a usarlas de inmediato. Este paquete tiene todo lo que necesitas para que tu transmisi\u00f3n se destaque. \u00a1C\u00f3gelo ahora y dale a tu transmisi\u00f3n ese toque extra!",
-         "Desde": "",
-         "Hasta": "2026/07/18 07:00",
-         "URL": "https://sharewareonsale.com/s/free-30-animated-stream-video-overlays-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Video Watermark Pro",
-         "Informacion": "Aplique marcas de agua a videos r\u00e1pidamente",
-         "Desde": "",
-         "Hasta": "2026/07/18 09:00",
-         "URL": "https://www.bitsdujour.com/software/video-watermark-pro-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Last soldier standing by Khaled",
          "Informacion": "El \u00faltimo soldado en pie",
@@ -79,7 +9,7 @@
          "URL": "https://khaled-khader.itch.io/last-soldier-standing",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
       },
       {
          "Nombre": "Spear It Up: Precision Platformer by Khaled",
@@ -89,7 +19,7 @@
          "URL": "https://khaled-khader.itch.io/spear-it-up",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
       },
       {
          "Nombre": "Mortem by Windy",
@@ -99,7 +29,7 @@
          "URL": "https://thewindyproject.itch.io/mortem",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
       },
       {
          "Nombre": "BABUZI by vanbee",
@@ -109,7 +39,7 @@
          "URL": "https://vanbee.itch.io/babuzi",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
       },
       {
          "Nombre": "Elevator Inferno by vanbee",
@@ -119,7 +49,7 @@
          "URL": "https://vanbee.itch.io/elevator-inferno",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
       },
       {
          "Nombre": "MAZE by vanbee",
@@ -129,7 +59,7 @@
          "URL": "https://vanbee.itch.io/maze",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
       },
       {
          "Nombre": "ME NAME BRAAA by vanbee",
@@ -139,7 +69,7 @@
          "URL": "https://vanbee.itch.io/me-name-braaa",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
       },
       {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
@@ -149,7 +79,7 @@
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Missile Assembler by Scarcha",
@@ -159,7 +89,7 @@
          "URL": "https://sc4rcha.itch.io/missile-assembler",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Trial of Luck by Scarcha",
@@ -169,7 +99,7 @@
          "URL": "https://sc4rcha.itch.io/trial-of-luck",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Slime King by Rob Demo",
@@ -179,17 +109,7 @@
          "URL": "https://rob-demo.itch.io/slime-king",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Reflection: Definitive Edition by Goteks28",
-         "Informacion": "# Acerca del juegoReflection\u00a0es un desafiante juego de plataformas independiente centrado en movimientos de precisi\u00f3n, reacciones r\u00e1pidas y dise\u00f1o de niveles progresivamente dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2026/07/19 07:59",
-         "URL": "https://goteks28.itch.io/reflection-definitive-edition",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "CATS FIGHT CLUB by Goteks28",
@@ -199,7 +119,17 @@
          "URL": "https://goteks28.itch.io/cats-fight-club",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "Reflection: Definitive Edition by Goteks28",
+         "Informacion": "# Acerca del juegoReflection\u00a0es un desafiante juego de plataformas independiente centrado en movimientos de precisi\u00f3n, reacciones r\u00e1pidas y dise\u00f1o de niveles progresivamente dif\u00edciles.",
+         "Desde": "",
+         "Hasta": "2026/07/19 07:59",
+         "URL": "https://goteks28.itch.io/reflection-definitive-edition",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
       },
       {
          "Nombre": "Another World Adventures by S Xavier Uy",
@@ -249,6 +179,16 @@
          "URL": "https://pehriska.itch.io/sapphire-city",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PC Trek Advanced Password Recovery Suite Free",
+         "Informacion": "La funci\u00f3n PC Trek Advanced Password Recovery Suite le permite recuperar sus claves de software olvidadas o detalles de inicio de sesi\u00f3n para los navegadores web, redes inal\u00e1mbricas, Windows Credential Manager, correo electr\u00f3nico o clientes FTP m\u00e1s populares. Este software de recuperaci\u00f3n es f\u00e1cil de usar y est\u00e1 repleto de potentes funciones que le ayudar\u00e1n a recuperar contrase\u00f1as olvidadas. Seg\u00fan se informa, su velocidad de escaneo y recuperaci\u00f3n es r\u00e1pida. Adem\u00e1s, el software escanea y muestra de manera eficiente todas las contrase\u00f1as recuperables sin requerir una configuraci\u00f3n compleja ni conocimientos t\u00e9cnicos.",
+         "Desde": "",
+         "Hasta": "2026/07/19 15:00",
+         "URL": "https://giveaway.tickcoupon.com/pc-trek-advanced-password-recovery-suite-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -632,6 +572,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Mukbang Idol by LiminAce",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 22:00",
+         "URL": "https://liminace.itch.io/mukbang-idol",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Road Trip to Hell by LiminAce",
          "Informacion": "",
          "Desde": "",
@@ -662,16 +612,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Mukbang Idol by LiminAce",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/22 22:00",
-         "URL": "https://liminace.itch.io/mukbang-idol",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "50 Vintage Film Photo Overlays",
          "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotograf\u00edas cinematogr\u00e1ficas!",
          "Desde": "",
@@ -679,6 +619,16 @@
          "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Life and Suffering of Sir Brante",
+         "Informacion": "Un juego de rol intenso de narrativa ambientado en un mundo descarnado gobernado por dioses reales pero implacables. Emb\u00e1rcate en un desafiante viaje de por vida, donde cada elecci\u00f3n tiene un precio y conlleva consecuencias. \u00bfTe convertir\u00e1s en inquisidor, juez o conspirar\u00e1s contra el antiguo orden? \u00a1Atr\u00e9vete a decidir!",
+         "Desde": "",
+         "Hasta": "2026/07/23 10:00",
+         "URL": "https://store.steampowered.com/app/1272160/",
+         "IMG": "",
+         "Distribuidora": "Steam",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -787,6 +737,16 @@
          "Desde": "",
          "Hasta": "2026/07/25 12:32",
          "URL": "https://antagonistry.itch.io/defline",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Multitasking by willread",
+         "Informacion": "Pon a prueba tus habilidades multitarea haciendo malabares con dos juegos a la vez usando los botones y la manivela. 8 juegos y 3 modos de dificultad para dominar.",
+         "Desde": "",
+         "Hasta": "2026/07/25 17:00",
+         "URL": "https://willread.itch.io/multitasking-pd",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
