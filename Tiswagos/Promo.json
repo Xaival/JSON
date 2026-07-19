@@ -1,136 +1,6 @@
 {
-   "date_update": "18 Jul 2026 16:19 UTC",
+   "date_update": "19 Jul 2026 16:17 UTC",
    "values": [
-      {
-         "Nombre": "Last soldier standing by Khaled",
-         "Informacion": "El \u00faltimo soldado en pie",
-         "Desde": "",
-         "Hasta": "2026/07/18 11:00",
-         "URL": "https://khaled-khader.itch.io/last-soldier-standing",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Spear It Up: Precision Platformer by Khaled",
-         "Informacion": "Spear It Up es un juego de plataformas y escalada de precisi\u00f3n en el que escapas de una cueva antigua utilizando solo tu lanza: tu movilidad y tu salvavidas.",
-         "Desde": "",
-         "Hasta": "2026/07/18 11:00",
-         "URL": "https://khaled-khader.itch.io/spear-it-up",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Mortem by Windy",
-         "Informacion": "Con las recientes desapariciones que se est\u00e1n produciendo en la ciudad \u00faltimamente, no ha sido seguro salir de noche. Tu t\u00edo te pide que te ocupes de la tienda de la esquina por la noche, y t\u00fa aceptas. La noche se vuelve peor...",
-         "Desde": "",
-         "Hasta": "2026/07/18 11:55",
-         "URL": "https://thewindyproject.itch.io/mortem",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "BABUZI by vanbee",
-         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/07/18 12:00",
-         "URL": "https://vanbee.itch.io/babuzi",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "Elevator Inferno by vanbee",
-         "Informacion": "disfruta tu ca\u00edda",
-         "Desde": "",
-         "Hasta": "2026/07/18 12:00",
-         "URL": "https://vanbee.itch.io/elevator-inferno",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "MAZE by vanbee",
-         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
-         "Desde": "",
-         "Hasta": "2026/07/18 12:00",
-         "URL": "https://vanbee.itch.io/maze",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "ME NAME BRAAA by vanbee",
-         "Informacion": "Hola",
-         "Desde": "",
-         "Hasta": "2026/07/18 12:00",
-         "URL": "https://vanbee.itch.io/me-name-braaa",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
-         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
-         "Desde": "",
-         "Hasta": "2026/07/18 15:04",
-         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "Missile Assembler by Scarcha",
-         "Informacion": "Recuerda... \u00a1Sin tu Parte el Todo falla!",
-         "Desde": "",
-         "Hasta": "2026/07/18 19:10",
-         "URL": "https://sc4rcha.itch.io/missile-assembler",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Trial of Luck by Scarcha",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/18 19:10",
-         "URL": "https://sc4rcha.itch.io/trial-of-luck",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Slime King by Rob Demo",
-         "Informacion": "Forma tu escuadr\u00f3n eligiendo entre diferentes tipos de limos, cada uno con sus propias habilidades y roles \u00fanicos. Algunos tienen mucho da\u00f1o y salud, algunos son buenos disparando, algunos curan al escuadr\u00f3n y otros aumentan la cantidad de recursos recolectados.",
-         "Desde": "",
-         "Hasta": "2026/07/18 19:15",
-         "URL": "https://rob-demo.itch.io/slime-king",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "CATS FIGHT CLUB by Goteks28",
-         "Informacion": "\u00f0\u00be Club de lucha de gatos \u00e2 Demostraci\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/07/19 07:59",
-         "URL": "https://goteks28.itch.io/cats-fight-club",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
-      {
-         "Nombre": "Reflection: Definitive Edition by Goteks28",
-         "Informacion": "# Acerca del juegoReflection\u00a0es un desafiante juego de plataformas independiente centrado en movimientos de precisi\u00f3n, reacciones r\u00e1pidas y dise\u00f1o de niveles progresivamente dif\u00edciles.",
-         "Desde": "",
-         "Hasta": "2026/07/19 07:59",
-         "URL": "https://goteks28.itch.io/reflection-definitive-edition",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
-      },
       {
          "Nombre": "Another World Adventures by S Xavier Uy",
          "Informacion": "Tres estudiantes de secundaria fueron transportados a otro mundo. Shuichiro, el raro al que le encanta usar mascota, Takeshi, el popular llamado pr\u00edncipe del tenis en la escuela, y Tosaka, la chica tranquila. Han sido enviados a un bosque desconocido sin tener ninguna pista y uno de ellos se convirti\u00f3 en un duende, sin conocimiento actual, \u00bfc\u00f3mo superar\u00e1n todo esto?",
@@ -139,7 +9,7 @@
          "URL": "https://s-xavier-uy.itch.io/another-world-adventures",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
       },
       {
          "Nombre": "Eternity Defenders (BIGGEST UPDATE OUT!) by Pixxele",
@@ -149,7 +19,7 @@
          "URL": "https://glaciergames.itch.io/eternity-defenders",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
       },
       {
          "Nombre": "Emily_ by TETRABYTE",
@@ -159,7 +29,7 @@
          "URL": "https://tetrabyte.itch.io/emily",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
       },
       {
          "Nombre": "Farm & Cook by Rob Demo",
@@ -169,7 +39,7 @@
          "URL": "https://rob-demo.itch.io/farm-cook",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
       },
       {
          "Nombre": "Sapphire City by Pehriska",
@@ -179,7 +49,7 @@
          "URL": "https://pehriska.itch.io/sapphire-city",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
       },
       {
          "Nombre": "PC Trek Advanced Password Recovery Suite Free",
@@ -189,7 +59,7 @@
          "URL": "https://giveaway.tickcoupon.com/pc-trek-advanced-password-recovery-suite-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "DIRE ECHO by TrueGamesStudio",
@@ -199,7 +69,7 @@
          "URL": "https://truegamesstudio.itch.io/dire-echo",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
       },
       {
          "Nombre": "NIGHTBELL by TrueGamesStudio",
@@ -209,7 +79,7 @@
          "URL": "https://truegamesstudio.itch.io/nightbell",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
       },
       {
          "Nombre": "Weapon Rearing by JIYUTORISEI",
@@ -219,7 +89,7 @@
          "URL": "https://jiyutorisei.itch.io/weapon-rearing",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
       },
       {
          "Nombre": "GoCraft 1.0.4.2 Indefinite by Incident Projects",
@@ -229,7 +99,7 @@
          "URL": "https://okyesmate-games.itch.io/gocraft",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Vavalos by Hensley",
@@ -239,7 +109,7 @@
          "URL": "https://elsenyh.itch.io/vavalos",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
@@ -249,7 +119,7 @@
          "URL": "https://roega.itch.io/euli-beuli-run",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
@@ -259,7 +129,7 @@
          "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
@@ -269,7 +139,7 @@
          "URL": "https://roega.itch.io/red-kite",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
@@ -279,7 +149,7 @@
          "URL": "https://roega.itch.io/super-euli-beuli",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
       },
       {
          "Nombre": "DUELIX by Ethan Uzii",
@@ -289,7 +159,7 @@
          "URL": "https://ethan-uzii.itch.io/duelix",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 48%, yellow 48%) 1;"
       },
       {
          "Nombre": "Burnt by SleepyCatStudio",
@@ -299,7 +169,7 @@
          "URL": "https://sleepycatstudio.itch.io/burnt",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Wurst Case Scenario by David Browne",
@@ -309,7 +179,7 @@
          "URL": "https://davidbrowne.itch.io/wurst-case-scenario",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
       },
       {
          "Nombre": "Ashampoo Burning Studio 2026",
@@ -319,6 +189,36 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-music-studio-2026-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "Video Watermark Pro",
+         "Informacion": "Aplique marcas de agua a videos r\u00e1pidamente",
+         "Desde": "",
+         "Hasta": "2026/07/20 09:00",
+         "URL": "https://www.bitsdujour.com/software/video-watermark-pro-2/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "Multiplayer fps by Surprise  games",
+         "Informacion": "Sin efectos de parpadeo, sin ruido visual. Este FPS t\u00e1ctico multijugador se centra exclusivamente en tu punter\u00eda y mec\u00e1nica.",
+         "Desde": "",
+         "Hasta": "2026/07/20 12:29",
+         "URL": "https://shin-games.itch.io/kill",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "multiplayer FPS by Surprise  games",
+         "Informacion": "Este juego es un juego multijugador.\r\nEs divertido y tambi\u00e9n se puede jugar solo.\r\nAdmite perspectivas tanto en primera como en tercera persona.\r\nEn el men\u00fa del juego, selecciona\u00a0Multijugador y luego haz clic en\u00a0Unirse\u00a0para jugar en modo multijugador.",
+         "Desde": "",
+         "Hasta": "2026/07/20 12:29",
+         "URL": "https://shin-games.itch.io/multiplayer-fps2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -692,11 +592,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Mortem by Windy",
+         "Informacion": "Con las recientes desapariciones que se est\u00e1n produciendo en la ciudad \u00faltimamente, no ha sido seguro salir de noche. Tu t\u00edo te pide que te ocupes de la tienda de la esquina por la noche, y t\u00fa aceptas. La noche se vuelve peor...",
+         "Desde": "",
+         "Hasta": "2026/07/24 14:57",
+         "URL": "https://thewindyproject.itch.io/mortem",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Plaguetrix by The Voices Games",
          "Informacion": "Un experimento fmv. Camine por un callej\u00f3n que tiene im\u00e1genes reales que tom\u00e9 en Darlington evitando la plaga.\u00a0 2 niveles.\u00a0No estoy seguro si da miedo, pero es extra\u00f1o. Los videos fueron tomados originalmente para mi cuenta de TikTok darloramble aqu\u00ed\u00a0https://www.tiktok.com/@darloramble?_t=ZN-90Ghaaz6he6&_r=1\u00a0por eso no se queda mirando hacia d\u00f3nde vas.",
          "Desde": "",
          "Hasta": "2026/07/24 18:00",
          "URL": "https://thewgreen.itch.io/plaguetrix",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Powerdown by I AM DEV 42",
+         "Informacion": "\u00a1Presentamos Powerdown!",
+         "Desde": "",
+         "Hasta": "2026/07/24 21:30",
+         "URL": "https://cringycringe.itch.io/powerdown",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -732,6 +652,46 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Elevator Inferno by vanbee",
+         "Informacion": "disfruta tu ca\u00edda",
+         "Desde": "",
+         "Hasta": "2026/07/25 12:00",
+         "URL": "https://vanbee.itch.io/elevator-inferno",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ME NAME BRAAA by vanbee",
+         "Informacion": "Hola",
+         "Desde": "",
+         "Hasta": "2026/07/25 12:00",
+         "URL": "https://vanbee.itch.io/me-name-braaa",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BABUZI by vanbee",
+         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/07/25 12:00",
+         "URL": "https://vanbee.itch.io/babuzi",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MAZE by vanbee",
+         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
+         "Desde": "",
+         "Hasta": "2026/07/25 12:00",
+         "URL": "https://vanbee.itch.io/maze",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Defense Line by Interminable",
          "Informacion": "un juego en el que debes proteger el \u00fanico transportador que queda en tu garaje, pero no es tan simple, necesitar\u00e1s controlar el estado y actualizar el transportador y desechar los elementos innecesarios.",
          "Desde": "",
@@ -747,6 +707,26 @@
          "Desde": "",
          "Hasta": "2026/07/25 17:00",
          "URL": "https://willread.itch.io/multitasking-pd",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Pool Party by willread",
+         "Informacion": "Piscina de 8 bolas para Playdate.",
+         "Desde": "",
+         "Hasta": "2026/07/25 17:00",
+         "URL": "https://willread.itch.io/pool-party",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Deep Miner (Early Access) by Dill Studios",
+         "Informacion": "Este es un juego de miner\u00eda submarina actualmente en desarrollo.",
+         "Desde": "",
+         "Hasta": "2026/07/26 08:21",
+         "URL": "https://dillstudios.itch.io/deep-miner-early-access",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -777,6 +757,26 @@
          "Desde": "",
          "Hasta": "2026/07/28 05:22",
          "URL": "https://hmogames.itch.io/carnival-roulette",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Back to Modern World - Fantasy Hero 2: Magic Academy by S Xavier Uy",
+         "Informacion": "Han pasado muchos a\u00f1os desde entonces, el viaje de yoha taka contin\u00faa, parece que ya hab\u00edan pasado muchas cosas. Actualmente asiste a una academia de magia en otro mundo con una misi\u00f3n importante junto con sus compa\u00f1eros.",
+         "Desde": "",
+         "Hasta": "2026/07/28 22:14",
+         "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero-2-travel",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Back to Modern World - Fantasy Hero by S Xavier Uy",
+         "Informacion": "Cuando Yoha Taka muri\u00f3 en un accidente, Dios aparece ante \u00e9l en un espacio lleno de espacios en blanco y blanco. Tu caso es muy especial, Dios dijo: \"Te resucitar\u00e9 en otro mundo\". y con una gran responsabilidad que llevar. Yoha Taka solo quiere una cosa es volver a su mundo anterior y permanecer junto a su sensei nuevamente, pero eso solo es posible si derrota al se\u00f1or de los demonios. Entonces, \u00bfqu\u00e9 pasar\u00e1 si env\u00edan a un chuunibyou a otro mundo que solo est\u00e1 lleno de fantas\u00eda?",
+         "Desde": "",
+         "Hasta": "2026/07/28 22:14",
+         "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -867,6 +867,16 @@
          "Desde": "",
          "Hasta": "2026/07/31 06:02",
          "URL": "https://adamnn.itch.io/jungle-jumpertt",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exorcist: final wishes by fishgill",
+         "Informacion": "Exorcist: Final Wishes es un breve juego de terror en primera persona sobre c\u00f3mo ayudar a los fantasmas a seguir adelante.\u00a0Juegas como un exorcista que ayuda a los esp\u00edritus inquietos a encontrar la paz completando las cosas que no pudieron terminar en la vida.",
+         "Desde": "",
+         "Hasta": "2026/07/31 06:36",
+         "URL": "https://fishgill.itch.io/exorcist-finalwishes",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
