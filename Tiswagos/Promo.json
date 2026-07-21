@@ -1,316 +1,6 @@
 {
-   "date_update": "19 Jul 2026 16:17 UTC",
+   "date_update": "21 Jul 2026 16:24 UTC",
    "values": [
-      {
-         "Nombre": "Another World Adventures by S Xavier Uy",
-         "Informacion": "Tres estudiantes de secundaria fueron transportados a otro mundo. Shuichiro, el raro al que le encanta usar mascota, Takeshi, el popular llamado pr\u00edncipe del tenis en la escuela, y Tosaka, la chica tranquila. Han sido enviados a un bosque desconocido sin tener ninguna pista y uno de ellos se convirti\u00f3 en un duende, sin conocimiento actual, \u00bfc\u00f3mo superar\u00e1n todo esto?",
-         "Desde": "",
-         "Hasta": "2026/07/19 10:33",
-         "URL": "https://s-xavier-uy.itch.io/another-world-adventures",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
-      },
-      {
-         "Nombre": "Eternity Defenders (BIGGEST UPDATE OUT!) by Pixxele",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/19 13:00",
-         "URL": "https://glaciergames.itch.io/eternity-defenders",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Emily_ by TETRABYTE",
-         "Informacion": "LA IA OLVIDADA",
-         "Desde": "",
-         "Hasta": "2026/07/19 13:07",
-         "URL": "https://tetrabyte.itch.io/emily",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "Farm & Cook by Rob Demo",
-         "Informacion": "El juego presenta muchas granjas de plantas y animales: trigo, manzanas, cacao, naranjas, t\u00e9, kiwi, gallinas, vacas, cerdos y muchos otros.",
-         "Desde": "",
-         "Hasta": "2026/07/19 14:30",
-         "URL": "https://rob-demo.itch.io/farm-cook",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
-      },
-      {
-         "Nombre": "Sapphire City by Pehriska",
-         "Informacion": "Despu\u00e9s de escapar de un pasado turbulento, finalmente has encontrado algo de consuelo en una nueva vida, en una nueva ciudad. Esta comodidad se hace a\u00f1icos cuando la llamada de un viejo amigo te arrastra de regreso a un mundo que hab\u00edas intentado dejar atr\u00e1s. En medio de siniestras entidades corporativas, oscuras conspiraciones y titanes industriales enfrentados, te encuentras en el centro del escenario de un plan de venganza que lleva d\u00e9cadas gest\u00e1ndose. Las promesas del futuro se han roto, la humanidad sigue arraigada en la oscuridad. Sin embargo, todo lo que necesitas es una chispa y podr\u00e1s cambiarlo todo.",
-         "Desde": "",
-         "Hasta": "2026/07/19 14:33",
-         "URL": "https://pehriska.itch.io/sapphire-city",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 78%, yellow 78%) 1;"
-      },
-      {
-         "Nombre": "PC Trek Advanced Password Recovery Suite Free",
-         "Informacion": "La funci\u00f3n PC Trek Advanced Password Recovery Suite le permite recuperar sus claves de software olvidadas o detalles de inicio de sesi\u00f3n para los navegadores web, redes inal\u00e1mbricas, Windows Credential Manager, correo electr\u00f3nico o clientes FTP m\u00e1s populares. Este software de recuperaci\u00f3n es f\u00e1cil de usar y est\u00e1 repleto de potentes funciones que le ayudar\u00e1n a recuperar contrase\u00f1as olvidadas. Seg\u00fan se informa, su velocidad de escaneo y recuperaci\u00f3n es r\u00e1pida. Adem\u00e1s, el software escanea y muestra de manera eficiente todas las contrase\u00f1as recuperables sin requerir una configuraci\u00f3n compleja ni conocimientos t\u00e9cnicos.",
-         "Desde": "",
-         "Hasta": "2026/07/19 15:00",
-         "URL": "https://giveaway.tickcoupon.com/pc-trek-advanced-password-recovery-suite-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "DIRE ECHO by TrueGamesStudio",
-         "Informacion": "En un futuro pr\u00f3ximo, la humanidad se expandir\u00e1 constantemente hacia las profundidades del espacio. Eres un astronauta en una misi\u00f3n rutinaria pero importante: sigue una ruta designada hasta una estaci\u00f3n remota y entrega datos t\u00e9cnicos.",
-         "Desde": "",
-         "Hasta": "2026/07/19 16:57",
-         "URL": "https://truegamesstudio.itch.io/dire-echo",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "NIGHTBELL by TrueGamesStudio",
-         "Informacion": "STEAMNightbell es un juego de terror atmosf\u00e9rico sobre una Nochebuena cuando un hogar acogedor deja de ser un lugar seguro.",
-         "Desde": "",
-         "Hasta": "2026/07/19 16:57",
-         "URL": "https://truegamesstudio.itch.io/nightbell",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Weapon Rearing by JIYUTORISEI",
-         "Informacion": "Juego inactivo de recolecci\u00f3n y desarrollo de armas.",
-         "Desde": "",
-         "Hasta": "2026/07/19 17:00",
-         "URL": "https://jiyutorisei.itch.io/weapon-rearing",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "GoCraft 1.0.4.2 Indefinite by Incident Projects",
-         "Informacion": "Lanzado 1.0.0 el 27/03/2025 \u00a1Yayyyyy!",
-         "Desde": "",
-         "Hasta": "2026/07/19 18:05",
-         "URL": "https://okyesmate-games.itch.io/gocraft",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Vavalos by Hensley",
-         "Informacion": "caballo",
-         "Desde": "",
-         "Hasta": "2026/07/19 19:26",
-         "URL": "https://elsenyh.itch.io/vavalos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Euli Beuli CORRER",
-         "Desde": "",
-         "Hasta": "2026/07/19 20:40",
-         "URL": "https://roega.itch.io/euli-beuli-run",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Euli Beuli STRIKE: \u00a1el nuevo servicio es el sucesor completamente renovado de Euli Beuli STRIKE! STRIKE se trataba de jugar pong con un amigo en una pantalla: \u00a1una nueva versi\u00f3n del juego de mesa!",
-         "Desde": "",
-         "Hasta": "2026/07/19 20:40",
-         "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "En RED KITE, el jugador asume el papel del novio de Enya, un neurocient\u00edfico que trabaja para el conglomerado farmac\u00e9utico NeoTerra. Un d\u00eda descubre que numerosas muertes en los hospitales de NeoTerra revelan discrepancias evidentes entre las explicaciones oficiales y los resultados de las autopsias. En consecuencia, se dirige a las instalaciones de NeoTerra y le deja un mensaje a su novio dici\u00e9ndole que la busque si ella no regresa, un evento que trae a nuestro h\u00e9roe, RED KITE, a la refriega.",
-         "Desde": "",
-         "Hasta": "2026/07/19 20:40",
-         "URL": "https://roega.itch.io/red-kite",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "\u00a1\u00danete a Euli Beuli en una emocionante aventura!",
-         "Desde": "",
-         "Hasta": "2026/07/19 20:40",
-         "URL": "https://roega.itch.io/super-euli-beuli",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "DUELIX by Ethan Uzii",
-         "Informacion": "DUELIX es un r\u00e1pido juego de cartas t\u00e1ctico de tres carriles ambientado en un mundo de fantas\u00eda oscuro y empapado de ne\u00f3n.\u00a0Cada partida es una ronda \u00fanica que se juega en tres ubicaciones. Manejas un grupo reducido de unidades, decides d\u00f3nde comprometer tu poder y cu\u00e1ndo pasar y guardar recursos para turnos posteriores. A medida que ganas, conquistas territorios gradualmente, desbloqueas nuevos oponentes y exploras rincones m\u00e1s extra\u00f1os del mapa.",
-         "Desde": "",
-         "Hasta": "2026/07/19 21:41",
-         "URL": "https://ethan-uzii.itch.io/duelix",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 48%, yellow 48%) 1;"
-      },
-      {
-         "Nombre": "Burnt by SleepyCatStudio",
-         "Informacion": "quemado",
-         "Desde": "",
-         "Hasta": "2026/07/19 22:59",
-         "URL": "https://sleepycatstudio.itch.io/burnt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Wurst Case Scenario by David Browne",
-         "Informacion": "Wurst Case Scenario es un juego de terror de comedia oscura en el que manejas un peque\u00f1o puesto de currywurst que sirve hot dogs y currywurst a un flujo constante de clientes. Escondido debajo de la rutina mundana se encuentra un negocio criminal que trafica con drogas, contrabando y otros bienes ilegales a clientes aprobados. Cada cliente es una amenaza potencial y un solo error puede exponerlo todo. Administre pedidos, mantenga su operaci\u00f3n en funcionamiento y trate con cualquiera que aprenda m\u00e1s de lo que deber\u00eda.",
-         "Desde": "",
-         "Hasta": "2026/07/20 01:00",
-         "URL": "https://davidbrowne.itch.io/wurst-case-scenario",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 34%, yellow 34%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Burning Studio 2026",
-         "Informacion": "Ashampoo Burning Studio 2026 graba pel\u00edculas, m\u00fasica y datos de forma fiable en todo tipo de discos. Tambi\u00e9n admite copias de seguridad de datos, extracci\u00f3n de CD y dise\u00f1os de portada personalizados, perfecto para todo tipo de proyectos de grabaci\u00f3n.",
-         "Desde": "",
-         "Hasta": "2026/07/20 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-music-studio-2026-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "Video Watermark Pro",
-         "Informacion": "Aplique marcas de agua a videos r\u00e1pidamente",
-         "Desde": "",
-         "Hasta": "2026/07/20 09:00",
-         "URL": "https://www.bitsdujour.com/software/video-watermark-pro-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "Multiplayer fps by Surprise  games",
-         "Informacion": "Sin efectos de parpadeo, sin ruido visual. Este FPS t\u00e1ctico multijugador se centra exclusivamente en tu punter\u00eda y mec\u00e1nica.",
-         "Desde": "",
-         "Hasta": "2026/07/20 12:29",
-         "URL": "https://shin-games.itch.io/kill",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "multiplayer FPS by Surprise  games",
-         "Informacion": "Este juego es un juego multijugador.\r\nEs divertido y tambi\u00e9n se puede jugar solo.\r\nAdmite perspectivas tanto en primera como en tercera persona.\r\nEn el men\u00fa del juego, selecciona\u00a0Multijugador y luego haz clic en\u00a0Unirse\u00a0para jugar en modo multijugador.",
-         "Desde": "",
-         "Hasta": "2026/07/20 12:29",
-         "URL": "https://shin-games.itch.io/multiplayer-fps2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Video Watermark Pro License Key for Free 2026",
-         "Informacion": "El software Video Watermark Pro es probablemente la mejor opci\u00f3n para proteger los derechos de autor de su v\u00eddeo. Con el software, puede agregar f\u00e1cilmente una marca de agua (texto/imagen/GIF animado/\u2026) a un v\u00eddeo para evitar el uso no autorizado y confirmar la propiedad. El software funciona sin problemas en casi todos los formatos de v\u00eddeo, como AVI, MP4, FLV, MOV, MPG, SWF, etc.",
-         "Desde": "",
-         "Hasta": "2026/07/20 15:00",
-         "URL": "https://giveaway.tickcoupon.com/video-watermark-pro-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/20 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Clean ATTACK! by diadas",
-         "Informacion": "Mi entrada para el Bolt Jam #2. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
-         "Desde": "",
-         "Hasta": "2026/07/20 21:00",
-         "URL": "https://diadas.itch.io/clean-attack",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "GRAVITY Pilot! by diadas",
-         "Informacion": "Mi entrada para el Bolt Jam #6. No escrib\u00ed ni una sola l\u00ednea de c\u00f3digo C# para esto.",
-         "Desde": "",
-         "Hasta": "2026/07/20 21:00",
-         "URL": "https://diadas.itch.io/gravity-pilot",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Thermo Puzzle by diadas",
-         "Informacion": "Thermo Puzzle\u00a0es un juego sobre conducci\u00f3n t\u00e9rmica.",
-         "Desde": "",
-         "Hasta": "2026/07/20 21:00",
-         "URL": "https://diadas.itch.io/thermo-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game [Chapter 1] by Xx_Vipe",
-         "Informacion": "Algo anda mal con tus padres.",
-         "Desde": "",
-         "Hasta": "2026/07/20 21:40",
-         "URL": "https://xx-vipe475.itch.io/not-like-them",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Not Like Them \u00e2\u0080\u0094 A PSX Horror Game[Chapter 2] by Xx_Vipe",
-         "Informacion": "Adam sobrevivi\u00f3 esa noche. Desear\u00eda no haberlo hecho.",
-         "Desde": "",
-         "Hasta": "2026/07/20 21:40",
-         "URL": "https://xx-vipe475.itch.io/not-like-them-a-psx-horror-gamechapter-2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Rent Due: payment In Blood by Xx_Vipe",
-         "Informacion": "\u00f0\u00a5 TTone reproducido ALQUILER DEBIDO",
-         "Desde": "",
-         "Hasta": "2026/07/20 21:40",
-         "URL": "https://xx-vipe475.itch.io/rent-due",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "ThunderSoft Video Editor",
-         "Informacion": "Divida, combine y corte videos f\u00e1cilmente en Windows con ThunderSoft Video Editor. Agregue efectos elegantes, m\u00fasica y t\u00edtulos personalizados para crear pel\u00edculas HD de alta calidad sin una curva de aprendizaje pronunciada.",
-         "Desde": "",
-         "Hasta": "2026/07/21 07:00",
-         "URL": "https://sharewareonsale.com/s/free-thundersoft-video-editor-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
       {
          "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
          "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
@@ -319,7 +9,7 @@
          "URL": "https://magnus-froelund.itch.io/1943",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
@@ -329,7 +19,7 @@
          "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
@@ -339,7 +29,7 @@
          "URL": "https://magnus-froelund.itch.io/are-you-there",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
@@ -349,7 +39,7 @@
          "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
@@ -359,7 +49,7 @@
          "URL": "https://magnus-froelund.itch.io/desktop-car",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
@@ -369,7 +59,7 @@
          "URL": "https://magnus-froelund.itch.io/the-backrooms",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
@@ -379,7 +69,7 @@
          "URL": "https://magnus-froelund.itch.io/the-drifters",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
@@ -389,6 +79,36 @@
          "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
+      },
+      {
+         "Nombre": "SurFast Video Downloader - 6 months license",
+         "Informacion": "Descargue videos de cualquier sitio web para reproducirlos sin conexi\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/07/22 09:00",
+         "URL": "https://www.bitsdujour.com/software/surfast-video-downloader-6months-license/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
+      },
+      {
+         "Nombre": "One Bad Hot Dog by Figerox Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/22 13:00",
+         "URL": "https://figerox.itch.io/one-bad-hot-dog",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VSDC Video Editor Pro 1-Year Free License 2026",
+         "Informacion": "VSDC Video Editor Pro es una herramienta perfecta para editar videos. Esta excelente herramienta te permite editar tus videos con facilidad. Admite todos los formatos y c\u00f3decs de video y audio, y le permite grabar comentarios de voz y pantallas de video y de escritorio. A diferencia de muchos editores de v\u00eddeo tradicionales, VSDC Video Editor Pro est\u00e1 creado con un programa de edici\u00f3n no lineal en el que los clips no se limitan a una sola secuencia. En cambio, se pueden superponer en varias pistas, mover y editar independientemente de la l\u00ednea de tiempo. Este sistema permite composiciones y efectos complejos que se pueden ajustar y reajustar sin alterar destructivamente los clips originales.",
+         "Desde": "",
+         "Hasta": "2026/07/22 15:00",
+         "URL": "https://giveaway.tickcoupon.com/vsdc-video-editor-pro-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -512,11 +232,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DUELIX by Ethan Uzii",
+         "Informacion": "DUELIX es un r\u00e1pido juego de cartas t\u00e1ctico de tres carriles ambientado en un mundo de fantas\u00eda oscuro y empapado de ne\u00f3n.\u00a0Cada partida es una ronda \u00fanica que se juega en tres ubicaciones. Manejas un grupo reducido de unidades, decides d\u00f3nde comprometer tu poder y cu\u00e1ndo pasar y guardar recursos para turnos posteriores. A medida que ganas, conquistas territorios gradualmente, desbloqueas nuevos oponentes y exploras rincones m\u00e1s extra\u00f1os del mapa.",
+         "Desde": "",
+         "Hasta": "2026/07/22 23:02",
+         "URL": "https://ethan-uzii.itch.io/duelix",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "50 Vintage Film Photo Overlays",
          "Informacion": "\u00a1Acelera tu flujo de trabajo con todo un universo de superposiciones de fotograf\u00edas cinematogr\u00e1ficas!",
          "Desde": "",
          "Hasta": "2026/07/23 07:00",
          "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VidiKeep",
+         "Informacion": "Descargue videos de las principales plataformas de transmisi\u00f3n, incluidas Netflix, Prime Video, Disney+, Hulu, Max y Apple TV a MP4/MKV para verlos sin conexi\u00f3n y sin las restricciones de las aplicaciones de transmisi\u00f3n nativas.",
+         "Desde": "",
+         "Hasta": "2026/07/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-vidikeep-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
@@ -529,6 +269,76 @@
          "URL": "https://store.steampowered.com/app/1272160/",
          "IMG": "",
          "Distribuidora": "Steam",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "VidiKeep Streaming Video Downloader Free 2026",
+         "Informacion": "VidiKeep Streaming Video Downloader es una utilidad de extracci\u00f3n de medios fuera de l\u00ednea dise\u00f1ada para evitar las restricciones de descarga nativas de la plataforma y las limitaciones del dispositivo al localizar el contenido de transmisi\u00f3n en formatos de video est\u00e1ndar. El software ejecuta descargas multiproceso desde plataformas de transmisi\u00f3n compatibles, convirtiendo transmisiones de video a formatos MP4 o MKV para reproducci\u00f3n local. Las capacidades t\u00e9cnicas incluyen retenci\u00f3n de pistas de audio personalizadas, extracci\u00f3n de subt\u00edtulos multiling\u00fces (formatos integrados, externos o SRT) y gesti\u00f3n de colas de procesamiento por lotes para grandes bibliotecas multimedia.",
+         "Desde": "",
+         "Hasta": "2026/07/23 14:00",
+         "URL": "https://giveaway.tickcoupon.com/vidikeep-streaming-video-downloader-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "bable playground exclusive edition by FREE_GAMES - UA",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/23 14:23",
+         "URL": "https://free-games-ua.itch.io/bable-playground-exclusive-edition",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SurFast Video Downloader for Mac Free License",
+         "Informacion": "SurFast Video Downloader para Mac es un buen programa para tener en tu Mac para descargar videos. Esta herramienta de descarga de videos puede descargar videos de sitios web como YouTube, TikTok, Twitch y m\u00e1s a MP4, WebM y m\u00e1s. Puede descargar videos en alta calidad, incluidos 8K, 4K, 1080p y 720p, y no tiene limitaciones en los tiempos de descarga. S\u00f3lo necesita copiar el enlace del video, pegarlo en SurFast Video Downloader para Mac, elegir la calidad y el formato del video para descargarlo r\u00e1pidamente y luego presionar el \u00edcono Descargar para descargar.",
+         "Desde": "",
+         "Hasta": "2026/07/23 15:00",
+         "URL": "https://giveaway.tickcoupon.com/surfast-video-downloader-for-mac-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SurFast Video Downloader for Windows Key Free",
+         "Informacion": "\u00bfBusca formas de descargar v\u00eddeos de los sitios web m\u00e1s populares, como YouTube, TikTok, Facebook y Twitter? SurFast Video Downloader para Windows lo hace posible. El software puede descargar m\u00fasica, canciones y audio en l\u00ednea desde numerosos sitios web. Con su ayuda, puedes descargar videos en 8K, 4K, 1080p HD, 720p, 480p, 360p, 240p y muchas m\u00e1s resoluciones y convertirlos a formato WAV o MP3 sin ning\u00fan problema.",
+         "Desde": "",
+         "Hasta": "2026/07/23 15:00",
+         "URL": "https://giveaway.tickcoupon.com/surfast-video-downloader-for-window-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Deserted With A Sword by TheMetalCarrotDev",
+         "Informacion": "Abandonado en un desierto por una banda de despiadados bandidos marineros, s\u00f3lo te queda una espada y tu ingenio. Explora un mundo de v\u00f3xeles en 3D, sobrevive a lo que se esconde dentro y busca los marcadores de victoria en el mapa.",
+         "Desde": "",
+         "Hasta": "2026/07/23 15:10",
+         "URL": "https://themetalcarrotdev.itch.io/deserted-with-a-sword",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The House Knows You're Streaming by TheMetalCarrotDev",
+         "Informacion": "Hola y bienvenido a The House Knows You're Streaming, una novela visual de terror breve y con m\u00faltiples finales en la que interpretas a un transmisor que transmite su exploraci\u00f3n de una casa supuestamente embrujada.",
+         "Desde": "",
+         "Hasta": "2026/07/23 15:10",
+         "URL": "https://themetalcarrotdev.itch.io/the-house-knows-youre-streaming",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Futua Simula by Justyxxx",
+         "Informacion": "[Acerca del juego]",
+         "Desde": "",
+         "Hasta": "2026/07/23 16:59",
+         "URL": "https://justyxxx.itch.io/futuasimula",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -587,6 +397,56 @@
          "Desde": "",
          "Hasta": "2026/07/24 01:39",
          "URL": "https://worsteventgames.itch.io/backrooms-crawlers",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tales from Dreadlight: The Morgue by Stefano_Gaming",
+         "Informacion": "Juega como Sarah Morrow, una aprendiz que trabaja con su padre en la morgue familiar.\u00a0 Las muertes masivas en Dreadlight han empeorado, pero a trav\u00e9s de tu trabajo llegas a una conclusi\u00f3n horrible. Cuando parezca que todo est\u00e1 perdido, \u00bfestar\u00e1s all\u00ed para exponer la verdad... o morir\u00e1s en el intento? Cr\u00e9ditos:",
+         "Desde": "",
+         "Hasta": "2026/07/24 07:03",
+         "URL": "https://stefano-gaming.itch.io/tales-from-dreadlight-the-morgue",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Solitary Sonata by Stefano_Gaming",
+         "Informacion": "Enfr\u00e9ntate al p\u00e1ramo en este shooter post apocal\u00edptico de arriba hacia abajo. Desbloquea una variedad de armas mediante incursiones contra enemigos adaptables que act\u00faan de forma independiente. Tu principal prioridad es la supervivencia, cueste lo que cueste.\u00a0Descubra qui\u00e9nes son los verdaderos monstruos... \u00bflos infectados o las personas que quedan para sobrevivir?",
+         "Desde": "",
+         "Hasta": "2026/07/24 07:03",
+         "URL": "https://stefano-gaming.itch.io/solitary-sonata",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sounds From Silence by Stefano_Gaming",
+         "Informacion": "Una secuela del juego ganador See Through Static",
+         "Desde": "",
+         "Hasta": "2026/07/24 07:03",
+         "URL": "https://stefano-gaming.itch.io/sounds-from-silence",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Acceptance by Stefano_Gaming",
+         "Informacion": "Una continuaci\u00f3n del buen final del duelo:",
+         "Desde": "",
+         "Hasta": "2026/07/24 07:03",
+         "URL": "https://stefano-gaming.itch.io/acceptance",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "See Through Static by Stefano_Gaming",
+         "Informacion": "Encuentra pistas ocultas en 5 cintas cr\u00edpticas usando un televisor con solo 2 botones, uno para alternar pausa/reproducci\u00f3n y otro para rebobinar 1 segundo.\u00a0 \u00a1Descubre el significado m\u00e1s profundo y la oscura historia de este exclusivo juego de terror psicol\u00f3gico independiente!",
+         "Desde": "",
+         "Hasta": "2026/07/24 07:03",
+         "URL": "https://stefano-gaming.itch.io/see-through-static",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -652,31 +512,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Elevator Inferno by vanbee",
-         "Informacion": "disfruta tu ca\u00edda",
-         "Desde": "",
-         "Hasta": "2026/07/25 12:00",
-         "URL": "https://vanbee.itch.io/elevator-inferno",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "ME NAME BRAAA by vanbee",
-         "Informacion": "Hola",
-         "Desde": "",
-         "Hasta": "2026/07/25 12:00",
-         "URL": "https://vanbee.itch.io/me-name-braaa",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "BABUZI by vanbee",
          "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
          "Desde": "",
          "Hasta": "2026/07/25 12:00",
          "URL": "https://vanbee.itch.io/babuzi",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Elevator Inferno by vanbee",
+         "Informacion": "disfruta tu ca\u00edda",
+         "Desde": "",
+         "Hasta": "2026/07/25 12:00",
+         "URL": "https://vanbee.itch.io/elevator-inferno",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -692,11 +542,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "ME NAME BRAAA by vanbee",
+         "Informacion": "Hola",
+         "Desde": "",
+         "Hasta": "2026/07/25 12:00",
+         "URL": "https://vanbee.itch.io/me-name-braaa",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Defense Line by Interminable",
          "Informacion": "un juego en el que debes proteger el \u00fanico transportador que queda en tu garaje, pero no es tan simple, necesitar\u00e1s controlar el estado y actualizar el transportador y desechar los elementos innecesarios.",
          "Desde": "",
          "Hasta": "2026/07/25 12:32",
          "URL": "https://antagonistry.itch.io/defline",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "FBS_E by Justyxxx",
+         "Informacion": "\u00a1Presentamos las d\u00e9cadas anteriores de Futua Simula! puedes disfrutar no solo de hace unas d\u00e9cadas, sino tambi\u00e9n disfrutar del pong, las m\u00e1quinas tragamonedas, tomar fotograf\u00edas, etc.... con tambi\u00e9n IA...",
+         "Desde": "",
+         "Hasta": "2026/07/25 16:40",
+         "URL": "https://justyxxx.itch.io/fbs-e",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -732,11 +602,71 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Eternity Defenders by Pixxele",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/26 13:00",
+         "URL": "https://glaciergames.itch.io/eternity-defenders",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Hotdog Killer [Full Game] by imranaziz",
          "Informacion": "Hotdog Killer es un breve juego de simulaci\u00f3n de cocina y terror en el que asumes el papel de un empleado que trabaja en el turno de noche en un solitario puesto de comida r\u00e1pida.",
          "Desde": "",
          "Hasta": "2026/07/26 21:00",
          "URL": "https://imranaziz.itch.io/hotdogkiller",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft Filename Lister Key Free (100% Discount)",
+         "Informacion": "Vovsoft Filename Lister es una aplicaci\u00f3n de Windows liviana y f\u00e1cil de usar que puede enumerar y exportar estructuras de carpetas. En una ventana simple con una interfaz simple y sencilla, puede comenzar eligiendo una unidad o directorio para escanear, y se enumerar\u00e1n todos los archivos, carpetas o ambos.",
+         "Desde": "",
+         "Hasta": "2026/07/27 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-filename-lister-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RESILIENCE by GamerbigA",
+         "Informacion": "Construye tu ciudad. Sobrevive al desastre. Liderar la recuperaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2026/07/27 10:45",
+         "URL": "https://gamerbiga.itch.io/resilience",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "En RED KITE, el jugador asume el papel del novio de Enya, un neurocient\u00edfico que trabaja para el conglomerado farmac\u00e9utico NeoTerra. Un d\u00eda descubre que numerosas muertes en los hospitales de NeoTerra revelan discrepancias evidentes entre las explicaciones oficiales y los resultados de las autopsias. En consecuencia, se dirige a las instalaciones de NeoTerra y le deja un mensaje a su novio dici\u00e9ndole que la busque si ella no regresa, un evento que trae a nuestro h\u00e9roe, RED KITE, a la refriega.",
+         "Desde": "",
+         "Hasta": "2026/07/27 12:00",
+         "URL": "https://roega.itch.io/red-kite",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "Euli Beuli STRIKE: \u00a1el nuevo servicio es el sucesor completamente renovado de Euli Beuli STRIKE! STRIKE se trataba de jugar pong con un amigo en una pantalla: \u00a1una nueva versi\u00f3n del juego de mesa!",
+         "Desde": "",
+         "Hasta": "2026/07/27 12:00",
+         "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "\u00a1\u00danete a Euli Beuli en una emocionante aventura!",
+         "Desde": "",
+         "Hasta": "2026/07/27 12:00",
+         "URL": "https://roega.itch.io/super-euli-beuli",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -752,11 +682,51 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster PDF Image Extractor (100% Discount)",
+         "Informacion": "Es realmente dif\u00edcil extraer im\u00e1genes de archivos PDF. Pero\u00a0Coolmuster PDF Image Extractor\u00a0hace que todo sea f\u00e1cil. Esta utilidad PDF es una herramienta \u00fatil que le permite extraer im\u00e1genes de archivos PDF para reutilizarlas. Adem\u00e1s, puede extraer im\u00e1genes de todos los archivos PDF que haya importado al mismo tiempo.",
+         "Desde": "",
+         "Hasta": "2026/07/28 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-image-extractor-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster Lab.Fone for Android (100% Discount)",
+         "Informacion": "No hace falta decir que Coolmuster Lab.Fone para Android es un software de recuperaci\u00f3n de datos de Android confiable y profesional que permite a los usuarios recuperar datos perdidos o eliminados de las tarjetas de memoria internas y externas de Android de la manera m\u00e1s r\u00e1pida y sencilla. Con su ayuda, puede recuperar m\u00faltiples tipos de archivos de la memoria interna y la tarjeta SIM de Android, incluidos mensajes eliminados, registros de llamadas, contactos, videos, m\u00fasica, fotos y documentos. Adem\u00e1s, puede hacer una copia de seguridad de los datos existentes y eliminados de los dispositivos Android en su computadora en caso de p\u00e9rdida de datos. Coolmuster Lab.Fone para Android admite m\u00e1s de 6000 tel\u00e9fonos y tabletas Android para ayudarte a recuperar tus datos con facilidad.",
+         "Desde": "",
+         "Hasta": "2026/07/28 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-lab-fone-for-android-free-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Lost Arctic by Puzzle Box Island",
+         "Informacion": "Este es un viaje que explora el \u00e1rtico para encontrar una civilizaci\u00f3n perdida.",
+         "Desde": "",
+         "Hasta": "2026/07/28 01:28",
+         "URL": "https://puzzle-box-island.itch.io/the-lost-arctic",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Carnival Roulette (Demo) by HMoGames",
          "Informacion": "Carnival Roulette es un juego de terror creado en torno a un juego de azar mortal, similar en esp\u00edritu a Buckshot Roulette, pero ampliado con nuevas mec\u00e1nicas y capas estrat\u00e9gicas.",
          "Desde": "",
          "Hasta": "2026/07/28 05:22",
          "URL": "https://hmogames.itch.io/carnival-roulette",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Abode: Definitive Edition by Jordon",
+         "Informacion": "La nueva versi\u00f3n de Abode que hice para celebrar el 1er Aniversario. Incluye contenido nuevo, historia y varias correcciones de errores. Tambi\u00e9n se puede comprar en Steam aqu\u00ed\u00a0https://store.steampowered.com/app/3243780/Abode_Definitive_Edition/",
+         "Desde": "",
+         "Hasta": "2026/07/28 09:39",
+         "URL": "https://jordons.itch.io/abode-definitive-edition",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1172,6 +1142,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "T.R.A.I.N by Artegious",
+         "Informacion": "En T.R.A.I.N. (Transport Route Anomaly: Infected Node),\u00a0te pones en la piel de un apasionado explorador urbano de los EE. UU., atra\u00eddo por un bosque remoto en Ucrania despu\u00e9s de que surgieran rumores sobre un tren que desapareci\u00f3 misteriosamente justo despu\u00e9s de la ca\u00edda de la Uni\u00f3n Sovi\u00e9tica. Lo que comienza como una simple exploraci\u00f3n se convierte en una pesadilla empapada de miedo, secretismo y silencio.",
+         "Desde": "",
+         "Hasta": "2026/08/01 05:59",
+         "URL": "https://artegious.itch.io/t-r-a-i-n",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Concrete Veil by petrol",
          "Informacion": "FPS trepidante basado en la f\u00edsica",
          "Desde": "",
@@ -1312,6 +1292,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Noah's Secret: Episode 2 by Chodex Productions",
+         "Informacion": "Noah's Secret: Episodio 2 es un juego de terror psicol\u00f3gico en primera persona que contin\u00faa la historia justo donde termin\u00f3 el Episodio 1.",
+         "Desde": "",
+         "Hasta": "2026/08/08 19:32",
+         "URL": "https://chodex-productions.itch.io/noahs-secret-episode-2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Miss Denvers v0.01 (DEMO - CENSORED) by PopDoggy",
          "Informacion": "&lt;a href=&quot;a href=\"https://popdoggy.itch.io/msdenvers\"Ms.Denvers&quot; class=&quot;redactor-linkify-object&quot;&gt;https://popdoggy.itch.io/msdenvers&quot;&gt;Ms.Denvers/a por PopDoggy&lt;/a&gt;",
          "Desde": "",
@@ -1337,6 +1327,36 @@
          "Desde": "",
          "Hasta": "2026/08/13 21:42",
          "URL": "https://pixelforgedev23.itch.io/dicejack",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Driftwood by BlueStar Games",
+         "Informacion": "Por favor, informa cualquier error para ayudarme a desarrollar el juego :)",
+         "Desde": "",
+         "Hasta": "2026/08/18 19:10",
+         "URL": "https://bluestar-games.itch.io/driftwood",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Elder by mestStudios",
+         "Informacion": "El Anciano te ha atrapado en su casa. Tienes que escapar antes de que cambie de opini\u00f3n, pero a veces es amable y puede darte una oportunidad si tienes suerte.",
+         "Desde": "",
+         "Hasta": "2026/08/19 19:10",
+         "URL": "https://meststudios.itch.io/the-elder",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
+         "Informacion": "Proyecto: Reborn - Extracci\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/08/20 18:05",
+         "URL": "https://bkgamingstudio.itch.io/project-reborn-extraction",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1410,6 +1430,16 @@
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Monument Valley",
+         "Informacion": "Emb\u00e1rcate en un viaje de perd\u00f3n a trav\u00e9s de entornos imposibles y rompecabezas ilusorios. Sum\u00e9rgete en este juego de rompecabezas meditativo y relajante, donde manipulas monumentos y creas caminos en constante evoluci\u00f3n para explorar mundos nuevos, surrealistas y misteriosos.",
+         "Desde": "2026/09/03",
+         "Hasta": "2026/09/17 17:00",
+         "URL": "https://store.epicgames.com/p/monument-valley-1d99d3",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Nova Lands",
