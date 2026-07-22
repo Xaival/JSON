@@ -1,96 +1,6 @@
 {
-   "date_update": "21 Jul 2026 16:24 UTC",
+   "date_update": "22 Jul 2026 16:16 UTC",
    "values": [
-      {
-         "Nombre": "1943 by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "A\u00f1ade a tu lista de deseos mi nuevo juego de terror en Steam aqu\u00ed: The Gas Station",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/1943",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "5 in 1 Retro Games by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Juegos retro 5 en 1",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/5-in-1-retro-games",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Are you There? by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego de terror corto realizado en 1 semana.",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/are-you-there",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Basic Shooter (Pre Alpha) by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Tienes tres armas:",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/campers-killers-pre-alpha",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Desktop Car by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Coche manejable en tu escritorio",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/desktop-car",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "The backrooms: Uncovered by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Un juego de trastienda hecho sin motor.",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/the-backrooms",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "The Drifters by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Este juego est\u00e1 en acceso anticipado y es posible que encuentres errores.",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/the-drifters",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Untitled Gore Game by Magnus Fr\u00c3\u00b8lund",
-         "Informacion": "Gracias a TheLocalBogan por hacer posible este proyecto.",
-         "Desde": "",
-         "Hasta": "2026/07/21 19:08",
-         "URL": "https://magnus-froelund.itch.io/untitled-gore-game",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "SurFast Video Downloader - 6 months license",
-         "Informacion": "Descargue videos de cualquier sitio web para reproducirlos sin conexi\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/07/22 09:00",
-         "URL": "https://www.bitsdujour.com/software/surfast-video-downloader-6months-license/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
-      },
       {
          "Nombre": "One Bad Hot Dog by Figerox Studios",
          "Informacion": "",
@@ -99,7 +9,7 @@
          "URL": "https://figerox.itch.io/one-bad-hot-dog",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
       },
       {
          "Nombre": "VSDC Video Editor Pro 1-Year Free License 2026",
@@ -109,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/vsdc-video-editor-pro-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Aquatic Grave by LiminAce",
@@ -119,7 +29,7 @@
          "URL": "https://liminace.itch.io/aquatic-grave",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Awakened Beauty by LiminAce",
@@ -129,7 +39,7 @@
          "URL": "https://liminace.itch.io/awakened-beauty",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Bedrot by LiminAce",
@@ -139,7 +49,7 @@
          "URL": "https://liminace.itch.io/bedrot",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Cabin Fever!!! by LiminAce",
@@ -149,7 +59,7 @@
          "URL": "https://liminace.itch.io/cabin-fever",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Exorcize Me by LiminAce",
@@ -159,7 +69,7 @@
          "URL": "https://liminace.itch.io/exorcize-me",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "If the Shoe Fits by LiminAce",
@@ -169,7 +79,7 @@
          "URL": "https://liminace.itch.io/if-the-shoe-fits",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
@@ -179,7 +89,7 @@
          "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Maneater by LiminAce",
@@ -189,7 +99,7 @@
          "URL": "https://liminace.itch.io/maneater",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Mukbang Idol by LiminAce",
@@ -199,7 +109,7 @@
          "URL": "https://liminace.itch.io/mukbang-idol",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "Road Trip to Hell by LiminAce",
@@ -209,7 +119,7 @@
          "URL": "https://liminace.itch.io/road-trip-to-hell",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
@@ -219,7 +129,7 @@
          "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "When it Rains Red by LiminAce",
@@ -229,7 +139,7 @@
          "URL": "https://liminace.itch.io/when-it-rains-red",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
       },
       {
          "Nombre": "DUELIX by Ethan Uzii",
@@ -239,7 +149,7 @@
          "URL": "https://ethan-uzii.itch.io/duelix",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "50 Vintage Film Photo Overlays",
@@ -249,7 +159,7 @@
          "URL": "https://sharewareonsale.com/s/free-50-vintage-film-photo-overlays-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "VidiKeep",
@@ -259,7 +169,7 @@
          "URL": "https://sharewareonsale.com/s/free-vidikeep-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "The Life and Suffering of Sir Brante",
@@ -287,6 +197,16 @@
          "Desde": "",
          "Hasta": "2026/07/23 14:23",
          "URL": "https://free-games-ua.itch.io/bable-playground-exclusive-edition",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lurking Shadows by FREE_GAMES - UA",
+         "Informacion": "\u00d0\u00a3\u00d0\u00d0\u00a0\u00d0\u00d0\u00d0\u00d0\u00a1\u00d0\u00ac\u00d0\u00d0",
+         "Desde": "",
+         "Hasta": "2026/07/23 14:23",
+         "URL": "https://free-games-ua.itch.io/lurking-shadows",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -327,6 +247,26 @@
          "Desde": "",
          "Hasta": "2026/07/23 15:10",
          "URL": "https://themetalcarrotdev.itch.io/the-house-knows-youre-streaming",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Network of Shadows by 549.GameStudio",
+         "Informacion": "Eres un operador de inteligencia asignado a un caso urgente: alguien dentro de la organizaci\u00f3n CSC est\u00e1 filtrando datos a una entidad desconocida. Tu \u00fanica herramienta es un viejo terminal conectado a la red interna.",
+         "Desde": "",
+         "Hasta": "2026/07/23 15:24",
+         "URL": "https://slam.itch.io/shadows",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PolyDefend by 549.GameStudio",
+         "Informacion": "Una torre de defensa roguelike donde cada carrera es diferente.",
+         "Desde": "",
+         "Hasta": "2026/07/23 15:24",
+         "URL": "https://slam.itch.io/polydefend",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -402,11 +342,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Tales from Dreadlight: The Morgue by Stefano_Gaming",
-         "Informacion": "Juega como Sarah Morrow, una aprendiz que trabaja con su padre en la morgue familiar.\u00a0 Las muertes masivas en Dreadlight han empeorado, pero a trav\u00e9s de tu trabajo llegas a una conclusi\u00f3n horrible. Cuando parezca que todo est\u00e1 perdido, \u00bfestar\u00e1s all\u00ed para exponer la verdad... o morir\u00e1s en el intento? Cr\u00e9ditos:",
+         "Nombre": "Acceptance by Stefano_Gaming",
+         "Informacion": "Una continuaci\u00f3n del buen final del duelo:",
          "Desde": "",
          "Hasta": "2026/07/24 07:03",
-         "URL": "https://stefano-gaming.itch.io/tales-from-dreadlight-the-morgue",
+         "URL": "https://stefano-gaming.itch.io/acceptance",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "See Through Static by Stefano_Gaming",
+         "Informacion": "Encuentra pistas ocultas en 5 cintas cr\u00edpticas usando un televisor con solo 2 botones, uno para alternar pausa/reproducci\u00f3n y otro para rebobinar 1 segundo.\u00a0 \u00a1Descubre el significado m\u00e1s profundo y la oscura historia de este exclusivo juego de terror psicol\u00f3gico independiente!",
+         "Desde": "",
+         "Hasta": "2026/07/24 07:03",
+         "URL": "https://stefano-gaming.itch.io/see-through-static",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -432,21 +382,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Acceptance by Stefano_Gaming",
-         "Informacion": "Una continuaci\u00f3n del buen final del duelo:",
+         "Nombre": "Tales from Dreadlight: The Morgue by Stefano_Gaming",
+         "Informacion": "Juega como Sarah Morrow, una aprendiz que trabaja con su padre en la morgue familiar.\u00a0 Las muertes masivas en Dreadlight han empeorado, pero a trav\u00e9s de tu trabajo llegas a una conclusi\u00f3n horrible. Cuando parezca que todo est\u00e1 perdido, \u00bfestar\u00e1s all\u00ed para exponer la verdad... o morir\u00e1s en el intento? Cr\u00e9ditos:",
          "Desde": "",
          "Hasta": "2026/07/24 07:03",
-         "URL": "https://stefano-gaming.itch.io/acceptance",
+         "URL": "https://stefano-gaming.itch.io/tales-from-dreadlight-the-morgue",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "See Through Static by Stefano_Gaming",
-         "Informacion": "Encuentra pistas ocultas en 5 cintas cr\u00edpticas usando un televisor con solo 2 botones, uno para alternar pausa/reproducci\u00f3n y otro para rebobinar 1 segundo.\u00a0 \u00a1Descubre el significado m\u00e1s profundo y la oscura historia de este exclusivo juego de terror psicol\u00f3gico independiente!",
+         "Nombre": "Speak with Screams by Stefano_Gaming",
+         "Informacion": "Juega como Jeffrey Moore, un presentador de noticias que busca desesperadamente m\u00e1s historias importantes desde su avance con su informe sobre los eventos de See Through Static. Cuando Dreadlight comience a sentir la siniestra presencia de la entidad, \u00bfcalmar\u00e1s sus miedos o les infligir\u00e1s horrores m\u00e1s profundos?\u00a0Parte de la trilog\u00eda See Through Static",
          "Desde": "",
          "Hasta": "2026/07/24 07:03",
-         "URL": "https://stefano-gaming.itch.io/see-through-static",
+         "URL": "https://stefano-gaming.itch.io/speak-with-screams",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -467,6 +417,16 @@
          "Desde": "",
          "Hasta": "2026/07/24 18:00",
          "URL": "https://thewgreen.itch.io/plaguetrix",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/07/24 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -592,6 +552,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Last Friday by ReganC",
+         "Informacion": "Last Friday es una breve experiencia atmosf\u00e9rica en primera persona inspirada en\r\n  Espacios liminales, est\u00e9tica anal\u00f3gica y l\u00f3gica on\u00edrica.",
+         "Desde": "",
+         "Hasta": "2026/07/26 00:00",
+         "URL": "https://reganc.itch.io/last-friday",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Deep Miner (Early Access) by Dill Studios",
          "Informacion": "Este es un juego de miner\u00eda submarina actualmente en desarrollo.",
          "Desde": "",
@@ -642,21 +612,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "En RED KITE, el jugador asume el papel del novio de Enya, un neurocient\u00edfico que trabaja para el conglomerado farmac\u00e9utico NeoTerra. Un d\u00eda descubre que numerosas muertes en los hospitales de NeoTerra revelan discrepancias evidentes entre las explicaciones oficiales y los resultados de las autopsias. En consecuencia, se dirige a las instalaciones de NeoTerra y le deja un mensaje a su novio dici\u00e9ndole que la busque si ella no regresa, un evento que trae a nuestro h\u00e9roe, RED KITE, a la refriega.",
-         "Desde": "",
-         "Hasta": "2026/07/27 12:00",
-         "URL": "https://roega.itch.io/red-kite",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
          "Informacion": "Euli Beuli STRIKE: \u00a1el nuevo servicio es el sucesor completamente renovado de Euli Beuli STRIKE! STRIKE se trataba de jugar pong con un amigo en una pantalla: \u00a1una nueva versi\u00f3n del juego de mesa!",
          "Desde": "",
          "Hasta": "2026/07/27 12:00",
          "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "En RED KITE, el jugador asume el papel del novio de Enya, un neurocient\u00edfico que trabaja para el conglomerado farmac\u00e9utico NeoTerra. Un d\u00eda descubre que numerosas muertes en los hospitales de NeoTerra revelan discrepancias evidentes entre las explicaciones oficiales y los resultados de las autopsias. En consecuencia, se dirige a las instalaciones de NeoTerra y le deja un mensaje a su novio dici\u00e9ndole que la busque si ella no regresa, un evento que trae a nuestro h\u00e9roe, RED KITE, a la refriega.",
+         "Desde": "",
+         "Hasta": "2026/07/27 12:00",
+         "URL": "https://roega.itch.io/red-kite",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -672,6 +642,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "Euli Beuli CORRER",
+         "Desde": "",
+         "Hasta": "2026/07/27 12:00",
+         "URL": "https://roega.itch.io/euli-beuli-run",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Additional Dimension by notsospecialgames",
          "Informacion": "El colisionador sovi\u00e9tico abre un agujero en la realidad en 1970. Tres horas m\u00e1s tarde, est\u00e1s en camino de convertirte en el primer ser humano en dar un paso hacia una nueva dimensi\u00f3n. \u00bfQu\u00e9 podr\u00eda salir mal? Bueno, muchas cosas.",
          "Desde": "",
@@ -679,16 +659,6 @@
          "URL": "https://notsospecialgames.itch.io/the-additional-dimension",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster PDF Image Extractor (100% Discount)",
-         "Informacion": "Es realmente dif\u00edcil extraer im\u00e1genes de archivos PDF. Pero\u00a0Coolmuster PDF Image Extractor\u00a0hace que todo sea f\u00e1cil. Esta utilidad PDF es una herramienta \u00fatil que le permite extraer im\u00e1genes de archivos PDF para reutilizarlas. Adem\u00e1s, puede extraer im\u00e1genes de todos los archivos PDF que haya importado al mismo tiempo.",
-         "Desde": "",
-         "Hasta": "2026/07/28 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-image-extractor-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -702,11 +672,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster PDF Image Extractor (100% Discount)",
+         "Informacion": "Es realmente dif\u00edcil extraer im\u00e1genes de archivos PDF. Pero\u00a0Coolmuster PDF Image Extractor\u00a0hace que todo sea f\u00e1cil. Esta utilidad PDF es una herramienta \u00fatil que le permite extraer im\u00e1genes de archivos PDF para reutilizarlas. Adem\u00e1s, puede extraer im\u00e1genes de todos los archivos PDF que haya importado al mismo tiempo.",
+         "Desde": "",
+         "Hasta": "2026/07/28 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-image-extractor-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Lost Arctic by Puzzle Box Island",
          "Informacion": "Este es un viaje que explora el \u00e1rtico para encontrar una civilizaci\u00f3n perdida.",
          "Desde": "",
          "Hasta": "2026/07/28 01:28",
          "URL": "https://puzzle-box-island.itch.io/the-lost-arctic",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Puzzle Box Island by Puzzle Box Island",
+         "Informacion": "Este juego de aventuras y rompecabezas estilo a\u00f1os 90 lleva a los jugadores a un viaje nost\u00e1lgico a trav\u00e9s de una isla principal compuesta por cuatro mundos \u00fanicos.",
+         "Desde": "",
+         "Hasta": "2026/07/28 01:28",
+         "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -749,6 +739,26 @@
          "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster iCloud Backup Recovery (100% Discount)",
+         "Informacion": "Coolmuster iCloud Backup Recovery es una utilidad de restauraci\u00f3n de datos de iOS que extrae categor\u00edas de archivos espec\u00edficas de los archivos de copia de seguridad de Apple iCloud. El software recupera activos multimedia (fotos, v\u00eddeos), metadatos de comunicaci\u00f3n (historial de llamadas, mensajes) y bases de datos de contactos. Realiza recuperaci\u00f3n de datos para archivos perdidos debido a eliminaci\u00f3n accidental, errores de sincronizaci\u00f3n o compromiso f\u00edsico del dispositivo iOS de origen.",
+         "Desde": "",
+         "Hasta": "2026/07/29 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-icloud-backup-recovery/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "SnapText Pro",
+         "Informacion": "SnapText es una plataforma de extracci\u00f3n de texto impulsada por IA que le ayuda a capturar texto instant\u00e1neamente a partir de im\u00e1genes, capturas de pantalla, archivos PDF, videos y su pantalla. Tambi\u00e9n incluye una potente extensi\u00f3n de Chrome, Smart Layout y DLFast para optimizar su flujo de trabajo.",
+         "Desde": "",
+         "Hasta": "2026/07/29 07:00",
+         "URL": "https://sharewareonsale.com/s/free-snaptext-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1132,21 +1142,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Wind Turbine by Jeyers Development",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/08/01 05:59",
-         "URL": "https://jeyers-development.itch.io/the-wind-turbine",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "T.R.A.I.N by Artegious",
          "Informacion": "En T.R.A.I.N. (Transport Route Anomaly: Infected Node),\u00a0te pones en la piel de un apasionado explorador urbano de los EE. UU., atra\u00eddo por un bosque remoto en Ucrania despu\u00e9s de que surgieran rumores sobre un tren que desapareci\u00f3 misteriosamente justo despu\u00e9s de la ca\u00edda de la Uni\u00f3n Sovi\u00e9tica. Lo que comienza como una simple exploraci\u00f3n se convierte en una pesadilla empapada de miedo, secretismo y silencio.",
          "Desde": "",
          "Hasta": "2026/08/01 05:59",
          "URL": "https://artegious.itch.io/t-r-a-i-n",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Wind Turbine by Jeyers Development",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/01 05:59",
+         "URL": "https://jeyers-development.itch.io/the-wind-turbine",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
