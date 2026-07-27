@@ -1,56 +1,6 @@
 {
-   "date_update": "26 Jul 2026 16:18 UTC",
+   "date_update": "27 Jul 2026 16:15 UTC",
    "values": [
-      {
-         "Nombre": "Eternity Defenders by Pixxele",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/07/26 13:00",
-         "URL": "https://glaciergames.itch.io/eternity-defenders",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 84%, yellow 84%) 1;"
-      },
-      {
-         "Nombre": "WonderFox Document Manager Free License 2026",
-         "Informacion": "Al utilizar WonderFox Document Manager, puede enumerar, administrar y realizar copias de seguridad de documentos con unos pocos clics en lugar de buscarlos y realizar copias de seguridad uno por uno. Puede proteger el contenido de sus documentos de Office utilizando las funciones `Bloquear`, `Ocultar` y `Cifrar`.",
-         "Desde": "",
-         "Hasta": "2026/07/26 14:00",
-         "URL": "https://giveaway.tickcoupon.com/wonderfox-document-manager-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
-      },
-      {
-         "Nombre": "Hotdog Killer [Full Game] by imranaziz",
-         "Informacion": "Hotdog Killer es un breve juego de simulaci\u00f3n de cocina y terror en el que asumes el papel de un empleado que trabaja en el turno de noche en un solitario puesto de comida r\u00e1pida.",
-         "Desde": "",
-         "Hasta": "2026/07/26 21:00",
-         "URL": "https://imranaziz.itch.io/hotdogkiller",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
-      },
-      {
-         "Nombre": "Looping Forest by MyMomCanFly",
-         "Informacion": "Paquete de m\u00f3vil y PC",
-         "Desde": "",
-         "Hasta": "2026/07/26 22:59",
-         "URL": "https://mymomcanfly.itch.io/looping-forest",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Vovsoft Filename Lister Key Free (100% Discount)",
-         "Informacion": "Vovsoft Filename Lister es una aplicaci\u00f3n de Windows liviana y f\u00e1cil de usar que puede enumerar y exportar estructuras de carpetas. En una ventana simple con una interfaz simple y sencilla, puede comenzar eligiendo una unidad o directorio para escanear, y se enumerar\u00e1n todos los archivos, carpetas o ambos.",
-         "Desde": "",
-         "Hasta": "2026/07/27 04:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-filename-lister-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
       {
          "Nombre": "RESILIENCE by GamerbigA",
          "Informacion": "Construye tu ciudad. Sobrevive al desastre. Liderar la recuperaci\u00f3n.",
@@ -59,7 +9,7 @@
          "URL": "https://gamerbiga.itch.io/resilience",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
       },
       {
          "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
@@ -69,7 +19,7 @@
          "URL": "https://roega.itch.io/euli-beuli-run",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
@@ -79,7 +29,7 @@
          "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "RED KITE by ROEGA\u00e2\u0084\u00a2",
@@ -89,7 +39,7 @@
          "URL": "https://roega.itch.io/red-kite",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
@@ -99,7 +49,7 @@
          "URL": "https://roega.itch.io/super-euli-beuli",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 88%, yellow 88%) 1;"
       },
       {
          "Nombre": "FastWait by jimmydave",
@@ -109,7 +59,7 @@
          "URL": "https://jimmydave.itch.io/fastwait-release",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "one hit wonder by keveatscheese",
@@ -119,7 +69,7 @@
          "URL": "https://keveatscheese.itch.io/one-hit-wonder",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "Lord of Chaos by Hexnut Studios",
@@ -129,7 +79,7 @@
          "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "The Additional Dimension by notsospecialgames",
@@ -139,7 +89,7 @@
          "URL": "https://notsospecialgames.itch.io/the-additional-dimension",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Coolmuster Lab.Fone for Android (100% Discount)",
@@ -149,7 +99,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-lab-fone-for-android-free-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Image Extractor (100% Discount)",
@@ -159,7 +109,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-image-extractor-free-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Puzzle Box Island by Puzzle Box Island",
@@ -169,7 +119,7 @@
          "URL": "https://puzzle-box-island.itch.io/puzzle-box-island",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "The Lost Arctic by Puzzle Box Island",
@@ -179,7 +129,7 @@
          "URL": "https://puzzle-box-island.itch.io/the-lost-arctic",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "Carnival Roulette (Demo) by HMoGames",
@@ -189,7 +139,17 @@
          "URL": "https://hmogames.itch.io/carnival-roulette",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 16%, yellow 16%) 1;"
+      },
+      {
+         "Nombre": "DearMob iPhone Manager",
+         "Informacion": "Haga una copia de seguridad, cifre y restaure todos los datos en su dispositivo iOS",
+         "Desde": "",
+         "Hasta": "2026/07/28 09:00",
+         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Abode: Definitive Edition by Jordon",
@@ -252,6 +212,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "UnHackMe 18 Free License (100% Discount) 2026",
+         "Informacion": "UnHackMe es una poderosa suite que le permite detectar y eliminar una variedad de malware, incluidos troyanos, programas potencialmente no deseados y rootkits. Adem\u00e1s, busca archivos basura; escanea el inicio, los servicios y los controladores de Windows; prueba los atajos de Windows; exploraciones en busca de rootkits; prueba los archivos del host y la configuraci\u00f3n de DNS; y prueba todos los archivos usados \u200b\u200ben VirusTotal.",
+         "Desde": "",
+         "Hasta": "2026/07/29 15:00",
+         "URL": "https://giveaway.tickcoupon.com/unhackme-free-license-key-full-download/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Noah's Secret: Episode 1 by Chodex Productions",
          "Informacion": "",
          "Desde": "",
@@ -299,6 +269,16 @@
          "URL": "https://kadderagames.itch.io/static-voice",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DearMob iPhone Manager (100% Discount) Key Free",
+         "Informacion": "DearMob iPhone Manager es el primer administrador de iOS del mundo que transfiere datos de iPhone con un m\u00e9todo de cifrado. Le permite administrar sus datos de iOS completamente. Incorporada est\u00e1 la capacidad de transferir fotos, videos y contactos de iPhone con cifrado de grado militar para evitar fugas de privacidad; realizar copias de seguridad y restaurar datos de iOS en orden temporal; y transferir contenidos de forma selectiva y bidireccional desde la computadora al iPhone, ya sea una foto, video, m\u00fasica, contacto, mensaje, iTunes U, podcast, aplicaci\u00f3n, calendario, voz, archivo, etc. Su privacidad no es inmune a las filtraciones; prot\u00e9jalo con DearMob iPhone Manager para evitar amenazas.",
+         "Desde": "",
+         "Hasta": "2026/07/30 14:00",
+         "URL": "https://giveaway.tickcoupon.com/dearmob-iphone-manager-license-code-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -457,6 +437,16 @@
          "Desde": "",
          "Hasta": "2026/07/31 07:50",
          "URL": "https://deaddove-studio.itch.io/the-bigfoot-snow-massacre",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Deep Miner (Early Access) by Dill Studios",
+         "Informacion": "Este es un juego de miner\u00eda submarina actualmente en desarrollo.",
+         "Desde": "",
+         "Hasta": "2026/07/31 09:54",
+         "URL": "https://dillstudios.itch.io/deep-miner-early-access",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -687,6 +677,16 @@
          "Desde": "",
          "Hasta": "2026/07/31 19:13",
          "URL": "https://khaled2881.itch.io/small-push",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "PlayDummi by Yanick_1997",
+         "Informacion": "La demostraci\u00f3n est\u00e1 a continuaci\u00f3n.",
+         "Desde": "",
+         "Hasta": "2026/07/31 22:01",
+         "URL": "https://yanick-1997.itch.io/playdummi",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -952,11 +952,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BABUZI by vanbee",
+         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/08/02 12:00",
+         "URL": "https://vanbee.itch.io/babuzi",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Elevator Inferno by vanbee",
          "Informacion": "disfruta tu ca\u00edda",
          "Desde": "",
          "Hasta": "2026/08/02 12:00",
          "URL": "https://vanbee.itch.io/elevator-inferno",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MAZE by vanbee",
+         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
+         "Desde": "",
+         "Hasta": "2026/08/02 12:00",
+         "URL": "https://vanbee.itch.io/maze",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -972,23 +992,23 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "BABUZI by vanbee",
-         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
+         "Nombre": "Vovsoft PDF to Text Converter (100% Discount)",
+         "Informacion": "Vovsoft PDF to Text Converter es una soluci\u00f3n de conversi\u00f3n de PDF f\u00e1cil de usar que est\u00e1 dise\u00f1ada para simplificar el proceso de conversi\u00f3n de documentos PDF en archivos de texto. Desarrollada por Vovsoft, esta pr\u00e1ctica herramienta puede ayudarle a extraer contenido de texto de archivos PDF sin cargarlos en servidores en l\u00ednea.",
          "Desde": "",
-         "Hasta": "2026/08/02 12:00",
-         "URL": "https://vanbee.itch.io/babuzi",
+         "Hasta": "2026/08/03 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-pdf-to-text-converter-free-key/",
          "IMG": "",
-         "Distribuidora": "Itch io",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "MAZE by vanbee",
-         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
+         "Nombre": "Coolmuster HEIC Converter Free (100% Discount)",
+         "Informacion": "Los problemas de compatibilidad HEIC en Android o Windows pueden causar problemas. Coolmuster HEIC Converter te sacar\u00e1 de apuros en minutos. Como su nombre indica, Coolmuster HEIC Converter es una aplicaci\u00f3n de conversi\u00f3n de im\u00e1genes dise\u00f1ada para ayudarle a convertir sus im\u00e1genes HEIC a JPG/JPEG/PNG con la calidad original de forma r\u00e1pida y sencilla. Adem\u00e1s, esta herramienta tambi\u00e9n facilita la conversi\u00f3n por lotes de varios archivos HEIC al formato JPG o PNG a la vez.",
          "Desde": "",
-         "Hasta": "2026/08/02 12:00",
-         "URL": "https://vanbee.itch.io/maze",
+         "Hasta": "2026/08/04 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-heic-converter-free-license/",
          "IMG": "",
-         "Distribuidora": "Itch io",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1162,6 +1182,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Club Night by TheLoneGameDev",
+         "Informacion": "Sales una noche normal a un club.",
+         "Desde": "",
+         "Hasta": "2026/08/21 23:43",
+         "URL": "https://thelonegamedev.itch.io/club-night",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Let The Past Die by TheLoneGameDev",
          "Informacion": "Regresas a casa con la esperanza de encontrar la paz.",
          "Desde": "",
@@ -1232,16 +1262,6 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Club Night by TheLoneGameDev",
-         "Informacion": "Sales una noche normal a un club.",
-         "Desde": "",
-         "Hasta": "2026/08/21 23:43",
-         "URL": "https://thelonegamedev.itch.io/club-night",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Circus Hon\u00c5\u008dris by TheLoneGameDev",
          "Informacion": "Circus Hon\u00c5ris te lleva al coraz\u00f3n de la arena romana, donde s\u00f3lo la habilidad y el acero determinan tu destino.",
          "Desde": "",
@@ -1267,6 +1287,16 @@
          "Desde": "",
          "Hasta": "2026/08/24 23:02",
          "URL": "https://m1mo0.itch.io/borrowed-face",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
+         "Informacion": "el juego original baldi basics en educaci\u00f3n y aprendizaje 1.3.2 el a\u00f1o pasado ahora actualizaci\u00f3n del juego a baldi basics songkran en educaci\u00f3n y aprendizaje 1.4.5 mod no descompilado, juego real que actualiza, publica el juego completado. \u00a1Gracias a mystman12 por no enviar ese mod descompilado ya enviarlo ya para actualizar el acceso al juego no informar mi cuenta y el juego por favor y ahora envi\u00e1rselo a usted!",
+         "Desde": "",
+         "Hasta": "2026/08/26 11:13",
+         "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
