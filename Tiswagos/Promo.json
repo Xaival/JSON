@@ -1,56 +1,6 @@
 {
-   "date_update": "28 Jul 2026 16:20 UTC",
+   "date_update": "29 Jul 2026 16:14 UTC",
    "values": [
-      {
-         "Nombre": "Abode: Definitive Edition by Jordon",
-         "Informacion": "La nueva versi\u00f3n de Abode que hice para celebrar el 1er Aniversario. Incluye contenido nuevo, historia y varias correcciones de errores. Tambi\u00e9n se puede comprar en Steam aqu\u00ed\u00a0https://store.steampowered.com/app/3243780/Abode_Definitive_Edition/",
-         "Desde": "",
-         "Hasta": "2026/07/28 09:39",
-         "URL": "https://jordons.itch.io/abode-definitive-edition",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Back to Modern World - Fantasy Hero 2: Magic Academy by S Xavier Uy",
-         "Informacion": "Han pasado muchos a\u00f1os desde entonces, el viaje de yoha taka contin\u00faa, parece que ya hab\u00edan pasado muchas cosas. Actualmente asiste a una academia de magia en otro mundo con una misi\u00f3n importante junto con sus compa\u00f1eros.",
-         "Desde": "",
-         "Hasta": "2026/07/28 22:14",
-         "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero-2-travel",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
-      },
-      {
-         "Nombre": "Back to Modern World - Fantasy Hero by S Xavier Uy",
-         "Informacion": "Cuando Yoha Taka muri\u00f3 en un accidente, Dios aparece ante \u00e9l en un espacio lleno de espacios en blanco y blanco. Tu caso es muy especial, Dios dijo: \"Te resucitar\u00e9 en otro mundo\". y con una gran responsabilidad que llevar. Yoha Taka solo quiere una cosa es volver a su mundo anterior y permanecer junto a su sensei nuevamente, pero eso solo es posible si derrota al se\u00f1or de los demonios. Entonces, \u00bfqu\u00e9 pasar\u00e1 si env\u00edan a un chuunibyou a otro mundo que solo est\u00e1 lleno de fantas\u00eda?",
-         "Desde": "",
-         "Hasta": "2026/07/28 22:14",
-         "URL": "https://s-xavier-uy.itch.io/back-to-modern-world-fantasy-hero",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster iCloud Backup Recovery (100% Discount)",
-         "Informacion": "Coolmuster iCloud Backup Recovery es una utilidad de restauraci\u00f3n de datos de iOS que extrae categor\u00edas de archivos espec\u00edficas de los archivos de copia de seguridad de Apple iCloud. El software recupera activos multimedia (fotos, v\u00eddeos), metadatos de comunicaci\u00f3n (historial de llamadas, mensajes) y bases de datos de contactos. Realiza recuperaci\u00f3n de datos para archivos perdidos debido a eliminaci\u00f3n accidental, errores de sincronizaci\u00f3n o compromiso f\u00edsico del dispositivo iOS de origen.",
-         "Desde": "",
-         "Hasta": "2026/07/29 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-icloud-backup-recovery/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "SnapText Pro",
-         "Informacion": "SnapText es una plataforma de extracci\u00f3n de texto impulsada por IA que le ayuda a capturar texto instant\u00e1neamente a partir de im\u00e1genes, capturas de pantalla, archivos PDF, videos y su pantalla. Tambi\u00e9n incluye una potente extensi\u00f3n de Chrome, Smart Layout y DLFast para optimizar su flujo de trabajo.",
-         "Desde": "",
-         "Hasta": "2026/07/29 07:00",
-         "URL": "https://sharewareonsale.com/s/free-snaptext-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
-      },
       {
          "Nombre": "DUELIX by Ethan Uzii",
          "Informacion": "DUELIX es un r\u00e1pido juego de cartas t\u00e1ctico de tres carriles ambientado en un mundo de fantas\u00eda oscuro y empapado de ne\u00f3n.\u00a0Cada partida es una ronda \u00fanica que se juega en tres ubicaciones. Manejas un grupo reducido de unidades, decides d\u00f3nde comprometer tu poder y cu\u00e1ndo pasar y guardar recursos para turnos posteriores. A medida que ganas, conquistas territorios gradualmente, desbloqueas nuevos oponentes y exploras rincones m\u00e1s extra\u00f1os del mapa.",
@@ -59,7 +9,7 @@
          "URL": "https://ethan-uzii.itch.io/duelix",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
       },
       {
          "Nombre": "UnHackMe 18 Free License (100% Discount) 2026",
@@ -69,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/unhackme-free-license-key-full-download/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Noah's Secret: Episode 1 by Chodex Productions",
@@ -79,7 +29,7 @@
          "URL": "https://chodex-productions.itch.io/noahs-secret-episode-1",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
       },
       {
          "Nombre": "Labbit:  Escape Protocol by Yorhan David",
@@ -89,7 +39,7 @@
          "URL": "https://artlanea-games.itch.io/labbit-escape-protocol",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 26%, yellow 26%) 1;"
       },
       {
          "Nombre": "Ashampoo WinOptimizer 2026",
@@ -99,7 +49,17 @@
          "URL": "https://sharewareonsale.com/s/free-ashampoo-winoptimizer-2026-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
+      },
+      {
+         "Nombre": "DearMob iPhone Manager",
+         "Informacion": "Haga una copia de seguridad, cifre y restaure todos los datos en su dispositivo iOS",
+         "Desde": "",
+         "Hasta": "2026/07/30 09:00",
+         "URL": "https://www.bitsdujour.com/software/dearmob-iphone-manager/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Yet Another Zombie Defense HD",
@@ -562,6 +522,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Intruder Alert - Part One by Rubber Ducky Games",
+         "Informacion": "Nada es m\u00e1s aterrador que el peligro que est\u00e1 en tu propia casa...",
+         "Desde": "",
+         "Hasta": "2026/07/31 21:57",
+         "URL": "https://rubber-ducky-games.itch.io/intruder-alert-part-one",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "PlayDummi by Yanick_1997",
          "Informacion": "La demostraci\u00f3n est\u00e1 a continuaci\u00f3n.",
          "Desde": "",
@@ -632,13 +602,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Open House by GrantRimi",
-         "Informacion": "Markiplier recientemente apoy\u00f3 el juego con una donaci\u00f3n de $200. En serio, no puedo imaginar lo agradecido que estoy.",
+         "Nombre": "ACDSee Ultimate Pack 2026 Free License (6-Month)",
+         "Informacion": "ACDSee Ultimate Pack 2026 es un paquete de cinco programas para organizaci\u00f3n de fotograf\u00edas, edici\u00f3n de im\u00e1genes, producci\u00f3n de videos, grabaci\u00f3n de pantalla y conversi\u00f3n de medios. Incluye ACDSee Photo Studio Ultimate 2026, Gemstone Photo Editor 16, LUXEA Pro Video Editor 8, Video Converter Pro 5 y Photo Studio para Mac 26. El paquete cubre edici\u00f3n RAW, composiciones en capas, herramientas fotogr\u00e1ficas asistidas por IA, edici\u00f3n de video basada en l\u00ednea de tiempo y conversi\u00f3n por lotes. Es adecuado para fot\u00f3grafos y creadores de v\u00eddeos que desean varias herramientas multimedia en una sola cuenta.",
          "Desde": "",
-         "Hasta": "2026/08/01 02:21",
-         "URL": "https://grantrimi.itch.io/open-house",
+         "Hasta": "2026/08/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/acdsee-ultimate-pack-free-license-code/",
          "IMG": "",
-         "Distribuidora": "Itch io",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -647,6 +617,16 @@
          "Desde": "",
          "Hasta": "2026/08/01 02:21",
          "URL": "https://grantrimi.itch.io/follower",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Late Stops by GrantRimi",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/01 02:21",
+         "URL": "https://grantrimi.itch.io/late-stops",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -662,21 +642,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Storefront by GrantRimi",
-         "Informacion": "\u00a1Gracias por el apoyo! \u00a1Realmente lo aprecio!",
+         "Nombre": "Open House by GrantRimi",
+         "Informacion": "Markiplier recientemente apoy\u00f3 el juego con una donaci\u00f3n de $200. En serio, no puedo imaginar lo agradecido que estoy.",
          "Desde": "",
          "Hasta": "2026/08/01 02:21",
-         "URL": "https://grantrimi.itch.io/storefront",
+         "URL": "https://grantrimi.itch.io/open-house",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Late Stops by GrantRimi",
-         "Informacion": "",
+         "Nombre": "Storefront by GrantRimi",
+         "Informacion": "\u00a1Gracias por el apoyo! \u00a1Realmente lo aprecio!",
          "Desde": "",
          "Hasta": "2026/08/01 02:21",
-         "URL": "https://grantrimi.itch.io/late-stops",
+         "URL": "https://grantrimi.itch.io/storefront",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -942,11 +922,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "LIGHTHUSK by Splif",
-         "Informacion": "LIGHTHUSK es un juego de terror de supervivencia psicol\u00f3gico de estilo retro ambientado en una isla misteriosa y aislada.",
+         "Nombre": "The Killer Bunny by NORTH SIGNAL",
+         "Informacion": "Kevin sale de su apartamento una noche tarde para hacer compras antes de que comience la Pascua. Lo que deber\u00eda haber sido un viaje de rutina r\u00e1pidamente toma un giro aterrador cuando el empleado de la tienda de comestibles desaparece misteriosamente. Decidido a descubrir lo sucedido, Kevin sigue el rastro hacia el bosque circundante, donde cada paso revela algo mucho m\u00e1s siniestro de lo que podr\u00eda haber imaginado.",
          "Desde": "",
-         "Hasta": "2026/08/03 20:10",
-         "URL": "https://splif404.itch.io/lighthusk",
+         "Hasta": "2026/08/03 05:58",
+         "URL": "https://northsignal.itch.io/the-killer-bunny",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -957,6 +937,16 @@
          "Desde": "",
          "Hasta": "2026/08/03 20:10",
          "URL": "https://splif404.itch.io/brud",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "LIGHTHUSK by Splif",
+         "Informacion": "LIGHTHUSK es un juego de terror de supervivencia psicol\u00f3gico de estilo retro ambientado en una isla misteriosa y aislada.",
+         "Desde": "",
+         "Hasta": "2026/08/03 20:10",
+         "URL": "https://splif404.itch.io/lighthusk",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -989,6 +979,16 @@
          "URL": "https://s-xavier-uy.itch.io/false-title",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster iPhone SMS + Contacts Recovery (100% Discount)",
+         "Informacion": "Coolmuster iPhone SMS + Contacts Recovery\u00a0es una poderosa herramienta de recuperaci\u00f3n de datos del tel\u00e9fono dise\u00f1ada para ayudarlo a recuperar mensajes SMS y contactos perdidos o eliminados de su iPhone. Ya sea que haya eliminado accidentalmente mensajes importantes o haya perdido contactos debido a una actualizaci\u00f3n del sistema, este software puede recuperar sus datos directamente desde su dispositivo iOS, iTunes o copia de seguridad de iCloud. Esto no s\u00f3lo le ayuda a recuperar n\u00fameros de tel\u00e9fono y mensajes de texto, sino que esta herramienta tambi\u00e9n puede recuperar nombres de contactos, direcciones, empresas, correos electr\u00f3nicos, archivos adjuntos de SMS, etc.",
+         "Desde": "",
+         "Hasta": "2026/08/05 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-iphone-sms-contacts-recovery/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1110,6 +1110,16 @@
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Beacon Pines",
+         "Informacion": "Beacon Pines is a cute and creepy adventure game. Sneak out late, make new friends, uncover hidden truths, and collect words that will change the course of fate!",
+         "Desde": "2026/08/06",
+         "Hasta": "2026/08/13 17:00",
+         "URL": "https://store.epicgames.com/p/beacon-pines-629fc3",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
       },
       {
          "Nombre": "Friends of The Damned (DEMO) by OneDev_Games",
