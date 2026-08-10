@@ -1,186 +1,6 @@
 {
-   "date_update": "09 Aug 2026 16:23 UTC",
+   "date_update": "10 Aug 2026 16:24 UTC",
    "values": [
-      {
-         "Nombre": "Breathedge",
-         "Informacion": "\u00a1Sobrevive en el espacio exterior! Junto con tu pollo inmortal, descubre la verdad detr\u00e1s del repentino accidente de tu nave espacial. Crea herramientas, pilota veh\u00edculos e incluso controla estaciones espaciales para sobrevivir y explorar los restos.",
-         "Desde": "",
-         "Hasta": "2026/08/09 10:00",
-         "URL": "https://store.steampowered.com/app/738520/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "Moonlighter",
-         "Informacion": "Moonlighter es un juego de rol de acci\u00f3n con elementos rogue-lite que muestra dos caras de la moneda: revela las rutinas cotidianas de Will, un comerciante aventurero que secretamente sue\u00f1a con convertirse en un h\u00e9roe.",
-         "Desde": "",
-         "Hasta": "2026/08/09 10:00",
-         "URL": "https://store.steampowered.com/app/606150/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "DUELIX by Ethan Uzii",
-         "Informacion": "DUELIX es un r\u00e1pido juego de cartas t\u00e1ctico de tres carriles ambientado en un mundo de fantas\u00eda oscuro y empapado de ne\u00f3n.\u00a0Cada partida es una ronda \u00fanica que se juega en tres ubicaciones. Manejas un grupo reducido de unidades, decides d\u00f3nde comprometer tu poder y cu\u00e1ndo pasar y guardar recursos para turnos posteriores. A medida que ganas, conquistas territorios gradualmente, desbloqueas nuevos oponentes y exploras rincones m\u00e1s extra\u00f1os del mapa.",
-         "Desde": "",
-         "Hasta": "2026/08/09 10:30",
-         "URL": "https://ethan-uzii.itch.io/duelix",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 95%, yellow 95%) 1;"
-      },
-      {
-         "Nombre": "BABUZI by vanbee",
-         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/08/09 12:00",
-         "URL": "https://vanbee.itch.io/babuzi",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "Elevator Inferno by vanbee",
-         "Informacion": "disfruta tu ca\u00edda",
-         "Desde": "",
-         "Hasta": "2026/08/09 12:00",
-         "URL": "https://vanbee.itch.io/elevator-inferno",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "MAZE by vanbee",
-         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
-         "Desde": "",
-         "Hasta": "2026/08/09 12:00",
-         "URL": "https://vanbee.itch.io/maze",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "ME NAME BRAAA by vanbee",
-         "Informacion": "Hola",
-         "Desde": "",
-         "Hasta": "2026/08/09 12:00",
-         "URL": "https://vanbee.itch.io/me-name-braaa",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 89%, yellow 89%) 1;"
-      },
-      {
-         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Euli Beuli CORRER",
-         "Desde": "",
-         "Hasta": "2026/08/09 13:00",
-         "URL": "https://roega.itch.io/euli-beuli-run",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
-      },
-      {
-         "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Euli Beuli STRIKE: \u00a1el nuevo servicio es el sucesor completamente renovado de Euli Beuli STRIKE! STRIKE se trataba de jugar pong con un amigo en una pantalla: \u00a1una nueva versi\u00f3n del juego de mesa!",
-         "Desde": "",
-         "Hasta": "2026/08/09 13:00",
-         "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 85%, yellow 85%) 1;"
-      },
-      {
-         "Nombre": "ThunderSoft Watermark Remover License Key Free 2026",
-         "Informacion": "La herramienta ThunderSoft Watermark Remover es una aplicaci\u00f3n de eliminaci\u00f3n de marcas de agua vers\u00e1til que se utiliza para eliminar marcas de agua de fotograf\u00edas e im\u00e1genes, que los autores suelen utilizar para proteger los derechos de autor. Ofrece una amplia gama de formatos de imagen, incluidos JPEG, PNG, BMP, GIF, TIFF, MP4 y AVI, y ofrece tres m\u00e9todos de eliminaci\u00f3n diferentes: relleno suave, relleno de bordes y reparaci\u00f3n de texturas para eliminar marcas de agua.",
-         "Desde": "",
-         "Hasta": "2026/08/09 14:00",
-         "URL": "https://giveaway.tickcoupon.com/thundersoft-watermark-remover-free-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
-      },
-      {
-         "Nombre": "Kaizen Fast Clicker Pro Free License Key (1-Year)",
-         "Informacion": "Kaizen Fast Clicker Pro es un clicker autom\u00e1tico de Windows para tareas repetitivas del mouse. Le permite establecer el intervalo de clic, elegir clic izquierdo, derecho o doble y controlar el clic con una tecla de acceso r\u00e1pido global. Tambi\u00e9n puede agregar retrasos aleatorios, establecer una hora de parada y usar una cuenta regresiva antes de que comience a hacer clic. Esta herramienta es adecuada para juegos, pruebas de interfaz y tareas repetitivas de escritorio en las que hacer clic constantemente ahorra entrada manual.",
-         "Desde": "",
-         "Hasta": "2026/08/09 15:00",
-         "URL": "https://giveaway.tickcoupon.com/kaizen-fast-clicker-pro-free-license-key/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
-      },
-      {
-         "Nombre": "DIRE ECHO by TrueGamesStudio",
-         "Informacion": "STEAMEn un futuro pr\u00f3ximo, la humanidad se expandir\u00e1 constantemente hacia las profundidades del espacio. Eres un astronauta en una misi\u00f3n rutinaria pero importante: sigue una ruta designada hasta una estaci\u00f3n remota y entrega datos t\u00e9cnicos.",
-         "Desde": "",
-         "Hasta": "2026/08/09 16:57",
-         "URL": "https://truegamesstudio.itch.io/dire-echo",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "NIGHTBELL by TrueGamesStudio",
-         "Informacion": "STEAMNightbell es un juego de terror atmosf\u00e9rico sobre una Nochebuena cuando un hogar acogedor deja de ser un lugar seguro.",
-         "Desde": "",
-         "Hasta": "2026/08/09 16:57",
-         "URL": "https://truegamesstudio.itch.io/nightbell",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Weapon Rearing by JIYUTORISEI",
-         "Informacion": "Juego inactivo de recolecci\u00f3n y desarrollo de armas.",
-         "Desde": "",
-         "Hasta": "2026/08/09 17:00",
-         "URL": "https://jiyutorisei.itch.io/weapon-rearing",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Vovsoft Math Practice License Key for Free 2026",
-         "Informacion": "Al asistir a la escuela primaria, los ni\u00f1os estar\u00e1n expuestos a c\u00e1lculos b\u00e1sicos como suma, resta, multiplicaci\u00f3n y divisi\u00f3n. Vovsoft Math Practice\u00a0est\u00e1 dise\u00f1ado para ayudar a sus hijos a realizar c\u00e1lculos matem\u00e1ticos en tres niveles, desde f\u00e1cil hasta medio y dif\u00edcil. Para cada sesi\u00f3n, esta herramienta ofrece 10 preguntas. Cuando los ni\u00f1os hayan terminado, aparecer\u00e1n las estad\u00edsticas y usted ver\u00e1 n\u00fameros que indican qu\u00e9 tan bien les fue a sus hijos.",
-         "Desde": "",
-         "Hasta": "2026/08/10 04:00",
-         "URL": "https://giveaway.tickcoupon.com/vovsoft-math-practice-key-free-coupon/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 22%, yellow 22%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Photo Optimizer 2026",
-         "Informacion": "*** \u00a1Buenas noticias! ashampoo GmbH & Co. KG acord\u00f3 extender este acuerdo por un d\u00eda m\u00e1s - \u00a1Disfr\u00fatelo! ***",
-         "Desde": "",
-         "Hasta": "2026/08/10 09:00",
-         "URL": "https://www.bitsdujour.com/software/ashampoo-photo-optimizer-2026/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
-      },
-      {
-         "Nombre": "bable playground exclusive edition by FREE_GAMES - UA",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/08/10 09:08",
-         "URL": "https://free-games-ua.itch.io/bable-playground-exclusive-edition",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
-      {
-         "Nombre": "Lurking Shadows by FREE_GAMES - UA",
-         "Informacion": "\u00d0\u00a3\u00d0\u00d0\u00a0\u00d0\u00d0\u00d0\u00d0\u00a1\u00d0\u00ac\u00d0\u00d0",
-         "Desde": "",
-         "Hasta": "2026/08/10 09:08",
-         "URL": "https://free-games-ua.itch.io/lurking-shadows",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Memory 12 by Seld Studios",
          "Informacion": "\"\u00bfEsa silla siempre estuvo ah\u00ed...?\"",
@@ -189,7 +9,7 @@
          "URL": "https://seldstudios.itch.io/memory-12",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 87%, yellow 87%) 1;"
       },
       {
          "Nombre": "multiplayer FPS by Surprise  games",
@@ -199,7 +19,7 @@
          "URL": "https://shin-games.itch.io/multiplayer-fps2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Tank Battle by Surprise  games",
@@ -209,7 +29,7 @@
          "URL": "https://shin-games.itch.io/tanks",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "PolyDefend by 549.GameStudio",
@@ -219,7 +39,7 @@
          "URL": "https://slam.itch.io/polydefend",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
       },
       {
          "Nombre": "Only Up by Only Up",
@@ -229,7 +49,7 @@
          "URL": "https://only-up.itch.io/onlyup",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "Lord of Chaos by Hexnut Studios",
@@ -239,7 +59,7 @@
          "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 60%, yellow 60%) 1;"
       },
       {
          "Nombre": "MR. WHITE: REBORN by Red Cap Games",
@@ -249,7 +69,17 @@
          "URL": "https://redcap-games.itch.io/mr-white-reborn",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
+      },
+      {
+         "Nombre": "Crossing Chains by Daniel Nora",
+         "Informacion": "- Un juego de rompecabezas de dibujo lineal que presenta el concepto de puntos de cruce din\u00e1micos.",
+         "Desde": "",
+         "Hasta": "2026/08/10 21:50",
+         "URL": "https://danijmn.itch.io/crossingchains",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 48%, yellow 48%) 1;"
       },
       {
          "Nombre": "Intruder Alert - Part One by Rubber Ducky Games",
@@ -259,7 +89,7 @@
          "URL": "https://rubber-ducky-games.itch.io/intruder-alert-part-one",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Lyall's Convenience Store: Game by Rubber Ducky Games",
@@ -269,7 +99,7 @@
          "URL": "https://rubber-ducky-games.itch.io/lyalls-convenience-store-demo",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Overdue - The Librarian by Rubber Ducky Games",
@@ -279,7 +109,7 @@
          "URL": "https://rubber-ducky-games.itch.io/overdo-the-librarian",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Pumpkin Patch by Rubber Ducky Games",
@@ -289,7 +119,7 @@
          "URL": "https://rubber-ducky-games.itch.io/pumpkin-patch",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Tap Tap Tap... by Rubber Ducky Games",
@@ -299,7 +129,7 @@
          "URL": "https://rubber-ducky-games.itch.io/tap-tap-tap",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "The Farm by Rubber Ducky Games",
@@ -309,7 +139,7 @@
          "URL": "https://rubber-ducky-games.itch.io/the-farm",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
       },
       {
          "Nombre": "Daydream City by V4LENT1NE",
@@ -319,7 +149,7 @@
          "URL": "https://eda-v4lent1ne.itch.io/daydream-city",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Ethan Is Missing by V4LENT1NE",
@@ -329,7 +159,7 @@
          "URL": "https://eda-v4lent1ne.itch.io/ethan-is-missing",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Coolmuster Data Erasure (100% Discount) 1 Year Key",
@@ -339,7 +169,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-data-erasure-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
       },
       {
          "Nombre": "Boots Quest DX by Discount Realms",
@@ -349,7 +179,7 @@
          "URL": "https://discountrealms.itch.io/boots-quest-dx",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 32%, yellow 32%) 1;"
       },
       {
          "Nombre": "Forest Bike by All kinds of games",
@@ -447,6 +277,16 @@
          "Desde": "",
          "Hasta": "2026/08/13 12:05",
          "URL": "https://vovaprokiller.itch.io/the-shift",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DUELIX by Ethan Uzii",
+         "Informacion": "DUELIX es un r\u00e1pido juego de cartas t\u00e1ctico de tres carriles ambientado en un mundo de fantas\u00eda oscuro y empapado de ne\u00f3n.\u00a0Cada partida es una ronda \u00fanica que se juega en tres ubicaciones. Manejas un grupo reducido de unidades, decides d\u00f3nde comprometer tu poder y cu\u00e1ndo pasar y guardar recursos para turnos posteriores. A medida que ganas, conquistas territorios gradualmente, desbloqueas nuevos oponentes y exploras rincones m\u00e1s extra\u00f1os del mapa.",
+         "Desde": "",
+         "Hasta": "2026/08/13 13:00",
+         "URL": "https://ethan-uzii.itch.io/duelix",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -602,6 +442,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "ZD Soft Screen Recorder 12",
+         "Informacion": "ZD Screen Recorder es una poderosa herramienta de Windows para capturar pantalla, c\u00e1mara web, micr\u00f3fono y audio. Graba f\u00e1cilmente juegos, reuniones, seminarios web o transmite en vivo con un flujo de trabajo intuitivo para todos los usuarios.",
+         "Desde": "",
+         "Hasta": "2026/08/15 07:00",
+         "URL": "https://sharewareonsale.com/s/zd-soft-screen-recorder-giveaway-coupon-sale",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Abode: Definitive Edition by Jordon",
          "Informacion": "La nueva versi\u00f3n de Abode que hice para celebrar el 1er Aniversario. Incluye contenido nuevo, historia y varias correcciones de errores. Tambi\u00e9n se puede comprar en Steam aqu\u00ed\u00a0https://store.steampowered.com/app/3243780/Abode_Definitive_Edition/",
          "Desde": "",
@@ -619,6 +469,16 @@
          "URL": "https://grantrimi.itch.io/open-house",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ZD Screen Recorder Free Key 2026 (100% Discount",
+         "Informacion": "ZD Screen Recorder es un software de grabaci\u00f3n de pantalla que le permite capturar la pantalla/c\u00e1mara web/audio en su disco duro. Adem\u00e1s, le ayuda a crear demostraciones/tutoriales/v\u00eddeos de formaci\u00f3n de software, grabar cursos/conferencias/seminarios web/reuniones en l\u00ednea o convertir presentaciones PPT en v\u00eddeos. Adem\u00e1s, este software de grabaci\u00f3n de pantalla tambi\u00e9n captura los maravillosos momentos de tu juego o comparte tu pantalla con colegas/estudiantes, etc.",
+         "Desde": "",
+         "Hasta": "2026/08/15 14:00",
+         "URL": "https://giveaway.tickcoupon.com/zd-screen-recorder-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -642,11 +502,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Your Phone is Alive! by SVAN PRODUCTIONS",
+         "Nombre": "Metro Tbilisi [demo] by SVAN PRODUCTIONS",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/08/15 23:00",
-         "URL": "https://svanproductions.itch.io/your-phone-is-alive",
+         "URL": "https://svanproductions.itch.io/metro-tbilisi-demo",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -657,26 +517,6 @@
          "Desde": "",
          "Hasta": "2026/08/15 23:00",
          "URL": "https://svanproductions.itch.io/pirate-hunt",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Virus Evolution by SVAN PRODUCTIONS",
-         "Informacion": "juego donde juegas como un virus contra la humanidad",
-         "Desde": "",
-         "Hasta": "2026/08/15 23:00",
-         "URL": "https://svanproductions.itch.io/virus-evolution",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Metro Tbilisi [demo] by SVAN PRODUCTIONS",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/08/15 23:00",
-         "URL": "https://svanproductions.itch.io/metro-tbilisi-demo",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -702,11 +542,111 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Virus Evolution by SVAN PRODUCTIONS",
+         "Informacion": "juego donde juegas como un virus contra la humanidad",
+         "Desde": "",
+         "Hasta": "2026/08/15 23:00",
+         "URL": "https://svanproductions.itch.io/virus-evolution",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Your Phone is Alive! by SVAN PRODUCTIONS",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/15 23:00",
+         "URL": "https://svanproductions.itch.io/your-phone-is-alive",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Somebody is Watching by SVAN PRODUCTIONS",
+         "Informacion": "ALGUIEN EST\u00c1 MIRANDO",
+         "Desde": "",
+         "Hasta": "2026/08/15 23:00",
+         "URL": "https://svanproductions.itch.io/its-not-him",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Flappy Haland by SVAN PRODUCTIONS",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/15 23:00",
+         "URL": "https://svanproductions.itch.io/flappy-haland",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Iridescent Crown / \u00e8\u0099\u00b9\u00e8\u0089\u00b2\u00e3\u0081\u00ae\u00e7\u008e\u008b\u00e5\u0086\u00a0 by Dylan Cassidy",
          "Informacion": "(Nota para usuarios que no utilizan Windows:\u00a0\u00a1a\u00fan puedes jugar a mis juegos! Si est\u00e1s en Android, usa Winlator. Si est\u00e1s en Linux, usa Bottles.\u00a0Si est\u00e1s en macOS, usa Whisky).",
          "Desde": "",
          "Hasta": "2026/08/16 06:59",
          "URL": "https://dylancassidy.itch.io/iridescent-crown",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "No One Inside by PHOENIX'sZone",
+         "Informacion": "\u00f0\u00ae\u00a0 Juega ahora",
+         "Desde": "",
+         "Hasta": "2026/08/16 08:29",
+         "URL": "https://phoenixszone.itch.io/no-one-inside",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Elevator Inferno by vanbee",
+         "Informacion": "disfruta tu ca\u00edda",
+         "Desde": "",
+         "Hasta": "2026/08/16 12:00",
+         "URL": "https://vanbee.itch.io/elevator-inferno",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "ME NAME BRAAA by vanbee",
+         "Informacion": "Hola",
+         "Desde": "",
+         "Hasta": "2026/08/16 12:00",
+         "URL": "https://vanbee.itch.io/me-name-braaa",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BABUZI by vanbee",
+         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/08/16 12:00",
+         "URL": "https://vanbee.itch.io/babuzi",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MAZE by vanbee",
+         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
+         "Desde": "",
+         "Hasta": "2026/08/16 12:00",
+         "URL": "https://vanbee.itch.io/maze",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sleep Demon by Ravenhome",
+         "Informacion": "\u00bfAlguna vez te has preguntado c\u00f3mo es experimentar la par\u00e1lisis del sue\u00f1o?",
+         "Desde": "",
+         "Hasta": "2026/08/16 13:31",
+         "URL": "https://ravenhome.itch.io/sleep-demon",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -769,6 +709,36 @@
          "URL": "https://anomalous-games.itch.io/crank-racing",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster Android SMS + Contacts Recovery",
+         "Informacion": "Coolmuster Android SMS + Contacts Recovery es la soluci\u00f3n definitiva para recuperar sus conversaciones de texto y detalles de contacto extraviados o eliminados en su dispositivo Android. Esta poderosa herramienta le permite recuperar contactos y mensajes de texto perdidos tanto de la tarjeta de memoria interna como de la tarjeta SIM de su dispositivo Android, independientemente de c\u00f3mo se perdieron, ya sea por eliminaci\u00f3n accidental, intrusi\u00f3n de virus, mal funcionamiento del hardware o software, o m\u00e1s.",
+         "Desde": "",
+         "Hasta": "2026/08/17 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-sms-contacts-recovery/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Vovsoft World Heatmap Creator Key Free 2026",
+         "Informacion": "Vovsoft World Heatmap Creator es una aplicaci\u00f3n generadora de mapas de calor que le permite crear mapas de calor geogr\u00e1ficos mundiales sin ninguna experiencia previa. Con un dise\u00f1o sencillo, crea un mapa mundial en formato HTML y marca todas las ubicaciones que elijas. Cada ubicaci\u00f3n se almacena con su correspondiente latitud y longitud, lo que garantiza una ubicaci\u00f3n precisa en el mapa mundial.",
+         "Desde": "",
+         "Hasta": "2026/08/17 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-world-heatmap-creator-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Wise Program Uninstaller PRO Free Download 2026",
+         "Informacion": "Utilicemos Wise Program Uninstaller PRO cuando desee eliminar software rebelde o mantener su sistema libre de restos de basura. Esta herramienta de desinstalaci\u00f3n le ayuda a eliminar aplicaciones de terceros, programas integrados de Windows y aplicaciones para UWP. Puede escanear exhaustivamente en busca de entradas sobrantes en todos los niveles, incluidos elementos del registro, directorios de instalaci\u00f3n y carpetas de datos del programa, para garantizar una eliminaci\u00f3n completamente limpia. Adem\u00e1s, la funci\u00f3n Forzar desinstalaci\u00f3n le permite eliminar programas que resisten los m\u00e9todos de desinstalaci\u00f3n est\u00e1ndar o que se han corrompido.",
+         "Desde": "",
+         "Hasta": "2026/08/17 15:00",
+         "URL": "https://giveaway.tickcoupon.com/wise-program-uninstaller-pro-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1112,21 +1082,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Tarotro by Worst Event Games",
-         "Informacion": "Por favor califica y comenta si te gust\u00f3.",
+         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se aver\u00eda.",
          "Desde": "",
          "Hasta": "2026/08/29 00:54",
-         "URL": "https://worsteventgames.itch.io/tarotro",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Worst Wifey (\u00e3\u0083\u00af\u00e3\u0083\u00ab\u00e5\u00ab\u0081) by Worst Event Games, Mehran Goudarzi, MetaMagicShaman",
-         "Informacion": "\u00bfSientes que tu escritorio est\u00e1 demasiado solo? Un lindo compa\u00f1ero de escritorio malo que te har\u00e1 compa\u00f1\u00eda e iluminar\u00e1 tu pantalla. \u00a1con EXTRA F\u00cdSICA!",
-         "Desde": "",
-         "Hasta": "2026/08/29 00:54",
-         "URL": "https://worsteventgames.itch.io/worst-wifey",
+         "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1142,11 +1102,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se aver\u00eda.",
+         "Nombre": "Tarotro by Worst Event Games",
+         "Informacion": "Por favor califica y comenta si te gust\u00f3.",
          "Desde": "",
          "Hasta": "2026/08/29 00:54",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
+         "URL": "https://worsteventgames.itch.io/tarotro",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Worst Wifey (\u00e3\u0083\u00af\u00e3\u0083\u00ab\u00e5\u00ab\u0081) by Worst Event Games, Mehran Goudarzi, MetaMagicShaman",
+         "Informacion": "\u00bfSientes que tu escritorio est\u00e1 demasiado solo? Un lindo compa\u00f1ero de escritorio malo que te har\u00e1 compa\u00f1\u00eda e iluminar\u00e1 tu pantalla. \u00a1con EXTRA F\u00cdSICA!",
+         "Desde": "",
+         "Hasta": "2026/08/29 00:54",
+         "URL": "https://worsteventgames.itch.io/worst-wifey",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
