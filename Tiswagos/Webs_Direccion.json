@@ -1,5 +1,5 @@
 {
-   "date_update": "20 Aug 2026 16:13 UTC",
+   "date_update": "21 Aug 2026 16:14 UTC",
    "values": [
       {
          "Direccion": "8.8.8.8 aeffe3nhrua5hua.com #AntiSpam"
@@ -3363,6 +3363,9 @@
       },
       {
          "Direccion": "8.8.8.8 adblock-unlim.com #AntiSpam"
+      },
+      {
+         "Direccion": "8.8.8.8 adblocker-aio.info #AntiSpam"
       },
       {
          "Direccion": "8.8.8.8 adblocker-global.info #AntiSpam"
