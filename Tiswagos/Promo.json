@@ -1,106 +1,6 @@
 {
-   "date_update": "20 Aug 2026 16:15 UTC",
+   "date_update": "21 Aug 2026 16:16 UTC",
    "values": [
-      {
-         "Nombre": "Deponia",
-         "Informacion": "En Deponia, el mundo ha degenerado en un enorme vertedero de basura, en el que el cascarrabias Rufus se gana a duras penas su lamentable existencia.",
-         "Desde": "",
-         "Hasta": "2026/08/20 10:00",
-         "URL": "https://store.steampowered.com/app/214340/",
-         "IMG": "",
-         "Distribuidora": "Steam",
-         "Borde": "border-image: linear-gradient(to right, red 97%, yellow 97%) 1;"
-      },
-      {
-         "Nombre": "FastWait by jimmydave",
-         "Informacion": "Juegas como una persona que trabaja en el turno de noche, pero tus clientes no son personas y har\u00e1n cualquier cosa para conseguir la comida, pero notaste que sus manos son vulnerables a la luz ultravioleta y aprovechas para mantenerlas a raya mientras trabajas y esperas hasta las 6 a. m. para que salga el sol. \u00a1Al menos pagan bien la comida!",
-         "Desde": "",
-         "Hasta": "2026/08/20 15:19",
-         "URL": "https://jimmydave.itch.io/fastwait-release",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Caravan SandWitch",
-         "Informacion": "Emb\u00e1rcate en un viaje a trav\u00e9s de vastos paisajes en Caravan SandWitch, una cautivadora aventura de exploraci\u00f3n narrativa.",
-         "Desde": "2026/08/13",
-         "Hasta": "2026/08/20 17:00",
-         "URL": "https://store.epicgames.com/p/caravan-sandwitch-05ff58",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 68%, yellow 68%) 1;"
-      },
-      {
-         "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
-         "Informacion": "Proyecto: Reborn - Extracci\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/08/20 18:05",
-         "URL": "https://bkgamingstudio.itch.io/project-reborn-extraction",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/08/20 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "MR. WHITE: REBORN by Red Cap Games",
-         "Informacion": "Entraste en un bosque remoto investigando una serie de desapariciones.",
-         "Desde": "",
-         "Hasta": "2026/08/20 19:20",
-         "URL": "https://redcap-games.itch.io/mr-white-reborn",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "The One We Can't See by Wiktor Games",
-         "Informacion": "Los padres de tu sobrina est\u00e1n fuera de la ciudad y tienes que cuidar de ella.",
-         "Desde": "",
-         "Hasta": "2026/08/20 19:49",
-         "URL": "https://wiktor-games.itch.io/the-one-we-cant-see",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 56%, yellow 56%) 1;"
-      },
-      {
-         "Nombre": "Room of Secrets by Komodroid New Zealand",
-         "Informacion": "Room of Secrets es un emocionante juego de escape en el que el jugador se despierta secuestrado dentro de una casa misteriosa. Para escapar, debes explorar cada habitaci\u00f3n, descubrir secretos ocultos y resolver acertijos desafiantes, desde descifrar c\u00f3digos de teclado hasta combinar objetos misteriosos. Usa tu ingenio y estrategia para encontrar una salida antes de que acabe el tiempo.",
-         "Desde": "",
-         "Hasta": "2026/08/21 01:59",
-         "URL": "https://komodroidnz.itch.io/room-of-secrets",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 30%, yellow 30%) 1;"
-      },
-      {
-         "Nombre": "Recastia Pro",
-         "Informacion": "Recastia es una plataforma de reutilizaci\u00f3n de contenido impulsada por IA que transforma archivos PDF en videos, presentaciones, flipbooks, sitios web, chatbots de IA, exhibiciones en 3D y formatos de archivos editables. Los usuarios pueden reutilizar el contenido existente y compartir los resultados en l\u00ednea sin codificar ni instalar software.",
-         "Desde": "",
-         "Hasta": "2026/08/21 07:00",
-         "URL": "https://sharewareonsale.com/s/free-recastia-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
-      },
-      {
-         "Nombre": "1Tree Pro",
-         "Informacion": "Ver tama\u00f1os de archivos para unidades, carpetas y archivos",
-         "Desde": "",
-         "Hasta": "2026/08/21 09:00",
-         "URL": "https://www.bitsdujour.com/software/1tree-pro/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Beneath Europa by exiled",
          "Informacion": "A finales del siglo XXI, usted se dirige con su tripulaci\u00f3n a Europa, la luna de J\u00fapiter, para realizar investigaciones cient\u00edficas. Los cient\u00edficos creen que nuestra mejor oportunidad de encontrar vida compleja est\u00e1 en el oc\u00e9ano debajo de la gruesa superficie de hielo de Europa.",
@@ -109,7 +9,7 @@
          "URL": "https://3xiled4ever.itch.io/beneath-europa",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
       },
       {
          "Nombre": "Recastia Pro License Code Free Download (6-Month)",
@@ -119,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/recastia-pro-license-code-free-download/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
@@ -129,7 +29,7 @@
          "URL": "https://roega.itch.io/euli-beuli-run",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
@@ -139,7 +39,7 @@
          "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
@@ -149,7 +49,7 @@
          "URL": "https://roega.itch.io/super-euli-beuli",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Orion the Hero by EpicLionStudio",
@@ -159,7 +59,7 @@
          "URL": "https://epiclionstudio.itch.io/orion-the-hero",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 64%, yellow 64%) 1;"
       },
       {
          "Nombre": "Buzzed & Brainless by TheLoneGameDev, Sinister Gibbon, moonmoon, aironnegl, CocaCopa",
@@ -169,7 +69,7 @@
          "URL": "https://thelonegamedev.itch.io/alchol-is-free",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Club Night by TheLoneGameDev",
@@ -179,7 +79,7 @@
          "URL": "https://thelonegamedev.itch.io/club-night",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Let The Past Die by TheLoneGameDev",
@@ -189,7 +89,7 @@
          "URL": "https://thelonegamedev.itch.io/let-the-past-die",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Mine Cleaners by TheLoneGameDev",
@@ -199,7 +99,7 @@
          "URL": "https://thelonegamedev.itch.io/mine-cleaners",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Rat Life by TheLoneGameDev, vanbee",
@@ -209,7 +109,7 @@
          "URL": "https://thelonegamedev.itch.io/rat-life",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "The Cave\u00e2\u0080\u0099s Secrets by TheLoneGameDev",
@@ -219,7 +119,7 @@
          "URL": "https://thelonegamedev.itch.io/the-caves-secrets",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "The Library : Horror Game by TheLoneGameDev",
@@ -229,7 +129,7 @@
          "URL": "https://thelonegamedev.itch.io/the-library-horror-game",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "The Wolfman by TheLoneGameDev",
@@ -239,7 +139,7 @@
          "URL": "https://thelonegamedev.itch.io/the-wolfman",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Together? by TheLoneGameDev",
@@ -249,7 +149,7 @@
          "URL": "https://thelonegamedev.itch.io/together",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Toymakers Doll by TheLoneGameDev",
@@ -259,7 +159,7 @@
          "URL": "https://thelonegamedev.itch.io/toymakers-doll",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Night Taco by RyzexGames",
@@ -269,7 +169,7 @@
          "URL": "https://glodory-studio.itch.io/night-taco",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 9%, yellow 9%) 1;"
       },
       {
          "Nombre": "Newtonian Inversion by The Voices Games",
@@ -279,7 +179,7 @@
          "URL": "https://thewgreen.itch.io/newtonian-inversion-gdc-relief-bundle-key-only",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
       },
       {
          "Nombre": "Spectrewoods by The Voices Games",
@@ -287,6 +187,26 @@
          "Desde": "",
          "Hasta": "2026/08/22 08:39",
          "URL": "https://thewgreen.itch.io/spectrewoods",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo Privacy Inspector 2",
+         "Informacion": "Windows recopila una gran cantidad de datos de uso y los navegadores rastrean cada actividad en l\u00ednea. Ashampoo Privacy Inspector 2 le permite tomar el control de estos datos. El software proporciona informaci\u00f3n detallada sobre qu\u00e9 objetos se utilizaron, cu\u00e1ndo y con qu\u00e9 frecuencia, y ofrece varios filtros para una visualizaci\u00f3n clara de los datos.",
+         "Desde": "",
+         "Hasta": "2026/08/22 09:00",
+         "URL": "https://www.bitsdujour.com/software/ashampoo-privacy-inspector-2/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
+      },
+      {
+         "Nombre": "FastWait by jimmydave",
+         "Informacion": "Juegas como una persona que trabaja en el turno de noche, pero tus clientes no son personas y har\u00e1n cualquier cosa para conseguir la comida, pero notaste que sus manos son vulnerables a la luz ultravioleta y aprovechas para mantenerlas a raya mientras trabajas y esperas hasta las 6 a. m. para que salga el sol. \u00a1Al menos pagan bien la comida!",
+         "Desde": "",
+         "Hasta": "2026/08/22 15:19",
+         "URL": "https://jimmydave.itch.io/fastwait-release",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -442,6 +362,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "VidiFab: Streaming Video Downloader",
+         "Informacion": "VidiFab Streaming Video Downloader ayuda a los usuarios a descargar videos de plataformas de transmisi\u00f3n populares como Netflix, Prime Video, Disney+, Hulu, HBO Max y Apple TV para verlos sin conexi\u00f3n. Guarda videos como archivos MP4/MKV con videos, subt\u00edtulos y pistas de audio de alta calidad conservados.",
+         "Desde": "",
+         "Hasta": "2026/08/23 07:00",
+         "URL": "https://sharewareonsale.com/s/free-vidifab-streaming-video-downloader-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Lost In Transit by Boxer Gaming",
          "Informacion": "Lost In Transit es un juego de terror psicol\u00f3gico en primera persona con m\u00faltiples finales ambientado en dos noches en una peque\u00f1a oficina de clasificaci\u00f3n postal. Clasificas paquetes, respondes llamadas e intentas completar tu turno.",
          "Desde": "",
@@ -452,11 +382,31 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "VidiFab Streaming Video Downloader Free Key (6-Month)",
+         "Informacion": "VidiFab Streaming Video Downloader guarda pel\u00edculas y programas de TV de Netflix, Prime Video, Disney+, Max, Hulu y Apple TV+ para verlos sin conexi\u00f3n. Puede descargar videos en formato MP4 o MKV manteniendo los subt\u00edtulos, pistas de audio y metadatos seleccionados. El software tambi\u00e9n admite descargas por lotes, eliminaci\u00f3n de anuncios, m\u00faltiples idiomas de audio y aceleraci\u00f3n de hardware. Puede almacenar videos descargados en su computadora y reproducirlos m\u00e1s tarde sin depender de los l\u00edmites de descarga integrados de cada servicio de transmisi\u00f3n.",
+         "Desde": "",
+         "Hasta": "2026/08/23 14:00",
+         "URL": "https://giveaway.tickcoupon.com/vidifab-streaming-video-downloader-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Always Sunset by KombuchaMan",
          "Informacion": "Una aventura de senderismo retro en un paisaje de ensue\u00f1o donde el sol nunca se pone.",
          "Desde": "",
          "Hasta": "2026/08/23 16:12",
          "URL": "https://kombuchaman.itch.io/always-sunset",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/08/23 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -477,6 +427,26 @@
          "Desde": "",
          "Hasta": "2026/08/24 04:00",
          "URL": "https://giveaway.tickcoupon.com/vovsoft-batch-image-converter-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The One We Can't See by Wiktor Games",
+         "Informacion": "Los padres de tu sobrina est\u00e1n fuera de la ciudad y tienes que cuidar de ella.",
+         "Desde": "",
+         "Hasta": "2026/08/24 10:54",
+         "URL": "https://wiktor-games.itch.io/the-one-we-cant-see",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Glarysoft Malware Hunter Pro Key Free 2026",
+         "Informacion": "Glarysoft Malware Hunter Pro es un potente software dise\u00f1ado para proporcionar a los clientes capacidades integrales de protecci\u00f3n y detecci\u00f3n de virus. Ayuda a proteger contra todo tipo de amenazas, proteger datos, proteger la privacidad y garantizar que su PC permanezca libre de virus. El software ofrece un modo de hiperescaneo r\u00e1pido, que permite a los usuarios identificar y eliminar r\u00e1pidamente archivos maliciosos y amenazas potenciales. Su sistema de protecci\u00f3n activa monitorea constantemente cualquier actividad sospechosa. Adem\u00e1s, Malware Hunter Pro incluye herramientas de optimizaci\u00f3n del sistema para optimizar el rendimiento de la PC y mantenerla siempre limpia y segura.",
+         "Desde": "",
+         "Hasta": "2026/08/24 15:00",
+         "URL": "https://giveaway.tickcoupon.com/malware-hunter-pro-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
@@ -802,6 +772,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster Lab.Fone for Android (100% Discount)",
+         "Informacion": "No hace falta decir que Coolmuster Lab.Fone para Android es un software de recuperaci\u00f3n de datos de Android confiable y profesional que permite a los usuarios recuperar datos perdidos o eliminados de las tarjetas de memoria internas y externas de Android de la manera m\u00e1s r\u00e1pida y sencilla. Con su ayuda, puede recuperar m\u00faltiples tipos de archivos de la memoria interna y la tarjeta SIM de Android, incluidos mensajes eliminados, registros de llamadas, contactos, videos, m\u00fasica, fotos y documentos. Adem\u00e1s, puede hacer una copia de seguridad de los datos existentes y eliminados de los dispositivos Android en su computadora en caso de p\u00e9rdida de datos. Coolmuster Lab.Fone para Android admite m\u00e1s de 6000 tel\u00e9fonos y tabletas Android para ayudarte a recuperar tus datos con facilidad.",
+         "Desde": "",
+         "Hasta": "2026/08/28 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-lab-fone-for-android-free-code/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Ashampoo Privacy Inspector 2",
          "Informacion": "Windows registra diversas actividades de los usuarios, tanto en l\u00ednea como fuera de l\u00ednea. Ashampoo Privacy Inspector revela estos datos y permite a los usuarios revisar y eliminar secciones individuales. Los filtros integrados ayudan a limitar los resultados r\u00e1pidamente, por ejemplo, por per\u00edodo de tiempo. Archivos utilizados con frecuencia, sitios web visitados recientemente, los 5 t\u00e9rminos de b\u00fasqueda principales, Ashampoo Privacy Inspector arroja luz sobre todo ello. Incluso permite a los usuarios volver sobre sus pasos a trav\u00e9s de Internet con la ayuda de listas detalladas y vistas de \u00e1rbol. El programa tambi\u00e9n muestra c\u00f3mo se lleg\u00f3 a cada sitio, por ejemplo, mediante un marcador o un enlace en el que se hizo clic. Los historiales detallados de descargas y b\u00fasquedas para Chrome, Firefox y Edge brindan una imagen a\u00fan m\u00e1s clara de las actividades recientes. Incluso los inicios de sesi\u00f3n y las entradas de formularios ahora son completamente transparentes. Adem\u00e1s de la eliminaci\u00f3n total de todos los datos relacionados con la privacidad, Ashampoo Privacy Inspector tambi\u00e9n viene con un m\u00f3dulo dedicado a limitar y evitar el intercambio de datos de telemetr\u00eda con otros para mejorar a\u00fan m\u00e1s la privacidad del usuario. La privacidad es importante y Ashampoo Privacy Inspector ofrece una soluci\u00f3n integral para revisar y borrar informaci\u00f3n confidencial seg\u00fan sea necesario. Y, si los usuarios eliminan accidentalmente un archivo importante, el Undeleter integrado lo recuperar\u00e1.",
          "Desde": "",
@@ -999,6 +979,16 @@
          "URL": "https://giveaway.tickcoupon.com/winxvideo-ai-free-key-download/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CHAOTIC VIRUS by brunobros",
+         "Informacion": "CHAOTIC VIRUS 2.0 es un trepidante juego de acci\u00f3n y supervivencia con est\u00e9tica de c\u00f3mic. Toma el control de una c\u00e9lula encargada de defender el cuerpo contra una infecci\u00f3n que nunca deja de propagarse.",
+         "Desde": "",
+         "Hasta": "2026/08/30 18:46",
+         "URL": "https://brunobros.itch.io/chaotic-virus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1462,6 +1452,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Dead Yard by FroggyDev",
+         "Informacion": "\u00a1Dead Yard es un juego de corredores de ritmo r\u00e1pido y baja velocidad gr\u00e1fica! El objetivo del juego es recolectar tantas hojas como sea posible y d\u00e1rselas a Andre antes de que se acabe el tiempo para enviar la carrera. Si el tiempo se acaba, \u00a1se acab\u00f3 el juego! Hay algunos elementos para mejorar tus carreras; encontrar\u00e1s m\u00e1s detalles en el \"Libro de informaci\u00f3n\" dentro del men\u00fa.",
+         "Desde": "",
+         "Hasta": "2026/09/01 16:41",
+         "URL": "https://froggfrogg.itch.io/dead-yard",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Apartment \u00e2\u0084\u0096202 by Boxer Gaming",
          "Informacion": "Apartment \u00e2202 es una breve experiencia de terror psicol\u00f3gico centrada en la atm\u00f3sfera, la tensi\u00f3n y la narraci\u00f3n sutil. Explora un apartamento tranquilo que no se siente bien, resuelve peque\u00f1os acertijos ambientales y descubre fragmentos de una inquietante historia escondida detr\u00e1s de las paredes.",
          "Desde": "",
@@ -1602,6 +1602,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Breathedge",
+         "Informacion": "\u00a1Sobrevive en el espacio abierto! Descubre la verdad oculta tras el repentino accidente de tu nave espacial junto con tu pollo inmortal. Construye herramientas, pilota veh\u00edculos e incluso controla estaciones espaciales para sobrevivir y explorar los escombros.",
+         "Desde": "2026/09/03",
+         "Hasta": "2026/09/17 17:00",
+         "URL": "https://store.epicgames.com/p/breathedge",
+         "IMG": "",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Castlevania Anniversary Collection",
          "Informacion": "Castlevania Anniversary Collection de Konami busca los or\u00edgenes de la hist\u00f3rica franquicia de vampiros.",
          "Desde": "2026/09/03",
@@ -1632,21 +1642,31 @@
          "Borde": "border-color: #ff9600;"
       },
       {
-         "Nombre": "Breathedge",
-         "Informacion": "\u00a1Sobrevive en el espacio abierto! Descubre la verdad oculta tras el repentino accidente de tu nave espacial junto con tu pollo inmortal. Construye herramientas, pilota veh\u00edculos e incluso controla estaciones espaciales para sobrevivir y explorar los escombros.",
-         "Desde": "2026/09/03",
-         "Hasta": "2026/09/17 17:00",
-         "URL": "https://store.epicgames.com/p/breathedge",
-         "IMG": "",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
-      },
-      {
          "Nombre": "Rogeria Escape by ROGER (Xander-X)",
          "Informacion": "El juego \"Rogeria Escape\" es la historia de un soldado estadounidense llamado Roger, enviado en misiones secretas todos los d\u00edas de trabajo. Las misiones m\u00e1s secretas del ej\u00e9rcito americano. \u00bfEst\u00e1 listo, se\u00f1or Roger?",
          "Desde": "",
          "Hasta": "2026/09/19 17:55",
          "URL": "https://xanderx555.itch.io/rogeria-escape",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "HITMAN 2 by TokioGames",
+         "Informacion": "Sicario 2",
+         "Desde": "",
+         "Hasta": "2026/09/19 19:26",
+         "URL": "https://tokiogames.itch.io/hitman2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Noah's Secret: Episode 0 by Chodex Productions",
+         "Informacion": "El secreto de Noah: Episodio 0 te lleva al comienzo de la historia de Noah, antes de los eventos del Episodio 1.",
+         "Desde": "",
+         "Hasta": "2026/09/20 15:07",
+         "URL": "https://chodex-productions.itch.io/noahs-secret-episode-0",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
