@@ -1,56 +1,6 @@
 {
-   "date_update": "25 Aug 2026 16:16 UTC",
+   "date_update": "26 Aug 2026 16:15 UTC",
    "values": [
-      {
-         "Nombre": "FastWait by jimmydave",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/08/25 15:19",
-         "URL": "https://jimmydave.itch.io/fastwait-release",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 75%, yellow 75%) 1;"
-      },
-      {
-         "Nombre": "Space Adventure by Ahsan Makes Games",
-         "Informacion": "\u00f0 Aventura espacial: \u00a1tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0",
-         "Desde": "",
-         "Hasta": "2026/08/25 18:04",
-         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
-      },
-      {
-         "Nombre": "The Only Rule by zelthryan",
-         "Informacion": "Est\u00e1s atrapado en un laberinto oscuro.",
-         "Desde": "",
-         "Hasta": "2026/08/25 19:17",
-         "URL": "https://zelthryan.itch.io/the-only-rule",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 58%, yellow 58%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster Data Recovery (100% Discount)",
-         "Informacion": "Coolmuster Data Recovery es hoy un software de recuperaci\u00f3n de datos profesional y con todas las funciones. Combina una interfaz de usuario altamente intuitiva para ayudar a los usuarios a recuperar archivos eliminados, formateados o inaccesibles de todo tipo de discos duros. Esta herramienta hace posible que cualquiera recupere documentos, correos electr\u00f3nicos, fotos, videos, archivos de audio y m\u00e1s desde varios discos.",
-         "Desde": "",
-         "Hasta": "2026/08/26 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-data-recovery-free-license-code/",
-         "IMG": "",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 39%, yellow 39%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Privacy Inspector 2",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/08/26 09:00",
-         "URL": "https://www.bitsdujour.com/software/ashampoo-privacy-inspector-2/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "False Title - RPG by S Xavier Uy",
          "Informacion": "Tenji fue transportado a otro mundo, es un mundo diferente comparado con su lugar donde vive habitualmente. Las cosas son bastante complicadas en este mundo, hay conflictos, invasi\u00f3n de demonios, etc., \u00bfalguien como Tenji podr\u00eda adaptarse a este nuevo entorno? De vuelta en su mundo, Tenji ya domina la adaptabilidad, una de las partes m\u00e1s importantes del conocimiento humano.",
@@ -59,7 +9,7 @@
          "URL": "https://s-xavier-uy.itch.io/false-title",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
       },
       {
          "Nombre": "Gamers Club Repeat by S Xavier Uy",
@@ -69,7 +19,7 @@
          "URL": "https://s-xavier-uy.itch.io/gamers-club-repeat",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 94%, yellow 94%) 1;"
       },
       {
          "Nombre": "Baldi's Basics Songkran In Education And Learning X by SJ Logo transparent",
@@ -79,7 +29,7 @@
          "URL": "https://sj-logo-transparent.itch.io/baldis-basics-songkran-in-education-and-learning-x",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 92%, yellow 92%) 1;"
       },
       {
          "Nombre": "Aquatic Grave by LiminAce",
@@ -89,7 +39,7 @@
          "URL": "https://liminace.itch.io/aquatic-grave",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Awakened Beauty by LiminAce",
@@ -99,7 +49,7 @@
          "URL": "https://liminace.itch.io/awakened-beauty",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Bedrot by LiminAce",
@@ -109,7 +59,7 @@
          "URL": "https://liminace.itch.io/bedrot",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Cabin Fever!!! by LiminAce",
@@ -119,7 +69,7 @@
          "URL": "https://liminace.itch.io/cabin-fever",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Exorcize Me by LiminAce",
@@ -129,7 +79,7 @@
          "URL": "https://liminace.itch.io/exorcize-me",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "If the Shoe Fits by LiminAce",
@@ -139,7 +89,7 @@
          "URL": "https://liminace.itch.io/if-the-shoe-fits",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Love in Everblood!!!! - Episode 1 by LiminAce",
@@ -149,7 +99,7 @@
          "URL": "https://liminace.itch.io/love-in-everblood-episode-1",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Maneater by LiminAce",
@@ -159,7 +109,7 @@
          "URL": "https://liminace.itch.io/maneater",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Mukbang Idol by LiminAce",
@@ -169,7 +119,7 @@
          "URL": "https://liminace.itch.io/mukbang-idol",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Road Trip to Hell by LiminAce",
@@ -179,7 +129,7 @@
          "URL": "https://liminace.itch.io/road-trip-to-hell",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "So Perfect I Could Eat You Up by LiminAce",
@@ -189,7 +139,7 @@
          "URL": "https://liminace.itch.io/so-perfect-i-could-eat-you-up",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "The Cardinal Park Case - Chapters 1-4 by LiminAce",
@@ -199,7 +149,7 @@
          "URL": "https://liminace.itch.io/the-cardinal-park-case-chapters-1-4",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "When it Rains Red by LiminAce",
@@ -209,7 +159,7 @@
          "URL": "https://liminace.itch.io/when-it-rains-red",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 80%, yellow 80%) 1;"
       },
       {
          "Nombre": "Age of Crypso by Indium Studios",
@@ -219,7 +169,7 @@
          "URL": "https://indium-studios.itch.io/toc2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 63%, yellow 63%) 1;"
       },
       {
          "Nombre": "Backrooms Memory Assessment | Dream Paralysis by Javadink",
@@ -229,7 +179,7 @@
          "URL": "https://javadink.itch.io/backrooms-memory-assessment-dream-paralysis",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
       },
       {
          "Nombre": "Bride of Karsaz by imranaziz",
@@ -239,7 +189,7 @@
          "URL": "https://imranaziz.itch.io/bride-of-karsaz",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
       },
       {
          "Nombre": "Hotdog Killer [Full Game] by imranaziz",
@@ -249,7 +199,7 @@
          "URL": "https://imranaziz.itch.io/hotdogkiller",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 51%, yellow 51%) 1;"
       },
       {
          "Nombre": "Coolmuster PDF Password Remover (100% Discount)",
@@ -259,7 +209,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Last Friday by ReganC",
@@ -269,7 +219,7 @@
          "URL": "https://reganc.itch.io/last-friday",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
       },
       {
          "Nombre": "Warren Void by TangOStudios",
@@ -279,7 +229,17 @@
          "URL": "https://tangostudios.itch.io/warren-void",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 29%, yellow 29%) 1;"
+      },
+      {
+         "Nombre": "WonderFox HD Video Converter Factory Pro",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/08/27 09:00",
+         "URL": "https://www.bitsdujour.com/software/wonderfox-hd-video-converter-factory-pro/in=today-100-percent",
+         "IMG": "",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Eternity Defenders by Pixxele",
@@ -459,6 +419,16 @@
          "URL": "https://worsteventgames.itch.io/worst-wifey",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "WonderFox HD Video Converter Factory Pro 2026",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/08/29 14:00",
+         "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1072,6 +1042,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "FastWait by jimmydave",
+         "Informacion": "Juegas como una persona que trabaja en el turno de noche, pero tus clientes no son personas y har\u00e1n cualquier cosa para conseguir la comida, pero notaste que sus manos son vulnerables a la luz ultravioleta y aprovechas para mantenerlas a raya mientras trabajas y esperas hasta las 6 a. m. para que salga el sol. \u00a1Al menos pagan bien la comida!",
+         "Desde": "",
+         "Hasta": "2026/08/31 15:19",
+         "URL": "https://jimmydave.itch.io/fastwait-release",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "DIRE ECHO by TrueGamesStudio",
          "Informacion": "STEAMEn un futuro pr\u00f3ximo, la humanidad se expandir\u00e1 constantemente hacia las profundidades del espacio. Eres un astronauta en una misi\u00f3n rutinaria pero importante: sigue una ruta designada hasta una estaci\u00f3n remota y entrega datos t\u00e9cnicos.",
          "Desde": "",
@@ -1292,6 +1272,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster Android Eraser Free (100% Discount)",
+         "Informacion": "Coolmuster Android Eraser le permite eliminar todo lo que hay en su tel\u00e9fono o tableta Android, incluidos contactos, mensajes de texto, registros de llamadas, fotos, videos, m\u00fasica, correo de voz, nombres de usuario, cuentas de Gmail, contrase\u00f1as, aplicaciones, libros, historial de b\u00fasqueda (historial de Google, historial de Snapchat, historial web, etc.), historial del teclado y otra informaci\u00f3n personal. Coolmuster Android Eraser ofrece tres niveles de borrado progresivo (nivel bajo, nivel medio y nivel alto) para borrar de forma segura el contenido de Android seg\u00fan sus necesidades espec\u00edficas.",
+         "Desde": "",
+         "Hasta": "2026/09/02 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-android-eraser-free-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Neodarlo by The Voices Games",
+         "Informacion": "Juego de carreras de aerodeslizadores, 2 pistas con 3 modos: la carrera llega primero en 2 vueltas, Royale: llega a la primera posici\u00f3n sin morir, Bomba, gana la carrera en una vuelta con un auto grande arroj\u00e1ndote bombas.\u00a0La posici\u00f3n solo se actualiza cuando llegas a un punto de control, por lo que debes mantener tu posici\u00f3n hasta llegar al punto de control. Los controles funcionan en los controladores de Xbox y PlayStation. El bot\u00f3n Y o el tri\u00e1ngulo para acelerar, el bot\u00f3n b o el c\u00edrculo para frenar, los botones rb y lb para ametrallar.",
+         "Desde": "",
+         "Hasta": "2026/09/02 12:09",
+         "URL": "https://thewgreen.itch.io/neodarlo",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Apartment \u00e2\u0084\u0096202 by Boxer Gaming",
          "Informacion": "Apartment \u00e2202 es una breve experiencia de terror psicol\u00f3gico centrada en la atm\u00f3sfera, la tensi\u00f3n y la narraci\u00f3n sutil. Explora un apartamento tranquilo que no se siente bien, resuelve peque\u00f1os acertijos ambientales y descubre fragmentos de una inquietante historia escondida detr\u00e1s de las paredes.",
          "Desde": "",
@@ -1322,11 +1322,11 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "War of Els 2 (with APK) by catfish games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Nombre": "Koi farm board game by catfish games",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2026/09/03 13:00",
-         "URL": "https://catfish-games.itch.io/war-of-els-2",
+         "URL": "https://catfish-games.itch.io/koi-farm-board-game",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1337,16 +1337,6 @@
          "Desde": "",
          "Hasta": "2026/09/03 13:00",
          "URL": "https://catfish-games.itch.io/nikolaychik-shooter-3d",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Koi farm board game by catfish games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/03 13:00",
-         "URL": "https://catfish-games.itch.io/koi-farm-board-game",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1367,6 +1357,16 @@
          "Desde": "",
          "Hasta": "2026/09/03 13:00",
          "URL": "https://catfish-games.itch.io/alexander-troll-game",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "War of Els 2 (with APK) by catfish games",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/03 13:00",
+         "URL": "https://catfish-games.itch.io/war-of-els-2",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1487,6 +1487,16 @@
          "Desde": "",
          "Hasta": "2026/09/07 10:45",
          "URL": "https://gamerbiga.itch.io/resilience",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Space Adventure - 2D Sci-Fi Exploration Game by Ahsan Makes Games",
+         "Informacion": "\u00f0 Aventura espacial: \u00a1tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0",
+         "Desde": "",
+         "Hasta": "2026/09/09 09:12",
+         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1670,6 +1680,16 @@
          "IMG": "",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Destination Earth by BigPictureLAB",
+         "Informacion": "Juego de rol. \u00ea\u00b3\u00a0\u00ec\u00b2\u00a0 \u00ec\u0e08\u0e08\u0e08\u0e30\u00ec\u00a7\u0c11\u00ea\u00b0\u0c00\u0c00\u0c30\u0c10\u00ec\u0c04\u0c1c \u00ec\u0c1d\u00b8\u00eb\u00a5\u0c18 \u00ec\u03bc\u0c1c\u00ed\u0c1b\u0c04\u00ec\u0c1d\u0c18 \u00ec\u0c08\u00ac\u00eb\u00a0\u00b9\u00ea\u00b4\u0c00\u00ec\u0c1c\u00bc\u00eb\u00a1\u0c1c \u00ec\u0c04\u00b1\u00ec\u0c1e\u00a5\u00ed\u0c15\u0c15\u0c18\u00ec\u0c04\u00b8\u00ec\u0c1a\u0c1a\u0c14. El \u00ea\u00b0\u0e08\u0e00\u00ec\u0e08\u0e21\u00a5 \u00ec\u0e08\u0e08\u0e08\u0e08\u00eb\u0e08\u0e0c\u0e08\u00ed\u0e08\u0e08 \u00ec\u0e08\u0e08\u00ec\u0e04\u0e08\u0e04\u0e30\u00a4\u00ec\u0e1d\u0e30 \u00eb\u00aa\u00ec\u00a7\u0e08\u00ed\u0e21\u00ea\u00b3, \u00ec\u00b6\u00a9\u00ec\u0e04\u00b1\u00ec\u0e08\u0e0a\u00a4\u00eb\u0e08\uf09f\u00ac\u00ec\u0e08\u0e1a\u00b4 AI \u00eb\u00b0\u0e08\u00eb \u00a4\u00ea\u00b2\u00ac\u00ea\u00b3\u00bc \u00ed\u0e08\u00a8\u00ea\u00bb\u0c18 \u00ec\u00a7\u0e22\u03bc\u00ac\u00eb\u00a5\u00bc \u00ed\u10d6\u00b4\u00eb\u00b0\u00a9\u00ed\u10d6\u10d6\u02d8\u00ea\u00b8\u00b0 \u00ec\u10d6\u10d6\u00ed\u10d5\u10d5\u10dc \u00ec\u00a0\u10d6\u00ed\u10c8\u00ac\u00eb\u00a5\u00bc \u00ed\u10c3\u00bc\u00ec\u00b9\u10e1\u00ec\u10d6\u10c4\u00b8\u00ec\u10da\u10d4.",
+         "Desde": "",
+         "Hasta": "2026/09/25 00:55",
+         "URL": "https://toylee.itch.io/destination-earth",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "LISA: Definitive Edition",
