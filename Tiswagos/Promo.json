@@ -1,116 +1,6 @@
 {
-   "date_update": "28 Aug 2026 16:16 UTC",
+   "date_update": "29 Aug 2026 16:27 UTC",
    "values": [
-      {
-         "Nombre": "color portals by All kinds of games",
-         "Informacion": "Color Portals es un juego de rompecabezas en 3D dise\u00f1ado en torno a portales coloridos, puertas de energ\u00eda y mec\u00e1nicas de interruptor.",
-         "Desde": "",
-         "Hasta": "2026/08/28 20:41",
-         "URL": "https://all-kinds-of-games.itch.io/color-portals",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 52%, yellow 52%) 1;"
-      },
-      {
-         "Nombre": "Ayleouna by The Voices Games",
-         "Informacion": "Lleva a Ayleouna a una aventura saltando asteroides en este juego de plataformas y acci\u00f3n con elementos que doblan la gravedad.",
-         "Desde": "",
-         "Hasta": "2026/08/28 22:03",
-         "URL": "https://thewgreen.itch.io/ayleouna",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Ayleouna in the Terrifying Wooden Space Station by The Voices Games",
-         "Informacion": "Muy peque\u00f1o intento de juego de terror, solo 2 niveles matan a todos los enemigos.",
-         "Desde": "",
-         "Hasta": "2026/08/28 22:03",
-         "URL": "https://thewgreen.itch.io/ayleouna-in-the-terrifying-wooden-space-station",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "Tizzy vs the Aliens by The Voices Games",
-         "Informacion": "Tizzy, el h\u00e9roe con forma de huevo, ha sido secuestrado por extraterrestres y debe escapar por cualquier medio necesario en este juego de acci\u00f3n y plataformas.",
-         "Desde": "",
-         "Hasta": "2026/08/28 22:03",
-         "URL": "https://thewgreen.itch.io/tizzy-vs-the-aliens",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 47%, yellow 47%) 1;"
-      },
-      {
-         "Nombre": "THE MIDNIGHT BUS by itandfeel",
-         "Informacion": "UN JUEGO CORTO DE TERROR",
-         "Desde": "",
-         "Hasta": "2026/08/28 22:40",
-         "URL": "https://itandfeel.itch.io/the-midnight-bus",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Backrooms Crawlers by Worst Event Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/08/28 22:56",
-         "URL": "https://worsteventgames.itch.io/backrooms-crawlers",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 43%, yellow 43%) 1;"
-      },
-      {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se aver\u00eda.",
-         "Desde": "",
-         "Hasta": "2026/08/29 00:54",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
-      },
-      {
-         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
-         "Desde": "",
-         "Hasta": "2026/08/29 00:54",
-         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
-      },
-      {
-         "Nombre": "Tarotro by Worst Event Games",
-         "Informacion": "Por favor califica y comenta si te gust\u00f3.",
-         "Desde": "",
-         "Hasta": "2026/08/29 00:54",
-         "URL": "https://worsteventgames.itch.io/tarotro",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
-      },
-      {
-         "Nombre": "Worst Wifey (\u00e3\u0083\u00af\u00e3\u0083\u00ab\u00e5\u00ab\u0081) by Worst Event Games, Mehran Goudarzi, MetaMagicShaman",
-         "Informacion": "\u00bfSientes que tu escritorio est\u00e1 demasiado solo? Un lindo compa\u00f1ero de escritorio malo que te har\u00e1 compa\u00f1\u00eda e iluminar\u00e1 tu pantalla. \u00a1con EXTRA F\u00cdSICA!",
-         "Desde": "",
-         "Hasta": "2026/08/29 00:54",
-         "URL": "https://worsteventgames.itch.io/worst-wifey",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
-      },
-      {
-         "Nombre": "WonderFox HD Video Converter Factory Pro",
-         "Informacion": "Convierte v\u00eddeos entre m\u00e1s de 100 formatos",
-         "Desde": "",
-         "Hasta": "2026/08/29 09:00",
-         "URL": "https://www.bitsdujour.com/software/wonderfox-hd-video-converter-factory-pro/in=today-100-percent",
-         "IMG": "",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "WonderFox HD Video Converter Factory Pro 2026",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
@@ -119,7 +9,7 @@
          "URL": "https://giveaway.tickcoupon.com/free-hd-video-converter-factory-pro-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 81%, yellow 81%) 1;"
       },
       {
          "Nombre": "SecureDrive PRO Free License Key (Lifetime) 2026",
@@ -129,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/securedrive-pro-free-license-key/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 77%, yellow 77%) 1;"
       },
       {
          "Nombre": "A Racing Game Island 2 by Rithvik",
@@ -139,7 +29,7 @@
          "URL": "https://rithvikarg.itch.io/a-racing-game-island-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "At Sixes And Sevens Case I by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -149,7 +39,7 @@
          "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "DON\u00e2\u0080\u0099T DO IT by Worst Event Games, MetaMagicShaman",
@@ -159,7 +49,7 @@
          "URL": "https://worsteventgames.itch.io/dont-do-it",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "The Enemy by Worst Event Games",
@@ -169,7 +59,7 @@
          "URL": "https://worsteventgames.itch.io/the-enemy",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "Very Realistic Game Dev Simulator by Worst Event Games",
@@ -179,7 +69,7 @@
          "URL": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "Backrooms: Out of Oxygen by SlothCube Studios",
@@ -189,7 +79,7 @@
          "URL": "https://slothcube-studios.itch.io/backrooms-out-of-oxygen",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
       },
       {
          "Nombre": "Evertrust Life And Beyond (Full Game) by After Life Craft",
@@ -199,7 +89,7 @@
          "URL": "https://after-life-craft.itch.io/evertrust-life-beyond",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "\u00e2\u0084\u009d\u00f0\u009d\u0095\u0096\u00f0\u009d\u0095\u00a5\u00f0\u009d\u0095\u00a3\u00f0\u009d\u0095\u00a0 \u00f0\u009d\u0094\u00bd\u00f0\u009d\u0095\u009a\u00f0\u009d\u0095\u0098\u00f0\u009d\u0095\u0099\u00f0\u009d\u0095\u00a5\u00f0\u009d\u0095\u0096\u00f0\u009d\u0095\u00a3\u00f0\u009d\u0095\u00a4: \u00f0\u009d\u0094\u00bb\u00f0\u009d\u0095\u009a\u00f0\u009d\u0095\u00a4\u00f0\u009d\u0095\u009c \u00f0\u009d\u009f\u009a (PART TWO) by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
@@ -209,97 +99,7 @@
          "URL": "https://frexcellor.itch.io/retro-fighters-2",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Abandoned Diner by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
-         "Informacion": "Dorman's Diner ahora est\u00e1 abandonado y planea ser demolido, pero a\u00fan tienes que ir a trabajar. Aunque los animatr\u00f3nicos est\u00e1n oxidados y rotos, \u00a1todav\u00eda buscan venganza!",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://frexcellor.itch.io/dfd3",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Animated Diner by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
-         "Informacion": "Despu\u00e9s de que se cerr\u00f3 la primera ubicaci\u00f3n, lo trasladar\u00e1n a una nueva ubicaci\u00f3n, el restaurante animado. \u00a1Pero no parece que los animatr\u00f3nicos est\u00e9n muy contentos de que est\u00e9s aqu\u00ed! \u00a1Sobrevive a las noches trabajando en el restaurante animado Dorman & Friends!",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://frexcellor.itch.io/dfd2",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Diner - The Open Park by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
-         "Informacion": "Despu\u00e9s de que demolieran el restaurante abandonado, construyeron Dorman & Friends' Park, con algunas caras nuevas.\u00a0 \u00bfQui\u00e9n sigue construyendo estas atracciones?",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://frexcellor.itch.io/dfd4",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Dorman & Friends' Diner: Before Action by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
-         "Informacion": "\u00bfQu\u00e9 fue antes de Dorman & Friends' Diner? El restaurante Dormite's lo era. Bienvenido a Dormite's Diner.",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://frexcellor.itch.io/dfdba",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Dorman & Nightmares by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
-         "Informacion": "\u00a1NUEVA ACTUALIZACI\u00d3N!",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://frexcellor.itch.io/dfd5",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Dorman's Attraction: Upgraded and Advanced by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
-         "Informacion": "Atracci\u00f3n de Dorman: mejorada y avanzada",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://frexcellor.itch.io/dormans-attraction",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Three Nights As Dormite by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
-         "Informacion": "Error 504 (Server Error)!!1504.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://frexcellor.itch.io/three-nights-as-dormite",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "TranscribeIt: Audio & Video to Text Transcriber",
-         "Informacion": "SoftOrbits Audio Video to Text Transcriber es una aplicaci\u00f3n de escritorio de Windows r\u00e1pida y 100% fuera de l\u00ednea que convierte autom\u00e1ticamente sus archivos multimedia en texto y subt\u00edtulos precisos. Impulsado por un modelo de IA liviano y alojado localmente, procesa todo directamente en su PC, garantizando privacidad total sin cargas en la nube ni tarifas de suscripci\u00f3n por minuto. Simplemente arrastre y suelte sus archivos de audio o video para generar instant\u00e1neamente documentos de texto con capacidad de b\u00fasqueda (.txt) o subt\u00edtulos codificados por tiempo (.srt) en m\u00e1s de 25 idiomas, lo que facilita resumir conferencias, subtitular videos e indexar entrevistas.",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://sharewareonsale.com/s/free-transcribeit-audio-video-to-text-transcriber-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Wise Registry Cleaner Pro",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/08/30 07:00",
-         "URL": "https://sharewareonsale.com/s/free-wise-registry-cleaner-pro-100-discount",
-         "IMG": "",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "Donemax Data Recovery 2",
@@ -309,7 +109,97 @@
          "URL": "https://sharewareonsale.com/s/free-donemax-data-recovery-100-discount",
          "IMG": "",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Dorman & Friends' Abandoned Diner by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
+         "Informacion": "Dorman's Diner ahora est\u00e1 abandonado y planea ser demolido, pero a\u00fan tienes que ir a trabajar. Aunque los animatr\u00f3nicos est\u00e1n oxidados y rotos, \u00a1todav\u00eda buscan venganza!",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://frexcellor.itch.io/dfd3",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Dorman & Friends' Animated Diner by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
+         "Informacion": "Despu\u00e9s de que se cerr\u00f3 la primera ubicaci\u00f3n, lo trasladar\u00e1n a una nueva ubicaci\u00f3n, el restaurante animado. \u00a1Pero no parece que los animatr\u00f3nicos est\u00e9n muy contentos de que est\u00e9s aqu\u00ed! \u00a1Sobrevive a las noches trabajando en el restaurante animado Dorman & Friends!",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://frexcellor.itch.io/dfd2",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Dorman & Friends' Diner - The Open Park by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
+         "Informacion": "Despu\u00e9s de que demolieran el restaurante abandonado, construyeron Dorman & Friends' Park, con algunas caras nuevas.\u00a0 \u00bfQui\u00e9n sigue construyendo estas atracciones?",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://frexcellor.itch.io/dfd4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Dorman & Friends' Diner: Before Action by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
+         "Informacion": "\u00bfQu\u00e9 fue antes de Dorman & Friends' Diner? El restaurante Dormite's lo era. Bienvenido a Dormite's Diner.",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://frexcellor.itch.io/dfdba",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Dorman & Nightmares by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
+         "Informacion": "\u00a1NUEVA ACTUALIZACI\u00d3N!",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://frexcellor.itch.io/dfd5",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Dorman's Attraction: Upgraded and Advanced by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
+         "Informacion": "Atracci\u00f3n de Dorman: mejorada y avanzada",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://frexcellor.itch.io/dormans-attraction",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Three Nights As Dormite by F\u00c9\u00be\u00d2\u00bdx\u00c6\u0088\u00d2\u00bd\u00ca\u0085\u00ca\u0085\u00cf\u0083\u00c9\u00be",
+         "Informacion": "Error 504 (Server Error)!!1504.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://frexcellor.itch.io/three-nights-as-dormite",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "TranscribeIt: Audio & Video to Text Transcriber",
+         "Informacion": "SoftOrbits Audio Video to Text Transcriber es una aplicaci\u00f3n de escritorio de Windows r\u00e1pida y 100% fuera de l\u00ednea que convierte autom\u00e1ticamente sus archivos multimedia en texto y subt\u00edtulos precisos. Impulsado por un modelo de IA liviano y alojado localmente, procesa todo directamente en su PC, garantizando privacidad total sin cargas en la nube ni tarifas de suscripci\u00f3n por minuto. Simplemente arrastre y suelte sus archivos de audio o video para generar instant\u00e1neamente documentos de texto con capacidad de b\u00fasqueda (.txt) o subt\u00edtulos codificados por tiempo (.srt) en m\u00e1s de 25 idiomas, lo que facilita resumir conferencias, subtitular videos e indexar entrevistas.",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-transcribeit-audio-video-to-text-transcriber-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
+      },
+      {
+         "Nombre": "Wise Registry Cleaner Pro",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/08/30 07:00",
+         "URL": "https://sharewareonsale.com/s/free-wise-registry-cleaner-pro-100-discount",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-image: linear-gradient(to right, red 10%, yellow 10%) 1;"
       },
       {
          "Nombre": "No One Inside by PHOENIX'sZone",
@@ -319,7 +209,7 @@
          "URL": "https://phoenixszone.itch.io/no-one-inside",
          "IMG": "",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 4%, yellow 4%) 1;"
       },
       {
          "Nombre": "WinXvideo AI Key Free Download (100% Discount)",
@@ -472,21 +362,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Turscar Isle by Aceade",
-         "Informacion": "Un juego de sigilo en primera persona al estilo Thief/Thief 2. Est\u00e1s robando a una secta de spammers y phishers conocida como The Word of Turscar.",
-         "Desde": "",
-         "Hasta": "2026/08/31 00:59",
-         "URL": "https://aceade90.itch.io/turscar-isle",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "Turret Baffler by Aceade",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
          "Hasta": "2026/08/31 00:59",
          "URL": "https://aceade90.itch.io/turret-baffler",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Turscar Isle by Aceade",
+         "Informacion": "Un juego de sigilo en primera persona al estilo Thief/Thief 2. Est\u00e1s robando a una secta de spammers y phishers conocida como The Word of Turscar.",
+         "Desde": "",
+         "Hasta": "2026/08/31 00:59",
+         "URL": "https://aceade90.itch.io/turscar-isle",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -627,6 +517,66 @@
          "Desde": "",
          "Hasta": "2026/08/31 08:03",
          "URL": "https://evekehat.itch.io/tea-party-for-4",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tales from Dreadlight: The Morgue by Stefano_Gaming",
+         "Informacion": "Juega como Sarah Morrow, una aprendiz que trabaja con su padre en la morgue familiar.\u00a0 Las muertes masivas en Dreadlight han empeorado, pero a trav\u00e9s de tu trabajo llegas a una conclusi\u00f3n horrible. Cuando parezca que todo est\u00e1 perdido, \u00bfestar\u00e1s all\u00ed para exponer la verdad... o morir\u00e1s en el intento? Cr\u00e9ditos:",
+         "Desde": "",
+         "Hasta": "2026/08/31 08:14",
+         "URL": "https://stefano-gaming.itch.io/tales-from-dreadlight-the-morgue",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Solitary Sonata by Stefano_Gaming",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/08/31 08:14",
+         "URL": "https://stefano-gaming.itch.io/solitary-sonata",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Speak with Screams by Stefano_Gaming",
+         "Informacion": "Juega como Jeffrey Moore, un presentador de noticias que busca desesperadamente m\u00e1s historias importantes desde su avance con su informe sobre los eventos de See Through Static. Cuando Dreadlight comience a sentir la siniestra presencia de la entidad, \u00bfcalmar\u00e1s sus miedos o les infligir\u00e1s horrores m\u00e1s profundos?\u00a0Parte de la trilog\u00eda See Through Static",
+         "Desde": "",
+         "Hasta": "2026/08/31 08:14",
+         "URL": "https://stefano-gaming.itch.io/speak-with-screams",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sounds From Silence by Stefano_Gaming",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/08/31 08:14",
+         "URL": "https://stefano-gaming.itch.io/sounds-from-silence",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Acceptance by Stefano_Gaming",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/08/31 08:14",
+         "URL": "https://stefano-gaming.itch.io/acceptance",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "See Through Static by Stefano_Gaming",
+         "Informacion": "Encuentra pistas ocultas en 5 cintas cr\u00edpticas usando un televisor con solo 2 botones, uno para alternar pausa/reproducci\u00f3n y otro para rebobinar 1 segundo.\u00a0 \u00a1Descubre el significado m\u00e1s profundo y la oscura historia de este exclusivo juego de terror psicol\u00f3gico independiente!",
+         "Desde": "",
+         "Hasta": "2026/08/31 08:14",
+         "URL": "https://stefano-gaming.itch.io/see-through-static",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -802,21 +752,21 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Sleep Demon by Ravenhome",
-         "Informacion": "\u00bfAlguna vez te has preguntado c\u00f3mo es experimentar la par\u00e1lisis del sue\u00f1o?",
-         "Desde": "",
-         "Hasta": "2026/08/31 16:22",
-         "URL": "https://ravenhome.itch.io/sleep-demon",
-         "IMG": "",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "OFFICER DOWN by Ravenhome",
          "Informacion": "OFICIAL ABAJO CAPITULO 1",
          "Desde": "",
          "Hasta": "2026/08/31 16:22",
          "URL": "https://ravenhome.itch.io/officer-down",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sleep Demon by Ravenhome",
+         "Informacion": "\u00bfAlguna vez te has preguntado c\u00f3mo es experimentar la par\u00e1lisis del sue\u00f1o?",
+         "Desde": "",
+         "Hasta": "2026/08/31 16:22",
+         "URL": "https://ravenhome.itch.io/sleep-demon",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -909,6 +859,16 @@
          "URL": "https://reganc.itch.io/last-friday",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Magic Recovery Key License Free (100% Discount)",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/01 00:00",
+         "URL": "https://giveaway.tickcoupon.com/magic-recovery-key-license-key-free/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1072,6 +1032,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Grandfather's Story by GiulioPazzo",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/02 11:31",
+         "URL": "https://giuliopazzo.itch.io/grandfatherstory",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Neodarlo by The Voices Games",
          "Informacion": "Juego de carreras de aerodeslizadores, 2 pistas con 3 modos: la carrera llega primero en 2 vueltas, Royale: llega a la primera posici\u00f3n sin morir, Bomba, gana la carrera en una vuelta con un auto grande arroj\u00e1ndote bombas.\u00a0La posici\u00f3n solo se actualiza cuando llegas a un punto de control, por lo que debes mantener tu posici\u00f3n hasta llegar al punto de control. Los controles funcionan en los controladores de Xbox y PlayStation. El bot\u00f3n Y o el tri\u00e1ngulo para acelerar, el bot\u00f3n b o el c\u00edrculo para frenar, los botones rb y lb para ametrallar.",
          "Desde": "",
@@ -1182,6 +1152,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "FBS CME by Justyxxx",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/03 16:10",
+         "URL": "https://justyxxx.itch.io/fbs-cme",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Rival Stars Horse Racing : Desktop Edition",
          "Informacion": "With stunning, realistic horses, an in-depth breeding system, and a range of exciting game modes, Rival Stars Horse Racing offers horse fans the ultimate racing and riding experience. Take the reins and become an equestrian legend!",
          "Desde": "2026/08/27",
@@ -1197,6 +1177,56 @@
          "Desde": "",
          "Hasta": "2026/09/04 09:28",
          "URL": "https://3xiled4ever.itch.io/beneath-europa",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Backrooms Crawlers by Worst Event Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/04 22:56",
+         "URL": "https://worsteventgames.itch.io/backrooms-crawlers",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tarotro by Worst Event Games",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/05 00:54",
+         "URL": "https://worsteventgames.itch.io/tarotro",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Worst Wifey (\u00e3\u0083\u00af\u00e3\u0083\u00ab\u00e5\u00ab\u0081) by Worst Event Games, Mehran Goudarzi, MetaMagicShaman",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/05 00:54",
+         "URL": "https://worsteventgames.itch.io/worst-wifey",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
+         "Desde": "",
+         "Hasta": "2026/09/05 00:54",
+         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se aver\u00eda.",
+         "Desde": "",
+         "Hasta": "2026/09/05 00:54",
+         "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
@@ -1219,6 +1249,16 @@
          "URL": "https://alexander-wiseman.itch.io/fear-assessment",
          "IMG": "",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Ant Download Manager PRO",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/05 07:00",
+         "URL": "https://sharewareonsale.com/s/ant-download-manager-giveaway-coupon-sale",
+         "IMG": "",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -1379,7 +1419,17 @@
          "URL": "https://store.epicgames.com/p/otxo-396b8b",
          "IMG": "",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "THE MIDNIGHT BUS by itandfeel",
+         "Informacion": "UN JUEGO CORTO DE TERROR",
+         "Desde": "",
+         "Hasta": "2026/09/12 22:40",
+         "URL": "https://itandfeel.itch.io/the-midnight-bus",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Lost Castle: The Old Ones Awaken",
@@ -1392,11 +1442,31 @@
          "Borde": "border-color: #ff9600;"
       },
       {
+         "Nombre": "HOUSE CLEANER by Tabarnaq Games",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/13 18:00",
+         "URL": "https://tabarnaqgames.itch.io/house-cleaner",
+         "IMG": "",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Leawo Video Converter 1-Year License Key Free",
          "Informacion": "\u00bfEst\u00e1 buscando un software completo de conversi\u00f3n de video?\u00a0Leawo Video Converter (para Mac o Windows) es la opci\u00f3n n\u00famero uno. Le permite convertir entre todos los formatos populares de video y audio: MP4 a AVI, MPEG a MOV, MKV a FLV, F4V a WebM, MOV a MP3, RMVB a AAC, MTS a M4A, RM a OGG, etc. Admite la conversi\u00f3n por lotes para ahorrar tiempo y energ\u00eda.",
          "Desde": "",
          "Hasta": "2026/09/15 00:00",
          "URL": "https://giveaway.tickcoupon.com/leawo-video-converter-free-license-key/",
+         "IMG": "",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Leawo Photo Enhancer 1-Year Free (100% Discount)",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/leawo-photo-enhancer-free-license-code/",
          "IMG": "",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
