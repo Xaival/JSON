@@ -1,76 +1,6 @@
 {
-   "date_update": "02 Sep 2026 16:47 UTC",
+   "date_update": "03 Sep 2026 16:38 UTC",
    "values": [
-      {
-         "Nombre": "Grandfather's Story by GiulioPazzo",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/02 11:31",
-         "URL": "https://giuliopazzo.itch.io/grandfatherstory",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDkxMDE4My8yOTQ4NzYwNi5qcGc=/347x500/5VsAtV.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Neodarlo by The Voices Games",
-         "Informacion": "Juego de carreras de aerodeslizadores, 2 pistas con 3 modos: la carrera llega primero en 2 vueltas, Royale: llega a la primera posici\u00f3n sin morir, Bomba, gana la carrera en una vuelta con un auto grande arroj\u00e1ndote bombas.\u00a0La posici\u00f3n solo se actualiza cuando llegas a un punto de control, por lo que debes mantener tu posici\u00f3n hasta llegar al punto de control. Los controles funcionan en los controladores de Xbox y PlayStation. El bot\u00f3n Y o el tri\u00e1ngulo para acelerar, el bot\u00f3n b o el c\u00edrculo para frenar, los botones rb y lb para ametrallar.",
-         "Desde": "",
-         "Hasta": "2026/09/02 12:09",
-         "URL": "https://thewgreen.itch.io/neodarlo",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzY4MTY5OC8yNDA5ODIwNC5wbmc=/347x500/A%2FxTGW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
-      },
-      {
-         "Nombre": "HAPPY ICE CREAM MAN by quakr",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/02 23:00",
-         "URL": "https://quakr.itch.io/happy-ice-cream-man",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDk0NDA3OC8yOTU4NjQ5NC5qcGc=/347x500/jEIRGH.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Apartment \u00e2\u0084\u0096202 by Boxer Gaming",
-         "Informacion": "Apartment \u00e2202 es una breve experiencia de terror psicol\u00f3gico centrada en la atm\u00f3sfera, la tensi\u00f3n y la narraci\u00f3n sutil. Explora un apartamento tranquilo que no se siente bien, resuelve peque\u00f1os acertijos ambientales y descubre fragmentos de una inquietante historia escondida detr\u00e1s de las paredes.",
-         "Desde": "",
-         "Hasta": "2026/09/02 23:05",
-         "URL": "https://boxer-gaming.itch.io/apartment-202",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyODgwMS8yNTQzMDY3Ni5wbmc=/347x500/OfDswg.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 45%, yellow 45%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster Screen Recorder Free (100% Discount)",
-         "Informacion": "Coolmuster Screen Recorder registra la actividad de la pantalla en Windows y guarda videos directamente en su computadora. Puede capturar tutoriales, reuniones en l\u00ednea, juegos, presentaciones y otro contenido en pantalla. El software tambi\u00e9n incluye captura de pantalla para guardar im\u00e1genes de su pantalla. Las grabaciones se procesan y almacenan localmente sin necesidad de cargarlas en la nube.",
-         "Desde": "",
-         "Hasta": "2026/09/03 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-screen-recorder-free-license/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2026/06/coolmuster-screen-recorder-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 41%, yellow 41%) 1;"
-      },
-      {
-         "Nombre": "Ashampoo Zoom #2",
-         "Informacion": "Control y optimizaci\u00f3n en tiempo real: \u00a1ZOOM #2 ofrece sistemas de asistencia precisos y una amplia gama de opciones de ajuste para una escala de imagen perfecta y una optimizaci\u00f3n de la calidad!",
-         "Desde": "",
-         "Hasta": "2026/09/03 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ashampoo-zoom-2-100-discount",
-         "IMG": "https:/wp-content/uploads/2025/12/zoom2_ps.png?9848",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "WinExt Key Launcher",
-         "Informacion": "Abra recursos r\u00e1pidamente usando combinaciones de teclas de acceso r\u00e1pido",
-         "Desde": "",
-         "Hasta": "2026/09/03 09:00",
-         "URL": "https://www.bitsdujour.com/software/winext-key-launcher/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/winext-key-launcher-rwphe.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
-      },
       {
          "Nombre": "Concrete Veil by petrol",
          "Informacion": "FPS trepidante basado en la f\u00edsica",
@@ -79,7 +9,7 @@
          "URL": "https://p3trol.itch.io/concrete-veil",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzMwMTI0Ni8yNDM0MTY2OC5wbmc=/347x500/tND4eY.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
       },
       {
          "Nombre": "The Copper Hill by petrol",
@@ -89,7 +19,7 @@
          "URL": "https://p3trol.itch.io/the-copper-hill",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjkzMTE5MC8xODE4MzUzMC5wbmc=/347x500/36%2BWfb.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
       },
       {
          "Nombre": "Koi farm board game by catfish games",
@@ -99,7 +29,7 @@
          "URL": "https://catfish-games.itch.io/koi-farm-board-game",
          "IMG": "https://img.itch.zone/aW1nLzI2NDA3OTM2LmpwZw==/347x500/dbvuQL.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Nikolaychik shooter 3D by catfish games",
@@ -109,7 +39,7 @@
          "URL": "https://catfish-games.itch.io/nikolaychik-shooter-3d",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDMwMDczMC8yNTk5NzQwNS5wbmc=/347x500/hme%2F1R.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Nikolaychik Shooter online by catfish games",
@@ -119,7 +49,7 @@
          "URL": "https://catfish-games.itch.io/nikolaychik-shooter-stimulator",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzU3NDkzOS8yNTQ4NDU1MC5wbmc=/347x500/cOWQPU.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "Nikoliaychik troll game by catfish games",
@@ -129,7 +59,7 @@
          "URL": "https://catfish-games.itch.io/alexander-troll-game",
          "IMG": "https://img.itch.zone/aW1nLzIxMDY2NTAzLmpwZw==/347x500/8tB6rW.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "War of Els 2 (with APK) by catfish games",
@@ -139,7 +69,7 @@
          "URL": "https://catfish-games.itch.io/war-of-els-2",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDM5Njc5NC8yNjIyOTA0Ny5wbmc=/347x500/gyz8yk.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
       },
       {
          "Nombre": "FBS CME by Justyxxx",
@@ -149,7 +79,7 @@
          "URL": "https://justyxxx.itch.io/fbs-cme",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDc4NDExOS8yODU0NzcwMi5wbmc=/347x500/2XC2ly.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 73%, yellow 73%) 1;"
       },
       {
          "Nombre": "Rival Stars Horse Racing : Desktop Edition",
@@ -159,7 +89,7 @@
          "URL": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
          "IMG": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "Lord of Chaos by Hexnut Studios",
@@ -169,7 +99,7 @@
          "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDQwNTc3MC8yNjMzNzcyNC5wbmc=/347x500/MsAdij.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
       },
       {
          "Nombre": "Beneath Europa by exiled",
@@ -179,7 +109,7 @@
          "URL": "https://3xiled4ever.itch.io/beneath-europa",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzk5ODY5Ny8yOTI3MjQ1MS5qcGc=/347x500/hx%2Bz%2BA.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
       },
       {
          "Nombre": "Windows 11 SE PLUS by TsubasaGames, TheStickGamer",
@@ -482,6 +412,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Vovsoft SVG Converter (100% Discount) License Free",
+         "Informacion": "SVG es la extensi\u00f3n web espec\u00edfica para archivos de gr\u00e1ficos vectoriales que tambi\u00e9n describe los gr\u00e1ficos en XML. Aunque hay varios programas disponibles que pueden convertir archivos SVG a diferentes formatos de archivo, Vovsoft SVG Converter es superior en todos los aspectos.",
+         "Desde": "",
+         "Hasta": "2026/09/07 04:00",
+         "URL": "https://giveaway.tickcoupon.com/vovsoft-svg-converter-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/05/vovsoft-svg-converter.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Killer Bunny by NORTH SIGNAL",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
@@ -572,23 +512,13 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Shut The Box by SVP Games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Nombre": "Coolmuster ePub Converter Free (100% Discount)",
+         "Informacion": "\u00bfEst\u00e1 buscando el mejor software de creaci\u00f3n de libros electr\u00f3nicos que le ayude a publicar su nuevo libro electr\u00f3nico? No busque m\u00e1s, Coolmuster ePub Converter, uno de los mejores creadores de ePub para Windows y Mac, que est\u00e1 aqu\u00ed para satisfacer todas sus necesidades de conversi\u00f3n. Con soporte para m\u00e1s de cinco formatos populares (.doc, .pdf, .html, .txt, .mobi, etc.), puede crear f\u00e1cilmente libros electr\u00f3nicos ePub para leer en cualquier dispositivo port\u00e1til. \u00bfNecesita convertir varios documentos de forma masiva? Gracias a la tecnolog\u00eda avanzada, Coolmuster ePub Converter puede convertir un documento de 500 p\u00e1ginas en un libro electr\u00f3nico ePub en menos de 1 minuto.",
          "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/shut-the-box",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzY1NDcxOC8yMTc0NzM4Ni5wbmc=/347x500/2XbpiA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Sherbie\u00e2\u0084\u00a2 by SVP Games",
-         "Informacion": "\u00a1Juega como Sherbie, el h\u00e9roe del helado suave! \u00a1\u00a1\u00a1Viaja por las afueras de la galaxia y det\u00e9n a los Big Bad 6 en este juego de plataformas!!! Este juego tiene:",
-         "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/sherbie",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzYxMDI4Ny8yMTQ5MDU1MS5wbmc=/347x500/TG92do.png",
-         "Distribuidora": "Itch io",
+         "Hasta": "2026/09/09 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-epub-converter-pro-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/epub-converter-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -598,16 +528,6 @@
          "Hasta": "2026/09/09 05:59",
          "URL": "https://svp-games.itch.io/imp-angel",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk0MDE2My8yMzk1NTY4Ny5wbmc=/347x500/vARlgk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Nightly Special by SVP Games",
-         "Informacion": "Este juego de fiesta de mundo abierto tiene 5 minijuegos:",
-         "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/nightly-special",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1NTMyNC8xNzkxNzA1NS5wbmc=/347x500/BRa7Pj.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -622,6 +542,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Nightly Special by SVP Games",
+         "Informacion": "Este juego de fiesta de mundo abierto tiene 5 minijuegos:",
+         "Desde": "",
+         "Hasta": "2026/09/09 05:59",
+         "URL": "https://svp-games.itch.io/nightly-special",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1NTMyNC8xNzkxNzA1NS5wbmc=/347x500/BRa7Pj.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Robot/Kaiju Beatdown by SVP Games",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
@@ -629,6 +559,36 @@
          "URL": "https://svp-games.itch.io/robotkaiju-beatdown",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0MzA1OC8xODE3OTkyMS5wbmc=/347x500/P9UPMh.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Sherbie\u00e2\u0084\u00a2 by SVP Games",
+         "Informacion": "\u00a1Juega como Sherbie, el h\u00e9roe del helado suave! \u00a1\u00a1\u00a1Viaja por las afueras de la galaxia y det\u00e9n a los Big Bad 6 en este juego de plataformas!!! Este juego tiene:",
+         "Desde": "",
+         "Hasta": "2026/09/09 05:59",
+         "URL": "https://svp-games.itch.io/sherbie",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzYxMDI4Ny8yMTQ5MDU1MS5wbmc=/347x500/TG92do.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Shut The Box by SVP Games",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/09 05:59",
+         "URL": "https://svp-games.itch.io/shut-the-box",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzY1NDcxOC8yMTc0NzM4Ni5wbmc=/347x500/2XbpiA.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "OCR Reader",
+         "Informacion": "Convierta im\u00e1genes y archivos PDF a texto sin conexi\u00f3n con OCR Reader. Con tecnolog\u00eda de Tesseract, ofrece procesamiento por lotes seguro, compatibilidad con varios idiomas y detecci\u00f3n de dise\u00f1o personalizado para un escaneo preciso de documentos de escritorio.",
+         "Desde": "",
+         "Hasta": "2026/09/09 07:00",
+         "URL": "https://sharewareonsale.com/s/free-ocr-reader-100-discount",
+         "IMG": "https:/wp-content/uploads/2023/01/ocr-reader.png?9848",
+         "Distribuidora": "SharewareOnSale",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -652,6 +612,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster SignPub Key Free (100% Discount)",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/10 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-signpub-license-key-free/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/coolmuster-signpub.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Corporate Color Correction Pack",
+         "Informacion": "Cree r\u00e1pidamente una incre\u00edble correcci\u00f3n de color profesional para empresas utilizando estas LUT con solo unos pocos clics. LUT de gradaci\u00f3n de color dise\u00f1ados para crear hermosos tonos corporativos para sus fotos y v\u00eddeos. Cada LUT ha sido dise\u00f1ado para verse genial con una amplia variedad de im\u00e1genes y videos. En muchos casos, podr\u00e1 obtener un gran resultado en un instante. Sin embargo, siempre puede realizar ajustes, aumentar/disminuir la intensidad, ajustar el contraste, etc. para adaptarse a fotograf\u00edas y videoclips individuales.",
+         "Desde": "",
+         "Hasta": "2026/09/10 07:00",
+         "URL": "https://sharewareonsale.com/s/free-corporate-color-correction-pack-100-discount",
+         "IMG": "https:/wp-content/uploads/2026/01/main-min-3-scaled-1.jpg?9848",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Alone With You",
          "Informacion": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
          "Desde": "2026/09/03",
@@ -659,7 +639,7 @@
          "URL": "https://store.epicgames.com/p/alone-with-you-028a15",
          "IMG": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Memory 12 by Seld Studios",
@@ -772,6 +752,26 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Luftrausers",
+         "Informacion": "The skies are aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
+         "Desde": "2026/09/10",
+         "Hasta": "2026/09/17 17:00",
+         "URL": "https://store.epicgames.com/p/luftrausers-51e5e9",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Astral Ascent",
+         "Informacion": "Elige a uno de cuatro h\u00e9roes y explora el Jard\u00edn, una prisi\u00f3n astral custodiada por 12 jefes m\u00edsticos: los Zodiacos. Usa decenas de hechizos y lucha junto a tus leales compa\u00f1eros para desvelar la historia de este roguelite de plataformas con combates veloces.",
+         "Desde": "2026/09/10",
+         "Hasta": "2026/09/17 17:00",
+         "URL": "https://store.epicgames.com/p/astral-ascent-b33bc2",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
          "Nombre": "Breathedge",
          "Informacion": "\u00a1Sobrevive en el espacio abierto! Descubre la verdad oculta tras el repentino accidente de tu nave espacial junto con tu pollo inmortal. Construye herramientas, pilota veh\u00edculos e incluso controla estaciones espaciales para sobrevivir y explorar los escombros.",
          "Desde": "2026/09/03",
@@ -779,7 +779,7 @@
          "URL": "https://store.epicgames.com/p/breathedge",
          "IMG": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Castlevania Anniversary Collection",
@@ -789,7 +789,7 @@
          "URL": "https://store.epicgames.com/p/castlevania-anniversary-collection-a61f94",
          "IMG": "https://cdn1.epicgames.com/spt-assets/1ff2f74ba0ef4019b6905d8abe268819/castlevania-anniversary-collection-yex6f.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Monument Valley",
@@ -799,7 +799,7 @@
          "URL": "https://store.epicgames.com/p/monument-valley-1d99d3",
          "IMG": "https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Nova Lands",
@@ -809,7 +809,7 @@
          "URL": "https://store.epicgames.com/p/nova-lands-4d1788",
          "IMG": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Rogeria Escape by ROGER (Xander-X)",
@@ -1032,22 +1032,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "MiniColonyAdventures \u00e2\u0080\u0093 Build, Expand & Survive by GameBuegar",
-         "Informacion": "\u00a1Bienvenido a ColonyAdventure, un encantador juego de simulaci\u00f3n de aldea profundamente interactivo donde cada decisi\u00f3n da forma al futuro de tu asentamiento! Comienza con una humilde fogata en el desierto y gu\u00eda a tus colonos para construir una aldea pr\u00f3spera y autosuficiente.",
-         "Desde": "",
-         "Hasta": "2026/09/30 19:50",
-         "URL": "https://gamebuegar.itch.io/colonyadventure",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDMzMTg1NC8yNzUyOTg2Mi5wbmc=/347x500/CG0Xmc.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "ChoronosCityA\u00c4\u00b0Detective by GameBuegar",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
          "Hasta": "2026/09/30 19:50",
          "URL": "https://gamebuegar.itch.io/choronoscityadetective",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDQyNzk4OC8yNjM4NDkwOS5wbmc=/347x500/7Duz7R.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MiniColonyAdventures \u00e2\u0080\u0093 Build, Expand & Survive by GameBuegar",
+         "Informacion": "\u00a1Bienvenido a ColonyAdventure, un encantador juego de simulaci\u00f3n de aldea profundamente interactivo donde cada decisi\u00f3n da forma al futuro de tu asentamiento! Comienza con una humilde fogata en el desierto y gu\u00eda a tus colonos para construir una aldea pr\u00f3spera y autosuficiente.",
+         "Desde": "",
+         "Hasta": "2026/09/30 19:50",
+         "URL": "https://gamebuegar.itch.io/colonyadventure",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDMzMTg1NC8yNzUyOTg2Mi5wbmc=/347x500/CG0Xmc.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1062,12 +1062,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "The Glass Files (Waterhouse Part 2) by novel games",
-         "Informacion": "",
+         "Nombre": "Identity by novel games",
+         "Informacion": "IDENTITY es mi primer juego de novela de aventuras sobre una historia que estoy escribiendo desde 2001. Tres ubicaciones principales, alrededor de 25 pantallas diferentes y muchos sitios de texto traducidos de mi novela original llamada \"das grab eines dichters/ the grave of a escritor\". La historia: Eres un psicoterapeuta con una casa solitaria cerca de un peque\u00f1o pueblo y entre un bonito paisaje natural, inspeccionando algunos secretos... Pero la aparici\u00f3n de un extra\u00f1o paciente lo cambia todo. \u00a1ESCAPA de la novela y descubre tu verdadera IDENTIDAD!",
          "Desde": "",
          "Hasta": "2026/10/01 17:49",
-         "URL": "https://novel-games.itch.io/the-glass-files",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNzk1NzM0LzQ0NTUxMTQuanBn/347x500/y22Q7q.jpg",
+         "URL": "https://novel-games.itch.io/identity",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNTcxMjYvMjU5ODk4LmpwZw==/347x500/sYpZSR.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1092,12 +1092,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Identity by novel games",
-         "Informacion": "IDENTITY es mi primer juego de novela de aventuras sobre una historia que estoy escribiendo desde 2001. Tres ubicaciones principales, alrededor de 25 pantallas diferentes y muchos sitios de texto traducidos de mi novela original llamada \"das grab eines dichters/ the grave of a escritor\". La historia: Eres un psicoterapeuta con una casa solitaria cerca de un peque\u00f1o pueblo y entre un bonito paisaje natural, inspeccionando algunos secretos... Pero la aparici\u00f3n de un extra\u00f1o paciente lo cambia todo. \u00a1ESCAPA de la novela y descubre tu verdadera IDENTIDAD!",
+         "Nombre": "The Glass Files (Waterhouse Part 2) by novel games",
+         "Informacion": "",
          "Desde": "",
          "Hasta": "2026/10/01 17:49",
-         "URL": "https://novel-games.itch.io/identity",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNTcxMjYvMjU5ODk4LmpwZw==/347x500/sYpZSR.jpg",
+         "URL": "https://novel-games.itch.io/the-glass-files",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNzk1NzM0LzQ0NTUxMTQuanBn/347x500/y22Q7q.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
