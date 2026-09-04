@@ -1,116 +1,6 @@
 {
-   "date_update": "03 Sep 2026 16:38 UTC",
+   "date_update": "04 Sep 2026 16:37 UTC",
    "values": [
-      {
-         "Nombre": "Concrete Veil by petrol",
-         "Informacion": "FPS trepidante basado en la f\u00edsica",
-         "Desde": "",
-         "Hasta": "2026/09/03 11:16",
-         "URL": "https://p3trol.itch.io/concrete-veil",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzMwMTI0Ni8yNDM0MTY2OC5wbmc=/347x500/tND4eY.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "The Copper Hill by petrol",
-         "Informacion": "EL CERRO DEL COBRE",
-         "Desde": "",
-         "Hasta": "2026/09/03 11:16",
-         "URL": "https://p3trol.itch.io/the-copper-hill",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjkzMTE5MC8xODE4MzUzMC5wbmc=/347x500/36%2BWfb.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 93%, yellow 93%) 1;"
-      },
-      {
-         "Nombre": "Koi farm board game by catfish games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/03 13:00",
-         "URL": "https://catfish-games.itch.io/koi-farm-board-game",
-         "IMG": "https://img.itch.zone/aW1nLzI2NDA3OTM2LmpwZw==/347x500/dbvuQL.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "Nikolaychik shooter 3D by catfish games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/03 13:00",
-         "URL": "https://catfish-games.itch.io/nikolaychik-shooter-3d",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDMwMDczMC8yNTk5NzQwNS5wbmc=/347x500/hme%2F1R.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "Nikolaychik Shooter online by catfish games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/03 13:00",
-         "URL": "https://catfish-games.itch.io/nikolaychik-shooter-stimulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzU3NDkzOS8yNTQ4NDU1MC5wbmc=/347x500/cOWQPU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "Nikoliaychik troll game by catfish games",
-         "Informacion": "Disparar\u00e1s a avatares zombies, primer nivel: puntuaci\u00f3n 0-50, segundo nivel: puntuaci\u00f3n 50-100, \u00faltimo nivel: puntuaci\u00f3n 100-200. Durante el juego tambi\u00e9n habr\u00e1s visto animaciones de trolls.",
-         "Desde": "",
-         "Hasta": "2026/09/03 13:00",
-         "URL": "https://catfish-games.itch.io/alexander-troll-game",
-         "IMG": "https://img.itch.zone/aW1nLzIxMDY2NTAzLmpwZw==/347x500/8tB6rW.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "War of Els 2 (with APK) by catfish games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/03 13:00",
-         "URL": "https://catfish-games.itch.io/war-of-els-2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDM5Njc5NC8yNjIyOTA0Ny5wbmc=/347x500/gyz8yk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 86%, yellow 86%) 1;"
-      },
-      {
-         "Nombre": "FBS CME by Justyxxx",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/03 16:10",
-         "URL": "https://justyxxx.itch.io/fbs-cme",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDc4NDExOS8yODU0NzcwMi5wbmc=/347x500/2XC2ly.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 73%, yellow 73%) 1;"
-      },
-      {
-         "Nombre": "Rival Stars Horse Racing : Desktop Edition",
-         "Informacion": "With stunning, realistic horses, an in-depth breeding system, and a range of exciting game modes, Rival Stars Horse Racing offers horse fans the ultimate racing and riding experience. Take the reins and become an equestrian legend!",
-         "Desde": "2026/08/27",
-         "Hasta": "2026/09/03 17:00",
-         "URL": "https://store.epicgames.com/p/rival-stars-horse-racing-dd09de",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/03 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQwNTc3MC8yNjMzNzcyNC5wbmc=/347x500/MsAdij.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
-      },
-      {
-         "Nombre": "Beneath Europa by exiled",
-         "Informacion": "Debajo de Europa",
-         "Desde": "",
-         "Hasta": "2026/09/04 09:28",
-         "URL": "https://3xiled4ever.itch.io/beneath-europa",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzk5ODY5Ny8yOTI3MjQ1MS5qcGc=/347x500/hx%2Bz%2BA.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 1%, yellow 1%) 1;"
-      },
       {
          "Nombre": "Windows 11 SE PLUS by TsubasaGames, TheStickGamer",
          "Informacion": "\u00bfEst\u00e1s cansado de los errores reales de tu PC y de las frustrantes \"actualizaciones\"? Obt\u00e9n el sistema operativo que te mereces... \u00a1en un juego! Windows 11 SE PLUS\u00a0es una versi\u00f3n divertida y mejorada de nuestro popular juego Windows 11 Scratch Edition.",
@@ -119,7 +9,7 @@
          "URL": "https://tsubasagames.itch.io/windows11seplus",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzg3Nzc3My8yMzEzNzg0NC5wbmc=/347x500/%2FSp2eu.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
       },
       {
          "Nombre": "Backrooms Crawlers by Worst Event Games",
@@ -129,7 +19,7 @@
          "URL": "https://worsteventgames.itch.io/backrooms-crawlers",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDU1MTc3MS8yNzUzMjQ1OC5qcGc=/347x500/UmFNcm.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -139,7 +29,7 @@
          "URL": "https://worsteventgames.itch.io/cherophobia",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
       },
       {
          "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -149,7 +39,7 @@
          "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MjcyMi8xODI2MjAyNi5qcGc=/347x500/CgF0oE.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
       },
       {
          "Nombre": "Tarotro by Worst Event Games",
@@ -159,7 +49,7 @@
          "URL": "https://worsteventgames.itch.io/tarotro",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDU5MjU2MS8yNzM3NzIxOC5qcGc=/347x500/zErxUa.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
       },
       {
          "Nombre": "Worst Wifey (\u00e3\u0083\u00af\u00e3\u0083\u00ab\u00e5\u00ab\u0081) by Worst Event Games, Mehran Goudarzi, MetaMagicShaman",
@@ -169,7 +59,7 @@
          "URL": "https://worsteventgames.itch.io/worst-wifey",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDE1ODgxNC8yNTIzMzk4OC5qcGc=/347x500/i19zkT.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
       },
       {
          "Nombre": "CULT OF FLIES by ALEXANDER WISEMAN",
@@ -179,7 +69,7 @@
          "URL": "https://alexander-wiseman.itch.io/cult-of-flies",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDMzMTQ5MS8yNTg2MDE0MS5qcGc=/347x500/gR7baI.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "Fear Assessment by ALEXANDER WISEMAN",
@@ -189,7 +79,7 @@
          "URL": "https://alexander-wiseman.itch.io/fear-assessment",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjExOTgzNy8xMzg1NTY1Ny5wbmc=/347x500/8j3acQ.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
       },
       {
          "Nombre": "Ant Download Manager PRO",
@@ -199,7 +89,17 @@
          "URL": "https://sharewareonsale.com/s/ant-download-manager-giveaway-coupon-sale",
          "IMG": "https:/wp-content/uploads/2016/11/antbox-150x200.png?9848",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
+      },
+      {
+         "Nombre": "WinExt Key Launcher",
+         "Informacion": "Abra recursos r\u00e1pidamente usando combinaciones de teclas de acceso r\u00e1pido",
+         "Desde": "",
+         "Hasta": "2026/09/05 09:00",
+         "URL": "https://www.bitsdujour.com/software/winext-key-launcher/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/winext-key-launcher-rwphe.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
       },
       {
          "Nombre": "False Title - RPG by S Xavier Uy",
@@ -288,6 +188,16 @@
          "Hasta": "2026/09/05 20:38",
          "URL": "https://vannys.itch.io/parasitoide",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDczNDc0OS8yODYwMDE0Mi5wbmc=/347x500/Z3XpeI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Warren Void by TangOStudios",
+         "Informacion": "Warren Void es un ambicioso proyecto desarrollado por Tang-O Studio, un desarrollador universitario en solitario de 17 a\u00f1os. Warren Void ofrece a los jugadores una jugabilidad bastante diversa con una est\u00e9tica divertida y caricaturesca, que combina un toque de terror, acci\u00f3n y estrategia. \u00a1Resuelve acertijos, sobrevive a los enemigos y descubre m\u00e1s sobre la historia de este nuevo mundo! Este juego a\u00fan est\u00e1 en desarrollo y se actualizar\u00e1 cap\u00edtulo a cap\u00edtulo. Actualmente cuenta con:",
+         "Desde": "",
+         "Hasta": "2026/09/05 21:57",
+         "URL": "https://tangostudios.itch.io/warren-void",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDgwNzEyOS8yOTA2NjE4OS5wbmc=/347x500/QVCRkf.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -412,6 +322,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Flunked by OledEye",
+         "Informacion": "Este es Melt... el guapo heterocrom\u00e1tico. Melt est\u00e1 tratando de superar el accidente de Vacansea que ocurri\u00f3 el d\u00eda de Navidad, una solicitud de la t\u00eda Zillow para visitar la torre de vigilancia de su hermana en Dapo, que supuestamente ha estado desaparecida durante varios d\u00edas. Horribles eventos psicol\u00f3gicos giran alrededor de Melt despu\u00e9s de la devastadora noticia del barco de Vacansea. \u00bfSe enfrentar\u00e1 Melt al dif\u00edcil regalo que recibi\u00f3?",
+         "Desde": "",
+         "Hasta": "2026/09/07 00:00",
+         "URL": "https://oledeye.itch.io/flunked",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDc2Nzg0NS8yOTAwMDYxMC5wbmc=/347x500/CeYhCl.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft SVG Converter (100% Discount) License Free",
          "Informacion": "SVG es la extensi\u00f3n web espec\u00edfica para archivos de gr\u00e1ficos vectoriales que tambi\u00e9n describe los gr\u00e1ficos en XML. Aunque hay varios programas disponibles que pueden convertir archivos SVG a diferentes formatos de archivo, Vovsoft SVG Converter es superior en todos los aspectos.",
          "Desde": "",
@@ -452,6 +372,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Grandfather's Story by GiulioPazzo",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/07 11:31",
+         "URL": "https://giuliopazzo.itch.io/grandfatherstory",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDkxMDE4My8yOTQ4NzYwNi5qcGc=/347x500/5VsAtV.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "CME2: Rep of Accident by Justyxxx",
          "Informacion": "Para sobrevivir a la \"Rep\u00fablica del Accidente\" de la d\u00e9cada de 1990, comienza usando la pasarela de conexi\u00f3n del segundo piso para jugar minijuegos aleatorios y ganar algo de dinero. Luego, ahorra diez millones de yenes antes del d\u00eda 518 para escapar del caos de los muchos accidentes de los 90 con apuestas, etc.",
          "Desde": "",
@@ -468,6 +398,16 @@
          "Hasta": "2026/09/07 16:46",
          "URL": "https://molotov-kittens.itch.io/last-breath",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzk2MTU5My8yMzYxNTM4NC5qcGc=/347x500/FfXhfP.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/07 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDQwNTc3MC8yNjMzNzcyNC5wbmc=/347x500/MsAdij.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -752,22 +692,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Luftrausers",
-         "Informacion": "The skies are aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
-         "Desde": "2026/09/10",
-         "Hasta": "2026/09/17 17:00",
-         "URL": "https://store.epicgames.com/p/luftrausers-51e5e9",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-color: #ff9600;"
-      },
-      {
          "Nombre": "Astral Ascent",
          "Informacion": "Elige a uno de cuatro h\u00e9roes y explora el Jard\u00edn, una prisi\u00f3n astral custodiada por 12 jefes m\u00edsticos: los Zodiacos. Usa decenas de hechizos y lucha junto a tus leales compa\u00f1eros para desvelar la historia de este roguelite de plataformas con combates veloces.",
          "Desde": "2026/09/10",
          "Hasta": "2026/09/17 17:00",
          "URL": "https://store.epicgames.com/p/astral-ascent-b33bc2",
          "IMG": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+         "Distribuidora": "Epic Game",
+         "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Luftrausers",
+         "Informacion": "The skies are aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
+         "Desde": "2026/09/10",
+         "Hasta": "2026/09/17 17:00",
+         "URL": "https://store.epicgames.com/p/luftrausers-51e5e9",
+         "IMG": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
       },
@@ -809,6 +749,16 @@
          "URL": "https://store.epicgames.com/p/nova-lands-4d1788",
          "IMG": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
          "Distribuidora": "Epic Game",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Apartment \u00e2\u0084\u0096202 by Boxer Gaming",
+         "Informacion": "Apartment \u00e2202 es una breve experiencia de terror psicol\u00f3gico centrada en la atm\u00f3sfera, la tensi\u00f3n y la narraci\u00f3n sutil. Explora un apartamento tranquilo que no se siente bien, resuelve peque\u00f1os acertijos ambientales y descubre fragmentos de una inquietante historia escondida detr\u00e1s de las paredes.",
+         "Desde": "",
+         "Hasta": "2026/09/17 23:09",
+         "URL": "https://boxer-gaming.itch.io/apartment-202",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjkyODgwMS8yNTQzMDY3Ni5wbmc=/347x500/OfDswg.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -952,6 +902,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Last Friday by ReganC",
+         "Informacion": "Last Friday es una breve experiencia atmosf\u00e9rica en primera persona inspirada en\r\n  Espacios liminales, est\u00e9tica anal\u00f3gica y l\u00f3gica on\u00edrica.",
+         "Desde": "",
+         "Hasta": "2026/09/30 13:22",
+         "URL": "https://reganc.itch.io/last-friday",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDU2NTMxMC8yNzY3NDIwMC5wbmc=/347x500/S4mC4p.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "\u00c5\u00bbmij Wyvern by SoowekGames",
          "Informacion": "Un viajero misterioso busca la verdad sobre el legendario castillo Wyvern de Czersk.\u00a0Basado en hechos reales (muy vagamente, por supuesto;))",
          "Desde": "",
@@ -1048,6 +1008,16 @@
          "Hasta": "2026/09/30 19:50",
          "URL": "https://gamebuegar.itch.io/colonyadventure",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDMzMTg1NC8yNzUyOTg2Mi5wbmc=/347x500/CG0Xmc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Investigation by JN STUDIOS",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/30 22:04",
+         "URL": "https://jn-studios.itch.io/the-last-investigation",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk0NTkxNC8yOTU4ODExMi5wbmc=/347x500/PNK520.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
