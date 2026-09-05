@@ -1,106 +1,6 @@
 {
-   "date_update": "04 Sep 2026 16:37 UTC",
+   "date_update": "05 Sep 2026 16:39 UTC",
    "values": [
-      {
-         "Nombre": "Windows 11 SE PLUS by TsubasaGames, TheStickGamer",
-         "Informacion": "\u00bfEst\u00e1s cansado de los errores reales de tu PC y de las frustrantes \"actualizaciones\"? Obt\u00e9n el sistema operativo que te mereces... \u00a1en un juego! Windows 11 SE PLUS\u00a0es una versi\u00f3n divertida y mejorada de nuestro popular juego Windows 11 Scratch Edition.",
-         "Desde": "",
-         "Hasta": "2026/09/04 19:27",
-         "URL": "https://tsubasagames.itch.io/windows11seplus",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzg3Nzc3My8yMzEzNzg0NC5wbmc=/347x500/%2FSp2eu.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 59%, yellow 59%) 1;"
-      },
-      {
-         "Nombre": "Backrooms Crawlers by Worst Event Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/04 22:56",
-         "URL": "https://worsteventgames.itch.io/backrooms-crawlers",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDU1MTc3MS8yNzUzMjQ1OC5qcGc=/347x500/UmFNcm.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Te encuentras varado en un bosque despu\u00e9s de que tu coche se aver\u00eda.",
-         "Desde": "",
-         "Hasta": "2026/09/05 00:54",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
-      },
-      {
-         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
-         "Desde": "",
-         "Hasta": "2026/09/05 00:54",
-         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MjcyMi8xODI2MjAyNi5qcGc=/347x500/CgF0oE.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
-      },
-      {
-         "Nombre": "Tarotro by Worst Event Games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/05 00:54",
-         "URL": "https://worsteventgames.itch.io/tarotro",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDU5MjU2MS8yNzM3NzIxOC5qcGc=/347x500/zErxUa.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
-      },
-      {
-         "Nombre": "Worst Wifey (\u00e3\u0083\u00af\u00e3\u0083\u00ab\u00e5\u00ab\u0081) by Worst Event Games, Mehran Goudarzi, MetaMagicShaman",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/05 00:54",
-         "URL": "https://worsteventgames.itch.io/worst-wifey",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDE1ODgxNC8yNTIzMzk4OC5qcGc=/347x500/i19zkT.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
-      },
-      {
-         "Nombre": "CULT OF FLIES by ALEXANDER WISEMAN",
-         "Informacion": "***ATENCI\u00d3N, EL JUEGO TIENE ERRORES DE MIERDA Y TENGO QUE ARREGLARLO***",
-         "Desde": "",
-         "Hasta": "2026/09/05 06:44",
-         "URL": "https://alexander-wiseman.itch.io/cult-of-flies",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDMzMTQ5MS8yNTg2MDE0MS5qcGc=/347x500/gR7baI.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "Fear Assessment by ALEXANDER WISEMAN",
-         "Informacion": "El programa FEAR ASSESSMENT\u00a0es una prueba especializada desarrollada e implementada por agencias gubernamentales para recopilar datos sobre t\u00e9cnicas de tortura psicol\u00f3gica y su impacto en las personas. Sirve como una herramienta esencial para comprender los efectos de la manipulaci\u00f3n basada en el miedo. Esta prueba utiliza su c\u00e1mara web y la informaci\u00f3n de su disco duro.",
-         "Desde": "",
-         "Hasta": "2026/09/05 06:44",
-         "URL": "https://alexander-wiseman.itch.io/fear-assessment",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjExOTgzNy8xMzg1NTY1Ny5wbmc=/347x500/8j3acQ.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 12%, yellow 12%) 1;"
-      },
-      {
-         "Nombre": "Ant Download Manager PRO",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/05 07:00",
-         "URL": "https://sharewareonsale.com/s/ant-download-manager-giveaway-coupon-sale",
-         "IMG": "https:/wp-content/uploads/2016/11/antbox-150x200.png?9848",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
-      },
-      {
-         "Nombre": "WinExt Key Launcher",
-         "Informacion": "Abra recursos r\u00e1pidamente usando combinaciones de teclas de acceso r\u00e1pido",
-         "Desde": "",
-         "Hasta": "2026/09/05 09:00",
-         "URL": "https://www.bitsdujour.com/software/winext-key-launcher/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/winext-key-launcher-rwphe.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
-      },
       {
          "Nombre": "False Title - RPG by S Xavier Uy",
          "Informacion": "Tenji fue transportado a otro mundo, es un mundo diferente comparado con su lugar donde vive habitualmente. Las cosas son bastante complicadas en este mundo, hay conflictos, invasi\u00f3n de demonios, etc., \u00bfalguien como Tenji podr\u00eda adaptarse a este nuevo entorno? De vuelta en su mundo, Tenji ya domina la adaptabilidad, una de las partes m\u00e1s importantes del conocimiento humano.",
@@ -109,7 +9,7 @@
          "URL": "https://s-xavier-uy.itch.io/false-title",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDU0NjExMC8yNzA5Nzg3Mi5naWY=/original/KGZar%2F.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
       },
       {
          "Nombre": "Duskhold by ForsakenMike",
@@ -119,7 +19,7 @@
          "URL": "https://forsakenmike.itch.io/duskhold",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDM5MzQ2My8yNjc4MTI2NC5wbmc=/347x500/4zn9yI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "Zomborot by FATHER",
@@ -129,7 +29,7 @@
          "URL": "https://fatheronstream.itch.io/zomborot",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDkzOTc3Ni8yOTU0NjcyOC5wbmc=/347x500/zTnDkU.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
       },
       {
          "Nombre": "Evergreen Meadows by DREAMDEV",
@@ -139,7 +39,7 @@
          "URL": "https://dreamdev1.itch.io/evergreen-meadows",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NTE3OS8yODkzOTM4NS5naWY=/original/8RnJ79.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "At Sixes And Sevens Case I by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
@@ -149,7 +49,7 @@
          "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzQxMTk0OS8yMDM2NDY4OS5wbmc=/347x500/tF9pkl.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "DON\u00e2\u0080\u0099T DO IT by Worst Event Games, MetaMagicShaman",
@@ -159,7 +59,7 @@
          "URL": "https://worsteventgames.itch.io/dont-do-it",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDI2Mzc3NC8yNTQzMzI0OS5qcGc=/347x500/t8qQci.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "The Enemy by Worst Event Games",
@@ -169,7 +69,7 @@
          "URL": "https://worsteventgames.itch.io/the-enemy",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDY2OTc5My8yNzg1MTk3NS5qcGc=/347x500/Arq%2FUv.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "Very Realistic Game Dev Simulator by Worst Event Games",
@@ -179,7 +79,7 @@
          "URL": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzg1ODI4My8yMzAzMTAyOS5qcGc=/347x500/g94CdL.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
       },
       {
          "Nombre": "Parasitoide by Lucas R.",
@@ -189,7 +89,7 @@
          "URL": "https://vannys.itch.io/parasitoide",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDczNDc0OS8yODYwMDE0Mi5wbmc=/347x500/Z3XpeI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "Warren Void by TangOStudios",
@@ -199,7 +99,7 @@
          "URL": "https://tangostudios.itch.io/warren-void",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDgwNzEyOS8yOTA2NjE4OS5wbmc=/347x500/QVCRkf.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
       },
       {
          "Nombre": "Another World Adventures by S Xavier Uy",
@@ -209,7 +109,7 @@
          "URL": "https://s-xavier-uy.itch.io/another-world-adventures",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjg5MTAzNi8yNzA5NDQ2OC5naWY=/original/sHljjG.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "Reincarnated as a Noble - RPG by S Xavier Uy",
@@ -219,7 +119,7 @@
          "URL": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTI2MzExNC85MzgzMzE5LmdpZg==/original/0xkVJQ.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
       },
       {
          "Nombre": "The Last Laugh by One Deep",
@@ -229,7 +129,7 @@
          "URL": "https://one-deep.itch.io/the-last-laugh",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDg0NjA4My8yOTAxOTk0Ny5wbmc=/347x500/1p10ig.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
       },
       {
          "Nombre": "Deep Miner (Early Access) by FPV EXTREME",
@@ -239,7 +139,7 @@
          "URL": "https://fpv-extreme.itch.io/deep-miner-early-access",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDcwNTAyNi8yODMyMjc4My5wbmc=/347x500/YfZOQ0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
       },
       {
          "Nombre": "BABUZI by vanbee",
@@ -359,6 +259,16 @@
          "URL": "https://sharewareonsale.com/s/free-privazer-pro-100-discount",
          "IMG": "https:/wp-content/uploads/2024/11/e4ebdd23de7627257f95991acf89ac85.png?9848",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/07 10:00",
+         "URL": "https://bkgamingstudio.itch.io/project-reborn-extraction",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDU4MzEyMS8yNzMwNDUxMi5qcGc=/347x500/vSptZK.jpg",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -592,6 +502,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Final Witness by Hexnut Studios",
+         "Informacion": "Basado en una LLAMADA al 911.",
+         "Desde": "",
+         "Hasta": "2026/09/12 00:42",
+         "URL": "https://hexnut-studios.itch.io/final-witness",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk3MzA4MS8yOTc2NjQ1Mi5wbmc=/347x500/MWWSMh.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "OTXO",
          "Informacion": "Entra en una mansi\u00f3n inexplicable y abstracta para rescatar a un ser querido en este roguelite trepidante, brutal y oscuro con tiroteos precisos pero despiadados y una c\u00e1mara lenta que desaf\u00eda las leyes del tiempo.",
          "Desde": "2026/08/29",
@@ -602,12 +522,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Night of the Duat by Phantom Drive",
+         "Informacion": "Noche del duat\u00a0Hay algo espeluznante en esta tumba...",
+         "Desde": "",
+         "Hasta": "2026/09/12 17:40",
+         "URL": "https://phantom-drive.itch.io/night-of-the-duat",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDYzNDkyOC8yNzYxOTQyOC5wbmc=/347x500/epl36y.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "THE MIDNIGHT BUS by itandfeel",
          "Informacion": "UN JUEGO CORTO DE TERROR",
          "Desde": "",
          "Hasta": "2026/09/12 22:40",
          "URL": "https://itandfeel.itch.io/the-midnight-bus",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM5MzE1OS8xNjQ5MDI2Ni5naWY=/original/r1sH16.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Crank Racing! by Anomalous",
+         "Informacion": "\u00a1Carreras de manivela! \u00a0\u00a1Hecho exclusivamente para la consola port\u00e1til Playdate!",
+         "Desde": "",
+         "Hasta": "2026/09/13 01:00",
+         "URL": "https://anomalous-games.itch.io/crank-racing",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDY1MTI2MS8yNzcyOTUyMi5naWY=/original/1k0V2p.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -758,6 +698,36 @@
          "Hasta": "2026/09/17 23:09",
          "URL": "https://boxer-gaming.itch.io/apartment-202",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjkyODgwMS8yNTQzMDY3Ni5wbmc=/347x500/OfDswg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Backrooms Crawlers by Worst Event Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/19 00:54",
+         "URL": "https://worsteventgames.itch.io/backrooms-crawlers",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDU1MTc3MS8yNzUzMjQ1OC5qcGc=/347x500/UmFNcm.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
+         "Desde": "",
+         "Hasta": "2026/09/19 00:54",
+         "URL": "https://worsteventgames.itch.io/do-you-have-a-moment-to-talk-about-our-lord-and-savior",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjk4MjcyMi8xODI2MjAyNi5qcGc=/347x500/CgF0oE.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/19 00:54",
+         "URL": "https://worsteventgames.itch.io/cherophobia",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1032,6 +1002,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Almericus - Scarred Islands by Almericusdev",
+         "Informacion": "Almericus - Scarred Islands es un juego de rol de aventuras con sprites realistas / inspirados en Akira Toriyama que ver\u00e1s",
+         "Desde": "",
+         "Hasta": "2026/10/01 16:21",
+         "URL": "https://almericusdev.itch.io/almericus-scarred-islands",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTY5NjIzMS8yODgwMDQyMi5qcGVn/347x500/GxELY%2F.jpeg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Identity by novel games",
          "Informacion": "IDENTITY es mi primer juego de novela de aventuras sobre una historia que estoy escribiendo desde 2001. Tres ubicaciones principales, alrededor de 25 pantallas diferentes y muchos sitios de texto traducidos de mi novela original llamada \"das grab eines dichters/ the grave of a escritor\". La historia: Eres un psicoterapeuta con una casa solitaria cerca de un peque\u00f1o pueblo y entre un bonito paisaje natural, inspeccionando algunos secretos... Pero la aparici\u00f3n de un extra\u00f1o paciente lo cambia todo. \u00a1ESCAPA de la novela y descubre tu verdadera IDENTIDAD!",
          "Desde": "",
@@ -1090,6 +1070,16 @@
          "IMG": "https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg",
          "Distribuidora": "Epic Game",
          "Borde": "border-color: #ff9600;"
+      },
+      {
+         "Nombre": "Leawo Photo Enlarger Key Free (100% Discount)",
+         "Informacion": "\u00bfAlguna vez tomaste una foto favorita pero te diste cuenta de que estaba demasiado borrosa y no pod\u00edas publicarla en l\u00ednea? O tienes una c\u00e1mara vieja que ya no puede tomar una buena fotograf\u00eda. Deje de preocuparse por la resoluci\u00f3n de la imagen: mejore las im\u00e1genes y actualice sus instant\u00e1neas de baja resoluci\u00f3n con la ayuda de Leawo Photo Enlarger. Como sugiere el nombre, esta herramienta es una aplicaci\u00f3n de edici\u00f3n de fotograf\u00edas dise\u00f1ada para ayudarlo a mejorar la resoluci\u00f3n de la imagen y ampliarla y mejorarla a una mayor calidad a una velocidad 5 veces mayor.",
+         "Desde": "",
+         "Hasta": "2026/10/05 00:00",
+         "URL": "https://giveaway.tickcoupon.com/leawo-photo-enlarger-free-license-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/09/leawo-photo-enlarger-license-key.jpg",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
       },
       {
          "Nombre": "Overcome Your Fears - Caretaker [DEMO] by markuwaaaaa",
