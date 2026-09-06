@@ -1,146 +1,6 @@
 {
-   "date_update": "05 Sep 2026 16:39 UTC",
+   "date_update": "06 Sep 2026 16:39 UTC",
    "values": [
-      {
-         "Nombre": "False Title - RPG by S Xavier Uy",
-         "Informacion": "Tenji fue transportado a otro mundo, es un mundo diferente comparado con su lugar donde vive habitualmente. Las cosas son bastante complicadas en este mundo, hay conflictos, invasi\u00f3n de demonios, etc., \u00bfalguien como Tenji podr\u00eda adaptarse a este nuevo entorno? De vuelta en su mundo, Tenji ya domina la adaptabilidad, una de las partes m\u00e1s importantes del conocimiento humano.",
-         "Desde": "",
-         "Hasta": "2026/09/05 10:33",
-         "URL": "https://s-xavier-uy.itch.io/false-title",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDU0NjExMC8yNzA5Nzg3Mi5naWY=/original/KGZar%2F.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 96%, yellow 96%) 1;"
-      },
-      {
-         "Nombre": "Duskhold by ForsakenMike",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/05 12:00",
-         "URL": "https://forsakenmike.itch.io/duskhold",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDM5MzQ2My8yNjc4MTI2NC5wbmc=/347x500/4zn9yI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
-      },
-      {
-         "Nombre": "Zomborot by FATHER",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/05 15:18",
-         "URL": "https://fatheronstream.itch.io/zomborot",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDkzOTc3Ni8yOTU0NjcyOC5wbmc=/347x500/zTnDkU.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 76%, yellow 76%) 1;"
-      },
-      {
-         "Nombre": "Evergreen Meadows by DREAMDEV",
-         "Informacion": "[--------DEMOSTRACI\u00d3N-GRATUITA-BAJO\u00f0\u00f0\u00bd---------]",
-         "Desde": "",
-         "Hasta": "2026/09/05 17:01",
-         "URL": "https://dreamdev1.itch.io/evergreen-meadows",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2NTE3OS8yODkzOTM4NS5naWY=/original/8RnJ79.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
-      },
-      {
-         "Nombre": "At Sixes And Sevens Case I by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/05 19:50",
-         "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzQxMTk0OS8yMDM2NDY4OS5wbmc=/347x500/tF9pkl.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
-      },
-      {
-         "Nombre": "DON\u00e2\u0080\u0099T DO IT by Worst Event Games, MetaMagicShaman",
-         "Informacion": "Un juego corto sobre la tentaci\u00f3n de tomar una raya de \"polvo\" en un ba\u00f1o, ofrecido por una bella desconocida en una fiesta salvaje.",
-         "Desde": "",
-         "Hasta": "2026/09/05 19:50",
-         "URL": "https://worsteventgames.itch.io/dont-do-it",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDI2Mzc3NC8yNTQzMzI0OS5qcGc=/347x500/t8qQci.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
-      },
-      {
-         "Nombre": "The Enemy by Worst Event Games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/05 19:50",
-         "URL": "https://worsteventgames.itch.io/the-enemy",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDY2OTc5My8yNzg1MTk3NS5qcGc=/347x500/Arq%2FUv.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
-      },
-      {
-         "Nombre": "Very Realistic Game Dev Simulator by Worst Event Games",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/05 19:50",
-         "URL": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzg1ODI4My8yMzAzMTAyOS5qcGc=/347x500/g94CdL.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 57%, yellow 57%) 1;"
-      },
-      {
-         "Nombre": "Parasitoide by Lucas R.",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/05 20:38",
-         "URL": "https://vannys.itch.io/parasitoide",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDczNDc0OS8yODYwMDE0Mi5wbmc=/347x500/Z3XpeI.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
-      },
-      {
-         "Nombre": "Warren Void by TangOStudios",
-         "Informacion": "Warren Void es un ambicioso proyecto desarrollado por Tang-O Studio, un desarrollador universitario en solitario de 17 a\u00f1os. Warren Void ofrece a los jugadores una jugabilidad bastante diversa con una est\u00e9tica divertida y caricaturesca, que combina un toque de terror, acci\u00f3n y estrategia. \u00a1Resuelve acertijos, sobrevive a los enemigos y descubre m\u00e1s sobre la historia de este nuevo mundo! Este juego a\u00fan est\u00e1 en desarrollo y se actualizar\u00e1 cap\u00edtulo a cap\u00edtulo. Actualmente cuenta con:",
-         "Desde": "",
-         "Hasta": "2026/09/05 21:57",
-         "URL": "https://tangostudios.itch.io/warren-void",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDgwNzEyOS8yOTA2NjE4OS5wbmc=/347x500/QVCRkf.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
-      },
-      {
-         "Nombre": "Another World Adventures by S Xavier Uy",
-         "Informacion": "Tres estudiantes de secundaria fueron transportados a otro mundo. Shuichiro, el raro al que le encanta usar mascota, Takeshi, el popular llamado pr\u00edncipe del tenis en la escuela, y Tosaka, la chica tranquila. Han sido enviados a un bosque desconocido sin tener ninguna pista y uno de ellos se convirti\u00f3 en un duende, sin conocimiento actual, \u00bfc\u00f3mo superar\u00e1n todo esto?",
-         "Desde": "",
-         "Hasta": "2026/09/05 23:09",
-         "URL": "https://s-xavier-uy.itch.io/another-world-adventures",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjg5MTAzNi8yNzA5NDQ2OC5naWY=/original/sHljjG.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "Reincarnated as a Noble - RPG by S Xavier Uy",
-         "Informacion": "Da la casualidad de que todav\u00eda no est\u00e1 claro c\u00f3mo muri\u00f3, todo parece estar escrito incluso hasta el final... \u00bfqu\u00e9 tipo de vida vivi\u00f3? Al final las Diosas deciden reencarnarlo en otro mundo pero sin que tenga ninguna magia en la que confiar, en un mundo donde todos los seres pose\u00edan magia. \u00bfQu\u00e9 har\u00e1?",
-         "Desde": "",
-         "Hasta": "2026/09/05 23:09",
-         "URL": "https://s-xavier-uy.itch.io/reincarnated-as-a-noble",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMTI2MzExNC85MzgzMzE5LmdpZg==/original/0xkVJQ.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 44%, yellow 44%) 1;"
-      },
-      {
-         "Nombre": "The Last Laugh by One Deep",
-         "Informacion": "La ciudad est\u00e1 cerrada. Vas a bombardear de todos modos.",
-         "Desde": "",
-         "Hasta": "2026/09/06 05:24",
-         "URL": "https://one-deep.itch.io/the-last-laugh",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDg0NjA4My8yOTAxOTk0Ny5wbmc=/347x500/1p10ig.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 18%, yellow 18%) 1;"
-      },
-      {
-         "Nombre": "Deep Miner (Early Access) by FPV EXTREME",
-         "Informacion": "Este es un juego de miner\u00eda submarina actualmente en desarrollo.",
-         "Desde": "",
-         "Hasta": "2026/09/06 06:03",
-         "URL": "https://fpv-extreme.itch.io/deep-miner-early-access",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDcwNTAyNi8yODMyMjc4My5wbmc=/347x500/YfZOQ0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
       {
          "Nombre": "BABUZI by vanbee",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
@@ -149,7 +9,7 @@
          "URL": "https://vanbee.itch.io/babuzi",
          "IMG": "https://img.itch.zone/aW1nLzI2NjE5MjY1LmdpZg==/original/XEpjvg.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "Elevator Inferno by vanbee",
@@ -159,7 +19,7 @@
          "URL": "https://vanbee.itch.io/elevator-inferno",
          "IMG": "https://img.itch.zone/aW1nLzI3MzAwNjQyLnBuZw==/347x500/OwwFDE.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "MAZE by vanbee",
@@ -169,7 +29,7 @@
          "URL": "https://vanbee.itch.io/maze",
          "IMG": "https://img.itch.zone/aW1nLzI2NjE3NDYwLmdpZg==/original/4navdL.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "ME NAME BRAAA by vanbee",
@@ -179,7 +39,7 @@
          "URL": "https://vanbee.itch.io/me-name-braaa",
          "IMG": "https://img.itch.zone/aW1nLzI3MjUzOTA0LmdpZg==/original/oG%2FO%2Bl.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 90%, yellow 90%) 1;"
       },
       {
          "Nombre": "Lost In Transit by Boxer Gaming",
@@ -189,7 +49,7 @@
          "URL": "https://boxer-gaming.itch.io/lost-in-transit",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDc2NTM0Ni8yODc4ODIzOS5wbmc=/347x500/q2UCKA.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 65%, yellow 65%) 1;"
       },
       {
          "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
@@ -199,7 +59,7 @@
          "URL": "https://roega.itch.io/euli-beuli-run",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzQzMTA3MS8yMDQ3MjA4OS5wbmc=/347x500/%2BvMYk0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
       },
       {
          "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
@@ -209,7 +69,7 @@
          "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDI2MTg4Ny8yNTM5OTI3My5qcGc=/347x500/YWtTyA.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
       },
       {
          "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
@@ -219,7 +79,17 @@
          "URL": "https://roega.itch.io/super-euli-beuli",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzg5ODc5NC8yMzU3NTYwOS5wbmc=/347x500/egiA2y.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 62%, yellow 62%) 1;"
+      },
+      {
+         "Nombre": "Ballistyx by muckypaws",
+         "Informacion": "Ballistyx ha vuelto.",
+         "Desde": "",
+         "Hasta": "2026/09/06 21:58",
+         "URL": "https://muckypaws.itch.io/ballistyx",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk3NjYyMi8yOTc4NzI3Ni5wbmc=/347x500/ETvPqS.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-image: linear-gradient(to right, red 49%, yellow 49%) 1;"
       },
       {
          "Nombre": "Flunked by OledEye",
@@ -229,7 +99,7 @@
          "URL": "https://oledeye.itch.io/flunked",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDc2Nzg0NS8yOTAwMDYxMC5wbmc=/347x500/CeYhCl.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Vovsoft SVG Converter (100% Discount) License Free",
@@ -239,7 +109,7 @@
          "URL": "https://giveaway.tickcoupon.com/vovsoft-svg-converter-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/05/vovsoft-svg-converter.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 23%, yellow 23%) 1;"
       },
       {
          "Nombre": "The Killer Bunny by NORTH SIGNAL",
@@ -249,7 +119,7 @@
          "URL": "https://northsignal.itch.io/the-killer-bunny",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDc2MDgwMy8yODU2OTA3OC5wbmc=/347x500/uFpzm5.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
       },
       {
          "Nombre": "PrivaZer PRO",
@@ -259,7 +129,7 @@
          "URL": "https://sharewareonsale.com/s/free-privazer-pro-100-discount",
          "IMG": "https:/wp-content/uploads/2024/11/e4ebdd23de7627257f95991acf89ac85.png?9848",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
       },
       {
          "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
@@ -318,6 +188,16 @@
          "Hasta": "2026/09/07 19:00",
          "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDQwNTc3MC8yNjMzNzcyNC5wbmc=/347x500/MsAdij.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Tres Chronicles by WIlliamJJJJJJJJ",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/07 22:00",
+         "URL": "https://williamjjjjjjjj.itch.io/tres-chronicles",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDc1ODM4OC8yOTc5MTIyMi5wbmc=/347x500/Cc3yoG.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -532,6 +412,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Parasitoide by Lucas R.",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/12 20:38",
+         "URL": "https://vannys.itch.io/parasitoide",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDczNDc0OS8yODYwMDE0Mi5wbmc=/347x500/Z3XpeI.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "THE MIDNIGHT BUS by itandfeel",
          "Informacion": "UN JUEGO CORTO DE TERROR",
          "Desde": "",
@@ -552,12 +442,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "No One Inside by PHOENIX'sZone",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/13 08:29",
+         "URL": "https://phoenixszone.itch.io/no-one-inside",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDU4MDYyMS8yNzkzNTI4Ny5wbmc=/347x500/Tcvh%2BD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "The Only Rule by zelthryan",
          "Informacion": "Est\u00e1s atrapado en un laberinto oscuro.",
          "Desde": "",
          "Hasta": "2026/09/13 11:29",
          "URL": "https://zelthryan.itch.io/the-only-rule",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDkwMjU5Mi8yOTM1MzkyNC5wbmc=/347x500/HlHaGC.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Liminal Space Holiday by Ravenhome",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/13 12:45",
+         "URL": "https://ravenhome.itch.io/liminal-space-holiday",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDg0NDU2OS8yODkzMDkxOS5wbmc=/347x500/ODFC%2By.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -572,12 +482,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Weapon Rearing by JIYUTORISEI",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/13 17:00",
+         "URL": "https://jiyutorisei.itch.io/weapon-rearing",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzMyMTc1MS8xOTgzNjMxNS5qcGc=/347x500/BUciKX.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "HOUSE CLEANER by Tabarnaq Games",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
          "Hasta": "2026/09/13 18:00",
          "URL": "https://tabarnaqgames.itch.io/house-cleaner",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDkzODM5MS8yOTU0NTIyOC5wbmc=/347x500/m1HPmw.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Univocity by Novaerc",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/13 23:59",
+         "URL": "https://novaerc.itch.io/univocity",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzI2MTQyMS8xOTQ3MDIyNC5qcGc=/347x500/LJKzBE.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -712,6 +642,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/19 00:54",
+         "URL": "https://worsteventgames.itch.io/cherophobia",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Do You Have a Moment to Talk About Our Lord and Savior? by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
          "Informacion": "Como misionero, vas a difundir tu mensaje a un hombre malvado.",
          "Desde": "",
@@ -722,12 +662,42 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Cherophobia by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Nombre": "The Enemy by Worst Event Games",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
          "Hasta": "2026/09/19 00:54",
-         "URL": "https://worsteventgames.itch.io/cherophobia",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjY4MDc3MC8xODQ0MjI3NC5qcGc=/347x500/0j4ylh.jpg",
+         "URL": "https://worsteventgames.itch.io/the-enemy",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDY2OTc5My8yNzg1MTk3NS5qcGc=/347x500/Arq%2FUv.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DON\u00e2\u0080\u0099T DO IT by Worst Event Games, MetaMagicShaman",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/19 00:54",
+         "URL": "https://worsteventgames.itch.io/dont-do-it",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDI2Mzc3NC8yNTQzMzI0OS5qcGc=/347x500/t8qQci.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Very Realistic Game Dev Simulator by Worst Event Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/19 00:54",
+         "URL": "https://worsteventgames.itch.io/very-realistic-game-dev-simulator",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzg1ODI4My8yMzAzMTAyOS5qcGc=/347x500/g94CdL.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "At Sixes And Sevens Case I by Worst Event Games, MetaMagicShaman, Mehran Goudarzi",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/19 00:54",
+         "URL": "https://worsteventgames.itch.io/at-sixes-and-sevens",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzQxMTk0OS8yMDM2NDY4OS5wbmc=/347x500/tF9pkl.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1079,6 +1049,16 @@
          "URL": "https://giveaway.tickcoupon.com/leawo-photo-enlarger-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/09/leawo-photo-enlarger-license-key.jpg",
          "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Last Laugh by One Deep",
+         "Informacion": "La ciudad est\u00e1 cerrada. Vas a bombardear de todos modos.",
+         "Desde": "",
+         "Hasta": "2026/10/06 05:24",
+         "URL": "https://one-deep.itch.io/the-last-laugh",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDg0NjA4My8yOTAxOTk0Ny5wbmc=/347x500/1p10ig.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
