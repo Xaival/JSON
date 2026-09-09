@@ -1,136 +1,6 @@
 {
-   "date_update": "08 Sep 2026 16:41 UTC",
+   "date_update": "09 Sep 2026 16:35 UTC",
    "values": [
-      {
-         "Nombre": "Emily_ by TETRABYTE",
-         "Informacion": "LA IA OLVIDADA",
-         "Desde": "",
-         "Hasta": "2026/09/08 09:52",
-         "URL": "https://tetrabyte.itch.io/emily",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzU0MTcxMy8yMTA5MDk3Ny5wbmc=/347x500/uYhhno.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Bride of Karsaz by imranaziz",
-         "Informacion": "Bride of Karsaz es un juego corto de terror basado en un aterrador viaje nocturno que sale terriblemente mal.",
-         "Desde": "",
-         "Hasta": "2026/09/08 21:00",
-         "URL": "https://imranaziz.itch.io/bride-of-karsaz",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDg0MjI0Ni8yODkxNzI3NC5naWY=/original/lYCOiw.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 53%, yellow 53%) 1;"
-      },
-      {
-         "Nombre": "Coolmuster ePub Converter Free (100% Discount)",
-         "Informacion": "\u00bfEst\u00e1 buscando el mejor software de creaci\u00f3n de libros electr\u00f3nicos que le ayude a publicar su nuevo libro electr\u00f3nico? No busque m\u00e1s, Coolmuster ePub Converter, uno de los mejores creadores de ePub para Windows y Mac, que est\u00e1 aqu\u00ed para satisfacer todas sus necesidades de conversi\u00f3n. Con soporte para m\u00e1s de cinco formatos populares (.doc, .pdf, .html, .txt, .mobi, etc.), puede crear f\u00e1cilmente libros electr\u00f3nicos ePub para leer en cualquier dispositivo port\u00e1til. \u00bfNecesita convertir varios documentos de forma masiva? Gracias a la tecnolog\u00eda avanzada, Coolmuster ePub Converter puede convertir un documento de 500 p\u00e1ginas en un libro electr\u00f3nico ePub en menos de 1 minuto.",
-         "Desde": "",
-         "Hasta": "2026/09/09 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-epub-converter-pro-free-key/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/07/epub-converter-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
-      },
-      {
-         "Nombre": "Imp & Angel by SVP Games",
-         "Informacion": "05/11/2025: \u00a1Se ha a\u00f1adido un nuevo DLC!",
-         "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/imp-angel",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjk0MDE2My8yMzk1NTY4Ny5wbmc=/347x500/vARlgk.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "Live 2 Shred by SVP Games",
-         "Informacion": "Live 2 Shred es un juego casual basado en deportes extremos. \u00a1Elige entre 12* personajes, 12 etapas diferentes, 5 modos de juego diferentes! Compatible con el controlador Xbox**",
-         "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/live-2-shred",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjU2MjMxNi8yMTU1Mjk4OC5wbmc=/347x500/ndMIbo.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "Nightly Special by SVP Games",
-         "Informacion": "Este juego de fiesta de mundo abierto tiene 5 minijuegos:",
-         "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/nightly-special",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjc1NTMyNC8xNzkxNzA1NS5wbmc=/347x500/BRa7Pj.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "Robot/Kaiju Beatdown by SVP Games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/robotkaiju-beatdown",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMjQ0MzA1OC8xODE3OTkyMS5wbmc=/347x500/P9UPMh.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "Sherbie\u00e2\u0084\u00a2 by SVP Games",
-         "Informacion": "\u00a1Juega como Sherbie, el h\u00e9roe del helado suave! \u00a1\u00a1\u00a1Viaja por las afueras de la galaxia y det\u00e9n a los Big Bad 6 en este juego de plataformas!!! Este juego tiene:",
-         "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/sherbie",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzYxMDI4Ny8yMTQ5MDU1MS5wbmc=/347x500/TG92do.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "Shut The Box by SVP Games",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/09 05:59",
-         "URL": "https://svp-games.itch.io/shut-the-box",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzY1NDcxOC8yMTc0NzM4Ni5wbmc=/347x500/2XbpiA.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 15%, yellow 15%) 1;"
-      },
-      {
-         "Nombre": "OCR Reader",
-         "Informacion": "Convierta im\u00e1genes y archivos PDF a texto sin conexi\u00f3n con OCR Reader. Con tecnolog\u00eda de Tesseract, ofrece procesamiento por lotes seguro, compatibilidad con varios idiomas y detecci\u00f3n de dise\u00f1o personalizado para un escaneo preciso de documentos de escritorio.",
-         "Desde": "",
-         "Hasta": "2026/09/09 07:00",
-         "URL": "https://sharewareonsale.com/s/free-ocr-reader-100-discount",
-         "IMG": "https:/wp-content/uploads/2023/01/ocr-reader.png?9848",
-         "Distribuidora": "SharewareOnSale",
-         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
-      },
-      {
-         "Nombre": "AnyHeic - Heic Photo Converter for Win",
-         "Informacion": "*** \u00a1Buenas noticias! Vertexshare Limited acord\u00f3 extender este acuerdo por un d\u00eda m\u00e1s. \u00a1Disfr\u00fatelo! ***",
-         "Desde": "",
-         "Hasta": "2026/09/09 09:00",
-         "URL": "https://www.bitsdujour.com/software/anyheic-heic-photo-converter-for-win/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/anyheic-heic-photo-converter-for-win-z5woi.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
-      },
-      {
-         "Nombre": "PDF to X",
-         "Informacion": "Convierta PDF por lotes a m\u00faltiples formatos, incluidas im\u00e1genes",
-         "Desde": "",
-         "Hasta": "2026/09/09 09:00",
-         "URL": "https://www.bitsdujour.com/software/pdf-to-x/in=upcoming-freebies",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/pdf-to-x-aavy8.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
-      },
-      {
-         "Nombre": "Space Adventure - 2D Sci-Fi Exploration Game by Ahsan Makes Games",
-         "Informacion": "\u00f0 Aventura espacial: \u00a1tu \u00e9pico corredor c\u00f3smico sin fin! \u00f0",
-         "Desde": "",
-         "Hasta": "2026/09/09 09:12",
-         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzA5Mjc1OS8xODQ5Mjk2Ni5wbmc=/347x500/ftqiSW.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
-      },
       {
          "Nombre": "Dicey Chess by Ibrahim Oezhan",
          "Informacion": "Un juego de ajedrez en el que el lanzamiento de los dados decide hasta d\u00f3nde puedes llegar. Juega contra una IA o contra un amigo en l\u00ednea o en la red local.",
@@ -139,7 +9,7 @@
          "URL": "https://ibrahim-oezhan.itch.io/dicey-chess",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM2OTUyMS8xODcyMjQ4Mi5wbmc=/347x500/LmvzYE.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 42%, yellow 42%) 1;"
       },
       {
          "Nombre": "Coolmuster SignPub Key Free (100% Discount)",
@@ -149,7 +19,7 @@
          "URL": "https://giveaway.tickcoupon.com/coolmuster-signpub-license-key-free/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2022/08/coolmuster-signpub.png",
          "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Corporate Color Correction Pack",
@@ -159,7 +29,17 @@
          "URL": "https://sharewareonsale.com/s/free-corporate-color-correction-pack-100-discount",
          "IMG": "https:/wp-content/uploads/2026/01/main-min-3-scaled-1.jpg?9848",
          "Distribuidora": "SharewareOnSale",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 11%, yellow 11%) 1;"
+      },
+      {
+         "Nombre": "PDF to X",
+         "Informacion": "Convierta PDF por lotes a m\u00faltiples formatos, incluidas im\u00e1genes",
+         "Desde": "",
+         "Hasta": "2026/09/10 09:00",
+         "URL": "https://www.bitsdujour.com/software/pdf-to-x/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/pdf-to-x-aavy8.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 2%, yellow 2%) 1;"
       },
       {
          "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
@@ -178,6 +58,16 @@
          "Hasta": "2026/09/10 15:49",
          "URL": "https://premo-studios.itch.io/ember-keep",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDk3OTA1OC8yOTgwMzg0NC5wbmc=/347x500/2RklB3.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "CME2: Rep of Accident by Justyxxx",
+         "Informacion": "Para sobrevivir a la \"Rep\u00fablica del Accidente\" de la d\u00e9cada de 1990, comienza usando la pasarela de conexi\u00f3n del segundo piso para jugar minijuegos aleatorios y ganar algo de dinero. Luego, ahorra diez millones de yenes antes del d\u00eda 518 para escapar del caos de los muchos accidentes de los 90 con apuestas, etc.",
+         "Desde": "",
+         "Hasta": "2026/09/10 16:10",
+         "URL": "https://justyxxx.itch.io/cme2",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDkxNjEwMy8yOTQwNzY0OS5wbmc=/347x500/gwc4ls.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -212,6 +102,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
+         "Informacion": "Euli Beuli CORRER",
+         "Desde": "",
+         "Hasta": "2026/09/12 00:00",
+         "URL": "https://roega.itch.io/euli-beuli-run",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzQzMTA3MS8yMDQ3MjA4OS5wbmc=/347x500/%2BvMYk0.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
          "Informacion": "Euli Beuli STRIKE: \u00a1el nuevo servicio es el sucesor completamente renovado de Euli Beuli STRIKE! STRIKE se trataba de jugar pong con un amigo en una pantalla: \u00a1una nueva versi\u00f3n del juego de mesa!",
          "Desde": "",
@@ -228,16 +128,6 @@
          "Hasta": "2026/09/12 00:00",
          "URL": "https://roega.itch.io/super-euli-beuli",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzg5ODc5NC8yMzU3NTYwOS5wbmc=/347x500/egiA2y.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Euli Beuli CORRER",
-         "Desde": "",
-         "Hasta": "2026/09/12 00:00",
-         "URL": "https://roega.itch.io/euli-beuli-run",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzQzMTA3MS8yMDQ3MjA4OS5wbmc=/347x500/%2BvMYk0.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -372,6 +262,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "DUELIX by Ethan Uzii",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/13 20:30",
+         "URL": "https://ethan-uzii.itch.io/duelix",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDA5ODIxMi8yNzQ5ODc0My5wbmc=/347x500/fhfP5S.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Univocity by Novaerc",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
@@ -422,6 +322,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Coolmuster Data Erasure (100% Discount) 1 Year Key",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/15 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-data-erasure-free-license-code/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2025/03/coolmuster-data-erasure-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Leawo Photo Enhancer 1-Year Free (100% Discount)",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
@@ -438,16 +348,6 @@
          "Hasta": "2026/09/15 00:00",
          "URL": "https://giveaway.tickcoupon.com/leawo-video-converter-free-license-key/",
          "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/05/leawo-video-converter-box.png",
-         "Distribuidora": "Tickcoupon Giveaway",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Coolmuster Data Erasure (100% Discount) 1 Year Key",
-         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
-         "Desde": "",
-         "Hasta": "2026/09/15 00:00",
-         "URL": "https://giveaway.tickcoupon.com/coolmuster-data-erasure-free-license-code/",
-         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2025/03/coolmuster-data-erasure-box.png",
          "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
@@ -479,6 +379,16 @@
          "URL": "https://requiem-games-xoxo.itch.io/the-night-tickler",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDg5ODU5MC8yOTI4NDMwNS5wbmc=/347x500/GiKsjW.png",
          "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Coolmuster PDF Password Remover (100% Discount)",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/16 00:00",
+         "URL": "https://giveaway.tickcoupon.com/coolmuster-pdf-password-remover-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2023/08/pdf-password-remover-box.png",
+         "Distribuidora": "Tickcoupon Giveaway",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -928,6 +838,16 @@
          "Hasta": "2026/09/30 19:50",
          "URL": "https://gamebuegar.itch.io/colonyadventure",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDMzMTg1NC8yNzUyOTg2Mi5wbmc=/347x500/CG0Xmc.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Bride of Karsaz by imranaziz",
+         "Informacion": "Bride of Karsaz es un juego corto de terror basado en un aterrador viaje nocturno que sale terriblemente mal.",
+         "Desde": "",
+         "Hasta": "2026/09/30 21:00",
+         "URL": "https://imranaziz.itch.io/bride-of-karsaz",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDg0MjI0Ni8yODkxNzI3NC5naWY=/original/lYCOiw.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
