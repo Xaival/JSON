@@ -1,66 +1,6 @@
 {
-   "date_update": "10 Sep 2026 16:41 UTC",
+   "date_update": "11 Sep 2026 16:38 UTC",
    "values": [
-      {
-         "Nombre": "Project: Reborn - Extraction by bkgamingstudio",
-         "Informacion": "Proyecto: Reborn - Extracci\u00f3n",
-         "Desde": "",
-         "Hasta": "2026/09/10 10:00",
-         "URL": "https://bkgamingstudio.itch.io/project-reborn-extraction",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDU4MzEyMS8yNzMwNDUxMi5qcGc=/347x500/vSptZK.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 99%, yellow 99%) 1;"
-      },
-      {
-         "Nombre": "Ember Keep by Premo Studios",
-         "Informacion": "Un divertido juego de niveles retro",
-         "Desde": "",
-         "Hasta": "2026/09/10 15:49",
-         "URL": "https://premo-studios.itch.io/ember-keep",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDk3OTA1OC8yOTgwMzg0NC5wbmc=/347x500/2RklB3.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 74%, yellow 74%) 1;"
-      },
-      {
-         "Nombre": "CME2: Rep of Accident by Justyxxx",
-         "Informacion": "Para sobrevivir a la \"Rep\u00fablica del Accidente\" de la d\u00e9cada de 1990, comienza usando la pasarela de conexi\u00f3n del segundo piso para jugar minijuegos aleatorios y ganar algo de dinero. Luego, ahorra diez millones de yenes antes del d\u00eda 518 para escapar del caos de los muchos accidentes de los 90 con apuestas, etc.",
-         "Desde": "",
-         "Hasta": "2026/09/10 16:10",
-         "URL": "https://justyxxx.itch.io/cme2",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDkxNjEwMy8yOTQwNzY0OS5wbmc=/347x500/gwc4ls.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 73%, yellow 73%) 1;"
-      },
-      {
-         "Nombre": "Alone With You",
-         "Informacion": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
-         "Desde": "2026/09/03",
-         "Hasta": "2026/09/10 17:00",
-         "URL": "https://store.epicgames.com/p/alone-with-you-028a15",
-         "IMG": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
-         "Distribuidora": "Epic Game",
-         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
-      },
-      {
-         "Nombre": "Lord of Chaos by Hexnut Studios",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/10 19:00",
-         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDQwNTc3MC8yNjMzNzcyNC5wbmc=/347x500/MsAdij.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 61%, yellow 61%) 1;"
-      },
-      {
-         "Nombre": "Memory 12 by Seld Studios",
-         "Informacion": "\"\u00bfEsa silla siempre estuvo ah\u00ed...?\"",
-         "Desde": "",
-         "Hasta": "2026/09/11 00:33",
-         "URL": "https://seldstudios.itch.io/memory-12",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDc5Mzg0OC8yODU4OTI2My5wbmc=/347x500/qNaGVD.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 38%, yellow 38%) 1;"
-      },
       {
          "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
          "Informacion": "Euli Beuli CORRER",
@@ -69,7 +9,7 @@
          "URL": "https://roega.itch.io/euli-beuli-run",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzQzMTA3MS8yMDQ3MjA4OS5wbmc=/347x500/%2BvMYk0.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
@@ -79,7 +19,7 @@
          "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDI2MTg4Ny8yNTM5OTI3My5qcGc=/347x500/YWtTyA.jpg",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
@@ -89,7 +29,7 @@
          "URL": "https://roega.itch.io/super-euli-beuli",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzg5ODc5NC8yMzU3NTYwOS5wbmc=/347x500/egiA2y.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
       },
       {
          "Nombre": "Final Witness by Hexnut Studios",
@@ -99,7 +39,17 @@
          "URL": "https://hexnut-studios.itch.io/final-witness",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDk3MzA4MS8yOTc2NjQ1Mi5wbmc=/347x500/MWWSMh.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
+      },
+      {
+         "Nombre": "PDF to X",
+         "Informacion": "Convierta PDF por lotes a m\u00faltiples formatos, incluidas im\u00e1genes",
+         "Desde": "",
+         "Hasta": "2026/09/12 09:00",
+         "URL": "https://www.bitsdujour.com/software/pdf-to-x/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/pdf-to-x-aavy8.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
       },
       {
          "Nombre": "OTXO",
@@ -252,6 +202,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Silent Decay by XevoraStudio",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/14 03:53",
+         "URL": "https://xevorastudio.itch.io/silent-decay",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk5MjgwOC8yOTg4ODM2NC5wbmc=/347x500/WejrAD.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Vovsoft XML to CSV Converter (100% Discount)",
          "Informacion": "Vovsoft XML to CSV Converter es una herramienta de conversi\u00f3n potente y profesional que le ayuda a convertir archivos XML (lenguaje de marcado extensible) a formatos CSV (valores separados por comas), XLS y XLSX con solo unos pocos clics. Puede transformar estructuras XML complejas en tablas limpias y legibles que funcionan perfectamente con Excel o Google Sheets.",
          "Desde": "",
@@ -272,12 +232,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Turbo Play Power-User",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/14 07:00",
+         "URL": "https://sharewareonsale.com/s/free-turbo-play-100-discount",
+         "IMG": "https:/wp-content/uploads/2021/05/0-200x109.jpg?9848",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Fancy Farm Brawl by JT HU ENTERTAINMENT",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
          "Hasta": "2026/09/14 10:25",
          "URL": "https://jt-eagle.itch.io/fengshua-farm-story-lite",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDM5MTQwMi8yOTY3MjkxOC5qcGc=/347x500/Ys7fTN.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Lord of Chaos by Hexnut Studios",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/14 19:00",
+         "URL": "https://hexnut-studios.itch.io/lord-of-chaos",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDQwNTc3MC8yNjMzNzcyNC5wbmc=/347x500/MsAdij.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -472,12 +452,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "skl by The Voices Games",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/17 22:35",
+         "URL": "https://thewgreen.itch.io/skl",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk2NjY2NS8yOTcyNTQ0MS5qcGc=/347x500/%2F8GmQj.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Apartment \u00e2\u0084\u0096202 by Boxer Gaming",
          "Informacion": "Apartment \u00e2202 es una breve experiencia de terror psicol\u00f3gico centrada en la atm\u00f3sfera, la tensi\u00f3n y la narraci\u00f3n sutil. Explora un apartamento tranquilo que no se siente bien, resuelve peque\u00f1os acertijos ambientales y descubre fragmentos de una inquietante historia escondida detr\u00e1s de las paredes.",
          "Desde": "",
          "Hasta": "2026/09/17 23:09",
          "URL": "https://boxer-gaming.itch.io/apartment-202",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjkyODgwMS8yNTQzMDY3Ni5wbmc=/347x500/OfDswg.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Atlas Elsewhere by Dancing Dots",
+         "Informacion": "Genera y explora un sinf\u00edn de mundos, cada uno creado enteramente a trav\u00e9s de reglas de procedimiento y ruido en capas.",
+         "Desde": "",
+         "Hasta": "2026/09/18 00:10",
+         "URL": "https://dancingdots.itch.io/atlas-elsewhere",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk2MTIxNi8yOTkwNTg3Ny5wbmc=/347x500/ZYlZMH.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -572,22 +572,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Gamers Club Repeat by S Xavier Uy",
-         "Informacion": "Uha fue una de las personas que sufrieron el impacto de un asteroide y estuvo hospitalizada durante a\u00f1os. \u00bf\u00a1Y ahora, cuando se despierta, hay una mujer desconocida durmiendo junto a \u00e9l!? \u00bfQu\u00e9 le va a hacer esta autoproclamada hermana mayor? Sus amigos ahora estaban en la universidad y uno es un estudiante que trabaja y debido al incidente del asteroide se qued\u00f3 atr\u00e1s en muchas cosas, un repetidor escolar y un jugador contin\u00faan con su estilo de vida.",
-         "Desde": "",
-         "Hasta": "2026/09/20 10:33",
-         "URL": "https://s-xavier-uy.itch.io/gamers-club-repeat",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDU0NzY3Mi8yNzEwNjIwNy5naWY=/original/e0rKux.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
          "Nombre": "False Title - RPG by S Xavier Uy",
          "Informacion": "Tenji fue transportado a otro mundo, es un mundo diferente comparado con su lugar donde vive habitualmente. Las cosas son bastante complicadas en este mundo, hay conflictos, invasiones de demonios, etc. \u00bfAlguien como Tenji podr\u00eda adaptarse a este nuevo entorno? De vuelta en su mundo, Tenji ya domina la adaptabilidad, una de las partes m\u00e1s importantes del conocimiento humano.",
          "Desde": "",
          "Hasta": "2026/09/20 10:33",
          "URL": "https://s-xavier-uy.itch.io/false-title",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDU0NjExMC8yNzA5Nzg3Mi5naWY=/original/KGZar%2F.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Gamers Club Repeat by S Xavier Uy",
+         "Informacion": "Uha fue una de las personas que sufrieron el impacto de un asteroide y estuvo hospitalizada durante a\u00f1os. \u00bf\u00a1Y ahora, cuando se despierta, hay una mujer desconocida durmiendo junto a \u00e9l!? \u00bfQu\u00e9 le va a hacer esta autoproclamada hermana mayor? Sus amigos ahora estaban en la universidad y uno es un estudiante que trabaja y debido al incidente del asteroide se qued\u00f3 atr\u00e1s en muchas cosas, un repetidor escolar y un jugador contin\u00faan con su estilo de vida.",
+         "Desde": "",
+         "Hasta": "2026/09/20 10:33",
+         "URL": "https://s-xavier-uy.itch.io/gamers-club-repeat",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDU0NzY3Mi8yNzEwNjIwNy5naWY=/original/e0rKux.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -632,12 +632,32 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "BABUZI by vanbee",
+         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
+         "Desde": "",
+         "Hasta": "2026/09/21 12:00",
+         "URL": "https://vanbee.itch.io/babuzi",
+         "IMG": "https://img.itch.zone/aW1nLzI2NjE5MjY1LmdpZg==/original/XEpjvg.gif",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Elevator Inferno by vanbee",
          "Informacion": "disfruta tu ca\u00edda",
          "Desde": "",
          "Hasta": "2026/09/21 12:00",
          "URL": "https://vanbee.itch.io/elevator-inferno",
          "IMG": "https://img.itch.zone/aW1nLzI3MzAwNjQyLnBuZw==/347x500/OwwFDE.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "MAZE by vanbee",
+         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
+         "Desde": "",
+         "Hasta": "2026/09/21 12:00",
+         "URL": "https://vanbee.itch.io/maze",
+         "IMG": "https://img.itch.zone/aW1nLzI2NjE3NDYwLmdpZg==/original/4navdL.gif",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -652,22 +672,12 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "BABUZI by vanbee",
-         "Informacion": "Babuzi es un juego inactivo de defensa de torres con actualizaci\u00f3n",
+         "Nombre": "Snakehead by woodchair",
+         "Informacion": "",
          "Desde": "",
-         "Hasta": "2026/09/21 12:00",
-         "URL": "https://vanbee.itch.io/babuzi",
-         "IMG": "https://img.itch.zone/aW1nLzI2NjE5MjY1LmdpZg==/original/XEpjvg.gif",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "MAZE by vanbee",
-         "Informacion": "tal vez est\u00e9s solo en este enorme mapa",
-         "Desde": "",
-         "Hasta": "2026/09/21 12:00",
-         "URL": "https://vanbee.itch.io/maze",
-         "IMG": "https://img.itch.zone/aW1nLzI2NjE3NDYwLmdpZg==/original/4navdL.gif",
+         "Hasta": "2026/09/21 12:48",
+         "URL": "https://woodchair.itch.io/snakehead",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk2NTU3NS8yOTkxMzQxMi5wbmc=/347x500/smLOXw.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -882,12 +892,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
-         "Nombre": "Unseen - Someone [DEMO] by VladisLive Dev",
+         "Nombre": "Eternal Night by VladisLive Dev",
+         "Informacion": "Trama",
+         "Desde": "",
+         "Hasta": "2026/09/30 13:59",
+         "URL": "https://vladislive-dev.itch.io/eternal-night",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzYyNDg2NC8yMTU3MjcwOS5wbmc=/347x500/bkVkQ%2F.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Exit Only by VladisLive Dev",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/09/30 13:59",
-         "URL": "https://vladislive-dev.itch.io/unseen-someone-demo",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDY3OTIyOS8yNzg4NDUwOC5wbmc=/347x500/ExvBs9.png",
+         "URL": "https://vladislive-dev.itch.io/exit-only",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzkwNjM5Ny8yMzMwNTcxNC5wbmc=/347x500/4Bkgba.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -912,32 +932,22 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Unseen - Someone [DEMO] by VladisLive Dev",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/30 13:59",
+         "URL": "https://vladislive-dev.itch.io/unseen-someone-demo",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDY3OTIyOS8yNzg4NDUwOC5wbmc=/347x500/ExvBs9.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Wasteland Alone by VladisLive Dev",
          "Informacion": "",
          "Desde": "",
          "Hasta": "2026/09/30 13:59",
          "URL": "https://vladislive-dev.itch.io/wasteland-alone",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzk2MjYzOS8yMzYyMDc5MS5wbmc=/347x500/63A5s9.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Exit Only by VladisLive Dev",
-         "Informacion": "",
-         "Desde": "",
-         "Hasta": "2026/09/30 13:59",
-         "URL": "https://vladislive-dev.itch.io/exit-only",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzkwNjM5Ny8yMzMwNTcxNC5wbmc=/347x500/4Bkgba.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
-      },
-      {
-         "Nombre": "Eternal Night by VladisLive Dev",
-         "Informacion": "Trama",
-         "Desde": "",
-         "Hasta": "2026/09/30 13:59",
-         "URL": "https://vladislive-dev.itch.io/eternal-night",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzYyNDg2NC8yMTU3MjcwOS5wbmc=/347x500/bkVkQ%2F.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
