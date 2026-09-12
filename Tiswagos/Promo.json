@@ -1,56 +1,6 @@
 {
-   "date_update": "11 Sep 2026 16:38 UTC",
+   "date_update": "12 Sep 2026 16:40 UTC",
    "values": [
-      {
-         "Nombre": "Euli Beuli RUN by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Euli Beuli CORRER",
-         "Desde": "",
-         "Hasta": "2026/09/12 00:00",
-         "URL": "https://roega.itch.io/euli-beuli-run",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzQzMTA3MS8yMDQ3MjA4OS5wbmc=/347x500/%2BvMYk0.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
-      },
-      {
-         "Nombre": "Euli Beuli STRIKE - new serve by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "Euli Beuli STRIKE: \u00a1el nuevo servicio es el sucesor completamente renovado de Euli Beuli STRIKE! STRIKE se trataba de jugar pong con un amigo en una pantalla: \u00a1una nueva versi\u00f3n del juego de mesa!",
-         "Desde": "",
-         "Hasta": "2026/09/12 00:00",
-         "URL": "https://roega.itch.io/euli-beuli-strike-new-serve",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDI2MTg4Ny8yNTM5OTI3My5qcGc=/347x500/YWtTyA.jpg",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
-      },
-      {
-         "Nombre": "SUPER Euli Beuli by ROEGA\u00e2\u0084\u00a2",
-         "Informacion": "\u00a1\u00danete a Euli Beuli en una emocionante aventura!",
-         "Desde": "",
-         "Hasta": "2026/09/12 00:00",
-         "URL": "https://roega.itch.io/super-euli-beuli",
-         "IMG": "https://img.itch.zone/aW1hZ2UvMzg5ODc5NC8yMzU3NTYwOS5wbmc=/347x500/egiA2y.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 40%, yellow 40%) 1;"
-      },
-      {
-         "Nombre": "Final Witness by Hexnut Studios",
-         "Informacion": "Basado en una LLAMADA al 911.",
-         "Desde": "",
-         "Hasta": "2026/09/12 00:42",
-         "URL": "https://hexnut-studios.itch.io/final-witness",
-         "IMG": "https://img.itch.zone/aW1hZ2UvNDk3MzA4MS8yOTc2NjQ1Mi5wbmc=/347x500/MWWSMh.png",
-         "Distribuidora": "Itch io",
-         "Borde": "border-image: linear-gradient(to right, red 37%, yellow 37%) 1;"
-      },
-      {
-         "Nombre": "PDF to X",
-         "Informacion": "Convierta PDF por lotes a m\u00faltiples formatos, incluidas im\u00e1genes",
-         "Desde": "",
-         "Hasta": "2026/09/12 09:00",
-         "URL": "https://www.bitsdujour.com/software/pdf-to-x/in=today-100-percent",
-         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/pdf-to-x-aavy8.png",
-         "Distribuidora": "BitsDuJour",
-         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
-      },
       {
          "Nombre": "OTXO",
          "Informacion": "Entra en una mansi\u00f3n inexplicable y abstracta para rescatar a un ser querido en este roguelite trepidante, brutal y oscuro con tiroteos precisos pero despiadados y una c\u00e1mara lenta que desaf\u00eda las leyes del tiempo.",
@@ -59,7 +9,7 @@
          "URL": "https://store.epicgames.com/p/otxo-396b8b",
          "IMG": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
          "Distribuidora": "Epic Game",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 69%, yellow 69%) 1;"
       },
       {
          "Nombre": "Night of the Duat by Phantom Drive",
@@ -69,7 +19,7 @@
          "URL": "https://phantom-drive.itch.io/night-of-the-duat",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDYzNDkyOC8yNzYxOTQyOC5wbmc=/347x500/epl36y.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 67%, yellow 67%) 1;"
       },
       {
          "Nombre": "Parasitoide by Lucas R.",
@@ -79,7 +29,7 @@
          "URL": "https://vannys.itch.io/parasitoide",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDczNDc0OS8yODYwMDE0Mi5wbmc=/347x500/Z3XpeI.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 54%, yellow 54%) 1;"
       },
       {
          "Nombre": "THE MIDNIGHT BUS by itandfeel",
@@ -89,7 +39,7 @@
          "URL": "https://itandfeel.itch.io/the-midnight-bus",
          "IMG": "https://img.itch.zone/aW1hZ2UvMjM5MzE1OS8xNjQ5MDI2Ni5naWY=/original/r1sH16.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 46%, yellow 46%) 1;"
       },
       {
          "Nombre": "Crank Racing! by Anomalous",
@@ -99,7 +49,7 @@
          "URL": "https://anomalous-games.itch.io/crank-racing",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDY1MTI2MS8yNzcyOTUyMi5naWY=/original/1k0V2p.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 36%, yellow 36%) 1;"
       },
       {
          "Nombre": "MANDATO by SolitaryStudios, Nest Games",
@@ -109,7 +59,7 @@
          "URL": "https://solitarystudios.itch.io/mandato",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDk4MzA0My8yOTgzNDk5OC5naWY=/original/QNqCCz.gif",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 35%, yellow 35%) 1;"
       },
       {
          "Nombre": "No One Inside by PHOENIX'sZone",
@@ -119,7 +69,17 @@
          "URL": "https://phoenixszone.itch.io/no-one-inside",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDU4MDYyMS8yNzkzNTI4Ny5wbmc=/347x500/Tcvh%2BD.png",
          "Distribuidora": "Itch io",
-         "Borde": "border-color: #00ff00;"
+         "Borde": "border-image: linear-gradient(to right, red 5%, yellow 5%) 1;"
+      },
+      {
+         "Nombre": "Ashampoo UnInstaller 15",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/13 09:00",
+         "URL": "https://www.bitsdujour.com/software/ashampoo-uninstaller-15/in=today-100-percent",
+         "IMG": "https://bitsdujourblob.blob.core.windows.net/software/screenshot/ashampoo-uninstaller-15-fgoxg.png",
+         "Distribuidora": "BitsDuJour",
+         "Borde": "border-image: linear-gradient(to right, red 3%, yellow 3%) 1;"
       },
       {
          "Nombre": "The Only Rule by zelthryan",
@@ -202,6 +162,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Warren Void by TangOStudios",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/14 03:52",
+         "URL": "https://tangostudios.itch.io/warren-void",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDgwNzEyOS8yOTA2NjE4OS5wbmc=/347x500/QVCRkf.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Silent Decay by XevoraStudio",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
@@ -248,6 +218,16 @@
          "Hasta": "2026/09/14 10:25",
          "URL": "https://jt-eagle.itch.io/fengshua-farm-story-lite",
          "IMG": "https://img.itch.zone/aW1hZ2UvNDM5MTQwMi8yOTY3MjkxOC5qcGc=/347x500/Ys7fTN.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "BACKROOMS (.EXE) \u00e3\u0083\u0090\u00e3\u0083\u0083\u00e3\u0082\u00af\u00e3\u0083\u00ab\u00e3\u0083\u00bc\u00e3\u0083\u00a0\u00e3\u0082\u00ba (.EXE) by ArgondevilGuiderods",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/14 14:44",
+         "URL": "https://argondevilguiderods.itch.io/liminal",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMTUyMjM1OS85MDIyNzM1LnBuZw==/347x500/Z%2Bz%2BUf.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -302,6 +282,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Final Witness by Hexnut Studios",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/15 00:42",
+         "URL": "https://hexnut-studios.itch.io/final-witness",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk3MzA4MS8yOTc2NjQ1Mi5wbmc=/347x500/MWWSMh.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ImageUpscale AI Pro",
          "Informacion": "Transforme fotograf\u00edas de baja resoluci\u00f3n en im\u00e1genes n\u00edtidas y de alta definici\u00f3n con ImageUpscale AI, la aplicaci\u00f3n de escritorio definitiva para mejorar im\u00e1genes con IA de calidad profesional. Impulsado por un motor C++/C# de alto rendimiento, este software liviano utiliza redes neuronales avanzadas para reconstruir texturas finas y detalles en una escala de hasta 8x, sin la sobrecarga ni la curva de aprendizaje de los editores gr\u00e1ficos complejos.",
          "Desde": "",
@@ -309,6 +299,16 @@
          "URL": "https://sharewareonsale.com/s/free-imageupscale-ai-pro-100-discount",
          "IMG": "https:/wp-content/uploads/2026/09/ImageUpscaleAI.png?9848",
          "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "DEPRIVED: The house by HESNAIPER",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/15 08:00",
+         "URL": "https://hesnaiper.itch.io/deprived-the-house",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDk0NDY4Ny8yOTU3OTg0Mi5wbmc=/347x500/iwIi0J.png",
+         "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
       {
@@ -552,6 +552,56 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "RE: Evil Lurks by MAL98s",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/19 02:19",
+         "URL": "https://mal98s.itch.io/evil-lurks",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDQ5MjU4My8yNjc4Mzc2MS5qcGc=/347x500/d8Ry1A.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Allavsoft Downloader",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/19 07:00",
+         "URL": "https://sharewareonsale.com/s/free-allavsoft-downloader-100-discount",
+         "IMG": "https:/wp-content/uploads/2017/01/screen-shot-600-200x141.jpg?9848",
+         "Distribuidora": "SharewareOnSale",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Space Adventure - 2D Sci-Fi Exploration Game by Ahsan Makes Games",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/19 08:13",
+         "URL": "https://ahsanmakesgames.itch.io/space-adventure",
+         "IMG": "https://img.itch.zone/aW1hZ2UvMzA5Mjc1OS8xODQ5Mjk2Ni5wbmc=/347x500/ftqiSW.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Allavsoft Downloader for Mac (100% Discount) 2026",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/19 14:00",
+         "URL": "https://giveaway.tickcoupon.com/allavsoft-for-mac-free-key/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2024/05/allavsoft-downloader-for-mac-boxshot.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Allavsoft Video Downloader (100% Discount) 2026",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/19 14:00",
+         "URL": "https://giveaway.tickcoupon.com/allavsoft-free-license-key-lifetime/",
+         "IMG": "https://giveaway.tickcoupon.com/wp-content/uploads/2020/03/Allavsoft.png",
+         "Distribuidora": "Tickcoupon Giveaway",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "Rogeria Escape by ROGER (Xander-X)",
          "Informacion": "El juego \"Rogeria Escape\" es la historia de un soldado estadounidense llamado Roger, enviado en misiones secretas todos los d\u00edas de trabajo. Las misiones m\u00e1s secretas del ej\u00e9rcito americano. \u00bfEst\u00e1 listo, se\u00f1or Roger?",
          "Desde": "",
@@ -568,6 +618,16 @@
          "Hasta": "2026/09/19 19:26",
          "URL": "https://tokiogames.itch.io/hitman2",
          "IMG": "https://img.itch.zone/aW1hZ2UvMzQ0OTUyNC8yMDY3Njc3Ni5wbmc=/347x500/%2ByB32P.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "The Kirana Store Anomaly [DEMO] by Madlab Games",
+         "Informacion": "",
+         "Desde": "",
+         "Hasta": "2026/09/20 08:06",
+         "URL": "https://madlab-games.itch.io/the-kirana-store-anomaly",
+         "IMG": "https://img.itch.zone/aW1nLzI4NzE3Njc1LnBuZw==/347x500/1rIbEf.png",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
@@ -1002,6 +1062,16 @@
          "Borde": "border-color: #00ff00;"
       },
       {
+         "Nombre": "Dead Yard by FroggyDev",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/09/30 19:34",
+         "URL": "https://froggfrogg.itch.io/dead-yard",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDMzMDUwNS8yNTg2MzUyNy5wbmc=/347x500/wbn3h4.png",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
          "Nombre": "ChoronosCityA\u00c4\u00b0Detective by GameBuegar",
          "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
          "Desde": "",
@@ -1048,6 +1118,16 @@
          "Hasta": "2026/10/01 00:00",
          "URL": "https://thehandcrafter.itch.io/floor-unknown",
          "IMG": "https://img.itch.zone/aW1hZ2UvMTk1NTE3Ny8yMTI0MzUyNy5qcGc=/347x500/sH6a0B.jpg",
+         "Distribuidora": "Itch io",
+         "Borde": "border-color: #00ff00;"
+      },
+      {
+         "Nombre": "Grandfather's Story by GiulioPazzo",
+         "Informacion": "Error 500 (Server Error)!!1500.That\u2019s an error.There was an error. Please try again later.That\u2019s all we know.",
+         "Desde": "",
+         "Hasta": "2026/10/01 11:52",
+         "URL": "https://giuliopazzo.itch.io/grandfatherstory",
+         "IMG": "https://img.itch.zone/aW1hZ2UvNDkxMDE4My8yOTQ4NzYwNi5qcGc=/347x500/5VsAtV.jpg",
          "Distribuidora": "Itch io",
          "Borde": "border-color: #00ff00;"
       },
